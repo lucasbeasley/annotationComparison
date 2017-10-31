@@ -1,0 +1,398 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm
+0	11	GO:0005488	DNA binding	binding
+4	11	GO:0005488	binding	binding
+128	143	GO:0008152	DNA replication	metabolic process
+128	143	GO:0009987	DNA replication	cellular process
+186	203	GO:0005215	ATPase activities	transporter activity
+186	203	GO:0003824	ATPase activities	catalytic activity
+519	521	GO:0065007	to	biological regulation
+519	521	GO:0009987	to	cellular process
+1088	1107	GO:0009987	Strand displacement	cellular process
+1088	1107	GO:0008152	Strand displacement	metabolic process
+1201	1203	GO:0065007	to	biological regulation
+1201	1203	GO:0009987	to	cellular process
+1688	1706	GO:0005488	nucleotide binding	binding
+1699	1706	GO:0005488	binding	binding
+1708	1719	GO:0005488	DNA binding	binding
+1712	1719	GO:0005488	binding	binding
+1724	1727	GO:0003824	ATP	catalytic activity
+1811	1813	GO:0065007	to	biological regulation
+1811	1813	GO:0009987	to	cellular process
+1881	1883	GO:0065007	to	biological regulation
+1881	1883	GO:0009987	to	cellular process
+2174	2182	GO:0003824	proteins	catalytic activity
+2211	2219	GO:0003824	proteins	catalytic activity
+2245	2258	GO:0065007	DNA-dependent	biological regulation
+2245	2258	GO:0009987	DNA-dependent	cellular process
+2245	2258	GO:0008152	DNA-dependent	metabolic process
+2355	2363	GO:0003824	proteins	catalytic activity
+2419	2421	GO:0065007	to	biological regulation
+2419	2421	GO:0009987	to	cellular process
+2443	2464	GO:0003824	DNA helicase activity	catalytic activity
+2447	2464	GO:0003824	helicase activity	catalytic activity
+2506	2514	GO:0003824	proteins	catalytic activity
+2542	2544	GO:0065007	to	biological regulation
+2542	2544	GO:0009987	to	cellular process
+2549	2566	GO:0003824	helicase activity	catalytic activity
+2603	2620	GO:0003824	helicase activity	catalytic activity
+2749	2758	GO:0044464	Chromatin	cell part
+2749	2758	GO:0044422	Chromatin	organelle part
+3212	3214	GO:0065007	to	biological regulation
+3212	3214	GO:0009987	to	cellular process
+3248	3251	GO:0003824	ATP	catalytic activity
+3681	3683	GO:0065007	to	biological regulation
+3681	3683	GO:0009987	to	cellular process
+3782	3799	GO:0044464	replication forks	cell part
+3782	3799	GO:0044422	replication forks	organelle part
+3868	3879	GO:0005488	DNA binding	binding
+3872	3879	GO:0005488	binding	binding
+4255	4257	GO:0065007	to	biological regulation
+4255	4257	GO:0009987	to	cellular process
+4340	4342	GO:0065007	to	biological regulation
+4340	4342	GO:0009987	to	cellular process
+4891	4899	GO:0044421	antibody	extraccellular region part
+4891	4899	GO:0032991	antibody	macromolecular complex
+5004	5009	GO:0005623	cells	cell
+5042	5049	GO:0003824	protein	catalytic activity
+5410	5418	GO:0003824	proteins	catalytic activity
+5476	5481	GO:0005623	cells	cell
+5634	5642	GO:0003824	proteins	catalytic activity
+5654	5659	GO:0005623	cells	cell
+5737	5745	GO:0003824	proteins	catalytic activity
+6527	6529	GO:0065007	To	biological regulation
+6527	6529	GO:0009987	To	cellular process
+6910	6912	GO:0065007	to	biological regulation
+6910	6912	GO:0009987	to	cellular process
+6935	6937	GO:0065007	to	biological regulation
+6935	6937	GO:0009987	to	cellular process
+7232	7234	GO:0065007	to	biological regulation
+7232	7234	GO:0009987	to	cellular process
+7280	7282	GO:0065007	to	biological regulation
+7280	7282	GO:0009987	to	cellular process
+7300	7302	GO:0065007	to	biological regulation
+7300	7302	GO:0009987	to	cellular process
+7385	7387	GO:0065007	to	biological regulation
+7385	7387	GO:0009987	to	cellular process
+8675	8683	GO:0003824	proteins	catalytic activity
+8859	8862	GO:0003824	ATP	catalytic activity
+9854	9862	GO:0003824	proteins	catalytic activity
+10206	10213	GO:0005488	binding	binding
+10578	10586	GO:0003824	Proteins	catalytic activity
+10660	10667	GO:0008152	ethanol	metabolic process
+10660	10667	GO:0009987	ethanol	cellular process
+10708	10715	GO:0008152	ethanol	metabolic process
+10708	10715	GO:0009987	ethanol	cellular process
+10748	10750	GO:0065007	to	biological regulation
+10748	10750	GO:0009987	to	cellular process
+10852	10854	GO:0065007	to	biological regulation
+10852	10854	GO:0009987	to	cellular process
+10961	10963	GO:0065007	to	biological regulation
+10961	10963	GO:0009987	to	cellular process
+11126	11133	GO:0005488	binding	binding
+11292	11299	GO:0005488	binding	binding
+11300	11302	GO:0065007	to	biological regulation
+11300	11302	GO:0009987	to	cellular process
+11300	11302	GO:0065007	to	biological regulation
+11300	11302	GO:0009987	to	cellular process
+11300	11302	GO:0065007	to	biological regulation
+11300	11302	GO:0009987	to	cellular process
+11600	11602	GO:0065007	to	biological regulation
+11600	11602	GO:0009987	to	cellular process
+12120	12127	GO:0005488	binding	binding
+12128	12130	GO:0065007	to	biological regulation
+12128	12130	GO:0009987	to	cellular process
+12280	12282	GO:0065007	to	biological regulation
+12280	12282	GO:0009987	to	cellular process
+12397	12399	GO:0065007	to	biological regulation
+12397	12399	GO:0009987	to	cellular process
+12509	12511	GO:0065007	to	biological regulation
+12509	12511	GO:0009987	to	cellular process
+12558	12560	GO:0065007	to	biological regulation
+12558	12560	GO:0009987	to	cellular process
+12945	12952	GO:0005488	binding	binding
+12965	12974	GO:0032501	digestion	multicellular organismal process
+13013	13020	GO:0003824	protein	catalytic activity
+13157	13173	GO:0044464	replication fork	cell part
+13157	13173	GO:0044422	replication fork	organelle part
+13174	13183	GO:0008152	Formation	metabolic process
+13515	13517	GO:0065007	to	biological regulation
+13515	13517	GO:0009987	to	cellular process
+13553	13555	GO:0065007	to	biological regulation
+13553	13555	GO:0009987	to	cellular process
+13818	13820	GO:0065007	to	biological regulation
+13818	13820	GO:0009987	to	cellular process
+13874	13883	GO:0008152	formation	metabolic process
+14062	14069	GO:0005488	binding	binding
+14074	14093	GO:0003824	helicase activities	catalytic activity
+14245	14247	GO:0065007	to	biological regulation
+14245	14247	GO:0009987	to	cellular process
+14262	14271	GO:0008152	formation	metabolic process
+14325	14336	GO:0005488	DNA binding	binding
+14329	14336	GO:0005488	binding	binding
+14435	14438	GO:0003824	ATP	catalytic activity
+14439	14441	GO:0065007	to	biological regulation
+14439	14441	GO:0009987	to	cellular process
+14450	14471	GO:0003824	DNA helicase activity	catalytic activity
+14454	14471	GO:0003824	helicase activity	catalytic activity
+14756	14758	GO:0065007	to	biological regulation
+14756	14758	GO:0009987	to	cellular process
+15176	15193	GO:0003824	helicase activity	catalytic activity
+15339	15341	GO:0065007	to	biological regulation
+15339	15341	GO:0009987	to	cellular process
+15897	15904	GO:0005488	binding	binding
+15936	15938	GO:0065007	to	biological regulation
+15936	15938	GO:0009987	to	cellular process
+16563	16565	GO:0065007	to	biological regulation
+16563	16565	GO:0009987	to	cellular process
+16616	16618	GO:0065007	to	biological regulation
+16616	16618	GO:0009987	to	cellular process
+16724	16726	GO:0065007	to	biological regulation
+16724	16726	GO:0009987	to	cellular process
+16765	16767	GO:0065007	to	biological regulation
+16765	16767	GO:0009987	to	cellular process
+17306	17313	GO:0005488	Binding	binding
+17400	17402	GO:0065007	to	biological regulation
+17400	17402	GO:0009987	to	cellular process
+17709	17711	GO:0065007	to	biological regulation
+17709	17711	GO:0009987	to	cellular process
+17759	17761	GO:0065007	to	biological regulation
+17759	17761	GO:0009987	to	cellular process
+17871	17873	GO:0065007	to	biological regulation
+17871	17873	GO:0009987	to	cellular process
+17907	17909	GO:0065007	to	biological regulation
+17907	17909	GO:0009987	to	cellular process
+17974	17976	GO:0065007	to	biological regulation
+17974	17976	GO:0009987	to	cellular process
+18029	18036	GO:0009987	reduced	cellular process
+18029	18036	GO:0008152	reduced	metabolic process
+18029	18036	GO:0005215	reduced	transporter activity
+18029	18036	GO:0051234	reduced	establishment of localization
+18055	18057	GO:0065007	to	biological regulation
+18055	18057	GO:0009987	to	cellular process
+18112	18114	GO:0065007	to	biological regulation
+18112	18114	GO:0009987	to	cellular process
+18181	18183	GO:0065007	to	biological regulation
+18181	18183	GO:0009987	to	cellular process
+18181	18183	GO:0065007	to	biological regulation
+18181	18183	GO:0009987	to	cellular process
+18707	18722	GO:0005215	ATPase activity	transporter activity
+18707	18722	GO:0003824	ATPase activity	catalytic activity
+19047	19049	GO:0065007	to	biological regulation
+19047	19049	GO:0009987	to	cellular process
+19479	19481	GO:0065007	to	biological regulation
+19479	19481	GO:0009987	to	cellular process
+19579	19581	GO:0065007	to	biological regulation
+19579	19581	GO:0009987	to	cellular process
+19638	19640	GO:0065007	to	biological regulation
+19638	19640	GO:0009987	to	cellular process
+19760	19762	GO:0065007	to	biological regulation
+19760	19762	GO:0009987	to	cellular process
+19800	19802	GO:0065007	to	biological regulation
+19800	19802	GO:0009987	to	cellular process
+20020	20022	GO:0065007	to	biological regulation
+20020	20022	GO:0009987	to	cellular process
+20020	20022	GO:0065007	to	biological regulation
+20020	20022	GO:0009987	to	cellular process
+20020	20022	GO:0065007	to	biological regulation
+20020	20022	GO:0009987	to	cellular process
+20625	20642	GO:0003824	helicase activity	catalytic activity
+20760	20777	GO:0003824	helicase activity	catalytic activity
+21030	21032	GO:0065007	to	biological regulation
+21030	21032	GO:0009987	to	cellular process
+21164	21181	GO:0003824	helicase activity	catalytic activity
+21164	21181	GO:0003824	helicase activity	catalytic activity
+21878	21880	GO:0065007	to	biological regulation
+21878	21880	GO:0009987	to	cellular process
+22036	22038	GO:0065007	to	biological regulation
+22036	22038	GO:0009987	to	cellular process
+22058	22060	GO:0065007	to	biological regulation
+22058	22060	GO:0009987	to	cellular process
+22205	22207	GO:0065007	to	biological regulation
+22205	22207	GO:0009987	to	cellular process
+22895	22903	GO:0003824	guanines	catalytic activity
+22956	22958	GO:0065007	to	biological regulation
+22956	22958	GO:0009987	to	cellular process
+23049	23051	GO:0065007	to	biological regulation
+23049	23051	GO:0009987	to	cellular process
+23191	23204	GO:0009987	DNA unwinding	cellular process
+23283	23285	GO:0065007	to	biological regulation
+23283	23285	GO:0009987	to	cellular process
+23551	23558	GO:0009987	reduced	cellular process
+23551	23558	GO:0008152	reduced	metabolic process
+23551	23558	GO:0005215	reduced	transporter activity
+23551	23558	GO:0051234	reduced	establishment of localization
+23570	23572	GO:0065007	to	biological regulation
+23570	23572	GO:0009987	to	cellular process
+23809	23811	GO:0065007	to	biological regulation
+23809	23811	GO:0009987	to	cellular process
+23924	23926	GO:0065007	to	biological regulation
+23924	23926	GO:0009987	to	cellular process
+24136	24138	GO:0065007	to	biological regulation
+24136	24138	GO:0009987	to	cellular process
+24184	24186	GO:0065007	to	biological regulation
+24184	24186	GO:0009987	to	cellular process
+24312	24323	GO:0005488	DNA binding	binding
+24316	24323	GO:0005488	binding	binding
+24434	24441	GO:0003824	guanine	catalytic activity
+24448	24450	GO:0065007	to	biological regulation
+24448	24450	GO:0009987	to	cellular process
+24519	24532	GO:0009987	DNA unwinding	cellular process
+24951	24953	GO:0065007	To	biological regulation
+24951	24953	GO:0009987	To	cellular process
+25123	25125	GO:0065007	to	biological regulation
+25123	25125	GO:0009987	to	cellular process
+25198	25200	GO:0065007	to	biological regulation
+25198	25200	GO:0009987	to	cellular process
+25313	25315	GO:0065007	to	biological regulation
+25313	25315	GO:0009987	to	cellular process
+26213	26215	GO:0065007	to	biological regulation
+26213	26215	GO:0009987	to	cellular process
+26673	26680	GO:0009987	reduced	cellular process
+26673	26680	GO:0008152	reduced	metabolic process
+26673	26680	GO:0005215	reduced	transporter activity
+26673	26680	GO:0051234	reduced	establishment of localization
+26843	26845	GO:0065007	to	biological regulation
+26843	26845	GO:0009987	to	cellular process
+27096	27098	GO:0065007	to	biological regulation
+27096	27098	GO:0009987	to	cellular process
+27282	27291	GO:0003824	guanosine	catalytic activity
+27402	27404	GO:0065007	to	biological regulation
+27402	27404	GO:0009987	to	cellular process
+27976	27978	GO:0065007	to	biological regulation
+27976	27978	GO:0009987	to	cellular process
+28059	28076	GO:0044464	replication forks	cell part
+28059	28076	GO:0044422	replication forks	organelle part
+28339	28354	GO:0008152	DNA replication	metabolic process
+28339	28354	GO:0009987	DNA replication	cellular process
+28500	28507	GO:0005488	binding	binding
+28618	28625	GO:0005488	binding	binding
+28697	28712	GO:0008152	DNA replication	metabolic process
+28697	28712	GO:0009987	DNA replication	cellular process
+28816	28833	GO:0044464	replication forks	cell part
+28816	28833	GO:0044422	replication forks	organelle part
+28882	28889	GO:0005488	binding	binding
+28962	28964	GO:0065007	to	biological regulation
+28962	28964	GO:0009987	to	cellular process
+29064	29066	GO:0065007	to	biological regulation
+29064	29066	GO:0009987	to	cellular process
+29669	29676	GO:0003824	protein	catalytic activity
+29845	29852	GO:0009987	reduced	cellular process
+29845	29852	GO:0008152	reduced	metabolic process
+29845	29852	GO:0005215	reduced	transporter activity
+29845	29852	GO:0051234	reduced	establishment of localization
+29961	29963	GO:0065007	to	biological regulation
+29961	29963	GO:0009987	to	cellular process
+29995	29997	GO:0065007	to	biological regulation
+29995	29997	GO:0009987	to	cellular process
+30082	30084	GO:0065007	to	biological regulation
+30082	30084	GO:0009987	to	cellular process
+30165	30167	GO:0065007	to	biological regulation
+30165	30167	GO:0009987	to	cellular process
+30516	30523	GO:0005488	binding	binding
+30583	30585	GO:0065007	to	biological regulation
+30583	30585	GO:0009987	to	cellular process
+31008	31019	GO:0005488	DNA binding	binding
+31012	31019	GO:0005488	binding	binding
+31056	31058	GO:0065007	to	biological regulation
+31056	31058	GO:0009987	to	cellular process
+31225	31238	GO:0009987	translocation	cellular process
+31225	31238	GO:0065007	translocation	biological regulation
+31225	31238	GO:0051234	translocation	establishment of localization
+31270	31272	GO:0065007	to	biological regulation
+31270	31272	GO:0009987	to	cellular process
+31618	31620	GO:0065007	to	biological regulation
+31618	31620	GO:0009987	to	cellular process
+31836	31838	GO:0065007	to	biological regulation
+31836	31838	GO:0009987	to	cellular process
+32144	32146	GO:0065007	to	biological regulation
+32144	32146	GO:0009987	to	cellular process
+32226	32241	GO:0008152	DNA replication	metabolic process
+32226	32241	GO:0009987	DNA replication	cellular process
+32259	32261	GO:0065007	to	biological regulation
+32259	32261	GO:0009987	to	cellular process
+32326	32328	GO:0065007	to	biological regulation
+32326	32328	GO:0009987	to	cellular process
+32502	32517	GO:0008152	DNA replication	metabolic process
+32502	32517	GO:0009987	DNA replication	cellular process
+32666	32683	GO:0003824	helicase activity	catalytic activity
+32771	32788	GO:0003824	helicase activity	catalytic activity
+32877	32879	GO:0065007	to	biological regulation
+32877	32879	GO:0009987	to	cellular process
+33209	33216	GO:0005488	binding	binding
+33763	33777	GO:0009987	site selection	cellular process
+33796	33811	GO:0008152	DNA replication	metabolic process
+33796	33811	GO:0009987	DNA replication	cellular process
+33845	33849	GO:0005623	cell	cell
+33972	33976	GO:0005623	cell	cell
+34143	34145	GO:0065007	to	biological regulation
+34143	34145	GO:0009987	to	cellular process
+34326	34343	GO:0003824	helicase activity	catalytic activity
+34455	34463	GO:0005488	template	binding
+34699	34701	GO:0065007	to	biological regulation
+34699	34701	GO:0009987	to	cellular process
+34747	34749	GO:0065007	to	biological regulation
+34747	34749	GO:0009987	to	cellular process
+34839	34847	GO:0005488	template	binding
+35165	35173	GO:0005488	template	binding
+35363	35365	GO:0065007	to	biological regulation
+35363	35365	GO:0009987	to	cellular process
+35599	35608	GO:0003824	guanosine	catalytic activity
+35856	35858	GO:0065007	to	biological regulation
+35856	35858	GO:0009987	to	cellular process
+36020	36022	GO:0065007	to	biological regulation
+36020	36022	GO:0009987	to	cellular process
+36105	36120	GO:0008152	DNA replication	metabolic process
+36105	36120	GO:0009987	DNA replication	cellular process
+36329	36344	GO:0008152	DNA replication	metabolic process
+36329	36344	GO:0009987	DNA replication	cellular process
+36362	36364	GO:0065007	to	biological regulation
+36362	36364	GO:0009987	to	cellular process
+36832	36839	GO:0005488	binding	binding
+36885	36894	GO:0044422	chromatin	organelle part
+36885	36894	GO:0044464	chromatin	cell part
+37058	37066	GO:0003824	proteins	catalytic activity
+37100	37115	GO:0009987	phosphorylation	cellular process
+37100	37115	GO:0008152	phosphorylation	metabolic process
+37200	37217	GO:0003824	helicase activity	catalytic activity
+37378	37395	GO:0044464	replication forks	cell part
+37378	37395	GO:0044422	replication forks	organelle part
+37480	37495	GO:0008152	DNA replication	metabolic process
+37480	37495	GO:0009987	DNA replication	cellular process
+37484	37501	GO:0044464	replication forks	cell part
+37484	37501	GO:0044422	replication forks	organelle part
+37564	37572	GO:0003824	proteins	catalytic activity
+37686	37688	GO:0065007	to	biological regulation
+37686	37688	GO:0009987	to	cellular process
+37944	37946	GO:0065007	to	biological regulation
+37944	37946	GO:0009987	to	cellular process
+38142	38144	GO:0065007	to	biological regulation
+38142	38144	GO:0009987	to	cellular process
+38352	38359	GO:0005488	binding	binding
+38372	38379	GO:0003824	protein	catalytic activity
+38380	38382	GO:0065007	to	biological regulation
+38380	38382	GO:0009987	to	cellular process
+38628	38635	GO:0003824	protein	catalytic activity
+38880	38887	GO:0003824	protein	catalytic activity
+39470	39477	GO:0005488	binding	binding
+39696	39703	GO:0005488	Binding	binding
+40040	40047	GO:0003824	protein	catalytic activity
+40347	40364	GO:0003824	helicase activity	catalytic activity
+40711	40718	GO:0003824	protein	catalytic activity
+40979	40990	GO:0005488	DNA binding	binding
+40983	40990	GO:0005488	binding	binding
+41818	41829	GO:0005488	DNA binding	binding
+41822	41829	GO:0005488	binding	binding
+41822	41833	GO:0005488	DNA binding	binding
+41822	41829	GO:0005488	binding	binding
+43468	43479	GO:0005488	DNA binding	binding
+43472	43479	GO:0005488	binding	binding
+44068	44075	GO:0003824	protein	catalytic activity
+44135	44142	GO:0003824	protein	catalytic activity
+44393	44400	GO:0003824	protein	catalytic activity
+44474	44481	GO:0003824	protein	catalytic activity
+44660	44663	GO:0023046	red	signaling process
+44660	44663	GO:0050896	red	response to stimulus
+44660	44663	GO:0009987	red	cellular process
+44660	44663	GO:0065007	red	biological regulation
+44797	44799	GO:0065007	to	biological regulation
+44797	44799	GO:0009987	to	cellular process

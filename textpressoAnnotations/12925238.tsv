@@ -1,0 +1,978 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm
+25	37	GO:0051179	localization	localization
+69	72	GO:0023046	red	signaling process
+69	72	GO:0050896	red	response to stimulus
+69	72	GO:0009987	red	cellular process
+69	72	GO:0065007	red	biological regulation
+79	84	GO:0005623	cells	cell
+199	206	GO:0003824	protein	catalytic activity
+262	264	GO:0065007	to	biological regulation
+262	264	GO:0009987	to	cellular process
+280	288	GO:0044464	membrane	cell part
+280	295	GO:0016043	membrane fusion	cellular component organization
+393	395	GO:0065007	to	biological regulation
+393	395	GO:0009987	to	cellular process
+452	459	GO:0043226	vesicle	organelle
+490	493	GO:0023046	red	signaling process
+490	493	GO:0050896	red	response to stimulus
+490	493	GO:0009987	red	cellular process
+490	493	GO:0065007	red	biological regulation
+500	505	GO:0005623	cells	cell
+619	622	GO:0023046	red	signaling process
+619	622	GO:0050896	red	response to stimulus
+619	622	GO:0009987	red	cellular process
+619	622	GO:0065007	red	biological regulation
+629	634	GO:0005623	cells	cell
+767	775	GO:0044464	membrane	cell part
+767	788	GO:0016043	membrane organization	cellular component organization
+802	804	GO:0065007	to	biological regulation
+802	804	GO:0009987	to	cellular process
+802	804	GO:0065007	to	biological regulation
+802	804	GO:0009987	to	cellular process
+914	918	GO:0005623	cell	cell
+961	964	GO:0023046	red	signaling process
+961	964	GO:0050896	red	response to stimulus
+961	964	GO:0009987	red	cellular process
+961	964	GO:0065007	red	biological regulation
+971	976	GO:0005623	cells	cell
+1032	1037	GO:0005623	cells	cell
+1051	1053	GO:0065007	to	biological regulation
+1051	1053	GO:0009987	to	cellular process
+1105	1107	GO:0065007	to	biological regulation
+1105	1107	GO:0009987	to	cellular process
+1179	1181	GO:0065007	to	biological regulation
+1179	1181	GO:0009987	to	cellular process
+1226	1234	GO:0044464	membrane	cell part
+1226	1241	GO:0016043	membrane fusion	cellular component organization
+1265	1268	GO:0023046	red	signaling process
+1265	1268	GO:0050896	red	response to stimulus
+1265	1268	GO:0009987	red	cellular process
+1265	1268	GO:0065007	red	biological regulation
+1275	1280	GO:0005623	cells	cell
+1294	1301	GO:0003824	protein	catalytic activity
+1347	1355	GO:0044464	membrane	cell part
+1356	1368	GO:0043226	cytoskeleton	organelle
+1356	1368	GO:0044464	cytoskeleton	cell part
+1370	1373	GO:0065007	Red	biological regulation
+1370	1373	GO:0009987	Red	cellular process
+1370	1373	GO:0050896	Red	response to stimulus
+1370	1373	GO:0023046	Red	signaling process
+1380	1385	GO:0005623	cells	cell
+1421	1423	GO:0065007	to	biological regulation
+1421	1423	GO:0009987	to	cellular process
+1456	1474	GO:0009987	cellular processes	cellular process
+1550	1553	GO:0023046	red	signaling process
+1550	1553	GO:0050896	red	response to stimulus
+1550	1553	GO:0009987	red	cellular process
+1550	1553	GO:0065007	red	biological regulation
+1560	1565	GO:0005623	cells	cell
+1626	1630	GO:0005623	cell	cell
+1774	1782	GO:0044464	membrane	cell part
+1774	1789	GO:0016043	membrane fusion	cellular component organization
+1809	1813	GO:0005623	cell	cell
+1877	1884	GO:0003824	protein	catalytic activity
+1947	1966	GO:0044464	chromaffin granules	cell part
+1947	1966	GO:0043226	chromaffin granules	organelle
+1994	2003	GO:0044464	membranes	cell part
+2047	2049	GO:0065007	to	biological regulation
+2047	2049	GO:0009987	to	cellular process
+2109	2118	GO:0051234	secretion	establishment of localization
+2146	2153	GO:0003824	protein	catalytic activity
+2162	2164	GO:0065007	to	biological regulation
+2162	2164	GO:0009987	to	cellular process
+2202	2210	GO:0003824	proteins	catalytic activity
+2405	2407	GO:0065007	to	biological regulation
+2405	2407	GO:0009987	to	cellular process
+2447	2454	GO:0005488	binding	binding
+2455	2457	GO:0065007	to	biological regulation
+2455	2457	GO:0009987	to	cellular process
+2502	2504	GO:0065007	to	biological regulation
+2502	2504	GO:0009987	to	cellular process
+2689	2691	GO:0065007	to	biological regulation
+2689	2691	GO:0009987	to	cellular process
+3045	3052	GO:0044464	cytosol	cell part
+3061	3076	GO:0044464	plasma membrane	cell part
+3068	3076	GO:0044464	membrane	cell part
+3089	3096	GO:0043226	nucleus	organelle
+3089	3096	GO:0044464	nucleus	cell part
+3140	3159	GO:0044464	chromaffin granules	cell part
+3140	3159	GO:0043226	chromaffin granules	organelle
+3219	3221	GO:0065007	to	biological regulation
+3219	3221	GO:0009987	to	cellular process
+3222	3231	GO:0044464	membranes	cell part
+3270	3283	GO:0044464	intracellular	cell part
+3270	3283	GO:0051179	intracellular	localization
+3270	3283	GO:0009987	intracellular	cellular process
+3329	3331	GO:0065007	to	biological regulation
+3329	3331	GO:0009987	to	cellular process
+3351	3367	GO:0044464	nuclear membrane	cell part
+3351	3367	GO:0044422	nuclear membrane	organelle part
+3359	3367	GO:0044464	membrane	cell part
+3379	3381	GO:0065007	to	biological regulation
+3379	3381	GO:0009987	to	cellular process
+3382	3395	GO:0044464	intracellular	cell part
+3382	3395	GO:0051179	intracellular	localization
+3382	3395	GO:0009987	intracellular	cellular process
+3396	3404	GO:0043226	vesicles	organelle
+3446	3457	GO:0044464	lipid rafts	cell part
+3463	3474	GO:0044464	Lipid rafts	cell part
+3494	3502	GO:0044464	membrane	cell part
+3494	3510	GO:0009987	membrane budding	cellular process
+3494	3510	GO:0016043	membrane budding	cellular component organization
+3559	3569	GO:0009987	exocytosis	cellular process
+3559	3569	GO:0051234	exocytosis	establishment of localization
+3581	3588	GO:0005488	binding	binding
+3690	3697	GO:0003824	protein	catalytic activity
+3710	3712	GO:0065007	to	biological regulation
+3710	3712	GO:0009987	to	cellular process
+3731	3738	GO:0003824	protein	catalytic activity
+3777	3779	GO:0065007	to	biological regulation
+3777	3779	GO:0009987	to	cellular process
+3780	3789	GO:0044464	membranes	cell part
+3894	3896	GO:0065007	to	biological regulation
+3894	3896	GO:0009987	to	cellular process
+4110	4117	GO:0005488	binding	binding
+4110	4117	GO:0005488	binding	binding
+4245	4247	GO:0065007	to	biological regulation
+4245	4247	GO:0009987	to	cellular process
+4302	4304	GO:0065007	to	biological regulation
+4302	4304	GO:0009987	to	cellular process
+4361	4369	GO:0003824	proteins	catalytic activity
+4375	4377	GO:0065007	to	biological regulation
+4375	4377	GO:0009987	to	cellular process
+4505	4512	GO:0003824	protein	catalytic activity
+4558	4571	GO:0005576	extracellular	extracellular region
+4558	4577	GO:0044421	extracellular space	extraccellular region part
+4586	4593	GO:0043226	nucleus	organelle
+4586	4593	GO:0044464	nucleus	cell part
+4598	4607	GO:0044464	cytoplasm	cell part
+4615	4627	GO:0044464	mitochondria	cell part
+4615	4627	GO:0043226	mitochondria	organelle
+4699	4712	GO:0044422	mitochondrial	organelle part
+4699	4712	GO:0032991	mitochondrial	macromolecular complex
+4699	4712	GO:0044464	mitochondrial	cell part
+4774	4787	GO:0009987	translocation	cellular process
+4774	4787	GO:0065007	translocation	biological regulation
+4774	4787	GO:0051234	translocation	establishment of localization
+4788	4790	GO:0065007	to	biological regulation
+4788	4790	GO:0009987	to	cellular process
+4795	4815	GO:0044422	perinuclear membrane	organelle part
+4795	4815	GO:0044464	perinuclear membrane	cell part
+4807	4815	GO:0044464	membrane	cell part
+4841	4850	GO:0051234	secretion	establishment of localization
+4902	4911	GO:0016265	apoptosis	death
+4902	4911	GO:0009987	apoptosis	cellular process
+4928	4941	GO:0044422	mitochondrial	organelle part
+4928	4941	GO:0032991	mitochondrial	macromolecular complex
+4928	4941	GO:0044464	mitochondrial	cell part
+5020	5022	GO:0065007	to	biological regulation
+5020	5022	GO:0009987	to	cellular process
+5066	5074	GO:0044464	membrane	cell part
+5087	5089	GO:0065007	to	biological regulation
+5087	5089	GO:0009987	to	cellular process
+5141	5150	GO:0023052	signaling	signaling
+5141	5159	GO:0023052	signaling pathways	signaling
+5431	5448	GO:0009987	insulin secretion	cellular process
+5431	5448	GO:0023046	insulin secretion	signaling process
+5431	5448	GO:0051234	insulin secretion	establishment of localization
+5431	5448	GO:0065007	insulin secretion	biological regulation
+5439	5448	GO:0051234	secretion	establishment of localization
+5556	5573	GO:0009987	insulin secretion	cellular process
+5556	5573	GO:0023046	insulin secretion	signaling process
+5556	5573	GO:0051234	insulin secretion	establishment of localization
+5556	5573	GO:0065007	insulin secretion	biological regulation
+5564	5573	GO:0051234	secretion	establishment of localization
+5730	5733	GO:0023046	red	signaling process
+5730	5733	GO:0050896	red	response to stimulus
+5730	5733	GO:0009987	red	cellular process
+5730	5733	GO:0065007	red	biological regulation
+5740	5745	GO:0005623	cells	cell
+5795	5798	GO:0023046	red	signaling process
+5795	5798	GO:0050896	red	response to stimulus
+5795	5798	GO:0009987	red	cellular process
+5795	5798	GO:0065007	red	biological regulation
+5805	5810	GO:0005623	cells	cell
+5842	5844	GO:0065007	to	biological regulation
+5842	5844	GO:0009987	to	cellular process
+5935	5938	GO:0023046	red	signaling process
+5935	5938	GO:0050896	red	response to stimulus
+5935	5938	GO:0009987	red	cellular process
+5935	5938	GO:0065007	red	biological regulation
+5945	5950	GO:0005623	cells	cell
+5955	5958	GO:0065007	Red	biological regulation
+5955	5958	GO:0009987	Red	cellular process
+5955	5958	GO:0050896	Red	response to stimulus
+5955	5958	GO:0023046	Red	signaling process
+5965	5970	GO:0005623	cells	cell
+6036	6038	GO:0065007	to	biological regulation
+6036	6038	GO:0009987	to	cellular process
+6210	6212	GO:0065007	to	biological regulation
+6210	6212	GO:0009987	to	cellular process
+6250	6253	GO:0023046	red	signaling process
+6250	6253	GO:0050896	red	response to stimulus
+6250	6253	GO:0009987	red	cellular process
+6250	6253	GO:0065007	red	biological regulation
+6260	6264	GO:0005623	cell	cell
+6321	6324	GO:0065007	Red	biological regulation
+6321	6324	GO:0009987	Red	cellular process
+6321	6324	GO:0050896	Red	response to stimulus
+6321	6324	GO:0023046	Red	signaling process
+6331	6336	GO:0005623	cells	cell
+6360	6362	GO:0065007	to	biological regulation
+6360	6362	GO:0009987	to	cellular process
+6395	6398	GO:0023046	red	signaling process
+6395	6398	GO:0050896	red	response to stimulus
+6395	6398	GO:0009987	red	cellular process
+6395	6398	GO:0065007	red	biological regulation
+6405	6409	GO:0005623	cell	cell
+6473	6481	GO:0043226	vesicles	organelle
+6609	6619	GO:0044464	lipid raft	cell part
+6653	6661	GO:0003824	proteins	catalytic activity
+6689	6693	GO:0005623	cell	cell
+6689	6701	GO:0044464	cell surface	cell part
+6702	6710	GO:0003824	proteins	catalytic activity
+6752	6762	GO:0044464	lipid raft	cell part
+6763	6771	GO:0003824	proteins	catalytic activity
+6763	6770	GO:0003824	protein	catalytic activity
+6773	6775	GO:0065007	to	biological regulation
+6773	6775	GO:0009987	to	cellular process
+6904	6915	GO:0044464	lipid rafts	cell part
+6922	6930	GO:0003824	proteins	catalytic activity
+6956	6963	GO:0043226	vesicle	organelle
+6956	6973	GO:0016043	vesicle formation	cellular component organization
+6956	6973	GO:0009987	vesicle formation	cellular process
+6978	6987	GO:0008152	formation	metabolic process
+7033	7036	GO:0023046	red	signaling process
+7033	7036	GO:0050896	red	response to stimulus
+7033	7036	GO:0009987	red	cellular process
+7033	7036	GO:0065007	red	biological regulation
+7043	7047	GO:0005623	cell	cell
+7141	7149	GO:0044464	membrane	cell part
+7182	7185	GO:0023046	red	signaling process
+7182	7185	GO:0050896	red	response to stimulus
+7182	7185	GO:0009987	red	cellular process
+7182	7185	GO:0065007	red	biological regulation
+7192	7197	GO:0005623	cells	cell
+7199	7202	GO:0023046	red	signaling process
+7199	7202	GO:0050896	red	response to stimulus
+7199	7202	GO:0009987	red	cellular process
+7199	7202	GO:0065007	red	biological regulation
+7209	7213	GO:0005623	cell	cell
+7394	7397	GO:0023046	red	signaling process
+7394	7397	GO:0050896	red	response to stimulus
+7394	7397	GO:0009987	red	cellular process
+7394	7397	GO:0065007	red	biological regulation
+7404	7409	GO:0005623	cells	cell
+7471	7479	GO:0044464	membrane	cell part
+7471	7485	GO:0044464	membrane rafts	cell part
+7611	7614	GO:0023046	red	signaling process
+7611	7614	GO:0050896	red	response to stimulus
+7611	7614	GO:0009987	red	cellular process
+7611	7614	GO:0065007	red	biological regulation
+7621	7626	GO:0005623	cells	cell
+7939	7942	GO:0023046	red	signaling process
+7939	7942	GO:0050896	red	response to stimulus
+7939	7942	GO:0009987	red	cellular process
+7939	7942	GO:0065007	red	biological regulation
+7949	7954	GO:0005623	cells	cell
+7984	7991	GO:0003824	Protein	catalytic activity
+8150	8157	GO:0003824	coupled	catalytic activity
+8158	8166	GO:0044421	antibody	extraccellular region part
+8158	8166	GO:0032991	antibody	macromolecular complex
+8214	8217	GO:0023046	red	signaling process
+8214	8217	GO:0050896	red	response to stimulus
+8214	8217	GO:0009987	red	cellular process
+8214	8217	GO:0065007	red	biological regulation
+8224	8229	GO:0005623	cells	cell
+8294	8302	GO:0043226	vesicles	organelle
+8307	8309	GO:0065007	to	biological regulation
+8307	8309	GO:0009987	to	cellular process
+8384	8392	GO:0044464	membrane	cell part
+8384	8405	GO:0016043	membrane organization	cellular component organization
+8436	8438	GO:0065007	To	biological regulation
+8436	8438	GO:0009987	To	cellular process
+8480	8483	GO:0023046	red	signaling process
+8480	8483	GO:0050896	red	response to stimulus
+8480	8483	GO:0009987	red	cellular process
+8480	8483	GO:0065007	red	biological regulation
+8490	8495	GO:0005623	cells	cell
+8550	8552	GO:0065007	to	biological regulation
+8550	8552	GO:0009987	to	cellular process
+8641	8643	GO:0065007	to	biological regulation
+8641	8643	GO:0009987	to	cellular process
+8877	8894	GO:0003824	esterase activity	catalytic activity
+8954	8961	GO:0043226	vesicle	organelle
+9001	9008	GO:0043226	vesicle	organelle
+9157	9160	GO:0023046	red	signaling process
+9157	9160	GO:0050896	red	response to stimulus
+9157	9160	GO:0009987	red	cellular process
+9157	9160	GO:0065007	red	biological regulation
+9167	9171	GO:0005623	cell	cell
+9172	9180	GO:0043226	vesicles	organelle
+9348	9350	GO:0065007	to	biological regulation
+9348	9350	GO:0009987	to	cellular process
+9356	9365	GO:0044464	membranes	cell part
+9412	9421	GO:0008152	formation	metabolic process
+9425	9428	GO:0023046	red	signaling process
+9425	9428	GO:0050896	red	response to stimulus
+9425	9428	GO:0009987	red	cellular process
+9425	9428	GO:0065007	red	biological regulation
+9435	9439	GO:0005623	cell	cell
+9443	9451	GO:0043226	vesicles	organelle
+9565	9572	GO:0009987	reduced	cellular process
+9565	9572	GO:0008152	reduced	metabolic process
+9565	9572	GO:0005215	reduced	transporter activity
+9565	9572	GO:0051234	reduced	establishment of localization
+9681	9684	GO:0023046	red	signaling process
+9681	9684	GO:0050896	red	response to stimulus
+9681	9684	GO:0009987	red	cellular process
+9681	9684	GO:0065007	red	biological regulation
+9691	9696	GO:0005623	cells	cell
+9698	9706	GO:0043226	Vesicles	organelle
+9910	9918	GO:0044421	antibody	extraccellular region part
+9910	9918	GO:0032991	antibody	macromolecular complex
+9979	9987	GO:0043226	vesicles	organelle
+10122	10124	GO:0065007	to	biological regulation
+10122	10124	GO:0009987	to	cellular process
+10145	10162	GO:0003824	esterase activity	catalytic activity
+10170	10173	GO:0023046	red	signaling process
+10170	10173	GO:0050896	red	response to stimulus
+10170	10173	GO:0009987	red	cellular process
+10170	10173	GO:0065007	red	biological regulation
+10180	10185	GO:0005623	cells	cell
+10242	10244	GO:0065007	To	biological regulation
+10242	10244	GO:0009987	To	cellular process
+10285	10288	GO:0023046	red	signaling process
+10285	10288	GO:0050896	red	response to stimulus
+10285	10288	GO:0009987	red	cellular process
+10285	10288	GO:0065007	red	biological regulation
+10295	10300	GO:0005623	cells	cell
+10385	10392	GO:0032991	soluble	macromolecular complex
+10385	10392	GO:0044464	soluble	cell part
+10385	10401	GO:0044464	soluble fraction	cell part
+10462	10464	GO:0065007	to	biological regulation
+10462	10464	GO:0009987	to	cellular process
+10484	10493	GO:0044464	membranes	cell part
+10501	10510	GO:0044464	membranes	cell part
+10527	10543	GO:0044464	plasma membranes	cell part
+10534	10543	GO:0044464	membranes	cell part
+10547	10550	GO:0023046	red	signaling process
+10547	10550	GO:0050896	red	response to stimulus
+10547	10550	GO:0009987	red	cellular process
+10547	10550	GO:0065007	red	biological regulation
+10557	10562	GO:0005623	cells	cell
+10579	10589	GO:0043226	organelles	organelle
+10684	10691	GO:0005488	binding	binding
+10706	10708	GO:0065007	to	biological regulation
+10706	10708	GO:0009987	to	cellular process
+10709	10717	GO:0044464	membrane	cell part
+10764	10771	GO:0003824	protein	catalytic activity
+10926	10934	GO:0043226	vesicles	organelle
+11137	11140	GO:0023046	red	signaling process
+11137	11140	GO:0050896	red	response to stimulus
+11137	11140	GO:0009987	red	cellular process
+11137	11140	GO:0065007	red	biological regulation
+11147	11151	GO:0005623	cell	cell
+11152	11167	GO:0044464	plasma membrane	cell part
+11159	11167	GO:0044464	membrane	cell part
+11159	11177	GO:0044464	membrane fractions	cell part
+11191	11194	GO:0023046	red	signaling process
+11191	11194	GO:0050896	red	response to stimulus
+11191	11194	GO:0009987	red	cellular process
+11191	11194	GO:0065007	red	biological regulation
+11201	11206	GO:0005623	cells	cell
+11218	11220	GO:0065007	to	biological regulation
+11218	11220	GO:0009987	to	cellular process
+11324	11326	GO:0065007	to	biological regulation
+11324	11326	GO:0009987	to	cellular process
+11432	11440	GO:0044421	antibody	extraccellular region part
+11432	11440	GO:0032991	antibody	macromolecular complex
+11472	11475	GO:0023046	red	signaling process
+11472	11475	GO:0050896	red	response to stimulus
+11472	11475	GO:0009987	red	cellular process
+11472	11475	GO:0065007	red	biological regulation
+11482	11486	GO:0005623	cell	cell
+11552	11555	GO:0023046	red	signaling process
+11552	11555	GO:0050896	red	response to stimulus
+11552	11555	GO:0009987	red	cellular process
+11552	11555	GO:0065007	red	biological regulation
+11562	11566	GO:0005623	cell	cell
+11567	11575	GO:0043226	vesicles	organelle
+11623	11630	GO:0003824	protein	catalytic activity
+11656	11659	GO:0023046	red	signaling process
+11656	11659	GO:0050896	red	response to stimulus
+11656	11659	GO:0009987	red	cellular process
+11656	11659	GO:0065007	red	biological regulation
+11666	11670	GO:0005623	cell	cell
+11771	11776	GO:0005623	cells	cell
+11872	11877	GO:0005623	cells	cell
+11923	11927	GO:0005623	cell	cell
+11956	11958	GO:0065007	to	biological regulation
+11956	11958	GO:0009987	to	cellular process
+12174	12178	GO:0005623	cell	cell
+12151	12154	GO:0023046	red	signaling process
+12151	12154	GO:0050896	red	response to stimulus
+12151	12154	GO:0009987	red	cellular process
+12151	12154	GO:0065007	red	biological regulation
+12230	12235	GO:0005623	cells	cell
+12451	12454	GO:0023046	red	signaling process
+12451	12454	GO:0050896	red	response to stimulus
+12451	12454	GO:0009987	red	cellular process
+12451	12454	GO:0065007	red	biological regulation
+12461	12465	GO:0005623	cell	cell
+12595	12603	GO:0044464	membrane	cell part
+12644	12656	GO:0043226	cytoskeleton	organelle
+12644	12656	GO:0044464	cytoskeleton	cell part
+12769	12782	GO:0005576	extracellular	extracellular region
+12841	12844	GO:0023046	red	signaling process
+12841	12844	GO:0050896	red	response to stimulus
+12841	12844	GO:0009987	red	cellular process
+12841	12844	GO:0065007	red	biological regulation
+12851	12855	GO:0005623	cell	cell
+12974	12976	GO:0065007	to	biological regulation
+12974	12976	GO:0009987	to	cellular process
+13022	13027	GO:0005623	cells	cell
+13123	13142	GO:0008152	cellular metabolism	metabolic process
+13123	13142	GO:0009987	cellular metabolism	cellular process
+13132	13142	GO:0008152	metabolism	metabolic process
+13159	13172	GO:0044464	intracellular	cell part
+13159	13172	GO:0051179	intracellular	localization
+13159	13172	GO:0009987	intracellular	cellular process
+13190	13193	GO:0023046	red	signaling process
+13190	13193	GO:0050896	red	response to stimulus
+13190	13193	GO:0009987	red	cellular process
+13190	13193	GO:0065007	red	biological regulation
+13200	13205	GO:0005623	cells	cell
+13217	13220	GO:0023046	red	signaling process
+13217	13220	GO:0050896	red	response to stimulus
+13217	13220	GO:0009987	red	cellular process
+13217	13220	GO:0065007	red	biological regulation
+13308	13313	GO:0005623	cells	cell
+13327	13335	GO:0044464	membrane	cell part
+13397	13400	GO:0023046	red	signaling process
+13397	13400	GO:0050896	red	response to stimulus
+13397	13400	GO:0009987	red	cellular process
+13397	13400	GO:0065007	red	biological regulation
+13407	13412	GO:0005623	cells	cell
+13449	13451	GO:0065007	to	biological regulation
+13449	13451	GO:0009987	to	cellular process
+13462	13467	GO:0005623	cells	cell
+13462	13467	GO:0005623	cells	cell
+13511	13516	GO:0005623	cells	cell
+13583	13588	GO:0005623	cells	cell
+13691	13696	GO:0005623	cells	cell
+13862	13868	GO:0009987	direct	cellular process
+13862	13868	GO:0008152	direct	metabolic process
+13889	13892	GO:0023046	red	signaling process
+13889	13892	GO:0050896	red	response to stimulus
+13889	13892	GO:0009987	red	cellular process
+13889	13892	GO:0065007	red	biological regulation
+13899	13903	GO:0005623	cell	cell
+13899	13912	GO:0044464	cell membrane	cell part
+13904	13912	GO:0044464	membrane	cell part
+13928	13930	GO:0065007	to	biological regulation
+13928	13930	GO:0009987	to	cellular process
+13989	13997	GO:0044464	membrane	cell part
+14048	14050	GO:0065007	to	biological regulation
+14048	14050	GO:0009987	to	cellular process
+14095	14098	GO:0023046	red	signaling process
+14095	14098	GO:0050896	red	response to stimulus
+14095	14098	GO:0009987	red	cellular process
+14095	14098	GO:0065007	red	biological regulation
+14105	14110	GO:0005623	cells	cell
+14217	14225	GO:0044464	membrane	cell part
+14484	14487	GO:0023046	red	signaling process
+14484	14487	GO:0050896	red	response to stimulus
+14484	14487	GO:0009987	red	cellular process
+14484	14487	GO:0065007	red	biological regulation
+14494	14499	GO:0005623	cells	cell
+14537	14540	GO:0023046	red	signaling process
+14537	14540	GO:0050896	red	response to stimulus
+14537	14540	GO:0009987	red	cellular process
+14537	14540	GO:0065007	red	biological regulation
+14547	14552	GO:0005623	cells	cell
+14640	14653	GO:0005576	extracellular	extracellular region
+14711	14714	GO:0023046	red	signaling process
+14711	14714	GO:0050896	red	response to stimulus
+14711	14714	GO:0009987	red	cellular process
+14711	14714	GO:0065007	red	biological regulation
+14721	14725	GO:0005623	cell	cell
+14842	14844	GO:0065007	to	biological regulation
+14842	14844	GO:0009987	to	cellular process
+14888	14891	GO:0023046	red	signaling process
+14888	14891	GO:0050896	red	response to stimulus
+14888	14891	GO:0009987	red	cellular process
+14888	14891	GO:0065007	red	biological regulation
+14898	14902	GO:0005623	cell	cell
+14951	14954	GO:0023046	red	signaling process
+14951	14954	GO:0050896	red	response to stimulus
+14951	14954	GO:0009987	red	cellular process
+14951	14954	GO:0065007	red	biological regulation
+14961	14966	GO:0005623	cells	cell
+15003	15005	GO:0065007	to	biological regulation
+15003	15005	GO:0009987	to	cellular process
+15095	15097	GO:0065007	to	biological regulation
+15095	15097	GO:0009987	to	cellular process
+15111	15114	GO:0023046	red	signaling process
+15111	15114	GO:0050896	red	response to stimulus
+15111	15114	GO:0009987	red	cellular process
+15111	15114	GO:0065007	red	biological regulation
+15121	15126	GO:0005623	cells	cell
+15181	15188	GO:0005488	binding	binding
+15203	15205	GO:0065007	to	biological regulation
+15203	15205	GO:0009987	to	cellular process
+15206	15213	GO:0044422	F-actin	organelle part
+15206	15213	GO:0044464	F-actin	cell part
+15206	15213	GO:0032991	F-actin	macromolecular complex
+15274	15282	GO:0044464	membrane	cell part
+15316	15331	GO:0065007	ion homeostasis	biological regulation
+15424	15428	GO:0005623	cell	cell
+15444	15446	GO:0065007	to	biological regulation
+15444	15446	GO:0009987	to	cellular process
+15578	15581	GO:0023046	red	signaling process
+15578	15581	GO:0050896	red	response to stimulus
+15578	15581	GO:0009987	red	cellular process
+15578	15581	GO:0065007	red	biological regulation
+15588	15593	GO:0005623	cells	cell
+16580	16599	GO:0009987	Platelet activation	cellular process
+16669	16671	GO:0065007	to	biological regulation
+16669	16671	GO:0009987	to	cellular process
+16692	16697	GO:0005623	cells	cell
+16703	16713	GO:0044464	pseudopods	cell part
+16749	16751	GO:0065007	to	biological regulation
+16749	16751	GO:0009987	to	cellular process
+16804	16809	GO:0005623	cells	cell
+16848	16853	GO:0005623	cells	cell
+16878	16886	GO:0003824	reducing	catalytic activity
+16967	16986	GO:0009987	platelet activation	cellular process
+16993	16995	GO:0065007	to	biological regulation
+16993	16995	GO:0009987	to	cellular process
+17664	17674	GO:0003824	initiating	catalytic activity
+17738	17758	GO:0022610	Platelet aggregation	biological adhesion
+17738	17758	GO:0009987	Platelet aggregation	cellular process
+17891	17893	GO:0065007	to	biological regulation
+17891	17893	GO:0009987	to	cellular process
+17942	17944	GO:0065007	to	biological regulation
+17942	17944	GO:0009987	to	cellular process
+18601	18611	GO:0003824	initiating	catalytic activity
+18841	18843	GO:0065007	to	biological regulation
+18841	18843	GO:0009987	to	cellular process
+18859	18866	GO:0043226	vesicle	organelle
+18859	18873	GO:0009987	vesicle fusion	cellular process
+18859	18873	GO:0016043	vesicle fusion	cellular component organization
+18908	18916	GO:0044464	membrane	cell part
+18934	18941	GO:0003824	protein	catalytic activity
+18961	18963	GO:0065007	to	biological regulation
+18961	18963	GO:0009987	to	cellular process
+18968	18983	GO:0044464	plasma membrane	cell part
+18975	18983	GO:0044464	membrane	cell part
+19044	19051	GO:0044464	cytosol	cell part
+19136	19138	GO:0065007	to	biological regulation
+19136	19138	GO:0009987	to	cellular process
+19171	19175	GO:0005623	cell	cell
+19235	19240	GO:0005623	cells	cell
+19344	19347	GO:0065007	Red	biological regulation
+19344	19347	GO:0009987	Red	cellular process
+19344	19347	GO:0050896	Red	response to stimulus
+19344	19347	GO:0023046	Red	signaling process
+19354	19359	GO:0005623	cells	cell
+19380	19382	GO:0065007	to	biological regulation
+19380	19382	GO:0009987	to	cellular process
+19428	19430	GO:0065007	to	biological regulation
+19428	19430	GO:0009987	to	cellular process
+19475	19482	GO:0005488	binding	binding
+19564	19567	GO:0023046	red	signaling process
+19564	19567	GO:0050896	red	response to stimulus
+19564	19567	GO:0009987	red	cellular process
+19564	19567	GO:0065007	red	biological regulation
+19574	19579	GO:0005623	cells	cell
+19580	19582	GO:0065007	to	biological regulation
+19580	19582	GO:0009987	to	cellular process
+19595	19600	GO:0005623	cells	cell
+19697	19700	GO:0023046	red	signaling process
+19697	19700	GO:0050896	red	response to stimulus
+19697	19700	GO:0009987	red	cellular process
+19697	19700	GO:0065007	red	biological regulation
+19707	19712	GO:0005623	cells	cell
+19775	19783	GO:0044464	membrane	cell part
+19775	19788	GO:0044464	membrane raft	cell part
+19825	19828	GO:0023046	red	signaling process
+19825	19828	GO:0050896	red	response to stimulus
+19825	19828	GO:0009987	red	cellular process
+19825	19828	GO:0065007	red	biological regulation
+19835	19840	GO:0005623	cells	cell
+19905	19913	GO:0044464	membrane	cell part
+19905	19926	GO:0016043	membrane organization	cellular component organization
+20063	20071	GO:0044464	membrane	cell part
+20082	20084	GO:0065007	to	biological regulation
+20082	20084	GO:0009987	to	cellular process
+20164	20172	GO:0003824	proteins	catalytic activity
+20209	20218	GO:0044464	membranes	cell part
+20238	20240	GO:0065007	to	biological regulation
+20238	20240	GO:0009987	to	cellular process
+20263	20265	GO:0065007	to	biological regulation
+20263	20265	GO:0009987	to	cellular process
+20409	20417	GO:0044464	membrane	cell part
+20681	20690	GO:0051234	secretion	establishment of localization
+20747	20749	GO:0065007	to	biological regulation
+20747	20749	GO:0009987	to	cellular process
+20760	20766	GO:0009987	direct	cellular process
+20760	20766	GO:0008152	direct	metabolic process
+20801	20810	GO:0051234	secretion	establishment of localization
+20853	20861	GO:0044464	membrane	cell part
+20853	20868	GO:0016043	membrane fusion	cellular component organization
+21016	21019	GO:0023046	red	signaling process
+21016	21019	GO:0050896	red	response to stimulus
+21016	21019	GO:0009987	red	cellular process
+21016	21019	GO:0065007	red	biological regulation
+21026	21030	GO:0005623	cell	cell
+21031	21039	GO:0043226	vesicles	organelle
+21104	21113	GO:0008152	formation	metabolic process
+21169	21172	GO:0023046	red	signaling process
+21169	21172	GO:0050896	red	response to stimulus
+21169	21172	GO:0009987	red	cellular process
+21169	21172	GO:0065007	red	biological regulation
+21179	21184	GO:0005623	cells	cell
+21221	21226	GO:0005623	cells	cell
+21319	21327	GO:0044464	membrane	cell part
+21319	21334	GO:0016043	membrane fusion	cellular component organization
+21501	21503	GO:0065007	to	biological regulation
+21501	21503	GO:0009987	to	cellular process
+21653	21656	GO:0023046	red	signaling process
+21653	21656	GO:0050896	red	response to stimulus
+21653	21656	GO:0009987	red	cellular process
+21653	21656	GO:0065007	red	biological regulation
+21663	21667	GO:0005623	cell	cell
+21663	21676	GO:0044464	cell membrane	cell part
+21668	21676	GO:0044464	membrane	cell part
+21746	21748	GO:0065007	to	biological regulation
+21746	21748	GO:0009987	to	cellular process
+21768	21777	GO:0008152	formation	metabolic process
+21868	21871	GO:0023046	red	signaling process
+21868	21871	GO:0050896	red	response to stimulus
+21868	21871	GO:0009987	red	cellular process
+21868	21871	GO:0065007	red	biological regulation
+21878	21883	GO:0005623	cells	cell
+21947	21956	GO:0044464	membranes	cell part
+21947	21955	GO:0044464	membrane	cell part
+22025	22034	GO:0043226	endosomes	organelle
+22025	22034	GO:0044464	endosomes	cell part
+22061	22069	GO:0044464	membrane	cell part
+22061	22076	GO:0016043	membrane fusion	cellular component organization
+22132	22147	GO:0044464	plasma membrane	cell part
+22139	22147	GO:0044464	membrane	cell part
+22139	22152	GO:0044464	membrane raft	cell part
+22213	22221	GO:0043226	vesicles	organelle
+22225	22228	GO:0023046	red	signaling process
+22225	22228	GO:0050896	red	response to stimulus
+22225	22228	GO:0009987	red	cellular process
+22225	22228	GO:0065007	red	biological regulation
+22235	22240	GO:0005623	cells	cell
+22288	22291	GO:0023046	red	signaling process
+22288	22291	GO:0050896	red	response to stimulus
+22288	22291	GO:0009987	red	cellular process
+22288	22291	GO:0065007	red	biological regulation
+22288	22314	GO:0009987	red blood cell development	cellular process
+22288	22314	GO:0032502	red blood cell development	developmental process
+22399	22403	GO:0005623	cell	cell
+22399	22415	GO:0009987	cell development	cellular process
+22399	22415	GO:0032502	cell development	developmental process
+22420	22427	GO:0009987	reduced	cellular process
+22420	22427	GO:0008152	reduced	metabolic process
+22420	22427	GO:0005215	reduced	transporter activity
+22420	22427	GO:0051234	reduced	establishment of localization
+22446	22452	GO:0009987	direct	cellular process
+22446	22452	GO:0008152	direct	metabolic process
+22461	22468	GO:0043226	vesicle	organelle
+22461	22478	GO:0016043	vesicle formation	cellular component organization
+22461	22478	GO:0009987	vesicle formation	cellular process
+22469	22478	GO:0008152	formation	metabolic process
+22483	22491	GO:0044464	membrane	cell part
+22483	22498	GO:0016043	membrane fusion	cellular component organization
+22553	22560	GO:0003824	protein	catalytic activity
+22614	22616	GO:0065007	to	biological regulation
+22614	22616	GO:0009987	to	cellular process
+22632	22640	GO:0044464	membrane	cell part
+22782	22790	GO:0044464	membrane	cell part
+22782	22803	GO:0016043	membrane organization	cellular component organization
+22828	22830	GO:0065007	to	biological regulation
+22828	22830	GO:0009987	to	cellular process
+22874	22881	GO:0003824	protein	catalytic activity
+22890	22893	GO:0023046	red	signaling process
+22890	22893	GO:0050896	red	response to stimulus
+22890	22893	GO:0009987	red	cellular process
+22890	22893	GO:0065007	red	biological regulation
+23069	23074	GO:0005623	cells	cell
+23116	23119	GO:0023046	red	signaling process
+23116	23119	GO:0050896	red	response to stimulus
+23116	23119	GO:0009987	red	cellular process
+23116	23119	GO:0065007	red	biological regulation
+23126	23131	GO:0005623	cells	cell
+23189	23204	GO:0044464	plasma membrane	cell part
+23196	23204	GO:0044464	membrane	cell part
+23196	23204	GO:0044464	membrane	cell part
+23245	23257	GO:0043226	cytoskeleton	organelle
+23245	23257	GO:0044464	cytoskeleton	cell part
+23293	23301	GO:0044464	membrane	cell part
+23315	23323	GO:0044464	spectrin	cell part
+23315	23323	GO:0044422	spectrin	organelle part
+23359	23374	GO:0044464	actin filaments	cell part
+23359	23374	GO:0032991	actin filaments	macromolecular complex
+23359	23374	GO:0044422	actin filaments	organelle part
+23393	23401	GO:0003824	proteins	catalytic activity
+23449	23452	GO:0023046	red	signaling process
+23449	23452	GO:0050896	red	response to stimulus
+23449	23452	GO:0009987	red	cellular process
+23449	23452	GO:0065007	red	biological regulation
+23459	23463	GO:0005623	cell	cell
+23459	23472	GO:0044464	cell membrane	cell part
+23464	23472	GO:0044464	membrane	cell part
+23479	23487	GO:0044464	Membrane	cell part
+23511	23514	GO:0023046	red	signaling process
+23511	23514	GO:0050896	red	response to stimulus
+23511	23514	GO:0009987	red	cellular process
+23511	23514	GO:0065007	red	biological regulation
+23521	23525	GO:0005623	cell	cell
+23636	23644	GO:0003824	proteins	catalytic activity
+23700	23704	GO:0005623	cell	cell
+23700	23713	GO:0044464	cell membrane	cell part
+23705	23713	GO:0044464	membrane	cell part
+23767	23770	GO:0023046	red	signaling process
+23767	23770	GO:0050896	red	response to stimulus
+23767	23770	GO:0009987	red	cellular process
+23767	23770	GO:0065007	red	biological regulation
+23777	23782	GO:0005623	cells	cell
+23885	23893	GO:0044464	membrane	cell part
+23948	23956	GO:0044464	membrane	cell part
+23973	23975	GO:0065007	to	biological regulation
+23973	23975	GO:0009987	to	cellular process
+24039	24041	GO:0065007	to	biological regulation
+24039	24041	GO:0009987	to	cellular process
+24063	24078	GO:0044464	plasma membrane	cell part
+24070	24078	GO:0044464	membrane	cell part
+24161	24169	GO:0044464	membrane	cell part
+24179	24187	GO:0003824	proteins	catalytic activity
+24198	24200	GO:0065007	to	biological regulation
+24198	24200	GO:0009987	to	cellular process
+24223	24226	GO:0023046	red	signaling process
+24223	24226	GO:0050896	red	response to stimulus
+24223	24226	GO:0009987	red	cellular process
+24223	24226	GO:0065007	red	biological regulation
+24233	24237	GO:0005623	cell	cell
+24233	24246	GO:0044464	cell membrane	cell part
+24238	24246	GO:0044464	membrane	cell part
+24301	24303	GO:0065007	to	biological regulation
+24301	24303	GO:0009987	to	cellular process
+24301	24303	GO:0065007	to	biological regulation
+24301	24303	GO:0009987	to	cellular process
+24321	24328	GO:0044422	F-actin	organelle part
+24321	24328	GO:0044464	F-actin	cell part
+24321	24328	GO:0032991	F-actin	macromolecular complex
+24475	24483	GO:0044464	membrane	cell part
+24484	24496	GO:0043226	cytoskeleton	organelle
+24484	24496	GO:0044464	cytoskeleton	cell part
+24515	24522	GO:0003824	protein	catalytic activity
+24573	24576	GO:0023046	red	signaling process
+24573	24576	GO:0050896	red	response to stimulus
+24573	24576	GO:0009987	red	cellular process
+24573	24576	GO:0065007	red	biological regulation
+24583	24588	GO:0005623	cells	cell
+24629	24638	GO:0023052	signaling	signaling
+24629	24647	GO:0023052	signaling pathways	signaling
+24789	24802	GO:0044464	intracellular	cell part
+24789	24802	GO:0051179	intracellular	localization
+24789	24802	GO:0009987	intracellular	cellular process
+24853	24861	GO:0044464	membrane	cell part
+24887	24890	GO:0023046	red	signaling process
+24887	24890	GO:0050896	red	response to stimulus
+24887	24890	GO:0009987	red	cellular process
+24887	24890	GO:0065007	red	biological regulation
+24897	24901	GO:0005623	cell	cell
+24942	24955	GO:0044464	intracellular	cell part
+24942	24955	GO:0051179	intracellular	localization
+24942	24955	GO:0009987	intracellular	cellular process
+24971	24973	GO:0065007	to	biological regulation
+24971	24973	GO:0009987	to	cellular process
+24987	24995	GO:0044464	membrane	cell part
+25041	25048	GO:0003824	protein	catalytic activity
+25114	25117	GO:0023046	red	signaling process
+25114	25117	GO:0050896	red	response to stimulus
+25114	25117	GO:0009987	red	cellular process
+25114	25117	GO:0065007	red	biological regulation
+25166	25171	GO:0005623	cells	cell
+25230	25238	GO:0044464	membrane	cell part
+25269	25281	GO:0043226	cytoskeleton	organelle
+25269	25281	GO:0044464	cytoskeleton	cell part
+25372	25392	GO:0022610	platelet aggregation	biological adhesion
+25372	25392	GO:0009987	platelet aggregation	cellular process
+25670	25672	GO:0065007	to	biological regulation
+25670	25672	GO:0009987	to	cellular process
+26369	26372	GO:0023046	red	signaling process
+26369	26372	GO:0050896	red	response to stimulus
+26369	26372	GO:0009987	red	cellular process
+26369	26372	GO:0065007	red	biological regulation
+26379	26384	GO:0005623	cells	cell
+26459	26467	GO:0003824	proteins	catalytic activity
+26559	26568	GO:0008152	formation	metabolic process
+26581	26589	GO:0044464	membrane	cell part
+26606	26617	GO:0044464	lipid rafts	cell part
+26677	26679	GO:0065007	to	biological regulation
+26677	26679	GO:0009987	to	cellular process
+26731	26740	GO:0044464	membranes	cell part
+26754	26757	GO:0023046	red	signaling process
+26754	26757	GO:0050896	red	response to stimulus
+26754	26757	GO:0009987	red	cellular process
+26754	26757	GO:0065007	red	biological regulation
+26764	26769	GO:0005623	cells	cell
+26800	26804	GO:0005623	cell	cell
+26866	26868	GO:0065007	to	biological regulation
+26866	26868	GO:0009987	to	cellular process
+26900	26912	GO:0043226	cytoskeleton	organelle
+26900	26912	GO:0044464	cytoskeleton	cell part
+26919	26925	GO:0009987	direct	cellular process
+26919	26925	GO:0008152	direct	metabolic process
+26943	26950	GO:0044422	F-actin	organelle part
+26943	26950	GO:0044464	F-actin	cell part
+26943	26950	GO:0032991	F-actin	macromolecular complex
+27371	27382	GO:0032501	Coagulation	multicellular organismal process
+27535	27537	GO:0065007	to	biological regulation
+27535	27537	GO:0009987	to	cellular process
+27887	27889	GO:0065007	to	biological regulation
+27887	27889	GO:0009987	to	cellular process
+28182	28186	GO:0005623	cell	cell
+28256	28258	GO:0065007	to	biological regulation
+28256	28258	GO:0009987	to	cellular process
+28533	28553	GO:0022610	platelet aggregation	biological adhesion
+28533	28553	GO:0009987	platelet aggregation	cellular process
+28566	28568	GO:0065007	to	biological regulation
+28566	28568	GO:0009987	to	cellular process
+28674	28677	GO:0023046	red	signaling process
+28674	28677	GO:0050896	red	response to stimulus
+28674	28677	GO:0009987	red	cellular process
+28674	28677	GO:0065007	red	biological regulation
+28684	28689	GO:0005623	cells	cell
+28756	28758	GO:0065007	to	biological regulation
+28756	28758	GO:0009987	to	cellular process
+28765	28768	GO:0065007	Red	biological regulation
+28765	28768	GO:0009987	Red	cellular process
+28765	28768	GO:0050896	Red	response to stimulus
+28765	28768	GO:0023046	Red	signaling process
+28775	28780	GO:0005623	cells	cell
+28826	28829	GO:0023046	red	signaling process
+28826	28829	GO:0050896	red	response to stimulus
+28826	28829	GO:0009987	red	cellular process
+28826	28829	GO:0065007	red	biological regulation
+29323	29327	GO:0005623	cell	cell
+28953	28955	GO:0065007	to	biological regulation
+28953	28955	GO:0009987	to	cellular process
+29423	29425	GO:0065007	to	biological regulation
+29423	29425	GO:0009987	to	cellular process
+29872	29875	GO:0023046	red	signaling process
+29872	29875	GO:0050896	red	response to stimulus
+29872	29875	GO:0009987	red	cellular process
+29872	29875	GO:0065007	red	biological regulation
+29882	29887	GO:0005623	cells	cell
+29887	29890	GO:0065007	Red	biological regulation
+29887	29890	GO:0009987	Red	cellular process
+29887	29890	GO:0050896	Red	response to stimulus
+29887	29890	GO:0023046	Red	signaling process
+29897	29902	GO:0005623	cells	cell
+29947	29954	GO:0043226	vesicle	organelle
+29947	29964	GO:0016043	vesicle formation	cellular component organization
+29947	29964	GO:0009987	vesicle formation	cellular process
+29980	29989	GO:0008152	formation	metabolic process
+30247	30250	GO:0023046	red	signaling process
+30247	30250	GO:0050896	red	response to stimulus
+30247	30250	GO:0009987	red	cellular process
+30247	30250	GO:0065007	red	biological regulation
+30257	30262	GO:0005623	cells	cell
+30365	30367	GO:0065007	to	biological regulation
+30365	30367	GO:0009987	to	cellular process
+30466	30468	GO:0065007	to	biological regulation
+30466	30468	GO:0009987	to	cellular process
+30466	30468	GO:0065007	to	biological regulation
+30466	30468	GO:0009987	to	cellular process
+30482	30484	GO:0065007	to	biological regulation
+30482	30484	GO:0009987	to	cellular process
+30776	30779	GO:0023046	red	signaling process
+30776	30779	GO:0050896	red	response to stimulus
+30776	30779	GO:0009987	red	cellular process
+30776	30779	GO:0065007	red	biological regulation
+30786	30790	GO:0005623	cell	cell
+31008	31010	GO:0065007	to	biological regulation
+31008	31010	GO:0009987	to	cellular process
+31067	31069	GO:0065007	to	biological regulation
+31067	31069	GO:0009987	to	cellular process
+31082	31090	GO:0043226	vesicles	organelle
+31122	31139	GO:0003824	esterase activity	catalytic activity
+31216	31219	GO:0023046	red	signaling process
+31216	31219	GO:0050896	red	response to stimulus
+31216	31219	GO:0009987	red	cellular process
+31216	31219	GO:0065007	red	biological regulation
+31226	31230	GO:0005623	cell	cell
+31231	31239	GO:0043226	vesicles	organelle
+31410	31419	GO:0003824	phosphate	catalytic activity
+31518	31527	GO:0003824	phosphate	catalytic activity
+31616	31618	GO:0065007	to	biological regulation
+31616	31618	GO:0009987	to	cellular process
+31660	31663	GO:0023046	red	signaling process
+31660	31663	GO:0050896	red	response to stimulus
+31660	31663	GO:0009987	red	cellular process
+31660	31663	GO:0065007	red	biological regulation
+31797	31802	GO:0005623	cells	cell
+32351	32371	GO:0022610	Platelet aggregation	biological adhesion
+32351	32371	GO:0009987	Platelet aggregation	cellular process
+32502	32504	GO:0065007	to	biological regulation
+32502	32504	GO:0009987	to	cellular process
+32559	32579	GO:0022610	platelet aggregation	biological adhesion
+32559	32579	GO:0009987	platelet aggregation	cellular process
+32613	32615	GO:0065007	to	biological regulation
+32613	32615	GO:0009987	to	cellular process
+32678	32680	GO:0065007	to	biological regulation
+32678	32680	GO:0009987	to	cellular process
+32840	32842	GO:0065007	to	biological regulation
+32840	32842	GO:0009987	to	cellular process
+32840	32842	GO:0065007	to	biological regulation
+32840	32842	GO:0009987	to	cellular process
+33031	33033	GO:0065007	to	biological regulation
+33031	33033	GO:0009987	to	cellular process
+33863	33867	GO:0005623	cell	cell
+33925	33929	GO:0005623	cell	cell
+34078	34081	GO:0023046	red	signaling process
+34078	34081	GO:0050896	red	response to stimulus
+34078	34081	GO:0009987	red	cellular process
+34078	34081	GO:0065007	red	biological regulation
+34088	34093	GO:0005623	cells	cell
+34210	34213	GO:0023046	red	signaling process
+34210	34213	GO:0050896	red	response to stimulus
+34210	34213	GO:0009987	red	cellular process
+34210	34213	GO:0065007	red	biological regulation
+34220	34225	GO:0005623	cells	cell
+34285	34288	GO:0023046	red	signaling process
+34285	34288	GO:0050896	red	response to stimulus
+34285	34288	GO:0009987	red	cellular process
+34285	34288	GO:0065007	red	biological regulation
+34367	34372	GO:0005623	cells	cell
+34624	34630	GO:0050896	Reflex	response to stimulus
+34709	34711	GO:0065007	to	biological regulation
+34709	34711	GO:0009987	to	cellular process
+34917	34927	GO:0044421	Antibodies	extraccellular region part
+34917	34927	GO:0032991	Antibodies	macromolecular complex
+35040	35048	GO:0044421	antibody	extraccellular region part
+35040	35048	GO:0032991	antibody	macromolecular complex
+35139	35141	GO:0065007	to	biological regulation
+35139	35141	GO:0009987	to	cellular process
+35252	35254	GO:0065007	to	biological regulation
+35252	35254	GO:0009987	to	cellular process
+35567	35570	GO:0023046	red	signaling process
+35567	35570	GO:0050896	red	response to stimulus
+35567	35570	GO:0009987	red	cellular process
+35567	35570	GO:0065007	red	biological regulation
+35577	35582	GO:0005623	cells	cell
+35722	35726	GO:0005623	cell	cell
+35819	35839	GO:0022610	platelet aggregation	biological adhesion
+35819	35839	GO:0009987	platelet aggregation	cellular process
+35969	35976	GO:0003824	protein	catalytic activity
+36114	36116	GO:0065007	to	biological regulation
+36114	36116	GO:0009987	to	cellular process
+36280	36287	GO:0003824	protein	catalytic activity

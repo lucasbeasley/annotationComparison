@@ -1,0 +1,749 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm
+0	8	GO:0044464	Membrane	cell part
+25	38	GO:0044422	mitochondrial	organelle part
+25	38	GO:0032991	mitochondrial	macromolecular complex
+25	38	GO:0044464	mitochondrial	cell part
+98	102	GO:0005623	cell	cell
+337	339	GO:0065007	to	biological regulation
+337	339	GO:0009987	to	cellular process
+354	367	GO:0044422	mitochondrial	organelle part
+354	367	GO:0032991	mitochondrial	macromolecular complex
+354	367	GO:0044464	mitochondrial	cell part
+368	371	GO:0003824	ATP	catalytic activity
+368	380	GO:0005215	ATP synthase	transporter activity
+368	380	GO:0003824	ATP synthase	catalytic activity
+372	380	GO:0003824	synthase	catalytic activity
+419	426	GO:0065007	neurons	biological regulation
+419	426	GO:0016265	neurons	death
+419	426	GO:0009987	neurons	cellular process
+583	585	GO:0065007	To	biological regulation
+583	585	GO:0009987	To	cellular process
+644	658	GO:0009987	neuronal cells	cellular process
+644	658	GO:0016265	neuronal cells	death
+653	658	GO:0005623	cells	cell
+696	698	GO:0065007	to	biological regulation
+696	698	GO:0009987	to	cellular process
+802	806	GO:0005623	cell	cell
+884	889	GO:0005623	cells	cell
+925	930	GO:0005623	cells	cell
+1084	1090	GO:0040007	growth	growth
+1104	1113	GO:0051234	transport	establishment of localization
+1151	1166	GO:0003824	enzyme activity	catalytic activity
+1247	1258	GO:0016043	endocytosis	cellular component organization
+1247	1258	GO:0009987	endocytosis	cellular process
+1247	1258	GO:0051234	endocytosis	establishment of localization
+1262	1269	GO:0009987	reduced	cellular process
+1262	1269	GO:0008152	reduced	metabolic process
+1262	1269	GO:0005215	reduced	transporter activity
+1262	1269	GO:0051234	reduced	establishment of localization
+1284	1296	GO:0044464	mitochondria	cell part
+1284	1296	GO:0043226	mitochondria	organelle
+1332	1335	GO:0003824	ATP	catalytic activity
+1401	1408	GO:0009987	reduced	cellular process
+1401	1408	GO:0008152	reduced	metabolic process
+1401	1408	GO:0005215	reduced	transporter activity
+1401	1408	GO:0051234	reduced	establishment of localization
+1472	1485	GO:0044464	intracellular	cell part
+1472	1485	GO:0051179	intracellular	localization
+1472	1485	GO:0009987	intracellular	cellular process
+1486	1494	GO:0044464	membrane	cell part
+1511	1524	GO:0044422	mitochondrial	organelle part
+1511	1524	GO:0032991	mitochondrial	macromolecular complex
+1511	1524	GO:0044464	mitochondrial	cell part
+1575	1577	GO:0065007	to	biological regulation
+1575	1577	GO:0009987	to	cellular process
+1904	1909	GO:0016265	death	death
+1956	1967	GO:0044464	chromosomes	cell part
+1956	1967	GO:0044422	chromosomes	organelle part
+1956	1967	GO:0043226	chromosomes	organelle
+1977	1979	GO:0065007	to	biological regulation
+1977	1979	GO:0009987	to	cellular process
+2126	2133	GO:0003824	protein	catalytic activity
+2285	2298	GO:0044422	mitochondrial	organelle part
+2285	2298	GO:0032991	mitochondrial	macromolecular complex
+2285	2298	GO:0044464	mitochondrial	cell part
+2299	2302	GO:0003824	ATP	catalytic activity
+2299	2311	GO:0005215	ATP synthase	transporter activity
+2299	2311	GO:0003824	ATP synthase	catalytic activity
+2303	2311	GO:0003824	synthase	catalytic activity
+2380	2387	GO:0065007	neurons	biological regulation
+2380	2387	GO:0016265	neurons	death
+2380	2387	GO:0009987	neurons	cellular process
+2426	2431	GO:0005623	cells	cell
+2502	2504	GO:0065007	to	biological regulation
+2502	2504	GO:0009987	to	cellular process
+2643	2650	GO:0003824	protein	catalytic activity
+2748	2756	GO:0044464	membrane	cell part
+2757	2764	GO:0003824	protein	catalytic activity
+2784	2786	GO:0065007	to	biological regulation
+2784	2786	GO:0009987	to	cellular process
+2791	2799	GO:0043226	lysosome	organelle
+2791	2799	GO:0044464	lysosome	cell part
+2866	2868	GO:0065007	to	biological regulation
+2866	2868	GO:0009987	to	cellular process
+2992	3012	GO:0051234	amino acid transport	establishment of localization
+3003	3012	GO:0051234	transport	establishment of localization
+3021	3023	GO:0065007	To	biological regulation
+3021	3023	GO:0009987	To	cellular process
+3037	3049	GO:0051704	pathogenesis	multi-organism process
+3276	3286	GO:0044421	antibodies	extraccellular region part
+3276	3286	GO:0032991	antibodies	macromolecular complex
+3450	3454	GO:0005623	cell	cell
+3587	3589	GO:0065007	to	biological regulation
+3587	3589	GO:0009987	to	cellular process
+3611	3624	GO:0044422	mitochondrial	organelle part
+3611	3624	GO:0032991	mitochondrial	macromolecular complex
+3611	3624	GO:0044464	mitochondrial	cell part
+3681	3688	GO:0065007	neurons	biological regulation
+3681	3688	GO:0016265	neurons	death
+3681	3688	GO:0009987	neurons	cellular process
+3730	3734	GO:0005623	cell	cell
+3742	3744	GO:0065007	to	biological regulation
+3742	3744	GO:0009987	to	cellular process
+3882	3886	GO:0005623	cell	cell
+3948	3953	GO:0005623	cells	cell
+4017	4025	GO:0044464	membrane	cell part
+4026	4036	GO:0043226	organelles	organelle
+4046	4054	GO:0044464	membrane	cell part
+4079	4092	GO:0044422	mitochondrial	organelle part
+4079	4092	GO:0032991	mitochondrial	macromolecular complex
+4079	4092	GO:0044464	mitochondrial	cell part
+4139	4144	GO:0005623	cells	cell
+4204	4208	GO:0005623	cell	cell
+4214	4216	GO:0065007	To	biological regulation
+4214	4216	GO:0009987	To	cellular process
+4265	4269	GO:0005623	cell	cell
+4310	4317	GO:0065007	neurons	biological regulation
+4310	4317	GO:0016265	neurons	death
+4310	4317	GO:0009987	neurons	cellular process
+4455	4459	GO:0005623	cell	cell
+4490	4497	GO:0065007	neurons	biological regulation
+4490	4497	GO:0016265	neurons	death
+4490	4497	GO:0009987	neurons	cellular process
+4620	4626	GO:0040007	Growth	growth
+4801	4805	GO:0005623	cell	cell
+4881	4885	GO:0005623	cell	cell
+4881	4894	GO:0009987	cell division	cellular process
+5040	5045	GO:0005623	cells	cell
+5059	5061	GO:0065007	to	biological regulation
+5059	5061	GO:0009987	to	cellular process
+5180	5185	GO:0005623	cells	cell
+5180	5185	GO:0005623	cells	cell
+5442	5447	GO:0005623	cells	cell
+5518	5528	GO:0044421	antibodies	extraccellular region part
+5518	5528	GO:0032991	antibodies	macromolecular complex
+5740	5745	GO:0005623	cells	cell
+5792	5796	GO:0005623	cell	cell
+5792	5803	GO:0044464	cell bodies	cell part
+5894	5899	GO:0005623	cells	cell
+5998	6002	GO:0005623	cell	cell
+6142	6147	GO:0005623	cells	cell
+6228	6233	GO:0005623	cells	cell
+6384	6391	GO:0003824	protein	catalytic activity
+6420	6428	GO:0044421	antibody	extraccellular region part
+6420	6428	GO:0032991	antibody	macromolecular complex
+6467	6469	GO:0065007	To	biological regulation
+6467	6469	GO:0009987	To	cellular process
+6518	6523	GO:0005623	cells	cell
+6658	6663	GO:0005623	cells	cell
+6677	6679	GO:0065007	to	biological regulation
+6677	6679	GO:0009987	to	cellular process
+6890	6895	GO:0005623	cells	cell
+6917	6924	GO:0009987	reduced	cellular process
+6917	6924	GO:0008152	reduced	metabolic process
+6917	6924	GO:0005215	reduced	transporter activity
+6917	6924	GO:0051234	reduced	establishment of localization
+6991	6996	GO:0005623	cells	cell
+7106	7120	GO:0043226	early endosome	organelle
+7106	7120	GO:0044464	early endosome	cell part
+7112	7120	GO:0043226	endosome	organelle
+7112	7120	GO:0044464	endosome	cell part
+7223	7242	GO:0044464	recycling endosomes	cell part
+7223	7242	GO:0043226	recycling endosomes	organelle
+7233	7242	GO:0043226	endosomes	organelle
+7233	7242	GO:0044464	endosomes	cell part
+7413	7418	GO:0005623	cells	cell
+7471	7476	GO:0005623	cells	cell
+7551	7556	GO:0005623	cells	cell
+7593	7598	GO:0005623	cells	cell
+7724	7726	GO:0065007	to	biological regulation
+7724	7726	GO:0009987	to	cellular process
+7750	7755	GO:0005623	cells	cell
+7842	7847	GO:0005623	cells	cell
+7985	7989	GO:0005623	cell	cell
+8010	8014	GO:0005623	cell	cell
+8400	8405	GO:0005623	cells	cell
+8517	8522	GO:0005623	cells	cell
+8554	8563	GO:0043226	lysosomes	organelle
+8554	8563	GO:0044464	lysosomes	cell part
+8574	8589	GO:0043226	early endosomes	organelle
+8574	8589	GO:0044464	early endosomes	cell part
+8580	8589	GO:0043226	endosomes	organelle
+8580	8589	GO:0044464	endosomes	cell part
+8602	8616	GO:0044464	late endosomes	cell part
+8602	8616	GO:0043226	late endosomes	organelle
+8607	8616	GO:0043226	endosomes	organelle
+8607	8616	GO:0044464	endosomes	cell part
+8662	8665	GO:0023046	red	signaling process
+8662	8665	GO:0050896	red	response to stimulus
+8662	8665	GO:0009987	red	cellular process
+8662	8665	GO:0065007	red	biological regulation
+8662	8665	GO:0023046	red	signaling process
+8662	8665	GO:0050896	red	response to stimulus
+8662	8665	GO:0009987	red	cellular process
+8662	8665	GO:0065007	red	biological regulation
+8972	8977	GO:0005623	cells	cell
+8995	9002	GO:0009987	reduced	cellular process
+8995	9002	GO:0008152	reduced	metabolic process
+8995	9002	GO:0005215	reduced	transporter activity
+8995	9002	GO:0051234	reduced	establishment of localization
+9160	9172	GO:0051179	localization	localization
+9262	9267	GO:0005623	cells	cell
+9411	9417	GO:0040007	growth	growth
+9476	9481	GO:0005623	cells	cell
+9532	9541	GO:0008152	formation	metabolic process
+9574	9579	GO:0005623	cells	cell
+10019	10024	GO:0005623	cells	cell
+10149	10163	GO:0043226	autophagosomes	organelle
+10149	10163	GO:0044464	autophagosomes	cell part
+10215	10227	GO:0044464	mitochondria	cell part
+10215	10227	GO:0043226	mitochondria	organelle
+10246	10254	GO:0043226	vesicles	organelle
+10266	10282	GO:0044464	Inclusion bodies	cell part
+10287	10301	GO:0043226	autophagosomes	organelle
+10287	10301	GO:0044464	autophagosomes	cell part
+10463	10468	GO:0005623	cells	cell
+10463	10468	GO:0005623	cells	cell
+10581	10586	GO:0005623	cells	cell
+10968	10975	GO:0003824	protein	catalytic activity
+11041	11048	GO:0003824	protein	catalytic activity
+11191	11198	GO:0003824	protein	catalytic activity
+11264	11269	GO:0005623	cells	cell
+11319	11326	GO:0003824	protein	catalytic activity
+11345	11347	GO:0065007	to	biological regulation
+11345	11347	GO:0009987	to	cellular process
+11373	11380	GO:0003824	Protein	catalytic activity
+11404	11406	GO:0065007	to	biological regulation
+11404	11406	GO:0009987	to	cellular process
+11407	11417	GO:0003824	cytochrome	catalytic activity
+11420	11427	GO:0003824	oxidase	catalytic activity
+11528	11533	GO:0005623	cells	cell
+11552	11565	GO:0043226	autophagosome	organelle
+11552	11565	GO:0044464	autophagosome	cell part
+11586	11594	GO:0044464	membrane	cell part
+11632	11644	GO:0044464	mitochondria	cell part
+11632	11644	GO:0043226	mitochondria	organelle
+11823	11835	GO:0044464	mitochondria	cell part
+11823	11835	GO:0043226	mitochondria	organelle
+11884	11889	GO:0005623	cells	cell
+12085	12088	GO:0003824	ATP	catalytic activity
+12085	12097	GO:0005215	ATP synthase	transporter activity
+12085	12097	GO:0003824	ATP synthase	catalytic activity
+12089	12097	GO:0003824	synthase	catalytic activity
+12108	12119	GO:0008152	degradation	metabolic process
+12127	12135	GO:0043226	lysosome	organelle
+12127	12135	GO:0044464	lysosome	cell part
+12170	12179	GO:0051234	transport	establishment of localization
+12222	12227	GO:0005623	cells	cell
+12271	12279	GO:0044421	antibody	extraccellular region part
+12271	12279	GO:0032991	antibody	macromolecular complex
+12400	12405	GO:0005623	cells	cell
+12498	12507	GO:0051234	transport	establishment of localization
+12540	12542	GO:0065007	to	biological regulation
+12540	12542	GO:0009987	to	cellular process
+12573	12581	GO:0043226	lysosome	organelle
+12573	12581	GO:0044464	lysosome	cell part
+12629	12634	GO:0005623	cells	cell
+12729	12734	GO:0005623	cells	cell
+12775	12779	GO:0005623	cell	cell
+13143	13147	GO:0005623	cell	cell
+13216	13223	GO:0009987	reduced	cellular process
+13216	13223	GO:0008152	reduced	metabolic process
+13216	13223	GO:0005215	reduced	transporter activity
+13216	13223	GO:0051234	reduced	establishment of localization
+13277	13279	GO:0065007	to	biological regulation
+13277	13279	GO:0009987	to	cellular process
+13304	13319	GO:0040007	cellular growth	growth
+13304	13319	GO:0009987	cellular growth	cellular process
+13313	13319	GO:0040007	growth	growth
+13391	13400	GO:0051234	secretion	establishment of localization
+13465	13470	GO:0005623	cells	cell
+13593	13605	GO:0051179	localization	localization
+13662	13667	GO:0005623	cells	cell
+13737	13742	GO:0005623	cells	cell
+13765	13773	GO:0044421	antibody	extraccellular region part
+13765	13773	GO:0032991	antibody	macromolecular complex
+13834	13841	GO:0003824	protein	catalytic activity
+13862	13867	GO:0005623	cells	cell
+13984	13989	GO:0005623	cells	cell
+14044	14046	GO:0065007	to	biological regulation
+14044	14046	GO:0009987	to	cellular process
+14103	14108	GO:0005623	cells	cell
+14569	14576	GO:0009987	reduced	cellular process
+14569	14576	GO:0008152	reduced	metabolic process
+14569	14576	GO:0005215	reduced	transporter activity
+14569	14576	GO:0051234	reduced	establishment of localization
+14791	14793	GO:0065007	to	biological regulation
+14791	14793	GO:0009987	to	cellular process
+15017	15022	GO:0005623	cells	cell
+15046	15053	GO:0003824	protein	catalytic activity
+15073	15078	GO:0005623	cells	cell
+15102	15109	GO:0003824	protein	catalytic activity
+15187	15192	GO:0005623	cells	cell
+15225	15234	GO:0051234	transport	establishment of localization
+15291	15296	GO:0005623	cells	cell
+15346	15348	GO:0065007	to	biological regulation
+15346	15348	GO:0009987	to	cellular process
+15398	15403	GO:0005623	cells	cell
+15418	15426	GO:0044464	membrane	cell part
+15427	15437	GO:0043226	organelles	organelle
+15450	15459	GO:0051234	transport	establishment of localization
+15500	15508	GO:0044464	membrane	cell part
+15560	15565	GO:0005623	cells	cell
+15637	15645	GO:0044464	membrane	cell part
+15646	15656	GO:0043226	organelles	organelle
+15709	15711	GO:0044464	ER	cell part
+15709	15711	GO:0043226	ER	organelle
+15832	15839	GO:0003824	protein	catalytic activity
+16019	16024	GO:0005623	cells	cell
+16043	16048	GO:0005623	cells	cell
+16060	16065	GO:0005623	cells	cell
+16093	16102	GO:0043226	lysosomes	organelle
+16093	16102	GO:0044464	lysosomes	cell part
+16191	16200	GO:0043226	lysosomes	organelle
+16191	16200	GO:0044464	lysosomes	cell part
+16231	16239	GO:0043226	vesicles	organelle
+16282	16291	GO:0044464	cytoplasm	cell part
+16299	16303	GO:0005623	cell	cell
+16415	16422	GO:0003824	protein	catalytic activity
+16484	16489	GO:0005623	cells	cell
+16570	16579	GO:0043226	lysosomes	organelle
+16570	16579	GO:0044464	lysosomes	cell part
+16591	16603	GO:0051179	localization	localization
+16973	16982	GO:0043226	lysosomes	organelle
+16973	16982	GO:0044464	lysosomes	cell part
+17053	17058	GO:0005623	cells	cell
+17087	17095	GO:0044421	antibody	extraccellular region part
+17087	17095	GO:0032991	antibody	macromolecular complex
+17172	17181	GO:0043226	lysosomes	organelle
+17172	17181	GO:0044464	lysosomes	cell part
+17172	17181	GO:0043226	lysosomes	organelle
+17172	17181	GO:0044464	lysosomes	cell part
+17236	17241	GO:0005623	cells	cell
+17290	17297	GO:0009987	reduced	cellular process
+17290	17297	GO:0008152	reduced	metabolic process
+17290	17297	GO:0005215	reduced	transporter activity
+17290	17297	GO:0051234	reduced	establishment of localization
+17319	17324	GO:0005623	cells	cell
+17369	17377	GO:0043226	vesicles	organelle
+17470	17477	GO:0009987	reduced	cellular process
+17470	17477	GO:0008152	reduced	metabolic process
+17470	17477	GO:0005215	reduced	transporter activity
+17470	17477	GO:0051234	reduced	establishment of localization
+17555	17560	GO:0005623	cells	cell
+17799	17813	GO:0043226	early endosome	organelle
+17799	17813	GO:0044464	early endosome	cell part
+17805	17813	GO:0043226	endosome	organelle
+17805	17813	GO:0044464	endosome	cell part
+17872	17895	GO:0009987	fluid-phase endocytosis	cellular process
+17872	17895	GO:0016043	fluid-phase endocytosis	cellular component organization
+17872	17895	GO:0051234	fluid-phase endocytosis	establishment of localization
+17884	17895	GO:0016043	endocytosis	cellular component organization
+17884	17895	GO:0009987	endocytosis	cellular process
+17884	17895	GO:0051234	endocytosis	establishment of localization
+17940	17945	GO:0005623	cells	cell
+18086	18091	GO:0005623	cells	cell
+18126	18144	GO:0044464	endocytic vesicles	cell part
+18126	18144	GO:0043226	endocytic vesicles	organelle
+18136	18144	GO:0043226	vesicles	organelle
+18225	18230	GO:0005623	cells	cell
+18299	18301	GO:0065007	to	biological regulation
+18299	18301	GO:0009987	to	cellular process
+18310	18318	GO:0043226	vesicles	organelle
+18344	18353	GO:0044464	cytoplasm	cell part
+18361	18365	GO:0005623	cell	cell
+18374	18385	GO:0051234	Endocytosis	establishment of localization
+18374	18385	GO:0016043	Endocytosis	cellular component organization
+18374	18385	GO:0009987	Endocytosis	cellular process
+18441	18446	GO:0005623	cells	cell
+18532	18537	GO:0005623	cells	cell
+18633	18638	GO:0005623	cells	cell
+18740	18748	GO:0043226	vesicles	organelle
+18868	18873	GO:0005623	cells	cell
+18878	18885	GO:0009987	reduced	cellular process
+18878	18885	GO:0008152	reduced	metabolic process
+18878	18885	GO:0005215	reduced	transporter activity
+18878	18885	GO:0051234	reduced	establishment of localization
+18924	18932	GO:0043226	vesicles	organelle
+19082	19095	GO:0044422	mitochondrial	organelle part
+19082	19095	GO:0032991	mitochondrial	macromolecular complex
+19082	19095	GO:0044464	mitochondrial	cell part
+19096	19103	GO:0003824	protein	catalytic activity
+19149	19159	GO:0065007	engulfment	biological regulation
+19149	19159	GO:0009987	engulfment	cellular process
+19149	19159	GO:0016043	engulfment	cellular component organization
+19163	19175	GO:0044464	mitochondria	cell part
+19163	19175	GO:0043226	mitochondria	organelle
+19218	19222	GO:0005623	cell	cell
+19223	19236	GO:0044422	mitochondrial	organelle part
+19223	19236	GO:0032991	mitochondrial	macromolecular complex
+19223	19236	GO:0044464	mitochondrial	cell part
+19262	19275	GO:0044464	Mitochondrial	cell part
+19262	19275	GO:0032991	Mitochondrial	macromolecular complex
+19262	19275	GO:0044422	Mitochondrial	organelle part
+19262	19288	GO:0009987	Mitochondrial distribution	cellular process
+19262	19288	GO:0016043	Mitochondrial distribution	cellular component organization
+19262	19288	GO:0051179	Mitochondrial distribution	localization
+19316	19321	GO:0005623	cells	cell
+19376	19381	GO:0005623	cells	cell
+19416	19428	GO:0044464	mitochondria	cell part
+19416	19428	GO:0043226	mitochondria	organelle
+19537	19549	GO:0044464	mitochondria	cell part
+19537	19549	GO:0043226	mitochondria	organelle
+19602	19604	GO:0065007	to	biological regulation
+19602	19604	GO:0009987	to	cellular process
+19637	19649	GO:0044464	mitochondria	cell part
+19637	19649	GO:0043226	mitochondria	organelle
+19693	19695	GO:0065007	to	biological regulation
+19693	19695	GO:0009987	to	cellular process
+19706	19719	GO:0044464	Mitochondrial	cell part
+19706	19719	GO:0032991	Mitochondrial	macromolecular complex
+19706	19719	GO:0044422	Mitochondrial	organelle part
+19769	19774	GO:0005623	cells	cell
+19812	19814	GO:0065007	to	biological regulation
+19812	19814	GO:0009987	to	cellular process
+19841	19846	GO:0005623	cells	cell
+19872	19877	GO:0005623	cells	cell
+19896	19903	GO:0009987	reduced	cellular process
+19896	19903	GO:0008152	reduced	metabolic process
+19896	19903	GO:0005215	reduced	transporter activity
+19896	19903	GO:0051234	reduced	establishment of localization
+19913	19916	GO:0003824	ATP	catalytic activity
+19963	19970	GO:0009987	reduced	cellular process
+19963	19970	GO:0008152	reduced	metabolic process
+19963	19970	GO:0005215	reduced	transporter activity
+19963	19970	GO:0051234	reduced	establishment of localization
+20084	20094	GO:0008152	metabolism	metabolic process
+20170	20183	GO:0044422	mitochondrial	organelle part
+20170	20183	GO:0032991	mitochondrial	macromolecular complex
+20170	20183	GO:0044464	mitochondrial	cell part
+20220	20225	GO:0005623	cells	cell
+20234	20247	GO:0044464	Mitochondrial	cell part
+20234	20247	GO:0032991	Mitochondrial	macromolecular complex
+20234	20247	GO:0044422	Mitochondrial	organelle part
+20327	20332	GO:0005623	cells	cell
+20406	20419	GO:0044422	mitochondrial	organelle part
+20406	20419	GO:0032991	mitochondrial	macromolecular complex
+20406	20419	GO:0044464	mitochondrial	cell part
+20466	20494	GO:0044422	inner mitochondrial membrane	organelle part
+20466	20494	GO:0044464	inner mitochondrial membrane	cell part
+20472	20485	GO:0044422	mitochondrial	organelle part
+20472	20485	GO:0032991	mitochondrial	macromolecular complex
+20472	20485	GO:0044464	mitochondrial	cell part
+20472	20494	GO:0044464	mitochondrial membrane	cell part
+20472	20494	GO:0044422	mitochondrial membrane	organelle part
+20486	20494	GO:0044464	membrane	cell part
+20544	20556	GO:0044464	mitochondria	cell part
+20544	20556	GO:0043226	mitochondria	organelle
+20578	20583	GO:0005623	cells	cell
+20616	20618	GO:0065007	to	biological regulation
+20616	20618	GO:0009987	to	cellular process
+20629	20641	GO:0044464	mitochondria	cell part
+20629	20641	GO:0043226	mitochondria	organelle
+20678	20691	GO:0044464	Mitochondrial	cell part
+20678	20691	GO:0032991	Mitochondrial	macromolecular complex
+20678	20691	GO:0044422	Mitochondrial	organelle part
+20678	20704	GO:0009987	Mitochondrial distribution	cellular process
+20678	20704	GO:0016043	Mitochondrial distribution	cellular component organization
+20678	20704	GO:0051179	Mitochondrial distribution	localization
+20783	20795	GO:0044464	mitochondria	cell part
+20783	20795	GO:0043226	mitochondria	organelle
+20864	20867	GO:0003824	ATP	catalytic activity
+20940	20945	GO:0005623	cells	cell
+20940	20945	GO:0005623	cells	cell
+21042	21045	GO:0003824	ATP	catalytic activity
+21077	21082	GO:0005623	cells	cell
+21115	21122	GO:0009987	reduced	cellular process
+21115	21122	GO:0008152	reduced	metabolic process
+21115	21122	GO:0005215	reduced	transporter activity
+21115	21122	GO:0051234	reduced	establishment of localization
+21133	21136	GO:0003824	ATP	catalytic activity
+21258	21261	GO:0003824	ATP	catalytic activity
+21412	21416	GO:0005623	Cell	cell
+21506	21511	GO:0005623	cells	cell
+21540	21542	GO:0065007	to	biological regulation
+21540	21542	GO:0009987	to	cellular process
+21652	21657	GO:0005623	cells	cell
+21652	21657	GO:0005623	cells	cell
+21741	21746	GO:0005623	cells	cell
+21922	21927	GO:0005623	cells	cell
+22079	22092	GO:0044422	mitochondrial	organelle part
+22079	22092	GO:0032991	mitochondrial	macromolecular complex
+22079	22092	GO:0044464	mitochondrial	cell part
+22129	22134	GO:0032502	aging	developmental process
+22138	22143	GO:0005623	cells	cell
+22193	22195	GO:0065007	to	biological regulation
+22193	22195	GO:0009987	to	cellular process
+22225	22243	GO:0044422	lysosomal membrane	organelle part
+22225	22243	GO:0044464	lysosomal membrane	cell part
+22235	22243	GO:0044464	membrane	cell part
+22268	22281	GO:0044422	mitochondrial	organelle part
+22268	22281	GO:0032991	mitochondrial	macromolecular complex
+22268	22281	GO:0044464	mitochondrial	cell part
+22394	22396	GO:0065007	to	biological regulation
+22394	22396	GO:0009987	to	cellular process
+22508	22520	GO:0051179	localization	localization
+22563	22568	GO:0005623	cells	cell
+22671	22673	GO:0065007	to	biological regulation
+22671	22673	GO:0009987	to	cellular process
+22752	22757	GO:0005623	cells	cell
+23012	23019	GO:0003824	protein	catalytic activity
+23077	23082	GO:0005623	cells	cell
+23131	23133	GO:0065007	to	biological regulation
+23131	23133	GO:0009987	to	cellular process
+23137	23144	GO:0009987	reduced	cellular process
+23137	23144	GO:0008152	reduced	metabolic process
+23137	23144	GO:0005215	reduced	transporter activity
+23137	23144	GO:0051234	reduced	establishment of localization
+23195	23197	GO:0065007	to	biological regulation
+23195	23197	GO:0009987	to	cellular process
+23241	23246	GO:0032502	Aging	developmental process
+23274	23279	GO:0005623	cells	cell
+23307	23309	GO:0065007	to	biological regulation
+23307	23309	GO:0009987	to	cellular process
+23353	23360	GO:0003824	protein	catalytic activity
+23371	23379	GO:0044464	membrane	cell part
+23380	23389	GO:0043226	organelle	organelle
+23460	23465	GO:0005623	cells	cell
+23499	23504	GO:0032502	aging	developmental process
+23583	23595	GO:0044464	mitochondria	cell part
+23583	23595	GO:0043226	mitochondria	organelle
+23731	23739	GO:0044464	membrane	cell part
+23829	23837	GO:0043226	lysosome	organelle
+23829	23837	GO:0044464	lysosome	cell part
+23924	23937	GO:0044464	Mitochondrial	cell part
+23924	23937	GO:0032991	Mitochondrial	macromolecular complex
+23924	23937	GO:0044422	Mitochondrial	organelle part
+24073	24082	GO:0008152	autophagy	metabolic process
+24073	24082	GO:0009987	autophagy	cellular process
+24184	24197	GO:0044422	mitochondrial	organelle part
+24184	24197	GO:0032991	mitochondrial	macromolecular complex
+24184	24197	GO:0044464	mitochondrial	cell part
+24239	24252	GO:0044422	mitochondrial	organelle part
+24239	24252	GO:0032991	mitochondrial	macromolecular complex
+24239	24252	GO:0044464	mitochondrial	cell part
+24279	24288	GO:0051234	transport	establishment of localization
+24307	24320	GO:0044422	mitochondrial	organelle part
+24307	24320	GO:0032991	mitochondrial	macromolecular complex
+24307	24320	GO:0044464	mitochondrial	cell part
+24321	24329	GO:0003824	proteins	catalytic activity
+24369	24374	GO:0005623	cells	cell
+24422	24436	GO:0044464	late endosomes	cell part
+24422	24436	GO:0043226	late endosomes	organelle
+24427	24436	GO:0043226	endosomes	organelle
+24427	24436	GO:0044464	endosomes	cell part
+24526	24533	GO:0009987	reduced	cellular process
+24526	24533	GO:0008152	reduced	metabolic process
+24526	24533	GO:0005215	reduced	transporter activity
+24526	24533	GO:0051234	reduced	establishment of localization
+24634	24641	GO:0003824	protein	catalytic activity
+24661	24663	GO:0065007	to	biological regulation
+24661	24663	GO:0009987	to	cellular process
+24702	24709	GO:0003824	protein	catalytic activity
+24702	24709	GO:0003824	protein	catalytic activity
+24702	24722	GO:0051179	protein localization	localization
+24751	24763	GO:0051179	localization	localization
+24782	24784	GO:0065007	to	biological regulation
+24782	24784	GO:0009987	to	cellular process
+24808	24822	GO:0044464	late endosomes	cell part
+24808	24822	GO:0043226	late endosomes	organelle
+24813	24822	GO:0043226	endosomes	organelle
+24813	24822	GO:0044464	endosomes	cell part
+24827	24836	GO:0043226	lysosomes	organelle
+24827	24836	GO:0044464	lysosomes	cell part
+24853	24858	GO:0005623	cells	cell
+24868	24870	GO:0065007	to	biological regulation
+24868	24870	GO:0009987	to	cellular process
+24871	24880	GO:0043226	lysosomes	organelle
+24871	24880	GO:0044464	lysosomes	cell part
+24882	24894	GO:0044464	synaptosomes	cell part
+24903	24912	GO:0043226	endosomes	organelle
+24903	24912	GO:0044464	endosomes	cell part
+24923	24930	GO:0065007	neurons	biological regulation
+24923	24930	GO:0016265	neurons	death
+24923	24930	GO:0009987	neurons	cellular process
+25037	25045	GO:0044464	membrane	cell part
+25091	25110	GO:0009987	vesicular transport	cellular process
+25091	25110	GO:0051234	vesicular transport	establishment of localization
+25101	25110	GO:0051234	transport	establishment of localization
+25179	25192	GO:0044422	mitochondrial	organelle part
+25179	25192	GO:0032991	mitochondrial	macromolecular complex
+25179	25192	GO:0044464	mitochondrial	cell part
+25193	25202	GO:0008152	autophagy	metabolic process
+25193	25202	GO:0009987	autophagy	cellular process
+25261	25269	GO:0044464	membrane	cell part
+25286	25299	GO:0044422	mitochondrial	organelle part
+25286	25299	GO:0032991	mitochondrial	macromolecular complex
+25286	25299	GO:0044464	mitochondrial	cell part
+25346	25351	GO:0005623	cells	cell
+25363	25365	GO:0065007	to	biological regulation
+25363	25365	GO:0009987	to	cellular process
+25405	25422	GO:0051234	Neurotransmission	establishment of localization
+25405	25422	GO:0065007	Neurotransmission	biological regulation
+25405	25422	GO:0023046	Neurotransmission	signaling process
+25405	25422	GO:0009987	Neurotransmission	cellular process
+25441	25449	GO:0044464	membrane	cell part
+25450	25457	GO:0043226	vesicle	organelle
+25450	25467	GO:0051234	vesicle transport	establishment of localization
+25450	25467	GO:0009987	vesicle transport	cellular process
+25458	25467	GO:0051234	transport	establishment of localization
+25487	25497	GO:0008152	metabolism	metabolic process
+25520	25527	GO:0065007	neurons	biological regulation
+25520	25527	GO:0016265	neurons	death
+25520	25527	GO:0009987	neurons	cellular process
+25528	25530	GO:0065007	to	biological regulation
+25528	25530	GO:0009987	to	cellular process
+25645	25650	GO:0005623	cells	cell
+25681	25683	GO:0065007	to	biological regulation
+25681	25683	GO:0009987	to	cellular process
+25729	25741	GO:0051704	pathogenesis	multi-organism process
+25749	25757	GO:0032991	Antibody	macromolecular complex
+25749	25757	GO:0044421	Antibody	extraccellular region part
+25762	25766	GO:0005623	cell	cell
+25893	25903	GO:0044421	antibodies	extraccellular region part
+25893	25903	GO:0032991	antibodies	macromolecular complex
+26100	26108	GO:0044421	antibody	extraccellular region part
+26100	26108	GO:0032991	antibody	macromolecular complex
+26205	26215	GO:0044421	antibodies	extraccellular region part
+26205	26215	GO:0032991	antibodies	macromolecular complex
+26438	26448	GO:0003824	cytochrome	catalytic activity
+26451	26458	GO:0003824	oxidase	catalytic activity
+26580	26592	GO:0051704	Transduction	multi-organism process
+26655	26669	GO:0043226	early endosome	organelle
+26655	26669	GO:0044464	early endosome	cell part
+26661	26669	GO:0043226	endosome	organelle
+26661	26669	GO:0044464	endosome	cell part
+26793	26803	GO:0044421	antibodies	extraccellular region part
+26793	26803	GO:0032991	antibodies	macromolecular complex
+26888	26898	GO:0044421	antibodies	extraccellular region part
+26888	26898	GO:0032991	antibodies	macromolecular complex
+26951	26955	GO:0005623	cell	cell
+27071	27074	GO:0065007	Red	biological regulation
+27071	27074	GO:0009987	Red	cellular process
+27071	27074	GO:0050896	Red	response to stimulus
+27071	27074	GO:0023046	Red	signaling process
+27947	27953	GO:0040007	growth	growth
+28350	28352	GO:0065007	to	biological regulation
+28350	28352	GO:0009987	to	cellular process
+28378	28384	GO:0040007	growth	growth
+28435	28441	GO:0040007	growth	growth
+28739	28743	GO:0005623	cell	cell
+28758	28762	GO:0005623	cell	cell
+28908	28910	GO:0065007	to	biological regulation
+28908	28910	GO:0009987	to	cellular process
+29204	29208	GO:0005623	cell	cell
+29395	29397	GO:0065007	to	biological regulation
+29395	29397	GO:0009987	to	cellular process
+29517	29519	GO:0065007	to	biological regulation
+29517	29519	GO:0009987	to	cellular process
+29784	29789	GO:0005623	Cells	cell
+29862	29867	GO:0005623	cells	cell
+29956	29961	GO:0005623	cells	cell
+29975	29982	GO:0003824	protein	catalytic activity
+29995	30000	GO:0005623	Cells	cell
+30137	30142	GO:0005623	cells	cell
+30185	30194	GO:0003824	phosphate	catalytic activity
+30305	30309	GO:0005623	cell	cell
+30343	30350	GO:0003824	protein	catalytic activity
+30377	30382	GO:0005623	cells	cell
+30689	30696	GO:0009987	reduced	cellular process
+30689	30696	GO:0008152	reduced	metabolic process
+30689	30696	GO:0005215	reduced	transporter activity
+30689	30696	GO:0051234	reduced	establishment of localization
+30709	30711	GO:0065007	to	biological regulation
+30709	30711	GO:0009987	to	cellular process
+30752	30760	GO:0044421	antibody	extraccellular region part
+30752	30760	GO:0032991	antibody	macromolecular complex
+30832	30837	GO:0005623	cells	cell
+30876	30881	GO:0005623	cells	cell
+31157	31162	GO:0005623	Cells	cell
+31336	31344	GO:0044421	antibody	extraccellular region part
+31336	31344	GO:0032991	antibody	macromolecular complex
+31472	31480	GO:0044421	antibody	extraccellular region part
+31472	31480	GO:0032991	antibody	macromolecular complex
+32021	32029	GO:0003824	proteins	catalytic activity
+32049	32053	GO:0005623	cell	cell
+32116	32118	GO:0065007	to	biological regulation
+32116	32118	GO:0009987	to	cellular process
+32446	32453	GO:0003824	protein	catalytic activity
+32480	32487	GO:0003824	Protein	catalytic activity
+32804	32811	GO:0003824	protein	catalytic activity
+32847	32852	GO:0005623	cells	cell
+33029	33036	GO:0003824	protein	catalytic activity
+33087	33094	GO:0003824	Protein	catalytic activity
+33120	33127	GO:0003824	protein	catalytic activity
+33146	33148	GO:0065007	to	biological regulation
+33146	33148	GO:0009987	to	cellular process
+33283	33285	GO:0065007	to	biological regulation
+33283	33285	GO:0009987	to	cellular process
+33634	33639	GO:0005623	Cells	cell
+33678	33683	GO:0005623	cells	cell
+33747	33753	GO:0040007	Growth	growth
+33796	33802	GO:0040007	growth	growth
+33868	33873	GO:0005623	cells	cell
+33961	33966	GO:0005623	cells	cell
+34275	34287	GO:0044464	mitochondria	cell part
+34275	34287	GO:0043226	mitochondria	organelle
+34430	34442	GO:0044464	mitochondria	cell part
+34430	34442	GO:0043226	mitochondria	organelle
+34500	34512	GO:0044464	mitochondria	cell part
+34500	34512	GO:0043226	mitochondria	organelle
+34668	34670	GO:0065007	to	biological regulation
+34668	34670	GO:0009987	to	cellular process
+34751	34753	GO:0065007	To	biological regulation
+34751	34753	GO:0009987	To	cellular process
+34776	34789	GO:0044422	mitochondrial	organelle part
+34776	34789	GO:0032991	mitochondrial	macromolecular complex
+34776	34789	GO:0044464	mitochondrial	cell part
+34850	34852	GO:0065007	to	biological regulation
+34850	34852	GO:0009987	to	cellular process
+34850	34852	GO:0065007	to	biological regulation
+34850	34852	GO:0009987	to	cellular process
+34902	34905	GO:0003824	ATP	catalytic activity
+34902	34905	GO:0003824	ATP	catalytic activity
+34947	34951	GO:0005623	Cell	cell
+35014	35016	GO:0065007	to	biological regulation
+35014	35016	GO:0009987	to	cellular process
+35062	35067	GO:0005623	cells	cell
+35252	35254	GO:0065007	to	biological regulation
+35252	35254	GO:0009987	to	cellular process
+35269	35273	GO:0005623	cell	cell
+35316	35319	GO:0003824	ATP	catalytic activity
+35539	35541	GO:0065007	to	biological regulation
+35539	35541	GO:0009987	to	cellular process
+35609	35614	GO:0005623	Cells	cell
+35650	35655	GO:0005623	cells	cell
+35812	35814	GO:0065007	to	biological regulation
+35812	35814	GO:0009987	to	cellular process
+35826	35831	GO:0005623	Cells	cell
+35944	35948	GO:0005623	Cell	cell
+36028	36030	GO:0065007	to	biological regulation
+36028	36030	GO:0009987	to	cellular process
+36144	36148	GO:0005623	cell	cell
+36169	36172	GO:0003824	ATP	catalytic activity
+36208	36221	GO:0044422	mitochondrial	organelle part
+36208	36221	GO:0032991	mitochondrial	macromolecular complex
+36208	36221	GO:0044464	mitochondrial	cell part
+36342	36346	GO:0005623	cell	cell
+36434	36439	GO:0005623	cells	cell
+36434	36438	GO:0005623	cell	cell
+36748	36756	GO:0044421	antibody	extraccellular region part
+36748	36756	GO:0032991	antibody	macromolecular complex
+36757	36759	GO:0065007	to	biological regulation
+36757	36759	GO:0009987	to	cellular process
+36773	36786	GO:0044422	mitochondrial	organelle part
+36773	36786	GO:0032991	mitochondrial	macromolecular complex
+36773	36786	GO:0044464	mitochondrial	cell part
+36972	36983	GO:0016043	endocytosis	cellular component organization
+36972	36983	GO:0009987	endocytosis	cellular process
+36972	36983	GO:0051234	endocytosis	establishment of localization

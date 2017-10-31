@@ -1,0 +1,309 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm
+113	115	GO:0065007	to	biological regulation
+113	115	GO:0009987	to	cellular process
+179	181	GO:0065007	to	biological regulation
+179	181	GO:0009987	to	cellular process
+220	222	GO:0065007	to	biological regulation
+220	222	GO:0009987	to	cellular process
+278	280	GO:0065007	to	biological regulation
+278	280	GO:0009987	to	cellular process
+790	795	GO:0005623	cells	cell
+842	844	GO:0065007	to	biological regulation
+842	844	GO:0009987	to	cellular process
+874	876	GO:0065007	to	biological regulation
+874	876	GO:0009987	to	cellular process
+923	925	GO:0065007	to	biological regulation
+923	925	GO:0009987	to	cellular process
+1069	1071	GO:0065007	to	biological regulation
+1069	1071	GO:0009987	to	cellular process
+1466	1468	GO:0065007	to	biological regulation
+1466	1468	GO:0009987	to	cellular process
+1574	1576	GO:0065007	to	biological regulation
+1574	1576	GO:0009987	to	cellular process
+1962	1967	GO:0005623	cells	cell
+2124	2126	GO:0065007	to	biological regulation
+2124	2126	GO:0009987	to	cellular process
+2272	2274	GO:0065007	to	biological regulation
+2272	2274	GO:0009987	to	cellular process
+2460	2462	GO:0065007	to	biological regulation
+2460	2462	GO:0009987	to	cellular process
+2480	2482	GO:0065007	to	biological regulation
+2480	2482	GO:0009987	to	cellular process
+2680	2682	GO:0065007	to	biological regulation
+2680	2682	GO:0009987	to	cellular process
+2737	2739	GO:0065007	to	biological regulation
+2737	2739	GO:0009987	to	cellular process
+3944	3946	GO:0065007	To	biological regulation
+3944	3946	GO:0009987	To	cellular process
+4214	4216	GO:0065007	to	biological regulation
+4214	4216	GO:0009987	to	cellular process
+4294	4304	GO:0044464	Chromosome	cell part
+4294	4304	GO:0043226	Chromosome	organelle
+4294	4304	GO:0044422	Chromosome	organelle part
+4469	4471	GO:0065007	to	biological regulation
+4469	4471	GO:0009987	to	cellular process
+4554	4556	GO:0065007	to	biological regulation
+4554	4556	GO:0009987	to	cellular process
+4989	4991	GO:0065007	To	biological regulation
+4989	4991	GO:0009987	To	cellular process
+5204	5206	GO:0065007	to	biological regulation
+5204	5206	GO:0009987	to	cellular process
+5253	5255	GO:0065007	to	biological regulation
+5253	5255	GO:0009987	to	cellular process
+5796	5801	GO:0005623	cells	cell
+5963	5965	GO:0065007	to	biological regulation
+5963	5965	GO:0009987	to	cellular process
+6069	6071	GO:0065007	to	biological regulation
+6069	6071	GO:0009987	to	cellular process
+6144	6146	GO:0065007	to	biological regulation
+6144	6146	GO:0009987	to	cellular process
+6262	6264	GO:0065007	to	biological regulation
+6262	6264	GO:0009987	to	cellular process
+6308	6310	GO:0065007	to	biological regulation
+6308	6310	GO:0009987	to	cellular process
+6545	6547	GO:0065007	to	biological regulation
+6545	6547	GO:0009987	to	cellular process
+6749	6751	GO:0065007	to	biological regulation
+6749	6751	GO:0009987	to	cellular process
+7028	7030	GO:0065007	to	biological regulation
+7028	7030	GO:0009987	to	cellular process
+7825	7834	GO:0009987	telomeric	cellular process
+7825	7834	GO:0016043	telomeric	cellular component organization
+7910	7921	GO:0009987	centromeric	cellular process
+7993	7995	GO:0065007	to	biological regulation
+7993	7995	GO:0009987	to	cellular process
+8273	8275	GO:0065007	to	biological regulation
+8273	8275	GO:0009987	to	cellular process
+8584	8586	GO:0065007	to	biological regulation
+8584	8586	GO:0009987	to	cellular process
+8644	8646	GO:0065007	to	biological regulation
+8644	8646	GO:0009987	to	cellular process
+8750	8752	GO:0065007	to	biological regulation
+8750	8752	GO:0009987	to	cellular process
+8892	8894	GO:0065007	to	biological regulation
+8892	8894	GO:0009987	to	cellular process
+8908	8917	GO:0009987	telomeric	cellular process
+8908	8917	GO:0016043	telomeric	cellular component organization
+8940	8951	GO:0009987	centromeric	cellular process
+9057	9066	GO:0009987	telomeric	cellular process
+9057	9066	GO:0016043	telomeric	cellular component organization
+9145	9156	GO:0009987	centromeric	cellular process
+9194	9196	GO:0065007	to	biological regulation
+9194	9196	GO:0009987	to	cellular process
+9338	9340	GO:0065007	to	biological regulation
+9338	9340	GO:0009987	to	cellular process
+9435	9443	GO:0005488	template	binding
+9631	9633	GO:0065007	to	biological regulation
+9631	9633	GO:0009987	to	cellular process
+9764	9766	GO:0065007	To	biological regulation
+9764	9766	GO:0009987	To	cellular process
+9913	9915	GO:0065007	to	biological regulation
+9913	9915	GO:0009987	to	cellular process
+10375	10377	GO:0065007	to	biological regulation
+10375	10377	GO:0009987	to	cellular process
+10412	10414	GO:0065007	to	biological regulation
+10412	10414	GO:0009987	to	cellular process
+10798	10807	GO:0009987	telomeric	cellular process
+10798	10807	GO:0016043	telomeric	cellular component organization
+10897	10899	GO:0065007	to	biological regulation
+10897	10899	GO:0009987	to	cellular process
+11412	11414	GO:0065007	to	biological regulation
+11412	11414	GO:0009987	to	cellular process
+11853	11860	GO:0003824	protein	catalytic activity
+11893	11898	GO:0005623	cells	cell
+11996	12005	GO:0023052	signaling	signaling
+12091	12097	GO:0008152	type 2	metabolic process
+12091	12097	GO:0065007	type 2	biological regulation
+12163	12170	GO:0003824	protein	catalytic activity
+12502	12509	GO:0005488	binding	binding
+12597	12604	GO:0003824	protein	catalytic activity
+12614	12629	GO:0009987	phosphorylation	cellular process
+12614	12629	GO:0008152	phosphorylation	metabolic process
+12670	12677	GO:0003824	coupled	catalytic activity
+12678	12680	GO:0065007	to	biological regulation
+12678	12680	GO:0009987	to	cellular process
+12733	12754	GO:0044464	endoplasmic reticulum	cell part
+12733	12754	GO:0043226	endoplasmic reticulum	organelle
+12761	12768	GO:0005488	binding	binding
+12776	12789	GO:0044464	intracellular	cell part
+12776	12789	GO:0051179	intracellular	localization
+12776	12789	GO:0009987	intracellular	cellular process
+12874	12879	GO:0005623	cells	cell
+13118	13120	GO:0065007	to	biological regulation
+13118	13120	GO:0009987	to	cellular process
+13197	13199	GO:0065007	to	biological regulation
+13197	13199	GO:0009987	to	cellular process
+13230	13232	GO:0065007	to	biological regulation
+13230	13232	GO:0009987	to	cellular process
+13444	13446	GO:0065007	to	biological regulation
+13444	13446	GO:0009987	to	cellular process
+13451	13458	GO:0003824	protein	catalytic activity
+13494	13499	GO:0005623	cells	cell
+13572	13580	GO:0044421	antibody	extraccellular region part
+13572	13580	GO:0032991	antibody	macromolecular complex
+13636	13638	GO:0065007	to	biological regulation
+13636	13638	GO:0009987	to	cellular process
+13679	13686	GO:0003824	protein	catalytic activity
+14054	14056	GO:0065007	to	biological regulation
+14054	14056	GO:0009987	to	cellular process
+14067	14069	GO:0065007	to	biological regulation
+14067	14069	GO:0009987	to	cellular process
+14144	14146	GO:0065007	to	biological regulation
+14144	14146	GO:0009987	to	cellular process
+14536	14538	GO:0065007	to	biological regulation
+14536	14538	GO:0009987	to	cellular process
+14571	14573	GO:0065007	to	biological regulation
+14571	14573	GO:0009987	to	cellular process
+14589	14591	GO:0065007	to	biological regulation
+14589	14591	GO:0009987	to	cellular process
+15099	15112	GO:0044464	intracellular	cell part
+15099	15112	GO:0051179	intracellular	localization
+15099	15112	GO:0009987	intracellular	cellular process
+15118	15127	GO:0023052	signaling	signaling
+15140	15145	GO:0005623	cells	cell
+15153	15165	GO:0051704	pathogenesis	multi-organism process
+15326	15328	GO:0065007	to	biological regulation
+15326	15328	GO:0009987	to	cellular process
+15714	15724	GO:0044464	Chromosome	cell part
+15714	15724	GO:0043226	Chromosome	organelle
+15714	15724	GO:0044422	Chromosome	organelle part
+15826	15828	GO:0065007	to	biological regulation
+15826	15828	GO:0009987	to	cellular process
+16315	16317	GO:0065007	to	biological regulation
+16315	16317	GO:0009987	to	cellular process
+16527	16529	GO:0065007	to	biological regulation
+16527	16529	GO:0009987	to	cellular process
+16709	16718	GO:0005488	templates	binding
+17120	17126	GO:0051704	mating	multi-organism process
+17120	17126	GO:0022414	mating	reproductive process
+17157	17163	GO:0051704	mating	multi-organism process
+17157	17163	GO:0022414	mating	reproductive process
+17270	17277	GO:0003824	protein	catalytic activity
+17728	17736	GO:0003824	reducing	catalytic activity
+17869	17879	GO:0044421	antibodies	extraccellular region part
+17869	17879	GO:0032991	antibodies	macromolecular complex
+17880	17882	GO:0065007	to	biological regulation
+17880	17882	GO:0009987	to	cellular process
+18364	18372	GO:0005488	template	binding
+18411	18413	GO:0065007	to	biological regulation
+18411	18413	GO:0009987	to	cellular process
+18580	18590	GO:0044421	antibodies	extraccellular region part
+18580	18590	GO:0032991	antibodies	macromolecular complex
+18627	18635	GO:0044421	antibody	extraccellular region part
+18627	18635	GO:0032991	antibody	macromolecular complex
+18721	18729	GO:0044421	antibody	extraccellular region part
+18721	18729	GO:0032991	antibody	macromolecular complex
+18924	18934	GO:0044421	antibodies	extraccellular region part
+18924	18934	GO:0032991	antibodies	macromolecular complex
+19530	19540	GO:0044421	antibodies	extraccellular region part
+19530	19540	GO:0032991	antibodies	macromolecular complex
+19592	19600	GO:0032991	Antibody	macromolecular complex
+19592	19600	GO:0044421	Antibody	extraccellular region part
+19724	19734	GO:0044421	antibodies	extraccellular region part
+19724	19734	GO:0032991	antibodies	macromolecular complex
+19813	19815	GO:0065007	to	biological regulation
+19813	19815	GO:0009987	to	cellular process
+19813	19815	GO:0065007	to	biological regulation
+19813	19815	GO:0009987	to	cellular process
+21703	21712	GO:0009987	telomeric	cellular process
+21703	21712	GO:0016043	telomeric	cellular component organization
+21749	21760	GO:0009987	centromeric	cellular process
+21973	21975	GO:0065007	to	biological regulation
+21973	21975	GO:0009987	to	cellular process
+22579	22581	GO:0065007	to	biological regulation
+22579	22581	GO:0009987	to	cellular process
+22673	22675	GO:0065007	to	biological regulation
+22673	22675	GO:0009987	to	cellular process
+22748	22757	GO:0009987	telomeric	cellular process
+22748	22757	GO:0016043	telomeric	cellular component organization
+22779	22790	GO:0009987	centromeric	cellular process
+22892	22901	GO:0009987	telomeric	cellular process
+22892	22901	GO:0016043	telomeric	cellular component organization
+22987	22998	GO:0009987	centromeric	cellular process
+23185	23187	GO:0065007	to	biological regulation
+23185	23187	GO:0009987	to	cellular process
+23327	23336	GO:0009987	telomeric	cellular process
+23327	23336	GO:0016043	telomeric	cellular component organization
+23413	23424	GO:0009987	centromeric	cellular process
+23550	23552	GO:0065007	to	biological regulation
+23550	23552	GO:0009987	to	cellular process
+23638	23640	GO:0065007	to	biological regulation
+23638	23640	GO:0009987	to	cellular process
+23713	23715	GO:0065007	to	biological regulation
+23713	23715	GO:0009987	to	cellular process
+23917	23919	GO:0065007	to	biological regulation
+23917	23919	GO:0009987	to	cellular process
+23945	23947	GO:0065007	to	biological regulation
+23945	23947	GO:0009987	to	cellular process
+24201	24208	GO:0003824	protein	catalytic activity
+24256	24263	GO:0003824	Protein	catalytic activity
+24476	24484	GO:0003824	reducing	catalytic activity
+24603	24613	GO:0044421	antibodies	extraccellular region part
+24603	24613	GO:0032991	antibodies	macromolecular complex
+24614	24616	GO:0065007	to	biological regulation
+24614	24616	GO:0009987	to	cellular process
+24770	24780	GO:0044464	Chromosome	cell part
+24770	24780	GO:0043226	Chromosome	organelle
+24770	24780	GO:0044422	Chromosome	organelle part
+25146	25148	GO:0065007	to	biological regulation
+25146	25148	GO:0009987	to	cellular process
+25928	25930	GO:0065007	to	biological regulation
+25928	25930	GO:0009987	to	cellular process
+26992	26995	GO:0065007	Red	biological regulation
+26992	26995	GO:0009987	Red	cellular process
+26992	26995	GO:0050896	Red	response to stimulus
+26992	26995	GO:0023046	Red	signaling process
+27164	27173	GO:0009987	telomeric	cellular process
+27164	27173	GO:0016043	telomeric	cellular component organization
+27174	27176	GO:0065007	to	biological regulation
+27174	27176	GO:0009987	to	cellular process
+27223	27234	GO:0009987	centromeric	cellular process
+27235	27237	GO:0065007	to	biological regulation
+27235	27237	GO:0009987	to	cellular process
+27815	27822	GO:0003824	Protein	catalytic activity
+28110	28118	GO:0044421	antibody	extraccellular region part
+28110	28118	GO:0032991	antibody	macromolecular complex
+28208	28216	GO:0044421	antibody	extraccellular region part
+28208	28216	GO:0032991	antibody	macromolecular complex
+28338	28343	GO:0005623	cells	cell
+28368	28370	GO:0065007	to	biological regulation
+28368	28370	GO:0009987	to	cellular process
+28401	28403	GO:0065007	to	biological regulation
+28401	28403	GO:0009987	to	cellular process
+28484	28486	GO:0065007	to	biological regulation
+28484	28486	GO:0009987	to	cellular process
+28952	28962	GO:0044464	Chromosome	cell part
+28952	28962	GO:0043226	Chromosome	organelle
+28952	28962	GO:0044422	Chromosome	organelle part
+29017	29019	GO:0065007	to	biological regulation
+29017	29019	GO:0009987	to	cellular process
+29612	29615	GO:0023046	red	signaling process
+29612	29615	GO:0050896	red	response to stimulus
+29612	29615	GO:0009987	red	cellular process
+29612	29615	GO:0065007	red	biological regulation
+30182	30184	GO:0065007	to	biological regulation
+30182	30184	GO:0009987	to	cellular process
+30182	30184	GO:0065007	to	biological regulation
+30182	30184	GO:0009987	to	cellular process
+30363	30372	GO:0009987	telomeric	cellular process
+30363	30372	GO:0016043	telomeric	cellular component organization
+30373	30375	GO:0065007	to	biological regulation
+30373	30375	GO:0009987	to	cellular process
+30437	30439	GO:0065007	to	biological regulation
+30437	30439	GO:0009987	to	cellular process
+30474	30485	GO:0009987	centromeric	cellular process
+30486	30488	GO:0065007	to	biological regulation
+30486	30488	GO:0009987	to	cellular process
+30659	30661	GO:0065007	to	biological regulation
+30659	30661	GO:0009987	to	cellular process
+30686	30688	GO:0065007	to	biological regulation
+30686	30688	GO:0009987	to	cellular process
+31054	31062	GO:0005488	template	binding
+31115	31122	GO:0003824	Protein	catalytic activity
+31210	31212	GO:0065007	to	biological regulation
+31210	31212	GO:0009987	to	cellular process
+31514	31516	GO:0065007	To	biological regulation
+31514	31516	GO:0009987	To	cellular process
+31627	31635	GO:0044421	antibody	extraccellular region part
+31627	31635	GO:0032991	antibody	macromolecular complex
+32246	32251	GO:0032502	Aging	developmental process

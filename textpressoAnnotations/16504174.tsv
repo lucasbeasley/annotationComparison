@@ -1,0 +1,312 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm
+107	116	GO:0065007	Embryonic	biological regulation
+107	116	GO:0009987	Embryonic	cellular process
+187	194	GO:0003824	protein	catalytic activity
+231	238	GO:0032502	embryos	developmental process
+240	250	GO:0016265	germ cells	death
+240	250	GO:0009987	germ cells	cellular process
+240	250	GO:0032502	germ cells	developmental process
+240	250	GO:0022414	germ cells	reproductive process
+245	250	GO:0005623	cells	cell
+256	265	GO:0009987	embryonic	cellular process
+256	265	GO:0065007	embryonic	biological regulation
+276	281	GO:0005623	cells	cell
+406	419	GO:0051179	localizations	localization
+528	530	GO:0065007	to	biological regulation
+528	530	GO:0009987	to	cellular process
+706	716	GO:0043226	chromosome	organelle
+706	716	GO:0044422	chromosome	organelle part
+706	716	GO:0044464	chromosome	cell part
+976	981	GO:0005623	cells	cell
+1012	1014	GO:0065007	To	biological regulation
+1012	1014	GO:0009987	To	cellular process
+1099	1104	GO:0005623	cells	cell
+1193	1200	GO:0032502	embryos	developmental process
+1205	1215	GO:0016265	germ cells	death
+1205	1215	GO:0009987	germ cells	cellular process
+1205	1215	GO:0032502	germ cells	developmental process
+1205	1215	GO:0022414	germ cells	reproductive process
+1210	1215	GO:0005623	cells	cell
+1296	1301	GO:0005623	cells	cell
+1505	1510	GO:0005623	cells	cell
+1521	1526	GO:0005623	cells	cell
+1678	1688	GO:0043226	chromosome	organelle
+1678	1688	GO:0044422	chromosome	organelle part
+1678	1688	GO:0044464	chromosome	cell part
+1739	1744	GO:0005623	cells	cell
+1749	1759	GO:0016265	germ cells	death
+1749	1759	GO:0009987	germ cells	cellular process
+1749	1759	GO:0032502	germ cells	developmental process
+1749	1759	GO:0022414	germ cells	reproductive process
+1754	1759	GO:0005623	cells	cell
+1804	1809	GO:0005623	cells	cell
+1851	1860	GO:0065007	Embryonic	biological regulation
+1851	1860	GO:0009987	Embryonic	cellular process
+1871	1876	GO:0005623	cells	cell
+1966	1971	GO:0005623	cells	cell
+2014	2016	GO:0065007	to	biological regulation
+2014	2016	GO:0009987	to	cellular process
+2061	2063	GO:0065007	to	biological regulation
+2061	2063	GO:0009987	to	cellular process
+2101	2106	GO:0005623	cells	cell
+2169	2174	GO:0005623	cells	cell
+2169	2174	GO:0005623	cells	cell
+2262	2266	GO:0005623	cell	cell
+2320	2322	GO:0065007	to	biological regulation
+2320	2322	GO:0009987	to	cellular process
+2484	2489	GO:0005623	cells	cell
+2539	2543	GO:0005623	cell	cell
+2558	2560	GO:0065007	To	biological regulation
+2558	2560	GO:0009987	To	cellular process
+2596	2601	GO:0005623	cells	cell
+2662	2664	GO:0065007	to	biological regulation
+2662	2664	GO:0009987	to	cellular process
+2723	2728	GO:0005623	cells	cell
+2739	2746	GO:0032502	embryos	developmental process
+3036	3045	GO:0009987	embryonic	cellular process
+3036	3045	GO:0065007	embryonic	biological regulation
+3056	3061	GO:0005623	cells	cell
+3117	3119	GO:0065007	to	biological regulation
+3117	3119	GO:0009987	to	cellular process
+3126	3133	GO:0032502	embryos	developmental process
+3138	3148	GO:0016265	germ cells	death
+3138	3148	GO:0009987	germ cells	cellular process
+3138	3148	GO:0032502	germ cells	developmental process
+3138	3148	GO:0022414	germ cells	reproductive process
+3143	3148	GO:0005623	cells	cell
+3191	3196	GO:0005623	cells	cell
+3211	3216	GO:0005623	cells	cell
+3218	3227	GO:0009987	embryonic	cellular process
+3218	3227	GO:0065007	embryonic	biological regulation
+3228	3238	GO:0016265	germ cells	death
+3228	3238	GO:0009987	germ cells	cellular process
+3228	3238	GO:0032502	germ cells	developmental process
+3228	3238	GO:0022414	germ cells	reproductive process
+3233	3238	GO:0005623	cells	cell
+3270	3275	GO:0005623	cells	cell
+3464	3471	GO:0003824	protein	catalytic activity
+3500	3505	GO:0005623	cells	cell
+3870	3888	GO:0009987	retrotransposition	cellular process
+3926	3939	GO:0051179	localizations	localization
+4087	4094	GO:0003824	protein	catalytic activity
+4153	4155	GO:0065007	to	biological regulation
+4153	4155	GO:0009987	to	cellular process
+4235	4247	GO:0051179	localization	localization
+4296	4298	GO:0065007	To	biological regulation
+4296	4298	GO:0009987	To	cellular process
+4325	4338	GO:0051179	localizations	localization
+4541	4552	GO:0044464	chromosomes	cell part
+4541	4552	GO:0044422	chromosomes	organelle part
+4541	4552	GO:0043226	chromosomes	organelle
+4697	4709	GO:0051179	localization	localization
+4780	4782	GO:0065007	to	biological regulation
+4780	4782	GO:0009987	to	cellular process
+4828	4836	GO:0003824	proteins	catalytic activity
+5272	5285	GO:0051179	localizations	localization
+5312	5322	GO:0043226	chromosome	organelle
+5312	5322	GO:0044422	chromosome	organelle part
+5312	5322	GO:0044464	chromosome	cell part
+5363	5365	GO:0065007	to	biological regulation
+5363	5365	GO:0009987	to	cellular process
+5562	5564	GO:0065007	to	biological regulation
+5562	5564	GO:0009987	to	cellular process
+5616	5626	GO:0043226	chromosome	organelle
+5616	5626	GO:0044422	chromosome	organelle part
+5616	5626	GO:0044464	chromosome	cell part
+5702	5704	GO:0065007	to	biological regulation
+5702	5704	GO:0009987	to	cellular process
+5795	5805	GO:0043226	chromosome	organelle
+5795	5805	GO:0044422	chromosome	organelle part
+5795	5805	GO:0044464	chromosome	cell part
+5842	5844	GO:0065007	To	biological regulation
+5842	5844	GO:0009987	To	cellular process
+5929	5939	GO:0043226	chromosome	organelle
+5929	5939	GO:0044422	chromosome	organelle part
+5929	5939	GO:0044464	chromosome	cell part
+6550	6555	GO:0005623	cells	cell
+6576	6581	GO:0005623	cells	cell
+6824	6836	GO:0051179	Localization	localization
+6859	6869	GO:0043226	chromosome	organelle
+6859	6869	GO:0044422	chromosome	organelle part
+6859	6869	GO:0044464	chromosome	cell part
+6999	7001	GO:0065007	to	biological regulation
+6999	7001	GO:0009987	to	cellular process
+7398	7403	GO:0005623	cells	cell
+7445	7450	GO:0005623	cells	cell
+7478	7483	GO:0005623	cells	cell
+7834	7836	GO:0065007	to	biological regulation
+7834	7836	GO:0009987	to	cellular process
+8396	8403	GO:0003824	protein	catalytic activity
+8652	8654	GO:0065007	to	biological regulation
+8652	8654	GO:0009987	to	cellular process
+8763	8765	GO:0065007	To	biological regulation
+8763	8765	GO:0009987	To	cellular process
+8854	8859	GO:0005623	cells	cell
+9074	9079	GO:0005623	cells	cell
+9121	9125	GO:0005623	cell	cell
+9479	9490	GO:0009987	Recognition	cellular process
+9607	9609	GO:0065007	to	biological regulation
+9607	9609	GO:0009987	to	cellular process
+9787	9792	GO:0005623	cells	cell
+9810	9815	GO:0005623	cells	cell
+9832	9837	GO:0005623	cells	cell
+9857	9862	GO:0005623	cells	cell
+9971	9976	GO:0005623	cells	cell
+9996	10001	GO:0005623	cells	cell
+10042	10047	GO:0005623	cells	cell
+10113	10115	GO:0065007	To	biological regulation
+10113	10115	GO:0009987	To	cellular process
+10113	10115	GO:0065007	To	biological regulation
+10113	10115	GO:0009987	To	cellular process
+10258	10263	GO:0005623	cells	cell
+10322	10327	GO:0005623	cells	cell
+10485	10490	GO:0005623	cells	cell
+10485	10490	GO:0005623	cells	cell
+10579	10584	GO:0005623	cells	cell
+10703	10708	GO:0005623	cells	cell
+10802	10804	GO:0065007	to	biological regulation
+10802	10804	GO:0009987	to	cellular process
+10854	10859	GO:0005623	cells	cell
+10881	10886	GO:0005623	cells	cell
+11066	11071	GO:0005623	cells	cell
+11262	11267	GO:0005623	cells	cell
+11301	11306	GO:0005623	cells	cell
+11301	11305	GO:0005623	cell	cell
+11376	11381	GO:0005623	cells	cell
+11386	11392	GO:0040007	Growth	growth
+11460	11465	GO:0005623	cells	cell
+11487	11492	GO:0005623	cells	cell
+11529	11533	GO:0005623	Cell	cell
+11622	11627	GO:0005623	cells	cell
+11622	11627	GO:0005623	cells	cell
+11807	11822	GO:0008152	gene expression	metabolic process
+11846	11851	GO:0005623	cells	cell
+11938	11940	GO:0065007	to	biological regulation
+11938	11940	GO:0009987	to	cellular process
+11952	11957	GO:0005623	cells	cell
+11991	11998	GO:0009987	reduced	cellular process
+11991	11998	GO:0008152	reduced	metabolic process
+11991	11998	GO:0005215	reduced	transporter activity
+11991	11998	GO:0051234	reduced	establishment of localization
+11999	12001	GO:0065007	to	biological regulation
+11999	12001	GO:0009987	to	cellular process
+12036	12041	GO:0005623	cells	cell
+12076	12080	GO:0005623	cell	cell
+12146	12151	GO:0005623	cells	cell
+12194	12201	GO:0003824	protein	catalytic activity
+12250	12265	GO:0008152	gene expression	metabolic process
+12307	12312	GO:0005623	cells	cell
+12328	12333	GO:0005623	cells	cell
+12404	12409	GO:0005623	cells	cell
+12643	12645	GO:0065007	to	biological regulation
+12643	12645	GO:0009987	to	cellular process
+12679	12694	GO:0008152	Gene expression	metabolic process
+12720	12725	GO:0005623	cells	cell
+12783	12788	GO:0005623	cells	cell
+12806	12811	GO:0005623	cells	cell
+12881	12883	GO:0065007	to	biological regulation
+12881	12883	GO:0009987	to	cellular process
+13001	13005	GO:0005623	Cell	cell
+13039	13044	GO:0005623	cells	cell
+13119	13121	GO:0065007	To	biological regulation
+13119	13121	GO:0009987	To	cellular process
+13180	13184	GO:0005623	cell	cell
+13180	13184	GO:0005623	cell	cell
+13683	13692	GO:0008152	formation	metabolic process
+13714	13719	GO:0005623	cells	cell
+13816	13820	GO:0005623	cell	cell
+13884	13889	GO:0005623	cells	cell
+14012	14017	GO:0005623	cells	cell
+14028	14030	GO:0065007	To	biological regulation
+14028	14030	GO:0009987	To	cellular process
+14104	14114	GO:0043226	chromosome	organelle
+14104	14114	GO:0044422	chromosome	organelle part
+14104	14114	GO:0044464	chromosome	cell part
+14166	14171	GO:0005623	cells	cell
+14210	14217	GO:0032502	embryos	developmental process
+14219	14229	GO:0016265	germ cells	death
+14219	14229	GO:0009987	germ cells	cellular process
+14219	14229	GO:0032502	germ cells	developmental process
+14219	14229	GO:0022414	germ cells	reproductive process
+14224	14229	GO:0005623	cells	cell
+14247	14252	GO:0005623	cells	cell
+14329	14333	GO:0005623	cell	cell
+14334	14343	GO:0008152	formation	metabolic process
+14352	14356	GO:0005623	cell	cell
+14449	14451	GO:0065007	To	biological regulation
+14449	14451	GO:0009987	To	cellular process
+14482	14492	GO:0043226	chromosome	organelle
+14482	14492	GO:0044422	chromosome	organelle part
+14482	14492	GO:0044464	chromosome	cell part
+14748	14757	GO:0032501	digestion	multicellular organismal process
+15169	15171	GO:0065007	To	biological regulation
+15169	15171	GO:0009987	To	cellular process
+15169	15171	GO:0065007	To	biological regulation
+15169	15171	GO:0009987	To	cellular process
+15169	15171	GO:0065007	To	biological regulation
+15169	15171	GO:0009987	To	cellular process
+17140	17145	GO:0005623	cells	cell
+17193	17198	GO:0005623	cells	cell
+17450	17455	GO:0005623	cells	cell
+17497	17501	GO:0005623	Cell	cell
+17662	17664	GO:0065007	to	biological regulation
+17662	17664	GO:0009987	to	cellular process
+17673	17681	GO:0044464	membrane	cell part
+18224	18226	GO:0065007	to	biological regulation
+18224	18226	GO:0009987	to	cellular process
+18382	18392	GO:0044421	antibodies	extraccellular region part
+18382	18392	GO:0032991	antibodies	macromolecular complex
+18569	18571	GO:0065007	To	biological regulation
+18569	18571	GO:0009987	To	cellular process
+18849	18856	GO:0003824	protein	catalytic activity
+18890	18892	GO:0065007	to	biological regulation
+18890	18892	GO:0009987	to	cellular process
+19110	19118	GO:0003824	proteins	catalytic activity
+19135	19137	GO:0065007	to	biological regulation
+19135	19137	GO:0009987	to	cellular process
+19197	19207	GO:0044421	antibodies	extraccellular region part
+19197	19207	GO:0032991	antibodies	macromolecular complex
+19244	19248	GO:0005623	cell	cell
+19288	19296	GO:0003824	proteins	catalytic activity
+19384	19386	GO:0065007	to	biological regulation
+19384	19386	GO:0009987	to	cellular process
+19402	19411	GO:0044464	membranes	cell part
+19425	19434	GO:0044464	Membranes	cell part
+19610	19620	GO:0044421	antibodies	extraccellular region part
+19610	19620	GO:0032991	antibodies	macromolecular complex
+19708	19712	GO:0005623	Cell	cell
+19713	19722	GO:0023052	Signaling	signaling
+19734	19736	GO:0065007	to	biological regulation
+19734	19736	GO:0009987	to	cellular process
+19744	19752	GO:0044421	antibody	extraccellular region part
+19744	19752	GO:0032991	antibody	macromolecular complex
+19753	19760	GO:0005488	binding	binding
+19782	19790	GO:0044421	antibody	extraccellular region part
+19782	19790	GO:0032991	antibody	macromolecular complex
+19880	19885	GO:0005623	cells	cell
+20063	20070	GO:0032502	embryos	developmental process
+20074	20082	GO:0032502	diapause	developmental process
+20141	20146	GO:0005623	cells	cell
+20564	20568	GO:0005623	cell	cell
+20564	20569	GO:0005623	cells	cell
+20564	20568	GO:0005623	cell	cell
+20698	20702	GO:0005623	cell	cell
+20921	20926	GO:0005623	cells	cell
+21020	21025	GO:0005623	cells	cell
+21041	21046	GO:0005623	cells	cell
+21119	21121	GO:0065007	to	biological regulation
+21119	21121	GO:0009987	to	cellular process
+21174	21176	GO:0065007	to	biological regulation
+21174	21176	GO:0009987	to	cellular process
+21510	21523	GO:0051179	localizations	localization
+21616	21622	GO:0032502	embryo	developmental process
+21662	21666	GO:0005623	cell	cell
+21762	21764	GO:0065007	to	biological regulation
+21762	21764	GO:0009987	to	cellular process
+22009	22011	GO:0065007	to	biological regulation
+22009	22011	GO:0009987	to	cellular process
+22074	22076	GO:0065007	to	biological regulation
+22074	22076	GO:0009987	to	cellular process
+22207	22212	GO:0005623	cells	cell
+22387	22389	GO:0065007	to	biological regulation
+22387	22389	GO:0009987	to	cellular process

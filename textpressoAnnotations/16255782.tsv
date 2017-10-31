@@ -1,0 +1,389 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm
+6	19	GO:0009987	transcription	cellular process
+6	19	GO:0008152	transcription	metabolic process
+59	69	GO:0050896	DNA repair	response to stimulus
+59	69	GO:0009987	DNA repair	cellular process
+59	69	GO:0008152	DNA repair	metabolic process
+107	112	GO:0005623	cells	cell
+500	505	GO:0005623	cells	cell
+540	542	GO:0065007	to	biological regulation
+540	542	GO:0009987	to	cellular process
+652	662	GO:0050896	DNA repair	response to stimulus
+652	662	GO:0009987	DNA repair	cellular process
+652	662	GO:0008152	DNA repair	metabolic process
+769	779	GO:0050896	DNA repair	response to stimulus
+769	779	GO:0009987	DNA repair	cellular process
+769	779	GO:0008152	DNA repair	metabolic process
+818	831	GO:0009987	transcription	cellular process
+818	831	GO:0008152	transcription	metabolic process
+930	943	GO:0009987	transcription	cellular process
+930	943	GO:0008152	transcription	metabolic process
+1033	1046	GO:0009987	transcription	cellular process
+1033	1046	GO:0008152	transcription	metabolic process
+1054	1065	GO:0009987	recognition	cellular process
+1079	1081	GO:0065007	to	biological regulation
+1079	1081	GO:0009987	to	cellular process
+1209	1222	GO:0009987	transcription	cellular process
+1209	1222	GO:0008152	transcription	metabolic process
+1280	1290	GO:0050896	DNA repair	response to stimulus
+1280	1290	GO:0009987	DNA repair	cellular process
+1280	1290	GO:0008152	DNA repair	metabolic process
+1411	1424	GO:0009987	transcription	cellular process
+1411	1424	GO:0008152	transcription	metabolic process
+1505	1515	GO:0050896	DNA repair	response to stimulus
+1505	1515	GO:0009987	DNA repair	cellular process
+1505	1515	GO:0008152	DNA repair	metabolic process
+1804	1817	GO:0009987	transcription	cellular process
+1804	1817	GO:0008152	transcription	metabolic process
+1821	1823	GO:0065007	to	biological regulation
+1821	1823	GO:0009987	to	cellular process
+1977	1979	GO:0065007	to	biological regulation
+1977	1979	GO:0009987	to	cellular process
+2132	2145	GO:0009987	transcription	cellular process
+2132	2145	GO:0008152	transcription	metabolic process
+2190	2203	GO:0009987	transcription	cellular process
+2190	2203	GO:0008152	transcription	metabolic process
+2227	2237	GO:0050896	DNA repair	response to stimulus
+2227	2237	GO:0009987	DNA repair	cellular process
+2227	2237	GO:0008152	DNA repair	metabolic process
+2403	2413	GO:0050896	DNA repair	response to stimulus
+2403	2413	GO:0009987	DNA repair	cellular process
+2403	2413	GO:0008152	DNA repair	metabolic process
+2491	2496	GO:0016265	death	death
+2545	2551	GO:0016265	deaths	death
+2704	2714	GO:0050896	DNA repair	response to stimulus
+2704	2714	GO:0009987	DNA repair	cellular process
+2704	2714	GO:0008152	DNA repair	metabolic process
+2815	2820	GO:0005623	cells	cell
+2857	2862	GO:0005623	cells	cell
+3085	3095	GO:0008152	metabolism	metabolic process
+3191	3210	GO:0008152	cellular metabolism	metabolic process
+3191	3210	GO:0009987	cellular metabolism	cellular process
+3200	3210	GO:0008152	metabolism	metabolic process
+3292	3300	GO:0003824	proteins	catalytic activity
+3330	3338	GO:0003824	proteins	catalytic activity
+3394	3396	GO:0065007	to	biological regulation
+3394	3396	GO:0009987	to	cellular process
+3409	3419	GO:0050896	DNA repair	response to stimulus
+3409	3419	GO:0009987	DNA repair	cellular process
+3409	3419	GO:0008152	DNA repair	metabolic process
+3455	3457	GO:0065007	to	biological regulation
+3455	3457	GO:0009987	to	cellular process
+3730	3732	GO:0065007	to	biological regulation
+3730	3732	GO:0009987	to	cellular process
+3966	3976	GO:0050896	DNA repair	response to stimulus
+3966	3976	GO:0009987	DNA repair	cellular process
+3966	3976	GO:0008152	DNA repair	metabolic process
+4197	4210	GO:0009987	transcription	cellular process
+4197	4210	GO:0008152	transcription	metabolic process
+4218	4229	GO:0009987	recognition	cellular process
+4417	4427	GO:0050896	DNA repair	response to stimulus
+4417	4427	GO:0009987	DNA repair	cellular process
+4417	4427	GO:0008152	DNA repair	metabolic process
+4449	4462	GO:0009987	transcription	cellular process
+4449	4462	GO:0008152	transcription	metabolic process
+4589	4591	GO:0065007	To	biological regulation
+4589	4591	GO:0009987	To	cellular process
+4615	4628	GO:0009987	transcription	cellular process
+4615	4628	GO:0008152	transcription	metabolic process
+4636	4647	GO:0009987	recognition	cellular process
+4661	4663	GO:0065007	to	biological regulation
+4661	4663	GO:0009987	to	cellular process
+4884	4894	GO:0050896	DNA repair	response to stimulus
+4884	4894	GO:0009987	DNA repair	cellular process
+4884	4894	GO:0008152	DNA repair	metabolic process
+5067	5069	GO:0065007	to	biological regulation
+5067	5069	GO:0009987	to	cellular process
+5190	5192	GO:0065007	to	biological regulation
+5190	5192	GO:0009987	to	cellular process
+6027	6035	GO:0009987	internal	cellular process
+6027	6035	GO:0008152	internal	metabolic process
+6092	6100	GO:0009987	internal	cellular process
+6092	6100	GO:0008152	internal	metabolic process
+6305	6307	GO:0065007	to	biological regulation
+6305	6307	GO:0009987	to	cellular process
+6330	6332	GO:0065007	to	biological regulation
+6330	6332	GO:0009987	to	cellular process
+6433	6435	GO:0065007	to	biological regulation
+6433	6435	GO:0009987	to	cellular process
+6832	6840	GO:0009987	internal	cellular process
+6832	6840	GO:0008152	internal	metabolic process
+6956	6958	GO:0065007	to	biological regulation
+6956	6958	GO:0009987	to	cellular process
+7173	7175	GO:0065007	to	biological regulation
+7173	7175	GO:0009987	to	cellular process
+7264	7266	GO:0065007	to	biological regulation
+7264	7266	GO:0009987	to	cellular process
+7458	7466	GO:0009987	internal	cellular process
+7458	7466	GO:0008152	internal	metabolic process
+7625	7627	GO:0065007	to	biological regulation
+7625	7627	GO:0009987	to	cellular process
+7714	7716	GO:0065007	to	biological regulation
+7714	7716	GO:0009987	to	cellular process
+8013	8021	GO:0009987	internal	cellular process
+8013	8021	GO:0008152	internal	metabolic process
+8182	8190	GO:0009987	internal	cellular process
+8182	8190	GO:0008152	internal	metabolic process
+8250	8252	GO:0065007	to	biological regulation
+8250	8252	GO:0009987	to	cellular process
+8474	8476	GO:0065007	to	biological regulation
+8474	8476	GO:0009987	to	cellular process
+8492	8505	GO:0009987	transcription	cellular process
+8492	8505	GO:0008152	transcription	metabolic process
+8542	8552	GO:0050896	DNA repair	response to stimulus
+8542	8552	GO:0009987	DNA repair	cellular process
+8542	8552	GO:0008152	DNA repair	metabolic process
+8672	8685	GO:0009987	transcription	cellular process
+8672	8685	GO:0008152	transcription	metabolic process
+8726	8736	GO:0050896	DNA repair	response to stimulus
+8726	8736	GO:0009987	DNA repair	cellular process
+8726	8736	GO:0008152	DNA repair	metabolic process
+8858	8860	GO:0065007	to	biological regulation
+8858	8860	GO:0009987	to	cellular process
+9080	9093	GO:0009987	transcription	cellular process
+9080	9093	GO:0008152	transcription	metabolic process
+9097	9099	GO:0065007	to	biological regulation
+9097	9099	GO:0009987	to	cellular process
+9132	9142	GO:0050896	DNA repair	response to stimulus
+9132	9142	GO:0009987	DNA repair	cellular process
+9132	9142	GO:0008152	DNA repair	metabolic process
+9509	9522	GO:0008152	Transcription	metabolic process
+9509	9522	GO:0009987	Transcription	cellular process
+9530	9541	GO:0009987	recognition	cellular process
+9633	9635	GO:0065007	to	biological regulation
+9633	9635	GO:0009987	to	cellular process
+9790	9803	GO:0009987	transcription	cellular process
+9790	9803	GO:0008152	transcription	metabolic process
+9997	10010	GO:0009987	transcription	cellular process
+9997	10010	GO:0008152	transcription	metabolic process
+10018	10029	GO:0009987	recognition	cellular process
+10121	10134	GO:0009987	transcription	cellular process
+10121	10134	GO:0008152	transcription	metabolic process
+10347	10360	GO:0009987	transcription	cellular process
+10347	10360	GO:0008152	transcription	metabolic process
+10452	10465	GO:0009987	transcription	cellular process
+10452	10465	GO:0008152	transcription	metabolic process
+10730	10740	GO:0050896	DNA repair	response to stimulus
+10730	10740	GO:0009987	DNA repair	cellular process
+10730	10740	GO:0008152	DNA repair	metabolic process
+10995	11003	GO:0009987	internal	cellular process
+10995	11003	GO:0008152	internal	metabolic process
+11174	11182	GO:0009987	internal	cellular process
+11174	11182	GO:0008152	internal	metabolic process
+11214	11216	GO:0065007	to	biological regulation
+11214	11216	GO:0009987	to	cellular process
+11249	11257	GO:0009987	internal	cellular process
+11249	11257	GO:0008152	internal	metabolic process
+11394	11396	GO:0065007	to	biological regulation
+11394	11396	GO:0009987	to	cellular process
+11553	11563	GO:0050896	DNA repair	response to stimulus
+11553	11563	GO:0009987	DNA repair	cellular process
+11553	11563	GO:0008152	DNA repair	metabolic process
+11744	11754	GO:0050896	DNA repair	response to stimulus
+11744	11754	GO:0009987	DNA repair	cellular process
+11744	11754	GO:0008152	DNA repair	metabolic process
+11822	11835	GO:0009987	transcription	cellular process
+11822	11835	GO:0008152	transcription	metabolic process
+11839	11841	GO:0065007	to	biological regulation
+11839	11841	GO:0009987	to	cellular process
+13066	13079	GO:0009987	transcription	cellular process
+13066	13079	GO:0008152	transcription	metabolic process
+13174	13189	GO:0008152	gene expression	metabolic process
+13560	13570	GO:0050896	DNA repair	response to stimulus
+13560	13570	GO:0009987	DNA repair	cellular process
+13560	13570	GO:0008152	DNA repair	metabolic process
+13592	13605	GO:0009987	transcription	cellular process
+13592	13605	GO:0008152	transcription	metabolic process
+14066	14076	GO:0050896	DNA repair	response to stimulus
+14066	14076	GO:0009987	DNA repair	cellular process
+14066	14076	GO:0008152	DNA repair	metabolic process
+14260	14270	GO:0050896	DNA repair	response to stimulus
+14260	14270	GO:0009987	DNA repair	cellular process
+14260	14270	GO:0008152	DNA repair	metabolic process
+14476	14489	GO:0009987	transcription	cellular process
+14476	14489	GO:0008152	transcription	metabolic process
+14493	14495	GO:0065007	to	biological regulation
+14493	14495	GO:0009987	to	cellular process
+14633	14644	GO:0009987	recognition	cellular process
+14675	14686	GO:0009987	recognition	cellular process
+14726	14736	GO:0050896	DNA repair	response to stimulus
+14726	14736	GO:0009987	DNA repair	cellular process
+14726	14736	GO:0008152	DNA repair	metabolic process
+14847	14857	GO:0050896	DNA repair	response to stimulus
+14847	14857	GO:0009987	DNA repair	cellular process
+14847	14857	GO:0008152	DNA repair	metabolic process
+14959	14969	GO:0050896	DNA repair	response to stimulus
+14959	14969	GO:0009987	DNA repair	cellular process
+14959	14969	GO:0008152	DNA repair	metabolic process
+14994	15007	GO:0009987	transcription	cellular process
+14994	15007	GO:0008152	transcription	metabolic process
+15057	15068	GO:0009987	recognition	cellular process
+15262	15272	GO:0050896	DNA repair	response to stimulus
+15262	15272	GO:0009987	DNA repair	cellular process
+15262	15272	GO:0008152	DNA repair	metabolic process
+15397	15399	GO:0065007	to	biological regulation
+15397	15399	GO:0009987	to	cellular process
+15426	15428	GO:0065007	to	biological regulation
+15426	15428	GO:0009987	to	cellular process
+15462	15464	GO:0065007	to	biological regulation
+15462	15464	GO:0009987	to	cellular process
+15484	15486	GO:0065007	to	biological regulation
+15484	15486	GO:0009987	to	cellular process
+15682	15684	GO:0065007	to	biological regulation
+15682	15684	GO:0009987	to	cellular process
+15731	15733	GO:0065007	to	biological regulation
+15731	15733	GO:0009987	to	cellular process
+15731	15733	GO:0065007	to	biological regulation
+15731	15733	GO:0009987	to	cellular process
+16338	16348	GO:0050896	DNA repair	response to stimulus
+16338	16348	GO:0009987	DNA repair	cellular process
+16338	16348	GO:0008152	DNA repair	metabolic process
+16338	16348	GO:0050896	DNA repair	response to stimulus
+16338	16348	GO:0009987	DNA repair	cellular process
+16338	16348	GO:0008152	DNA repair	metabolic process
+16585	16595	GO:0050896	DNA repair	response to stimulus
+16585	16595	GO:0009987	DNA repair	cellular process
+16585	16595	GO:0008152	DNA repair	metabolic process
+16905	16915	GO:0050896	DNA repair	response to stimulus
+16905	16915	GO:0009987	DNA repair	cellular process
+16905	16915	GO:0008152	DNA repair	metabolic process
+17144	17146	GO:0065007	to	biological regulation
+17144	17146	GO:0009987	to	cellular process
+17227	17237	GO:0050896	DNA repair	response to stimulus
+17227	17237	GO:0009987	DNA repair	cellular process
+17227	17237	GO:0008152	DNA repair	metabolic process
+17456	17469	GO:0009987	transcription	cellular process
+17456	17469	GO:0008152	transcription	metabolic process
+17524	17535	GO:0005488	DNA binding	binding
+17528	17535	GO:0005488	binding	binding
+17552	17561	GO:0008152	formation	metabolic process
+17711	17713	GO:0065007	to	biological regulation
+17711	17713	GO:0009987	to	cellular process
+17747	17760	GO:0009987	transcription	cellular process
+17747	17760	GO:0008152	transcription	metabolic process
+17799	17801	GO:0065007	to	biological regulation
+17799	17801	GO:0009987	to	cellular process
+17862	17866	GO:0005623	cell	cell
+17968	17972	GO:0005623	cell	cell
+18138	18140	GO:0065007	to	biological regulation
+18138	18140	GO:0009987	to	cellular process
+18169	18171	GO:0065007	to	biological regulation
+18169	18171	GO:0009987	to	cellular process
+18418	18424	GO:0009987	direct	cellular process
+18418	18424	GO:0008152	direct	metabolic process
+18512	18522	GO:0050896	DNA repair	response to stimulus
+18512	18522	GO:0009987	DNA repair	cellular process
+18512	18522	GO:0008152	DNA repair	metabolic process
+18659	18666	GO:0003824	protein	catalytic activity
+18710	18720	GO:0050896	DNA repair	response to stimulus
+18710	18720	GO:0009987	DNA repair	cellular process
+18710	18720	GO:0008152	DNA repair	metabolic process
+18926	18936	GO:0050896	DNA repair	response to stimulus
+18926	18936	GO:0009987	DNA repair	cellular process
+18926	18936	GO:0008152	DNA repair	metabolic process
+19142	19144	GO:0065007	to	biological regulation
+19142	19144	GO:0009987	to	cellular process
+19154	19167	GO:0009987	transcription	cellular process
+19154	19167	GO:0008152	transcription	metabolic process
+19171	19181	GO:0050896	DNA repair	response to stimulus
+19171	19181	GO:0009987	DNA repair	cellular process
+19171	19181	GO:0008152	DNA repair	metabolic process
+19204	19208	GO:0005623	cell	cell
+19272	19277	GO:0005623	cells	cell
+19332	19342	GO:0050896	DNA repair	response to stimulus
+19332	19342	GO:0009987	DNA repair	cellular process
+19332	19342	GO:0008152	DNA repair	metabolic process
+19374	19376	GO:0065007	to	biological regulation
+19374	19376	GO:0009987	to	cellular process
+19402	19412	GO:0050896	DNA repair	response to stimulus
+19402	19412	GO:0009987	DNA repair	cellular process
+19402	19412	GO:0008152	DNA repair	metabolic process
+19472	19474	GO:0065007	to	biological regulation
+19472	19474	GO:0009987	to	cellular process
+19933	19935	GO:0065007	to	biological regulation
+19933	19935	GO:0009987	to	cellular process
+19933	19935	GO:0065007	to	biological regulation
+19933	19935	GO:0009987	to	cellular process
+20228	20230	GO:0065007	to	biological regulation
+20228	20230	GO:0009987	to	cellular process
+20448	20450	GO:0065007	to	biological regulation
+20448	20450	GO:0009987	to	cellular process
+20584	20597	GO:0009987	transcription	cellular process
+20584	20597	GO:0008152	transcription	metabolic process
+20633	20646	GO:0009987	transcription	cellular process
+20633	20646	GO:0008152	transcription	metabolic process
+20650	20652	GO:0065007	to	biological regulation
+20650	20652	GO:0009987	to	cellular process
+21366	21376	GO:0050896	DNA repair	response to stimulus
+21366	21376	GO:0009987	DNA repair	cellular process
+21366	21376	GO:0008152	DNA repair	metabolic process
+21393	21395	GO:0065007	to	biological regulation
+21393	21395	GO:0009987	to	cellular process
+21746	21754	GO:0009987	internal	cellular process
+21746	21754	GO:0008152	internal	metabolic process
+21838	21846	GO:0009987	internal	cellular process
+21838	21846	GO:0008152	internal	metabolic process
+21897	21905	GO:0009987	internal	cellular process
+21897	21905	GO:0008152	internal	metabolic process
+22158	22160	GO:0065007	to	biological regulation
+22158	22160	GO:0009987	to	cellular process
+22344	22357	GO:0009987	transcription	cellular process
+22344	22357	GO:0008152	transcription	metabolic process
+22430	22443	GO:0009987	transcription	cellular process
+22430	22443	GO:0008152	transcription	metabolic process
+22466	22476	GO:0050896	DNA repair	response to stimulus
+22466	22476	GO:0009987	DNA repair	cellular process
+22466	22476	GO:0008152	DNA repair	metabolic process
+22605	22615	GO:0050896	DNA repair	response to stimulus
+22605	22615	GO:0009987	DNA repair	cellular process
+22605	22615	GO:0008152	DNA repair	metabolic process
+22622	22624	GO:0065007	to	biological regulation
+22622	22624	GO:0009987	to	cellular process
+23293	23295	GO:0065007	to	biological regulation
+23293	23295	GO:0009987	to	cellular process
+23293	23295	GO:0065007	to	biological regulation
+23293	23295	GO:0009987	to	cellular process
+23397	23399	GO:0065007	to	biological regulation
+23397	23399	GO:0009987	to	cellular process
+24113	24126	GO:0009987	transcription	cellular process
+24113	24126	GO:0008152	transcription	metabolic process
+24249	24262	GO:0009987	transcription	cellular process
+24249	24262	GO:0008152	transcription	metabolic process
+24266	24268	GO:0065007	to	biological regulation
+24266	24268	GO:0009987	to	cellular process
+25133	25137	GO:0005623	cell	cell
+25181	25185	GO:0005623	cell	cell
+25432	25440	GO:0009987	internal	cellular process
+25432	25440	GO:0008152	internal	metabolic process
+25764	25766	GO:0065007	to	biological regulation
+25764	25766	GO:0009987	to	cellular process
+25852	25854	GO:0065007	to	biological regulation
+25852	25854	GO:0009987	to	cellular process
+26193	26203	GO:0050896	DNA repair	response to stimulus
+26193	26203	GO:0009987	DNA repair	cellular process
+26193	26203	GO:0008152	DNA repair	metabolic process
+26230	26243	GO:0009987	transcription	cellular process
+26230	26243	GO:0008152	transcription	metabolic process
+26422	26430	GO:0005488	Template	binding
+26447	26449	GO:0065007	to	biological regulation
+26447	26449	GO:0009987	to	cellular process
+26491	26499	GO:0005488	template	binding
+26752	26762	GO:0050896	DNA repair	response to stimulus
+26752	26762	GO:0009987	DNA repair	cellular process
+26752	26762	GO:0008152	DNA repair	metabolic process
+26780	26793	GO:0009987	transcription	cellular process
+26780	26793	GO:0008152	transcription	metabolic process
+26927	26940	GO:0009987	transcription	cellular process
+26927	26940	GO:0008152	transcription	metabolic process
+26989	26999	GO:0050896	DNA repair	response to stimulus
+26989	26999	GO:0009987	DNA repair	cellular process
+26989	26999	GO:0008152	DNA repair	metabolic process
+27059	27061	GO:0065007	to	biological regulation
+27059	27061	GO:0009987	to	cellular process
+27384	27397	GO:0009987	transcription	cellular process
+27384	27397	GO:0008152	transcription	metabolic process
+27401	27403	GO:0065007	to	biological regulation
+27401	27403	GO:0009987	to	cellular process
+27436	27446	GO:0050896	DNA repair	response to stimulus
+27436	27446	GO:0009987	DNA repair	cellular process
+27436	27446	GO:0008152	DNA repair	metabolic process

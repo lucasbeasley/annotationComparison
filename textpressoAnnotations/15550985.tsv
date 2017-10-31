@@ -1,0 +1,189 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm
+50	54	GO:0044464	Axon	cell part
+215	222	GO:0065007	neurons	biological regulation
+215	222	GO:0016265	neurons	death
+215	222	GO:0009987	neurons	cellular process
+259	263	GO:0044464	axon	cell part
+264	270	GO:0040007	growth	growth
+294	303	GO:0023052	signaling	signaling
+342	347	GO:0044464	axons	cell part
+393	395	GO:0065007	to	biological regulation
+393	395	GO:0009987	to	cellular process
+430	432	GO:0065007	to	biological regulation
+430	432	GO:0009987	to	cellular process
+496	504	GO:0043226	spindles	organelle
+496	504	GO:0044422	spindles	organelle part
+496	504	GO:0044464	spindles	cell part
+534	539	GO:0044464	axons	cell part
+601	606	GO:0044464	axons	cell part
+759	764	GO:0044464	axons	cell part
+834	838	GO:0044464	axon	cell part
+834	847	GO:0009987	axon guidance	cellular process
+1024	1026	GO:0065007	to	biological regulation
+1024	1026	GO:0009987	to	cellular process
+1033	1040	GO:0065007	neurons	biological regulation
+1033	1040	GO:0016265	neurons	death
+1033	1040	GO:0009987	neurons	cellular process
+1178	1191	GO:0009987	transcription	cellular process
+1178	1191	GO:0008152	transcription	metabolic process
+1265	1273	GO:0043226	spindles	organelle
+1265	1273	GO:0044422	spindles	organelle part
+1265	1273	GO:0044464	spindles	cell part
+1302	1309	GO:0065007	neurons	biological regulation
+1302	1309	GO:0016265	neurons	death
+1302	1309	GO:0009987	neurons	cellular process
+1349	1354	GO:0044464	axons	cell part
+1615	1623	GO:0043226	spindles	organelle
+1615	1623	GO:0044422	spindles	organelle part
+1615	1623	GO:0044464	spindles	cell part
+1724	1729	GO:0044464	axons	cell part
+1778	1785	GO:0044422	spindle	organelle part
+1778	1785	GO:0043226	spindle	organelle
+1778	1785	GO:0044464	spindle	cell part
+1828	1841	GO:0044464	nerve endings	cell part
+1870	1876	GO:0032502	embryo	developmental process
+1906	1914	GO:0044421	antibody	extraccellular region part
+1906	1914	GO:0032991	antibody	macromolecular complex
+1928	1930	GO:0065007	to	biological regulation
+1928	1930	GO:0009987	to	cellular process
+1978	1985	GO:0065007	neurons	biological regulation
+1978	1985	GO:0016265	neurons	death
+1978	1985	GO:0009987	neurons	cellular process
+2000	2011	GO:0032502	innervation	developmental process
+2021	2028	GO:0065007	neurons	biological regulation
+2021	2028	GO:0016265	neurons	death
+2021	2028	GO:0009987	neurons	cellular process
+2247	2253	GO:0050896	reflex	response to stimulus
+2332	2337	GO:0044464	axons	cell part
+2423	2430	GO:0009987	Neurons	cellular process
+2423	2430	GO:0016265	Neurons	death
+2423	2430	GO:0065007	Neurons	biological regulation
+2501	2508	GO:0003824	protein	catalytic activity
+2614	2621	GO:0065007	neurons	biological regulation
+2614	2621	GO:0016265	neurons	death
+2614	2621	GO:0009987	neurons	cellular process
+2729	2731	GO:0065007	to	biological regulation
+2729	2731	GO:0009987	to	cellular process
+2809	2811	GO:0065007	to	biological regulation
+2809	2811	GO:0009987	to	cellular process
+3093	3101	GO:0003824	proteins	catalytic activity
+3136	3141	GO:0005623	cells	cell
+3204	3213	GO:0009987	embryonic	cellular process
+3204	3213	GO:0065007	embryonic	biological regulation
+3245	3250	GO:0005623	cells	cell
+3319	3321	GO:0065007	to	biological regulation
+3319	3321	GO:0009987	to	cellular process
+3400	3405	GO:0005623	cells	cell
+3488	3493	GO:0005623	cells	cell
+3571	3573	GO:0065007	to	biological regulation
+3571	3573	GO:0009987	to	cellular process
+3650	3655	GO:0005623	cells	cell
+3792	3794	GO:0065007	to	biological regulation
+3792	3794	GO:0009987	to	cellular process
+3886	3893	GO:0065007	neurons	biological regulation
+3886	3893	GO:0016265	neurons	death
+3886	3893	GO:0009987	neurons	cellular process
+3935	3937	GO:0065007	to	biological regulation
+3935	3937	GO:0009987	to	cellular process
+4098	4109	GO:0032502	Innervation	developmental process
+4119	4126	GO:0009987	Neurons	cellular process
+4119	4126	GO:0016265	Neurons	death
+4119	4126	GO:0065007	Neurons	biological regulation
+4246	4248	GO:0065007	to	biological regulation
+4246	4248	GO:0009987	to	cellular process
+4436	4443	GO:0032502	embryos	developmental process
+4684	4686	GO:0065007	to	biological regulation
+4684	4686	GO:0009987	to	cellular process
+4749	4751	GO:0065007	to	biological regulation
+4749	4751	GO:0009987	to	cellular process
+4797	4799	GO:0065007	to	biological regulation
+4797	4799	GO:0009987	to	cellular process
+4890	4895	GO:0044464	axons	cell part
+5109	5116	GO:0065007	neurons	biological regulation
+5109	5116	GO:0016265	neurons	death
+5109	5116	GO:0009987	neurons	cellular process
+5134	5136	GO:0065007	to	biological regulation
+5134	5136	GO:0009987	to	cellular process
+5341	5352	GO:0032502	innervation	developmental process
+5467	5469	GO:0065007	to	biological regulation
+5467	5469	GO:0009987	to	cellular process
+5480	5482	GO:0065007	to	biological regulation
+5480	5482	GO:0009987	to	cellular process
+5532	5534	GO:0065007	to	biological regulation
+5532	5534	GO:0009987	to	cellular process
+5555	5557	GO:0065007	to	biological regulation
+5555	5557	GO:0009987	to	cellular process
+5832	5843	GO:0032502	innervation	developmental process
+5909	5920	GO:0032502	Innervation	developmental process
+5974	5976	GO:0065007	to	biological regulation
+5974	5976	GO:0009987	to	cellular process
+6081	6083	GO:0065007	to	biological regulation
+6081	6083	GO:0009987	to	cellular process
+6090	6096	GO:0040007	growth	growth
+6126	6131	GO:0044464	axons	cell part
+6150	6157	GO:0032502	embryos	developmental process
+6217	6224	GO:0065007	neurons	biological regulation
+6217	6224	GO:0016265	neurons	death
+6217	6224	GO:0009987	neurons	cellular process
+6286	6293	GO:0032502	embryos	developmental process
+6309	6320	GO:0032502	innervation	developmental process
+6427	6429	GO:0065007	to	biological regulation
+6427	6429	GO:0009987	to	cellular process
+6509	6511	GO:0065007	to	biological regulation
+6509	6511	GO:0009987	to	cellular process
+6588	6599	GO:0032502	innervation	developmental process
+6718	6723	GO:0044464	axons	cell part
+6749	6758	GO:0044464	dendrites	cell part
+6804	6810	GO:0050896	reflex	response to stimulus
+6855	6857	GO:0065007	to	biological regulation
+6855	6857	GO:0009987	to	cellular process
+6891	6896	GO:0044464	axons	cell part
+6907	6914	GO:0065007	neurons	biological regulation
+6907	6914	GO:0016265	neurons	death
+6907	6914	GO:0009987	neurons	cellular process
+6981	6985	GO:0044464	axon	cell part
+7008	7010	GO:0065007	to	biological regulation
+7008	7010	GO:0009987	to	cellular process
+7029	7033	GO:0044464	axon	cell part
+7085	7096	GO:0032502	Innervation	developmental process
+7105	7107	GO:0065007	to	biological regulation
+7105	7107	GO:0009987	to	cellular process
+7125	7136	GO:0032502	innervation	developmental process
+7175	7182	GO:0044422	spindle	organelle part
+7175	7182	GO:0043226	spindle	organelle
+7175	7182	GO:0044464	spindle	cell part
+7231	7239	GO:0043226	spindles	organelle
+7231	7239	GO:0044422	spindles	organelle part
+7231	7239	GO:0044464	spindles	cell part
+7408	7416	GO:0044421	antibody	extraccellular region part
+7408	7416	GO:0032991	antibody	macromolecular complex
+7503	7511	GO:0044421	antibody	extraccellular region part
+7503	7511	GO:0032991	antibody	macromolecular complex
+7564	7571	GO:0003824	protein	catalytic activity
+7636	7644	GO:0043226	spindles	organelle
+7636	7644	GO:0044422	spindles	organelle part
+7636	7644	GO:0044464	spindles	cell part
+7636	7644	GO:0043226	spindles	organelle
+7636	7644	GO:0044422	spindles	organelle part
+7636	7644	GO:0044464	spindles	cell part
+7730	7738	GO:0043226	spindles	organelle
+7730	7738	GO:0044422	spindles	organelle part
+7730	7738	GO:0044464	spindles	cell part
+7786	7788	GO:0065007	to	biological regulation
+7786	7788	GO:0009987	to	cellular process
+7878	7883	GO:0005623	cells	cell
+7908	7916	GO:0043226	spindles	organelle
+7908	7916	GO:0044422	spindles	organelle part
+7908	7916	GO:0044464	spindles	cell part
+7985	7993	GO:0043226	spindles	organelle
+7985	7993	GO:0044422	spindles	organelle part
+7985	7993	GO:0044464	spindles	cell part
+8022	8030	GO:0044421	antibody	extraccellular region part
+8022	8030	GO:0032991	antibody	macromolecular complex
+8374	8376	GO:0065007	to	biological regulation
+8374	8376	GO:0009987	to	cellular process
+8383	8388	GO:0044464	axons	cell part
+8408	8416	GO:0043226	spindles	organelle
+8408	8416	GO:0044422	spindles	organelle part
+8408	8416	GO:0044464	spindles	cell part
+8430	8432	GO:0065007	to	

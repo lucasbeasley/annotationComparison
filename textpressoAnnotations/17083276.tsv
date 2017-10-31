@@ -1,0 +1,1121 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm
+23	38	GO:0044464	Heterochromatin	cell part
+23	38	GO:0044422	Heterochromatin	organelle part
+67	76	GO:0065007	Embryonic	biological regulation
+67	76	GO:0009987	Embryonic	cellular process
+77	82	GO:0005623	Cells	cell
+120	129	GO:0044422	chromatin	organelle part
+120	129	GO:0044464	chromatin	cell part
+143	153	GO:0065007	epigenetic	biological regulation
+248	257	GO:0044422	chromatin	organelle part
+248	257	GO:0044464	chromatin	cell part
+248	266	GO:0016043	chromatin assembly	cellular component organization
+248	266	GO:0009987	chromatin assembly	cellular process
+294	296	GO:0065007	To	biological regulation
+294	296	GO:0009987	To	cellular process
+317	326	GO:0044422	chromatin	organelle part
+317	326	GO:0044464	chromatin	cell part
+317	335	GO:0016043	chromatin assembly	cellular component organization
+317	335	GO:0009987	chromatin assembly	cellular process
+339	341	GO:0065007	to	biological regulation
+339	341	GO:0009987	to	cellular process
+618	625	GO:0032502	embryos	developmental process
+663	683	GO:0016043	nuclear organization	cellular component organization
+663	683	GO:0009987	nuclear organization	cellular process
+700	715	GO:0044464	heterochromatin	cell part
+700	715	GO:0044422	heterochromatin	organelle part
+755	762	GO:0032502	embryos	developmental process
+764	779	GO:0044464	heterochromatin	cell part
+764	779	GO:0044422	heterochromatin	organelle part
+894	901	GO:0032502	embryos	developmental process
+931	946	GO:0044464	heterochromatin	cell part
+931	946	GO:0044422	heterochromatin	organelle part
+969	971	GO:0065007	to	biological regulation
+969	971	GO:0009987	to	cellular process
+989	1004	GO:0044464	heterochromatin	cell part
+989	1004	GO:0044422	heterochromatin	organelle part
+1013	1015	GO:0065007	to	biological regulation
+1013	1015	GO:0009987	to	cellular process
+1042	1049	GO:0032502	embryos	developmental process
+1093	1103	GO:0022414	maturation	reproductive process
+1107	1122	GO:0044464	heterochromatin	cell part
+1107	1122	GO:0044422	heterochromatin	organelle part
+1162	1171	GO:0009987	embryonic	cellular process
+1162	1171	GO:0065007	embryonic	biological regulation
+1177	1182	GO:0005623	cells	cell
+1213	1229	GO:0016043	RNA interference	cellular component organization
+1213	1229	GO:0050896	RNA interference	response to stimulus
+1213	1229	GO:0008152	RNA interference	metabolic process
+1213	1229	GO:0009987	RNA interference	cellular process
+1213	1229	GO:0065007	RNA interference	biological regulation
+1316	1331	GO:0044464	heterochromatin	cell part
+1316	1331	GO:0044422	heterochromatin	organelle part
+1377	1382	GO:0005623	cells	cell
+1412	1422	GO:0065007	epigenetic	biological regulation
+1423	1442	GO:0009987	histone methylation	cellular process
+1423	1442	GO:0008152	histone methylation	metabolic process
+1423	1442	GO:0016043	histone methylation	cellular component organization
+1431	1442	GO:0009987	methylation	cellular process
+1431	1442	GO:0008152	methylation	metabolic process
+1477	1492	GO:0044464	heterochromatin	cell part
+1477	1492	GO:0044422	heterochromatin	organelle part
+1515	1530	GO:0044464	heterochromatin	cell part
+1515	1530	GO:0044422	heterochromatin	organelle part
+1573	1582	GO:0009987	embryonic	cellular process
+1573	1582	GO:0065007	embryonic	biological regulation
+1606	1611	GO:0005623	cells	cell
+1699	1714	GO:0044464	heterochromatin	cell part
+1699	1714	GO:0044422	heterochromatin	organelle part
+1699	1727	GO:0009987	heterochromatin organization	cellular process
+1699	1727	GO:0016043	heterochromatin organization	cellular component organization
+1743	1752	GO:0009987	embryonic	cellular process
+1743	1752	GO:0065007	embryonic	biological regulation
+1753	1758	GO:0005623	cells	cell
+1799	1808	GO:0044422	chromatin	organelle part
+1799	1808	GO:0044464	chromatin	cell part
+1799	1817	GO:0016043	chromatin assembly	cellular component organization
+1799	1817	GO:0009987	chromatin assembly	cellular process
+1872	1882	GO:0065007	epigenetic	biological regulation
+1914	1921	GO:0032502	embryos	developmental process
+1926	1935	GO:0009987	embryonic	cellular process
+1926	1935	GO:0065007	embryonic	biological regulation
+1941	1946	GO:0005623	cells	cell
+1955	1964	GO:0044464	Chromatin	cell part
+1955	1964	GO:0044422	Chromatin	organelle part
+2057	2068	GO:0044464	nucleosomes	cell part
+2057	2068	GO:0032991	nucleosomes	macromolecular complex
+2057	2068	GO:0044422	nucleosomes	organelle part
+2114	2122	GO:0003824	proteins	catalytic activity
+2187	2198	GO:0044464	nucleosomes	cell part
+2187	2198	GO:0032991	nucleosomes	macromolecular complex
+2187	2198	GO:0044422	nucleosomes	organelle part
+2285	2295	GO:0065007	epigenetic	biological regulation
+2328	2332	GO:0005623	cell	cell
+2328	2342	GO:0009987	cell divisions	cellular process
+2370	2372	GO:0065007	to	biological regulation
+2370	2372	GO:0009987	to	cellular process
+2373	2382	GO:0044422	chromatin	organelle part
+2373	2382	GO:0044464	chromatin	cell part
+2396	2398	GO:0065007	to	biological regulation
+2396	2398	GO:0009987	to	cellular process
+2505	2514	GO:0044422	chromatin	organelle part
+2505	2514	GO:0044464	chromatin	cell part
+2505	2523	GO:0016043	chromatin assembly	cellular component organization
+2505	2523	GO:0009987	chromatin assembly	cellular process
+2552	2563	GO:0044464	nucleosomes	cell part
+2552	2563	GO:0032991	nucleosomes	macromolecular complex
+2552	2563	GO:0044422	nucleosomes	organelle part
+2592	2603	GO:0044464	nucleosomes	cell part
+2592	2603	GO:0032991	nucleosomes	macromolecular complex
+2592	2603	GO:0044422	nucleosomes	organelle part
+2652	2654	GO:0065007	to	biological regulation
+2652	2654	GO:0009987	to	cellular process
+2663	2673	GO:0065007	epigenetic	biological regulation
+2733	2742	GO:0044422	chromatin	organelle part
+2733	2742	GO:0044464	chromatin	cell part
+2733	2751	GO:0016043	chromatin assembly	cellular component organization
+2733	2751	GO:0009987	chromatin assembly	cellular process
+2776	2785	GO:0009987	embryonic	cellular process
+2776	2785	GO:0065007	embryonic	biological regulation
+2791	2796	GO:0005623	cells	cell
+2807	2814	GO:0032502	embryos	developmental process
+2859	2869	GO:0065007	epigenetic	biological regulation
+2882	2884	GO:0065007	to	biological regulation
+2882	2884	GO:0009987	to	cellular process
+2990	3017	GO:0016043	organization of chromosomes	cellular component organization
+2990	3017	GO:0009987	organization of chromosomes	cellular process
+3006	3017	GO:0044464	chromosomes	cell part
+3006	3017	GO:0044422	chromosomes	organelle part
+3006	3017	GO:0043226	chromosomes	organelle
+3025	3032	GO:0043226	nucleus	organelle
+3025	3032	GO:0044464	nucleus	cell part
+3068	3070	GO:0065007	to	biological regulation
+3068	3070	GO:0009987	to	cellular process
+3104	3113	GO:0044422	chromatin	organelle part
+3104	3113	GO:0044464	chromatin	cell part
+3136	3145	GO:0009987	embryonic	cellular process
+3136	3145	GO:0065007	embryonic	biological regulation
+3151	3155	GO:0005623	cell	cell
+3274	3284	GO:0065007	epigenetic	biological regulation
+3306	3315	GO:0009987	embryonic	cellular process
+3306	3315	GO:0065007	embryonic	biological regulation
+3316	3331	GO:0008152	gene expression	metabolic process
+3463	3478	GO:0008152	DNA methylation	metabolic process
+3463	3478	GO:0009987	DNA methylation	cellular process
+3463	3478	GO:0065007	DNA methylation	biological regulation
+3467	3478	GO:0009987	methylation	cellular process
+3467	3478	GO:0008152	methylation	metabolic process
+3482	3492	GO:0065007	epigenetic	biological regulation
+3526	3528	GO:0065007	to	biological regulation
+3526	3528	GO:0009987	to	cellular process
+3547	3556	GO:0044422	chromatin	organelle part
+3547	3556	GO:0044464	chromatin	cell part
+3649	3658	GO:0044422	chromatin	organelle part
+3649	3658	GO:0044464	chromatin	cell part
+3649	3669	GO:0009987	chromatin remodeling	cellular process
+3649	3669	GO:0016043	chromatin remodeling	cellular component organization
+3750	3755	GO:0005623	cells	cell
+3775	3782	GO:0032502	embryos	developmental process
+3834	3843	GO:0044422	chromatin	organelle part
+3834	3843	GO:0044464	chromatin	cell part
+3834	3854	GO:0009987	chromatin remodeling	cellular process
+3834	3854	GO:0016043	chromatin remodeling	cellular component organization
+3834	3864	GO:0044464	chromatin remodeling complexes	cell part
+3834	3864	GO:0032991	chromatin remodeling complexes	macromolecular complex
+3834	3864	GO:0044422	chromatin remodeling complexes	organelle part
+3881	3883	GO:0065007	to	biological regulation
+3881	3883	GO:0009987	to	cellular process
+3892	3902	GO:0044422	nucleosome	organelle part
+3892	3902	GO:0044464	nucleosome	cell part
+3892	3902	GO:0032991	nucleosome	macromolecular complex
+3892	3911	GO:0016043	nucleosome assembly	cellular component organization
+3892	3911	GO:0009987	nucleosome assembly	cellular process
+3963	3965	GO:0065007	to	biological regulation
+3963	3965	GO:0009987	to	cellular process
+3974	3983	GO:0044422	chromatin	organelle part
+3974	3983	GO:0044464	chromatin	cell part
+3974	3992	GO:0016043	chromatin assembly	cellular component organization
+3974	3992	GO:0009987	chromatin assembly	cellular process
+3997	4007	GO:0022414	maturation	reproductive process
+4060	4069	GO:0044422	chromatin	organelle part
+4060	4069	GO:0044464	chromatin	cell part
+4060	4078	GO:0016043	chromatin assembly	cellular component organization
+4060	4078	GO:0009987	chromatin assembly	cellular process
+4237	4247	GO:0050896	DNA repair	response to stimulus
+4237	4247	GO:0009987	DNA repair	cellular process
+4237	4247	GO:0008152	DNA repair	metabolic process
+4318	4327	GO:0044422	chromatin	organelle part
+4318	4327	GO:0044464	chromatin	cell part
+4342	4349	GO:0003824	coupled	catalytic activity
+4350	4352	GO:0065007	to	biological regulation
+4350	4352	GO:0009987	to	cellular process
+4357	4366	GO:0008152	synthesis	metabolic process
+4469	4478	GO:0008152	synthesis	metabolic process
+4520	4522	GO:0065007	to	biological regulation
+4520	4522	GO:0009987	to	cellular process
+4537	4546	GO:0044422	chromatin	organelle part
+4537	4546	GO:0044464	chromatin	cell part
+4537	4555	GO:0016043	chromatin assembly	cellular component organization
+4537	4555	GO:0009987	chromatin assembly	cellular process
+4595	4603	GO:0003824	proteins	catalytic activity
+4615	4630	GO:0044464	heterochromatin	cell part
+4615	4630	GO:0044422	heterochromatin	organelle part
+4615	4630	GO:0044464	heterochromatin	cell part
+4615	4630	GO:0044422	heterochromatin	organelle part
+4658	4665	GO:0003824	protein	catalytic activity
+4686	4704	GO:0005488	methyl-CpG binding	binding
+4697	4704	GO:0005488	binding	binding
+4712	4719	GO:0003824	protein	catalytic activity
+4769	4805	GO:0003824	histone methyltransferase activities	catalytic activity
+4777	4805	GO:0003824	methyltransferase activities	catalytic activity
+4850	4852	GO:0065007	to	biological regulation
+4850	4852	GO:0009987	to	cellular process
+4941	4956	GO:0044464	heterochromatin	cell part
+4941	4956	GO:0044422	heterochromatin	organelle part
+4973	4980	GO:0009987	S phase	cellular process
+5045	5054	GO:0008152	formation	metabolic process
+5058	5073	GO:0044464	heterochromatin	cell part
+5058	5073	GO:0044422	heterochromatin	organelle part
+5101	5111	GO:0065007	epigenetic	biological regulation
+5339	5344	GO:0005623	cells	cell
+5353	5362	GO:0009987	embryonic	cellular process
+5353	5362	GO:0065007	embryonic	biological regulation
+5373	5378	GO:0005623	cells	cell
+5488	5493	GO:0005623	cells	cell
+5513	5529	GO:0016043	RNA interference	cellular component organization
+5513	5529	GO:0050896	RNA interference	response to stimulus
+5513	5529	GO:0008152	RNA interference	metabolic process
+5513	5529	GO:0009987	RNA interference	cellular process
+5513	5529	GO:0065007	RNA interference	biological regulation
+5531	5535	GO:0009987	RNAi	cellular process
+5531	5535	GO:0065007	RNAi	biological regulation
+5599	5606	GO:0032502	embryos	developmental process
+5614	5619	GO:0005623	cells	cell
+5697	5707	GO:0065007	epigenetic	biological regulation
+5719	5734	GO:0044464	heterochromatin	cell part
+5719	5734	GO:0044422	heterochromatin	organelle part
+5758	5767	GO:0009987	embryonic	cellular process
+5758	5767	GO:0065007	embryonic	biological regulation
+5768	5773	GO:0005623	cells	cell
+5810	5815	GO:0005623	cells	cell
+5816	5818	GO:0065007	to	biological regulation
+5816	5818	GO:0009987	to	cellular process
+6061	6063	GO:0065007	to	biological regulation
+6061	6063	GO:0009987	to	cellular process
+6141	6148	GO:0032502	embryos	developmental process
+6141	6148	GO:0032502	embryos	developmental process
+6249	6258	GO:0009987	embryonic	cellular process
+6249	6258	GO:0065007	embryonic	biological regulation
+6266	6268	GO:0003824	E4	catalytic activity
+6331	6333	GO:0003824	E4	catalytic activity
+6334	6341	GO:0032502	embryos	developmental process
+6441	6448	GO:0032502	embryos	developmental process
+6501	6508	GO:0032502	embryos	developmental process
+6530	6532	GO:0065007	to	biological regulation
+6530	6532	GO:0009987	to	cellular process
+6536	6541	GO:0005623	cells	cell
+6549	6551	GO:0003824	E4	catalytic activity
+6573	6578	GO:0005623	cells	cell
+6622	6624	GO:0065007	to	biological regulation
+6622	6624	GO:0009987	to	cellular process
+6772	6779	GO:0032502	embryos	developmental process
+6918	6925	GO:0003824	protein	catalytic activity
+6944	6950	GO:0032502	embryo	developmental process
+6954	6956	GO:0065007	to	biological regulation
+6954	6956	GO:0009987	to	cellular process
+7007	7014	GO:0003824	protein	catalytic activity
+7066	7070	GO:0005623	cell	cell
+7066	7080	GO:0009987	cell divisions	cellular process
+7139	7159	GO:0016043	nuclear organization	cellular component organization
+7139	7159	GO:0009987	nuclear organization	cellular process
+7163	7178	GO:0044464	heterochromatin	cell part
+7163	7178	GO:0044422	heterochromatin	organelle part
+7224	7231	GO:0032502	embryos	developmental process
+7245	7260	GO:0044464	heterochromatin	cell part
+7245	7260	GO:0044422	heterochromatin	organelle part
+7298	7313	GO:0044464	heterochromatin	cell part
+7298	7313	GO:0044422	heterochromatin	organelle part
+7343	7353	GO:0009987	interphase	cellular process
+7476	7481	GO:0005623	cells	cell
+7495	7510	GO:0044464	heterochromatin	cell part
+7495	7510	GO:0044422	heterochromatin	organelle part
+7558	7567	GO:0044422	chromatin	organelle part
+7558	7567	GO:0044464	chromatin	cell part
+7586	7599	GO:0044464	chromocenters	cell part
+7586	7599	GO:0044422	chromocenters	organelle part
+7707	7714	GO:0032502	embryos	developmental process
+7734	7743	GO:0044422	chromatin	organelle part
+7734	7743	GO:0044464	chromatin	cell part
+7836	7838	GO:0065007	to	biological regulation
+7836	7838	GO:0009987	to	cellular process
+7927	7942	GO:0044464	heterochromatin	cell part
+7927	7942	GO:0044422	heterochromatin	organelle part
+7927	7955	GO:0009987	heterochromatin organization	cellular process
+7927	7955	GO:0016043	heterochromatin organization	cellular component organization
+8028	8035	GO:0032502	embryos	developmental process
+8159	8174	GO:0044464	Heterochromatin	cell part
+8159	8174	GO:0044422	Heterochromatin	organelle part
+8297	8309	GO:0051179	Localization	localization
+8387	8389	GO:0065007	to	biological regulation
+8387	8389	GO:0009987	to	cellular process
+8403	8418	GO:0044464	heterochromatin	cell part
+8403	8418	GO:0044422	heterochromatin	organelle part
+8442	8462	GO:0016043	nuclear organization	cellular component organization
+8442	8462	GO:0009987	nuclear organization	cellular process
+8466	8481	GO:0044464	heterochromatin	cell part
+8466	8481	GO:0044422	heterochromatin	organelle part
+8601	8603	GO:0003824	E4	catalytic activity
+8604	8611	GO:0032502	embryos	developmental process
+8768	8775	GO:0043226	nucleus	organelle
+8768	8775	GO:0044464	nucleus	cell part
+8876	8888	GO:0051179	Localization	localization
+8930	8932	GO:0065007	to	biological regulation
+8930	8932	GO:0009987	to	cellular process
+8971	8988	GO:0044464	nuclear periphery	cell part
+8971	8988	GO:0044422	nuclear periphery	organelle part
+9057	9072	GO:0044464	heterochromatin	cell part
+9057	9072	GO:0044422	heterochromatin	organelle part
+9086	9093	GO:0032502	embryos	developmental process
+9116	9131	GO:0044464	heterochromatin	cell part
+9116	9131	GO:0044422	heterochromatin	organelle part
+9116	9144	GO:0009987	heterochromatin organization	cellular process
+9116	9144	GO:0016043	heterochromatin organization	cellular component organization
+9159	9161	GO:0065007	to	biological regulation
+9159	9161	GO:0009987	to	cellular process
+9188	9195	GO:0032502	embryos	developmental process
+9327	9334	GO:0003824	protein	catalytic activity
+9382	9397	GO:0044464	heterochromatin	cell part
+9382	9397	GO:0044422	heterochromatin	organelle part
+9405	9414	GO:0009987	embryonic	cellular process
+9405	9414	GO:0065007	embryonic	biological regulation
+9415	9419	GO:0005623	cell	cell
+9514	9519	GO:0005623	cells	cell
+9565	9569	GO:0005623	cell	cell
+9635	9642	GO:0032502	embryos	developmental process
+9649	9654	GO:0005623	cells	cell
+9695	9702	GO:0032502	embryos	developmental process
+9724	9728	GO:0009987	RNAi	cellular process
+9724	9728	GO:0065007	RNAi	biological regulation
+9777	9782	GO:0005623	cells	cell
+9871	9876	GO:0005623	cells	cell
+9912	9914	GO:0065007	to	biological regulation
+9912	9914	GO:0009987	to	cellular process
+9919	9924	GO:0005623	cells	cell
+9938	9940	GO:0003824	E4	catalytic activity
+10069	10076	GO:0043226	nucleus	organelle
+10069	10076	GO:0044464	nucleus	cell part
+10144	10164	GO:0016043	nuclear organization	cellular component organization
+10144	10164	GO:0009987	nuclear organization	cellular process
+10168	10183	GO:0044464	heterochromatin	cell part
+10168	10183	GO:0044422	heterochromatin	organelle part
+10190	10195	GO:0005623	cells	cell
+10213	10215	GO:0065007	to	biological regulation
+10213	10215	GO:0009987	to	cellular process
+10239	10246	GO:0032502	embryos	developmental process
+10307	10322	GO:0044464	heterochromatin	cell part
+10307	10322	GO:0044422	heterochromatin	organelle part
+10307	10335	GO:0009987	heterochromatin organization	cellular process
+10307	10335	GO:0016043	heterochromatin organization	cellular component organization
+10353	10362	GO:0009987	embryonic	cellular process
+10353	10362	GO:0065007	embryonic	biological regulation
+10415	10419	GO:0009987	RNAi	cellular process
+10415	10419	GO:0065007	RNAi	biological regulation
+10484	10488	GO:0005623	cell	cell
+10484	10502	GO:0008283	cell proliferation	cell proliferation
+10559	10574	GO:0044464	heterochromatin	cell part
+10559	10574	GO:0044422	heterochromatin	organelle part
+10642	10647	GO:0005623	cells	cell
+10663	10678	GO:0044464	heterochromatin	cell part
+10663	10678	GO:0044422	heterochromatin	organelle part
+10663	10691	GO:0009987	heterochromatin organization	cellular process
+10663	10691	GO:0016043	heterochromatin organization	cellular component organization
+10767	10773	GO:0032502	embryo	developmental process
+10781	10786	GO:0005623	cells	cell
+10836	10841	GO:0005623	cells	cell
+10867	10882	GO:0044464	heterochromatin	cell part
+10867	10882	GO:0044422	heterochromatin	organelle part
+10944	10950	GO:0065007	global	biological regulation
+10959	10979	GO:0016043	nuclear organization	cellular component organization
+10959	10979	GO:0009987	nuclear organization	cellular process
+11017	11025	GO:0044421	antibody	extraccellular region part
+11017	11025	GO:0032991	antibody	macromolecular complex
+11067	11074	GO:0003824	protein	catalytic activity
+11075	11077	GO:0065007	to	biological regulation
+11075	11077	GO:0009987	to	cellular process
+11100	11118	GO:0044422	PML nuclear bodies	organelle part
+11100	11118	GO:0044464	PML nuclear bodies	cell part
+11104	11118	GO:0044464	nuclear bodies	cell part
+11104	11118	GO:0044422	nuclear bodies	organelle part
+11258	11276	GO:0044422	PML nuclear bodies	organelle part
+11258	11276	GO:0044464	PML nuclear bodies	cell part
+11262	11276	GO:0044464	nuclear bodies	cell part
+11262	11276	GO:0044422	nuclear bodies	organelle part
+11319	11324	GO:0005623	cells	cell
+11539	11548	GO:0044422	chromatin	organelle part
+11539	11548	GO:0044464	chromatin	cell part
+11563	11571	GO:0003824	proteins	catalytic activity
+11659	11666	GO:0032502	embryos	developmental process
+11677	11682	GO:0005623	cells	cell
+11718	11733	GO:0044464	heterochromatin	cell part
+11718	11733	GO:0044422	heterochromatin	organelle part
+11797	11801	GO:0005623	cell	cell
+11851	11858	GO:0009987	S phase	cellular process
+11931	11935	GO:0009987	RNAi	cellular process
+11931	11935	GO:0065007	RNAi	biological regulation
+11963	11968	GO:0005623	cells	cell
+12175	12179	GO:0005623	cell	cell
+12275	12280	GO:0005623	cells	cell
+12282	12297	GO:0008152	DNA replication	metabolic process
+12282	12297	GO:0009987	DNA replication	cellular process
+12338	12353	GO:0044464	heterochromatin	cell part
+12338	12353	GO:0044422	heterochromatin	organelle part
+12338	12366	GO:0009987	heterochromatin organization	cellular process
+12338	12366	GO:0016043	heterochromatin organization	cellular component organization
+12392	12397	GO:0005623	cells	cell
+12404	12406	GO:0065007	to	biological regulation
+12404	12406	GO:0009987	to	cellular process
+12482	12498	GO:0009987	cellular process	cellular process
+12506	12513	GO:0032502	embryos	developmental process
+12586	12591	GO:0005623	cells	cell
+12602	12609	GO:0032502	embryos	developmental process
+12643	12658	GO:0044464	heterochromatin	cell part
+12643	12658	GO:0044422	heterochromatin	organelle part
+12666	12673	GO:0043226	nucleus	organelle
+12666	12673	GO:0044464	nucleus	cell part
+12701	12705	GO:0005623	cell	cell
+12701	12711	GO:0009987	cell cycle	cellular process
+12735	12737	GO:0065007	to	biological regulation
+12735	12737	GO:0009987	to	cellular process
+12773	12788	GO:0044464	heterochromatin	cell part
+12773	12788	GO:0044422	heterochromatin	organelle part
+12773	12801	GO:0009987	heterochromatin organization	cellular process
+12773	12801	GO:0016043	heterochromatin organization	cellular component organization
+12884	12886	GO:0065007	to	biological regulation
+12884	12886	GO:0009987	to	cellular process
+13110	13121	GO:0044464	chromosomes	cell part
+13110	13121	GO:0044422	chromosomes	organelle part
+13110	13121	GO:0043226	chromosomes	organelle
+13221	13231	GO:0009987	interphase	cellular process
+13232	13239	GO:0043226	nucleus	organelle
+13232	13239	GO:0044464	nucleus	cell part
+13298	13313	GO:0051179	centric regions	localization
+13298	13313	GO:0044422	centric regions	organelle part
+13298	13313	GO:0044464	centric regions	cell part
+13298	13313	GO:0009987	centric regions	cellular process
+13379	13384	GO:0005623	cells	cell
+13426	13441	GO:0044464	heterochromatin	cell part
+13426	13441	GO:0044422	heterochromatin	organelle part
+13564	13575	GO:0044464	chromosomes	cell part
+13564	13575	GO:0044422	chromosomes	organelle part
+13564	13575	GO:0043226	chromosomes	organelle
+13690	13695	GO:0005623	cells	cell
+13755	13772	GO:0044464	nuclear periphery	cell part
+13755	13772	GO:0044422	nuclear periphery	organelle part
+13933	13940	GO:0043226	nucleus	organelle
+13933	13940	GO:0044464	nucleus	cell part
+14078	14083	GO:0005623	cells	cell
+14145	14160	GO:0044464	heterochromatin	cell part
+14145	14160	GO:0044422	heterochromatin	organelle part
+14237	14239	GO:0065007	to	biological regulation
+14237	14239	GO:0009987	to	cellular process
+14248	14253	GO:0005623	cells	cell
+14456	14471	GO:0044464	heterochromatin	cell part
+14456	14471	GO:0044422	heterochromatin	organelle part
+14571	14580	GO:0008152	synthesis	metabolic process
+14638	14647	GO:0044422	chromatin	organelle part
+14638	14647	GO:0044464	chromatin	cell part
+14638	14660	GO:0009987	chromatin organization	cellular process
+14638	14660	GO:0016043	chromatin organization	cellular component organization
+14858	14863	GO:0005623	cells	cell
+14892	14901	GO:0044422	chromatin	organelle part
+14892	14901	GO:0044464	chromatin	cell part
+15022	15031	GO:0044422	chromatin	organelle part
+15022	15031	GO:0044464	chromatin	cell part
+15056	15061	GO:0005623	cells	cell
+15101	15105	GO:0009987	RNAi	cellular process
+15101	15105	GO:0065007	RNAi	biological regulation
+15117	15119	GO:0065007	to	biological regulation
+15117	15119	GO:0009987	to	cellular process
+15299	15308	GO:0044422	chromatin	organelle part
+15299	15308	GO:0044464	chromatin	cell part
+15368	15373	GO:0005623	cells	cell
+15462	15477	GO:0044464	heterochromatin	cell part
+15462	15477	GO:0044422	heterochromatin	organelle part
+15491	15493	GO:0065007	to	biological regulation
+15491	15493	GO:0009987	to	cellular process
+15596	15608	GO:0051179	localization	localization
+15650	15657	GO:0032502	embryos	developmental process
+15684	15689	GO:0005623	cells	cell
+15733	15743	GO:0065007	epigenetic	biological regulation
+15767	15769	GO:0065007	to	biological regulation
+15767	15769	GO:0009987	to	cellular process
+15795	15810	GO:0044464	heterochromatin	cell part
+15795	15810	GO:0044422	heterochromatin	organelle part
+15836	15847	GO:0009987	methylation	cellular process
+15836	15847	GO:0008152	methylation	metabolic process
+15955	15960	GO:0005623	cells	cell
+15988	15992	GO:0005623	cell	cell
+16018	16022	GO:0009987	RNAi	cellular process
+16018	16022	GO:0065007	RNAi	biological regulation
+16052	16056	GO:0005623	cell	cell
+16063	16078	GO:0008152	DNA methylation	metabolic process
+16063	16078	GO:0009987	DNA methylation	cellular process
+16063	16078	GO:0065007	DNA methylation	biological regulation
+16067	16078	GO:0009987	methylation	cellular process
+16067	16078	GO:0008152	methylation	metabolic process
+16091	16098	GO:0009987	reduced	cellular process
+16091	16098	GO:0008152	reduced	metabolic process
+16091	16098	GO:0005215	reduced	transporter activity
+16091	16098	GO:0051234	reduced	establishment of localization
+16108	16113	GO:0005623	cells	cell
+16120	16122	GO:0065007	To	biological regulation
+16120	16122	GO:0009987	To	cellular process
+16209	16211	GO:0065007	to	biological regulation
+16209	16211	GO:0009987	to	cellular process
+16235	16250	GO:0044464	heterochromatin	cell part
+16235	16250	GO:0044422	heterochromatin	organelle part
+16284	16289	GO:0005623	cells	cell
+16305	16309	GO:0009987	RNAi	cellular process
+16305	16309	GO:0065007	RNAi	biological regulation
+16336	16340	GO:0005623	cell	cell
+16390	16392	GO:0065007	to	biological regulation
+16390	16392	GO:0009987	to	cellular process
+16407	16422	GO:0044464	heterochromatin	cell part
+16407	16422	GO:0044422	heterochromatin	organelle part
+16407	16435	GO:0009987	heterochromatin organization	cellular process
+16407	16435	GO:0016043	heterochromatin organization	cellular component organization
+16467	16482	GO:0008152	DNA methylation	metabolic process
+16467	16482	GO:0009987	DNA methylation	cellular process
+16467	16482	GO:0065007	DNA methylation	biological regulation
+16471	16482	GO:0009987	methylation	cellular process
+16471	16482	GO:0008152	methylation	metabolic process
+16552	16573	GO:0009987	histone modifications	cellular process
+16552	16573	GO:0008152	histone modifications	metabolic process
+16552	16573	GO:0016043	histone modifications	cellular component organization
+16582	16591	GO:0044422	chromatin	organelle part
+16582	16591	GO:0044464	chromatin	cell part
+16644	16653	GO:0044422	chromatin	organelle part
+16644	16653	GO:0044464	chromatin	cell part
+16766	16776	GO:0044421	antibodies	extraccellular region part
+16766	16776	GO:0032991	antibodies	macromolecular complex
+17007	17022	GO:0044464	heterochromatin	cell part
+17007	17022	GO:0044422	heterochromatin	organelle part
+17288	17290	GO:0065007	to	biological regulation
+17288	17290	GO:0009987	to	cellular process
+17332	17347	GO:0044464	heterochromatin	cell part
+17332	17347	GO:0044422	heterochromatin	organelle part
+17429	17436	GO:0009987	reduced	cellular process
+17429	17436	GO:0008152	reduced	metabolic process
+17429	17436	GO:0005215	reduced	transporter activity
+17429	17436	GO:0051234	reduced	establishment of localization
+17459	17464	GO:0005623	cells	cell
+17473	17475	GO:0065007	to	biological regulation
+17473	17475	GO:0009987	to	cellular process
+17538	17543	GO:0005623	cells	cell
+17730	17735	GO:0005623	cells	cell
+17774	17776	GO:0065007	to	biological regulation
+17774	17776	GO:0009987	to	cellular process
+17908	17913	GO:0005623	cells	cell
+18148	18153	GO:0005623	cells	cell
+18160	18162	GO:0065007	to	biological regulation
+18160	18162	GO:0009987	to	cellular process
+18192	18207	GO:0044464	heterochromatin	cell part
+18192	18207	GO:0044422	heterochromatin	organelle part
+18246	18256	GO:0065007	epigenetic	biological regulation
+18358	18371	GO:0032502	embryogenesis	developmental process
+18382	18387	GO:0005623	cells	cell
+18460	18475	GO:0008152	DNA replication	metabolic process
+18460	18475	GO:0009987	DNA replication	cellular process
+18556	18560	GO:0005623	cell	cell
+18556	18570	GO:0009987	cell divisions	cellular process
+18656	18660	GO:0005623	cell	cell
+18690	18705	GO:0008152	DNA replication	metabolic process
+18690	18705	GO:0009987	DNA replication	cellular process
+18765	18785	GO:0016043	nuclear organization	cellular component organization
+18765	18785	GO:0009987	nuclear organization	cellular process
+18789	18804	GO:0044464	heterochromatin	cell part
+18789	18804	GO:0044422	heterochromatin	organelle part
+18848	18853	GO:0005623	cells	cell
+18893	18898	GO:0005623	cells	cell
+18906	18921	GO:0008152	DNA replication	metabolic process
+18906	18921	GO:0009987	DNA replication	cellular process
+19010	19025	GO:0044464	heterochromatin	cell part
+19010	19025	GO:0044422	heterochromatin	organelle part
+19010	19038	GO:0009987	heterochromatin organization	cellular process
+19010	19038	GO:0016043	heterochromatin organization	cellular component organization
+19097	19107	GO:0044464	PML bodies	cell part
+19097	19107	GO:0044422	PML bodies	organelle part
+19114	19118	GO:0005623	cell	cell
+19114	19118	GO:0005623	cell	cell
+19114	19127	GO:0009987	cell division	cellular process
+19114	19118	GO:0005623	cell	cell
+19114	19124	GO:0016265	cell death	death
+19114	19124	GO:0009987	cell death	cellular process
+19270	19275	GO:0016265	death	death
+19313	19328	GO:0044464	heterochromatin	cell part
+19313	19328	GO:0044422	heterochromatin	organelle part
+19313	19341	GO:0009987	heterochromatin organization	cellular process
+19313	19341	GO:0016043	heterochromatin organization	cellular component organization
+19358	19360	GO:0065007	to	biological regulation
+19358	19360	GO:0009987	to	cellular process
+19428	19435	GO:0032502	embryos	developmental process
+19440	19445	GO:0016265	death	death
+19452	19457	GO:0005623	cells	cell
+19484	19504	GO:0016043	nuclear organization	cellular component organization
+19484	19504	GO:0009987	nuclear organization	cellular process
+19508	19523	GO:0044464	heterochromatin	cell part
+19508	19523	GO:0044422	heterochromatin	organelle part
+19541	19553	GO:0051179	localization	localization
+19679	19684	GO:0005623	cells	cell
+19695	19699	GO:0005623	cell	cell
+19753	19762	GO:0009987	embryonic	cellular process
+19753	19762	GO:0065007	embryonic	biological regulation
+19763	19768	GO:0005623	cells	cell
+19791	19798	GO:0032502	embryos	developmental process
+19806	19811	GO:0005623	cells	cell
+19806	19811	GO:0005623	cells	cell
+19947	19962	GO:0044464	heterochromatin	cell part
+19947	19962	GO:0044422	heterochromatin	organelle part
+19947	19975	GO:0009987	heterochromatin organization	cellular process
+19947	19975	GO:0016043	heterochromatin organization	cellular component organization
+19998	20003	GO:0005623	cells	cell
+20025	20034	GO:0044422	chromatin	organelle part
+20025	20034	GO:0044464	chromatin	cell part
+20035	20043	GO:0003824	proteins	catalytic activity
+20089	20091	GO:0065007	to	biological regulation
+20089	20091	GO:0009987	to	cellular process
+20092	20101	GO:0044422	chromatin	organelle part
+20092	20101	GO:0044464	chromatin	cell part
+20164	20179	GO:0044464	heterochromatin	cell part
+20164	20179	GO:0044422	heterochromatin	organelle part
+20260	20265	GO:0005623	cells	cell
+20368	20373	GO:0005623	cells	cell
+20471	20480	GO:0009987	embryonic	cellular process
+20471	20480	GO:0065007	embryonic	biological regulation
+20481	20486	GO:0005623	cells	cell
+20673	20685	GO:0044464	chromocenter	cell part
+20673	20685	GO:0044422	chromocenter	organelle part
+20772	20787	GO:0044464	heterochromatin	cell part
+20772	20787	GO:0044422	heterochromatin	organelle part
+20772	20800	GO:0009987	heterochromatin organization	cellular process
+20772	20800	GO:0016043	heterochromatin organization	cellular component organization
+20816	20823	GO:0032502	embryos	developmental process
+20837	20842	GO:0005623	cells	cell
+21054	21074	GO:0016043	nuclear organization	cellular component organization
+21054	21074	GO:0009987	nuclear organization	cellular process
+21079	21089	GO:0065007	epigenetic	biological regulation
+21113	21128	GO:0044464	heterochromatin	cell part
+21113	21128	GO:0044422	heterochromatin	organelle part
+21133	21140	GO:0003824	coupled	catalytic activity
+21147	21152	GO:0005623	cells	cell
+21189	21204	GO:0044464	heterochromatin	cell part
+21189	21204	GO:0044422	heterochromatin	organelle part
+21209	21219	GO:0065007	epigenetic	biological regulation
+21592	21607	GO:0044464	heterochromatin	cell part
+21592	21607	GO:0044422	heterochromatin	organelle part
+21627	21629	GO:0065007	to	biological regulation
+21627	21629	GO:0009987	to	cellular process
+21691	21706	GO:0044464	heterochromatin	cell part
+21691	21706	GO:0044422	heterochromatin	organelle part
+21715	21718	GO:0065007	di-	biological regulation
+21715	21718	GO:0051234	di-	establishment of localization
+21715	21718	GO:0005215	di-	transporter activity
+21795	21804	GO:0044422	chromatin	organelle part
+21795	21804	GO:0044464	chromatin	cell part
+21971	21980	GO:0044422	chromatin	organelle part
+21971	21980	GO:0044464	chromatin	cell part
+22010	22021	GO:0009987	centromeric	cellular process
+22110	22119	GO:0044422	chromatin	organelle part
+22110	22119	GO:0044464	chromatin	cell part
+22231	22246	GO:0044464	heterochromatin	cell part
+22231	22246	GO:0044422	heterochromatin	organelle part
+22374	22394	GO:0016043	nuclear organization	cellular component organization
+22374	22394	GO:0009987	nuclear organization	cellular process
+22410	22425	GO:0044464	heterochromatin	cell part
+22410	22425	GO:0044422	heterochromatin	organelle part
+22429	22436	GO:0032502	embryos	developmental process
+22444	22449	GO:0005623	cells	cell
+22523	22532	GO:0044422	chromatin	organelle part
+22523	22532	GO:0044464	chromatin	cell part
+22560	22580	GO:0016043	nuclear organization	cellular component organization
+22560	22580	GO:0009987	nuclear organization	cellular process
+22597	22612	GO:0044464	heterochromatin	cell part
+22597	22612	GO:0044422	heterochromatin	organelle part
+22619	22628	GO:0009987	embryonic	cellular process
+22619	22628	GO:0065007	embryonic	biological regulation
+22653	22655	GO:0065007	to	biological regulation
+22653	22655	GO:0009987	to	cellular process
+22702	22704	GO:0065007	to	biological regulation
+22702	22704	GO:0009987	to	cellular process
+22782	22797	GO:0044464	heterochromatin	cell part
+22782	22797	GO:0044422	heterochromatin	organelle part
+22824	22831	GO:0032502	embryos	developmental process
+22839	22844	GO:0005623	cells	cell
+22892	22907	GO:0044464	heterochromatin	cell part
+22892	22907	GO:0044422	heterochromatin	organelle part
+23018	23033	GO:0008152	DNA replication	metabolic process
+23018	23033	GO:0009987	DNA replication	cellular process
+23063	23078	GO:0044464	heterochromatin	cell part
+23063	23078	GO:0044422	heterochromatin	organelle part
+23210	23217	GO:0003824	protein	catalytic activity
+23310	23325	GO:0044464	heterochromatin	cell part
+23310	23325	GO:0044422	heterochromatin	organelle part
+23346	23353	GO:0032502	embryos	developmental process
+23386	23406	GO:0016043	nuclear organization	cellular component organization
+23386	23406	GO:0009987	nuclear organization	cellular process
+23498	23518	GO:0016043	nuclear organization	cellular component organization
+23498	23518	GO:0009987	nuclear organization	cellular process
+23522	23537	GO:0044464	heterochromatin	cell part
+23522	23537	GO:0044422	heterochromatin	organelle part
+23544	23548	GO:0005623	cell	cell
+23665	23680	GO:0044464	heterochromatin	cell part
+23665	23680	GO:0044422	heterochromatin	organelle part
+23746	23755	GO:0009987	embryonic	cellular process
+23746	23755	GO:0065007	embryonic	biological regulation
+23773	23780	GO:0032502	embryos	developmental process
+23813	23828	GO:0044464	heterochromatin	cell part
+23813	23828	GO:0044422	heterochromatin	organelle part
+23813	23841	GO:0009987	heterochromatin organization	cellular process
+23813	23841	GO:0016043	heterochromatin organization	cellular component organization
+23853	23855	GO:0065007	to	biological regulation
+23853	23855	GO:0009987	to	cellular process
+23895	23900	GO:0005623	cells	cell
+23958	23965	GO:0032502	embryos	developmental process
+24027	24042	GO:0044464	heterochromatin	cell part
+24027	24042	GO:0044422	heterochromatin	organelle part
+24073	24077	GO:0005623	cell	cell
+24073	24087	GO:0009987	cell divisions	cellular process
+24091	24100	GO:0009987	embryonic	cellular process
+24091	24100	GO:0065007	embryonic	biological regulation
+24131	24151	GO:0016043	nuclear organization	cellular component organization
+24131	24151	GO:0009987	nuclear organization	cellular process
+24170	24185	GO:0008152	gene expression	metabolic process
+24240	24242	GO:0065007	to	biological regulation
+24240	24242	GO:0009987	to	cellular process
+24271	24286	GO:0008152	gene expression	metabolic process
+24300	24313	GO:0032502	embryogenesis	developmental process
+24374	24383	GO:0044422	chromatin	organelle part
+24374	24383	GO:0044464	chromatin	cell part
+24437	24446	GO:0009987	embryonic	cellular process
+24437	24446	GO:0065007	embryonic	biological regulation
+24447	24452	GO:0005623	cells	cell
+24496	24511	GO:0008152	DNA methylation	metabolic process
+24496	24511	GO:0009987	DNA methylation	cellular process
+24496	24511	GO:0065007	DNA methylation	biological regulation
+24500	24511	GO:0009987	methylation	cellular process
+24500	24511	GO:0008152	methylation	metabolic process
+24519	24521	GO:0065007	to	biological regulation
+24519	24521	GO:0009987	to	cellular process
+24587	24596	GO:0044422	chromatin	organelle part
+24587	24596	GO:0044464	chromatin	cell part
+24587	24605	GO:0016043	chromatin assembly	cellular component organization
+24587	24605	GO:0009987	chromatin assembly	cellular process
+24642	24644	GO:0065007	to	biological regulation
+24642	24644	GO:0009987	to	cellular process
+24656	24667	GO:0044464	nucleosomes	cell part
+24656	24667	GO:0032991	nucleosomes	macromolecular complex
+24656	24667	GO:0044422	nucleosomes	organelle part
+24696	24706	GO:0065007	epigenetic	biological regulation
+24719	24721	GO:0065007	to	biological regulation
+24719	24721	GO:0009987	to	cellular process
+24722	24737	GO:0044464	heterochromatin	cell part
+24722	24737	GO:0044422	heterochromatin	organelle part
+24755	24762	GO:0032502	embryos	developmental process
+24770	24775	GO:0005623	cells	cell
+24834	24841	GO:0032502	embryos	developmental process
+25107	25112	GO:0005623	cells	cell
+25162	25167	GO:0005623	cells	cell
+25331	25336	GO:0005623	cells	cell
+25364	25366	GO:0003824	E4	catalytic activity
+25367	25374	GO:0032502	embryos	developmental process
+25466	25473	GO:0032502	Embryos	developmental process
+25956	25960	GO:0009987	RNAi	cellular process
+25956	25960	GO:0065007	RNAi	biological regulation
+25966	25970	GO:0009987	RNAi	cellular process
+25966	25970	GO:0065007	RNAi	biological regulation
+26234	26239	GO:0005623	cells	cell
+26274	26279	GO:0005623	cells	cell
+26356	26361	GO:0005623	cells	cell
+26524	26539	GO:0009987	RNA degradation	cellular process
+26524	26539	GO:0008152	RNA degradation	metabolic process
+26528	26539	GO:0008152	degradation	metabolic process
+26544	26549	GO:0005623	cells	cell
+26610	26612	GO:0065007	to	biological regulation
+26610	26612	GO:0009987	to	cellular process
+26757	26762	GO:0005623	cells	cell
+26828	26832	GO:0009987	RNAi	cellular process
+26828	26832	GO:0065007	RNAi	biological regulation
+26913	26918	GO:0005623	cells	cell
+26913	26918	GO:0005623	cells	cell
+27147	27151	GO:0009987	RNAi	cellular process
+27147	27151	GO:0065007	RNAi	biological regulation
+27163	27165	GO:0065007	to	biological regulation
+27163	27165	GO:0009987	to	cellular process
+27283	27288	GO:0005623	Cells	cell
+27382	27386	GO:0005623	Cell	cell
+27401	27406	GO:0005623	cells	cell
+27401	27406	GO:0005623	cells	cell
+27495	27499	GO:0009987	RNAi	cellular process
+27495	27499	GO:0065007	RNAi	biological regulation
+27529	27533	GO:0005623	cell	cell
+27611	27616	GO:0005623	cells	cell
+27691	27698	GO:0032502	embryos	developmental process
+27739	27744	GO:0005623	Cells	cell
+27864	27866	GO:0003824	E4	catalytic activity
+27867	27874	GO:0032502	embryos	developmental process
+27919	27921	GO:0065007	to	biological regulation
+27919	27921	GO:0009987	to	cellular process
+28036	28041	GO:0005623	cells	cell
+28043	28053	GO:0044421	Antibodies	extraccellular region part
+28043	28053	GO:0032991	Antibodies	macromolecular complex
+28043	28053	GO:0044421	Antibodies	extraccellular region part
+28043	28053	GO:0032991	Antibodies	macromolecular complex
+28462	28472	GO:0044421	antibodies	extraccellular region part
+28462	28472	GO:0032991	antibodies	macromolecular complex
+28571	28576	GO:0005623	Cells	cell
+28658	28668	GO:0044421	antibodies	extraccellular region part
+28658	28668	GO:0032991	antibodies	macromolecular complex
+28977	28988	GO:0008152	translation	metabolic process
+28977	28988	GO:0009987	translation	cellular process
+29257	29266	GO:0032501	digestion	multicellular organismal process
+29296	29305	GO:0044422	chromatin	organelle part
+29296	29305	GO:0044464	chromatin	cell part
+29309	29314	GO:0005623	cells	cell
+29863	29872	GO:0032501	Digestion	multicellular organismal process
+29931	29941	GO:0032501	Digestions	multicellular organismal process
+29948	29950	GO:0065007	to	biological regulation
+29948	29950	GO:0009987	to	cellular process
+29969	29971	GO:0065007	to	biological regulation
+29969	29971	GO:0009987	to	cellular process
+30029	30038	GO:0032501	digestion	multicellular organismal process
+30111	30113	GO:0065007	To	biological regulation
+30111	30113	GO:0009987	To	cellular process
+30154	30163	GO:0044422	chromatin	organelle part
+30154	30163	GO:0044464	chromatin	cell part
+30193	30198	GO:0005623	cells	cell
+30520	30528	GO:0044421	antibody	extraccellular region part
+30520	30528	GO:0032991	antibody	macromolecular complex
+30561	30570	GO:0044422	chromatin	organelle part
+30561	30570	GO:0044464	chromatin	cell part
+30588	30590	GO:0065007	to	biological regulation
+30588	30590	GO:0009987	to	cellular process
+30595	30606	GO:0044464	nucleosomes	cell part
+30595	30606	GO:0032991	nucleosomes	macromolecular complex
+30595	30606	GO:0044422	nucleosomes	organelle part
+30644	30653	GO:0044422	chromatin	organelle part
+30644	30653	GO:0044464	chromatin	cell part
+30704	30714	GO:0044421	antibodies	extraccellular region part
+30704	30714	GO:0032991	antibodies	macromolecular complex
+30986	30996	GO:0044421	Antibodies	extraccellular region part
+30986	30996	GO:0032991	Antibodies	macromolecular complex
+30986	30996	GO:0044421	Antibodies	extraccellular region part
+30986	30996	GO:0032991	Antibodies	macromolecular complex
+31320	31322	GO:0065007	to	biological regulation
+31320	31322	GO:0009987	to	cellular process
+31553	31557	GO:0009987	RNAi	cellular process
+31553	31557	GO:0065007	RNAi	biological regulation
+31614	31619	GO:0005623	cells	cell
+31672	31676	GO:0009987	RNAi	cellular process
+31672	31676	GO:0065007	RNAi	biological regulation
+31743	31748	GO:0005623	cells	cell
+31887	31892	GO:0005623	cells	cell
+31992	32000	GO:0044421	antibody	extraccellular region part
+31992	32000	GO:0032991	antibody	macromolecular complex
+32102	32109	GO:0043226	nucleus	organelle
+32102	32109	GO:0044464	nucleus	cell part
+32176	32180	GO:0009987	RNAi	cellular process
+32176	32180	GO:0065007	RNAi	biological regulation
+32176	32180	GO:0009987	RNAi	cellular process
+32176	32180	GO:0065007	RNAi	biological regulation
+32396	32400	GO:0005623	cell	cell
+32428	32433	GO:0005623	cells	cell
+32575	32584	GO:0065007	Embryonic	biological regulation
+32575	32584	GO:0009987	Embryonic	cellular process
+32650	32665	GO:0044464	Heterochromatin	cell part
+32650	32665	GO:0044422	Heterochromatin	organelle part
+32733	32736	GO:0023046	red	signaling process
+32733	32736	GO:0050896	red	response to stimulus
+32733	32736	GO:0009987	red	cellular process
+32733	32736	GO:0065007	red	biological regulation
+32791	32795	GO:0009987	RNAi	cellular process
+32791	32795	GO:0065007	RNAi	biological regulation
+32799	32801	GO:0065007	to	biological regulation
+32799	32801	GO:0009987	to	cellular process
+33230	33234	GO:0005623	cell	cell
+33323	33328	GO:0005623	cells	cell
+33356	33364	GO:0044421	antibody	extraccellular region part
+33356	33364	GO:0032991	antibody	macromolecular complex
+33597	33606	GO:0044422	chromatin	organelle part
+33597	33606	GO:0044464	chromatin	cell part
+33597	33615	GO:0016043	chromatin assembly	cellular component organization
+33597	33615	GO:0009987	chromatin assembly	cellular process
+33631	33640	GO:0044422	chromatin	organelle part
+33631	33640	GO:0044464	chromatin	cell part
+33660	33662	GO:0003824	E4	catalytic activity
+33665	33674	GO:0009987	embryonic	cellular process
+33665	33674	GO:0065007	embryonic	biological regulation
+33685	33694	GO:0009987	embryonic	cellular process
+33685	33694	GO:0065007	embryonic	biological regulation
+33806	33815	GO:0009987	embryonic	cellular process
+33806	33815	GO:0065007	embryonic	biological regulation
+33847	33851	GO:0005623	cell	cell
+33895	33899	GO:0009987	RNAi	cellular process
+33895	33899	GO:0065007	RNAi	biological regulation
+33902	33918	GO:0016043	RNA interference	cellular component organization
+33902	33918	GO:0050896	RNA interference	response to stimulus
+33902	33918	GO:0008152	RNA interference	metabolic process
+33902	33918	GO:0009987	RNA interference	cellular process
+33902	33918	GO:0065007	RNA interference	biological regulation
+34006	34008	GO:0065007	to	biological regulation
+34006	34008	GO:0009987	to	cellular process
+34054	34069	GO:0044464	Heterochromatin	cell part
+34054	34069	GO:0044422	Heterochromatin	organelle part
+34149	34154	GO:0005623	cells	cell
+34185	34192	GO:0003824	protein	catalytic activity
+34410	34421	GO:0008152	translation	metabolic process
+34410	34421	GO:0009987	translation	cellular process
+34410	34432	GO:0009987	translation initiation	cellular process
+34530	34532	GO:0002376	HR	immune system process
+34530	34532	GO:0009987	HR	cellular process
+34530	34532	GO:0016265	HR	death
+34530	34532	GO:0050896	HR	response to stimulus
+34530	34532	GO:0002376	HR	immune system process
+34530	34532	GO:0009987	HR	cellular process
+34530	34532	GO:0016265	HR	death
+34530	34532	GO:0050896	HR	response to stimulus
+34621	34626	GO:0005623	cells	cell
+34757	34759	GO:0003824	E4	catalytic activity
+34770	34777	GO:0032502	embryos	developmental process
+34995	34998	GO:0023046	red	signaling process
+34995	34998	GO:0050896	red	response to stimulus
+34995	34998	GO:0009987	red	cellular process
+34995	34998	GO:0065007	red	biological regulation
+35003	35005	GO:0003824	E4	catalytic activity
+35006	35013	GO:0032502	embryos	developmental process
+35083	35090	GO:0032502	embryos	developmental process
+35229	35236	GO:0009987	S phase	cellular process
+35262	35267	GO:0005623	cells	cell
+35347	35353	GO:0032502	embryo	developmental process
+35679	35686	GO:0043226	nucleus	organelle
+35679	35686	GO:0044464	nucleus	cell part
+35711	35717	GO:0032502	embryo	developmental process
+35770	35785	GO:0044464	heterochromatin	cell part
+35770	35785	GO:0044422	heterochromatin	organelle part
+35839	35846	GO:0032502	embryos	developmental process
+35888	35895	GO:0032502	embryos	developmental process
+35943	35950	GO:0043226	nucleus	organelle
+35943	35950	GO:0044464	nucleus	cell part
+35973	35980	GO:0032502	embryos	developmental process
+36005	36022	GO:0044464	nuclear periphery	cell part
+36005	36022	GO:0044422	nuclear periphery	organelle part
+36043	36058	GO:0044464	heterochromatin	cell part
+36043	36058	GO:0044422	heterochromatin	organelle part
+36043	36071	GO:0009987	heterochromatin organization	cellular process
+36043	36071	GO:0016043	heterochromatin organization	cellular component organization
+36114	36121	GO:0032502	embryos	developmental process
+36134	36143	GO:0009987	embryonic	cellular process
+36134	36143	GO:0065007	embryonic	biological regulation
+36159	36164	GO:0005623	cells	cell
+36178	36183	GO:0005623	cells	cell
+36196	36201	GO:0005623	cells	cell
+36213	36218	GO:0005623	cells	cell
+36225	36227	GO:0003824	E4	catalytic activity
+36232	36237	GO:0005623	cells	cell
+36250	36265	GO:0044464	Heterochromatin	cell part
+36250	36265	GO:0044422	Heterochromatin	organelle part
+36276	36279	GO:0023046	red	signaling process
+36276	36279	GO:0050896	red	response to stimulus
+36276	36279	GO:0009987	red	cellular process
+36276	36279	GO:0065007	red	biological regulation
+36379	36386	GO:0043226	nucleus	organelle
+36379	36386	GO:0044464	nucleus	cell part
+36463	36470	GO:0043226	nucleus	organelle
+36463	36470	GO:0044464	nucleus	cell part
+36480	36484	GO:0005623	cell	cell
+36550	36555	GO:0005623	Cells	cell
+36590	36605	GO:0044464	Heterochromatin	cell part
+36590	36605	GO:0044422	Heterochromatin	organelle part
+36636	36638	GO:0065007	to	biological regulation
+36636	36638	GO:0009987	to	cellular process
+36660	36664	GO:0009987	RNAi	cellular process
+36660	36664	GO:0065007	RNAi	biological regulation
+36671	36676	GO:0005623	cells	cell
+36813	36818	GO:0005623	cells	cell
+36903	36918	GO:0044464	heterochromatin	cell part
+36903	36918	GO:0044422	heterochromatin	organelle part
+36903	36931	GO:0009987	heterochromatin organization	cellular process
+36903	36931	GO:0016043	heterochromatin organization	cellular component organization
+36957	36962	GO:0005623	cells	cell
+37011	37014	GO:0023046	red	signaling process
+37011	37014	GO:0050896	red	response to stimulus
+37011	37014	GO:0009987	red	cellular process
+37011	37014	GO:0065007	red	biological regulation
+37022	37027	GO:0005623	cells	cell
+37255	37270	GO:0044464	Heterochromatin	cell part
+37255	37270	GO:0044422	Heterochromatin	organelle part
+37255	37283	GO:0009987	Heterochromatin organization	cellular process
+37255	37283	GO:0016043	Heterochromatin organization	cellular component organization
+37295	37298	GO:0023046	red	signaling process
+37295	37298	GO:0050896	red	response to stimulus
+37295	37298	GO:0009987	red	cellular process
+37295	37298	GO:0065007	red	biological regulation
+37535	37545	GO:0044464	PML bodies	cell part
+37535	37545	GO:0044422	PML bodies	organelle part
+37587	37592	GO:0005623	cells	cell
+37618	37621	GO:0023046	red	signaling process
+37618	37621	GO:0050896	red	response to stimulus
+37618	37621	GO:0009987	red	cellular process
+37618	37621	GO:0065007	red	biological regulation
+37629	37634	GO:0005623	cells	cell
+37818	37833	GO:0044464	Heterochromatin	cell part
+37818	37833	GO:0044422	Heterochromatin	organelle part
+37896	37901	GO:0005623	Cells	cell
+37908	37913	GO:0005623	cells	cell
+38009	38014	GO:0005623	cells	cell
+38192	38197	GO:0005623	cells	cell
+38328	38331	GO:0023046	red	signaling process
+38328	38331	GO:0050896	red	response to stimulus
+38328	38331	GO:0009987	red	cellular process
+38328	38331	GO:0065007	red	biological regulation
+38375	38384	GO:0008152	formation	metabolic process
+38447	38452	GO:0005623	cells	cell
+38659	38664	GO:0005623	cells	cell
+38709	38714	GO:0005623	cells	cell
+38736	38740	GO:0005623	cell	cell
+38736	38746	GO:0009987	cell cycle	cellular process
+38988	38990	GO:0065007	to	biological regulation
+38988	38990	GO:0009987	to	cellular process
+39061	39073	GO:0051179	Localization	localization
+39109	39124	GO:0044464	Heterochromatin	cell part
+39109	39124	GO:0044422	Heterochromatin	organelle part
+39161	39164	GO:0023046	red	signaling process
+39161	39164	GO:0050896	red	response to stimulus
+39161	39164	GO:0009987	red	cellular process
+39161	39164	GO:0065007	red	biological regulation
+39214	39224	GO:0009987	interphase	cellular process
+39244	39249	GO:0005623	cells	cell
+39367	39372	GO:0005623	cells	cell
+39439	39450	GO:0044464	chromosomes	cell part
+39439	39450	GO:0044422	chromosomes	organelle part
+39439	39450	GO:0043226	chromosomes	organelle
+39474	39477	GO:0023046	red	signaling process
+39474	39477	GO:0050896	red	response to stimulus
+39474	39477	GO:0009987	red	cellular process
+39474	39477	GO:0065007	red	biological regulation
+39486	39499	GO:0044464	chromocenters	cell part
+39486	39499	GO:0044422	chromocenters	organelle part
+39564	39579	GO:0051179	centric regions	localization
+39564	39579	GO:0044422	centric regions	organelle part
+39564	39579	GO:0044464	centric regions	cell part
+39564	39579	GO:0009987	centric regions	cellular process
+39796	39801	GO:0005623	cells	cell
+39862	39875	GO:0044464	chromocenters	cell part
+39862	39875	GO:0044422	chromocenters	organelle part
+39997	40014	GO:0044464	nuclear periphery	cell part
+39997	40014	GO:0044422	nuclear periphery	organelle part
+40049	40054	GO:0005623	cells	cell
+40123	40130	GO:0043226	nucleus	organelle
+40123	40130	GO:0044464	nucleus	cell part
+40220	40222	GO:0065007	to	biological regulation
+40220	40222	GO:0009987	to	cellular process
+40223	40236	GO:0044464	chromocenters	cell part
+40223	40236	GO:0044422	chromocenters	organelle part
+40238	40241	GO:0023046	red	signaling process
+40238	40241	GO:0050896	red	response to stimulus
+40238	40241	GO:0009987	red	cellular process
+40238	40241	GO:0065007	red	biological regulation
+40293	40298	GO:0005623	cells	cell
+40351	40353	GO:0065007	to	biological regulation
+40351	40353	GO:0009987	to	cellular process
+40437	40439	GO:0065007	to	biological regulation
+40437	40439	GO:0009987	to	cellular process
+40487	40490	GO:0023046	red	signaling process
+40487	40490	GO:0050896	red	response to stimulus
+40487	40490	GO:0009987	red	cellular process
+40487	40490	GO:0065007	red	biological regulation
+40613	40625	GO:0044464	chromocenter	cell part
+40613	40625	GO:0044422	chromocenter	organelle part
+40637	40642	GO:0005623	cells	cell
+40663	40675	GO:0044464	chromocenter	cell part
+40663	40675	GO:0044422	chromocenter	organelle part
+40698	40703	GO:0005623	cells	cell
+40781	40786	GO:0005623	Cells	cell
+40815	40820	GO:0005623	cells	cell
+40949	40958	GO:0032501	digestion	multicellular organismal process
+40989	40991	GO:0065007	to	biological regulation
+40989	40991	GO:0009987	to	cellular process
+41144	41152	GO:0044464	membrane	cell part
+41258	41269	GO:0008152	Methylation	metabolic process
+41258	41269	GO:0009987	Methylation	cellular process
+41285	41300	GO:0044464	Heterochromatin	cell part
+41285	41300	GO:0044422	Heterochromatin	organelle part
+41341	41346	GO:0005623	Cells	cell
+41374	41379	GO:0005623	cells	cell
+41468	41479	GO:0009987	recognition	cellular process
+41667	41677	GO:0065007	Epigenetic	biological regulation
+41701	41716	GO:0044464	Heterochromatin	cell part
+41701	41716	GO:0044422	Heterochromatin	organelle part
+41739	41744	GO:0005623	Cells	cell
+41774	41776	GO:0065007	to	biological regulation
+41774	41776	GO:0009987	to	cellular process
+41777	41784	GO:0009987	reduced	cellular process
+41777	41784	GO:0008152	reduced	metabolic process
+41777	41784	GO:0005215	reduced	transporter activity
+41777	41784	GO:0051234	reduced	establishment of localization
+41821	41836	GO:0044464	heterochromatin	cell part
+41821	41836	GO:0044422	heterochromatin	organelle part
+41977	41982	GO:0005623	cells	cell
+42245	42253	GO:0044464	membrane	cell part
+42245	42253	GO:0044464	membrane	cell part
+42501	42506	GO:0005623	cells	cell
+42548	42553	GO:0005623	cells	cell
+42747	42752	GO:0005623	cells	cell
+42824	42827	GO:0023046	red	signaling process
+42824	42827	GO:0050896	red	response to stimulus
+42824	42827	GO:0009987	red	cellular process
+42824	42827	GO:0065007	red	biological regulation
+42874	42879	GO:0005623	cells	cell
+43689	43691	GO:0065007	to	biological regulation
+43689	43691	GO:0009987	to	cellular process
+43780	43782	GO:0065007	to	biological regulation
+43780	43782	GO:0009987	to	cellular process

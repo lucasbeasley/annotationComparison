@@ -1,0 +1,1795 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm
+61	70	GO:0044464	Chromatin	cell part
+61	70	GO:0044422	Chromatin	organelle part
+96	103	GO:0009987	Meiosis	cellular process
+196	200	GO:0005623	cell	cell
+196	216	GO:0032502	cell differentiation	developmental process
+196	216	GO:0009987	cell differentiation	cellular process
+278	293	GO:0043226	sex chromosomes	organelle
+278	293	GO:0044464	sex chromosomes	cell part
+282	293	GO:0044464	chromosomes	cell part
+282	293	GO:0044422	chromosomes	organelle part
+282	293	GO:0043226	chromosomes	organelle
+391	398	GO:0065007	meiotic	biological regulation
+399	407	GO:0009987	prophase	cellular process
+423	432	GO:0008152	formation	metabolic process
+438	453	GO:0044464	heterochromatin	cell part
+438	453	GO:0044422	heterochromatin	organelle part
+466	473	GO:0044464	XY body	cell part
+466	473	GO:0044422	XY body	organelle part
+479	486	GO:0044464	XY body	cell part
+479	486	GO:0044422	XY body	organelle part
+506	514	GO:0009987	prophase	cellular process
+532	545	GO:0044464	sex chromatin	cell part
+532	545	GO:0044422	sex chromatin	organelle part
+536	545	GO:0044422	chromatin	organelle part
+536	545	GO:0044464	chromatin	cell part
+591	598	GO:0009987	meiosis	cellular process
+662	669	GO:0003824	protein	catalytic activity
+678	680	GO:0065007	to	biological regulation
+678	680	GO:0009987	to	cellular process
+711	713	GO:0065007	to	biological regulation
+711	713	GO:0009987	to	cellular process
+788	795	GO:0044464	XY body	cell part
+788	795	GO:0044422	XY body	organelle part
+803	812	GO:0009987	pachytene	cellular process
+822	829	GO:0065007	meiotic	biological regulation
+830	838	GO:0009987	prophase	cellular process
+859	871	GO:0009987	male meiosis	cellular process
+864	871	GO:0009987	meiosis	cellular process
+891	898	GO:0065007	meiotic	biological regulation
+973	980	GO:0044464	XY body	cell part
+973	980	GO:0044422	XY body	organelle part
+998	1007	GO:0044422	chromatin	organelle part
+998	1007	GO:0044464	chromatin	cell part
+1034	1044	GO:0016265	germ cells	death
+1034	1044	GO:0009987	germ cells	cellular process
+1034	1044	GO:0032502	germ cells	developmental process
+1034	1044	GO:0022414	germ cells	reproductive process
+1039	1044	GO:0005623	cells	cell
+1053	1062	GO:0016265	apoptosis	death
+1053	1062	GO:0009987	apoptosis	cellular process
+1102	1107	GO:0005623	cells	cell
+1121	1123	GO:0065007	to	biological regulation
+1121	1123	GO:0009987	to	cellular process
+1162	1167	GO:0005623	cells	cell
+1182	1195	GO:0044464	sex chromatin	cell part
+1182	1195	GO:0044422	sex chromatin	organelle part
+1186	1195	GO:0044422	chromatin	organelle part
+1186	1195	GO:0044464	chromatin	cell part
+1217	1220	GO:0065007	di-	biological regulation
+1217	1220	GO:0051234	di-	establishment of localization
+1217	1220	GO:0005215	di-	transporter activity
+1244	1259	GO:0044464	heterochromatin	cell part
+1244	1259	GO:0044422	heterochromatin	organelle part
+1260	1267	GO:0003824	protein	catalytic activity
+1365	1377	GO:0051179	localization	localization
+1387	1389	GO:0065007	to	biological regulation
+1387	1389	GO:0009987	to	cellular process
+1394	1401	GO:0044464	XY body	cell part
+1394	1401	GO:0044422	XY body	organelle part
+1410	1423	GO:0044464	sex chromatin	cell part
+1410	1423	GO:0044422	sex chromatin	organelle part
+1414	1423	GO:0044422	chromatin	organelle part
+1414	1423	GO:0044464	chromatin	cell part
+1502	1515	GO:0044464	sex chromatin	cell part
+1502	1515	GO:0044422	sex chromatin	organelle part
+1506	1515	GO:0044422	chromatin	organelle part
+1506	1515	GO:0044464	chromatin	cell part
+1635	1642	GO:0065007	meiotic	biological regulation
+1643	1657	GO:0044464	sex chromosome	cell part
+1643	1657	GO:0043226	sex chromosome	organelle
+1647	1657	GO:0043226	chromosome	organelle
+1647	1657	GO:0044422	chromosome	organelle part
+1647	1657	GO:0044464	chromosome	cell part
+1671	1673	GO:0065007	to	biological regulation
+1671	1673	GO:0009987	to	cellular process
+1686	1699	GO:0044464	sex chromatin	cell part
+1686	1699	GO:0044422	sex chromatin	organelle part
+1690	1699	GO:0044422	chromatin	organelle part
+1690	1699	GO:0044464	chromatin	cell part
+1838	1845	GO:0009987	meiosis	cellular process
+1853	1866	GO:0044464	sex chromatin	cell part
+1853	1866	GO:0044422	sex chromatin	organelle part
+1857	1866	GO:0044422	chromatin	organelle part
+1857	1866	GO:0044464	chromatin	cell part
+1895	1897	GO:0065007	to	biological regulation
+1895	1897	GO:0009987	to	cellular process
+1915	1917	GO:0065007	to	biological regulation
+1915	1917	GO:0009987	to	cellular process
+1959	1961	GO:0065007	to	biological regulation
+1959	1961	GO:0009987	to	cellular process
+2268	2275	GO:0065007	meiotic	biological regulation
+2290	2311	GO:0022414	germ cell development	reproductive process
+2290	2311	GO:0032502	germ cell development	developmental process
+2290	2311	GO:0009987	germ cell development	cellular process
+2295	2299	GO:0005623	cell	cell
+2295	2311	GO:0009987	cell development	cellular process
+2295	2311	GO:0032502	cell development	developmental process
+2339	2341	GO:0065007	to	biological regulation
+2339	2341	GO:0009987	to	cellular process
+2381	2394	GO:0044464	Y chromosomes	cell part
+2381	2394	GO:0043226	Y chromosomes	organelle
+2383	2394	GO:0044464	chromosomes	cell part
+2383	2394	GO:0044422	chromosomes	organelle part
+2383	2394	GO:0043226	chromosomes	organelle
+2435	2442	GO:0044464	XY body	cell part
+2435	2442	GO:0044422	XY body	organelle part
+2463	2470	GO:0003824	protein	catalytic activity
+2485	2495	GO:0016265	germ cells	death
+2485	2495	GO:0009987	germ cells	cellular process
+2485	2495	GO:0032502	germ cells	developmental process
+2485	2495	GO:0022414	germ cells	reproductive process
+2490	2495	GO:0005623	cells	cell
+2507	2509	GO:0065007	to	biological regulation
+2507	2509	GO:0009987	to	cellular process
+2519	2526	GO:0044464	XY body	cell part
+2519	2526	GO:0044422	XY body	organelle part
+2534	2541	GO:0009987	meiosis	cellular process
+2599	2606	GO:0044464	XY body	cell part
+2599	2606	GO:0044422	XY body	organelle part
+2656	2664	GO:0003824	proteins	catalytic activity
+2695	2697	GO:0065007	to	biological regulation
+2695	2697	GO:0009987	to	cellular process
+2706	2714	GO:0003824	proteins	catalytic activity
+2727	2736	GO:0009987	pachytene	cellular process
+2741	2750	GO:0009987	diplotene	cellular process
+2761	2768	GO:0009987	meiosis	cellular process
+2795	2808	GO:0044464	sex chromatin	cell part
+2795	2808	GO:0044422	sex chromatin	organelle part
+2799	2808	GO:0044422	chromatin	organelle part
+2799	2808	GO:0044464	chromatin	cell part
+2826	2831	GO:0005623	cells	cell
+3006	3019	GO:0044464	sex chromatin	cell part
+3006	3019	GO:0044422	sex chromatin	organelle part
+3010	3019	GO:0044422	chromatin	organelle part
+3010	3019	GO:0044464	chromatin	cell part
+3160	3179	GO:0000003	sexual reproduction	reproduction
+3167	3179	GO:0000003	reproduction	reproduction
+3222	3227	GO:0005623	cells	cell
+3283	3302	GO:0000003	sexual reproduction	reproduction
+3290	3302	GO:0000003	reproduction	reproduction
+3472	3481	GO:0008152	formation	metabolic process
+3640	3647	GO:0009987	meiosis	cellular process
+3690	3703	GO:0032502	embryogenesis	developmental process
+3806	3813	GO:0009987	meiosis	cellular process
+3863	3873	GO:0016265	germ cells	death
+3863	3873	GO:0009987	germ cells	cellular process
+3863	3873	GO:0032502	germ cells	developmental process
+3863	3873	GO:0022414	germ cells	reproductive process
+3868	3873	GO:0005623	cells	cell
+3897	3904	GO:0009987	meiosis	cellular process
+3912	3918	GO:0032502	embryo	developmental process
+3937	3944	GO:0065007	meiotic	biological regulation
+3937	3955	GO:0009987	meiotic prophase I	cellular process
+3945	3953	GO:0009987	prophase	cellular process
+3972	3979	GO:0022414	oocytes	reproductive process
+3972	3979	GO:0032502	oocytes	developmental process
+4010	4019	GO:0022414	ovulation	reproductive process
+4010	4019	GO:0032501	ovulation	multicellular organismal process
+4039	4041	GO:0065007	to	biological regulation
+4039	4041	GO:0009987	to	cellular process
+4042	4051	GO:0009987	metaphase	cellular process
+4073	4080	GO:0009987	meiosis	cellular process
+4087	4100	GO:0016043	fertilization	cellular component organization
+4087	4100	GO:0022414	fertilization	reproductive process
+4087	4100	GO:0009987	fertilization	cellular process
+4126	4138	GO:0009987	male meiosis	cellular process
+4131	4138	GO:0009987	meiosis	cellular process
+4131	4138	GO:0009987	meiosis	cellular process
+4267	4273	GO:0032502	oocyte	developmental process
+4267	4273	GO:0022414	oocyte	reproductive process
+4320	4332	GO:0009987	male meiosis	cellular process
+4325	4332	GO:0009987	meiosis	cellular process
+4378	4385	GO:0065007	meiotic	biological regulation
+4423	4433	GO:0043226	chromosome	organelle
+4423	4433	GO:0044422	chromosome	organelle part
+4423	4433	GO:0044464	chromosome	cell part
+4443	4451	GO:0009987	synapsis	cellular process
+4443	4451	GO:0016043	synapsis	cellular component organization
+4556	4563	GO:0009987	meiosis	cellular process
+4587	4593	GO:0032502	oocyte	developmental process
+4587	4593	GO:0022414	oocyte	reproductive process
+4614	4616	GO:0065007	to	biological regulation
+4614	4616	GO:0009987	to	cellular process
+4741	4748	GO:0065007	meiotic	biological regulation
+4849	4856	GO:0065007	meiotic	biological regulation
+4994	5009	GO:0043226	sex chromosomes	organelle
+4994	5009	GO:0044464	sex chromosomes	cell part
+4998	5009	GO:0044464	chromosomes	cell part
+4998	5009	GO:0044422	chromosomes	organelle part
+4998	5009	GO:0043226	chromosomes	organelle
+5112	5114	GO:0065007	to	biological regulation
+5112	5114	GO:0009987	to	cellular process
+5209	5221	GO:0044464	X chromosome	cell part
+5209	5221	GO:0043226	X chromosome	organelle
+5209	5234	GO:0065007	X chromosome inactivation	biological regulation
+5211	5221	GO:0043226	chromosome	organelle
+5211	5221	GO:0044422	chromosome	organelle part
+5211	5221	GO:0044464	chromosome	cell part
+5261	5271	GO:0016265	germ cells	death
+5261	5271	GO:0009987	germ cells	cellular process
+5261	5271	GO:0032502	germ cells	developmental process
+5261	5271	GO:0022414	germ cells	reproductive process
+5266	5271	GO:0005623	cells	cell
+5323	5330	GO:0009987	meiosis	cellular process
+5335	5343	GO:0009987	prophase	cellular process
+5367	5378	GO:0044464	chromosomes	cell part
+5367	5378	GO:0044422	chromosomes	organelle part
+5367	5378	GO:0043226	chromosomes	organelle
+5379	5386	GO:0045202	synapse	synapse
+5430	5442	GO:0044464	Y chromosome	cell part
+5430	5442	GO:0043226	Y chromosome	organelle
+5432	5442	GO:0043226	chromosome	organelle
+5432	5442	GO:0044422	chromosome	organelle part
+5432	5442	GO:0044464	chromosome	cell part
+5462	5464	GO:0065007	to	biological regulation
+5462	5464	GO:0009987	to	cellular process
+5540	5550	GO:0043226	chromosome	organelle
+5540	5550	GO:0044422	chromosome	organelle part
+5540	5550	GO:0044464	chromosome	cell part
+5612	5622	GO:0043226	chromosome	organelle
+5612	5622	GO:0044422	chromosome	organelle part
+5612	5622	GO:0044464	chromosome	cell part
+5665	5674	GO:0044422	chromatin	organelle part
+5665	5674	GO:0044464	chromatin	cell part
+5693	5700	GO:0044464	XY body	cell part
+5693	5700	GO:0044422	XY body	organelle part
+5734	5741	GO:0044464	XY body	cell part
+5734	5741	GO:0044422	XY body	organelle part
+5815	5822	GO:0065007	meiotic	biological regulation
+5848	5856	GO:0003824	proteins	catalytic activity
+5870	5872	GO:0065007	to	biological regulation
+5870	5872	GO:0009987	to	cellular process
+5870	5872	GO:0065007	to	biological regulation
+5870	5872	GO:0009987	to	cellular process
+5889	5896	GO:0044464	XY body	cell part
+5889	5896	GO:0044422	XY body	organelle part
+6051	6058	GO:0044464	XY body	cell part
+6051	6058	GO:0044422	XY body	organelle part
+6064	6079	GO:0043226	sex chromosomes	organelle
+6064	6079	GO:0044464	sex chromosomes	cell part
+6068	6079	GO:0044464	chromosomes	cell part
+6068	6079	GO:0044422	chromosomes	organelle part
+6068	6079	GO:0043226	chromosomes	organelle
+6131	6138	GO:0065007	meiotic	biological regulation
+6139	6153	GO:0044464	sex chromosome	cell part
+6139	6153	GO:0043226	sex chromosome	organelle
+6143	6153	GO:0043226	chromosome	organelle
+6143	6153	GO:0044422	chromosome	organelle part
+6143	6153	GO:0044464	chromosome	cell part
+6179	6186	GO:0044464	XY body	cell part
+6179	6186	GO:0044422	XY body	organelle part
+6283	6297	GO:0009987	spermiogenesis	cellular process
+6283	6297	GO:0032502	spermiogenesis	developmental process
+6283	6297	GO:0022414	spermiogenesis	reproductive process
+6371	6380	GO:0044422	chromatin	organelle part
+6371	6380	GO:0044464	chromatin	cell part
+6401	6414	GO:0044464	sex chromatin	cell part
+6401	6414	GO:0044422	sex chromatin	organelle part
+6405	6414	GO:0044422	chromatin	organelle part
+6405	6414	GO:0044464	chromatin	cell part
+6441	6454	GO:0044464	sex chromatin	cell part
+6441	6454	GO:0044422	sex chromatin	organelle part
+6445	6454	GO:0044422	chromatin	organelle part
+6445	6454	GO:0044464	chromatin	cell part
+6476	6478	GO:0065007	to	biological regulation
+6476	6478	GO:0009987	to	cellular process
+6584	6607	GO:0032502	developmental processes	developmental process
+6809	6811	GO:0065007	to	biological regulation
+6809	6811	GO:0009987	to	cellular process
+6809	6811	GO:0065007	to	biological regulation
+6809	6811	GO:0009987	to	cellular process
+6809	6811	GO:0065007	to	biological regulation
+6809	6811	GO:0009987	to	cellular process
+6809	6811	GO:0065007	to	biological regulation
+6809	6811	GO:0009987	to	cellular process
+6962	6964	GO:0065007	to	biological regulation
+6962	6964	GO:0009987	to	cellular process
+7032	7034	GO:0065007	to	biological regulation
+7032	7034	GO:0009987	to	cellular process
+7989	8011	GO:0032502	testicular development	developmental process
+7989	8011	GO:0022414	testicular development	reproductive process
+8166	8176	GO:0016265	germ cells	death
+8166	8176	GO:0009987	germ cells	cellular process
+8166	8176	GO:0032502	germ cells	developmental process
+8166	8176	GO:0022414	germ cells	reproductive process
+8171	8176	GO:0005623	cells	cell
+8171	8176	GO:0005623	cells	cell
+8184	8186	GO:0065007	to	biological regulation
+8184	8186	GO:0009987	to	cellular process
+8568	8580	GO:0032502	segmentation	developmental process
+8773	8775	GO:0065007	to	biological regulation
+8773	8775	GO:0009987	to	cellular process
+8874	8881	GO:0003824	protein	catalytic activity
+8903	8913	GO:0016265	germ cells	death
+8903	8913	GO:0009987	germ cells	cellular process
+8903	8913	GO:0032502	germ cells	developmental process
+8903	8913	GO:0022414	germ cells	reproductive process
+8908	8913	GO:0005623	cells	cell
+8943	8945	GO:0065007	to	biological regulation
+8943	8945	GO:0009987	to	cellular process
+8950	8957	GO:0044464	XY body	cell part
+8950	8957	GO:0044422	XY body	organelle part
+8966	8975	GO:0009987	pachytene	cellular process
+8976	8986	GO:0016265	germ cells	death
+8976	8986	GO:0009987	germ cells	cellular process
+8976	8986	GO:0032502	germ cells	developmental process
+8976	8986	GO:0022414	germ cells	reproductive process
+8981	8986	GO:0005623	cells	cell
+8988	8990	GO:0065007	To	biological regulation
+8988	8990	GO:0009987	To	cellular process
+9141	9150	GO:0009987	pachytene	cellular process
+9160	9167	GO:0065007	meiotic	biological regulation
+9168	9176	GO:0009987	prophase	cellular process
+9224	9229	GO:0005623	cells	cell
+9243	9245	GO:0065007	to	biological regulation
+9243	9245	GO:0009987	to	cellular process
+9269	9282	GO:0044464	sex chromatin	cell part
+9269	9282	GO:0044422	sex chromatin	organelle part
+9273	9282	GO:0044422	chromatin	organelle part
+9273	9282	GO:0044464	chromatin	cell part
+9390	9399	GO:0044422	chromatin	organelle part
+9390	9399	GO:0044464	chromatin	cell part
+9450	9457	GO:0065007	meiotic	biological regulation
+9458	9466	GO:0009987	prophase	cellular process
+9494	9502	GO:0003824	Proteins	catalytic activity
+9571	9578	GO:0065007	meiotic	biological regulation
+9745	9747	GO:0065007	to	biological regulation
+9745	9747	GO:0009987	to	cellular process
+9777	9784	GO:0009987	meiosis	cellular process
+9825	9827	GO:0065007	to	biological regulation
+9825	9827	GO:0009987	to	cellular process
+9832	9841	GO:0009987	pachytene	cellular process
+10275	10293	GO:0022414	testis development	reproductive process
+10275	10293	GO:0032502	testis development	developmental process
+10390	10399	GO:0009987	pachytene	cellular process
+10443	10458	GO:0016043	spermatogenesis	cellular component organization
+10443	10458	GO:0032501	spermatogenesis	multicellular organismal process
+10443	10458	GO:0022414	spermatogenesis	reproductive process
+10443	10458	GO:0009987	spermatogenesis	cellular process
+10513	10520	GO:0003824	Protein	catalytic activity
+10740	10755	GO:0016043	spermatogenesis	cellular component organization
+10740	10755	GO:0032501	spermatogenesis	multicellular organismal process
+10740	10755	GO:0022414	spermatogenesis	reproductive process
+10740	10755	GO:0009987	spermatogenesis	cellular process
+10853	10860	GO:0003824	protein	catalytic activity
+10943	10951	GO:0044421	antibody	extraccellular region part
+10943	10951	GO:0032991	antibody	macromolecular complex
+10952	10954	GO:0065007	to	biological regulation
+10952	10954	GO:0009987	to	cellular process
+11007	11019	GO:0051179	localization	localization
+11020	11022	GO:0065007	to	biological regulation
+11020	11022	GO:0009987	to	cellular process
+11023	11030	GO:0044464	XY body	cell part
+11023	11030	GO:0044422	XY body	organelle part
+11080	11090	GO:0044421	antibodies	extraccellular region part
+11080	11090	GO:0032991	antibodies	macromolecular complex
+11091	11093	GO:0065007	to	biological regulation
+11091	11093	GO:0009987	to	cellular process
+11101	11104	GO:0023046	red	signaling process
+11101	11104	GO:0050896	red	response to stimulus
+11101	11104	GO:0009987	red	cellular process
+11101	11104	GO:0065007	red	biological regulation
+11146	11148	GO:0065007	to	biological regulation
+11146	11148	GO:0009987	to	cellular process
+11153	11160	GO:0044464	XY body	cell part
+11153	11160	GO:0044422	XY body	organelle part
+11249	11258	GO:0009987	pachytene	cellular process
+11278	11287	GO:0044422	XY bodies	organelle part
+11278	11287	GO:0044464	XY bodies	cell part
+11288	11290	GO:0065007	To	biological regulation
+11288	11290	GO:0009987	To	cellular process
+11309	11316	GO:0003824	protein	catalytic activity
+11345	11353	GO:0044421	antibody	extraccellular region part
+11345	11353	GO:0032991	antibody	macromolecular complex
+11392	11399	GO:0003824	protein	catalytic activity
+11405	11413	GO:0044421	antibody	extraccellular region part
+11405	11413	GO:0032991	antibody	macromolecular complex
+11480	11482	GO:0065007	to	biological regulation
+11480	11482	GO:0009987	to	cellular process
+11525	11533	GO:0003824	proteins	catalytic activity
+11609	11616	GO:0003824	protein	catalytic activity
+11652	11654	GO:0065007	to	biological regulation
+11652	11654	GO:0009987	to	cellular process
+11754	11758	GO:0005623	cell	cell
+11835	11842	GO:0003824	protein	catalytic activity
+11854	11859	GO:0005623	cells	cell
+11876	11881	GO:0005623	cells	cell
+11901	11906	GO:0005623	cells	cell
+11918	11923	GO:0005623	cells	cell
+11925	11927	GO:0065007	To	biological regulation
+11925	11927	GO:0009987	To	cellular process
+11957	11966	GO:0009987	pachytene	cellular process
+12021	12029	GO:0044421	antibody	extraccellular region part
+12021	12029	GO:0032991	antibody	macromolecular complex
+12030	12032	GO:0065007	to	biological regulation
+12030	12032	GO:0009987	to	cellular process
+12070	12075	GO:0005623	cells	cell
+12092	12094	GO:0065007	to	biological regulation
+12092	12094	GO:0009987	to	cellular process
+12151	12153	GO:0065007	to	biological regulation
+12151	12153	GO:0009987	to	cellular process
+12159	12168	GO:0009987	pachytene	cellular process
+12336	12343	GO:0044464	XY body	cell part
+12336	12343	GO:0044422	XY body	organelle part
+12377	12386	GO:0044422	chromatin	organelle part
+12377	12386	GO:0044464	chromatin	cell part
+12411	12426	GO:0043226	sex chromosomes	organelle
+12411	12426	GO:0044464	sex chromosomes	cell part
+12415	12426	GO:0044464	chromosomes	cell part
+12415	12426	GO:0044422	chromosomes	organelle part
+12415	12426	GO:0043226	chromosomes	organelle
+12545	12553	GO:0009987	prophase	cellular process
+12567	12579	GO:0009987	male meiosis	cellular process
+12572	12579	GO:0009987	meiosis	cellular process
+12586	12588	GO:0065007	To	biological regulation
+12586	12588	GO:0009987	To	cellular process
+12602	12609	GO:0003824	protein	catalytic activity
+12628	12635	GO:0044464	XY body	cell part
+12628	12635	GO:0044422	XY body	organelle part
+12765	12772	GO:0044464	XY body	cell part
+12765	12772	GO:0044422	XY body	organelle part
+12856	12863	GO:0003824	protein	catalytic activity
+12892	12894	GO:0065007	to	biological regulation
+12892	12894	GO:0009987	to	cellular process
+12899	12906	GO:0044464	XY body	cell part
+12899	12906	GO:0044422	XY body	organelle part
+12938	12945	GO:0044464	XY body	cell part
+12938	12945	GO:0044422	XY body	organelle part
+12946	12958	GO:0051179	localization	localization
+13090	13092	GO:0065007	to	biological regulation
+13090	13092	GO:0009987	to	cellular process
+13097	13104	GO:0044464	XY body	cell part
+13097	13104	GO:0044422	XY body	organelle part
+13204	13206	GO:0065007	to	biological regulation
+13204	13206	GO:0009987	to	cellular process
+13211	13218	GO:0044464	XY body	cell part
+13211	13218	GO:0044422	XY body	organelle part
+13229	13231	GO:0065007	to	biological regulation
+13229	13231	GO:0009987	to	cellular process
+13350	13362	GO:0051179	localization	localization
+13392	13399	GO:0065007	meiotic	biological regulation
+13473	13481	GO:0044421	antibody	extraccellular region part
+13473	13481	GO:0032991	antibody	macromolecular complex
+13535	13539	GO:0032502	head	developmental process
+13627	13629	GO:0065007	to	biological regulation
+13627	13629	GO:0009987	to	cellular process
+13634	13641	GO:0044464	XY body	cell part
+13634	13641	GO:0044422	XY body	organelle part
+13704	13706	GO:0065007	To	biological regulation
+13704	13706	GO:0009987	To	cellular process
+13808	13817	GO:0009987	embryonic	cellular process
+13808	13817	GO:0065007	embryonic	biological regulation
+13828	13833	GO:0005623	cells	cell
+14192	14203	GO:0009987	recognition	cellular process
+14337	14348	GO:0009987	recognition	cellular process
+14561	14565	GO:0005623	cell	cell
+14620	14625	GO:0005623	cells	cell
+14695	14699	GO:0005623	cell	cell
+14788	14790	GO:0065007	to	biological regulation
+14788	14790	GO:0009987	to	cellular process
+14808	14810	GO:0065007	to	biological regulation
+14808	14810	GO:0009987	to	cellular process
+14881	14883	GO:0065007	to	biological regulation
+14881	14883	GO:0009987	to	cellular process
+14905	14907	GO:0065007	to	biological regulation
+14905	14907	GO:0009987	to	cellular process
+14995	14997	GO:0065007	to	biological regulation
+14995	14997	GO:0009987	to	cellular process
+15022	15024	GO:0065007	To	biological regulation
+15022	15024	GO:0009987	To	cellular process
+15062	15069	GO:0003824	protein	catalytic activity
+15100	15107	GO:0065007	meiotic	biological regulation
+15285	15292	GO:0003824	protein	catalytic activity
+15360	15362	GO:0065007	to	biological regulation
+15360	15362	GO:0009987	to	cellular process
+15595	15603	GO:0050896	behavior	response to stimulus
+15946	15948	GO:0065007	To	biological regulation
+15946	15948	GO:0009987	To	cellular process
+15974	15992	GO:0022414	testis development	reproductive process
+15974	15992	GO:0032502	testis development	developmental process
+16102	16117	GO:0016043	spermatogenesis	cellular component organization
+16102	16117	GO:0032501	spermatogenesis	multicellular organismal process
+16102	16117	GO:0022414	spermatogenesis	reproductive process
+16102	16117	GO:0009987	spermatogenesis	cellular process
+16125	16127	GO:0065007	to	biological regulation
+16125	16127	GO:0009987	to	cellular process
+16178	16180	GO:0065007	to	biological regulation
+16178	16180	GO:0009987	to	cellular process
+16325	16332	GO:0065007	meiotic	biological regulation
+16333	16343	GO:0016265	germ cells	death
+16333	16343	GO:0009987	germ cells	cellular process
+16333	16343	GO:0032502	germ cells	developmental process
+16333	16343	GO:0022414	germ cells	reproductive process
+16338	16343	GO:0005623	cells	cell
+16444	16446	GO:0065007	to	biological regulation
+16444	16446	GO:0009987	to	cellular process
+16568	16578	GO:0016265	germ cells	death
+16568	16578	GO:0009987	germ cells	cellular process
+16568	16578	GO:0032502	germ cells	developmental process
+16568	16578	GO:0022414	germ cells	reproductive process
+16573	16578	GO:0005623	cells	cell
+16620	16630	GO:0016265	germ cells	death
+16620	16630	GO:0009987	germ cells	cellular process
+16620	16630	GO:0032502	germ cells	developmental process
+16620	16630	GO:0022414	germ cells	reproductive process
+16625	16630	GO:0005623	cells	cell
+16777	16782	GO:0005623	cells	cell
+16791	16793	GO:0065007	to	biological regulation
+16791	16793	GO:0009987	to	cellular process
+16827	16834	GO:0065007	meiotic	biological regulation
+17011	17016	GO:0005623	cells	cell
+17129	17134	GO:0005623	cells	cell
+17129	17134	GO:0005623	cells	cell
+17139	17144	GO:0005623	cells	cell
+17228	17235	GO:0005215	Reduced	transporter activity
+17228	17235	GO:0008152	Reduced	metabolic process
+17228	17235	GO:0009987	Reduced	cellular process
+17228	17235	GO:0051234	Reduced	establishment of localization
+17257	17261	GO:0005623	Cell	cell
+17262	17271	GO:0009987	Apoptosis	cellular process
+17262	17271	GO:0016265	Apoptosis	death
+17700	17705	GO:0005623	cells	cell
+17816	17821	GO:0005623	cells	cell
+17990	17992	GO:0065007	to	biological regulation
+17990	17992	GO:0009987	to	cellular process
+18010	18015	GO:0005623	cells	cell
+18010	18015	GO:0005623	cells	cell
+18078	18080	GO:0065007	to	biological regulation
+18078	18080	GO:0009987	to	cellular process
+18084	18089	GO:0005623	cells	cell
+18186	18188	GO:0065007	to	biological regulation
+18186	18188	GO:0009987	to	cellular process
+18282	18287	GO:0005623	cells	cell
+18364	18373	GO:0016265	apoptosis	death
+18364	18373	GO:0009987	apoptosis	cellular process
+18441	18446	GO:0005623	cells	cell
+18671	18680	GO:0016265	apoptosis	death
+18671	18680	GO:0009987	apoptosis	cellular process
+18759	18764	GO:0005623	cells	cell
+18759	18764	GO:0005623	cells	cell
+18822	18827	GO:0005623	cells	cell
+18917	18921	GO:0005623	cell	cell
+19039	19048	GO:0016265	apoptosis	death
+19039	19048	GO:0009987	apoptosis	cellular process
+19149	19156	GO:0065007	meiotic	biological regulation
+19199	19201	GO:0065007	to	biological regulation
+19199	19201	GO:0009987	to	cellular process
+19222	19231	GO:0016265	apoptosis	death
+19222	19231	GO:0009987	apoptosis	cellular process
+19249	19254	GO:0005623	cells	cell
+19255	19264	GO:0009987	Pachytene	cellular process
+19293	19298	GO:0005623	Cells	cell
+19298	19300	GO:0065007	To	biological regulation
+19298	19300	GO:0009987	To	cellular process
+19362	19372	GO:0016265	germ cells	death
+19362	19372	GO:0009987	germ cells	cellular process
+19362	19372	GO:0032502	germ cells	developmental process
+19362	19372	GO:0022414	germ cells	reproductive process
+19367	19372	GO:0005623	cells	cell
+19397	19407	GO:0044421	antibodies	extraccellular region part
+19397	19407	GO:0032991	antibodies	macromolecular complex
+19444	19448	GO:0005623	cell	cell
+19573	19578	GO:0005623	cells	cell
+19596	19600	GO:0005623	cell	cell
+19655	19660	GO:0005623	cells	cell
+19725	19730	GO:0005623	cells	cell
+19757	19765	GO:0044421	antibody	extraccellular region part
+19757	19765	GO:0032991	antibody	macromolecular complex
+19798	19807	GO:0009987	leptotene	cellular process
+19801	19803	GO:0065007	to	biological regulation
+19801	19803	GO:0009987	to	cellular process
+19877	19882	GO:0005623	cells	cell
+19967	19972	GO:0005623	cells	cell
+20052	20060	GO:0044421	antibody	extraccellular region part
+20052	20060	GO:0032991	antibody	macromolecular complex
+20083	20090	GO:0003824	protein	catalytic activity
+20104	20113	GO:0009987	pachytene	cellular process
+20120	20122	GO:0065007	to	biological regulation
+20120	20122	GO:0009987	to	cellular process
+20224	20229	GO:0005623	cells	cell
+20269	20271	GO:0065007	to	biological regulation
+20269	20271	GO:0009987	to	cellular process
+20329	20334	GO:0005623	cells	cell
+20343	20350	GO:0065007	meiotic	biological regulation
+20462	20482	GO:0044422	synaptonemal complex	organelle part
+20462	20482	GO:0044464	synaptonemal complex	cell part
+20534	20543	GO:0009987	pachytene	cellular process
+20544	20549	GO:0005623	cells	cell
+20567	20574	GO:0009987	reduced	cellular process
+20567	20574	GO:0008152	reduced	metabolic process
+20567	20574	GO:0005215	reduced	transporter activity
+20567	20574	GO:0051234	reduced	establishment of localization
+20586	20591	GO:0005623	cells	cell
+20663	20670	GO:0065007	meiotic	biological regulation
+20778	20783	GO:0005623	cells	cell
+20792	20800	GO:0009987	Prophase	cellular process
+20831	20836	GO:0005623	Cells	cell
+20945	20955	GO:0044421	antibodies	extraccellular region part
+20945	20955	GO:0032991	antibodies	macromolecular complex
+20965	20967	GO:0065007	to	biological regulation
+20965	20967	GO:0009987	to	cellular process
+20982	20987	GO:0005623	cells	cell
+20998	21006	GO:0044421	antibody	extraccellular region part
+20998	21006	GO:0032991	antibody	macromolecular complex
+20998	21006	GO:0044421	antibody	extraccellular region part
+20998	21006	GO:0032991	antibody	macromolecular complex
+20998	21006	GO:0044421	antibody	extraccellular region part
+20998	21006	GO:0032991	antibody	macromolecular complex
+21188	21197	GO:0009987	pachytene	cellular process
+21208	21218	GO:0016265	germ cells	death
+21208	21218	GO:0009987	germ cells	cellular process
+21208	21218	GO:0032502	germ cells	developmental process
+21208	21218	GO:0022414	germ cells	reproductive process
+21213	21218	GO:0005623	cells	cell
+21289	21296	GO:0065007	Meiotic	biological regulation
+21351	21358	GO:0065007	meiotic	biological regulation
+21369	21379	GO:0016265	germ cells	death
+21369	21379	GO:0009987	germ cells	cellular process
+21369	21379	GO:0032502	germ cells	developmental process
+21369	21379	GO:0022414	germ cells	reproductive process
+21374	21379	GO:0005623	cells	cell
+21483	21503	GO:0044422	synaptonemal complex	organelle part
+21483	21503	GO:0044464	synaptonemal complex	cell part
+21504	21511	GO:0003824	protein	catalytic activity
+21518	21520	GO:0065007	to	biological regulation
+21518	21520	GO:0009987	to	cellular process
+21593	21600	GO:0065007	Meiotic	biological regulation
+21601	21609	GO:0009987	Prophase	cellular process
+21631	21636	GO:0005623	Cells	cell
+21647	21657	GO:0043226	chromosome	organelle
+21647	21657	GO:0044422	chromosome	organelle part
+21647	21657	GO:0044464	chromosome	cell part
+21667	21675	GO:0009987	synapsis	cellular process
+21667	21675	GO:0016043	synapsis	cellular component organization
+21706	21715	GO:0009987	pachytene	cellular process
+21727	21736	GO:0016265	apoptosis	death
+21727	21736	GO:0009987	apoptosis	cellular process
+21802	21804	GO:0065007	To	biological regulation
+21802	21804	GO:0009987	To	cellular process
+21820	21828	GO:0009987	synapsis	cellular process
+21820	21828	GO:0016043	synapsis	cellular component organization
+21838	21848	GO:0044421	antibodies	extraccellular region part
+21838	21848	GO:0032991	antibodies	macromolecular complex
+21849	21851	GO:0065007	to	biological regulation
+21849	21851	GO:0009987	to	cellular process
+21861	21881	GO:0044422	synaptonemal complex	organelle part
+21861	21881	GO:0044464	synaptonemal complex	cell part
+21942	21955	GO:0044422	axial element	organelle part
+21942	21955	GO:0044464	axial element	cell part
+22020	22029	GO:0008152	Formation	metabolic process
+22033	22055	GO:0044464	synaptonemal complexes	cell part
+22033	22055	GO:0044422	synaptonemal complexes	organelle part
+22234	22242	GO:0009987	zygotene	cellular process
+22354	22361	GO:0065007	meiotic	biological regulation
+22537	22559	GO:0044464	synaptonemal complexes	cell part
+22537	22559	GO:0044422	synaptonemal complexes	organelle part
+22614	22619	GO:0005623	cells	cell
+22688	22696	GO:0009987	synapsis	cellular process
+22688	22696	GO:0016043	synapsis	cellular component organization
+22832	22840	GO:0009987	prophase	cellular process
+22899	22907	GO:0016043	Synapsis	cellular component organization
+22899	22907	GO:0009987	Synapsis	cellular process
+22947	22952	GO:0005623	Cells	cell
+22967	22972	GO:0005623	cells	cell
+23064	23072	GO:0044421	antibody	extraccellular region part
+23064	23072	GO:0032991	antibody	macromolecular complex
+23073	23075	GO:0065007	to	biological regulation
+23073	23075	GO:0009987	to	cellular process
+23083	23086	GO:0023046	red	signaling process
+23083	23086	GO:0050896	red	response to stimulus
+23083	23086	GO:0009987	red	cellular process
+23083	23086	GO:0065007	red	biological regulation
+23117	23124	GO:0065007	meiotic	biological regulation
+23125	23133	GO:0009987	prophase	cellular process
+23209	23218	GO:0044464	autosomes	cell part
+23209	23218	GO:0043226	autosomes	organelle
+23335	23340	GO:0005623	cells	cell
+23356	23361	GO:0005623	cells	cell
+23412	23422	GO:0044421	antibodies	extraccellular region part
+23412	23422	GO:0032991	antibodies	macromolecular complex
+23423	23425	GO:0065007	to	biological regulation
+23423	23425	GO:0009987	to	cellular process
+23451	23454	GO:0023046	red	signaling process
+23451	23454	GO:0050896	red	response to stimulus
+23451	23454	GO:0009987	red	cellular process
+23451	23454	GO:0065007	red	biological regulation
+23603	23608	GO:0005623	Cells	cell
+23616	23621	GO:0005623	cells	cell
+23636	23646	GO:0016265	germ cells	death
+23636	23646	GO:0009987	germ cells	cellular process
+23636	23646	GO:0032502	germ cells	developmental process
+23636	23646	GO:0022414	germ cells	reproductive process
+23641	23646	GO:0005623	cells	cell
+23654	23669	GO:0016043	spermatogenesis	cellular component organization
+23654	23669	GO:0032501	spermatogenesis	multicellular organismal process
+23654	23669	GO:0022414	spermatogenesis	reproductive process
+23654	23669	GO:0009987	spermatogenesis	cellular process
+23711	23715	GO:0005623	cell	cell
+23711	23726	GO:0009987	cell maturation	cellular process
+23711	23726	GO:0032502	cell maturation	developmental process
+23716	23726	GO:0022414	maturation	reproductive process
+23788	23793	GO:0005623	cells	cell
+23797	23805	GO:0044421	antibody	extraccellular region part
+23797	23805	GO:0032991	antibody	macromolecular complex
+23872	23876	GO:0005623	cell	cell
+23902	23904	GO:0065007	to	biological regulation
+23902	23904	GO:0009987	to	cellular process
+23959	23961	GO:0065007	To	biological regulation
+23959	23961	GO:0009987	To	cellular process
+23975	24003	GO:0022414	Sertoli cell differentiation	reproductive process
+23975	24003	GO:0009987	Sertoli cell differentiation	cellular process
+23975	24003	GO:0032502	Sertoli cell differentiation	developmental process
+23983	23987	GO:0005623	cell	cell
+23983	24003	GO:0032502	cell differentiation	developmental process
+23983	24003	GO:0009987	cell differentiation	cellular process
+24043	24047	GO:0005623	cell	cell
+24102	24107	GO:0005623	cells	cell
+24137	24141	GO:0005623	cell	cell
+24171	24179	GO:0003824	proteins	catalytic activity
+24205	24207	GO:0065007	to	biological regulation
+24205	24207	GO:0009987	to	cellular process
+24346	24351	GO:0005623	cells	cell
+24428	24432	GO:0005623	cell	cell
+24498	24515	GO:0044421	basement membrane	extraccellular region part
+24507	24515	GO:0044464	membrane	cell part
+24568	24578	GO:0016265	germ cells	death
+24568	24578	GO:0009987	germ cells	cellular process
+24568	24578	GO:0032502	germ cells	developmental process
+24568	24578	GO:0022414	germ cells	reproductive process
+24573	24578	GO:0005623	cells	cell
+24589	24591	GO:0065007	to	biological regulation
+24589	24591	GO:0009987	to	cellular process
+24628	24636	GO:0044464	membrane	cell part
+24645	24655	GO:0016265	germ cells	death
+24645	24655	GO:0009987	germ cells	cellular process
+24645	24655	GO:0032502	germ cells	developmental process
+24645	24655	GO:0022414	germ cells	reproductive process
+24650	24655	GO:0005623	cells	cell
+24716	24720	GO:0005623	Cell	cell
+24840	24848	GO:0044421	antibody	extraccellular region part
+24840	24848	GO:0032991	antibody	macromolecular complex
+24849	24851	GO:0065007	to	biological regulation
+24849	24851	GO:0009987	to	cellular process
+24895	24903	GO:0044421	antibody	extraccellular region part
+24895	24903	GO:0032991	antibody	macromolecular complex
+24904	24906	GO:0065007	to	biological regulation
+24904	24906	GO:0009987	to	cellular process
+24989	24993	GO:0005623	cell	cell
+25055	25063	GO:0044421	antibody	extraccellular region part
+25055	25063	GO:0032991	antibody	macromolecular complex
+25064	25066	GO:0065007	to	biological regulation
+25064	25066	GO:0009987	to	cellular process
+25074	25077	GO:0023046	red	signaling process
+25074	25077	GO:0050896	red	response to stimulus
+25074	25077	GO:0009987	red	cellular process
+25074	25077	GO:0065007	red	biological regulation
+25109	25113	GO:0005623	cell	cell
+25135	25137	GO:0065007	to	biological regulation
+25135	25137	GO:0009987	to	cellular process
+25148	25156	GO:0044464	membrane	cell part
+25190	25195	GO:0005623	cells	cell
+25286	25295	GO:0044464	membranes	cell part
+25434	25449	GO:0016043	Spermatogenesis	cellular component organization
+25434	25449	GO:0032501	Spermatogenesis	multicellular organismal process
+25434	25449	GO:0022414	Spermatogenesis	reproductive process
+25434	25449	GO:0009987	Spermatogenesis	cellular process
+25454	25468	GO:0009987	spermiogenesis	cellular process
+25454	25468	GO:0032502	spermiogenesis	developmental process
+25454	25468	GO:0022414	spermiogenesis	reproductive process
+25579	25589	GO:0044421	antibodies	extraccellular region part
+25579	25589	GO:0032991	antibodies	macromolecular complex
+25590	25592	GO:0065007	to	biological regulation
+25590	25592	GO:0009987	to	cellular process
+25600	25603	GO:0023046	red	signaling process
+25600	25603	GO:0050896	red	response to stimulus
+25600	25603	GO:0009987	red	cellular process
+25600	25603	GO:0065007	red	biological regulation
+25630	25632	GO:0065007	to	biological regulation
+25630	25632	GO:0009987	to	cellular process
+25679	25683	GO:0005623	cell	cell
+25730	25738	GO:0044464	membrane	cell part
+25779	25783	GO:0005623	cell	cell
+25857	25861	GO:0005623	cell	cell
+25920	25924	GO:0005623	cell	cell
+25935	25937	GO:0065007	To	biological regulation
+25935	25937	GO:0009987	To	cellular process
+25998	26002	GO:0005623	cell	cell
+26180	26185	GO:0005623	cells	cell
+26197	26207	GO:0016265	germ cells	death
+26197	26207	GO:0009987	germ cells	cellular process
+26197	26207	GO:0032502	germ cells	developmental process
+26197	26207	GO:0022414	germ cells	reproductive process
+26202	26207	GO:0005623	cells	cell
+26247	26252	GO:0005623	cells	cell
+26381	26388	GO:0009987	reduced	cellular process
+26381	26388	GO:0008152	reduced	metabolic process
+26381	26388	GO:0005215	reduced	transporter activity
+26381	26388	GO:0051234	reduced	establishment of localization
+26523	26538	GO:0016043	Spermatogenesis	cellular component organization
+26523	26538	GO:0032501	Spermatogenesis	multicellular organismal process
+26523	26538	GO:0022414	Spermatogenesis	reproductive process
+26523	26538	GO:0009987	Spermatogenesis	cellular process
+26665	26669	GO:0005623	cell	cell
+26699	26701	GO:0065007	to	biological regulation
+26699	26701	GO:0009987	to	cellular process
+26706	26723	GO:0044421	basement membrane	extraccellular region part
+26715	26723	GO:0044464	membrane	cell part
+26784	26788	GO:0005623	cell	cell
+26857	26862	GO:0005623	cells	cell
+26909	26914	GO:0005623	cells	cell
+26923	26925	GO:0065007	to	biological regulation
+26923	26925	GO:0009987	to	cellular process
+27009	27014	GO:0005623	Cells	cell
+27067	27077	GO:0016265	germ cells	death
+27067	27077	GO:0009987	germ cells	cellular process
+27067	27077	GO:0032502	germ cells	developmental process
+27067	27077	GO:0022414	germ cells	reproductive process
+27072	27077	GO:0005623	cells	cell
+27110	27117	GO:0009987	meiosis	cellular process
+27155	27157	GO:0065007	to	biological regulation
+27155	27157	GO:0009987	to	cellular process
+27207	27209	GO:0065007	To	biological regulation
+27207	27209	GO:0009987	To	cellular process
+27245	27252	GO:0065007	meiotic	biological regulation
+27286	27293	GO:0065007	meiotic	biological regulation
+27294	27304	GO:0016265	germ cells	death
+27294	27304	GO:0009987	germ cells	cellular process
+27294	27304	GO:0032502	germ cells	developmental process
+27294	27304	GO:0022414	germ cells	reproductive process
+27299	27304	GO:0005623	cells	cell
+27338	27345	GO:0044464	XY body	cell part
+27338	27345	GO:0044422	XY body	organelle part
+27364	27366	GO:0065007	to	biological regulation
+27364	27366	GO:0009987	to	cellular process
+27384	27391	GO:0065007	meiotic	biological regulation
+27442	27454	GO:0051179	localization	localization
+27482	27495	GO:0044464	Y chromosomes	cell part
+27482	27495	GO:0043226	Y chromosomes	organelle
+27484	27495	GO:0044464	chromosomes	cell part
+27484	27495	GO:0044422	chromosomes	organelle part
+27484	27495	GO:0043226	chromosomes	organelle
+27520	27525	GO:0005623	cells	cell
+27566	27576	GO:0043226	chromosome	organelle
+27566	27576	GO:0044422	chromosome	organelle part
+27566	27576	GO:0044464	chromosome	cell part
+27606	27619	GO:0044464	sex chromatin	cell part
+27606	27619	GO:0044422	sex chromatin	organelle part
+27610	27619	GO:0044422	chromatin	organelle part
+27610	27619	GO:0044464	chromatin	cell part
+27681	27698	GO:0044464	nuclear periphery	cell part
+27681	27698	GO:0044422	nuclear periphery	organelle part
+27749	27756	GO:0044464	XY body	cell part
+27749	27756	GO:0044422	XY body	organelle part
+27757	27766	GO:0008152	formation	metabolic process
+27804	27811	GO:0044464	XY body	cell part
+27804	27811	GO:0044422	XY body	organelle part
+27812	27821	GO:0044422	chromatin	organelle part
+27812	27821	GO:0044464	chromatin	cell part
+27942	27949	GO:0044464	XY body	cell part
+27942	27949	GO:0044422	XY body	organelle part
+27950	27959	GO:0008152	formation	metabolic process
+28000	28002	GO:0065007	to	biological regulation
+28000	28002	GO:0009987	to	cellular process
+28007	28014	GO:0044464	XY body	cell part
+28007	28014	GO:0044422	XY body	organelle part
+28031	28036	GO:0005623	cells	cell
+28040	28047	GO:0065007	meiotic	biological regulation
+28116	28126	GO:0016265	germ cells	death
+28116	28126	GO:0009987	germ cells	cellular process
+28116	28126	GO:0032502	germ cells	developmental process
+28116	28126	GO:0022414	germ cells	reproductive process
+28121	28126	GO:0005623	cells	cell
+28188	28200	GO:0051179	localization	localization
+28267	28274	GO:0044464	XY body	cell part
+28267	28274	GO:0044422	XY body	organelle part
+28285	28287	GO:0065007	to	biological regulation
+28285	28287	GO:0009987	to	cellular process
+28331	28345	GO:0044464	sex chromosome	cell part
+28331	28345	GO:0043226	sex chromosome	organelle
+28335	28345	GO:0043226	chromosome	organelle
+28335	28345	GO:0044422	chromosome	organelle part
+28335	28345	GO:0044464	chromosome	cell part
+28335	28358	GO:0016043	chromosome condensation	cellular component organization
+28335	28358	GO:0009987	chromosome condensation	cellular process
+28366	28368	GO:0065007	to	biological regulation
+28366	28368	GO:0009987	to	cellular process
+28397	28404	GO:0065007	meiotic	biological regulation
+28442	28449	GO:0044464	XY body	cell part
+28442	28449	GO:0044422	XY body	organelle part
+28463	28476	GO:0044464	Y chromosomes	cell part
+28463	28476	GO:0043226	Y chromosomes	organelle
+28465	28476	GO:0044464	chromosomes	cell part
+28465	28476	GO:0044422	chromosomes	organelle part
+28465	28476	GO:0043226	chromosomes	organelle
+28509	28521	GO:0051179	localization	localization
+28550	28560	GO:0016265	germ cells	death
+28550	28560	GO:0009987	germ cells	cellular process
+28550	28560	GO:0032502	germ cells	developmental process
+28550	28560	GO:0022414	germ cells	reproductive process
+28555	28560	GO:0005623	cells	cell
+28584	28593	GO:0008152	formation	metabolic process
+28616	28623	GO:0044464	XY body	cell part
+28616	28623	GO:0044422	XY body	organelle part
+28693	28698	GO:0005623	cells	cell
+28779	28784	GO:0005623	cells	cell
+28826	28831	GO:0005623	cells	cell
+28926	28931	GO:0005623	cells	cell
+28940	28942	GO:0065007	to	biological regulation
+28940	28942	GO:0009987	to	cellular process
+28983	28995	GO:0051179	localization	localization
+29070	29077	GO:0044464	XY body	cell part
+29070	29077	GO:0044422	XY body	organelle part
+29137	29144	GO:0043226	nucleus	organelle
+29137	29144	GO:0044464	nucleus	cell part
+29175	29177	GO:0065007	to	biological regulation
+29175	29177	GO:0009987	to	cellular process
+29182	29189	GO:0044464	XY body	cell part
+29182	29189	GO:0044422	XY body	organelle part
+29214	29216	GO:0065007	to	biological regulation
+29214	29216	GO:0009987	to	cellular process
+29303	29310	GO:0044464	XY body	cell part
+29303	29310	GO:0044422	XY body	organelle part
+29396	29406	GO:0016265	germ cells	death
+29396	29406	GO:0009987	germ cells	cellular process
+29396	29406	GO:0032502	germ cells	developmental process
+29396	29406	GO:0022414	germ cells	reproductive process
+29401	29406	GO:0005623	cells	cell
+29424	29431	GO:0044464	XY body	cell part
+29424	29431	GO:0044422	XY body	organelle part
+29465	29474	GO:0044422	chromatin	organelle part
+29465	29474	GO:0044464	chromatin	cell part
+29564	29569	GO:0005623	cells	cell
+29594	29604	GO:0044421	antibodies	extraccellular region part
+29594	29604	GO:0032991	antibodies	macromolecular complex
+29605	29607	GO:0065007	to	biological regulation
+29605	29607	GO:0009987	to	cellular process
+29615	29618	GO:0023046	red	signaling process
+29615	29618	GO:0050896	red	response to stimulus
+29615	29618	GO:0009987	red	cellular process
+29615	29618	GO:0065007	red	biological regulation
+29642	29651	GO:0009987	pachytene	cellular process
+29652	29657	GO:0005623	cells	cell
+29688	29695	GO:0044464	XY body	cell part
+29688	29695	GO:0044422	XY body	organelle part
+29788	29796	GO:0044421	antibody	extraccellular region part
+29788	29796	GO:0032991	antibody	macromolecular complex
+29797	29799	GO:0065007	to	biological regulation
+29797	29799	GO:0009987	to	cellular process
+29807	29810	GO:0023046	red	signaling process
+29807	29810	GO:0050896	red	response to stimulus
+29807	29810	GO:0009987	red	cellular process
+29807	29810	GO:0065007	red	biological regulation
+29869	29877	GO:0044421	antibody	extraccellular region part
+29869	29877	GO:0032991	antibody	macromolecular complex
+29878	29880	GO:0065007	to	biological regulation
+29878	29880	GO:0009987	to	cellular process
+29906	29915	GO:0009987	pachytene	cellular process
+29916	29921	GO:0005623	cells	cell
+29927	29936	GO:0044422	XY bodies	organelle part
+29927	29936	GO:0044464	XY bodies	cell part
+29993	30002	GO:0044464	Chromatin	cell part
+29993	30002	GO:0044422	Chromatin	organelle part
+30024	30029	GO:0005623	Cells	cell
+30042	30049	GO:0044464	XY body	cell part
+30042	30049	GO:0044422	XY body	organelle part
+30241	30250	GO:0009987	pachytene	cellular process
+30251	30256	GO:0005623	cells	cell
+30309	30311	GO:0065007	to	biological regulation
+30309	30311	GO:0009987	to	cellular process
+30363	30365	GO:0065007	to	biological regulation
+30363	30365	GO:0009987	to	cellular process
+30380	30387	GO:0009987	meiosis	cellular process
+30380	30390	GO:0016043	meiosis II	cellular component organization
+30380	30390	GO:0009987	meiosis II	cellular process
+30380	30390	GO:0051234	meiosis II	establishment of localization
+30395	30409	GO:0009987	spermiogenesis	cellular process
+30395	30409	GO:0032502	spermiogenesis	developmental process
+30395	30409	GO:0022414	spermiogenesis	reproductive process
+30445	30454	GO:0044422	chromatin	organelle part
+30445	30454	GO:0044464	chromatin	cell part
+30486	30499	GO:0044464	sex chromatin	cell part
+30486	30499	GO:0044422	sex chromatin	organelle part
+30490	30499	GO:0044422	chromatin	organelle part
+30490	30499	GO:0044464	chromatin	cell part
+30586	30595	GO:0009987	pachytene	cellular process
+30601	30605	GO:0005623	cell	cell
+30601	30611	GO:0016265	cell death	death
+30601	30611	GO:0009987	cell death	cellular process
+30606	30611	GO:0016265	death	death
+30665	30667	GO:0065007	to	biological regulation
+30665	30667	GO:0009987	to	cellular process
+30665	30667	GO:0065007	to	biological regulation
+30665	30667	GO:0009987	to	cellular process
+30692	30706	GO:0044464	sex chromosome	cell part
+30692	30706	GO:0043226	sex chromosome	organelle
+30696	30706	GO:0043226	chromosome	organelle
+30696	30706	GO:0044422	chromosome	organelle part
+30696	30706	GO:0044464	chromosome	cell part
+30757	30764	GO:0044464	XY body	cell part
+30757	30764	GO:0044422	XY body	organelle part
+30766	30768	GO:0065007	To	biological regulation
+30766	30768	GO:0009987	To	cellular process
+30871	30873	GO:0065007	to	biological regulation
+30871	30873	GO:0009987	to	cellular process
+30907	30920	GO:0009987	transcription	cellular process
+30907	30920	GO:0008152	transcription	metabolic process
+30950	30952	GO:0065007	to	biological regulation
+30950	30952	GO:0009987	to	cellular process
+30964	30971	GO:0044464	XY body	cell part
+30964	30971	GO:0044422	XY body	organelle part
+31049	31056	GO:0044464	XY body	cell part
+31049	31056	GO:0044422	XY body	organelle part
+31190	31199	GO:0009987	pachytene	cellular process
+31200	31205	GO:0005623	cells	cell
+31299	31308	GO:0009987	pachytene	cellular process
+31341	31348	GO:0009987	meiosis	cellular process
+31398	31407	GO:0009987	pachytene	cellular process
+31408	31413	GO:0005623	cells	cell
+31486	31494	GO:0044421	antibody	extraccellular region part
+31486	31494	GO:0032991	antibody	macromolecular complex
+31525	31540	GO:0044464	heterochromatin	cell part
+31525	31540	GO:0044422	heterochromatin	organelle part
+31541	31548	GO:0003824	protein	catalytic activity
+31589	31591	GO:0065007	to	biological regulation
+31589	31591	GO:0009987	to	cellular process
+31655	31662	GO:0044464	XY body	cell part
+31655	31662	GO:0044422	XY body	organelle part
+31724	31736	GO:0051179	localization	localization
+31763	31768	GO:0005623	cells	cell
+31833	31840	GO:0044464	XY body	cell part
+31833	31840	GO:0044422	XY body	organelle part
+31841	31850	GO:0008152	formation	metabolic process
+31910	31920	GO:0016265	germ cells	death
+31910	31920	GO:0009987	germ cells	cellular process
+31910	31920	GO:0032502	germ cells	developmental process
+31910	31920	GO:0022414	germ cells	reproductive process
+31915	31920	GO:0005623	cells	cell
+31929	31938	GO:0044464	Chromatin	cell part
+31929	31938	GO:0044422	Chromatin	organelle part
+31969	31978	GO:0009987	Diplotene	cellular process
+31984	31989	GO:0005623	Cells	cell
+32083	32090	GO:0044464	XY body	cell part
+32083	32090	GO:0044422	XY body	organelle part
+32122	32125	GO:0023046	red	signaling process
+32122	32125	GO:0050896	red	response to stimulus
+32122	32125	GO:0009987	red	cellular process
+32122	32125	GO:0065007	red	biological regulation
+32155	32169	GO:0044464	sex chromosome	cell part
+32155	32169	GO:0043226	sex chromosome	organelle
+32159	32169	GO:0043226	chromosome	organelle
+32159	32169	GO:0044422	chromosome	organelle part
+32159	32169	GO:0044464	chromosome	cell part
+32170	32183	GO:0009987	transcription	cellular process
+32170	32183	GO:0008152	transcription	metabolic process
+32187	32194	GO:0044464	XY body	cell part
+32187	32194	GO:0044422	XY body	organelle part
+32288	32300	GO:0051179	localization	localization
+32324	32326	GO:0065007	to	biological regulation
+32324	32326	GO:0009987	to	cellular process
+32351	32363	GO:0044464	X chromosome	cell part
+32351	32363	GO:0043226	X chromosome	organelle
+32353	32363	GO:0043226	chromosome	organelle
+32353	32363	GO:0044422	chromosome	organelle part
+32353	32363	GO:0044464	chromosome	cell part
+32452	32461	GO:0009987	diplotene	cellular process
+32475	32482	GO:0044464	XY body	cell part
+32475	32482	GO:0044422	XY body	organelle part
+32508	32520	GO:0051179	localization	localization
+32569	32578	GO:0009987	diplotene	cellular process
+32590	32594	GO:0005623	cell	cell
+32619	32626	GO:0044464	XY body	cell part
+32619	32626	GO:0044422	XY body	organelle part
+32643	32647	GO:0005623	cell	cell
+32661	32673	GO:0051179	localization	localization
+32674	32676	GO:0065007	to	biological regulation
+32674	32676	GO:0009987	to	cellular process
+32677	32689	GO:0044464	X chromosome	cell part
+32677	32689	GO:0043226	X chromosome	organelle
+32679	32689	GO:0043226	chromosome	organelle
+32679	32689	GO:0044422	chromosome	organelle part
+32679	32689	GO:0044464	chromosome	cell part
+32732	32744	GO:0051179	localization	localization
+32748	32757	GO:0009987	diplotene	cellular process
+32758	32763	GO:0005623	cells	cell
+32772	32776	GO:0005623	cell	cell
+32821	32823	GO:0065007	to	biological regulation
+32821	32823	GO:0009987	to	cellular process
+32828	32835	GO:0044464	XY body	cell part
+32828	32835	GO:0044422	XY body	organelle part
+32877	32889	GO:0051179	localization	localization
+32893	32902	GO:0009987	diplotene	cellular process
+32903	32908	GO:0005623	cells	cell
+32917	32921	GO:0005623	cell	cell
+32933	32945	GO:0051179	localization	localization
+32959	32961	GO:0065007	to	biological regulation
+32959	32961	GO:0009987	to	cellular process
+32966	32973	GO:0044464	XY body	cell part
+32966	32973	GO:0044422	XY body	organelle part
+32991	32993	GO:0065007	to	biological regulation
+32991	32993	GO:0009987	to	cellular process
+32994	33003	GO:0044464	autosomes	cell part
+32994	33003	GO:0043226	autosomes	organelle
+33014	33018	GO:0005623	cell	cell
+33049	33058	GO:0016265	apoptosis	death
+33049	33058	GO:0009987	apoptosis	cellular process
+33081	33090	GO:0009987	diplotene	cellular process
+33091	33095	GO:0005623	cell	cell
+33126	33128	GO:0065007	to	biological regulation
+33126	33128	GO:0009987	to	cellular process
+33133	33140	GO:0044464	XY body	cell part
+33133	33140	GO:0044422	XY body	organelle part
+33234	33247	GO:0044464	sex chromatin	cell part
+33234	33247	GO:0044422	sex chromatin	organelle part
+33238	33247	GO:0044422	chromatin	organelle part
+33238	33247	GO:0044464	chromatin	cell part
+33304	33309	GO:0005623	cells	cell
+33335	33337	GO:0065007	to	biological regulation
+33335	33337	GO:0009987	to	cellular process
+33376	33381	GO:0005623	cells	cell
+33400	33409	GO:0016265	apoptosis	death
+33400	33409	GO:0009987	apoptosis	cellular process
+33404	33406	GO:0065007	to	biological regulation
+33404	33406	GO:0009987	to	cellular process
+33416	33418	GO:0065007	to	biological regulation
+33416	33418	GO:0009987	to	cellular process
+33454	33464	GO:0065007	epigenetic	biological regulation
+33529	33538	GO:0009987	pachytene	cellular process
+33604	33617	GO:0009987	transcription	cellular process
+33604	33617	GO:0008152	transcription	metabolic process
+33771	33776	GO:0005623	cells	cell
+33781	33794	GO:0044464	sex chromatin	cell part
+33781	33794	GO:0044422	sex chromatin	organelle part
+33785	33794	GO:0044422	chromatin	organelle part
+33785	33794	GO:0044464	chromatin	cell part
+33804	33806	GO:0065007	to	biological regulation
+33804	33806	GO:0009987	to	cellular process
+33841	33843	GO:0065007	to	biological regulation
+33841	33843	GO:0009987	to	cellular process
+33890	33900	GO:0065007	epigenetic	biological regulation
+34029	34036	GO:0044464	XY body	cell part
+34029	34036	GO:0044422	XY body	organelle part
+34107	34120	GO:0044464	sex chromatin	cell part
+34107	34120	GO:0044422	sex chromatin	organelle part
+34111	34120	GO:0044422	chromatin	organelle part
+34111	34120	GO:0044464	chromatin	cell part
+34121	34133	GO:0051179	localization	localization
+34164	34173	GO:0009987	diplotene	cellular process
+34174	34179	GO:0005623	cells	cell
+34195	34207	GO:0051179	localization	localization
+34208	34210	GO:0065007	to	biological regulation
+34208	34210	GO:0009987	to	cellular process
+34215	34227	GO:0044464	X chromosome	cell part
+34215	34227	GO:0043226	X chromosome	organelle
+34217	34227	GO:0043226	chromosome	organelle
+34217	34227	GO:0044422	chromosome	organelle part
+34217	34227	GO:0044464	chromosome	cell part
+34308	34317	GO:0009987	diplotene	cellular process
+34318	34323	GO:0005623	cells	cell
+34336	34338	GO:0065007	to	biological regulation
+34336	34338	GO:0009987	to	cellular process
+34362	34364	GO:0065007	to	biological regulation
+34362	34364	GO:0009987	to	cellular process
+34376	34383	GO:0044464	XY body	cell part
+34376	34383	GO:0044422	XY body	organelle part
+34437	34446	GO:0009987	diplotene	cellular process
+34447	34452	GO:0005623	cells	cell
+34514	34527	GO:0044464	sex chromatin	cell part
+34514	34527	GO:0044422	sex chromatin	organelle part
+34518	34527	GO:0044422	chromatin	organelle part
+34518	34527	GO:0044464	chromatin	cell part
+34564	34573	GO:0009987	diplotene	cellular process
+34574	34579	GO:0005623	cells	cell
+34596	34608	GO:0051179	localization	localization
+34617	34619	GO:0065007	to	biological regulation
+34617	34619	GO:0009987	to	cellular process
+34624	34637	GO:0044464	sex chromatin	cell part
+34624	34637	GO:0044422	sex chromatin	organelle part
+34628	34637	GO:0044422	chromatin	organelle part
+34628	34637	GO:0044464	chromatin	cell part
+34683	34688	GO:0005623	cells	cell
+34721	34728	GO:0044464	XY body	cell part
+34721	34728	GO:0044422	XY body	organelle part
+34762	34767	GO:0005623	cells	cell
+34800	34805	GO:0005623	cells	cell
+34854	34861	GO:0009987	meiosis	cellular process
+34900	34909	GO:0009987	diplotene	cellular process
+34910	34915	GO:0005623	cells	cell
+34933	34946	GO:0044464	sex chromatin	cell part
+34933	34946	GO:0044422	sex chromatin	organelle part
+34937	34946	GO:0044422	chromatin	organelle part
+34937	34946	GO:0044464	chromatin	cell part
+34967	34969	GO:0065007	to	biological regulation
+34967	34969	GO:0009987	to	cellular process
+35088	35097	GO:0009987	diplotene	cellular process
+35105	35110	GO:0005623	cells	cell
+35139	35148	GO:0016265	apoptosis	death
+35139	35148	GO:0009987	apoptosis	cellular process
+35174	35187	GO:0044464	sex chromatin	cell part
+35174	35187	GO:0044422	sex chromatin	organelle part
+35178	35187	GO:0044422	chromatin	organelle part
+35178	35187	GO:0044464	chromatin	cell part
+35202	35204	GO:0065007	to	biological regulation
+35202	35204	GO:0009987	to	cellular process
+35298	35303	GO:0005623	cells	cell
+35367	35372	GO:0005623	cells	cell
+35382	35389	GO:0044464	XY body	cell part
+35382	35389	GO:0044422	XY body	organelle part
+35460	35465	GO:0005623	cells	cell
+35489	35494	GO:0005623	cells	cell
+35498	35508	GO:0043226	chromosome	organelle
+35498	35508	GO:0044422	chromosome	organelle part
+35498	35508	GO:0044464	chromosome	cell part
+35529	35537	GO:0044421	antibody	extraccellular region part
+35529	35537	GO:0032991	antibody	macromolecular complex
+35538	35540	GO:0065007	to	biological regulation
+35538	35540	GO:0009987	to	cellular process
+35602	35611	GO:0009987	diplotene	cellular process
+35612	35617	GO:0005623	cells	cell
+35651	35658	GO:0044464	XY body	cell part
+35651	35658	GO:0044422	XY body	organelle part
+35744	35749	GO:0005623	cells	cell
+35769	35776	GO:0044464	XY body	cell part
+35769	35776	GO:0044422	XY body	organelle part
+35818	35828	GO:0065007	epigenetic	biological regulation
+35844	35857	GO:0044464	sex chromatin	cell part
+35844	35857	GO:0044422	sex chromatin	organelle part
+35848	35857	GO:0044422	chromatin	organelle part
+35848	35857	GO:0044464	chromatin	cell part
+35884	35886	GO:0065007	to	biological regulation
+35884	35886	GO:0009987	to	cellular process
+35918	35927	GO:0044464	Chromatin	cell part
+35918	35927	GO:0044422	Chromatin	organelle part
+35931	35936	GO:0005623	Cells	cell
+35947	35957	GO:0044464	Chromosome	cell part
+35947	35957	GO:0043226	Chromosome	organelle
+35947	35957	GO:0044422	Chromosome	organelle part
+36001	36005	GO:0005623	cell	cell
+36059	36069	GO:0043226	chromosome	organelle
+36059	36069	GO:0044422	chromosome	organelle part
+36059	36069	GO:0044464	chromosome	cell part
+36119	36126	GO:0044464	XY body	cell part
+36119	36126	GO:0044422	XY body	organelle part
+36182	36186	GO:0005623	cell	cell
+36202	36211	GO:0009987	diplotene	cellular process
+36212	36222	GO:0043226	chromosome	organelle
+36212	36222	GO:0044422	chromosome	organelle part
+36212	36222	GO:0044464	chromosome	cell part
+36251	36258	GO:0044464	XY body	cell part
+36251	36258	GO:0044422	XY body	organelle part
+36292	36299	GO:0044464	XY body	cell part
+36292	36299	GO:0044422	XY body	organelle part
+36303	36313	GO:0043226	chromosome	organelle
+36303	36313	GO:0044422	chromosome	organelle part
+36303	36313	GO:0044464	chromosome	cell part
+36395	36402	GO:0003824	protein	catalytic activity
+36430	36440	GO:0016265	germ cells	death
+36430	36440	GO:0009987	germ cells	cellular process
+36430	36440	GO:0032502	germ cells	developmental process
+36430	36440	GO:0022414	germ cells	reproductive process
+36435	36440	GO:0005623	cells	cell
+36441	36443	GO:0065007	to	biological regulation
+36441	36443	GO:0009987	to	cellular process
+36453	36460	GO:0065007	meiotic	biological regulation
+36461	36469	GO:0009987	prophase	cellular process
+36555	36564	GO:0009987	pachytene	cellular process
+36588	36595	GO:0003824	protein	catalytic activity
+36621	36623	GO:0065007	to	biological regulation
+36621	36623	GO:0009987	to	cellular process
+36628	36635	GO:0044464	XY body	cell part
+36628	36635	GO:0044422	XY body	organelle part
+36701	36711	GO:0016265	germ cells	death
+36701	36711	GO:0009987	germ cells	cellular process
+36701	36711	GO:0032502	germ cells	developmental process
+36701	36711	GO:0022414	germ cells	reproductive process
+36706	36711	GO:0005623	cells	cell
+36744	36753	GO:0016265	apoptosis	death
+36744	36753	GO:0009987	apoptosis	cellular process
+36796	36798	GO:0065007	to	biological regulation
+36796	36798	GO:0009987	to	cellular process
+36846	36855	GO:0044422	chromatin	organelle part
+36846	36855	GO:0044464	chromatin	cell part
+36868	36881	GO:0009987	transcription	cellular process
+36868	36881	GO:0008152	transcription	metabolic process
+36892	36897	GO:0005623	cells	cell
+36914	36916	GO:0065007	to	biological regulation
+36914	36916	GO:0009987	to	cellular process
+36936	36949	GO:0044464	sex chromatin	cell part
+36936	36949	GO:0044422	sex chromatin	organelle part
+36940	36949	GO:0044422	chromatin	organelle part
+36940	36949	GO:0044464	chromatin	cell part
+36988	36997	GO:0009987	pachytene	cellular process
+37007	37015	GO:0009987	prophase	cellular process
+37079	37086	GO:0045202	synapse	synapse
+37136	37145	GO:0009987	pachytene	cellular process
+37173	37175	GO:0065007	to	biological regulation
+37173	37175	GO:0009987	to	cellular process
+37198	37205	GO:0065007	meiotic	biological regulation
+37219	37224	GO:0005623	Cells	cell
+37297	37306	GO:0016265	apoptosis	death
+37297	37306	GO:0009987	apoptosis	cellular process
+37384	37399	GO:0043226	sex chromosomes	organelle
+37384	37399	GO:0044464	sex chromosomes	cell part
+37388	37399	GO:0044464	chromosomes	cell part
+37388	37399	GO:0044422	chromosomes	organelle part
+37388	37399	GO:0043226	chromosomes	organelle
+37409	37416	GO:0044464	XY body	cell part
+37409	37416	GO:0044422	XY body	organelle part
+37463	37475	GO:0009987	male meiosis	cellular process
+37468	37475	GO:0009987	meiosis	cellular process
+37535	37548	GO:0009987	translocation	cellular process
+37535	37548	GO:0065007	translocation	biological regulation
+37535	37548	GO:0051234	translocation	establishment of localization
+37561	37566	GO:0005623	cells	cell
+37578	37592	GO:0044464	sex chromosome	cell part
+37578	37592	GO:0043226	sex chromosome	organelle
+37582	37592	GO:0043226	chromosome	organelle
+37582	37592	GO:0044422	chromosome	organelle part
+37582	37592	GO:0044464	chromosome	cell part
+37627	37629	GO:0065007	to	biological regulation
+37627	37629	GO:0009987	to	cellular process
+37713	37715	GO:0065007	to	biological regulation
+37713	37715	GO:0009987	to	cellular process
+37750	37759	GO:0016265	apoptosis	death
+37750	37759	GO:0009987	apoptosis	cellular process
+37844	37853	GO:0009987	pachytene	cellular process
+37932	37937	GO:0005623	cells	cell
+37953	37973	GO:0009987	chromosomal synapsis	cellular process
+37953	37973	GO:0016043	chromosomal synapsis	cellular component organization
+37965	37973	GO:0009987	synapsis	cellular process
+37965	37973	GO:0016043	synapsis	cellular component organization
+38022	38027	GO:0005623	cells	cell
+38057	38064	GO:0044464	XY body	cell part
+38057	38064	GO:0044422	XY body	organelle part
+38057	38064	GO:0044464	XY body	cell part
+38057	38064	GO:0044422	XY body	organelle part
+38196	38201	GO:0005623	cells	cell
+38237	38242	GO:0005623	cells	cell
+38251	38258	GO:0044464	XY body	cell part
+38251	38258	GO:0044422	XY body	organelle part
+38317	38326	GO:0044422	chromatin	organelle part
+38317	38326	GO:0044464	chromatin	cell part
+38457	38464	GO:0044464	XY body	cell part
+38457	38464	GO:0044422	XY body	organelle part
+38495	38500	GO:0005623	cells	cell
+38556	38569	GO:0044464	sex chromatin	cell part
+38556	38569	GO:0044422	sex chromatin	organelle part
+38560	38569	GO:0044422	chromatin	organelle part
+38560	38569	GO:0044464	chromatin	cell part
+38586	38596	GO:0016265	germ cells	death
+38586	38596	GO:0009987	germ cells	cellular process
+38586	38596	GO:0032502	germ cells	developmental process
+38586	38596	GO:0022414	germ cells	reproductive process
+38591	38596	GO:0005623	cells	cell
+38644	38646	GO:0065007	to	biological regulation
+38644	38646	GO:0009987	to	cellular process
+38673	38678	GO:0005623	cells	cell
+38727	38734	GO:0003824	protein	catalytic activity
+38742	38755	GO:0044464	sex chromatin	cell part
+38742	38755	GO:0044422	sex chromatin	organelle part
+38746	38755	GO:0044422	chromatin	organelle part
+38746	38755	GO:0044464	chromatin	cell part
+38773	38775	GO:0065007	to	biological regulation
+38773	38775	GO:0009987	to	cellular process
+38810	38819	GO:0009987	diplotene	cellular process
+38820	38825	GO:0005623	cells	cell
+38892	38902	GO:0016265	germ cells	death
+38892	38902	GO:0009987	germ cells	cellular process
+38892	38902	GO:0032502	germ cells	developmental process
+38892	38902	GO:0022414	germ cells	reproductive process
+38897	38902	GO:0005623	cells	cell
+38931	38933	GO:0065007	to	biological regulation
+38931	38933	GO:0009987	to	cellular process
+38966	38979	GO:0044464	sex chromatin	cell part
+38966	38979	GO:0044422	sex chromatin	organelle part
+38970	38979	GO:0044422	chromatin	organelle part
+38970	38979	GO:0044464	chromatin	cell part
+38970	38992	GO:0016043	chromatin modification	cellular component organization
+38970	38992	GO:0009987	chromatin modification	cellular process
+39035	39048	GO:0044464	sex chromatin	cell part
+39035	39048	GO:0044422	sex chromatin	organelle part
+39039	39048	GO:0044422	chromatin	organelle part
+39039	39048	GO:0044464	chromatin	cell part
+39103	39110	GO:0009987	meiosis	cellular process
+39186	39195	GO:0009987	diplotene	cellular process
+39196	39201	GO:0005623	cells	cell
+39225	39238	GO:0044464	sex chromatin	cell part
+39225	39238	GO:0044422	sex chromatin	organelle part
+39229	39238	GO:0044422	chromatin	organelle part
+39229	39238	GO:0044464	chromatin	cell part
+39282	39284	GO:0065007	to	biological regulation
+39282	39284	GO:0009987	to	cellular process
+39292	39297	GO:0005623	cells	cell
+39359	39369	GO:0016265	germ cells	death
+39359	39369	GO:0009987	germ cells	cellular process
+39359	39369	GO:0032502	germ cells	developmental process
+39359	39369	GO:0022414	germ cells	reproductive process
+39364	39369	GO:0005623	cells	cell
+39388	39397	GO:0016265	apoptosis	death
+39388	39397	GO:0009987	apoptosis	cellular process
+39435	39448	GO:0044464	sex chromatin	cell part
+39435	39448	GO:0044422	sex chromatin	organelle part
+39439	39448	GO:0044422	chromatin	organelle part
+39439	39448	GO:0044464	chromatin	cell part
+39485	39494	GO:0016265	apoptosis	death
+39485	39494	GO:0009987	apoptosis	cellular process
+39519	39532	GO:0044464	sex chromatin	cell part
+39519	39532	GO:0044422	sex chromatin	organelle part
+39523	39532	GO:0044422	chromatin	organelle part
+39523	39532	GO:0044464	chromatin	cell part
+39568	39581	GO:0044464	sex chromatin	cell part
+39568	39581	GO:0044422	sex chromatin	organelle part
+39572	39581	GO:0044422	chromatin	organelle part
+39572	39581	GO:0044464	chromatin	cell part
+39600	39609	GO:0016265	apoptosis	death
+39600	39609	GO:0009987	apoptosis	cellular process
+39671	39676	GO:0005623	cells	cell
+39682	39695	GO:0044464	sex chromatin	cell part
+39682	39695	GO:0044422	sex chromatin	organelle part
+39686	39695	GO:0044422	chromatin	organelle part
+39686	39695	GO:0044464	chromatin	cell part
+39726	39735	GO:0016265	apoptosis	death
+39726	39735	GO:0009987	apoptosis	cellular process
+39752	39761	GO:0016265	apoptosis	death
+39752	39761	GO:0009987	apoptosis	cellular process
+39775	39788	GO:0044464	sex chromatin	cell part
+39775	39788	GO:0044422	sex chromatin	organelle part
+39779	39788	GO:0044422	chromatin	organelle part
+39779	39788	GO:0044464	chromatin	cell part
+39960	39968	GO:0003824	proteins	catalytic activity
+40013	40020	GO:0044464	XY body	cell part
+40013	40020	GO:0044422	XY body	organelle part
+40128	40136	GO:0003824	proteins	catalytic activity
+40209	40217	GO:0003824	proteins	catalytic activity
+40250	40258	GO:0003824	proteins	catalytic activity
+40279	40294	GO:0044464	heterochromatin	cell part
+40279	40294	GO:0044422	heterochromatin	organelle part
+40353	40360	GO:0044464	XY body	cell part
+40353	40360	GO:0044422	XY body	organelle part
+40361	40369	GO:0003824	proteins	catalytic activity
+40387	40389	GO:0065007	to	biological regulation
+40387	40389	GO:0009987	to	cellular process
+40532	40540	GO:0003824	proteins	catalytic activity
+40550	40559	GO:0044422	chromatin	organelle part
+40550	40559	GO:0044464	chromatin	cell part
+40571	40573	GO:0065007	to	biological regulation
+40571	40573	GO:0009987	to	cellular process
+40578	40585	GO:0044464	XY body	cell part
+40578	40585	GO:0044422	XY body	organelle part
+40612	40614	GO:0065007	to	biological regulation
+40612	40614	GO:0009987	to	cellular process
+40621	40630	GO:0044464	Chromatin	cell part
+40621	40630	GO:0044422	Chromatin	organelle part
+40682	40690	GO:0003824	proteins	catalytic activity
+40724	40732	GO:0003824	proteins	catalytic activity
+40748	40757	GO:0044422	chromatin	organelle part
+40748	40757	GO:0044464	chromatin	cell part
+40894	40901	GO:0009987	meiosis	cellular process
+41008	41010	GO:0065007	to	biological regulation
+41008	41010	GO:0009987	to	cellular process
+41031	41036	GO:0005623	cells	cell
+41092	41113	GO:0022414	germ cell development	reproductive process
+41092	41113	GO:0032502	germ cell development	developmental process
+41092	41113	GO:0009987	germ cell development	cellular process
+41097	41101	GO:0005623	cell	cell
+41097	41113	GO:0009987	cell development	cellular process
+41097	41113	GO:0032502	cell development	developmental process
+41166	41176	GO:0016265	germ cells	death
+41166	41176	GO:0009987	germ cells	cellular process
+41166	41176	GO:0032502	germ cells	developmental process
+41166	41176	GO:0022414	germ cells	reproductive process
+41171	41176	GO:0005623	cells	cell
+41252	41257	GO:0005623	cells	cell
+41286	41293	GO:0065007	meiotic	biological regulation
+41294	41299	GO:0005623	cells	cell
+41390	41400	GO:0016265	germ cells	death
+41390	41400	GO:0009987	germ cells	cellular process
+41390	41400	GO:0032502	germ cells	developmental process
+41390	41400	GO:0022414	germ cells	reproductive process
+41395	41400	GO:0005623	cells	cell
+41414	41421	GO:0065007	meiotic	biological regulation
+41422	41432	GO:0016265	germ cells	death
+41422	41432	GO:0009987	germ cells	cellular process
+41422	41432	GO:0032502	germ cells	developmental process
+41422	41432	GO:0022414	germ cells	reproductive process
+41427	41432	GO:0005623	cells	cell
+41461	41469	GO:0003824	proteins	catalytic activity
+41510	41531	GO:0022414	germ cell development	reproductive process
+41510	41531	GO:0032502	germ cell development	developmental process
+41510	41531	GO:0009987	germ cell development	cellular process
+41515	41519	GO:0005623	cell	cell
+41515	41531	GO:0009987	cell development	cellular process
+41515	41531	GO:0032502	cell development	developmental process
+41622	41629	GO:0022414	oocytes	reproductive process
+41622	41629	GO:0032502	oocytes	developmental process
+41705	41709	GO:0022414	soma	reproductive process
+41705	41709	GO:0032502	soma	developmental process
+41850	41858	GO:0003824	proteins	catalytic activity
+42400	42413	GO:0044464	Y chromosomes	cell part
+42400	42413	GO:0043226	Y chromosomes	organelle
+42402	42413	GO:0044464	chromosomes	cell part
+42402	42413	GO:0044422	chromosomes	organelle part
+42402	42413	GO:0043226	chromosomes	organelle
+42459	42466	GO:0009987	meiosis	cellular process
+42488	42490	GO:0065007	to	biological regulation
+42488	42490	GO:0009987	to	cellular process
+42495	42510	GO:0043226	sex chromosomes	organelle
+42495	42510	GO:0044464	sex chromosomes	cell part
+42499	42510	GO:0044464	chromosomes	cell part
+42499	42510	GO:0044422	chromosomes	organelle part
+42499	42510	GO:0043226	chromosomes	organelle
+42620	42635	GO:0043226	sex chromosomes	organelle
+42620	42635	GO:0044464	sex chromosomes	cell part
+42624	42635	GO:0044464	chromosomes	cell part
+42624	42635	GO:0044422	chromosomes	organelle part
+42624	42635	GO:0043226	chromosomes	organelle
+42643	42656	GO:0044464	sex chromatin	cell part
+42643	42656	GO:0044422	sex chromatin	organelle part
+42647	42656	GO:0044422	chromatin	organelle part
+42647	42656	GO:0044464	chromatin	cell part
+42768	42785	GO:0009987	sex determination	cellular process
+42768	42785	GO:0032502	sex determination	developmental process
+42768	42785	GO:0022414	sex determination	reproductive process
+42786	42788	GO:0065007	to	biological regulation
+42786	42788	GO:0009987	to	cellular process
+42842	42852	GO:0043226	chromosome	organelle
+42842	42852	GO:0044422	chromosome	organelle part
+42842	42852	GO:0044464	chromosome	cell part
+42886	42893	GO:0065007	meiotic	biological regulation
+42914	42928	GO:0044464	sex chromosome	cell part
+42914	42928	GO:0043226	sex chromosome	organelle
+42918	42928	GO:0043226	chromosome	organelle
+42918	42928	GO:0044422	chromosome	organelle part
+42918	42928	GO:0044464	chromosome	cell part
+43046	43048	GO:0065007	to	biological regulation
+43046	43048	GO:0009987	to	cellular process
+43068	43077	GO:0044422	chromatin	organelle part
+43068	43077	GO:0044464	chromatin	cell part
+43084	43086	GO:0065007	to	biological regulation
+43084	43086	GO:0009987	to	cellular process
+43118	43137	GO:0065007	dosage compensation	biological regulation
+43172	43187	GO:0043226	sex chromosomes	organelle
+43172	43187	GO:0044464	sex chromosomes	cell part
+43176	43187	GO:0044464	chromosomes	cell part
+43176	43187	GO:0044422	chromosomes	organelle part
+43176	43187	GO:0043226	chromosomes	organelle
+43248	43250	GO:0065007	to	biological regulation
+43248	43250	GO:0009987	to	cellular process
+43285	43287	GO:0065007	to	biological regulation
+43285	43287	GO:0009987	to	cellular process
+43288	43303	GO:0043226	sex chromosomes	organelle
+43288	43303	GO:0044464	sex chromosomes	cell part
+43292	43303	GO:0044464	chromosomes	cell part
+43292	43303	GO:0044422	chromosomes	organelle part
+43292	43303	GO:0043226	chromosomes	organelle
+43321	43328	GO:0009987	meiosis	cellular process
+43390	43397	GO:0003824	protein	catalytic activity
+43421	43428	GO:0065007	meiotic	biological regulation
+43429	43437	GO:0009987	prophase	cellular process
+43476	43478	GO:0065007	to	biological regulation
+43476	43478	GO:0009987	to	cellular process
+43483	43498	GO:0043226	sex chromosomes	organelle
+43483	43498	GO:0044464	sex chromosomes	cell part
+43487	43498	GO:0044464	chromosomes	cell part
+43487	43498	GO:0044422	chromosomes	organelle part
+43487	43498	GO:0043226	chromosomes	organelle
+43541	43556	GO:0044464	heterochromatin	cell part
+43541	43556	GO:0044422	heterochromatin	organelle part
+43580	43585	GO:0005623	cells	cell
+43591	43601	GO:0065007	epigenetic	biological regulation
+43637	43650	GO:0044464	sex chromatin	cell part
+43637	43650	GO:0044422	sex chromatin	organelle part
+43641	43650	GO:0044422	chromatin	organelle part
+43641	43650	GO:0044464	chromatin	cell part
+43659	43668	GO:0009987	pachytene	cellular process
+43673	43682	GO:0009987	diplotene	cellular process
+43707	43709	GO:0065007	to	biological regulation
+43707	43709	GO:0009987	to	cellular process
+43781	43783	GO:0065007	to	biological regulation
+43781	43783	GO:0009987	to	cellular process
+43845	43852	GO:0003824	protein	catalytic activity
+43875	43882	GO:0009987	meiosis	cellular process
+43905	43907	GO:0065007	to	biological regulation
+43905	43907	GO:0009987	to	cellular process
+43963	43976	GO:0044464	sex chromatin	cell part
+43963	43976	GO:0044422	sex chromatin	organelle part
+43967	43976	GO:0044422	chromatin	organelle part
+43967	43976	GO:0044464	chromatin	cell part
+43995	44007	GO:0009987	male meiosis	cellular process
+44000	44007	GO:0009987	meiosis	cellular process
+44124	44126	GO:0065007	to	biological regulation
+44124	44126	GO:0009987	to	cellular process
+44288	44290	GO:0065007	to	biological regulation
+44288	44290	GO:0009987	to	cellular process
+44339	44341	GO:0065007	to	biological regulation
+44339	44341	GO:0009987	to	cellular process
+44424	44426	GO:0065007	to	biological regulation
+44424	44426	GO:0009987	to	cellular process
+44461	44463	GO:0065007	to	biological regulation
+44461	44463	GO:0009987	to	cellular process
+44474	44476	GO:0065007	to	biological regulation
+44474	44476	GO:0009987	to	cellular process
+45079	45084	GO:0005623	cells	cell
+45294	45296	GO:0065007	to	biological regulation
+45294	45296	GO:0009987	to	cellular process
+45589	45593	GO:0005623	cell	cell
+45655	45657	GO:0065007	to	biological regulation
+45655	45657	GO:0009987	to	cellular process
+45670	45672	GO:0065007	to	biological regulation
+45670	45672	GO:0009987	to	cellular process
+45670	45672	GO:0065007	to	biological regulation
+45670	45672	GO:0009987	to	cellular process
+45678	45680	GO:0065007	to	biological regulation
+45678	45680	GO:0009987	to	cellular process
+45746	45748	GO:0065007	to	biological regulation
+45746	45748	GO:0009987	to	cellular process
+46147	46159	GO:0044464	Y chromosome	cell part
+46147	46159	GO:0043226	Y chromosome	organelle
+46149	46159	GO:0043226	chromosome	organelle
+46149	46159	GO:0044422	chromosome	organelle part
+46149	46159	GO:0044464	chromosome	cell part
+47361	47368	GO:0008152	ethanol	metabolic process
+47361	47368	GO:0009987	ethanol	cellular process
+47703	47708	GO:0005623	cells	cell
+47786	47788	GO:0065007	to	biological regulation
+47786	47788	GO:0009987	to	cellular process
+47933	47935	GO:0065007	to	biological regulation
+47933	47935	GO:0009987	to	cellular process
+47972	47974	GO:0065007	to	biological regulation
+47972	47974	GO:0009987	to	cellular process
+48071	48079	GO:0044421	antibody	extraccellular region part
+48071	48079	GO:0032991	antibody	macromolecular complex
+48143	48153	GO:0044421	antibodies	extraccellular region part
+48143	48153	GO:0032991	antibodies	macromolecular complex
+48178	48180	GO:0065007	to	biological regulation
+48178	48180	GO:0009987	to	cellular process
+48206	48216	GO:0044421	antibodies	extraccellular region part
+48206	48216	GO:0032991	antibodies	macromolecular complex
+48217	48227	GO:0044421	Antibodies	extraccellular region part
+48217	48227	GO:0032991	Antibodies	macromolecular complex
+48246	48256	GO:0044421	antibodies	extraccellular region part
+48246	48256	GO:0032991	antibodies	macromolecular complex
+48257	48259	GO:0065007	to	biological regulation
+48257	48259	GO:0009987	to	cellular process
+48304	48311	GO:0003824	protein	catalytic activity
+48361	48363	GO:0065007	to	biological regulation
+48361	48363	GO:0009987	to	cellular process
+48405	48415	GO:0044421	Antibodies	extraccellular region part
+48405	48415	GO:0032991	Antibodies	macromolecular complex
+48416	48418	GO:0065007	to	biological regulation
+48416	48418	GO:0009987	to	cellular process
+48551	48559	GO:0044421	antibody	extraccellular region part
+48551	48559	GO:0032991	antibody	macromolecular complex
+48621	48629	GO:0044421	antibody	extraccellular region part
+48621	48629	GO:0032991	antibody	macromolecular complex
+48709	48719	GO:0044421	antibodies	extraccellular region part
+48709	48719	GO:0032991	antibodies	macromolecular complex
+49707	49717	GO:0044421	antibodies	extraccellular region part
+49707	49717	GO:0032991	antibodies	macromolecular complex
+49992	49995	GO:0065007	Red	biological regulation
+49992	49995	GO:0009987	Red	cellular process
+49992	49995	GO:0050896	Red	response to stimulus
+49992	49995	GO:0023046	Red	signaling process
+50034	50036	GO:0065007	to	biological regulation
+50034	50036	GO:0009987	to	cellular process
+50069	50076	GO:0065007	Meiotic	biological regulation
+50077	50087	GO:0043226	chromosome	organelle
+50077	50087	GO:0044422	chromosome	organelle part
+50077	50087	GO:0044464	chromosome	cell part
+50117	50124	GO:0065007	Meiotic	biological regulation
+50125	50135	GO:0043226	chromosome	organelle
+50125	50135	GO:0044422	chromosome	organelle part
+50125	50135	GO:0044464	chromosome	cell part
+50275	50282	GO:0065007	meiotic	biological regulation
+50352	50362	GO:0043226	chromosome	organelle
+50352	50362	GO:0044422	chromosome	organelle part
+50352	50362	GO:0044464	chromosome	cell part
+50374	50381	GO:0065007	meiotic	biological regulation
+50388	50390	GO:0065007	to	biological regulation
+50388	50390	GO:0009987	to	cellular process
+50617	50627	GO:0043226	chromosome	organelle
+50617	50627	GO:0044422	chromosome	organelle part
+50617	50627	GO:0044464	chromosome	cell part
+50881	50888	GO:0065007	Meiotic	biological regulation
+50928	50935	GO:0044464	XY body	cell part
+50928	50935	GO:0044422	XY body	organelle part
+50943	50951	GO:0044421	antibody	extraccellular region part
+50943	50951	GO:0032991	antibody	macromolecular complex
+50982	50990	GO:0009987	synapsis	cellular process
+50982	50990	GO:0016043	synapsis	cellular component organization
+51005	51015	GO:0043226	chromosome	organelle
+51005	51015	GO:0044422	chromosome	organelle part
+51005	51015	GO:0044464	chromosome	cell part
+51016	51023	GO:0045202	synapse	synapse
+51040	51044	GO:0005623	cell	cell
+51052	51059	GO:0003824	protein	catalytic activity
+51061	51064	GO:0023046	red	signaling process
+51061	51064	GO:0050896	red	response to stimulus
+51061	51064	GO:0009987	red	cellular process
+51061	51064	GO:0065007	red	biological regulation
+51079	51081	GO:0065007	to	biological regulation
+51079	51081	GO:0009987	to	cellular process
+51086	51093	GO:0044464	XY body	cell part
+51086	51093	GO:0044422	XY body	organelle part
+51617	51628	GO:0009987	recognition	cellular process
+51892	51898	GO:0051704	Mating	multi-organism process
+51892	51898	GO:0022414	Mating	reproductive process
+52075	52079	GO:0005623	cell	cell
+52109	52113	GO:0005623	cell	cell
+52194	52196	GO:0065007	to	biological regulation
+52194	52196	GO:0009987	to	cellular process
+52282	52284	GO:0065007	to	biological regulation
+52282	52284	GO:0009987	to	cellular process
+52398	52405	GO:0044464	XY body	cell part
+52398	52405	GO:0044422	XY body	organelle part
+52560	52565	GO:0005623	cells	cell
+52732	52737	GO:0005623	Cells	cell
+52782	52790	GO:0044421	antibody	extraccellular region part
+52782	52790	GO:0032991	antibody	macromolecular complex
+52791	52793	GO:0065007	to	biological regulation
+52791	52793	GO:0009987	to	cellular process
+52813	52816	GO:0023046	red	signaling process
+52813	52816	GO:0050896	red	response to stimulus
+52813	52816	GO:0009987	red	cellular process
+52813	52816	GO:0065007	red	biological regulation
+52934	52941	GO:0003824	protein	catalytic activity
+52966	52970	GO:0005623	cell	cell
+52993	52997	GO:0005623	cell	cell
+53036	53048	GO:0051179	localization	localization
+53060	53064	GO:0005623	cell	cell
+53098	53115	GO:0044421	basement membrane	extraccellular region part
+53107	53115	GO:0044464	membrane	cell part
+53202	53214	GO:0051179	Localization	localization
+53215	53217	GO:0065007	to	biological regulation
+53215	53217	GO:0009987	to	cellular process
+53261	53270	GO:0009987	pachytene	cellular process
+53351	53359	GO:0044421	antibody	extraccellular region part
+53351	53359	GO:0032991	antibody	macromolecular complex
+53360	53362	GO:0065007	to	biological regulation
+53360	53362	GO:0009987	to	cellular process
+53411	53418	GO:0044464	XY body	cell part
+53411	53418	GO:0044422	XY body	organelle part
+53446	53455	GO:0009987	pachytene	cellular process
+53456	53461	GO:0005623	cells	cell
+53493	53495	GO:0065007	to	biological regulation
+53493	53495	GO:0009987	to	cellular process
+53496	53503	GO:0044464	XY body	cell part
+53496	53503	GO:0044422	XY body	organelle part
+53633	53636	GO:0023046	red	signaling process
+53633	53636	GO:0050896	red	response to stimulus
+53633	53636	GO:0009987	red	cellular process
+53633	53636	GO:0065007	red	biological regulation
+53701	53706	GO:0005623	cells	cell
+53732	53737	GO:0005623	cells	cell
+53774	53783	GO:0009987	leptotene	cellular process
+53794	53803	GO:0009987	pachytene	cellular process
+53810	53812	GO:0065007	to	biological regulation
+53810	53812	GO:0009987	to	cellular process
+53914	53917	GO:0023046	red	signaling process
+53914	53917	GO:0050896	red	response to stimulus
+53914	53917	GO:0009987	red	cellular process
+53914	53917	GO:0065007	red	biological regulation
+54004	54009	GO:0005623	cells	cell
+54025	54033	GO:0044464	membrane	cell part
+54085	54094	GO:0009987	pachytene	cellular process
+54095	54100	GO:0005623	cells	cell
+54407	54414	GO:0065007	meiotic	biological regulation
+54506	54516	GO:0044421	antibodies	extraccellular region part
+54506	54516	GO:0032991	antibodies	macromolecular complex
+54630	54634	GO:0005623	cell	cell
+54951	54960	GO:0009987	embryonic	cellular process
+54951	54960	GO:0065007	embryonic	biological regulation
+55044	55059	GO:0044464	heterochromatin	cell part
+55044	55059	GO:0044422	heterochromatin	organelle part
+55060	55067	GO:0003824	protein	catalytic activity
+55108	55115	GO:0065007	meiotic	biological regulation
+55116	55130	GO:0044464	sex chromosome	cell part
+55116	55130	GO:0043226	sex chromosome	organelle
+55120	55130	GO:0043226	chromosome	organelle
+55120	55130	GO:0044422	chromosome	organelle part
+55120	55130	GO:0044464	chromosome	cell part
+55184	55197	GO:0044464	sex chromatin	cell part
+55184	55197	GO:0044422	sex chromatin	organelle part
+55188	55197	GO:0044422	chromatin	organelle part
+55188	55197	GO:0044464	chromatin	cell part

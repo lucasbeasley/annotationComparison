@@ -1,0 +1,433 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm
+25	31	GO:0040007	growth	growth
+25	31	GO:0040007	growth	growth
+105	111	GO:0040007	growth	growth
+271	282	GO:0044464	chromosomes	cell part
+271	282	GO:0044422	chromosomes	organelle part
+271	282	GO:0043226	chromosomes	organelle
+315	317	GO:0065007	To	biological regulation
+315	317	GO:0009987	To	cellular process
+821	827	GO:0040007	growth	growth
+1159	1165	GO:0040007	growth	growth
+1193	1195	GO:0065007	to	biological regulation
+1193	1195	GO:0009987	to	cellular process
+1244	1246	GO:0065007	to	biological regulation
+1244	1246	GO:0009987	to	cellular process
+1275	1277	GO:0065007	to	biological regulation
+1275	1277	GO:0009987	to	cellular process
+1508	1510	GO:0065007	to	biological regulation
+1508	1510	GO:0009987	to	cellular process
+1573	1579	GO:0040007	growth	growth
+1878	1884	GO:0040007	growth	growth
+1925	1927	GO:0065007	to	biological regulation
+1925	1927	GO:0009987	to	cellular process
+1937	1943	GO:0009987	direct	cellular process
+1937	1943	GO:0008152	direct	metabolic process
+2078	2080	GO:0065007	To	biological regulation
+2078	2080	GO:0009987	To	cellular process
+2101	2107	GO:0040007	growth	growth
+2279	2281	GO:0065007	to	biological regulation
+2279	2281	GO:0009987	to	cellular process
+2335	2337	GO:0065007	to	biological regulation
+2335	2337	GO:0009987	to	cellular process
+2510	2518	GO:0003824	reducing	catalytic activity
+2713	2715	GO:0065007	to	biological regulation
+2713	2715	GO:0009987	to	cellular process
+2713	2715	GO:0065007	to	biological regulation
+2713	2715	GO:0009987	to	cellular process
+3067	3069	GO:0065007	to	biological regulation
+3067	3069	GO:0009987	to	cellular process
+3143	3145	GO:0065007	to	biological regulation
+3143	3145	GO:0009987	to	cellular process
+3225	3227	GO:0065007	to	biological regulation
+3225	3227	GO:0009987	to	cellular process
+3285	3287	GO:0065007	to	biological regulation
+3285	3287	GO:0009987	to	cellular process
+3528	3534	GO:0040007	growth	growth
+3731	3740	GO:0023052	signaling	signaling
+4014	4016	GO:0065007	to	biological regulation
+4014	4016	GO:0009987	to	cellular process
+4466	4468	GO:0065007	to	biological regulation
+4466	4468	GO:0009987	to	cellular process
+4466	4468	GO:0065007	to	biological regulation
+4466	4468	GO:0009987	to	cellular process
+4480	4486	GO:0040007	growth	growth
+4728	4737	GO:0023052	signaling	signaling
+4728	4745	GO:0023052	signaling pathway	signaling
+4802	4804	GO:0065007	to	biological regulation
+4802	4804	GO:0009987	to	cellular process
+4935	4941	GO:0040007	growth	growth
+5737	5739	GO:0065007	to	biological regulation
+5737	5739	GO:0009987	to	cellular process
+6033	6035	GO:0065007	to	biological regulation
+6033	6035	GO:0009987	to	cellular process
+6199	6208	GO:0023052	signaling	signaling
+6599	6601	GO:0065007	to	biological regulation
+6599	6601	GO:0009987	to	cellular process
+6676	6678	GO:0065007	to	biological regulation
+6676	6678	GO:0009987	to	cellular process
+7374	7380	GO:0040007	growth	growth
+7448	7450	GO:0065007	to	biological regulation
+7448	7450	GO:0009987	to	cellular process
+7653	7655	GO:0065007	to	biological regulation
+7653	7655	GO:0009987	to	cellular process
+8326	8328	GO:0065007	to	biological regulation
+8326	8328	GO:0009987	to	cellular process
+8416	8422	GO:0040007	growth	growth
+8454	8456	GO:0065007	to	biological regulation
+8454	8456	GO:0009987	to	cellular process
+8493	8495	GO:0065007	to	biological regulation
+8493	8495	GO:0009987	to	cellular process
+8704	8706	GO:0065007	to	biological regulation
+8704	8706	GO:0009987	to	cellular process
+8745	8751	GO:0040007	growth	growth
+8996	9002	GO:0040007	growth	growth
+9719	9725	GO:0040007	growth	growth
+10123	10125	GO:0065007	to	biological regulation
+10123	10125	GO:0009987	to	cellular process
+10282	10284	GO:0065007	to	biological regulation
+10282	10284	GO:0009987	to	cellular process
+10449	10451	GO:0065007	to	biological regulation
+10449	10451	GO:0009987	to	cellular process
+11263	11269	GO:0040007	growth	growth
+11385	11387	GO:0065007	to	biological regulation
+11385	11387	GO:0009987	to	cellular process
+11628	11630	GO:0065007	to	biological regulation
+11628	11630	GO:0009987	to	cellular process
+11631	11637	GO:0040007	growth	growth
+11817	11823	GO:0040007	growth	growth
+12315	12317	GO:0065007	to	biological regulation
+12315	12317	GO:0009987	to	cellular process
+13315	13317	GO:0065007	to	biological regulation
+13315	13317	GO:0009987	to	cellular process
+14140	14142	GO:0065007	to	biological regulation
+14140	14142	GO:0009987	to	cellular process
+14555	14561	GO:0040007	growth	growth
+14865	14867	GO:0065007	to	biological regulation
+14865	14867	GO:0009987	to	cellular process
+15148	15154	GO:0040007	growth	growth
+15803	15805	GO:0065007	to	biological regulation
+15803	15805	GO:0009987	to	cellular process
+15914	15916	GO:0065007	to	biological regulation
+15914	15916	GO:0009987	to	cellular process
+16252	16254	GO:0065007	to	biological regulation
+16252	16254	GO:0009987	to	cellular process
+16541	16543	GO:0065007	to	biological regulation
+16541	16543	GO:0009987	to	cellular process
+16687	16689	GO:0065007	to	biological regulation
+16687	16689	GO:0009987	to	cellular process
+17117	17124	GO:0003824	protein	catalytic activity
+17374	17376	GO:0065007	to	biological regulation
+17374	17376	GO:0009987	to	cellular process
+17439	17445	GO:0040007	growth	growth
+17555	17561	GO:0040007	growth	growth
+18461	18465	GO:0032502	head	developmental process
+18761	18763	GO:0065007	to	biological regulation
+18761	18763	GO:0009987	to	cellular process
+19028	19030	GO:0065007	to	biological regulation
+19028	19030	GO:0009987	to	cellular process
+19118	19120	GO:0065007	to	biological regulation
+19118	19120	GO:0009987	to	cellular process
+19530	19532	GO:0065007	to	biological regulation
+19530	19532	GO:0009987	to	cellular process
+19569	19571	GO:0065007	to	biological regulation
+19569	19571	GO:0009987	to	cellular process
+19761	19763	GO:0065007	to	biological regulation
+19761	19763	GO:0009987	to	cellular process
+20098	20100	GO:0065007	to	biological regulation
+20098	20100	GO:0009987	to	cellular process
+20155	20161	GO:0040007	growth	growth
+20287	20289	GO:0065007	to	biological regulation
+20287	20289	GO:0009987	to	cellular process
+20311	20318	GO:0009987	reduced	cellular process
+20311	20318	GO:0008152	reduced	metabolic process
+20311	20318	GO:0005215	reduced	transporter activity
+20311	20318	GO:0051234	reduced	establishment of localization
+20311	20318	GO:0009987	reduced	cellular process
+20311	20318	GO:0008152	reduced	metabolic process
+20311	20318	GO:0005215	reduced	transporter activity
+20311	20318	GO:0051234	reduced	establishment of localization
+20875	20877	GO:0065007	to	biological regulation
+20875	20877	GO:0009987	to	cellular process
+21065	21067	GO:0065007	To	biological regulation
+21065	21067	GO:0009987	To	cellular process
+21132	21134	GO:0065007	to	biological regulation
+21132	21134	GO:0009987	to	cellular process
+21168	21177	GO:0023052	signaling	signaling
+21194	21196	GO:0065007	to	biological regulation
+21194	21196	GO:0009987	to	cellular process
+21535	21537	GO:0065007	to	biological regulation
+21535	21537	GO:0009987	to	cellular process
+21573	21575	GO:0065007	to	biological regulation
+21573	21575	GO:0009987	to	cellular process
+21622	21624	GO:0065007	to	biological regulation
+21622	21624	GO:0009987	to	cellular process
+22375	22382	GO:0003824	protein	catalytic activity
+22503	22510	GO:0003824	protein	catalytic activity
+22532	22534	GO:0065007	to	biological regulation
+22532	22534	GO:0009987	to	cellular process
+22559	22561	GO:0065007	to	biological regulation
+22559	22561	GO:0009987	to	cellular process
+22683	22690	GO:0003824	protein	catalytic activity
+22771	22773	GO:0065007	to	biological regulation
+22771	22773	GO:0009987	to	cellular process
+22949	22955	GO:0040007	growth	growth
+23355	23357	GO:0065007	to	biological regulation
+23355	23357	GO:0009987	to	cellular process
+23355	23357	GO:0065007	to	biological regulation
+23355	23357	GO:0009987	to	cellular process
+23355	23357	GO:0065007	to	biological regulation
+23355	23357	GO:0009987	to	cellular process
+23449	23451	GO:0065007	to	biological regulation
+23449	23451	GO:0009987	to	cellular process
+23575	23577	GO:0065007	to	biological regulation
+23575	23577	GO:0009987	to	cellular process
+24164	24170	GO:0040007	growth	growth
+24510	24512	GO:0065007	to	biological regulation
+24510	24512	GO:0009987	to	cellular process
+24555	24557	GO:0065007	to	biological regulation
+24555	24557	GO:0009987	to	cellular process
+24558	24565	GO:0008152	ethanol	metabolic process
+24558	24565	GO:0009987	ethanol	cellular process
+24808	24810	GO:0065007	to	biological regulation
+24808	24810	GO:0009987	to	cellular process
+24890	24892	GO:0065007	to	biological regulation
+24890	24892	GO:0009987	to	cellular process
+24920	24926	GO:0009987	direct	cellular process
+24920	24926	GO:0008152	direct	metabolic process
+25134	25140	GO:0040007	growth	growth
+25343	25345	GO:0065007	to	biological regulation
+25343	25345	GO:0009987	to	cellular process
+25451	25453	GO:0065007	to	biological regulation
+25451	25453	GO:0009987	to	cellular process
+25613	25619	GO:0040007	growth	growth
+25903	25905	GO:0065007	to	biological regulation
+25903	25905	GO:0009987	to	cellular process
+25922	25928	GO:0040007	growth	growth
+25996	25998	GO:0065007	to	biological regulation
+25996	25998	GO:0009987	to	cellular process
+26009	26019	GO:0043226	chromosome	organelle
+26009	26019	GO:0044422	chromosome	organelle part
+26009	26019	GO:0044464	chromosome	cell part
+26199	26205	GO:0040007	growth	growth
+26228	26230	GO:0065007	to	biological regulation
+26228	26230	GO:0009987	to	cellular process
+26259	26261	GO:0065007	to	biological regulation
+26259	26261	GO:0009987	to	cellular process
+26500	26506	GO:0040007	growth	growth
+26734	26747	GO:0051179	lipid storage	localization
+27019	27021	GO:0065007	to	biological regulation
+27019	27021	GO:0009987	to	cellular process
+27298	27304	GO:0040007	growth	growth
+27548	27550	GO:0065007	to	biological regulation
+27548	27550	GO:0009987	to	cellular process
+27605	27607	GO:0065007	to	biological regulation
+27605	27607	GO:0009987	to	cellular process
+27734	27736	GO:0065007	to	biological regulation
+27734	27736	GO:0009987	to	cellular process
+27797	27799	GO:0065007	to	biological regulation
+27797	27799	GO:0009987	to	cellular process
+27840	27860	GO:0065007	regulation of growth	biological regulation
+27854	27860	GO:0040007	growth	growth
+27965	27971	GO:0040007	growth	growth
+28084	28086	GO:0065007	to	biological regulation
+28084	28086	GO:0009987	to	cellular process
+28327	28340	GO:0009987	transcription	cellular process
+28327	28340	GO:0008152	transcription	metabolic process
+28872	28874	GO:0065007	to	biological regulation
+28872	28874	GO:0009987	to	cellular process
+29010	29012	GO:0065007	to	biological regulation
+29010	29012	GO:0009987	to	cellular process
+29049	29051	GO:0065007	to	biological regulation
+29049	29051	GO:0009987	to	cellular process
+29648	29650	GO:0065007	to	biological regulation
+29648	29650	GO:0009987	to	cellular process
+29765	29778	GO:0044464	intracellular	cell part
+29765	29778	GO:0051179	intracellular	localization
+29765	29778	GO:0009987	intracellular	cellular process
+29765	29796	GO:0023052	intracellular signaling pathway	signaling
+29779	29788	GO:0023052	signaling	signaling
+29779	29796	GO:0023052	signaling pathway	signaling
+29844	29850	GO:0040007	growth	growth
+30013	30022	GO:0051234	secretion	establishment of localization
+30038	30053	GO:0008152	gene expression	metabolic process
+30323	30330	GO:0003824	protein	catalytic activity
+30379	30392	GO:0009987	transcription	cellular process
+30379	30392	GO:0008152	transcription	metabolic process
+30604	30619	GO:0008152	gene expression	metabolic process
+30866	30872	GO:0040007	growth	growth
+31123	31127	GO:0005623	cell	cell
+31161	31163	GO:0065007	to	biological regulation
+31161	31163	GO:0009987	to	cellular process
+31179	31196	GO:0009987	insulin secretion	cellular process
+31179	31196	GO:0023046	insulin secretion	signaling process
+31179	31196	GO:0051234	insulin secretion	establishment of localization
+31179	31196	GO:0065007	insulin secretion	biological regulation
+31187	31196	GO:0051234	secretion	establishment of localization
+31201	31220	GO:0065007	glucose homeostasis	biological regulation
+31270	31272	GO:0065007	to	biological regulation
+31270	31272	GO:0009987	to	cellular process
+31483	31485	GO:0065007	to	biological regulation
+31483	31485	GO:0009987	to	cellular process
+31541	31543	GO:0065007	to	biological regulation
+31541	31543	GO:0009987	to	cellular process
+31579	31581	GO:0065007	to	biological regulation
+31579	31581	GO:0009987	to	cellular process
+31630	31645	GO:0008152	gene expression	metabolic process
+31734	31736	GO:0065007	to	biological regulation
+31734	31736	GO:0009987	to	cellular process
+31913	31915	GO:0065007	to	biological regulation
+31913	31915	GO:0009987	to	cellular process
+31941	31956	GO:0008152	gene expression	metabolic process
+31964	31966	GO:0065007	to	biological regulation
+31964	31966	GO:0009987	to	cellular process
+32163	32165	GO:0065007	to	biological regulation
+32163	32165	GO:0009987	to	cellular process
+32273	32280	GO:0003824	protein	catalytic activity
+32706	32717	GO:0008152	degradation	metabolic process
+32718	32720	GO:0065007	to	biological regulation
+32718	32720	GO:0009987	to	cellular process
+32732	32741	GO:0023052	signaling	signaling
+32787	32794	GO:0003824	protein	catalytic activity
+32787	32809	GO:0008152	protein ubiquitination	metabolic process
+32787	32809	GO:0009987	protein ubiquitination	cellular process
+32880	32882	GO:0065007	to	biological regulation
+32880	32882	GO:0009987	to	cellular process
+33053	33060	GO:0009987	reduced	cellular process
+33053	33060	GO:0008152	reduced	metabolic process
+33053	33060	GO:0005215	reduced	transporter activity
+33053	33060	GO:0051234	reduced	establishment of localization
+33350	33356	GO:0040007	growth	growth
+33739	33745	GO:0040007	growth	growth
+33803	33805	GO:0065007	to	biological regulation
+33803	33805	GO:0009987	to	cellular process
+33860	33862	GO:0065007	to	biological regulation
+33860	33862	GO:0009987	to	cellular process
+34647	34656	GO:0032501	digestion	multicellular organismal process
+34831	34833	GO:0065007	to	biological regulation
+34831	34833	GO:0009987	to	cellular process
+35618	35620	GO:0065007	to	biological regulation
+35618	35620	GO:0009987	to	cellular process
+35618	35620	GO:0065007	to	biological regulation
+35618	35620	GO:0009987	to	cellular process
+36264	36266	GO:0065007	to	biological regulation
+36264	36266	GO:0009987	to	cellular process
+36427	36429	GO:0065007	to	biological regulation
+36427	36429	GO:0009987	to	cellular process
+36889	36895	GO:0051704	mating	multi-organism process
+36889	36895	GO:0022414	mating	reproductive process
+36979	36981	GO:0065007	to	biological regulation
+36979	36981	GO:0009987	to	cellular process
+37460	37462	GO:0065007	to	biological regulation
+37460	37462	GO:0009987	to	cellular process
+37541	37543	GO:0065007	to	biological regulation
+37541	37543	GO:0009987	to	cellular process
+37776	37778	GO:0065007	to	biological regulation
+37776	37778	GO:0009987	to	cellular process
+37776	37778	GO:0065007	to	biological regulation
+37776	37778	GO:0009987	to	cellular process
+38129	38131	GO:0003824	N6	catalytic activity
+38610	38616	GO:0051704	mating	multi-organism process
+38610	38616	GO:0022414	mating	reproductive process
+38700	38702	GO:0065007	to	biological regulation
+38700	38702	GO:0009987	to	cellular process
+38898	38900	GO:0065007	to	biological regulation
+38898	38900	GO:0009987	to	cellular process
+39276	39278	GO:0065007	to	biological regulation
+39276	39278	GO:0009987	to	cellular process
+39709	39715	GO:0051704	mating	multi-organism process
+39709	39715	GO:0022414	mating	reproductive process
+40133	40135	GO:0065007	to	biological regulation
+40133	40135	GO:0009987	to	cellular process
+40292	40294	GO:0065007	To	biological regulation
+40292	40294	GO:0009987	To	cellular process
+40429	40431	GO:0065007	to	biological regulation
+40429	40431	GO:0009987	to	cellular process
+40510	40517	GO:0003824	protein	catalytic activity
+40594	40596	GO:0065007	to	biological regulation
+40594	40596	GO:0009987	to	cellular process
+40769	40771	GO:0065007	to	biological regulation
+40769	40771	GO:0009987	to	cellular process
+40989	40991	GO:0065007	to	biological regulation
+40989	40991	GO:0009987	to	cellular process
+41035	41037	GO:0065007	to	biological regulation
+41035	41037	GO:0009987	to	cellular process
+41866	41873	GO:0003824	protein	catalytic activity
+42051	42053	GO:0065007	to	biological regulation
+42051	42053	GO:0009987	to	cellular process
+42391	42393	GO:0065007	to	biological regulation
+42391	42393	GO:0009987	to	cellular process
+42911	42913	GO:0065007	To	biological regulation
+42911	42913	GO:0009987	To	cellular process
+43007	43016	GO:0023052	signaling	signaling
+43032	43034	GO:0065007	to	biological regulation
+43032	43034	GO:0009987	to	cellular process
+43498	43500	GO:0065007	To	biological regulation
+43498	43500	GO:0009987	To	cellular process
+43640	43642	GO:0065007	to	biological regulation
+43640	43642	GO:0009987	to	cellular process
+43640	43642	GO:0065007	to	biological regulation
+43640	43642	GO:0009987	to	cellular process
+46437	46443	GO:0040007	growth	growth
+46705	46707	GO:0065007	to	biological regulation
+46705	46707	GO:0009987	to	cellular process
+46870	46872	GO:0065007	to	biological regulation
+46870	46872	GO:0009987	to	cellular process
+47486	47492	GO:0040007	growth	growth
+47534	47541	GO:0022414	matings	reproductive process
+47534	47541	GO:0051704	matings	multi-organism process
+47573	47580	GO:0022414	matings	reproductive process
+47573	47580	GO:0051704	matings	multi-organism process
+47586	47588	GO:0065007	to	biological regulation
+47586	47588	GO:0009987	to	cellular process
+47928	47935	GO:0022414	matings	reproductive process
+47928	47935	GO:0051704	matings	multi-organism process
+47941	47943	GO:0065007	to	biological regulation
+47941	47943	GO:0009987	to	cellular process
+48346	48348	GO:0065007	To	biological regulation
+48346	48348	GO:0009987	To	cellular process
+48409	48411	GO:0065007	to	biological regulation
+48409	48411	GO:0009987	to	cellular process
+48534	48536	GO:0065007	to	biological regulation
+48534	48536	GO:0009987	to	cellular process
+48719	48725	GO:0040007	growth	growth
+48864	48870	GO:0040007	Growth	growth
+49010	49016	GO:0040007	growth	growth
+49093	49099	GO:0040007	growth	growth
+49429	49435	GO:0040007	growth	growth
+49449	49458	GO:0023052	signaling	signaling
+49449	49466	GO:0023052	signaling pathway	signaling
+49480	49482	GO:0065007	to	biological regulation
+49480	49482	GO:0009987	to	cellular process
+49516	49525	GO:0023052	signaling	signaling
+49679	49681	GO:0065007	to	biological regulation
+49679	49681	GO:0009987	to	cellular process
+50016	50018	GO:0065007	to	biological regulation
+50016	50018	GO:0009987	to	cellular process
+50070	50076	GO:0040007	growth	growth
+50130	50140	GO:0043226	chromosome	organelle
+50130	50140	GO:0044422	chromosome	organelle part
+50130	50140	GO:0044464	chromosome	cell part
+50357	50359	GO:0065007	to	biological regulation
+50357	50359	GO:0009987	to	cellular process
+51234	51236	GO:0065007	to	biological regulation
+51234	51236	GO:0009987	to	cellular process
+51863	51865	GO:0065007	to	biological regulation
+51863	51865	GO:0009987	to	cellular process
+52153	52159	GO:0040007	growth	growth
+52368	52370	GO:0065007	to	biological regulation
+52368	52370	GO:0009987	to	cellular process
+52411	52413	GO:0065007	to	biological regulation
+52411	52413	GO:0009987	to	cellular process
+53429	53436	GO:0003824	protein	catalytic activity
+53445	53452	GO:0003824	protein	catalytic activity
+53780	53782	GO:0065007	to	biological regulation
+53780	53782	GO:0009987	to	cellular process
+53789	53796	GO:0003824	protein	catalytic activity
+53816	53826	GO:0043226	chromosome	organelle
+53816	53826	GO:0044422	chromosome	organelle part
+53816	53826	GO:0044464	chromosome	cell part
+53906	53908	GO:0065007	to	biological regulation
+53906	53908	GO:0009987	to	cellular process
+53989	53991	GO:0065007	to	biological regulation
+53989	53991	GO:0009987	to	cellular process

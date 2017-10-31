@@ -1,0 +1,459 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm
+40	50	GO:0043226	chromosome	organelle
+40	50	GO:0044422	chromosome	organelle part
+40	50	GO:0044464	chromosome	cell part
+71	76	GO:0032501	taste	multicellular organismal process
+175	177	GO:0065007	to	biological regulation
+175	177	GO:0009987	to	cellular process
+175	177	GO:0065007	to	biological regulation
+175	177	GO:0009987	to	cellular process
+309	314	GO:0032501	taste	multicellular organismal process
+370	375	GO:0032501	taste	multicellular organismal process
+385	390	GO:0005623	cells	cell
+489	501	GO:0051704	transduction	multi-organism process
+652	657	GO:0032501	taste	multicellular organismal process
+714	716	GO:0065007	to	biological regulation
+714	716	GO:0009987	to	cellular process
+766	771	GO:0032501	taste	multicellular organismal process
+784	786	GO:0065007	to	biological regulation
+784	786	GO:0009987	to	cellular process
+816	818	GO:0065007	to	biological regulation
+816	818	GO:0009987	to	cellular process
+839	849	GO:0043226	chromosome	organelle
+839	849	GO:0044422	chromosome	organelle part
+839	849	GO:0044464	chromosome	cell part
+931	933	GO:0065007	to	biological regulation
+931	933	GO:0009987	to	cellular process
+1311	1313	GO:0065007	to	biological regulation
+1311	1313	GO:0009987	to	cellular process
+1449	1454	GO:0032501	taste	multicellular organismal process
+1596	1608	GO:0051704	transduction	multi-organism process
+1679	1684	GO:0032501	taste	multicellular organismal process
+1787	1794	GO:0003824	coupled	catalytic activity
+1860	1865	GO:0032501	taste	multicellular organismal process
+1900	1902	GO:0065007	to	biological regulation
+1900	1902	GO:0009987	to	cellular process
+1915	1917	GO:0065007	to	biological regulation
+1915	1917	GO:0009987	to	cellular process
+2276	2281	GO:0032501	taste	multicellular organismal process
+2291	2296	GO:0005623	cells	cell
+2374	2386	GO:0051704	transduction	multi-organism process
+2432	2437	GO:0032501	taste	multicellular organismal process
+2677	2679	GO:0065007	to	biological regulation
+2677	2679	GO:0009987	to	cellular process
+2702	2707	GO:0032501	taste	multicellular organismal process
+2801	2811	GO:0043226	chromosome	organelle
+2801	2811	GO:0044422	chromosome	organelle part
+2801	2811	GO:0044464	chromosome	cell part
+2999	3001	GO:0065007	to	biological regulation
+2999	3001	GO:0009987	to	cellular process
+3133	3138	GO:0032501	taste	multicellular organismal process
+3439	3441	GO:0065007	to	biological regulation
+3439	3441	GO:0009987	to	cellular process
+3455	3465	GO:0043226	chromosome	organelle
+3455	3465	GO:0044422	chromosome	organelle part
+3455	3465	GO:0044464	chromosome	cell part
+3483	3485	GO:0065007	to	biological regulation
+3483	3485	GO:0009987	to	cellular process
+3905	3907	GO:0065007	to	biological regulation
+3905	3907	GO:0009987	to	cellular process
+3919	3924	GO:0032501	taste	multicellular organismal process
+4011	4013	GO:0065007	to	biological regulation
+4011	4013	GO:0009987	to	cellular process
+4156	4161	GO:0032501	taste	multicellular organismal process
+4162	4171	GO:0050896	behaviors	response to stimulus
+4250	4252	GO:0065007	to	biological regulation
+4250	4252	GO:0009987	to	cellular process
+4260	4265	GO:0032501	taste	multicellular organismal process
+4352	4364	GO:0051704	transduction	multi-organism process
+4458	4463	GO:0032501	taste	multicellular organismal process
+4473	4478	GO:0005623	cells	cell
+4547	4555	GO:0003824	proteins	catalytic activity
+4683	4696	GO:0044464	intracellular	cell part
+4683	4696	GO:0051179	intracellular	localization
+4683	4696	GO:0009987	intracellular	cellular process
+4805	4807	GO:0065007	to	biological regulation
+4805	4807	GO:0009987	to	cellular process
+4805	4807	GO:0065007	to	biological regulation
+4805	4807	GO:0009987	to	cellular process
+4872	4877	GO:0032501	taste	multicellular organismal process
+4917	4919	GO:0065007	to	biological regulation
+4917	4919	GO:0009987	to	cellular process
+4928	4933	GO:0032501	taste	multicellular organismal process
+5024	5026	GO:0065007	to	biological regulation
+5024	5026	GO:0009987	to	cellular process
+5252	5262	GO:0043226	chromosome	organelle
+5252	5262	GO:0044422	chromosome	organelle part
+5252	5262	GO:0044464	chromosome	cell part
+5588	5593	GO:0032501	taste	multicellular organismal process
+5613	5618	GO:0032501	Taste	multicellular organismal process
+5643	5645	GO:0065007	to	biological regulation
+5643	5645	GO:0009987	to	cellular process
+5665	5670	GO:0032501	taste	multicellular organismal process
+5879	5881	GO:0065007	to	biological regulation
+5879	5881	GO:0009987	to	cellular process
+5938	5943	GO:0032501	taste	multicellular organismal process
+5956	5958	GO:0065007	to	biological regulation
+5956	5958	GO:0009987	to	cellular process
+5963	5968	GO:0032501	taste	multicellular organismal process
+6031	6033	GO:0065007	to	biological regulation
+6031	6033	GO:0009987	to	cellular process
+6221	6226	GO:0032501	taste	multicellular organismal process
+6266	6268	GO:0065007	to	biological regulation
+6266	6268	GO:0009987	to	cellular process
+6646	6648	GO:0065007	to	biological regulation
+6646	6648	GO:0009987	to	cellular process
+6744	6749	GO:0032501	taste	multicellular organismal process
+6762	6764	GO:0065007	to	biological regulation
+6762	6764	GO:0009987	to	cellular process
+7005	7007	GO:0065007	to	biological regulation
+7005	7007	GO:0009987	to	cellular process
+7464	7469	GO:0032501	taste	multicellular organismal process
+7483	7485	GO:0065007	to	biological regulation
+7483	7485	GO:0009987	to	cellular process
+7618	7620	GO:0065007	to	biological regulation
+7618	7620	GO:0009987	to	cellular process
+7618	7620	GO:0065007	to	biological regulation
+7618	7620	GO:0009987	to	cellular process
+7636	7638	GO:0065007	to	biological regulation
+7636	7638	GO:0009987	to	cellular process
+7636	7638	GO:0065007	to	biological regulation
+7636	7638	GO:0009987	to	cellular process
+7902	7907	GO:0032501	taste	multicellular organismal process
+7920	7922	GO:0065007	to	biological regulation
+7920	7922	GO:0009987	to	cellular process
+7947	7949	GO:0065007	to	biological regulation
+7947	7949	GO:0009987	to	cellular process
+7972	7977	GO:0032501	taste	multicellular organismal process
+8270	8272	GO:0065007	to	biological regulation
+8270	8272	GO:0009987	to	cellular process
+8583	8585	GO:0065007	to	biological regulation
+8583	8585	GO:0009987	to	cellular process
+8783	8788	GO:0032501	taste	multicellular organismal process
+8848	8859	GO:0044464	chromosomes	cell part
+8848	8859	GO:0044422	chromosomes	organelle part
+8848	8859	GO:0043226	chromosomes	organelle
+9016	9018	GO:0065007	to	biological regulation
+9016	9018	GO:0009987	to	cellular process
+9046	9056	GO:0043226	chromosome	organelle
+9046	9056	GO:0044422	chromosome	organelle part
+9046	9056	GO:0044464	chromosome	cell part
+9128	9138	GO:0043226	chromosome	organelle
+9128	9138	GO:0044422	chromosome	organelle part
+9128	9138	GO:0044464	chromosome	cell part
+9299	9304	GO:0032501	taste	multicellular organismal process
+9314	9324	GO:0043226	chromosome	organelle
+9314	9324	GO:0044422	chromosome	organelle part
+9314	9324	GO:0044464	chromosome	cell part
+9398	9408	GO:0043226	chromosome	organelle
+9398	9408	GO:0044422	chromosome	organelle part
+9398	9408	GO:0044464	chromosome	cell part
+9443	9453	GO:0043226	chromosome	organelle
+9443	9453	GO:0044422	chromosome	organelle part
+9443	9453	GO:0044464	chromosome	cell part
+9475	9480	GO:0032501	taste	multicellular organismal process
+9491	9493	GO:0065007	to	biological regulation
+9491	9493	GO:0009987	to	cellular process
+9625	9635	GO:0043226	chromosome	organelle
+9625	9635	GO:0044422	chromosome	organelle part
+9625	9635	GO:0044464	chromosome	cell part
+9653	9655	GO:0065007	to	biological regulation
+9653	9655	GO:0009987	to	cellular process
+9653	9655	GO:0065007	to	biological regulation
+9653	9655	GO:0009987	to	cellular process
+10220	10225	GO:0032501	taste	multicellular organismal process
+10347	10349	GO:0065007	to	biological regulation
+10347	10349	GO:0009987	to	cellular process
+10448	10458	GO:0043226	chromosome	organelle
+10448	10458	GO:0044422	chromosome	organelle part
+10448	10458	GO:0044464	chromosome	cell part
+10532	10534	GO:0065007	to	biological regulation
+10532	10534	GO:0009987	to	cellular process
+10821	10831	GO:0043226	chromosome	organelle
+10821	10831	GO:0044422	chromosome	organelle part
+10821	10831	GO:0044464	chromosome	cell part
+11002	11006	GO:0005623	cell	cell
+11043	11048	GO:0032501	taste	multicellular organismal process
+11054	11056	GO:0065007	to	biological regulation
+11054	11056	GO:0009987	to	cellular process
+11275	11280	GO:0032501	taste	multicellular organismal process
+11290	11295	GO:0005623	cells	cell
+11472	11477	GO:0032501	taste	multicellular organismal process
+11525	11527	GO:0065007	to	biological regulation
+11525	11527	GO:0009987	to	cellular process
+11547	11557	GO:0043226	chromosome	organelle
+11547	11557	GO:0044422	chromosome	organelle part
+11547	11557	GO:0044464	chromosome	cell part
+11598	11608	GO:0043226	chromosome	organelle
+11598	11608	GO:0044422	chromosome	organelle part
+11598	11608	GO:0044464	chromosome	cell part
+11908	11913	GO:0032501	taste	multicellular organismal process
+12156	12166	GO:0043226	chromosome	organelle
+12156	12166	GO:0044422	chromosome	organelle part
+12156	12166	GO:0044464	chromosome	cell part
+12219	12221	GO:0065007	to	biological regulation
+12219	12221	GO:0009987	to	cellular process
+12229	12239	GO:0043226	chromosome	organelle
+12229	12239	GO:0044422	chromosome	organelle part
+12229	12239	GO:0044464	chromosome	cell part
+12341	12344	GO:0023046	red	signaling process
+12341	12344	GO:0050896	red	response to stimulus
+12341	12344	GO:0009987	red	cellular process
+12341	12344	GO:0065007	red	biological regulation
+12391	12399	GO:0003824	proteins	catalytic activity
+12416	12419	GO:0023046	red	signaling process
+12416	12419	GO:0050896	red	response to stimulus
+12416	12419	GO:0009987	red	cellular process
+12416	12419	GO:0065007	red	biological regulation
+12454	12464	GO:0043226	chromosome	organelle
+12454	12464	GO:0044422	chromosome	organelle part
+12454	12464	GO:0044464	chromosome	cell part
+12568	12578	GO:0043226	chromosome	organelle
+12568	12578	GO:0044422	chromosome	organelle part
+12568	12578	GO:0044464	chromosome	cell part
+12586	12591	GO:0032501	taste	multicellular organismal process
+12897	12904	GO:0003824	protein	catalytic activity
+12930	12937	GO:0005488	binding	binding
+12946	12948	GO:0065007	to	biological regulation
+12946	12948	GO:0009987	to	cellular process
+12973	12982	GO:0023052	signaling	signaling
+12973	12991	GO:0023046	signaling cascades	signaling process
+12973	12991	GO:0065007	signaling cascades	biological regulation
+13089	13096	GO:0003824	protein	catalytic activity
+13146	13148	GO:0065007	to	biological regulation
+13146	13148	GO:0009987	to	cellular process
+13316	13321	GO:0032501	taste	multicellular organismal process
+13453	13463	GO:0043226	chromosome	organelle
+13453	13463	GO:0044422	chromosome	organelle part
+13453	13463	GO:0044464	chromosome	cell part
+13531	13533	GO:0065007	to	biological regulation
+13531	13533	GO:0009987	to	cellular process
+14764	14777	GO:0005576	extracellular	extracellular region
+15216	15219	GO:0023046	red	signaling process
+15216	15219	GO:0050896	red	response to stimulus
+15216	15219	GO:0009987	red	cellular process
+15216	15219	GO:0065007	red	biological regulation
+15361	15363	GO:0065007	to	biological regulation
+15361	15363	GO:0009987	to	cellular process
+15476	15481	GO:0032501	taste	multicellular organismal process
+15546	15551	GO:0032501	taste	multicellular organismal process
+15589	15591	GO:0065007	to	biological regulation
+15589	15591	GO:0009987	to	cellular process
+15680	15685	GO:0032501	taste	multicellular organismal process
+15761	15763	GO:0065007	to	biological regulation
+15761	15763	GO:0009987	to	cellular process
+15837	15839	GO:0065007	to	biological regulation
+15837	15839	GO:0009987	to	cellular process
+16292	16302	GO:0043226	chromosome	organelle
+16292	16302	GO:0044422	chromosome	organelle part
+16292	16302	GO:0044464	chromosome	cell part
+16556	16561	GO:0032501	taste	multicellular organismal process
+16805	16815	GO:0043226	chromosome	organelle
+16805	16815	GO:0044422	chromosome	organelle part
+16805	16815	GO:0044464	chromosome	cell part
+17127	17132	GO:0032501	taste	multicellular organismal process
+17282	17285	GO:0023046	red	signaling process
+17282	17285	GO:0050896	red	response to stimulus
+17282	17285	GO:0009987	red	cellular process
+17282	17285	GO:0065007	red	biological regulation
+17341	17343	GO:0065007	to	biological regulation
+17341	17343	GO:0009987	to	cellular process
+17381	17384	GO:0023046	red	signaling process
+17381	17384	GO:0050896	red	response to stimulus
+17381	17384	GO:0009987	red	cellular process
+17381	17384	GO:0065007	red	biological regulation
+17421	17426	GO:0032501	taste	multicellular organismal process
+17530	17532	GO:0065007	to	biological regulation
+17530	17532	GO:0009987	to	cellular process
+17588	17591	GO:0023046	red	signaling process
+17588	17591	GO:0050896	red	response to stimulus
+17588	17591	GO:0009987	red	cellular process
+17588	17591	GO:0065007	red	biological regulation
+17660	17662	GO:0065007	to	biological regulation
+17660	17662	GO:0009987	to	cellular process
+17660	17662	GO:0065007	to	biological regulation
+17660	17662	GO:0009987	to	cellular process
+17678	17680	GO:0065007	to	biological regulation
+17678	17680	GO:0009987	to	cellular process
+17896	17908	GO:0051704	transduction	multi-organism process
+17968	17973	GO:0032501	taste	multicellular organismal process
+17983	17988	GO:0005623	cells	cell
+17994	17996	GO:0065007	to	biological regulation
+17994	17996	GO:0009987	to	cellular process
+18021	18030	GO:0023052	signaling	signaling
+18031	18033	GO:0065007	to	biological regulation
+18031	18033	GO:0009987	to	cellular process
+18131	18141	GO:0043226	chromosome	organelle
+18131	18141	GO:0044422	chromosome	organelle part
+18131	18141	GO:0044464	chromosome	cell part
+18187	18192	GO:0032501	taste	multicellular organismal process
+18243	18245	GO:0065007	to	biological regulation
+18243	18245	GO:0009987	to	cellular process
+18356	18361	GO:0032501	taste	multicellular organismal process
+18536	18541	GO:0032501	taste	multicellular organismal process
+18643	18648	GO:0032501	taste	multicellular organismal process
+18653	18655	GO:0065007	to	biological regulation
+18653	18655	GO:0009987	to	cellular process
+18682	18692	GO:0043226	chromosome	organelle
+18682	18692	GO:0044422	chromosome	organelle part
+18682	18692	GO:0044464	chromosome	cell part
+18834	18842	GO:0003824	proteins	catalytic activity
+18865	18873	GO:0003824	proteins	catalytic activity
+18881	18883	GO:0065007	to	biological regulation
+18881	18883	GO:0009987	to	cellular process
+18892	18898	GO:0009987	direct	cellular process
+18892	18898	GO:0008152	direct	metabolic process
+18914	18919	GO:0032501	taste	multicellular organismal process
+19008	19010	GO:0065007	to	biological regulation
+19008	19010	GO:0009987	to	cellular process
+19036	19041	GO:0032501	taste	multicellular organismal process
+19051	19056	GO:0005623	cells	cell
+19110	19112	GO:0065007	to	biological regulation
+19110	19112	GO:0009987	to	cellular process
+19149	19154	GO:0032501	taste	multicellular organismal process
+19284	19289	GO:0005623	cells	cell
+19293	19301	GO:0044464	membrane	cell part
+19327	19329	GO:0065007	to	biological regulation
+19327	19329	GO:0009987	to	cellular process
+19460	19468	GO:0003824	proteins	catalytic activity
+19523	19528	GO:0032501	taste	multicellular organismal process
+19538	19543	GO:0005623	cells	cell
+19591	19596	GO:0032501	taste	multicellular organismal process
+19771	19773	GO:0065007	to	biological regulation
+19771	19773	GO:0009987	to	cellular process
+19826	19828	GO:0065007	to	biological regulation
+19826	19828	GO:0009987	to	cellular process
+19976	19981	GO:0032501	taste	multicellular organismal process
+20017	20027	GO:0043226	chromosome	organelle
+20017	20027	GO:0044422	chromosome	organelle part
+20017	20027	GO:0044464	chromosome	cell part
+20108	20120	GO:0005215	ion channels	transporter activity
+20156	20158	GO:0065007	to	biological regulation
+20156	20158	GO:0009987	to	cellular process
+20216	20218	GO:0065007	to	biological regulation
+20216	20218	GO:0009987	to	cellular process
+20278	20283	GO:0032501	taste	multicellular organismal process
+20375	20377	GO:0065007	to	biological regulation
+20375	20377	GO:0009987	to	cellular process
+20389	20394	GO:0032501	taste	multicellular organismal process
+20481	20491	GO:0043226	chromosome	organelle
+20481	20491	GO:0044422	chromosome	organelle part
+20481	20491	GO:0044464	chromosome	cell part
+20701	20703	GO:0065007	to	biological regulation
+20701	20703	GO:0009987	to	cellular process
+20773	20778	GO:0032501	taste	multicellular organismal process
+21090	21095	GO:0032501	taste	multicellular organismal process
+21184	21189	GO:0032501	taste	multicellular organismal process
+21332	21337	GO:0032501	taste	multicellular organismal process
+21416	21418	GO:0065007	to	biological regulation
+21416	21418	GO:0009987	to	cellular process
+21436	21441	GO:0032501	taste	multicellular organismal process
+21497	21502	GO:0032501	taste	multicellular organismal process
+21595	21604	GO:0023052	signaling	signaling
+21648	21660	GO:0051704	transduction	multi-organism process
+21733	21743	GO:0043226	chromosome	organelle
+21733	21743	GO:0044422	chromosome	organelle part
+21733	21743	GO:0044464	chromosome	cell part
+21796	21801	GO:0032501	taste	multicellular organismal process
+21805	21815	GO:0043226	chromosome	organelle
+21805	21815	GO:0044422	chromosome	organelle part
+21805	21815	GO:0044464	chromosome	cell part
+21967	21975	GO:0003824	proteins	catalytic activity
+22036	22041	GO:0032501	taste	multicellular organismal process
+22052	22054	GO:0065007	to	biological regulation
+22052	22054	GO:0009987	to	cellular process
+22321	22330	GO:0023052	signaling	signaling
+22418	22431	GO:0005576	extracellular	extracellular region
+22450	22452	GO:0065007	to	biological regulation
+22450	22452	GO:0009987	to	cellular process
+22497	22499	GO:0065007	to	biological regulation
+22497	22499	GO:0009987	to	cellular process
+22733	22740	GO:0005488	binding	binding
+22766	22774	GO:0003824	proteins	catalytic activity
+22792	22794	GO:0065007	to	biological regulation
+22792	22794	GO:0009987	to	cellular process
+23030	23032	GO:0065007	to	biological regulation
+23030	23032	GO:0009987	to	cellular process
+23380	23382	GO:0065007	to	biological regulation
+23380	23382	GO:0009987	to	cellular process
+23646	23651	GO:0032501	taste	multicellular organismal process
+23751	23756	GO:0032501	taste	multicellular organismal process
+23757	23769	GO:0051704	transduction	multi-organism process
+23851	23861	GO:0043226	chromosome	organelle
+23851	23861	GO:0044422	chromosome	organelle part
+23851	23861	GO:0044464	chromosome	cell part
+23990	23995	GO:0032501	taste	multicellular organismal process
+24041	24048	GO:0003824	protein	catalytic activity
+24132	24134	GO:0065007	to	biological regulation
+24132	24134	GO:0009987	to	cellular process
+24143	24145	GO:0065007	to	biological regulation
+24143	24145	GO:0009987	to	cellular process
+24259	24264	GO:0032501	taste	multicellular organismal process
+24265	24270	GO:0005623	cells	cell
+24271	24273	GO:0065007	to	biological regulation
+24271	24273	GO:0009987	to	cellular process
+24271	24273	GO:0065007	to	biological regulation
+24271	24273	GO:0009987	to	cellular process
+24771	24777	GO:0051704	mating	multi-organism process
+24771	24777	GO:0022414	mating	reproductive process
+24939	24944	GO:0032501	Taste	multicellular organismal process
+25217	25222	GO:0032501	taste	multicellular organismal process
+25281	25283	GO:0065007	to	biological regulation
+25281	25283	GO:0009987	to	cellular process
+25459	25461	GO:0065007	to	biological regulation
+25459	25461	GO:0009987	to	cellular process
+25542	25544	GO:0065007	to	biological regulation
+25542	25544	GO:0009987	to	cellular process
+25691	25693	GO:0065007	to	biological regulation
+25691	25693	GO:0009987	to	cellular process
+25691	25693	GO:0065007	to	biological regulation
+25691	25693	GO:0009987	to	cellular process
+25691	25693	GO:0065007	to	biological regulation
+25691	25693	GO:0009987	to	cellular process
+26256	26261	GO:0032501	taste	multicellular organismal process
+26431	26433	GO:0065007	to	biological regulation
+26431	26433	GO:0009987	to	cellular process
+26740	26742	GO:0065007	to	biological regulation
+26740	26742	GO:0009987	to	cellular process
+26778	26780	GO:0065007	to	biological regulation
+26778	26780	GO:0009987	to	cellular process
+26865	26867	GO:0065007	to	biological regulation
+26865	26867	GO:0009987	to	cellular process
+27148	27150	GO:0065007	to	biological regulation
+27148	27150	GO:0009987	to	cellular process
+27348	27355	GO:0005215	neutral	transporter activity
+27478	27480	GO:0065007	to	biological regulation
+27478	27480	GO:0009987	to	cellular process
+27614	27619	GO:0032501	taste	multicellular organismal process
+27640	27642	GO:0065007	to	biological regulation
+27640	27642	GO:0009987	to	cellular process
+28377	28379	GO:0065007	to	biological regulation
+28377	28379	GO:0009987	to	cellular process
+28495	28497	GO:0065007	to	biological regulation
+28495	28497	GO:0009987	to	cellular process
+28553	28563	GO:0043226	chromosome	organelle
+28553	28563	GO:0044422	chromosome	organelle part
+28553	28563	GO:0044464	chromosome	cell part
+28605	28607	GO:0065007	to	biological regulation
+28605	28607	GO:0009987	to	cellular process
+29768	29773	GO:0032501	taste	multicellular organismal process
+29982	29987	GO:0032501	taste	multicellular organismal process
+30218	30220	GO:0065007	to	biological regulation
+30218	30220	GO:0009987	to	cellular process
+30218	30220	GO:0065007	to	biological regulation
+30218	30220	GO:0009987	to	cellular process
+30273	30283	GO:0043226	chromosome	organelle
+30273	30283	GO:0044422	chromosome	organelle part
+30273	30283	GO:0044464	chromosome	cell part
+30330	30332	GO:0065007	to	biological regulation
+30330	30332	GO:0009987	to	cellular process
+30591	30596	GO:0032501	taste	multicellular organismal process
+30649	30651	GO:0065007	to	biological regulation
+30649	30651	GO:0009987	to	cellular process
+30670	30672	GO:0065007	to	biological regulation
+30670	30672	GO:0009987	to	cellular process
+31330	31335	GO:0032501	taste	multicellular organismal process
+31643	31645	GO:0065007	to	biological regulation
+31643	31645	GO:0009987	to	cellular process
+31658	31660	GO:0065007	to	biological regulation
+31658	31660	GO:0009987	to	cellular process
