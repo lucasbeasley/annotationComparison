@@ -37,9 +37,22 @@ public class annotationCount {
         //Directory for Textpresso Annotations
         File textpresso = new File("textpressoAnnotations");
 
+        //Pull all annotations into maps
         Map<String, List<Annotation>> craft_go_cc_annos = pullCRAFTAnnos(craft_cc);
         Map<String, List<Annotation>> craft_go_bpmf_annos = pullCRAFTAnnos(craft_bpmf);
         Map<String, List<Annotation>> craft_annos = mapMerge(craft_go_cc_annos, craft_go_bpmf_annos);
+        Map<String, List<Annotation>> ncbo_annos = pullAnnos(ncbo);
+        Map<String, List<Annotation>> textpresso_annos = pullAnnos(textpresso);
+
+        //compare CRAFT annotations to tool annotations
+        Map<String, int[]> ncbo_counts = annotationCounter(craft_annos, ncbo_annos);
+        Map<String, int[]> textpresso_counts = annotationCounter(craft_annos, textpresso_annos);
+        //get total number of annotations for CRAFT per file
+        Map<String, Integer> craft_total_count = totalAnnosInMap(craft_annos);
+
+        Map<String, double[]> ncbo_accuracies = annotationAccuracy(ncbo_counts, craft_total_count);
+        Map<String, double[]> textpresso_accuracies = annotationAccuracy(textpresso_counts, craft_total_count);
+        boolean bool = true;
     }
 
     /***
@@ -63,6 +76,7 @@ public class annotationCount {
                 scan.nextLine();
                 line = scan.nextLine();
                 filename = line.substring(line.indexOf("\"")+1, line.lastIndexOf("\""));
+                filename = filename.substring(0, filename.length()-4);
 
                 while(scan.hasNextLine()){
                     line = scan.nextLine();
@@ -95,7 +109,7 @@ public class annotationCount {
                             line = scan.nextLine();
                         }
 
-                        //cycle through double quotes to get to the second end index
+                        //cycle through double quotes to get to the final end index
                         symbolIndex = prevline.indexOf("\"");
                         nextSymbolIndex = prevline.indexOf("\"", symbolIndex+1);
                         symbolIndex = prevline.indexOf("\"", nextSymbolIndex+1);
@@ -165,5 +179,164 @@ public class annotationCount {
             }
         }
         return map1;
+    }
+
+    /***
+     * pullAnnos pulls annotations from a tab-separated annotation file.
+     * @param annoDirectory - directory containing multiple annotation files (.tsv)
+     * @return map of annotations per file for a tool
+     */
+    private static Map<String, List<Annotation>> pullAnnos(File annoDirectory){
+        Map<String, List<Annotation>> annoMap = new HashMap<>();
+        List<Annotation> annotations;
+        Scanner scan;
+        Annotation a;
+        String filename, startIndex, endIndex, line;
+        String[] values, fix;
+        int start, end;
+
+        for(File f: annoDirectory.listFiles()){
+            filename = f.getName();
+            filename = filename.substring(0, filename.length()-4);
+            try{
+                scan = new Scanner(f);
+                annotations = new ArrayList<>();
+                //skip headers
+                scan.nextLine();
+                //pull each annotation and set the values
+                while(scan.hasNextLine()){
+                    line = scan.nextLine();
+                    values = line.split("\t");
+                    a = new Annotation();
+                    //textpresso annotations have some blank values, fix if necessary
+                    if(values.length == 4){
+                        if(!(Integer.parseInt(values[0]) >= 0)){
+                            values[0] = "-1";
+                        }
+                        else if(!(Integer.parseInt(values[1]) >= 0)){
+                            values[1] = "-1";
+                        }
+                        else if(!(values[2].contains("GO:"))){
+                            values[2] = "N/A";
+                        }
+                        else{
+                            fix = Arrays.copyOf(values, 5);
+                            fix[4] = "N/A";
+                            values = fix;
+                        }
+                    }
+                    startIndex = values[0];
+                    start = Integer.parseInt(startIndex);
+                    a.setStartIndex(start);
+                    endIndex = values[1];
+                    end = Integer.parseInt(endIndex);
+                    a.setEndIndex(end);
+                    a.setID(values[2]);
+                    a.setTerm(values[3]);
+                    a.setRef(values[4]);
+                    annotations.add(a);
+                }
+                //add each file and annotations pair to map
+                annoMap.put(filename, annotations);
+            }catch(FileNotFoundException ex){
+                System.out.println("Error: File " + filename + " not found.");
+            }
+        }
+        return annoMap;
+    }
+
+    /***
+     * annotationCounter counts the number of total and partial annotation matches for a tool vs. the CRAFT corpus.
+     * Annotation matches are based upon GO:ID match and beginning and ending indexes for a term.
+     * @param craft - map of CRAFT annotations to each file
+     * @param tool - map of tool annotations to each file
+     * @return map of total and partial annotation match counts to each file
+     */
+    private static Map<String, int[]> annotationCounter(Map<String, List<Annotation>> craft, Map<String,List<Annotation>> tool){
+        Map<String, int[]> countsperpaper = new HashMap<>();
+        int[] counts;
+        List<Annotation> craftannos, toolannos;
+
+        //pull craft keys and lists
+        for(String key: craft.keySet()){
+            craftannos = craft.get(key);
+            counts = new int[2]; //0 = total match; 1 = partial match.
+            //check if tool contains key
+            if(tool.containsKey(key)){
+                //pull list of annos and check against craft
+                toolannos = tool.get(key);
+                for(Annotation a: toolannos){
+                    for(Annotation b: craftannos){
+                        //if both contain same indexes
+                        if(a.getStartIndex() == b.getStartIndex() && a.getEndIndex() == b.getEndIndex()){
+                            //if both contain same GO:IDs
+                            if(a.getID().equals(b.getID())){
+                                counts[0]++; //both same, add to total match count
+                            }
+                            else{
+                                counts[1]++; //same ID, add to partial
+                            }
+                        }
+                        else if(a.getID().equals(b.getID())){
+                            counts[1]++; //same indexes, add to partial
+                        }
+                    }
+                }
+                countsperpaper.put(key, counts);
+            }
+        }
+        return countsperpaper;
+    }
+
+    /***
+     * totalAnnosInMap counts the total number of annotations for each paper.
+     * @param annotationMap - map of annotations to files
+     * @return map of total annotations for each file
+     */
+    private static Map<String, Integer> totalAnnosInMap(Map<String, List<Annotation>> annotationMap){
+        int total;
+        List<Annotation> annos;
+        Map<String, Integer> counts = new HashMap<>();
+
+        for(String key: annotationMap.keySet()){
+            annos = annotationMap.get(key);
+            total = annos.size();
+            counts.put(key, total);
+        }
+        return counts;
+    }
+
+    /***
+     * annotationAccuracy returns the total and partial accuracies for a tool vs. the CRAFT corpus.
+     * @param tool_counts - map of total and partial annotation matches per file for a tool
+     * @param craft_counts - total number of annotations per file for the CRAFT corpus
+     * @return map of all total and partial accuracies per file for a tool
+     */
+    private static Map<String, double[]> annotationAccuracy(Map<String, int[]> tool_counts, Map<String, Integer> craft_counts){
+        Map<String, double[]> all_accuracies = new HashMap<>();
+        double[] accuracies;
+        int[] annocounts;
+        int crafttotal;
+        double partial, total;
+
+        for(String key: tool_counts.keySet()){
+            accuracies = new double[2];
+            annocounts = tool_counts.get(key);
+            //compute accuracies tool
+            if(craft_counts.containsKey(key)){
+                crafttotal = craft_counts.get(key);
+                total = (double)(annocounts[0]/crafttotal); //not precise*******
+                partial = (double)(annocounts[1]/crafttotal);
+                accuracies[0] = total;
+                accuracies[1] = partial;
+            }
+            //if CRAFT doesn't contain file, set accuracy to -1
+            else{
+                accuracies[0] = -1;
+                accuracies[1] = -1;
+            }
+            all_accuracies.put(key, accuracies);
+        }
+        return all_accuracies;
     }
 }
