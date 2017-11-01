@@ -44,15 +44,18 @@ public class annotationCount {
         Map<String, List<Annotation>> ncbo_annos = pullAnnos(ncbo);
         Map<String, List<Annotation>> textpresso_annos = pullAnnos(textpresso);
 
-        //compare CRAFT annotations to tool annotations
-        Map<String, int[]> ncbo_counts = annotationCounter(craft_annos, ncbo_annos);
-        Map<String, int[]> textpresso_counts = annotationCounter(craft_annos, textpresso_annos);
         //get total number of annotations for CRAFT per file
         Map<String, Integer> craft_total_count = totalAnnosInMap(craft_annos);
-
+        //compare CRAFT annotations to tool annotations
+        Map<String, int[]> ncbo_counts = annotationCounter(craft_annos, ncbo_annos, craft_total_count);
+        Map<String, int[]> textpresso_counts = annotationCounter(craft_annos, textpresso_annos, craft_total_count);
+        //get accuracies of each tool; preserve new annotation count in the new map
         Map<String, double[]> ncbo_accuracies = annotationAccuracy(ncbo_counts, craft_total_count);
         Map<String, double[]> textpresso_accuracies = annotationAccuracy(textpresso_counts, craft_total_count);
-        boolean bool = true;
+
+        //calculate semantic similarity by mean
+        double ncbo_similarity_avg = averageSimilarity(ncbo_accuracies);
+        double textpresso_similarity_avg = averageSimilarity(textpresso_accuracies);
     }
 
     /***
@@ -252,7 +255,8 @@ public class annotationCount {
      * @param tool - map of tool annotations to each file
      * @return map of total and partial annotation match counts to each file
      */
-    private static Map<String, int[]> annotationCounter(Map<String, List<Annotation>> craft, Map<String,List<Annotation>> tool){
+    private static Map<String, int[]> annotationCounter(Map<String, List<Annotation>> craft, Map<String,List<Annotation>> tool,
+                                                        Map<String, Integer> craft_total_count){
         Map<String, int[]> countsperpaper = new HashMap<>();
         int[] counts;
         List<Annotation> craftannos, toolannos;
@@ -260,7 +264,7 @@ public class annotationCount {
         //pull craft keys and lists
         for(String key: craft.keySet()){
             craftannos = craft.get(key);
-            counts = new int[2]; //0 = total match; 1 = partial match.
+            counts = new int[3]; //0 = total match; 1 = partial match.
             //check if tool contains key
             if(tool.containsKey(key)){
                 //pull list of annos and check against craft
@@ -282,6 +286,7 @@ public class annotationCount {
                         }
                     }
                 }
+                counts[2] = (counts[0] + counts[1]) - craft_total_count.get(key);
                 countsperpaper.put(key, counts);
             }
         }
@@ -310,7 +315,7 @@ public class annotationCount {
      * annotationAccuracy returns the total and partial accuracies for a tool vs. the CRAFT corpus.
      * @param tool_counts - map of total and partial annotation matches per file for a tool
      * @param craft_counts - total number of annotations per file for the CRAFT corpus
-     * @return map of all total and partial accuracies per file for a tool
+     * @return map of all total and partial accuracies (and new annotation count) per file for a tool
      */
     private static Map<String, double[]> annotationAccuracy(Map<String, int[]> tool_counts, Map<String, Integer> craft_counts){
         Map<String, double[]> all_accuracies = new HashMap<>();
@@ -320,15 +325,16 @@ public class annotationCount {
         double partial, total;
 
         for(String key: tool_counts.keySet()){
-            accuracies = new double[2];
+            accuracies = new double[3];
             annocounts = tool_counts.get(key);
-            //compute accuracies tool
+            //compute accuracies for tool
             if(craft_counts.containsKey(key)){
                 crafttotal = craft_counts.get(key);
                 total = (double)(annocounts[0]/crafttotal); //not precise*******
-                partial = (double)(annocounts[1]/crafttotal);
+                partial = (double)(annocounts[1]/crafttotal); //not precise******
                 accuracies[0] = total;
                 accuracies[1] = partial;
+                accuracies[2] = annocounts[2]; //not a precision; total count of new annotations
             }
             //if CRAFT doesn't contain file, set accuracy to -1
             else{
@@ -338,5 +344,24 @@ public class annotationCount {
             all_accuracies.put(key, accuracies);
         }
         return all_accuracies;
+    }
+
+    /***
+     * averageSimilarity calculates the average number of annotations that a tool will produce compared to the CRAFT corpus
+     * @param tool_accuracies - map of all total and partial accuracies (and new annotation count) per file for a tool
+     * @return mean of partial accuracies for a tool
+     */
+    private static double averageSimilarity(Map<String, double[]> tool_accuracies){
+        double mean, sum = 0.0;
+        double[] accuracies;
+
+        //sum all partial annotation accuracies
+        for(String key: tool_accuracies.keySet()){
+            accuracies = tool_accuracies.get(key);
+            sum += accuracies[1];
+        }
+        //divide by total number of papers
+        mean = sum/tool_accuracies.size();
+        return mean;
     }
 }
