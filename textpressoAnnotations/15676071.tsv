@@ -2,458 +2,458 @@ StartIndex	EndIndex	GO:ID	Term	OntologyTerm
 0	14	GO:0009987	Synaptogenesis	cellular process
 0	14	GO:0016043	Synaptogenesis	cellular component organization
 33	42	GO:0008152	formation	metabolic process
-360	365	GO:0005623	cells	cell
-382	384	GO:0065007	to	biological regulation
-382	384	GO:0009987	to	cellular process
-472	485	GO:0009987	transcription	cellular process
-472	485	GO:0008152	transcription	metabolic process
-489	491	GO:0065007	to	biological regulation
-489	491	GO:0009987	to	cellular process
-545	547	GO:0065007	to	biological regulation
-545	547	GO:0009987	to	cellular process
-738	751	GO:0032502	morphogenesis	developmental process
-762	764	GO:0065007	to	biological regulation
-762	764	GO:0009987	to	cellular process
-809	811	GO:0065007	to	biological regulation
-809	811	GO:0009987	to	cellular process
-843	860	GO:0065007	phototransduction	biological regulation
-843	860	GO:0050896	phototransduction	response to stimulus
-843	860	GO:0009987	phototransduction	cellular process
-843	860	GO:0023046	phototransduction	signaling process
-1021	1035	GO:0009987	synaptogenesis	cellular process
-1021	1035	GO:0016043	synaptogenesis	cellular component organization
-1257	1262	GO:0005623	cells	cell
-1286	1292	GO:0032501	vision	multicellular organismal process
-1372	1379	GO:0065007	neurons	biological regulation
-1372	1379	GO:0016265	neurons	death
-1372	1379	GO:0009987	neurons	cellular process
-1548	1550	GO:0065007	to	biological regulation
-1548	1550	GO:0009987	to	cellular process
-1686	1703	GO:0065007	phototransduction	biological regulation
-1686	1703	GO:0050896	phototransduction	response to stimulus
-1686	1703	GO:0009987	phototransduction	cellular process
-1686	1703	GO:0023046	phototransduction	signaling process
-1715	1717	GO:0065007	to	biological regulation
-1715	1717	GO:0009987	to	cellular process
-2117	2132	GO:0008152	gene expression	metabolic process
-2253	2258	GO:0005623	cells	cell
-2267	2270	GO:0044464	rod	cell part
-2267	2270	GO:0044422	rod	organelle part
-2274	2276	GO:0065007	to	biological regulation
-2274	2276	GO:0009987	to	cellular process
-2345	2352	GO:0003824	protein	catalytic activity
-2409	2411	GO:0065007	to	biological regulation
-2409	2411	GO:0009987	to	cellular process
-2412	2415	GO:0044464	rod	cell part
-2412	2415	GO:0044422	rod	organelle part
-2419	2421	GO:0065007	to	biological regulation
-2419	2421	GO:0009987	to	cellular process
-2426	2428	GO:0065007	to	biological regulation
-2426	2428	GO:0009987	to	cellular process
-2882	2887	GO:0005623	cells	cell
-3046	3052	GO:0032501	vision	multicellular organismal process
-3438	3440	GO:0065007	to	biological regulation
-3438	3440	GO:0009987	to	cellular process
-3567	3574	GO:0003824	protein	catalytic activity
-3620	3622	GO:0065007	to	biological regulation
-3620	3622	GO:0009987	to	cellular process
-4105	4107	GO:0065007	to	biological regulation
-4105	4107	GO:0009987	to	cellular process
-4279	4281	GO:0065007	to	biological regulation
-4279	4281	GO:0009987	to	cellular process
-4442	4447	GO:0005623	cells	cell
-4531	4536	GO:0005623	cells	cell
-4580	4587	GO:0065007	neurons	biological regulation
-4580	4587	GO:0016265	neurons	death
-4580	4587	GO:0009987	neurons	cellular process
-4636	4644	GO:0003824	proteins	catalytic activity
-4661	4678	GO:0065007	phototransduction	biological regulation
-4661	4678	GO:0050896	phototransduction	response to stimulus
-4661	4678	GO:0009987	phototransduction	cellular process
-4661	4678	GO:0023046	phototransduction	signaling process
-4752	4759	GO:0003824	protein	catalytic activity
-4801	4803	GO:0065007	to	biological regulation
-4801	4803	GO:0009987	to	cellular process
-4959	4964	GO:0005623	cells	cell
-4974	4977	GO:0044422	Rod	organelle part
-4974	4977	GO:0044464	Rod	cell part
-5014	5021	GO:0045202	synapse	synapse
-5027	5030	GO:0044464	rod	cell part
-5027	5030	GO:0044422	rod	organelle part
-5039	5048	GO:0044464	dendrites	cell part
-5082	5087	GO:0005623	cells	cell
-5094	5101	GO:0045202	synapse	synapse
-5166	5175	GO:0044464	cytoplasm	cell part
-5209	5217	GO:0045202	synapses	synapse
-5227	5236	GO:0044464	dendrites	cell part
-5256	5261	GO:0005623	cells	cell
-5256	5261	GO:0005623	cells	cell
-5312	5321	GO:0044464	dendrites	cell part
-5342	5347	GO:0005623	cells	cell
-5376	5385	GO:0008152	formation	metabolic process
-5407	5415	GO:0045202	synapses	synapse
-5476	5483	GO:0003824	protein	catalytic activity
-5561	5563	GO:0065007	to	biological regulation
-5561	5563	GO:0009987	to	cellular process
-5750	5757	GO:0045202	synapse	synapse
-5758	5767	GO:0008152	formation	metabolic process
-5758	5767	GO:0008152	formation	metabolic process
-6170	6175	GO:0005623	cells	cell
-6253	6255	GO:0065007	to	biological regulation
-6253	6255	GO:0009987	to	cellular process
-6270	6284	GO:0009987	synaptogenesis	cellular process
-6270	6284	GO:0016043	synaptogenesis	cellular component organization
-6355	6362	GO:0045202	synapse	synapse
-6363	6372	GO:0008152	formation	metabolic process
-6473	6475	GO:0065007	to	biological regulation
-6473	6475	GO:0009987	to	cellular process
-6488	6490	GO:0065007	to	biological regulation
-6488	6490	GO:0009987	to	cellular process
-6699	6726	GO:0009987	photoreceptor morphogenesis	cellular process
-6699	6726	GO:0032502	photoreceptor morphogenesis	developmental process
-6713	6726	GO:0032502	morphogenesis	developmental process
-7287	7299	GO:0044464	mitochondria	cell part
-7287	7299	GO:0043226	mitochondria	organelle
-7418	7426	GO:0043226	vacuoles	organelle
-7418	7426	GO:0044464	vacuoles	cell part
-7439	7451	GO:0044464	mitochondria	cell part
-7439	7451	GO:0043226	mitochondria	organelle
-7872	7884	GO:0044464	mitochondria	cell part
-7872	7884	GO:0043226	mitochondria	organelle
-8023	8051	GO:0044464	Photoreceptor inner segments	cell part
-8109	8115	GO:0044464	cilium	cell part
-8168	8179	GO:0032991	microtubule	macromolecular complex
-8168	8179	GO:0044464	microtubule	cell part
-8168	8179	GO:0044422	microtubule	organelle part
-8399	8410	GO:0032991	microtubule	macromolecular complex
-8399	8410	GO:0044464	microtubule	cell part
-8399	8410	GO:0044422	microtubule	organelle part
-8463	8469	GO:0044464	cilium	cell part
-8667	8669	GO:0065007	to	biological regulation
-8667	8669	GO:0009987	to	cellular process
-8684	8693	GO:0008152	formation	metabolic process
-8695	8707	GO:0016043	ciliogenesis	cellular component organization
-8695	8707	GO:0009987	ciliogenesis	cellular process
-8744	8746	GO:0065007	to	biological regulation
-8744	8746	GO:0009987	to	cellular process
-9070	9082	GO:0016043	ciliogenesis	cellular component organization
-9070	9082	GO:0009987	ciliogenesis	cellular process
-9236	9242	GO:0044464	cilium	cell part
-9305	9311	GO:0044464	cilium	cell part
-9305	9311	GO:0044464	cilium	cell part
-9361	9365	GO:0005623	cell	cell
-9361	9373	GO:0043226	cell nucleus	organelle
-9361	9373	GO:0044464	cell nucleus	cell part
-9366	9373	GO:0043226	nucleus	organelle
-9366	9373	GO:0044464	nucleus	cell part
-9515	9523	GO:0043226	vesicles	organelle
-9552	9554	GO:0065007	to	biological regulation
-9552	9554	GO:0009987	to	cellular process
-9663	9669	GO:0044464	cilium	cell part
-9766	9777	GO:0032991	microtubule	macromolecular complex
-9766	9777	GO:0044464	microtubule	cell part
-9766	9777	GO:0044422	microtubule	organelle part
-9860	9868	GO:0043226	vesicles	organelle
-9933	9935	GO:0065007	to	biological regulation
-9933	9935	GO:0009987	to	cellular process
-10477	10492	GO:0044464	heterochromatin	cell part
-10477	10492	GO:0044422	heterochromatin	organelle part
-10515	10517	GO:0065007	to	biological regulation
-10515	10517	GO:0009987	to	cellular process
-10694	10702	GO:0043226	vesicles	organelle
-10725	10727	GO:0065007	to	biological regulation
-10725	10727	GO:0009987	to	cellular process
-10762	10764	GO:0065007	to	biological regulation
-10762	10764	GO:0009987	to	cellular process
-10762	10764	GO:0065007	to	biological regulation
-10762	10764	GO:0009987	to	cellular process
-10958	10971	GO:0032502	morphogenesis	developmental process
-11126	11154	GO:0044464	photoreceptor inner segments	cell part
-11296	11302	GO:0044464	cilium	cell part
-11575	11585	GO:0003824	elongating	catalytic activity
-11960	11966	GO:0044464	cilium	cell part
-12561	12570	GO:0008152	formation	metabolic process
-12698	12707	GO:0008152	formation	metabolic process
-12730	12743	GO:0032502	morphogenesis	developmental process
-13426	13432	GO:0044464	cilium	cell part
-13655	13657	GO:0065007	to	biological regulation
-13655	13657	GO:0009987	to	cellular process
-13655	13657	GO:0065007	to	biological regulation
-13655	13657	GO:0009987	to	cellular process
-13662	13664	GO:0065007	to	biological regulation
-13662	13664	GO:0009987	to	cellular process
-13677	13679	GO:0065007	to	biological regulation
-13677	13679	GO:0009987	to	cellular process
-13684	13686	GO:0065007	to	biological regulation
-13684	13686	GO:0009987	to	cellular process
-14769	14775	GO:0044464	cilium	cell part
-14839	14848	GO:0008152	formation	metabolic process
-14986	14990	GO:0044464	rods	cell part
-14986	14990	GO:0044422	rods	organelle part
-14999	15008	GO:0008152	formation	metabolic process
-15017	15020	GO:0044464	rod	cell part
-15017	15020	GO:0044422	rod	organelle part
-15090	15092	GO:0065007	To	biological regulation
-15090	15092	GO:0009987	To	cellular process
-15154	15162	GO:0045202	synapses	synapse
-15234	15237	GO:0044464	rod	cell part
-15234	15237	GO:0044422	rod	organelle part
-15384	15391	GO:0045202	synapse	synapse
-15482	15487	GO:0005623	cells	cell
-15579	15588	GO:0044464	dendrites	cell part
-15592	15595	GO:0044464	rod	cell part
-15592	15595	GO:0044422	rod	organelle part
-15604	15609	GO:0005623	cells	cell
-15742	15750	GO:0045202	synapses	synapse
-15802	15806	GO:0005623	cell	cell
-16081	16098	GO:0044464	synaptic vesicles	cell part
-16081	16098	GO:0044456	synaptic vesicles	synapse part
-16081	16098	GO:0043226	synaptic vesicles	organelle
-16090	16098	GO:0043226	vesicles	organelle
-16183	16190	GO:0045202	synapse	synapse
-16303	16305	GO:0065007	to	biological regulation
-16303	16305	GO:0009987	to	cellular process
-16366	16368	GO:0065007	to	biological regulation
-16366	16368	GO:0009987	to	cellular process
-16373	16388	GO:0044464	plasma membrane	cell part
-16380	16388	GO:0044464	membrane	cell part
-16575	16578	GO:0044464	rod	cell part
-16575	16578	GO:0044422	rod	organelle part
-16704	16711	GO:0045202	synapse	synapse
-16809	16817	GO:0045202	synapses	synapse
-17236	17243	GO:0045202	synapse	synapse
-17280	17282	GO:0065007	to	biological regulation
-17280	17282	GO:0009987	to	cellular process
-17439	17441	GO:0065007	to	biological regulation
-17439	17441	GO:0009987	to	cellular process
-17613	17616	GO:0044464	rod	cell part
-17613	17616	GO:0044422	rod	organelle part
-17659	17666	GO:0045202	synapse	synapse
-17754	17757	GO:0044464	rod	cell part
-17754	17757	GO:0044422	rod	organelle part
-17840	17845	GO:0005623	cells	cell
-17865	17868	GO:0044464	rod	cell part
-17865	17868	GO:0044422	rod	organelle part
-17928	17936	GO:0044464	dendrite	cell part
-17998	18015	GO:0044464	synaptic vesicles	cell part
-17998	18015	GO:0044456	synaptic vesicles	synapse part
-17998	18015	GO:0043226	synaptic vesicles	organelle
-18007	18015	GO:0043226	vesicles	organelle
-18021	18035	GO:0043226	coated vesicle	organelle
-18021	18035	GO:0044464	coated vesicle	cell part
-18028	18035	GO:0043226	vesicle	organelle
-18057	18061	GO:0005623	cell	cell
-18057	18070	GO:0044464	cell membrane	cell part
-18062	18070	GO:0044464	membrane	cell part
-18211	18228	GO:0044464	synaptic vesicles	cell part
-18211	18228	GO:0044456	synaptic vesicles	synapse part
-18211	18228	GO:0043226	synaptic vesicles	organelle
-18220	18228	GO:0043226	vesicles	organelle
-18322	18329	GO:0045202	synapse	synapse
-18438	18440	GO:0065007	to	biological regulation
-18438	18440	GO:0009987	to	cellular process
-18554	18562	GO:0044464	membrane	cell part
-18668	18672	GO:0005623	cell	cell
-18685	18689	GO:0005623	cell	cell
-18694	18701	GO:0043226	nucleus	organelle
-18694	18701	GO:0044464	nucleus	cell part
-19152	19165	GO:0032502	morphogenesis	developmental process
-19242	19251	GO:0008152	formation	metabolic process
-19314	19321	GO:0045202	synapse	synapse
+366	371	GO:0005623	cells	cell
+388	390	GO:0065007	to	biological regulation
+388	390	GO:0009987	to	cellular process
+478	491	GO:0009987	transcription	cellular process
+478	491	GO:0008152	transcription	metabolic process
+495	497	GO:0065007	to	biological regulation
+495	497	GO:0009987	to	cellular process
+555	557	GO:0065007	to	biological regulation
+555	557	GO:0009987	to	cellular process
+748	761	GO:0032502	morphogenesis	developmental process
+772	774	GO:0065007	to	biological regulation
+772	774	GO:0009987	to	cellular process
+819	821	GO:0065007	to	biological regulation
+819	821	GO:0009987	to	cellular process
+853	870	GO:0065007	phototransduction	biological regulation
+853	870	GO:0050896	phototransduction	response to stimulus
+853	870	GO:0009987	phototransduction	cellular process
+853	870	GO:0023046	phototransduction	signaling process
+1035	1049	GO:0009987	synaptogenesis	cellular process
+1035	1049	GO:0016043	synaptogenesis	cellular component organization
+1275	1280	GO:0005623	cells	cell
+1304	1310	GO:0032501	vision	multicellular organismal process
+1390	1397	GO:0065007	neurons	biological regulation
+1390	1397	GO:0016265	neurons	death
+1390	1397	GO:0009987	neurons	cellular process
+1566	1568	GO:0065007	to	biological regulation
+1566	1568	GO:0009987	to	cellular process
+1706	1723	GO:0065007	phototransduction	biological regulation
+1706	1723	GO:0050896	phototransduction	response to stimulus
+1706	1723	GO:0009987	phototransduction	cellular process
+1706	1723	GO:0023046	phototransduction	signaling process
+1735	1737	GO:0065007	to	biological regulation
+1735	1737	GO:0009987	to	cellular process
+2137	2152	GO:0008152	gene expression	metabolic process
+2273	2278	GO:0005623	cells	cell
+2287	2290	GO:0044464	rod	cell part
+2287	2290	GO:0044422	rod	organelle part
+2294	2296	GO:0065007	to	biological regulation
+2294	2296	GO:0009987	to	cellular process
+2365	2372	GO:0003824	protein	catalytic activity
+2429	2431	GO:0065007	to	biological regulation
+2429	2431	GO:0009987	to	cellular process
+2432	2435	GO:0044464	rod	cell part
+2432	2435	GO:0044422	rod	organelle part
+2439	2441	GO:0065007	to	biological regulation
+2439	2441	GO:0009987	to	cellular process
+2446	2448	GO:0065007	to	biological regulation
+2446	2448	GO:0009987	to	cellular process
+2902	2907	GO:0005623	cells	cell
+3068	3074	GO:0032501	vision	multicellular organismal process
+3460	3462	GO:0065007	to	biological regulation
+3460	3462	GO:0009987	to	cellular process
+3589	3596	GO:0003824	protein	catalytic activity
+3642	3644	GO:0065007	to	biological regulation
+3642	3644	GO:0009987	to	cellular process
+4127	4129	GO:0065007	to	biological regulation
+4127	4129	GO:0009987	to	cellular process
+4301	4303	GO:0065007	to	biological regulation
+4301	4303	GO:0009987	to	cellular process
+4466	4471	GO:0005623	cells	cell
+4555	4560	GO:0005623	cells	cell
+4604	4611	GO:0065007	neurons	biological regulation
+4604	4611	GO:0016265	neurons	death
+4604	4611	GO:0009987	neurons	cellular process
+4660	4668	GO:0003824	proteins	catalytic activity
+4685	4702	GO:0065007	phototransduction	biological regulation
+4685	4702	GO:0050896	phototransduction	response to stimulus
+4685	4702	GO:0009987	phototransduction	cellular process
+4685	4702	GO:0023046	phototransduction	signaling process
+4776	4783	GO:0003824	protein	catalytic activity
+4825	4827	GO:0065007	to	biological regulation
+4825	4827	GO:0009987	to	cellular process
+4983	4988	GO:0005623	cells	cell
+4998	5001	GO:0044422	Rod	organelle part
+4998	5001	GO:0044464	Rod	cell part
+5038	5045	GO:0045202	synapse	synapse
+5051	5054	GO:0044464	rod	cell part
+5051	5054	GO:0044422	rod	organelle part
+5063	5072	GO:0044464	dendrites	cell part
+5106	5111	GO:0005623	cells	cell
+5118	5125	GO:0045202	synapse	synapse
+5190	5199	GO:0044464	cytoplasm	cell part
+5233	5241	GO:0045202	synapses	synapse
+5251	5260	GO:0044464	dendrites	cell part
+5280	5285	GO:0005623	cells	cell
+5280	5285	GO:0005623	cells	cell
+5336	5345	GO:0044464	dendrites	cell part
+5366	5371	GO:0005623	cells	cell
+5400	5409	GO:0008152	formation	metabolic process
+5431	5439	GO:0045202	synapses	synapse
+5500	5507	GO:0003824	protein	catalytic activity
+5585	5587	GO:0065007	to	biological regulation
+5585	5587	GO:0009987	to	cellular process
+5776	5783	GO:0045202	synapse	synapse
+5784	5793	GO:0008152	formation	metabolic process
+5784	5793	GO:0008152	formation	metabolic process
+6196	6201	GO:0005623	cells	cell
+6279	6281	GO:0065007	to	biological regulation
+6279	6281	GO:0009987	to	cellular process
+6296	6310	GO:0009987	synaptogenesis	cellular process
+6296	6310	GO:0016043	synaptogenesis	cellular component organization
+6381	6388	GO:0045202	synapse	synapse
+6389	6398	GO:0008152	formation	metabolic process
+6505	6507	GO:0065007	to	biological regulation
+6505	6507	GO:0009987	to	cellular process
+6520	6522	GO:0065007	to	biological regulation
+6520	6522	GO:0009987	to	cellular process
+6731	6758	GO:0009987	photoreceptor morphogenesis	cellular process
+6731	6758	GO:0032502	photoreceptor morphogenesis	developmental process
+6745	6758	GO:0032502	morphogenesis	developmental process
+7319	7331	GO:0044464	mitochondria	cell part
+7319	7331	GO:0043226	mitochondria	organelle
+7450	7458	GO:0043226	vacuoles	organelle
+7450	7458	GO:0044464	vacuoles	cell part
+7471	7483	GO:0044464	mitochondria	cell part
+7471	7483	GO:0043226	mitochondria	organelle
+7912	7924	GO:0044464	mitochondria	cell part
+7912	7924	GO:0043226	mitochondria	organelle
+8065	8093	GO:0044464	Photoreceptor inner segments	cell part
+8151	8157	GO:0044464	cilium	cell part
+8210	8221	GO:0032991	microtubule	macromolecular complex
+8210	8221	GO:0044464	microtubule	cell part
+8210	8221	GO:0044422	microtubule	organelle part
+8441	8452	GO:0032991	microtubule	macromolecular complex
+8441	8452	GO:0044464	microtubule	cell part
+8441	8452	GO:0044422	microtubule	organelle part
+8505	8511	GO:0044464	cilium	cell part
+8709	8711	GO:0065007	to	biological regulation
+8709	8711	GO:0009987	to	cellular process
+8726	8735	GO:0008152	formation	metabolic process
+8737	8749	GO:0016043	ciliogenesis	cellular component organization
+8737	8749	GO:0009987	ciliogenesis	cellular process
+8786	8788	GO:0065007	to	biological regulation
+8786	8788	GO:0009987	to	cellular process
+9116	9128	GO:0016043	ciliogenesis	cellular component organization
+9116	9128	GO:0009987	ciliogenesis	cellular process
+9282	9288	GO:0044464	cilium	cell part
+9351	9357	GO:0044464	cilium	cell part
+9351	9357	GO:0044464	cilium	cell part
+9407	9411	GO:0005623	cell	cell
+9407	9419	GO:0043226	cell nucleus	organelle
+9407	9419	GO:0044464	cell nucleus	cell part
+9412	9419	GO:0043226	nucleus	organelle
+9412	9419	GO:0044464	nucleus	cell part
+9561	9569	GO:0043226	vesicles	organelle
+9598	9600	GO:0065007	to	biological regulation
+9598	9600	GO:0009987	to	cellular process
+9709	9715	GO:0044464	cilium	cell part
+9812	9823	GO:0032991	microtubule	macromolecular complex
+9812	9823	GO:0044464	microtubule	cell part
+9812	9823	GO:0044422	microtubule	organelle part
+9906	9914	GO:0043226	vesicles	organelle
+9979	9981	GO:0065007	to	biological regulation
+9979	9981	GO:0009987	to	cellular process
+10525	10540	GO:0044464	heterochromatin	cell part
+10525	10540	GO:0044422	heterochromatin	organelle part
+10563	10565	GO:0065007	to	biological regulation
+10563	10565	GO:0009987	to	cellular process
+10742	10750	GO:0043226	vesicles	organelle
+10773	10775	GO:0065007	to	biological regulation
+10773	10775	GO:0009987	to	cellular process
+10810	10812	GO:0065007	to	biological regulation
+10810	10812	GO:0009987	to	cellular process
+10810	10812	GO:0065007	to	biological regulation
+10810	10812	GO:0009987	to	cellular process
+11008	11021	GO:0032502	morphogenesis	developmental process
+11176	11204	GO:0044464	photoreceptor inner segments	cell part
+11346	11352	GO:0044464	cilium	cell part
+11625	11635	GO:0003824	elongating	catalytic activity
+12010	12016	GO:0044464	cilium	cell part
+12611	12620	GO:0008152	formation	metabolic process
+12748	12757	GO:0008152	formation	metabolic process
+12784	12797	GO:0032502	morphogenesis	developmental process
+13480	13486	GO:0044464	cilium	cell part
+13713	13715	GO:0065007	to	biological regulation
+13713	13715	GO:0009987	to	cellular process
+13713	13715	GO:0065007	to	biological regulation
+13713	13715	GO:0009987	to	cellular process
+13720	13722	GO:0065007	to	biological regulation
+13720	13722	GO:0009987	to	cellular process
+13735	13737	GO:0065007	to	biological regulation
+13735	13737	GO:0009987	to	cellular process
+13742	13744	GO:0065007	to	biological regulation
+13742	13744	GO:0009987	to	cellular process
+14833	14839	GO:0044464	cilium	cell part
+14905	14914	GO:0008152	formation	metabolic process
+15054	15058	GO:0044464	rods	cell part
+15054	15058	GO:0044422	rods	organelle part
+15067	15076	GO:0008152	formation	metabolic process
+15085	15088	GO:0044464	rod	cell part
+15085	15088	GO:0044422	rod	organelle part
+15158	15160	GO:0065007	To	biological regulation
+15158	15160	GO:0009987	To	cellular process
+15222	15230	GO:0045202	synapses	synapse
+15302	15305	GO:0044464	rod	cell part
+15302	15305	GO:0044422	rod	organelle part
+15452	15459	GO:0045202	synapse	synapse
+15550	15555	GO:0005623	cells	cell
+15647	15656	GO:0044464	dendrites	cell part
+15660	15663	GO:0044464	rod	cell part
+15660	15663	GO:0044422	rod	organelle part
+15672	15677	GO:0005623	cells	cell
+15810	15818	GO:0045202	synapses	synapse
+15870	15874	GO:0005623	cell	cell
+16149	16166	GO:0044464	synaptic vesicles	cell part
+16149	16166	GO:0044456	synaptic vesicles	synapse part
+16149	16166	GO:0043226	synaptic vesicles	organelle
+16158	16166	GO:0043226	vesicles	organelle
+16251	16258	GO:0045202	synapse	synapse
+16371	16373	GO:0065007	to	biological regulation
+16371	16373	GO:0009987	to	cellular process
+16434	16436	GO:0065007	to	biological regulation
+16434	16436	GO:0009987	to	cellular process
+16441	16456	GO:0044464	plasma membrane	cell part
+16448	16456	GO:0044464	membrane	cell part
+16647	16650	GO:0044464	rod	cell part
+16647	16650	GO:0044422	rod	organelle part
+16776	16783	GO:0045202	synapse	synapse
+16881	16889	GO:0045202	synapses	synapse
+17308	17315	GO:0045202	synapse	synapse
+17352	17354	GO:0065007	to	biological regulation
+17352	17354	GO:0009987	to	cellular process
+17511	17513	GO:0065007	to	biological regulation
+17511	17513	GO:0009987	to	cellular process
+17689	17692	GO:0044464	rod	cell part
+17689	17692	GO:0044422	rod	organelle part
+17735	17742	GO:0045202	synapse	synapse
+17830	17833	GO:0044464	rod	cell part
+17830	17833	GO:0044422	rod	organelle part
+17916	17921	GO:0005623	cells	cell
+17941	17944	GO:0044464	rod	cell part
+17941	17944	GO:0044422	rod	organelle part
+18004	18012	GO:0044464	dendrite	cell part
+18074	18091	GO:0044464	synaptic vesicles	cell part
+18074	18091	GO:0044456	synaptic vesicles	synapse part
+18074	18091	GO:0043226	synaptic vesicles	organelle
+18083	18091	GO:0043226	vesicles	organelle
+18097	18111	GO:0043226	coated vesicle	organelle
+18097	18111	GO:0044464	coated vesicle	cell part
+18104	18111	GO:0043226	vesicle	organelle
+18133	18137	GO:0005623	cell	cell
+18133	18146	GO:0044464	cell membrane	cell part
+18138	18146	GO:0044464	membrane	cell part
+18287	18304	GO:0044464	synaptic vesicles	cell part
+18287	18304	GO:0044456	synaptic vesicles	synapse part
+18287	18304	GO:0043226	synaptic vesicles	organelle
+18296	18304	GO:0043226	vesicles	organelle
+18398	18405	GO:0045202	synapse	synapse
+18514	18516	GO:0065007	to	biological regulation
+18514	18516	GO:0009987	to	cellular process
+18630	18638	GO:0044464	membrane	cell part
+18744	18748	GO:0005623	cell	cell
+18761	18765	GO:0005623	cell	cell
+18770	18777	GO:0043226	nucleus	organelle
+18770	18777	GO:0044464	nucleus	cell part
+19232	19245	GO:0032502	morphogenesis	developmental process
 19322	19331	GO:0008152	formation	metabolic process
-19371	19385	GO:0009987	synaptogenesis	cellular process
-19371	19385	GO:0016043	synaptogenesis	cellular component organization
-19471	19484	GO:0032502	morphogenesis	developmental process
-19559	19561	GO:0065007	to	biological regulation
-19559	19561	GO:0009987	to	cellular process
-19579	19588	GO:0008152	formation	metabolic process
-19681	19683	GO:0065007	to	biological regulation
-19681	19683	GO:0009987	to	cellular process
-19711	19720	GO:0008152	formation	metabolic process
-19763	19790	GO:0009987	photoreceptor morphogenesis	cellular process
-19763	19790	GO:0032502	photoreceptor morphogenesis	developmental process
-19777	19790	GO:0032502	morphogenesis	developmental process
-19802	19804	GO:0065007	to	biological regulation
-19802	19804	GO:0009987	to	cellular process
-19856	19858	GO:0065007	to	biological regulation
-19856	19858	GO:0009987	to	cellular process
-19995	20003	GO:0043226	vesicles	organelle
-20013	20015	GO:0065007	to	biological regulation
-20013	20015	GO:0009987	to	cellular process
-20020	20029	GO:0008152	breakdown	metabolic process
-20047	20056	GO:0044464	membranes	cell part
-20090	20092	GO:0065007	to	biological regulation
-20090	20092	GO:0009987	to	cellular process
-20173	20182	GO:0008152	breakdown	metabolic process
-20211	20216	GO:0005623	cells	cell
-20351	20358	GO:0003824	protein	catalytic activity
-20368	20376	GO:0043226	vesicles	organelle
-20471	20479	GO:0043226	vesicles	organelle
-20487	20489	GO:0065007	to	biological regulation
-20487	20489	GO:0009987	to	cellular process
-20576	20582	GO:0040007	growth	growth
-20665	20671	GO:0044464	cilium	cell part
-20732	20740	GO:0003824	proteins	catalytic activity
-20780	20788	GO:0003824	proteins	catalytic activity
-21010	21023	GO:0009987	transcription	cellular process
-21010	21023	GO:0008152	transcription	metabolic process
-21256	21271	GO:0008152	gene expression	metabolic process
-21486	21493	GO:0009987	reduced	cellular process
-21486	21493	GO:0008152	reduced	metabolic process
-21486	21493	GO:0005215	reduced	transporter activity
-21486	21493	GO:0051234	reduced	establishment of localization
-21598	21601	GO:0044464	rod	cell part
-21598	21601	GO:0044422	rod	organelle part
-21892	21902	GO:0044464	rhabdomere	cell part
-21926	21928	GO:0065007	to	biological regulation
-21926	21928	GO:0009987	to	cellular process
-21962	21964	GO:0065007	to	biological regulation
-21962	21964	GO:0009987	to	cellular process
-22173	22183	GO:0044464	rhabdomere	cell part
-22173	22195	GO:0009987	rhabdomere development	cellular process
-22173	22195	GO:0016043	rhabdomere development	cellular component organization
-22293	22295	GO:0065007	to	biological regulation
-22293	22295	GO:0009987	to	cellular process
-22450	22452	GO:0065007	to	biological regulation
-22450	22452	GO:0009987	to	cellular process
-22713	22723	GO:0044464	rhabdomere	cell part
-22724	22737	GO:0032502	morphogenesis	developmental process
-22881	22885	GO:0044464	rods	cell part
-22881	22885	GO:0044422	rods	organelle part
-23086	23099	GO:0032502	morphogenesis	developmental process
-23262	23264	GO:0065007	to	biological regulation
-23262	23264	GO:0009987	to	cellular process
-23352	23379	GO:0009987	photoreceptor morphogenesis	cellular process
-23352	23379	GO:0032502	photoreceptor morphogenesis	developmental process
-23366	23379	GO:0032502	morphogenesis	developmental process
-23622	23624	GO:0065007	to	biological regulation
-23622	23624	GO:0009987	to	cellular process
-23709	23725	GO:0008152	lipid metabolism	metabolic process
-23715	23725	GO:0008152	metabolism	metabolic process
-23727	23734	GO:0003824	protein	catalytic activity
-23727	23742	GO:0009987	protein folding	cellular process
-23727	23742	GO:0008152	protein folding	metabolic process
-23747	23756	GO:0051234	transport	establishment of localization
-24003	24005	GO:0065007	to	biological regulation
-24003	24005	GO:0009987	to	cellular process
-24047	24055	GO:0003824	proteins	catalytic activity
-24065	24067	GO:0065007	to	biological regulation
-24065	24067	GO:0009987	to	cellular process
-24214	24216	GO:0065007	to	biological regulation
-24214	24216	GO:0009987	to	cellular process
-24265	24277	GO:0016043	ciliogenesis	cellular component organization
-24265	24277	GO:0009987	ciliogenesis	cellular process
-24265	24277	GO:0016043	ciliogenesis	cellular component organization
-24265	24277	GO:0009987	ciliogenesis	cellular process
-24455	24482	GO:0009987	photoreceptor morphogenesis	cellular process
-24455	24482	GO:0032502	photoreceptor morphogenesis	developmental process
-24469	24482	GO:0032502	morphogenesis	developmental process
-24679	24693	GO:0009987	synaptogenesis	cellular process
-24679	24693	GO:0016043	synaptogenesis	cellular component organization
-24762	24764	GO:0065007	to	biological regulation
-24762	24764	GO:0009987	to	cellular process
-24796	24798	GO:0065007	to	biological regulation
-24796	24798	GO:0009987	to	cellular process
-24860	24874	GO:0009987	Synaptogenesis	cellular process
-24860	24874	GO:0016043	Synaptogenesis	cellular component organization
-24987	24995	GO:0045202	synapses	synapse
-25005	25007	GO:0065007	to	biological regulation
-25005	25007	GO:0009987	to	cellular process
-25282	25290	GO:0045202	synapses	synapse
-25304	25306	GO:0065007	to	biological regulation
-25304	25306	GO:0009987	to	cellular process
-25377	25391	GO:0009987	synaptogenesis	cellular process
-25377	25391	GO:0016043	synaptogenesis	cellular component organization
-25434	25443	GO:0008152	formation	metabolic process
-25585	25602	GO:0065007	phototransduction	biological regulation
-25585	25602	GO:0050896	phototransduction	response to stimulus
-25585	25602	GO:0009987	phototransduction	cellular process
-25585	25602	GO:0023046	phototransduction	signaling process
-25636	25638	GO:0065007	to	biological regulation
-25636	25638	GO:0009987	to	cellular process
-25675	25682	GO:0045202	synapse	synapse
-25709	25716	GO:0045202	synapse	synapse
-25840	25862	GO:0060089	photoreceptor activity	molecular transducer activity
-25899	25916	GO:0065007	phototransduction	biological regulation
-25899	25916	GO:0050896	phototransduction	response to stimulus
-25899	25916	GO:0009987	phototransduction	cellular process
-25899	25916	GO:0023046	phototransduction	signaling process
-25921	25928	GO:0045202	synapse	synapse
-25929	25938	GO:0008152	formation	metabolic process
-26038	26040	GO:0065007	to	biological regulation
-26038	26040	GO:0009987	to	cellular process
-26124	26133	GO:0008152	formation	metabolic process
-26203	26210	GO:0045202	synapse	synapse
-26211	26220	GO:0008152	formation	metabolic process
-26389	26397	GO:0003824	proteins	catalytic activity
-26430	26432	GO:0065007	to	biological regulation
-26430	26432	GO:0009987	to	cellular process
-26941	26968	GO:0009987	photoreceptor morphogenesis	cellular process
-26941	26968	GO:0032502	photoreceptor morphogenesis	developmental process
-26955	26968	GO:0032502	morphogenesis	developmental process
-26997	27005	GO:0003824	proteins	catalytic activity
-27022	27024	GO:0065007	to	biological regulation
-27022	27024	GO:0009987	to	cellular process
-27172	27179	GO:0003824	protein	catalytic activity
-27435	27442	GO:0045202	synapse	synapse
-27507	27509	GO:0065007	to	biological regulation
-27507	27509	GO:0009987	to	cellular process
-27636	27647	GO:0032991	microtubule	macromolecular complex
-27636	27647	GO:0044464	microtubule	cell part
-27636	27647	GO:0044422	microtubule	organelle part
-27659	27666	GO:0003824	protein	catalytic activity
-27888	27890	GO:0065007	to	biological regulation
-27888	27890	GO:0009987	to	cellular process
-27996	28003	GO:0045202	synapse	synapse
-28036	28045	GO:0008152	formation	metabolic process
-28363	28370	GO:0009987	reduced	cellular process
-28363	28370	GO:0008152	reduced	metabolic process
-28363	28370	GO:0005215	reduced	transporter activity
-28363	28370	GO:0051234	reduced	establishment of localization
-28623	28631	GO:0045202	synapses	synapse
-28793	28820	GO:0009987	photoreceptor morphogenesis	cellular process
-28793	28820	GO:0032502	photoreceptor morphogenesis	developmental process
-28807	28820	GO:0032502	morphogenesis	developmental process
-28832	28834	GO:0065007	to	biological regulation
-28832	28834	GO:0009987	to	cellular process
-29332	29338	GO:0032501	vision	multicellular organismal process
-29429	29435	GO:0032501	vision	multicellular organismal process
-29488	29491	GO:0044464	rod	cell part
-29488	29491	GO:0044422	rod	organelle part
-29536	29542	GO:0032501	vision	multicellular organismal process
-29625	29633	GO:0003824	proteins	catalytic activity
-29753	29761	GO:0003824	proteins	catalytic activity
-29779	29796	GO:0065007	phototransduction	biological regulation
-29779	29796	GO:0050896	phototransduction	response to stimulus
-29779	29796	GO:0009987	phototransduction	cellular process
-29779	29796	GO:0023046	phototransduction	signaling process
-29916	29918	GO:0065007	to	biological regulation
-29916	29918	GO:0009987	to	cellular process
-30034	30047	GO:0009987	transcription	cellular process
-30034	30047	GO:0008152	transcription	metabolic process
-30051	30053	GO:0065007	to	biological regulation
-30051	30053	GO:0009987	to	cellular process
-30072	30074	GO:0065007	to	biological regulation
-30072	30074	GO:0009987	to	cellular process
-30684	30693	GO:0008152	formation	metabolic process
-30828	30830	GO:0065007	to	biological regulation
-30828	30830	GO:0009987	to	cellular process
-30900	30904	GO:0005623	cell	cell
-30940	30942	GO:0065007	to	biological regulation
-30940	30942	GO:0009987	to	cellular process
-31101	31109	GO:0045202	synapses	synapse
-31370	31372	GO:0065007	to	biological regulation
-31370	31372	GO:0009987	to	cellular process
-31387	31400	GO:0032502	morphogenesis	developmental process
-31402	31416	GO:0009987	synaptogenesis	cellular process
-31402	31416	GO:0016043	synaptogenesis	cellular component organization
-31407	31409	GO:0065007	to	biological regulation
-31407	31409	GO:0009987	to	cellular process
-32241	32269	GO:0044464	photoreceptor outer segments	cell part
-33276	33283	GO:0008152	ethanol	metabolic process
-33276	33283	GO:0009987	ethanol	cellular process
-33554	33556	GO:0044464	ER	cell part
-33554	33556	GO:0043226	ER	organelle
-33915	33917	GO:0065007	to	biological regulation
-33915	33917	GO:0009987	to	cellular process
-34056	34065	GO:0008152	formation	metabolic process
+19394	19401	GO:0045202	synapse	synapse
+19402	19411	GO:0008152	formation	metabolic process
+19451	19465	GO:0009987	synaptogenesis	cellular process
+19451	19465	GO:0016043	synaptogenesis	cellular component organization
+19553	19566	GO:0032502	morphogenesis	developmental process
+19643	19645	GO:0065007	to	biological regulation
+19643	19645	GO:0009987	to	cellular process
+19663	19672	GO:0008152	formation	metabolic process
+19765	19767	GO:0065007	to	biological regulation
+19765	19767	GO:0009987	to	cellular process
+19795	19804	GO:0008152	formation	metabolic process
+19847	19874	GO:0009987	photoreceptor morphogenesis	cellular process
+19847	19874	GO:0032502	photoreceptor morphogenesis	developmental process
+19861	19874	GO:0032502	morphogenesis	developmental process
+19886	19888	GO:0065007	to	biological regulation
+19886	19888	GO:0009987	to	cellular process
+19940	19942	GO:0065007	to	biological regulation
+19940	19942	GO:0009987	to	cellular process
+20079	20087	GO:0043226	vesicles	organelle
+20097	20099	GO:0065007	to	biological regulation
+20097	20099	GO:0009987	to	cellular process
+20104	20113	GO:0008152	breakdown	metabolic process
+20131	20140	GO:0044464	membranes	cell part
+20174	20176	GO:0065007	to	biological regulation
+20174	20176	GO:0009987	to	cellular process
+20257	20266	GO:0008152	breakdown	metabolic process
+20295	20300	GO:0005623	cells	cell
+20435	20442	GO:0003824	protein	catalytic activity
+20452	20460	GO:0043226	vesicles	organelle
+20555	20563	GO:0043226	vesicles	organelle
+20571	20573	GO:0065007	to	biological regulation
+20571	20573	GO:0009987	to	cellular process
+20662	20668	GO:0040007	growth	growth
+20751	20757	GO:0044464	cilium	cell part
+20818	20826	GO:0003824	proteins	catalytic activity
+20866	20874	GO:0003824	proteins	catalytic activity
+21096	21109	GO:0009987	transcription	cellular process
+21096	21109	GO:0008152	transcription	metabolic process
+21342	21357	GO:0008152	gene expression	metabolic process
+21572	21579	GO:0009987	reduced	cellular process
+21572	21579	GO:0008152	reduced	metabolic process
+21572	21579	GO:0005215	reduced	transporter activity
+21572	21579	GO:0051234	reduced	establishment of localization
+21684	21687	GO:0044464	rod	cell part
+21684	21687	GO:0044422	rod	organelle part
+21980	21990	GO:0044464	rhabdomere	cell part
+22014	22016	GO:0065007	to	biological regulation
+22014	22016	GO:0009987	to	cellular process
+22050	22052	GO:0065007	to	biological regulation
+22050	22052	GO:0009987	to	cellular process
+22261	22271	GO:0044464	rhabdomere	cell part
+22261	22283	GO:0009987	rhabdomere development	cellular process
+22261	22283	GO:0016043	rhabdomere development	cellular component organization
+22381	22383	GO:0065007	to	biological regulation
+22381	22383	GO:0009987	to	cellular process
+22538	22540	GO:0065007	to	biological regulation
+22538	22540	GO:0009987	to	cellular process
+22801	22811	GO:0044464	rhabdomere	cell part
+22812	22825	GO:0032502	morphogenesis	developmental process
+22969	22973	GO:0044464	rods	cell part
+22969	22973	GO:0044422	rods	organelle part
+23174	23187	GO:0032502	morphogenesis	developmental process
+23350	23352	GO:0065007	to	biological regulation
+23350	23352	GO:0009987	to	cellular process
+23440	23467	GO:0009987	photoreceptor morphogenesis	cellular process
+23440	23467	GO:0032502	photoreceptor morphogenesis	developmental process
+23454	23467	GO:0032502	morphogenesis	developmental process
+23712	23714	GO:0065007	to	biological regulation
+23712	23714	GO:0009987	to	cellular process
+23799	23815	GO:0008152	lipid metabolism	metabolic process
+23805	23815	GO:0008152	metabolism	metabolic process
+23817	23824	GO:0003824	protein	catalytic activity
+23817	23832	GO:0009987	protein folding	cellular process
+23817	23832	GO:0008152	protein folding	metabolic process
+23837	23846	GO:0051234	transport	establishment of localization
+24093	24095	GO:0065007	to	biological regulation
+24093	24095	GO:0009987	to	cellular process
+24137	24145	GO:0003824	proteins	catalytic activity
+24155	24157	GO:0065007	to	biological regulation
+24155	24157	GO:0009987	to	cellular process
+24306	24308	GO:0065007	to	biological regulation
+24306	24308	GO:0009987	to	cellular process
+24357	24369	GO:0016043	ciliogenesis	cellular component organization
+24357	24369	GO:0009987	ciliogenesis	cellular process
+24357	24369	GO:0016043	ciliogenesis	cellular component organization
+24357	24369	GO:0009987	ciliogenesis	cellular process
+24547	24574	GO:0009987	photoreceptor morphogenesis	cellular process
+24547	24574	GO:0032502	photoreceptor morphogenesis	developmental process
+24561	24574	GO:0032502	morphogenesis	developmental process
+24771	24785	GO:0009987	synaptogenesis	cellular process
+24771	24785	GO:0016043	synaptogenesis	cellular component organization
+24854	24856	GO:0065007	to	biological regulation
+24854	24856	GO:0009987	to	cellular process
+24888	24890	GO:0065007	to	biological regulation
+24888	24890	GO:0009987	to	cellular process
+24954	24968	GO:0009987	Synaptogenesis	cellular process
+24954	24968	GO:0016043	Synaptogenesis	cellular component organization
+25083	25091	GO:0045202	synapses	synapse
+25101	25103	GO:0065007	to	biological regulation
+25101	25103	GO:0009987	to	cellular process
+25378	25386	GO:0045202	synapses	synapse
+25400	25402	GO:0065007	to	biological regulation
+25400	25402	GO:0009987	to	cellular process
+25473	25487	GO:0009987	synaptogenesis	cellular process
+25473	25487	GO:0016043	synaptogenesis	cellular component organization
+25530	25539	GO:0008152	formation	metabolic process
+25681	25698	GO:0065007	phototransduction	biological regulation
+25681	25698	GO:0050896	phototransduction	response to stimulus
+25681	25698	GO:0009987	phototransduction	cellular process
+25681	25698	GO:0023046	phototransduction	signaling process
+25732	25734	GO:0065007	to	biological regulation
+25732	25734	GO:0009987	to	cellular process
+25771	25778	GO:0045202	synapse	synapse
+25805	25812	GO:0045202	synapse	synapse
+25936	25958	GO:0060089	photoreceptor activity	molecular transducer activity
+25995	26012	GO:0065007	phototransduction	biological regulation
+25995	26012	GO:0050896	phototransduction	response to stimulus
+25995	26012	GO:0009987	phototransduction	cellular process
+25995	26012	GO:0023046	phototransduction	signaling process
+26017	26024	GO:0045202	synapse	synapse
+26025	26034	GO:0008152	formation	metabolic process
+26134	26136	GO:0065007	to	biological regulation
+26134	26136	GO:0009987	to	cellular process
+26220	26229	GO:0008152	formation	metabolic process
+26299	26306	GO:0045202	synapse	synapse
+26307	26316	GO:0008152	formation	metabolic process
+26485	26493	GO:0003824	proteins	catalytic activity
+26526	26528	GO:0065007	to	biological regulation
+26526	26528	GO:0009987	to	cellular process
+27037	27064	GO:0009987	photoreceptor morphogenesis	cellular process
+27037	27064	GO:0032502	photoreceptor morphogenesis	developmental process
+27051	27064	GO:0032502	morphogenesis	developmental process
+27093	27101	GO:0003824	proteins	catalytic activity
+27118	27120	GO:0065007	to	biological regulation
+27118	27120	GO:0009987	to	cellular process
+27268	27275	GO:0003824	protein	catalytic activity
+27531	27538	GO:0045202	synapse	synapse
+27603	27605	GO:0065007	to	biological regulation
+27603	27605	GO:0009987	to	cellular process
+27732	27743	GO:0032991	microtubule	macromolecular complex
+27732	27743	GO:0044464	microtubule	cell part
+27732	27743	GO:0044422	microtubule	organelle part
+27755	27762	GO:0003824	protein	catalytic activity
+27984	27986	GO:0065007	to	biological regulation
+27984	27986	GO:0009987	to	cellular process
+28092	28099	GO:0045202	synapse	synapse
+28134	28143	GO:0008152	formation	metabolic process
+28461	28468	GO:0009987	reduced	cellular process
+28461	28468	GO:0008152	reduced	metabolic process
+28461	28468	GO:0005215	reduced	transporter activity
+28461	28468	GO:0051234	reduced	establishment of localization
+28721	28729	GO:0045202	synapses	synapse
+28891	28918	GO:0009987	photoreceptor morphogenesis	cellular process
+28891	28918	GO:0032502	photoreceptor morphogenesis	developmental process
+28905	28918	GO:0032502	morphogenesis	developmental process
+28930	28932	GO:0065007	to	biological regulation
+28930	28932	GO:0009987	to	cellular process
+29434	29440	GO:0032501	vision	multicellular organismal process
+29531	29537	GO:0032501	vision	multicellular organismal process
+29590	29593	GO:0044464	rod	cell part
+29590	29593	GO:0044422	rod	organelle part
+29638	29644	GO:0032501	vision	multicellular organismal process
+29727	29735	GO:0003824	proteins	catalytic activity
+29855	29863	GO:0003824	proteins	catalytic activity
+29881	29898	GO:0065007	phototransduction	biological regulation
+29881	29898	GO:0050896	phototransduction	response to stimulus
+29881	29898	GO:0009987	phototransduction	cellular process
+29881	29898	GO:0023046	phototransduction	signaling process
+30018	30020	GO:0065007	to	biological regulation
+30018	30020	GO:0009987	to	cellular process
+30136	30149	GO:0009987	transcription	cellular process
+30136	30149	GO:0008152	transcription	metabolic process
+30153	30155	GO:0065007	to	biological regulation
+30153	30155	GO:0009987	to	cellular process
+30174	30176	GO:0065007	to	biological regulation
+30174	30176	GO:0009987	to	cellular process
+30788	30797	GO:0008152	formation	metabolic process
+30932	30934	GO:0065007	to	biological regulation
+30932	30934	GO:0009987	to	cellular process
+31004	31008	GO:0005623	cell	cell
+31044	31046	GO:0065007	to	biological regulation
+31044	31046	GO:0009987	to	cellular process
+31205	31213	GO:0045202	synapses	synapse
+31474	31476	GO:0065007	to	biological regulation
+31474	31476	GO:0009987	to	cellular process
+31491	31504	GO:0032502	morphogenesis	developmental process
+31506	31520	GO:0009987	synaptogenesis	cellular process
+31506	31520	GO:0016043	synaptogenesis	cellular component organization
+31511	31513	GO:0065007	to	biological regulation
+31511	31513	GO:0009987	to	cellular process
+32355	32383	GO:0044464	photoreceptor outer segments	cell part
+33396	33403	GO:0008152	ethanol	metabolic process
+33396	33403	GO:0009987	ethanol	cellular process
+33678	33680	GO:0044464	ER	cell part
+33678	33680	GO:0043226	ER	organelle
+34043	34045	GO:0065007	to	biological regulation
+34043	34045	GO:0009987	to	cellular process
+34184	34193	GO:0008152	formation	metabolic process

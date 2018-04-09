@@ -1,393 +1,393 @@
 StartIndex	EndIndex	GO:ID	Term	OntologyTerm
 15	22	GO:0003824	protein	catalytic activity
-481	489	GO:0003824	proteins	catalytic activity
-755	760	GO:0005623	cells	cell
-870	882	GO:0043473	pigmentation	pigmentation
-964	973	GO:0044464	membranes	cell part
-995	1000	GO:0005623	cells	cell
-995	1000	GO:0005623	cells	cell
-1020	1025	GO:0005623	cells	cell
-1177	1183	GO:0060089	type I	molecular transducer activity
-1177	1183	GO:0003824	type I	catalytic activity
-1207	1214	GO:0009987	reduced	cellular process
-1207	1214	GO:0008152	reduced	metabolic process
-1207	1214	GO:0005215	reduced	transporter activity
-1207	1214	GO:0051234	reduced	establishment of localization
-1303	1307	GO:0005623	cell	cell
-1367	1372	GO:0005623	cells	cell
-1466	1470	GO:0005623	cell	cell
-1509	1514	GO:0005623	cells	cell
-1555	1562	GO:0003824	protein	catalytic activity
-1623	1631	GO:0044464	membrane	cell part
-1632	1640	GO:0003824	proteins	catalytic activity
-1658	1667	GO:0051234	secretion	establishment of localization
-1766	1778	GO:0044464	gap junction	cell part
-1857	1859	GO:0065007	to	biological regulation
-1857	1859	GO:0009987	to	cellular process
-1877	1884	GO:0003824	protein	catalytic activity
-1955	1961	GO:0009987	direct	cellular process
-1955	1961	GO:0008152	direct	metabolic process
-2202	2209	GO:0003824	protein	catalytic activity
-2324	2328	GO:0032502	head	developmental process
-2463	2465	GO:0065007	to	biological regulation
-2463	2465	GO:0009987	to	cellular process
-2530	2532	GO:0065007	to	biological regulation
-2530	2532	GO:0009987	to	cellular process
-2535	2542	GO:0009987	reduced	cellular process
-2535	2542	GO:0008152	reduced	metabolic process
-2535	2542	GO:0005215	reduced	transporter activity
-2535	2542	GO:0051234	reduced	establishment of localization
-2551	2567	GO:0051234	iodide transport	establishment of localization
-2558	2567	GO:0051234	transport	establishment of localization
-2586	2594	GO:0044464	membrane	cell part
-2623	2628	GO:0005623	cells	cell
-2715	2717	GO:0065007	to	biological regulation
-2715	2717	GO:0009987	to	cellular process
-2817	2826	GO:0051234	transport	establishment of localization
-3411	3418	GO:0003824	protein	catalytic activity
-3626	3632	GO:0009987	direct	cellular process
-3626	3632	GO:0008152	direct	metabolic process
-3738	3746	GO:0003824	proteins	catalytic activity
-3792	3799	GO:0032501	hearing	multicellular organismal process
-3792	3799	GO:0050896	hearing	response to stimulus
-3852	3858	GO:0009987	direct	cellular process
-3852	3858	GO:0008152	direct	metabolic process
-3931	3933	GO:0065007	to	biological regulation
-3931	3933	GO:0009987	to	cellular process
-3982	3990	GO:0044421	antibody	extraccellular region part
-3982	3990	GO:0032991	antibody	macromolecular complex
-4133	4135	GO:0065007	to	biological regulation
-4133	4135	GO:0009987	to	cellular process
-4632	4636	GO:0005623	cell	cell
-4754	4766	GO:0043473	pigmentation	pigmentation
-4881	4889	GO:0003824	proteins	catalytic activity
-4955	4964	GO:0051234	transport	establishment of localization
-5046	5055	GO:0051234	secretion	establishment of localization
-5861	5871	GO:0044421	antibodies	extraccellular region part
-5861	5871	GO:0032991	antibodies	macromolecular complex
-6336	6346	GO:0044421	antibodies	extraccellular region part
-6336	6346	GO:0032991	antibodies	macromolecular complex
-6516	6531	GO:0044422	Actin filaments	organelle part
-6516	6531	GO:0044464	Actin filaments	cell part
-6516	6531	GO:0032991	Actin filaments	macromolecular complex
-6873	6875	GO:0065007	to	biological regulation
-6873	6875	GO:0009987	to	cellular process
-6956	6968	GO:0043473	pigmentation	pigmentation
-7036	7038	GO:0065007	to	biological regulation
-7036	7038	GO:0009987	to	cellular process
-7680	7689	GO:0032501	digestion	multicellular organismal process
-7856	7858	GO:0065007	to	biological regulation
-7856	7858	GO:0009987	to	cellular process
-8450	8452	GO:0065007	to	biological regulation
-8450	8452	GO:0009987	to	cellular process
-8606	8608	GO:0065007	to	biological regulation
-8606	8608	GO:0009987	to	cellular process
-8957	8965	GO:0005488	Template	binding
-9006	9008	GO:0065007	to	biological regulation
-9006	9008	GO:0009987	to	cellular process
-9273	9279	GO:0040007	growth	growth
-9531	9533	GO:0065007	to	biological regulation
-9531	9533	GO:0009987	to	cellular process
-9589	9591	GO:0065007	to	biological regulation
-9589	9591	GO:0009987	to	cellular process
-9589	9591	GO:0065007	to	biological regulation
-9589	9591	GO:0009987	to	cellular process
-10768	10776	GO:0044464	membrane	cell part
-11771	11776	GO:0005623	cells	cell
-11879	11881	GO:0065007	To	biological regulation
-11879	11881	GO:0009987	To	cellular process
-11916	11923	GO:0003824	protein	catalytic activity
-12072	12080	GO:0044421	antibody	extraccellular region part
-12072	12080	GO:0032991	antibody	macromolecular complex
-12123	12131	GO:0044421	antibody	extraccellular region part
-12123	12131	GO:0032991	antibody	macromolecular complex
-12272	12277	GO:0005623	cells	cell
-12342	12347	GO:0005623	cells	cell
-12359	12368	GO:0044464	membranes	cell part
-12409	12414	GO:0005623	cells	cell
-12429	12438	GO:0044464	membranes	cell part
-12457	12462	GO:0005623	cells	cell
-12457	12462	GO:0005623	cells	cell
-12556	12561	GO:0005623	cells	cell
-12643	12652	GO:0051234	transport	establishment of localization
-12799	12804	GO:0005623	cells	cell
-12884	12889	GO:0005623	cells	cell
-12952	12961	GO:0051234	secretion	establishment of localization
-12972	12974	GO:0065007	to	biological regulation
-12972	12974	GO:0009987	to	cellular process
-13108	13117	GO:0051234	secretion	establishment of localization
-13141	13148	GO:0003824	Protein	catalytic activity
-13141	13161	GO:0051179	Protein localization	localization
-13149	13161	GO:0051179	localization	localization
-13445	13453	GO:0044464	membrane	cell part
-13474	13479	GO:0005623	cells	cell
-13502	13507	GO:0005623	cells	cell
-13582	13587	GO:0005623	cells	cell
-13622	13627	GO:0005623	cells	cell
-13638	13643	GO:0005623	cells	cell
-13673	13678	GO:0005623	cells	cell
-13701	13706	GO:0005623	cells	cell
+491	499	GO:0003824	proteins	catalytic activity
+765	770	GO:0005623	cells	cell
+880	892	GO:0043473	pigmentation	pigmentation
+978	987	GO:0044464	membranes	cell part
+1009	1014	GO:0005623	cells	cell
+1009	1014	GO:0005623	cells	cell
+1034	1039	GO:0005623	cells	cell
+1191	1197	GO:0060089	type I	molecular transducer activity
+1191	1197	GO:0003824	type I	catalytic activity
+1221	1228	GO:0009987	reduced	cellular process
+1221	1228	GO:0008152	reduced	metabolic process
+1221	1228	GO:0005215	reduced	transporter activity
+1221	1228	GO:0051234	reduced	establishment of localization
+1317	1321	GO:0005623	cell	cell
+1381	1386	GO:0005623	cells	cell
+1480	1484	GO:0005623	cell	cell
+1523	1528	GO:0005623	cells	cell
+1569	1576	GO:0003824	protein	catalytic activity
+1637	1645	GO:0044464	membrane	cell part
+1646	1654	GO:0003824	proteins	catalytic activity
+1672	1681	GO:0051234	secretion	establishment of localization
+1780	1792	GO:0044464	gap junction	cell part
+1875	1877	GO:0065007	to	biological regulation
+1875	1877	GO:0009987	to	cellular process
+1895	1902	GO:0003824	protein	catalytic activity
+1973	1979	GO:0009987	direct	cellular process
+1973	1979	GO:0008152	direct	metabolic process
+2224	2231	GO:0003824	protein	catalytic activity
+2346	2350	GO:0032502	head	developmental process
+2485	2487	GO:0065007	to	biological regulation
+2485	2487	GO:0009987	to	cellular process
+2552	2554	GO:0065007	to	biological regulation
+2552	2554	GO:0009987	to	cellular process
+2557	2564	GO:0009987	reduced	cellular process
+2557	2564	GO:0008152	reduced	metabolic process
+2557	2564	GO:0005215	reduced	transporter activity
+2557	2564	GO:0051234	reduced	establishment of localization
+2573	2589	GO:0051234	iodide transport	establishment of localization
+2580	2589	GO:0051234	transport	establishment of localization
+2608	2616	GO:0044464	membrane	cell part
+2645	2650	GO:0005623	cells	cell
+2737	2739	GO:0065007	to	biological regulation
+2737	2739	GO:0009987	to	cellular process
+2841	2850	GO:0051234	transport	establishment of localization
+3437	3444	GO:0003824	protein	catalytic activity
+3652	3658	GO:0009987	direct	cellular process
+3652	3658	GO:0008152	direct	metabolic process
+3764	3772	GO:0003824	proteins	catalytic activity
+3818	3825	GO:0032501	hearing	multicellular organismal process
+3818	3825	GO:0050896	hearing	response to stimulus
+3878	3884	GO:0009987	direct	cellular process
+3878	3884	GO:0008152	direct	metabolic process
+3957	3959	GO:0065007	to	biological regulation
+3957	3959	GO:0009987	to	cellular process
+4008	4016	GO:0044421	antibody	extraccellular region part
+4008	4016	GO:0032991	antibody	macromolecular complex
+4159	4161	GO:0065007	to	biological regulation
+4159	4161	GO:0009987	to	cellular process
+4662	4666	GO:0005623	cell	cell
+4784	4796	GO:0043473	pigmentation	pigmentation
+4913	4921	GO:0003824	proteins	catalytic activity
+4987	4996	GO:0051234	transport	establishment of localization
+5078	5087	GO:0051234	secretion	establishment of localization
+5897	5907	GO:0044421	antibodies	extraccellular region part
+5897	5907	GO:0032991	antibodies	macromolecular complex
+6372	6382	GO:0044421	antibodies	extraccellular region part
+6372	6382	GO:0032991	antibodies	macromolecular complex
+6552	6567	GO:0044422	Actin filaments	organelle part
+6552	6567	GO:0044464	Actin filaments	cell part
+6552	6567	GO:0032991	Actin filaments	macromolecular complex
+6909	6911	GO:0065007	to	biological regulation
+6909	6911	GO:0009987	to	cellular process
+6992	7004	GO:0043473	pigmentation	pigmentation
+7076	7078	GO:0065007	to	biological regulation
+7076	7078	GO:0009987	to	cellular process
+7720	7729	GO:0032501	digestion	multicellular organismal process
+7896	7898	GO:0065007	to	biological regulation
+7896	7898	GO:0009987	to	cellular process
+8490	8492	GO:0065007	to	biological regulation
+8490	8492	GO:0009987	to	cellular process
+8646	8648	GO:0065007	to	biological regulation
+8646	8648	GO:0009987	to	cellular process
+9003	9011	GO:0005488	Template	binding
+9052	9054	GO:0065007	to	biological regulation
+9052	9054	GO:0009987	to	cellular process
+9319	9325	GO:0040007	growth	growth
+9577	9579	GO:0065007	to	biological regulation
+9577	9579	GO:0009987	to	cellular process
+9635	9637	GO:0065007	to	biological regulation
+9635	9637	GO:0009987	to	cellular process
+9635	9637	GO:0065007	to	biological regulation
+9635	9637	GO:0009987	to	cellular process
+10822	10830	GO:0044464	membrane	cell part
+11831	11836	GO:0005623	cells	cell
+11939	11941	GO:0065007	To	biological regulation
+11939	11941	GO:0009987	To	cellular process
+11976	11983	GO:0003824	protein	catalytic activity
+12132	12140	GO:0044421	antibody	extraccellular region part
+12132	12140	GO:0032991	antibody	macromolecular complex
+12183	12191	GO:0044421	antibody	extraccellular region part
+12183	12191	GO:0032991	antibody	macromolecular complex
+12332	12337	GO:0005623	cells	cell
+12402	12407	GO:0005623	cells	cell
+12419	12428	GO:0044464	membranes	cell part
+12469	12474	GO:0005623	cells	cell
+12489	12498	GO:0044464	membranes	cell part
+12517	12522	GO:0005623	cells	cell
+12517	12522	GO:0005623	cells	cell
+12616	12621	GO:0005623	cells	cell
+12703	12712	GO:0051234	transport	establishment of localization
+12859	12864	GO:0005623	cells	cell
+12944	12949	GO:0005623	cells	cell
+13012	13021	GO:0051234	secretion	establishment of localization
+13032	13034	GO:0065007	to	biological regulation
+13032	13034	GO:0009987	to	cellular process
+13168	13177	GO:0051234	secretion	establishment of localization
+13205	13212	GO:0003824	Protein	catalytic activity
+13205	13225	GO:0051179	Protein localization	localization
+13213	13225	GO:0051179	localization	localization
+13509	13517	GO:0044464	membrane	cell part
+13538	13543	GO:0005623	cells	cell
+13566	13571	GO:0005623	cells	cell
+13646	13651	GO:0005623	cells	cell
+13686	13691	GO:0005623	cells	cell
+13702	13707	GO:0005623	cells	cell
 13737	13742	GO:0005623	cells	cell
 13765	13770	GO:0005623	cells	cell
-13786	13791	GO:0005623	cells	cell
-13839	13854	GO:0044464	tight junctions	cell part
-13879	13884	GO:0005623	cells	cell
-13939	13944	GO:0005623	cells	cell
-14050	14055	GO:0005623	cells	cell
-14069	14083	GO:0044464	tight junction	cell part
-14084	14091	GO:0003824	protein	catalytic activity
-14110	14115	GO:0005623	cells	cell
-14258	14263	GO:0005623	cells	cell
-14294	14299	GO:0005623	cells	cell
-14329	14331	GO:0065007	to	biological regulation
-14329	14331	GO:0009987	to	cellular process
-14348	14353	GO:0005623	cells	cell
-14416	14424	GO:0044464	membrane	cell part
-14541	14546	GO:0005623	cells	cell
-14649	14656	GO:0003824	protein	catalytic activity
-14671	14679	GO:0044464	membrane	cell part
-14707	14712	GO:0005623	cells	cell
-14840	14842	GO:0065007	to	biological regulation
-14840	14842	GO:0009987	to	cellular process
-14867	14872	GO:0005623	cells	cell
-14892	14894	GO:0065007	to	biological regulation
-14892	14894	GO:0009987	to	cellular process
-14913	14918	GO:0005623	cells	cell
-14913	14918	GO:0005623	cells	cell
-15033	15042	GO:0044464	membranes	cell part
-15137	15139	GO:0065007	to	biological regulation
-15137	15139	GO:0009987	to	cellular process
-15143	15152	GO:0009987	embryonic	cellular process
-15143	15152	GO:0065007	embryonic	biological regulation
-15323	15325	GO:0065007	to	biological regulation
-15323	15325	GO:0009987	to	cellular process
-15429	15434	GO:0005623	cells	cell
-15641	15646	GO:0005623	cells	cell
-15770	15774	GO:0005623	cell	cell
-15974	15981	GO:0032501	hearing	multicellular organismal process
-15974	15981	GO:0050896	hearing	response to stimulus
-16560	16562	GO:0065007	to	biological regulation
-16560	16562	GO:0009987	to	cellular process
-16717	16722	GO:0005623	cells	cell
-16746	16748	GO:0065007	to	biological regulation
-16746	16748	GO:0009987	to	cellular process
-16829	16841	GO:0043473	pigmentation	pigmentation
-17034	17036	GO:0065007	to	biological regulation
-17034	17036	GO:0009987	to	cellular process
-17081	17093	GO:0043473	Pigmentation	pigmentation
-17194	17201	GO:0044464	capsule	cell part
-17409	17421	GO:0043473	pigmentation	pigmentation
-17595	17599	GO:0005623	cell	cell
-17677	17682	GO:0005623	cells	cell
-17709	17711	GO:0065007	to	biological regulation
-17709	17711	GO:0009987	to	cellular process
-17718	17723	GO:0005623	cells	cell
-17745	17758	GO:0044464	gap junctions	cell part
-17774	17779	GO:0005623	cells	cell
-17842	17851	GO:0051234	transport	establishment of localization
-17884	17886	GO:0065007	to	biological regulation
-17884	17886	GO:0009987	to	cellular process
-17971	17973	GO:0065007	To	biological regulation
-17971	17973	GO:0009987	To	cellular process
-18097	18102	GO:0005623	cells	cell
-18165	18170	GO:0005623	cells	cell
-18180	18182	GO:0065007	to	biological regulation
-18180	18182	GO:0009987	to	cellular process
-18180	18182	GO:0065007	to	biological regulation
-18180	18182	GO:0009987	to	cellular process
-18250	18255	GO:0005623	cells	cell
-18301	18313	GO:0043473	pigmentation	pigmentation
-18315	18327	GO:0043473	Pigmentation	pigmentation
-18423	18428	GO:0005623	cells	cell
-18457	18469	GO:0043473	pigmentation	pigmentation
-18546	18548	GO:0065007	To	biological regulation
-18546	18548	GO:0009987	To	cellular process
-19512	19519	GO:0009987	reduced	cellular process
-19512	19519	GO:0008152	reduced	metabolic process
-19512	19519	GO:0005215	reduced	transporter activity
-19512	19519	GO:0051234	reduced	establishment of localization
-19603	19605	GO:0065007	to	biological regulation
-19603	19605	GO:0009987	to	cellular process
-19759	19764	GO:0005623	cells	cell
-19858	19863	GO:0005623	cells	cell
-20479	20481	GO:0065007	to	biological regulation
-20479	20481	GO:0009987	to	cellular process
-21389	21394	GO:0005623	cells	cell
-21433	21440	GO:0003824	protein	catalytic activity
-21433	21440	GO:0003824	protein	catalytic activity
-21499	21501	GO:0065007	to	biological regulation
-21499	21501	GO:0009987	to	cellular process
-21764	21771	GO:0003824	Protein	catalytic activity
-21764	21784	GO:0051179	Protein localization	localization
-21772	21784	GO:0051179	localization	localization
-21891	21893	GO:0065007	to	biological regulation
-21891	21893	GO:0009987	to	cellular process
-21902	21904	GO:0065007	to	biological regulation
-21902	21904	GO:0009987	to	cellular process
-21964	21972	GO:0044464	membrane	cell part
-22166	22171	GO:0005623	cells	cell
-22188	22196	GO:0044464	membrane	cell part
-22418	22426	GO:0044464	membrane	cell part
-22746	22751	GO:0005623	cells	cell
-22862	22868	GO:0060089	type I	molecular transducer activity
-22862	22868	GO:0003824	type I	catalytic activity
-23114	23121	GO:0009987	reduced	cellular process
-23114	23121	GO:0008152	reduced	metabolic process
-23114	23121	GO:0005215	reduced	transporter activity
-23114	23121	GO:0051234	reduced	establishment of localization
-23294	23306	GO:0043473	pigmentation	pigmentation
-23339	23354	GO:0044464	tight junctions	cell part
-23367	23372	GO:0005623	cells	cell
-23389	23404	GO:0044464	Tight junctions	cell part
-23424	23431	GO:0044422	F-actin	organelle part
-23424	23431	GO:0044464	F-actin	cell part
-23424	23431	GO:0032991	F-actin	macromolecular complex
-23453	23458	GO:0005623	cells	cell
-23468	23470	GO:0065007	to	biological regulation
-23468	23470	GO:0009987	to	cellular process
-23720	23722	GO:0065007	to	biological regulation
-23720	23722	GO:0009987	to	cellular process
-23747	23752	GO:0005623	cells	cell
-23817	23819	GO:0065007	to	biological regulation
-23817	23819	GO:0009987	to	cellular process
-23817	23819	GO:0065007	to	biological regulation
-23817	23819	GO:0009987	to	cellular process
-23817	23819	GO:0065007	to	biological regulation
-23817	23819	GO:0009987	to	cellular process
-24001	24003	GO:0065007	to	biological regulation
-24001	24003	GO:0009987	to	cellular process
-24193	24195	GO:0065007	to	biological regulation
-24193	24195	GO:0009987	to	cellular process
-24493	24497	GO:0005623	cell	cell
-24530	24545	GO:0044464	Tight junctions	cell part
-24641	24645	GO:0005623	cell	cell
-24678	24682	GO:0005623	cell	cell
-24851	24853	GO:0065007	to	biological regulation
-24851	24853	GO:0009987	to	cellular process
-24879	24895	GO:0043226	pigment granules	organelle
-24879	24895	GO:0044464	pigment granules	cell part
-24930	24932	GO:0065007	to	biological regulation
-24930	24932	GO:0009987	to	cellular process
-24963	24967	GO:0005623	cell	cell
-25008	25012	GO:0005623	cell	cell
-25058	25062	GO:0005623	cell	cell
-25083	25087	GO:0005623	cell	cell
-25111	25113	GO:0065007	to	biological regulation
-25111	25113	GO:0009987	to	cellular process
-25163	25175	GO:0043473	pigmentation	pigmentation
-25238	25250	GO:0043473	pigmentation	pigmentation
-25310	25314	GO:0005623	cell	cell
-25338	25342	GO:0005623	cell	cell
-25483	25487	GO:0005623	cell	cell
-25532	25547	GO:0044464	Tight junctions	cell part
-25643	25645	GO:0065007	to	biological regulation
-25643	25645	GO:0009987	to	cellular process
-25655	25667	GO:0043473	pigmentation	pigmentation
-25707	25711	GO:0005623	cell	cell
-25726	25730	GO:0005623	cell	cell
-25772	25784	GO:0043473	pigmentation	pigmentation
-25831	25843	GO:0051179	localization	localization
-25933	25937	GO:0005623	cell	cell
-25970	25974	GO:0005623	cell	cell
-26089	26091	GO:0065007	to	biological regulation
-26089	26091	GO:0009987	to	cellular process
-26122	26126	GO:0005623	cell	cell
-26165	26169	GO:0005623	cell	cell
-26210	26214	GO:0005623	cell	cell
-26236	26240	GO:0005623	cell	cell
-26263	26265	GO:0065007	to	biological regulation
-26263	26265	GO:0009987	to	cellular process
-26302	26314	GO:0043473	pigmentation	pigmentation
-26373	26377	GO:0005623	cell	cell
-26399	26403	GO:0005623	cell	cell
-26553	26558	GO:0005623	cells	cell
-26626	26631	GO:0005623	cells	cell
-26661	26676	GO:0044464	tight junctions	cell part
-26694	26709	GO:0044464	tight junctions	cell part
-26734	26739	GO:0005623	cells	cell
-26863	26865	GO:0065007	To	biological regulation
-26863	26865	GO:0009987	To	cellular process
-26984	26991	GO:0044422	F-actin	organelle part
-26984	26991	GO:0044464	F-actin	cell part
-26984	26991	GO:0032991	F-actin	macromolecular complex
-27014	27028	GO:0044464	tight junction	cell part
-27049	27056	GO:0044422	F-actin	organelle part
-27049	27056	GO:0044464	F-actin	cell part
-27049	27056	GO:0032991	F-actin	macromolecular complex
-27105	27110	GO:0005623	cells	cell
-27142	27147	GO:0005623	cells	cell
-27172	27177	GO:0005623	cells	cell
-27172	27176	GO:0005623	cell	cell
-27534	27536	GO:0065007	to	biological regulation
-27534	27536	GO:0009987	to	cellular process
-27611	27620	GO:0051234	secretion	establishment of localization
-27631	27633	GO:0065007	to	biological regulation
-27631	27633	GO:0009987	to	cellular process
-27740	27747	GO:0009987	reduced	cellular process
-27740	27747	GO:0008152	reduced	metabolic process
-27740	27747	GO:0005215	reduced	transporter activity
-27740	27747	GO:0051234	reduced	establishment of localization
-27772	27777	GO:0005623	cells	cell
-27854	27856	GO:0065007	to	biological regulation
-27854	27856	GO:0009987	to	cellular process
-28033	28041	GO:0044464	membrane	cell part
-28061	28066	GO:0005623	cells	cell
-28104	28112	GO:0003824	proteins	catalytic activity
-28166	28175	GO:0051234	secretion	establishment of localization
-28225	28227	GO:0065007	to	biological regulation
-28225	28227	GO:0009987	to	cellular process
-28225	28227	GO:0065007	to	biological regulation
-28225	28227	GO:0009987	to	cellular process
-28262	28271	GO:0051234	secretion	establishment of localization
-28281	28283	GO:0065007	to	biological regulation
-28281	28283	GO:0009987	to	cellular process
-28281	28283	GO:0065007	to	biological regulation
-28281	28283	GO:0009987	to	cellular process
-28695	28703	GO:0044464	membrane	cell part
-28723	28728	GO:0005623	cells	cell
-28805	28813	GO:0044464	membrane	cell part
-28833	28838	GO:0005623	cells	cell
-28879	28891	GO:0044464	gap junction	cell part
-28892	28899	GO:0003824	protein	catalytic activity
-29013	29021	GO:0003824	proteins	catalytic activity
-29059	29064	GO:0005623	cells	cell
-29096	29103	GO:0003824	protein	catalytic activity
-29332	29341	GO:0051234	secretion	establishment of localization
-29361	29366	GO:0005623	cells	cell
-29386	29398	GO:0044464	gap junction	cell part
-29427	29434	GO:0003824	Protein	catalytic activity
-29427	29447	GO:0051179	Protein localization	localization
-29435	29447	GO:0051179	localization	localization
-29585	29590	GO:0005623	cells	cell
-29624	29629	GO:0005623	cells	cell
-29950	29957	GO:0003824	protein	catalytic activity
-29972	29977	GO:0005623	cells	cell
-30021	30023	GO:0065007	to	biological regulation
-30021	30023	GO:0009987	to	cellular process
-30134	30146	GO:0044464	mitochondria	cell part
-30134	30146	GO:0043226	mitochondria	organelle
-30198	30203	GO:0005623	cells	cell
-30218	30223	GO:0005623	cells	cell
-30250	30252	GO:0065007	to	biological regulation
-30250	30252	GO:0009987	to	cellular process
-30250	30252	GO:0065007	to	biological regulation
-30250	30252	GO:0009987	to	cellular process
-30265	30267	GO:0065007	to	biological regulation
-30265	30267	GO:0009987	to	cellular process
-30323	30325	GO:0065007	To	biological regulation
-30323	30325	GO:0009987	To	cellular process
-30384	30389	GO:0005623	cells	cell
-30612	30625	GO:0005576	extracellular	extracellular region
-31074	31076	GO:0065007	to	biological regulation
-31074	31076	GO:0009987	to	cellular process
-31156	31163	GO:0003824	protein	catalytic activity
-31198	31203	GO:0005623	cells	cell
-31265	31267	GO:0065007	to	biological regulation
-31265	31267	GO:0009987	to	cellular process
-31361	31365	GO:0005623	cell	cell
-31432	31437	GO:0005623	cells	cell
-31524	31530	GO:0009987	direct	cellular process
-31524	31530	GO:0008152	direct	metabolic process
-32397	32402	GO:0005623	cells	cell
-32469	32477	GO:0044421	antibody	extraccellular region part
-32469	32477	GO:0032991	antibody	macromolecular complex
+13801	13806	GO:0005623	cells	cell
+13829	13834	GO:0005623	cells	cell
+13850	13855	GO:0005623	cells	cell
+13903	13918	GO:0044464	tight junctions	cell part
+13943	13948	GO:0005623	cells	cell
+14005	14010	GO:0005623	cells	cell
+14116	14121	GO:0005623	cells	cell
+14135	14149	GO:0044464	tight junction	cell part
+14150	14157	GO:0003824	protein	catalytic activity
+14176	14181	GO:0005623	cells	cell
+14324	14329	GO:0005623	cells	cell
+14360	14365	GO:0005623	cells	cell
+14395	14397	GO:0065007	to	biological regulation
+14395	14397	GO:0009987	to	cellular process
+14414	14419	GO:0005623	cells	cell
+14482	14490	GO:0044464	membrane	cell part
+14609	14614	GO:0005623	cells	cell
+14717	14724	GO:0003824	protein	catalytic activity
+14739	14747	GO:0044464	membrane	cell part
+14775	14780	GO:0005623	cells	cell
+14908	14910	GO:0065007	to	biological regulation
+14908	14910	GO:0009987	to	cellular process
+14935	14940	GO:0005623	cells	cell
+14960	14962	GO:0065007	to	biological regulation
+14960	14962	GO:0009987	to	cellular process
+14981	14986	GO:0005623	cells	cell
+14981	14986	GO:0005623	cells	cell
+15101	15110	GO:0044464	membranes	cell part
+15207	15209	GO:0065007	to	biological regulation
+15207	15209	GO:0009987	to	cellular process
+15213	15222	GO:0009987	embryonic	cellular process
+15213	15222	GO:0065007	embryonic	biological regulation
+15393	15395	GO:0065007	to	biological regulation
+15393	15395	GO:0009987	to	cellular process
+15499	15504	GO:0005623	cells	cell
+15711	15716	GO:0005623	cells	cell
+15840	15844	GO:0005623	cell	cell
+16044	16051	GO:0032501	hearing	multicellular organismal process
+16044	16051	GO:0050896	hearing	response to stimulus
+16630	16632	GO:0065007	to	biological regulation
+16630	16632	GO:0009987	to	cellular process
+16787	16792	GO:0005623	cells	cell
+16816	16818	GO:0065007	to	biological regulation
+16816	16818	GO:0009987	to	cellular process
+16903	16915	GO:0043473	pigmentation	pigmentation
+17108	17110	GO:0065007	to	biological regulation
+17108	17110	GO:0009987	to	cellular process
+17155	17167	GO:0043473	Pigmentation	pigmentation
+17268	17275	GO:0044464	capsule	cell part
+17483	17495	GO:0043473	pigmentation	pigmentation
+17671	17675	GO:0005623	cell	cell
+17753	17758	GO:0005623	cells	cell
+17785	17787	GO:0065007	to	biological regulation
+17785	17787	GO:0009987	to	cellular process
+17794	17799	GO:0005623	cells	cell
+17821	17834	GO:0044464	gap junctions	cell part
+17850	17855	GO:0005623	cells	cell
+17918	17927	GO:0051234	transport	establishment of localization
+17960	17962	GO:0065007	to	biological regulation
+17960	17962	GO:0009987	to	cellular process
+18047	18049	GO:0065007	To	biological regulation
+18047	18049	GO:0009987	To	cellular process
+18173	18178	GO:0005623	cells	cell
+18241	18246	GO:0005623	cells	cell
+18256	18258	GO:0065007	to	biological regulation
+18256	18258	GO:0009987	to	cellular process
+18256	18258	GO:0065007	to	biological regulation
+18256	18258	GO:0009987	to	cellular process
+18326	18331	GO:0005623	cells	cell
+18377	18389	GO:0043473	pigmentation	pigmentation
+18391	18403	GO:0043473	Pigmentation	pigmentation
+18499	18504	GO:0005623	cells	cell
+18533	18545	GO:0043473	pigmentation	pigmentation
+18624	18626	GO:0065007	To	biological regulation
+18624	18626	GO:0009987	To	cellular process
+19590	19597	GO:0009987	reduced	cellular process
+19590	19597	GO:0008152	reduced	metabolic process
+19590	19597	GO:0005215	reduced	transporter activity
+19590	19597	GO:0051234	reduced	establishment of localization
+19681	19683	GO:0065007	to	biological regulation
+19681	19683	GO:0009987	to	cellular process
+19837	19842	GO:0005623	cells	cell
+19936	19941	GO:0005623	cells	cell
+20561	20563	GO:0065007	to	biological regulation
+20561	20563	GO:0009987	to	cellular process
+21473	21478	GO:0005623	cells	cell
+21517	21524	GO:0003824	protein	catalytic activity
+21517	21524	GO:0003824	protein	catalytic activity
+21583	21585	GO:0065007	to	biological regulation
+21583	21585	GO:0009987	to	cellular process
+21852	21859	GO:0003824	Protein	catalytic activity
+21852	21872	GO:0051179	Protein localization	localization
+21860	21872	GO:0051179	localization	localization
+21979	21981	GO:0065007	to	biological regulation
+21979	21981	GO:0009987	to	cellular process
+21990	21992	GO:0065007	to	biological regulation
+21990	21992	GO:0009987	to	cellular process
+22052	22060	GO:0044464	membrane	cell part
+22254	22259	GO:0005623	cells	cell
+22276	22284	GO:0044464	membrane	cell part
+22508	22516	GO:0044464	membrane	cell part
+22836	22841	GO:0005623	cells	cell
+22952	22958	GO:0060089	type I	molecular transducer activity
+22952	22958	GO:0003824	type I	catalytic activity
+23204	23211	GO:0009987	reduced	cellular process
+23204	23211	GO:0008152	reduced	metabolic process
+23204	23211	GO:0005215	reduced	transporter activity
+23204	23211	GO:0051234	reduced	establishment of localization
+23384	23396	GO:0043473	pigmentation	pigmentation
+23429	23444	GO:0044464	tight junctions	cell part
+23457	23462	GO:0005623	cells	cell
+23479	23494	GO:0044464	Tight junctions	cell part
+23514	23521	GO:0044422	F-actin	organelle part
+23514	23521	GO:0044464	F-actin	cell part
+23514	23521	GO:0032991	F-actin	macromolecular complex
+23543	23548	GO:0005623	cells	cell
+23558	23560	GO:0065007	to	biological regulation
+23558	23560	GO:0009987	to	cellular process
+23814	23816	GO:0065007	to	biological regulation
+23814	23816	GO:0009987	to	cellular process
+23841	23846	GO:0005623	cells	cell
+23911	23913	GO:0065007	to	biological regulation
+23911	23913	GO:0009987	to	cellular process
+23911	23913	GO:0065007	to	biological regulation
+23911	23913	GO:0009987	to	cellular process
+23911	23913	GO:0065007	to	biological regulation
+23911	23913	GO:0009987	to	cellular process
+24095	24097	GO:0065007	to	biological regulation
+24095	24097	GO:0009987	to	cellular process
+24287	24289	GO:0065007	to	biological regulation
+24287	24289	GO:0009987	to	cellular process
+24591	24595	GO:0005623	cell	cell
+24628	24643	GO:0044464	Tight junctions	cell part
+24739	24743	GO:0005623	cell	cell
+24776	24780	GO:0005623	cell	cell
+24949	24951	GO:0065007	to	biological regulation
+24949	24951	GO:0009987	to	cellular process
+24977	24993	GO:0043226	pigment granules	organelle
+24977	24993	GO:0044464	pigment granules	cell part
+25028	25030	GO:0065007	to	biological regulation
+25028	25030	GO:0009987	to	cellular process
+25061	25065	GO:0005623	cell	cell
+25106	25110	GO:0005623	cell	cell
+25156	25160	GO:0005623	cell	cell
+25181	25185	GO:0005623	cell	cell
+25209	25211	GO:0065007	to	biological regulation
+25209	25211	GO:0009987	to	cellular process
+25261	25273	GO:0043473	pigmentation	pigmentation
+25336	25348	GO:0043473	pigmentation	pigmentation
+25408	25412	GO:0005623	cell	cell
+25436	25440	GO:0005623	cell	cell
+25585	25589	GO:0005623	cell	cell
+25634	25649	GO:0044464	Tight junctions	cell part
+25745	25747	GO:0065007	to	biological regulation
+25745	25747	GO:0009987	to	cellular process
+25757	25769	GO:0043473	pigmentation	pigmentation
+25809	25813	GO:0005623	cell	cell
+25828	25832	GO:0005623	cell	cell
+25874	25886	GO:0043473	pigmentation	pigmentation
+25933	25945	GO:0051179	localization	localization
+26035	26039	GO:0005623	cell	cell
+26072	26076	GO:0005623	cell	cell
+26191	26193	GO:0065007	to	biological regulation
+26191	26193	GO:0009987	to	cellular process
+26224	26228	GO:0005623	cell	cell
+26267	26271	GO:0005623	cell	cell
+26312	26316	GO:0005623	cell	cell
+26338	26342	GO:0005623	cell	cell
+26365	26367	GO:0065007	to	biological regulation
+26365	26367	GO:0009987	to	cellular process
+26404	26416	GO:0043473	pigmentation	pigmentation
+26475	26479	GO:0005623	cell	cell
+26501	26505	GO:0005623	cell	cell
+26657	26662	GO:0005623	cells	cell
+26730	26735	GO:0005623	cells	cell
+26765	26780	GO:0044464	tight junctions	cell part
+26798	26813	GO:0044464	tight junctions	cell part
+26838	26843	GO:0005623	cells	cell
+26967	26969	GO:0065007	To	biological regulation
+26967	26969	GO:0009987	To	cellular process
+27088	27095	GO:0044422	F-actin	organelle part
+27088	27095	GO:0044464	F-actin	cell part
+27088	27095	GO:0032991	F-actin	macromolecular complex
+27118	27132	GO:0044464	tight junction	cell part
+27153	27160	GO:0044422	F-actin	organelle part
+27153	27160	GO:0044464	F-actin	cell part
+27153	27160	GO:0032991	F-actin	macromolecular complex
+27209	27214	GO:0005623	cells	cell
+27246	27251	GO:0005623	cells	cell
+27276	27281	GO:0005623	cells	cell
+27276	27280	GO:0005623	cell	cell
+27640	27642	GO:0065007	to	biological regulation
+27640	27642	GO:0009987	to	cellular process
+27717	27726	GO:0051234	secretion	establishment of localization
+27737	27739	GO:0065007	to	biological regulation
+27737	27739	GO:0009987	to	cellular process
+27846	27853	GO:0009987	reduced	cellular process
+27846	27853	GO:0008152	reduced	metabolic process
+27846	27853	GO:0005215	reduced	transporter activity
+27846	27853	GO:0051234	reduced	establishment of localization
+27878	27883	GO:0005623	cells	cell
+27960	27962	GO:0065007	to	biological regulation
+27960	27962	GO:0009987	to	cellular process
+28139	28147	GO:0044464	membrane	cell part
+28167	28172	GO:0005623	cells	cell
+28210	28218	GO:0003824	proteins	catalytic activity
+28272	28281	GO:0051234	secretion	establishment of localization
+28331	28333	GO:0065007	to	biological regulation
+28331	28333	GO:0009987	to	cellular process
+28331	28333	GO:0065007	to	biological regulation
+28331	28333	GO:0009987	to	cellular process
+28368	28377	GO:0051234	secretion	establishment of localization
+28387	28389	GO:0065007	to	biological regulation
+28387	28389	GO:0009987	to	cellular process
+28387	28389	GO:0065007	to	biological regulation
+28387	28389	GO:0009987	to	cellular process
+28801	28809	GO:0044464	membrane	cell part
+28829	28834	GO:0005623	cells	cell
+28911	28919	GO:0044464	membrane	cell part
+28939	28944	GO:0005623	cells	cell
+28985	28997	GO:0044464	gap junction	cell part
+28998	29005	GO:0003824	protein	catalytic activity
+29119	29127	GO:0003824	proteins	catalytic activity
+29165	29170	GO:0005623	cells	cell
+29202	29209	GO:0003824	protein	catalytic activity
+29438	29447	GO:0051234	secretion	establishment of localization
+29467	29472	GO:0005623	cells	cell
+29492	29504	GO:0044464	gap junction	cell part
+29537	29544	GO:0003824	Protein	catalytic activity
+29537	29557	GO:0051179	Protein localization	localization
+29545	29557	GO:0051179	localization	localization
+29695	29700	GO:0005623	cells	cell
+29734	29739	GO:0005623	cells	cell
+30064	30071	GO:0003824	protein	catalytic activity
+30086	30091	GO:0005623	cells	cell
+30135	30137	GO:0065007	to	biological regulation
+30135	30137	GO:0009987	to	cellular process
+30248	30260	GO:0044464	mitochondria	cell part
+30248	30260	GO:0043226	mitochondria	organelle
+30312	30317	GO:0005623	cells	cell
+30332	30337	GO:0005623	cells	cell
+30364	30366	GO:0065007	to	biological regulation
+30364	30366	GO:0009987	to	cellular process
+30364	30366	GO:0065007	to	biological regulation
+30364	30366	GO:0009987	to	cellular process
+30379	30381	GO:0065007	to	biological regulation
+30379	30381	GO:0009987	to	cellular process
+30437	30439	GO:0065007	To	biological regulation
+30437	30439	GO:0009987	To	cellular process
+30498	30503	GO:0005623	cells	cell
+30726	30739	GO:0005576	extracellular	extracellular region
+31188	31190	GO:0065007	to	biological regulation
+31188	31190	GO:0009987	to	cellular process
+31270	31277	GO:0003824	protein	catalytic activity
+31312	31317	GO:0005623	cells	cell
+31379	31381	GO:0065007	to	biological regulation
+31379	31381	GO:0009987	to	cellular process
+31475	31479	GO:0005623	cell	cell
+31546	31551	GO:0005623	cells	cell
+31638	31644	GO:0009987	direct	cellular process
+31638	31644	GO:0008152	direct	metabolic process
+32523	32528	GO:0005623	cells	cell
+32595	32603	GO:0044421	antibody	extraccellular region part
+32595	32603	GO:0032991	antibody	macromolecular complex

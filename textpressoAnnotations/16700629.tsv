@@ -1,677 +1,677 @@
 StartIndex	EndIndex	GO:ID	Term	OntologyTerm
 42	44	GO:0065007	to	biological regulation
 42	44	GO:0009987	to	cellular process
-183	189	GO:0040007	growth	growth
-223	229	GO:0040007	growth	growth
-231	244	GO:0032502	morphogenesis	developmental process
-284	289	GO:0005623	cells	cell
-382	384	GO:0065007	to	biological regulation
-382	384	GO:0009987	to	cellular process
-385	402	GO:0009987	sex determination	cellular process
-385	402	GO:0032502	sex determination	developmental process
-385	402	GO:0022414	sex determination	reproductive process
-423	425	GO:0065007	to	biological regulation
-423	425	GO:0009987	to	cellular process
-483	501	GO:0022414	testis development	reproductive process
-483	501	GO:0032502	testis development	developmental process
-688	694	GO:0040007	growth	growth
-698	700	GO:0065007	to	biological regulation
-698	700	GO:0009987	to	cellular process
-756	773	GO:0009987	sex determination	cellular process
-756	773	GO:0032502	sex determination	developmental process
-756	773	GO:0022414	sex determination	reproductive process
-907	909	GO:0065007	to	biological regulation
-907	909	GO:0009987	to	cellular process
-994	996	GO:0065007	to	biological regulation
-994	996	GO:0009987	to	cellular process
-994	996	GO:0065007	to	biological regulation
-994	996	GO:0009987	to	cellular process
-1295	1312	GO:0009987	sex determination	cellular process
-1295	1312	GO:0032502	sex determination	developmental process
-1295	1312	GO:0022414	sex determination	reproductive process
-1412	1421	GO:0023052	signaling	signaling
-1412	1430	GO:0023052	signaling pathways	signaling
-1633	1642	GO:0009987	embryonic	cellular process
-1633	1642	GO:0065007	embryonic	biological regulation
-1789	1791	GO:0065007	to	biological regulation
-1789	1791	GO:0009987	to	cellular process
-1849	1851	GO:0065007	to	biological regulation
-1849	1851	GO:0009987	to	cellular process
-1886	1895	GO:0009987	embryonic	cellular process
-1886	1895	GO:0065007	embryonic	biological regulation
-1938	1948	GO:0016265	germ cells	death
-1938	1948	GO:0009987	germ cells	cellular process
-1938	1948	GO:0032502	germ cells	developmental process
-1938	1948	GO:0022414	germ cells	reproductive process
-1943	1948	GO:0005623	cells	cell
-1943	1948	GO:0005623	cells	cell
-1961	1966	GO:0005623	cells	cell
-2032	2034	GO:0065007	to	biological regulation
-2032	2034	GO:0009987	to	cellular process
-2146	2151	GO:0005623	cells	cell
-2388	2400	GO:0044464	X chromosome	cell part
-2388	2400	GO:0043226	X chromosome	organelle
-2390	2400	GO:0043226	chromosome	organelle
-2390	2400	GO:0044422	chromosome	organelle part
-2390	2400	GO:0044464	chromosome	cell part
-2401	2408	GO:0003824	protein	catalytic activity
-2457	2463	GO:0040007	growth	growth
-2634	2651	GO:0009987	sex determination	cellular process
-2634	2651	GO:0032502	sex determination	developmental process
-2634	2651	GO:0022414	sex determination	reproductive process
-2681	2698	GO:0032502	organ development	developmental process
-2790	2808	GO:0022414	testis development	reproductive process
-2790	2808	GO:0032502	testis development	developmental process
-2870	2874	GO:0005623	cell	cell
-2887	2897	GO:0003824	initiating	catalytic activity
-3081	3086	GO:0005623	cells	cell
-3087	3089	GO:0065007	to	biological regulation
-3087	3089	GO:0009987	to	cellular process
-3110	3119	GO:0008152	formation	metabolic process
-3135	3137	GO:0065007	to	biological regulation
-3135	3137	GO:0009987	to	cellular process
-3165	3193	GO:0022414	Sertoli cell differentiation	reproductive process
-3165	3193	GO:0009987	Sertoli cell differentiation	cellular process
-3165	3193	GO:0032502	Sertoli cell differentiation	developmental process
-3173	3177	GO:0005623	cell	cell
-3173	3193	GO:0032502	cell differentiation	developmental process
-3173	3193	GO:0009987	cell differentiation	cellular process
-3322	3329	GO:0032502	embryos	developmental process
-3340	3347	GO:0032502	embryos	developmental process
-3375	3379	GO:0005623	cell	cell
-3675	3680	GO:0005623	cells	cell
-3687	3689	GO:0065007	to	biological regulation
-3687	3689	GO:0009987	to	cellular process
-3739	3744	GO:0005623	cells	cell
-3769	3774	GO:0005623	cells	cell
-3789	3793	GO:0005623	cell	cell
-3849	3853	GO:0005623	cell	cell
-3867	3871	GO:0005623	cell	cell
-3877	3879	GO:0065007	to	biological regulation
-3877	3879	GO:0009987	to	cellular process
-3987	3992	GO:0005623	cells	cell
-4005	4007	GO:0065007	to	biological regulation
-4005	4007	GO:0009987	to	cellular process
-4005	4007	GO:0065007	to	biological regulation
-4005	4007	GO:0009987	to	cellular process
-4212	4214	GO:0065007	to	biological regulation
-4212	4214	GO:0009987	to	cellular process
-4310	4314	GO:0005623	cell	cell
-4388	4394	GO:0032502	embryo	developmental process
-4460	4462	GO:0065007	to	biological regulation
-4460	4462	GO:0009987	to	cellular process
-4553	4571	GO:0022414	testis development	reproductive process
-4553	4571	GO:0032502	testis development	developmental process
-4638	4655	GO:0009987	sex determination	cellular process
-4638	4655	GO:0032502	sex determination	developmental process
-4638	4655	GO:0022414	sex determination	reproductive process
-4687	4689	GO:0065007	to	biological regulation
-4687	4689	GO:0009987	to	cellular process
-4727	4729	GO:0065007	to	biological regulation
-4727	4729	GO:0009987	to	cellular process
-4885	4890	GO:0005623	cells	cell
-4989	4994	GO:0005623	cells	cell
-5032	5037	GO:0005623	cells	cell
-5169	5178	GO:0023052	signaling	signaling
-5169	5187	GO:0023052	signaling pathways	signaling
-5234	5240	GO:0040007	growth	growth
-5409	5422	GO:0005576	extracellular	extracellular region
-5423	5432	GO:0023052	signaling	signaling
-5423	5441	GO:0023052	signaling pathways	signaling
-5473	5498	GO:0032502	primary sex determination	developmental process
-5473	5498	GO:0022414	primary sex determination	reproductive process
-5481	5498	GO:0009987	sex determination	cellular process
-5481	5498	GO:0032502	sex determination	developmental process
-5481	5498	GO:0022414	sex determination	reproductive process
-5623	5627	GO:0005623	cell	cell
-5623	5641	GO:0008283	cell proliferation	cell proliferation
-5650	5654	GO:0005623	cell	cell
-5650	5664	GO:0009987	cell migration	cellular process
-5650	5664	GO:0040011	cell migration	locomotion
-5710	5719	GO:0008152	formation	metabolic process
-5756	5761	GO:0005623	cells	cell
-5999	6001	GO:0065007	to	biological regulation
-5999	6001	GO:0009987	to	cellular process
-6190	6195	GO:0005623	cells	cell
-6366	6370	GO:0005623	cell	cell
-6460	6462	GO:0065007	to	biological regulation
-6460	6462	GO:0009987	to	cellular process
-6508	6533	GO:0032502	primary sex determination	developmental process
-6508	6533	GO:0022414	primary sex determination	reproductive process
-6516	6533	GO:0009987	sex determination	cellular process
-6516	6533	GO:0032502	sex determination	developmental process
-6516	6533	GO:0022414	sex determination	reproductive process
-6547	6549	GO:0065007	To	biological regulation
-6547	6549	GO:0009987	To	cellular process
-6659	6661	GO:0065007	to	biological regulation
-6659	6661	GO:0009987	to	cellular process
-7111	7116	GO:0005623	cells	cell
-7138	7140	GO:0065007	to	biological regulation
-7138	7140	GO:0009987	to	cellular process
-7180	7182	GO:0065007	to	biological regulation
-7180	7182	GO:0009987	to	cellular process
-7304	7306	GO:0065007	to	biological regulation
-7304	7306	GO:0009987	to	cellular process
-7744	7750	GO:0040007	growth	growth
-7752	7765	GO:0032502	morphogenesis	developmental process
-7849	7851	GO:0065007	to	biological regulation
-7849	7851	GO:0009987	to	cellular process
-7895	7903	GO:0044421	antibody	extraccellular region part
-7895	7903	GO:0032991	antibody	macromolecular complex
-7913	7915	GO:0065007	to	biological regulation
-7913	7915	GO:0009987	to	cellular process
-7959	7976	GO:0032502	gonad development	developmental process
-7959	7976	GO:0022414	gonad development	reproductive process
-7983	7990	GO:0003824	protein	catalytic activity
-8148	8153	GO:0005623	cells	cell
-8188	8193	GO:0005623	cells	cell
-8363	8365	GO:0065007	to	biological regulation
-8363	8365	GO:0009987	to	cellular process
-8374	8379	GO:0005623	cells	cell
-8398	8408	GO:0016265	germ cells	death
-8398	8408	GO:0009987	germ cells	cellular process
-8398	8408	GO:0032502	germ cells	developmental process
-8398	8408	GO:0022414	germ cells	reproductive process
-8403	8408	GO:0005623	cells	cell
-8427	8431	GO:0005623	cell	cell
-8427	8440	GO:0044464	cell membrane	cell part
-8432	8440	GO:0044464	membrane	cell part
-8469	8473	GO:0005623	cell	cell
-8469	8482	GO:0009987	cell adhesion	cellular process
-8469	8482	GO:0022610	cell adhesion	biological adhesion
-8520	8522	GO:0065007	To	biological regulation
-8520	8522	GO:0009987	To	cellular process
-8607	8614	GO:0032502	embryos	developmental process
-8662	8667	GO:0005623	cells	cell
-8809	8819	GO:0016265	germ cells	death
-8809	8819	GO:0009987	germ cells	cellular process
-8809	8819	GO:0032502	germ cells	developmental process
-8809	8819	GO:0022414	germ cells	reproductive process
-8814	8819	GO:0005623	cells	cell
-8881	8886	GO:0005623	cells	cell
-8948	8958	GO:0016265	germ cells	death
-8948	8958	GO:0009987	germ cells	cellular process
-8948	8958	GO:0032502	germ cells	developmental process
-8948	8958	GO:0022414	germ cells	reproductive process
-8953	8958	GO:0005623	cells	cell
-9070	9072	GO:0065007	to	biological regulation
-9070	9072	GO:0009987	to	cellular process
-9297	9299	GO:0065007	To	biological regulation
-9297	9299	GO:0009987	To	cellular process
-9427	9434	GO:0003824	protein	catalytic activity
-9659	9661	GO:0065007	to	biological regulation
-9659	9661	GO:0009987	to	cellular process
-9925	9932	GO:0043226	nucleus	organelle
-9925	9932	GO:0044464	nucleus	cell part
-9985	9998	GO:0044464	intracellular	cell part
-9985	9998	GO:0051179	intracellular	localization
-9985	9998	GO:0009987	intracellular	cellular process
-10023	10030	GO:0003824	protein	catalytic activity
-10032	10034	GO:0065007	To	biological regulation
-10032	10034	GO:0009987	To	cellular process
-10216	10229	GO:0044464	intracellular	cell part
-10216	10229	GO:0051179	intracellular	localization
-10216	10229	GO:0009987	intracellular	cellular process
-10268	10276	GO:0044421	antibody	extraccellular region part
-10268	10276	GO:0032991	antibody	macromolecular complex
-10319	10331	GO:0051179	localization	localization
-10575	10584	GO:0023052	signaling	signaling
-10631	10633	GO:0065007	to	biological regulation
-10631	10633	GO:0009987	to	cellular process
-10643	10661	GO:0022414	testis development	reproductive process
-10643	10661	GO:0032502	testis development	developmental process
-10798	10800	GO:0065007	to	biological regulation
-10798	10800	GO:0009987	to	cellular process
-11101	11108	GO:0032502	embryos	developmental process
-11374	11378	GO:0005623	cell	cell
-11423	11425	GO:0065007	to	biological regulation
-11423	11425	GO:0009987	to	cellular process
-11481	11485	GO:0005623	cell	cell
-11495	11500	GO:0005623	cells	cell
-11573	11586	GO:0005576	extracellular	extracellular region
-11732	11740	GO:0044421	antibody	extraccellular region part
-11732	11740	GO:0032991	antibody	macromolecular complex
-11750	11752	GO:0065007	to	biological regulation
-11750	11752	GO:0009987	to	cellular process
-11764	11769	GO:0005623	cells	cell
-11785	11790	GO:0005623	cells	cell
-11817	11821	GO:0005623	cell	cell
-11842	11846	GO:0005623	cell	cell
-11870	11875	GO:0005623	cells	cell
-11985	11990	GO:0005623	cells	cell
-12111	12113	GO:0065007	To	biological regulation
-12111	12113	GO:0009987	To	cellular process
-12194	12199	GO:0005623	cells	cell
-12290	12292	GO:0065007	to	biological regulation
-12290	12292	GO:0009987	to	cellular process
-12413	12426	GO:0005576	extracellular	extracellular region
-12413	12433	GO:0044421	extracellular matrix	extraccellular region part
-12451	12453	GO:0065007	To	biological regulation
-12451	12453	GO:0009987	To	cellular process
-12661	12666	GO:0005623	cells	cell
-12809	12818	GO:0023052	signaling	signaling
-12860	12865	GO:0005623	cells	cell
-12984	12986	GO:0065007	To	biological regulation
-12984	12986	GO:0009987	To	cellular process
-13274	13279	GO:0005623	cells	cell
-13376	13381	GO:0005623	cells	cell
-13626	13631	GO:0005623	cells	cell
-13837	13839	GO:0065007	to	biological regulation
-13837	13839	GO:0009987	to	cellular process
-13946	13951	GO:0005623	cells	cell
-13964	13966	GO:0065007	to	biological regulation
-13964	13966	GO:0009987	to	cellular process
-13978	13980	GO:0065007	to	biological regulation
-13978	13980	GO:0009987	to	cellular process
-14187	14192	GO:0005623	cells	cell
-14499	14506	GO:0009987	reduced	cellular process
-14499	14506	GO:0008152	reduced	metabolic process
-14499	14506	GO:0005215	reduced	transporter activity
-14499	14506	GO:0051234	reduced	establishment of localization
-14849	14856	GO:0032502	embryos	developmental process
-15198	15200	GO:0065007	to	biological regulation
-15198	15200	GO:0009987	to	cellular process
-15392	15394	GO:0065007	to	biological regulation
-15392	15394	GO:0009987	to	cellular process
-15619	15621	GO:0065007	to	biological regulation
-15619	15621	GO:0009987	to	cellular process
-15911	15915	GO:0005623	Cell	cell
-15969	15973	GO:0005623	cell	cell
-15969	15987	GO:0008283	cell proliferation	cell proliferation
-16111	16115	GO:0005623	cell	cell
-16111	16129	GO:0008283	cell proliferation	cell proliferation
-16249	16256	GO:0065007	mitotic	biological regulation
-16257	16261	GO:0005623	cell	cell
-16311	16316	GO:0005623	cells	cell
-16427	16431	GO:0005623	cell	cell
-16427	16445	GO:0008283	cell proliferation	cell proliferation
-16556	16563	GO:0009987	reduced	cellular process
-16556	16563	GO:0008152	reduced	metabolic process
-16556	16563	GO:0005215	reduced	transporter activity
-16556	16563	GO:0051234	reduced	establishment of localization
-16576	16578	GO:0065007	to	biological regulation
-16576	16578	GO:0009987	to	cellular process
-16799	16804	GO:0005623	cells	cell
-16824	16828	GO:0005623	cell	cell
-17080	17108	GO:0022414	Sertoli cell differentiation	reproductive process
-17080	17108	GO:0009987	Sertoli cell differentiation	cellular process
-17080	17108	GO:0032502	Sertoli cell differentiation	developmental process
-17088	17092	GO:0005623	cell	cell
-17088	17108	GO:0032502	cell differentiation	developmental process
-17088	17108	GO:0009987	cell differentiation	cellular process
-17446	17452	GO:0009987	direct	cellular process
-17446	17452	GO:0008152	direct	metabolic process
-17534	17541	GO:0009987	reduced	cellular process
-17534	17541	GO:0008152	reduced	metabolic process
-17534	17541	GO:0005215	reduced	transporter activity
-17534	17541	GO:0051234	reduced	establishment of localization
-17717	17719	GO:0065007	to	biological regulation
-17717	17719	GO:0009987	to	cellular process
-17736	17742	GO:0009987	direct	cellular process
-17736	17742	GO:0008152	direct	metabolic process
-17881	17885	GO:0005623	cell	cell
-18168	18175	GO:0009987	reduced	cellular process
-18168	18175	GO:0008152	reduced	metabolic process
-18168	18175	GO:0005215	reduced	transporter activity
-18168	18175	GO:0051234	reduced	establishment of localization
-18192	18194	GO:0065007	To	biological regulation
-18192	18194	GO:0009987	To	cellular process
-18246	18248	GO:0065007	to	biological regulation
-18246	18248	GO:0009987	to	cellular process
-18249	18253	GO:0005623	cell	cell
-18249	18259	GO:0016265	cell death	death
-18249	18259	GO:0009987	cell death	cellular process
-18254	18259	GO:0016265	death	death
-18346	18351	GO:0005623	cells	cell
-18425	18429	GO:0005623	cell	cell
-18448	18453	GO:0005623	cells	cell
-18580	18584	GO:0005623	cell	cell
-18580	18590	GO:0016265	cell death	death
-18580	18590	GO:0009987	cell death	cellular process
-18585	18590	GO:0016265	death	death
-18770	18774	GO:0005623	cell	cell
-18770	18780	GO:0016265	cell death	death
-18770	18780	GO:0009987	cell death	cellular process
-18775	18780	GO:0016265	death	death
-18841	18843	GO:0065007	To	biological regulation
-18841	18843	GO:0009987	To	cellular process
-18974	18979	GO:0005623	cells	cell
-18990	18992	GO:0065007	to	biological regulation
-18990	18992	GO:0009987	to	cellular process
-19584	19586	GO:0065007	to	biological regulation
-19584	19586	GO:0009987	to	cellular process
-19607	19609	GO:0065007	To	biological regulation
-19607	19609	GO:0009987	To	cellular process
-19744	19751	GO:0003824	protein	catalytic activity
-19992	19994	GO:0065007	to	biological regulation
-19992	19994	GO:0009987	to	cellular process
-20177	20179	GO:0065007	to	biological regulation
-20177	20179	GO:0009987	to	cellular process
-20226	20228	GO:0065007	To	biological regulation
-20226	20228	GO:0009987	To	cellular process
-20226	20228	GO:0065007	To	biological regulation
-20226	20228	GO:0009987	To	cellular process
-20778	20786	GO:0044421	antibody	extraccellular region part
-20778	20786	GO:0032991	antibody	macromolecular complex
-21175	21183	GO:0044421	antibody	extraccellular region part
-21175	21183	GO:0032991	antibody	macromolecular complex
-21587	21589	GO:0065007	to	biological regulation
-21587	21589	GO:0009987	to	cellular process
-21640	21668	GO:0022414	Sertoli cell differentiation	reproductive process
-21640	21668	GO:0009987	Sertoli cell differentiation	cellular process
-21640	21668	GO:0032502	Sertoli cell differentiation	developmental process
-21648	21652	GO:0005623	cell	cell
-21648	21668	GO:0032502	cell differentiation	developmental process
-21648	21668	GO:0009987	cell differentiation	cellular process
-21685	21694	GO:0008152	formation	metabolic process
-21912	21929	GO:0009987	sex determination	cellular process
-21912	21929	GO:0032502	sex determination	developmental process
-21912	21929	GO:0022414	sex determination	reproductive process
-22040	22045	GO:0005623	cells	cell
-22108	22112	GO:0005623	cell	cell
-22157	22162	GO:0005623	cells	cell
-22157	22162	GO:0005623	cells	cell
-22174	22179	GO:0005623	cells	cell
-22203	22208	GO:0005623	cells	cell
-22236	22238	GO:0065007	to	biological regulation
-22236	22238	GO:0009987	to	cellular process
-22374	22378	GO:0005623	cell	cell
-22374	22384	GO:0016265	cell death	death
-22374	22384	GO:0009987	cell death	cellular process
-22420	22425	GO:0016265	death	death
-22412	22414	GO:0065007	to	biological regulation
-22412	22414	GO:0009987	to	cellular process
-22415	22419	GO:0005623	cell	cell
-22469	22473	GO:0005623	cell	cell
-22698	22703	GO:0005623	cells	cell
-22698	22702	GO:0005623	cell	cell
-22925	22942	GO:0009987	sex determination	cellular process
-22925	22942	GO:0032502	sex determination	developmental process
-22925	22942	GO:0022414	sex determination	reproductive process
-23015	23020	GO:0005623	cells	cell
-23102	23107	GO:0005623	cells	cell
-23249	23255	GO:0040007	growth	growth
-23268	23277	GO:0023052	signaling	signaling
-23306	23312	GO:0040007	growth	growth
-23314	23318	GO:0005623	cell	cell
-23314	23334	GO:0032502	cell differentiation	developmental process
-23314	23334	GO:0009987	cell differentiation	cellular process
-23340	23353	GO:0032502	morphogenesis	developmental process
-23408	23421	GO:0032502	organogenesis	developmental process
-23479	23484	GO:0005623	cells	cell
-23496	23498	GO:0065007	to	biological regulation
-23496	23498	GO:0009987	to	cellular process
-23665	23674	GO:0023052	signaling	signaling
-23665	23683	GO:0023052	signaling pathways	signaling
-23734	23740	GO:0040007	growth	growth
-23742	23746	GO:0005623	cell	cell
-23742	23762	GO:0032502	cell differentiation	developmental process
-23742	23762	GO:0009987	cell differentiation	cellular process
-23767	23780	GO:0032502	morphogenesis	developmental process
-23945	23950	GO:0005623	cells	cell
-23968	23970	GO:0065007	to	biological regulation
-23968	23970	GO:0009987	to	cellular process
-24028	24037	GO:0023052	signaling	signaling
-24200	24205	GO:0005623	cells	cell
-24304	24309	GO:0005623	cells	cell
-24384	24386	GO:0065007	to	biological regulation
-24384	24386	GO:0009987	to	cellular process
-24441	24448	GO:0009987	reduced	cellular process
-24441	24448	GO:0008152	reduced	metabolic process
-24441	24448	GO:0005215	reduced	transporter activity
-24441	24448	GO:0051234	reduced	establishment of localization
-24500	24502	GO:0065007	to	biological regulation
-24500	24502	GO:0009987	to	cellular process
-24533	24538	GO:0005623	cells	cell
-24539	24541	GO:0065007	to	biological regulation
-24539	24541	GO:0009987	to	cellular process
-24549	24551	GO:0065007	to	biological regulation
-24549	24551	GO:0009987	to	cellular process
-24756	24760	GO:0005623	cell	cell
-24756	24774	GO:0008283	cell proliferation	cell proliferation
-24804	24806	GO:0065007	to	biological regulation
-24804	24806	GO:0009987	to	cellular process
-24992	24997	GO:0005623	cells	cell
-25040	25042	GO:0065007	to	biological regulation
-25040	25042	GO:0009987	to	cellular process
-25270	25274	GO:0005623	cell	cell
-25270	25288	GO:0008283	cell proliferation	cell proliferation
-25299	25301	GO:0065007	to	biological regulation
-25299	25301	GO:0009987	to	cellular process
-25365	25367	GO:0065007	to	biological regulation
-25365	25367	GO:0009987	to	cellular process
-25535	25550	GO:0008152	gene expression	metabolic process
-25580	25584	GO:0005623	cell	cell
-25580	25598	GO:0008283	cell proliferation	cell proliferation
-25737	25744	GO:0003824	protein	catalytic activity
-25745	25747	GO:0065007	to	biological regulation
-25745	25747	GO:0009987	to	cellular process
-25844	25846	GO:0065007	to	biological regulation
-25844	25846	GO:0009987	to	cellular process
-26318	26331	GO:0044464	intracellular	cell part
-26318	26331	GO:0051179	intracellular	localization
-26318	26331	GO:0009987	intracellular	cellular process
-26386	26413	GO:0032502	chondrocyte differentiation	developmental process
-26386	26413	GO:0009987	chondrocyte differentiation	cellular process
-26440	26453	GO:0044464	intracellular	cell part
-26440	26453	GO:0051179	intracellular	localization
-26440	26453	GO:0009987	intracellular	cellular process
-26968	26970	GO:0065007	to	biological regulation
-26968	26970	GO:0009987	to	cellular process
-27035	27053	GO:0022414	testis development	reproductive process
-27035	27053	GO:0032502	testis development	developmental process
-27341	27350	GO:0023052	signaling	signaling
-27666	27668	GO:0065007	to	biological regulation
-27666	27668	GO:0009987	to	cellular process
-27761	27769	GO:0003824	proteins	catalytic activity
-27777	27790	GO:0005576	extracellular	extracellular region
-27777	27797	GO:0044421	extracellular matrix	extraccellular region part
-28126	28135	GO:0023052	signaling	signaling
-28294	28304	GO:0044464	Chromosome	cell part
-28294	28304	GO:0043226	Chromosome	organelle
-28294	28304	GO:0044422	Chromosome	organelle part
-28333	28335	GO:0065007	to	biological regulation
-28333	28335	GO:0009987	to	cellular process
-28466	28468	GO:0065007	to	biological regulation
-28466	28468	GO:0009987	to	cellular process
-28514	28516	GO:0065007	to	biological regulation
-28514	28516	GO:0009987	to	cellular process
-28570	28598	GO:0022414	Sertoli cell differentiation	reproductive process
-28570	28598	GO:0009987	Sertoli cell differentiation	cellular process
-28570	28598	GO:0032502	Sertoli cell differentiation	developmental process
-28578	28582	GO:0005623	cell	cell
-28578	28598	GO:0032502	cell differentiation	developmental process
-28578	28598	GO:0009987	cell differentiation	cellular process
-28630	28637	GO:0003824	protein	catalytic activity
-28750	28755	GO:0005623	cells	cell
-28969	28986	GO:0009987	sex determination	cellular process
-28969	28986	GO:0032502	sex determination	developmental process
-28969	28986	GO:0022414	sex determination	reproductive process
-29078	29087	GO:0023052	signaling	signaling
-29348	29353	GO:0005623	cells	cell
-29412	29416	GO:0005623	cell	cell
-29442	29451	GO:0023052	signaling	signaling
-29442	29460	GO:0023052	signaling pathways	signaling
-29765	29767	GO:0065007	to	biological regulation
-29765	29767	GO:0009987	to	cellular process
-29765	29767	GO:0065007	to	biological regulation
-29765	29767	GO:0009987	to	cellular process
-30018	30020	GO:0065007	to	biological regulation
-30018	30020	GO:0009987	to	cellular process
-30254	30263	GO:0023052	signaling	signaling
-30254	30272	GO:0023052	signaling pathways	signaling
-30327	30329	GO:0065007	to	biological regulation
-30327	30329	GO:0009987	to	cellular process
-30453	30455	GO:0065007	to	biological regulation
-30453	30455	GO:0009987	to	cellular process
-30615	30617	GO:0065007	to	biological regulation
-30615	30617	GO:0009987	to	cellular process
-30671	30673	GO:0065007	to	biological regulation
-30671	30673	GO:0009987	to	cellular process
-30900	30907	GO:0032502	embryos	developmental process
-31160	31162	GO:0065007	to	biological regulation
-31160	31162	GO:0009987	to	cellular process
-31540	31550	GO:0044421	Antibodies	extraccellular region part
-31540	31550	GO:0032991	Antibodies	macromolecular complex
-31626	31630	GO:0005623	Cell	cell
-31631	31640	GO:0023052	Signaling	signaling
-31957	31961	GO:0005623	Cell	cell
-31962	31971	GO:0023052	Signaling	signaling
-31981	31989	GO:0032991	Antibody	macromolecular complex
-31981	31989	GO:0044421	Antibody	extraccellular region part
-31990	31997	GO:0005488	binding	binding
-32050	32060	GO:0044421	antibodies	extraccellular region part
-32050	32060	GO:0032991	antibodies	macromolecular complex
-32237	32241	GO:0005623	Cell	cell
-32314	32322	GO:0044421	antibody	extraccellular region part
-32314	32322	GO:0032991	antibody	macromolecular complex
-32446	32454	GO:0044421	antibody	extraccellular region part
-32446	32454	GO:0032991	antibody	macromolecular complex
-32633	32637	GO:0005623	cell	cell
-32655	32662	GO:0032502	embryos	developmental process
-32951	32960	GO:0032501	digestion	multicellular organismal process
-32962	32967	GO:0005623	cells	cell
-33076	33089	GO:0005576	extracellular	extracellular region
-33076	33096	GO:0044421	extracellular matrix	extraccellular region part
-33313	33315	GO:0065007	to	biological regulation
-33313	33315	GO:0009987	to	cellular process
-33398	33403	GO:0005623	cells	cell
-33445	33447	GO:0065007	to	biological regulation
-33445	33447	GO:0009987	to	cellular process
-33517	33519	GO:0065007	to	biological regulation
-33517	33519	GO:0009987	to	cellular process
-33850	33852	GO:0065007	To	biological regulation
-33850	33852	GO:0009987	To	cellular process
-34061	34074	GO:0008152	Transcription	metabolic process
-34061	34074	GO:0009987	Transcription	cellular process
-34761	34768	GO:0003824	protein	catalytic activity
-34785	34791	GO:0040007	growth	growth
-34827	34831	GO:0005623	cell	cell
-34827	34840	GO:0009987	cell adhesion	cellular process
-34827	34840	GO:0022610	cell adhesion	biological adhesion
-35025	35034	GO:0065007	Embryonic	biological regulation
-35025	35034	GO:0009987	Embryonic	cellular process
-35065	35072	GO:0003824	protein	catalytic activity
-35074	35077	GO:0023046	red	signaling process
-35074	35077	GO:0050896	red	response to stimulus
-35074	35077	GO:0009987	red	cellular process
-35074	35077	GO:0065007	red	biological regulation
-35102	35119	GO:0032502	gonad development	developmental process
-35102	35119	GO:0022414	gonad development	reproductive process
-35464	35467	GO:0023046	red	signaling process
-35464	35467	GO:0050896	red	response to stimulus
-35464	35467	GO:0009987	red	cellular process
-35464	35467	GO:0065007	red	biological regulation
-35521	35531	GO:0016265	germ cells	death
-35521	35531	GO:0009987	germ cells	cellular process
-35521	35531	GO:0032502	germ cells	developmental process
-35521	35531	GO:0022414	germ cells	reproductive process
-35526	35531	GO:0005623	cells	cell
-35526	35531	GO:0005623	cells	cell
-35655	35659	GO:0005623	cell	cell
-35814	35824	GO:0016265	germ cells	death
-35814	35824	GO:0009987	germ cells	cellular process
-35814	35824	GO:0032502	germ cells	developmental process
-35814	35824	GO:0022414	germ cells	reproductive process
-35819	35824	GO:0005623	cells	cell
-35850	35855	GO:0005623	cells	cell
-36135	36140	GO:0005623	cells	cell
-36157	36162	GO:0005623	cells	cell
-36209	36214	GO:0005623	cells	cell
-36285	36292	GO:0003824	protein	catalytic activity
-36294	36297	GO:0023046	red	signaling process
-36294	36297	GO:0050896	red	response to stimulus
-36294	36297	GO:0009987	red	cellular process
-36294	36297	GO:0065007	red	biological regulation
-36422	36432	GO:0016265	germ cells	death
-36422	36432	GO:0009987	germ cells	cellular process
-36422	36432	GO:0032502	germ cells	developmental process
-36422	36432	GO:0022414	germ cells	reproductive process
-36427	36432	GO:0005623	cells	cell
-36427	36432	GO:0005623	cells	cell
-36590	36595	GO:0005623	cells	cell
-36600	36605	GO:0005623	cells	cell
-36715	36720	GO:0005623	Cells	cell
-36775	36778	GO:0023046	red	signaling process
-36775	36778	GO:0050896	red	response to stimulus
-36775	36778	GO:0009987	red	cellular process
-36775	36778	GO:0065007	red	biological regulation
-36805	36808	GO:0023046	red	signaling process
-36805	36808	GO:0050896	red	response to stimulus
-36805	36808	GO:0009987	red	cellular process
-36805	36808	GO:0065007	red	biological regulation
-36904	36909	GO:0005623	cells	cell
-37004	37009	GO:0005623	cells	cell
-37092	37102	GO:0016265	germ cells	death
-37092	37102	GO:0009987	germ cells	cellular process
-37092	37102	GO:0032502	germ cells	developmental process
-37092	37102	GO:0022414	germ cells	reproductive process
-37097	37102	GO:0005623	cells	cell
-37224	37227	GO:0023046	red	signaling process
-37224	37227	GO:0050896	red	response to stimulus
-37224	37227	GO:0009987	red	cellular process
-37224	37227	GO:0065007	red	biological regulation
-37362	37367	GO:0005623	cells	cell
-37362	37367	GO:0005623	cells	cell
-37504	37508	GO:0005623	cell	cell
-37504	37522	GO:0008283	cell proliferation	cell proliferation
-38108	38115	GO:0009987	reduced	cellular process
-38108	38115	GO:0008152	reduced	metabolic process
-38108	38115	GO:0005215	reduced	transporter activity
-38108	38115	GO:0051234	reduced	establishment of localization
-38224	38229	GO:0005623	cells	cell
-38297	38299	GO:0065007	to	biological regulation
-38297	38299	GO:0009987	to	cellular process
-38508	38512	GO:0005623	Cell	cell
-38555	38557	GO:0065007	to	biological regulation
-38555	38557	GO:0009987	to	cellular process
-38785	38792	GO:0009987	reduced	cellular process
-38785	38792	GO:0008152	reduced	metabolic process
-38785	38792	GO:0005215	reduced	transporter activity
-38785	38792	GO:0051234	reduced	establishment of localization
-38858	38862	GO:0005623	cell	cell
-38858	38868	GO:0016265	cell death	death
-38858	38868	GO:0009987	cell death	cellular process
-38863	38868	GO:0016265	death	death
-38935	38938	GO:0023046	red	signaling process
-38935	38938	GO:0050896	red	response to stimulus
-38935	38938	GO:0009987	red	cellular process
-38935	38938	GO:0065007	red	biological regulation
-38954	38963	GO:0016265	apoptosis	death
-38954	38963	GO:0009987	apoptosis	cellular process
-39053	39058	GO:0005623	cells	cell
-39362	39364	GO:0065007	to	biological regulation
-39362	39364	GO:0009987	to	cellular process
-39816	39818	GO:0065007	to	biological regulation
-39816	39818	GO:0009987	to	cellular process
-39869	39872	GO:0023046	red	signaling process
-39869	39872	GO:0050896	red	response to stimulus
-39869	39872	GO:0009987	red	cellular process
-39869	39872	GO:0065007	red	biological regulation
-40140	40143	GO:0023046	red	signaling process
-40140	40143	GO:0050896	red	response to stimulus
-40140	40143	GO:0009987	red	cellular process
-40140	40143	GO:0065007	red	biological regulation
-40235	40237	GO:0065007	to	biological regulation
-40235	40237	GO:0009987	to	cellular process
-40280	40283	GO:0023046	red	signaling process
-40280	40283	GO:0050896	red	response to stimulus
-40280	40283	GO:0009987	red	cellular process
-40280	40283	GO:0065007	red	biological regulation
-40453	40460	GO:0009987	reduced	cellular process
-40453	40460	GO:0008152	reduced	metabolic process
-40453	40460	GO:0005215	reduced	transporter activity
-40453	40460	GO:0051234	reduced	establishment of localization
-41647	41657	GO:0003824	initiating	catalytic activity
-41852	41855	GO:0044422	MCC	organelle part
-41852	41855	GO:0044464	MCC	cell part
-41852	41855	GO:0032991	MCC	macromolecular complex
-41918	41920	GO:0065007	to	biological regulation
-41918	41920	GO:0009987	to	cellular process
-42124	42141	GO:0009987	sex determination	cellular process
-42124	42141	GO:0032502	sex determination	developmental process
-42124	42141	GO:0022414	sex determination	reproductive process
-42277	42279	GO:0065007	to	biological regulation
-42277	42279	GO:0009987	to	cellular process
-42298	42300	GO:0065007	to	biological regulation
-42298	42300	GO:0009987	to	cellular process
+187	193	GO:0040007	growth	growth
+227	233	GO:0040007	growth	growth
+235	248	GO:0032502	morphogenesis	developmental process
+288	293	GO:0005623	cells	cell
+386	388	GO:0065007	to	biological regulation
+386	388	GO:0009987	to	cellular process
+389	406	GO:0009987	sex determination	cellular process
+389	406	GO:0032502	sex determination	developmental process
+389	406	GO:0022414	sex determination	reproductive process
+427	429	GO:0065007	to	biological regulation
+427	429	GO:0009987	to	cellular process
+487	505	GO:0022414	testis development	reproductive process
+487	505	GO:0032502	testis development	developmental process
+692	698	GO:0040007	growth	growth
+702	704	GO:0065007	to	biological regulation
+702	704	GO:0009987	to	cellular process
+760	777	GO:0009987	sex determination	cellular process
+760	777	GO:0032502	sex determination	developmental process
+760	777	GO:0022414	sex determination	reproductive process
+911	913	GO:0065007	to	biological regulation
+911	913	GO:0009987	to	cellular process
+998	1000	GO:0065007	to	biological regulation
+998	1000	GO:0009987	to	cellular process
+998	1000	GO:0065007	to	biological regulation
+998	1000	GO:0009987	to	cellular process
+1299	1316	GO:0009987	sex determination	cellular process
+1299	1316	GO:0032502	sex determination	developmental process
+1299	1316	GO:0022414	sex determination	reproductive process
+1416	1425	GO:0023052	signaling	signaling
+1416	1434	GO:0023052	signaling pathways	signaling
+1641	1650	GO:0009987	embryonic	cellular process
+1641	1650	GO:0065007	embryonic	biological regulation
+1797	1799	GO:0065007	to	biological regulation
+1797	1799	GO:0009987	to	cellular process
+1857	1859	GO:0065007	to	biological regulation
+1857	1859	GO:0009987	to	cellular process
+1894	1903	GO:0009987	embryonic	cellular process
+1894	1903	GO:0065007	embryonic	biological regulation
+1946	1956	GO:0016265	germ cells	death
+1946	1956	GO:0009987	germ cells	cellular process
+1946	1956	GO:0032502	germ cells	developmental process
+1946	1956	GO:0022414	germ cells	reproductive process
+1951	1956	GO:0005623	cells	cell
+1951	1956	GO:0005623	cells	cell
+1969	1974	GO:0005623	cells	cell
+2040	2042	GO:0065007	to	biological regulation
+2040	2042	GO:0009987	to	cellular process
+2154	2159	GO:0005623	cells	cell
+2396	2408	GO:0044464	X chromosome	cell part
+2396	2408	GO:0043226	X chromosome	organelle
+2398	2408	GO:0043226	chromosome	organelle
+2398	2408	GO:0044422	chromosome	organelle part
+2398	2408	GO:0044464	chromosome	cell part
+2409	2416	GO:0003824	protein	catalytic activity
+2465	2471	GO:0040007	growth	growth
+2642	2659	GO:0009987	sex determination	cellular process
+2642	2659	GO:0032502	sex determination	developmental process
+2642	2659	GO:0022414	sex determination	reproductive process
+2689	2706	GO:0032502	organ development	developmental process
+2798	2816	GO:0022414	testis development	reproductive process
+2798	2816	GO:0032502	testis development	developmental process
+2878	2882	GO:0005623	cell	cell
+2895	2905	GO:0003824	initiating	catalytic activity
+3089	3094	GO:0005623	cells	cell
+3095	3097	GO:0065007	to	biological regulation
+3095	3097	GO:0009987	to	cellular process
+3118	3127	GO:0008152	formation	metabolic process
+3143	3145	GO:0065007	to	biological regulation
+3143	3145	GO:0009987	to	cellular process
+3173	3201	GO:0022414	Sertoli cell differentiation	reproductive process
+3173	3201	GO:0009987	Sertoli cell differentiation	cellular process
+3173	3201	GO:0032502	Sertoli cell differentiation	developmental process
+3181	3185	GO:0005623	cell	cell
+3181	3201	GO:0032502	cell differentiation	developmental process
+3181	3201	GO:0009987	cell differentiation	cellular process
+3332	3339	GO:0032502	embryos	developmental process
+3350	3357	GO:0032502	embryos	developmental process
+3385	3389	GO:0005623	cell	cell
+3685	3690	GO:0005623	cells	cell
+3697	3699	GO:0065007	to	biological regulation
+3697	3699	GO:0009987	to	cellular process
+3749	3754	GO:0005623	cells	cell
+3779	3784	GO:0005623	cells	cell
+3799	3803	GO:0005623	cell	cell
+3859	3863	GO:0005623	cell	cell
+3877	3881	GO:0005623	cell	cell
+3887	3889	GO:0065007	to	biological regulation
+3887	3889	GO:0009987	to	cellular process
+3997	4002	GO:0005623	cells	cell
+4015	4017	GO:0065007	to	biological regulation
+4015	4017	GO:0009987	to	cellular process
+4015	4017	GO:0065007	to	biological regulation
+4015	4017	GO:0009987	to	cellular process
+4224	4226	GO:0065007	to	biological regulation
+4224	4226	GO:0009987	to	cellular process
+4322	4326	GO:0005623	cell	cell
+4400	4406	GO:0032502	embryo	developmental process
+4472	4474	GO:0065007	to	biological regulation
+4472	4474	GO:0009987	to	cellular process
+4565	4583	GO:0022414	testis development	reproductive process
+4565	4583	GO:0032502	testis development	developmental process
+4650	4667	GO:0009987	sex determination	cellular process
+4650	4667	GO:0032502	sex determination	developmental process
+4650	4667	GO:0022414	sex determination	reproductive process
+4699	4701	GO:0065007	to	biological regulation
+4699	4701	GO:0009987	to	cellular process
+4739	4741	GO:0065007	to	biological regulation
+4739	4741	GO:0009987	to	cellular process
+4897	4902	GO:0005623	cells	cell
+5001	5006	GO:0005623	cells	cell
+5044	5049	GO:0005623	cells	cell
+5181	5190	GO:0023052	signaling	signaling
+5181	5199	GO:0023052	signaling pathways	signaling
+5246	5252	GO:0040007	growth	growth
+5421	5434	GO:0005576	extracellular	extracellular region
+5435	5444	GO:0023052	signaling	signaling
+5435	5453	GO:0023052	signaling pathways	signaling
+5485	5510	GO:0032502	primary sex determination	developmental process
+5485	5510	GO:0022414	primary sex determination	reproductive process
+5493	5510	GO:0009987	sex determination	cellular process
+5493	5510	GO:0032502	sex determination	developmental process
+5493	5510	GO:0022414	sex determination	reproductive process
+5637	5641	GO:0005623	cell	cell
+5637	5655	GO:0008283	cell proliferation	cell proliferation
+5664	5668	GO:0005623	cell	cell
+5664	5678	GO:0009987	cell migration	cellular process
+5664	5678	GO:0040011	cell migration	locomotion
+5724	5733	GO:0008152	formation	metabolic process
+5770	5775	GO:0005623	cells	cell
+6013	6015	GO:0065007	to	biological regulation
+6013	6015	GO:0009987	to	cellular process
+6204	6209	GO:0005623	cells	cell
+6380	6384	GO:0005623	cell	cell
+6474	6476	GO:0065007	to	biological regulation
+6474	6476	GO:0009987	to	cellular process
+6522	6547	GO:0032502	primary sex determination	developmental process
+6522	6547	GO:0022414	primary sex determination	reproductive process
+6530	6547	GO:0009987	sex determination	cellular process
+6530	6547	GO:0032502	sex determination	developmental process
+6530	6547	GO:0022414	sex determination	reproductive process
+6563	6565	GO:0065007	To	biological regulation
+6563	6565	GO:0009987	To	cellular process
+6675	6677	GO:0065007	to	biological regulation
+6675	6677	GO:0009987	to	cellular process
+7127	7132	GO:0005623	cells	cell
+7154	7156	GO:0065007	to	biological regulation
+7154	7156	GO:0009987	to	cellular process
+7196	7198	GO:0065007	to	biological regulation
+7196	7198	GO:0009987	to	cellular process
+7320	7322	GO:0065007	to	biological regulation
+7320	7322	GO:0009987	to	cellular process
+7760	7766	GO:0040007	growth	growth
+7768	7781	GO:0032502	morphogenesis	developmental process
+7869	7871	GO:0065007	to	biological regulation
+7869	7871	GO:0009987	to	cellular process
+7917	7925	GO:0044421	antibody	extraccellular region part
+7917	7925	GO:0032991	antibody	macromolecular complex
+7935	7937	GO:0065007	to	biological regulation
+7935	7937	GO:0009987	to	cellular process
+7981	7998	GO:0032502	gonad development	developmental process
+7981	7998	GO:0022414	gonad development	reproductive process
+8005	8012	GO:0003824	protein	catalytic activity
+8170	8175	GO:0005623	cells	cell
+8210	8215	GO:0005623	cells	cell
+8385	8387	GO:0065007	to	biological regulation
+8385	8387	GO:0009987	to	cellular process
+8396	8401	GO:0005623	cells	cell
+8420	8430	GO:0016265	germ cells	death
+8420	8430	GO:0009987	germ cells	cellular process
+8420	8430	GO:0032502	germ cells	developmental process
+8420	8430	GO:0022414	germ cells	reproductive process
+8425	8430	GO:0005623	cells	cell
+8449	8453	GO:0005623	cell	cell
+8449	8462	GO:0044464	cell membrane	cell part
+8454	8462	GO:0044464	membrane	cell part
+8491	8495	GO:0005623	cell	cell
+8491	8504	GO:0009987	cell adhesion	cellular process
+8491	8504	GO:0022610	cell adhesion	biological adhesion
+8542	8544	GO:0065007	To	biological regulation
+8542	8544	GO:0009987	To	cellular process
+8629	8636	GO:0032502	embryos	developmental process
+8684	8689	GO:0005623	cells	cell
+8831	8841	GO:0016265	germ cells	death
+8831	8841	GO:0009987	germ cells	cellular process
+8831	8841	GO:0032502	germ cells	developmental process
+8831	8841	GO:0022414	germ cells	reproductive process
+8836	8841	GO:0005623	cells	cell
+8903	8908	GO:0005623	cells	cell
+8970	8980	GO:0016265	germ cells	death
+8970	8980	GO:0009987	germ cells	cellular process
+8970	8980	GO:0032502	germ cells	developmental process
+8970	8980	GO:0022414	germ cells	reproductive process
+8975	8980	GO:0005623	cells	cell
+9092	9094	GO:0065007	to	biological regulation
+9092	9094	GO:0009987	to	cellular process
+9323	9325	GO:0065007	To	biological regulation
+9323	9325	GO:0009987	To	cellular process
+9453	9460	GO:0003824	protein	catalytic activity
+9685	9687	GO:0065007	to	biological regulation
+9685	9687	GO:0009987	to	cellular process
+9951	9958	GO:0043226	nucleus	organelle
+9951	9958	GO:0044464	nucleus	cell part
+10011	10024	GO:0044464	intracellular	cell part
+10011	10024	GO:0051179	intracellular	localization
+10011	10024	GO:0009987	intracellular	cellular process
+10049	10056	GO:0003824	protein	catalytic activity
+10058	10060	GO:0065007	To	biological regulation
+10058	10060	GO:0009987	To	cellular process
+10242	10255	GO:0044464	intracellular	cell part
+10242	10255	GO:0051179	intracellular	localization
+10242	10255	GO:0009987	intracellular	cellular process
+10294	10302	GO:0044421	antibody	extraccellular region part
+10294	10302	GO:0032991	antibody	macromolecular complex
+10345	10357	GO:0051179	localization	localization
+10601	10610	GO:0023052	signaling	signaling
+10657	10659	GO:0065007	to	biological regulation
+10657	10659	GO:0009987	to	cellular process
+10669	10687	GO:0022414	testis development	reproductive process
+10669	10687	GO:0032502	testis development	developmental process
+10828	10830	GO:0065007	to	biological regulation
+10828	10830	GO:0009987	to	cellular process
+11131	11138	GO:0032502	embryos	developmental process
+11404	11408	GO:0005623	cell	cell
+11453	11455	GO:0065007	to	biological regulation
+11453	11455	GO:0009987	to	cellular process
+11511	11515	GO:0005623	cell	cell
+11525	11530	GO:0005623	cells	cell
+11603	11616	GO:0005576	extracellular	extracellular region
+11762	11770	GO:0044421	antibody	extraccellular region part
+11762	11770	GO:0032991	antibody	macromolecular complex
+11780	11782	GO:0065007	to	biological regulation
+11780	11782	GO:0009987	to	cellular process
+11794	11799	GO:0005623	cells	cell
+11815	11820	GO:0005623	cells	cell
+11847	11851	GO:0005623	cell	cell
+11872	11876	GO:0005623	cell	cell
+11900	11905	GO:0005623	cells	cell
+12015	12020	GO:0005623	cells	cell
+12141	12143	GO:0065007	To	biological regulation
+12141	12143	GO:0009987	To	cellular process
+12224	12229	GO:0005623	cells	cell
+12320	12322	GO:0065007	to	biological regulation
+12320	12322	GO:0009987	to	cellular process
+12443	12456	GO:0005576	extracellular	extracellular region
+12443	12463	GO:0044421	extracellular matrix	extraccellular region part
+12481	12483	GO:0065007	To	biological regulation
+12481	12483	GO:0009987	To	cellular process
+12691	12696	GO:0005623	cells	cell
+12839	12848	GO:0023052	signaling	signaling
+12890	12895	GO:0005623	cells	cell
+13018	13020	GO:0065007	To	biological regulation
+13018	13020	GO:0009987	To	cellular process
+13308	13313	GO:0005623	cells	cell
+13410	13415	GO:0005623	cells	cell
+13660	13665	GO:0005623	cells	cell
+13871	13873	GO:0065007	to	biological regulation
+13871	13873	GO:0009987	to	cellular process
+13980	13985	GO:0005623	cells	cell
+13998	14000	GO:0065007	to	biological regulation
+13998	14000	GO:0009987	to	cellular process
+14012	14014	GO:0065007	to	biological regulation
+14012	14014	GO:0009987	to	cellular process
+14221	14226	GO:0005623	cells	cell
+14537	14544	GO:0009987	reduced	cellular process
+14537	14544	GO:0008152	reduced	metabolic process
+14537	14544	GO:0005215	reduced	transporter activity
+14537	14544	GO:0051234	reduced	establishment of localization
+14887	14894	GO:0032502	embryos	developmental process
+15236	15238	GO:0065007	to	biological regulation
+15236	15238	GO:0009987	to	cellular process
+15430	15432	GO:0065007	to	biological regulation
+15430	15432	GO:0009987	to	cellular process
+15657	15659	GO:0065007	to	biological regulation
+15657	15659	GO:0009987	to	cellular process
+15951	15955	GO:0005623	Cell	cell
+16011	16015	GO:0005623	cell	cell
+16011	16029	GO:0008283	cell proliferation	cell proliferation
+16153	16157	GO:0005623	cell	cell
+16153	16171	GO:0008283	cell proliferation	cell proliferation
+16291	16298	GO:0065007	mitotic	biological regulation
+16299	16303	GO:0005623	cell	cell
+16353	16358	GO:0005623	cells	cell
+16469	16473	GO:0005623	cell	cell
+16469	16487	GO:0008283	cell proliferation	cell proliferation
+16598	16605	GO:0009987	reduced	cellular process
+16598	16605	GO:0008152	reduced	metabolic process
+16598	16605	GO:0005215	reduced	transporter activity
+16598	16605	GO:0051234	reduced	establishment of localization
+16618	16620	GO:0065007	to	biological regulation
+16618	16620	GO:0009987	to	cellular process
+16841	16846	GO:0005623	cells	cell
+16866	16870	GO:0005623	cell	cell
+17126	17154	GO:0022414	Sertoli cell differentiation	reproductive process
+17126	17154	GO:0009987	Sertoli cell differentiation	cellular process
+17126	17154	GO:0032502	Sertoli cell differentiation	developmental process
+17134	17138	GO:0005623	cell	cell
+17134	17154	GO:0032502	cell differentiation	developmental process
+17134	17154	GO:0009987	cell differentiation	cellular process
+17492	17498	GO:0009987	direct	cellular process
+17492	17498	GO:0008152	direct	metabolic process
+17580	17587	GO:0009987	reduced	cellular process
+17580	17587	GO:0008152	reduced	metabolic process
+17580	17587	GO:0005215	reduced	transporter activity
+17580	17587	GO:0051234	reduced	establishment of localization
+17763	17765	GO:0065007	to	biological regulation
+17763	17765	GO:0009987	to	cellular process
+17782	17788	GO:0009987	direct	cellular process
+17782	17788	GO:0008152	direct	metabolic process
+17929	17933	GO:0005623	cell	cell
+18216	18223	GO:0009987	reduced	cellular process
+18216	18223	GO:0008152	reduced	metabolic process
+18216	18223	GO:0005215	reduced	transporter activity
+18216	18223	GO:0051234	reduced	establishment of localization
+18240	18242	GO:0065007	To	biological regulation
+18240	18242	GO:0009987	To	cellular process
+18294	18296	GO:0065007	to	biological regulation
+18294	18296	GO:0009987	to	cellular process
+18297	18301	GO:0005623	cell	cell
+18297	18307	GO:0016265	cell death	death
+18297	18307	GO:0009987	cell death	cellular process
+18302	18307	GO:0016265	death	death
+18394	18399	GO:0005623	cells	cell
+18473	18477	GO:0005623	cell	cell
+18496	18501	GO:0005623	cells	cell
+18628	18632	GO:0005623	cell	cell
+18628	18638	GO:0016265	cell death	death
+18628	18638	GO:0009987	cell death	cellular process
+18633	18638	GO:0016265	death	death
+18818	18822	GO:0005623	cell	cell
+18818	18828	GO:0016265	cell death	death
+18818	18828	GO:0009987	cell death	cellular process
+18823	18828	GO:0016265	death	death
+18889	18891	GO:0065007	To	biological regulation
+18889	18891	GO:0009987	To	cellular process
+19022	19027	GO:0005623	cells	cell
+19038	19040	GO:0065007	to	biological regulation
+19038	19040	GO:0009987	to	cellular process
+19636	19638	GO:0065007	to	biological regulation
+19636	19638	GO:0009987	to	cellular process
+19659	19661	GO:0065007	To	biological regulation
+19659	19661	GO:0009987	To	cellular process
+19796	19803	GO:0003824	protein	catalytic activity
+20044	20046	GO:0065007	to	biological regulation
+20044	20046	GO:0009987	to	cellular process
+20231	20233	GO:0065007	to	biological regulation
+20231	20233	GO:0009987	to	cellular process
+20280	20282	GO:0065007	To	biological regulation
+20280	20282	GO:0009987	To	cellular process
+20280	20282	GO:0065007	To	biological regulation
+20280	20282	GO:0009987	To	cellular process
+20832	20840	GO:0044421	antibody	extraccellular region part
+20832	20840	GO:0032991	antibody	macromolecular complex
+21231	21239	GO:0044421	antibody	extraccellular region part
+21231	21239	GO:0032991	antibody	macromolecular complex
+21643	21645	GO:0065007	to	biological regulation
+21643	21645	GO:0009987	to	cellular process
+21696	21724	GO:0022414	Sertoli cell differentiation	reproductive process
+21696	21724	GO:0009987	Sertoli cell differentiation	cellular process
+21696	21724	GO:0032502	Sertoli cell differentiation	developmental process
+21704	21708	GO:0005623	cell	cell
+21704	21724	GO:0032502	cell differentiation	developmental process
+21704	21724	GO:0009987	cell differentiation	cellular process
+21741	21750	GO:0008152	formation	metabolic process
+21968	21985	GO:0009987	sex determination	cellular process
+21968	21985	GO:0032502	sex determination	developmental process
+21968	21985	GO:0022414	sex determination	reproductive process
+22100	22105	GO:0005623	cells	cell
+22168	22172	GO:0005623	cell	cell
+22217	22222	GO:0005623	cells	cell
+22217	22222	GO:0005623	cells	cell
+22234	22239	GO:0005623	cells	cell
+22263	22268	GO:0005623	cells	cell
+22296	22298	GO:0065007	to	biological regulation
+22296	22298	GO:0009987	to	cellular process
+22434	22438	GO:0005623	cell	cell
+22434	22444	GO:0016265	cell death	death
+22434	22444	GO:0009987	cell death	cellular process
+22480	22485	GO:0016265	death	death
+22472	22474	GO:0065007	to	biological regulation
+22472	22474	GO:0009987	to	cellular process
+22475	22479	GO:0005623	cell	cell
+22529	22533	GO:0005623	cell	cell
+22760	22765	GO:0005623	cells	cell
+22760	22764	GO:0005623	cell	cell
+22987	23004	GO:0009987	sex determination	cellular process
+22987	23004	GO:0032502	sex determination	developmental process
+22987	23004	GO:0022414	sex determination	reproductive process
+23077	23082	GO:0005623	cells	cell
+23164	23169	GO:0005623	cells	cell
+23311	23317	GO:0040007	growth	growth
+23330	23339	GO:0023052	signaling	signaling
+23368	23374	GO:0040007	growth	growth
+23376	23380	GO:0005623	cell	cell
+23376	23396	GO:0032502	cell differentiation	developmental process
+23376	23396	GO:0009987	cell differentiation	cellular process
+23402	23415	GO:0032502	morphogenesis	developmental process
+23470	23483	GO:0032502	organogenesis	developmental process
+23541	23546	GO:0005623	cells	cell
+23558	23560	GO:0065007	to	biological regulation
+23558	23560	GO:0009987	to	cellular process
+23727	23736	GO:0023052	signaling	signaling
+23727	23745	GO:0023052	signaling pathways	signaling
+23796	23802	GO:0040007	growth	growth
+23804	23808	GO:0005623	cell	cell
+23804	23824	GO:0032502	cell differentiation	developmental process
+23804	23824	GO:0009987	cell differentiation	cellular process
+23829	23842	GO:0032502	morphogenesis	developmental process
+24009	24014	GO:0005623	cells	cell
+24032	24034	GO:0065007	to	biological regulation
+24032	24034	GO:0009987	to	cellular process
+24092	24101	GO:0023052	signaling	signaling
+24264	24269	GO:0005623	cells	cell
+24368	24373	GO:0005623	cells	cell
+24448	24450	GO:0065007	to	biological regulation
+24448	24450	GO:0009987	to	cellular process
+24505	24512	GO:0009987	reduced	cellular process
+24505	24512	GO:0008152	reduced	metabolic process
+24505	24512	GO:0005215	reduced	transporter activity
+24505	24512	GO:0051234	reduced	establishment of localization
+24564	24566	GO:0065007	to	biological regulation
+24564	24566	GO:0009987	to	cellular process
+24597	24602	GO:0005623	cells	cell
+24603	24605	GO:0065007	to	biological regulation
+24603	24605	GO:0009987	to	cellular process
+24613	24615	GO:0065007	to	biological regulation
+24613	24615	GO:0009987	to	cellular process
+24820	24824	GO:0005623	cell	cell
+24820	24838	GO:0008283	cell proliferation	cell proliferation
+24868	24870	GO:0065007	to	biological regulation
+24868	24870	GO:0009987	to	cellular process
+25056	25061	GO:0005623	cells	cell
+25104	25106	GO:0065007	to	biological regulation
+25104	25106	GO:0009987	to	cellular process
+25334	25338	GO:0005623	cell	cell
+25334	25352	GO:0008283	cell proliferation	cell proliferation
+25363	25365	GO:0065007	to	biological regulation
+25363	25365	GO:0009987	to	cellular process
+25429	25431	GO:0065007	to	biological regulation
+25429	25431	GO:0009987	to	cellular process
+25599	25614	GO:0008152	gene expression	metabolic process
+25644	25648	GO:0005623	cell	cell
+25644	25662	GO:0008283	cell proliferation	cell proliferation
+25803	25810	GO:0003824	protein	catalytic activity
+25811	25813	GO:0065007	to	biological regulation
+25811	25813	GO:0009987	to	cellular process
+25910	25912	GO:0065007	to	biological regulation
+25910	25912	GO:0009987	to	cellular process
+26384	26397	GO:0044464	intracellular	cell part
+26384	26397	GO:0051179	intracellular	localization
+26384	26397	GO:0009987	intracellular	cellular process
+26452	26479	GO:0032502	chondrocyte differentiation	developmental process
+26452	26479	GO:0009987	chondrocyte differentiation	cellular process
+26506	26519	GO:0044464	intracellular	cell part
+26506	26519	GO:0051179	intracellular	localization
+26506	26519	GO:0009987	intracellular	cellular process
+27036	27038	GO:0065007	to	biological regulation
+27036	27038	GO:0009987	to	cellular process
+27103	27121	GO:0022414	testis development	reproductive process
+27103	27121	GO:0032502	testis development	developmental process
+27409	27418	GO:0023052	signaling	signaling
+27736	27738	GO:0065007	to	biological regulation
+27736	27738	GO:0009987	to	cellular process
+27831	27839	GO:0003824	proteins	catalytic activity
+27847	27860	GO:0005576	extracellular	extracellular region
+27847	27867	GO:0044421	extracellular matrix	extraccellular region part
+28198	28207	GO:0023052	signaling	signaling
+28366	28376	GO:0044464	Chromosome	cell part
+28366	28376	GO:0043226	Chromosome	organelle
+28366	28376	GO:0044422	Chromosome	organelle part
+28405	28407	GO:0065007	to	biological regulation
+28405	28407	GO:0009987	to	cellular process
+28538	28540	GO:0065007	to	biological regulation
+28538	28540	GO:0009987	to	cellular process
+28586	28588	GO:0065007	to	biological regulation
+28586	28588	GO:0009987	to	cellular process
+28642	28670	GO:0022414	Sertoli cell differentiation	reproductive process
+28642	28670	GO:0009987	Sertoli cell differentiation	cellular process
+28642	28670	GO:0032502	Sertoli cell differentiation	developmental process
+28650	28654	GO:0005623	cell	cell
+28650	28670	GO:0032502	cell differentiation	developmental process
+28650	28670	GO:0009987	cell differentiation	cellular process
+28702	28709	GO:0003824	protein	catalytic activity
+28822	28827	GO:0005623	cells	cell
+29043	29060	GO:0009987	sex determination	cellular process
+29043	29060	GO:0032502	sex determination	developmental process
+29043	29060	GO:0022414	sex determination	reproductive process
+29152	29161	GO:0023052	signaling	signaling
+29422	29427	GO:0005623	cells	cell
+29486	29490	GO:0005623	cell	cell
+29516	29525	GO:0023052	signaling	signaling
+29516	29534	GO:0023052	signaling pathways	signaling
+29839	29841	GO:0065007	to	biological regulation
+29839	29841	GO:0009987	to	cellular process
+29839	29841	GO:0065007	to	biological regulation
+29839	29841	GO:0009987	to	cellular process
+30092	30094	GO:0065007	to	biological regulation
+30092	30094	GO:0009987	to	cellular process
+30328	30337	GO:0023052	signaling	signaling
+30328	30346	GO:0023052	signaling pathways	signaling
+30401	30403	GO:0065007	to	biological regulation
+30401	30403	GO:0009987	to	cellular process
+30533	30535	GO:0065007	to	biological regulation
+30533	30535	GO:0009987	to	cellular process
+30695	30697	GO:0065007	to	biological regulation
+30695	30697	GO:0009987	to	cellular process
+30751	30753	GO:0065007	to	biological regulation
+30751	30753	GO:0009987	to	cellular process
+30980	30987	GO:0032502	embryos	developmental process
+31242	31244	GO:0065007	to	biological regulation
+31242	31244	GO:0009987	to	cellular process
+31626	31636	GO:0044421	Antibodies	extraccellular region part
+31626	31636	GO:0032991	Antibodies	macromolecular complex
+31712	31716	GO:0005623	Cell	cell
+31717	31726	GO:0023052	Signaling	signaling
+32043	32047	GO:0005623	Cell	cell
+32048	32057	GO:0023052	Signaling	signaling
+32067	32075	GO:0032991	Antibody	macromolecular complex
+32067	32075	GO:0044421	Antibody	extraccellular region part
+32076	32083	GO:0005488	binding	binding
+32136	32146	GO:0044421	antibodies	extraccellular region part
+32136	32146	GO:0032991	antibodies	macromolecular complex
+32323	32327	GO:0005623	Cell	cell
+32400	32408	GO:0044421	antibody	extraccellular region part
+32400	32408	GO:0032991	antibody	macromolecular complex
+32532	32540	GO:0044421	antibody	extraccellular region part
+32532	32540	GO:0032991	antibody	macromolecular complex
+32721	32725	GO:0005623	cell	cell
+32745	32752	GO:0032502	embryos	developmental process
+33041	33050	GO:0032501	digestion	multicellular organismal process
+33052	33057	GO:0005623	cells	cell
+33166	33179	GO:0005576	extracellular	extracellular region
+33166	33186	GO:0044421	extracellular matrix	extraccellular region part
+33403	33405	GO:0065007	to	biological regulation
+33403	33405	GO:0009987	to	cellular process
+33488	33493	GO:0005623	cells	cell
+33535	33537	GO:0065007	to	biological regulation
+33535	33537	GO:0009987	to	cellular process
+33607	33609	GO:0065007	to	biological regulation
+33607	33609	GO:0009987	to	cellular process
+33944	33946	GO:0065007	To	biological regulation
+33944	33946	GO:0009987	To	cellular process
+34161	34174	GO:0008152	Transcription	metabolic process
+34161	34174	GO:0009987	Transcription	cellular process
+34879	34886	GO:0003824	protein	catalytic activity
+34905	34911	GO:0040007	growth	growth
+34949	34953	GO:0005623	cell	cell
+34949	34962	GO:0009987	cell adhesion	cellular process
+34949	34962	GO:0022610	cell adhesion	biological adhesion
+35159	35168	GO:0065007	Embryonic	biological regulation
+35159	35168	GO:0009987	Embryonic	cellular process
+35201	35208	GO:0003824	protein	catalytic activity
+35210	35213	GO:0023046	red	signaling process
+35210	35213	GO:0050896	red	response to stimulus
+35210	35213	GO:0009987	red	cellular process
+35210	35213	GO:0065007	red	biological regulation
+35238	35255	GO:0032502	gonad development	developmental process
+35238	35255	GO:0022414	gonad development	reproductive process
+35602	35605	GO:0023046	red	signaling process
+35602	35605	GO:0050896	red	response to stimulus
+35602	35605	GO:0009987	red	cellular process
+35602	35605	GO:0065007	red	biological regulation
+35659	35669	GO:0016265	germ cells	death
+35659	35669	GO:0009987	germ cells	cellular process
+35659	35669	GO:0032502	germ cells	developmental process
+35659	35669	GO:0022414	germ cells	reproductive process
+35664	35669	GO:0005623	cells	cell
+35664	35669	GO:0005623	cells	cell
+35793	35797	GO:0005623	cell	cell
+35952	35962	GO:0016265	germ cells	death
+35952	35962	GO:0009987	germ cells	cellular process
+35952	35962	GO:0032502	germ cells	developmental process
+35952	35962	GO:0022414	germ cells	reproductive process
+35957	35962	GO:0005623	cells	cell
+35988	35993	GO:0005623	cells	cell
+36281	36286	GO:0005623	cells	cell
+36303	36308	GO:0005623	cells	cell
+36355	36360	GO:0005623	cells	cell
+36431	36438	GO:0003824	protein	catalytic activity
+36440	36443	GO:0023046	red	signaling process
+36440	36443	GO:0050896	red	response to stimulus
+36440	36443	GO:0009987	red	cellular process
+36440	36443	GO:0065007	red	biological regulation
+36568	36578	GO:0016265	germ cells	death
+36568	36578	GO:0009987	germ cells	cellular process
+36568	36578	GO:0032502	germ cells	developmental process
+36568	36578	GO:0022414	germ cells	reproductive process
+36573	36578	GO:0005623	cells	cell
+36573	36578	GO:0005623	cells	cell
+36738	36743	GO:0005623	cells	cell
+36748	36753	GO:0005623	cells	cell
+36863	36868	GO:0005623	Cells	cell
+36923	36926	GO:0023046	red	signaling process
+36923	36926	GO:0050896	red	response to stimulus
+36923	36926	GO:0009987	red	cellular process
+36923	36926	GO:0065007	red	biological regulation
+36953	36956	GO:0023046	red	signaling process
+36953	36956	GO:0050896	red	response to stimulus
+36953	36956	GO:0009987	red	cellular process
+36953	36956	GO:0065007	red	biological regulation
+37052	37057	GO:0005623	cells	cell
+37152	37157	GO:0005623	cells	cell
+37240	37250	GO:0016265	germ cells	death
+37240	37250	GO:0009987	germ cells	cellular process
+37240	37250	GO:0032502	germ cells	developmental process
+37240	37250	GO:0022414	germ cells	reproductive process
+37245	37250	GO:0005623	cells	cell
+37378	37381	GO:0023046	red	signaling process
+37378	37381	GO:0050896	red	response to stimulus
+37378	37381	GO:0009987	red	cellular process
+37378	37381	GO:0065007	red	biological regulation
+37516	37521	GO:0005623	cells	cell
+37516	37521	GO:0005623	cells	cell
+37658	37662	GO:0005623	cell	cell
+37658	37676	GO:0008283	cell proliferation	cell proliferation
+38266	38273	GO:0009987	reduced	cellular process
+38266	38273	GO:0008152	reduced	metabolic process
+38266	38273	GO:0005215	reduced	transporter activity
+38266	38273	GO:0051234	reduced	establishment of localization
+38382	38387	GO:0005623	cells	cell
+38455	38457	GO:0065007	to	biological regulation
+38455	38457	GO:0009987	to	cellular process
+38670	38674	GO:0005623	Cell	cell
+38717	38719	GO:0065007	to	biological regulation
+38717	38719	GO:0009987	to	cellular process
+38949	38956	GO:0009987	reduced	cellular process
+38949	38956	GO:0008152	reduced	metabolic process
+38949	38956	GO:0005215	reduced	transporter activity
+38949	38956	GO:0051234	reduced	establishment of localization
+39024	39028	GO:0005623	cell	cell
+39024	39034	GO:0016265	cell death	death
+39024	39034	GO:0009987	cell death	cellular process
+39029	39034	GO:0016265	death	death
+39101	39104	GO:0023046	red	signaling process
+39101	39104	GO:0050896	red	response to stimulus
+39101	39104	GO:0009987	red	cellular process
+39101	39104	GO:0065007	red	biological regulation
+39120	39129	GO:0016265	apoptosis	death
+39120	39129	GO:0009987	apoptosis	cellular process
+39219	39224	GO:0005623	cells	cell
+39530	39532	GO:0065007	to	biological regulation
+39530	39532	GO:0009987	to	cellular process
+39994	39996	GO:0065007	to	biological regulation
+39994	39996	GO:0009987	to	cellular process
+40047	40050	GO:0023046	red	signaling process
+40047	40050	GO:0050896	red	response to stimulus
+40047	40050	GO:0009987	red	cellular process
+40047	40050	GO:0065007	red	biological regulation
+40324	40327	GO:0023046	red	signaling process
+40324	40327	GO:0050896	red	response to stimulus
+40324	40327	GO:0009987	red	cellular process
+40324	40327	GO:0065007	red	biological regulation
+40419	40421	GO:0065007	to	biological regulation
+40419	40421	GO:0009987	to	cellular process
+40466	40469	GO:0023046	red	signaling process
+40466	40469	GO:0050896	red	response to stimulus
+40466	40469	GO:0009987	red	cellular process
+40466	40469	GO:0065007	red	biological regulation
+40639	40646	GO:0009987	reduced	cellular process
+40639	40646	GO:0008152	reduced	metabolic process
+40639	40646	GO:0005215	reduced	transporter activity
+40639	40646	GO:0051234	reduced	establishment of localization
+41839	41849	GO:0003824	initiating	catalytic activity
+42048	42051	GO:0044422	MCC	organelle part
+42048	42051	GO:0044464	MCC	cell part
+42048	42051	GO:0032991	MCC	macromolecular complex
+42114	42116	GO:0065007	to	biological regulation
+42114	42116	GO:0009987	to	cellular process
+42322	42339	GO:0009987	sex determination	cellular process
+42322	42339	GO:0032502	sex determination	developmental process
+42322	42339	GO:0022414	sex determination	reproductive process
+42477	42479	GO:0065007	to	biological regulation
+42477	42479	GO:0009987	to	cellular process
+42498	42500	GO:0065007	to	biological regulation
+42498	42500	GO:0009987	to	cellular process

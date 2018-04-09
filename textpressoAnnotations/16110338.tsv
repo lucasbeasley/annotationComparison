@@ -1,1003 +1,1003 @@
 StartIndex	EndIndex	GO:ID	Term	OntologyTerm
 39	42	GO:0044422	Rod	organelle part
 39	42	GO:0044464	Rod	cell part
-110	113	GO:0044422	Rod	organelle part
-110	113	GO:0044464	Rod	cell part
-147	153	GO:0032501	vision	multicellular organismal process
-253	255	GO:0065007	to	biological regulation
-253	255	GO:0009987	to	cellular process
-282	297	GO:0008152	gene expression	metabolic process
-401	406	GO:0005623	cells	cell
-614	627	GO:0009987	transcription	cellular process
-614	627	GO:0008152	transcription	metabolic process
-801	806	GO:0005623	cells	cell
-837	839	GO:0065007	to	biological regulation
-837	839	GO:0009987	to	cellular process
-957	961	GO:0005623	cell	cell
-1077	1079	GO:0065007	to	biological regulation
-1077	1079	GO:0009987	to	cellular process
-1288	1307	GO:0008152	glycogen metabolism	metabolic process
-1288	1307	GO:0009987	glycogen metabolism	cellular process
-1297	1307	GO:0008152	metabolism	metabolic process
-1466	1468	GO:0065007	to	biological regulation
-1466	1468	GO:0009987	to	cellular process
-1517	1521	GO:0005623	cell	cell
-1535	1537	GO:0065007	to	biological regulation
-1535	1537	GO:0009987	to	cellular process
-1683	1687	GO:0044464	rods	cell part
-1683	1687	GO:0044422	rods	organelle part
-1755	1761	GO:0032501	Vision	multicellular organismal process
-1934	1938	GO:0005623	cell	cell
-1974	1976	GO:0065007	to	biological regulation
-1974	1976	GO:0009987	to	cellular process
-2064	2068	GO:0044464	rods	cell part
-2064	2068	GO:0044422	rods	organelle part
-2080	2084	GO:0044422	Rods	organelle part
-2080	2084	GO:0044464	Rods	cell part
-2115	2121	GO:0032501	vision	multicellular organismal process
-2155	2161	GO:0032501	vision	multicellular organismal process
-2206	2208	GO:0065007	to	biological regulation
-2206	2208	GO:0009987	to	cellular process
-2213	2215	GO:0065007	to	biological regulation
-2213	2215	GO:0009987	to	cellular process
-2505	2509	GO:0044464	rods	cell part
-2505	2509	GO:0044422	rods	organelle part
-2575	2577	GO:0065007	to	biological regulation
-2575	2577	GO:0009987	to	cellular process
-2624	2629	GO:0016265	death	death
-2754	2760	GO:0032501	vision	multicellular organismal process
-2866	2870	GO:0044464	rods	cell part
-2866	2870	GO:0044422	rods	organelle part
-2916	2918	GO:0065007	to	biological regulation
-2916	2918	GO:0009987	to	cellular process
-3001	3007	GO:0032501	vision	multicellular organismal process
-3011	3014	GO:0044464	rod	cell part
-3011	3014	GO:0044422	rod	organelle part
-3080	3082	GO:0065007	to	biological regulation
-3080	3082	GO:0009987	to	cellular process
-3409	3422	GO:0009987	transcription	cellular process
-3409	3422	GO:0008152	transcription	metabolic process
-3518	3522	GO:0044464	rods	cell part
-3518	3522	GO:0044422	rods	organelle part
-3763	3765	GO:0065007	to	biological regulation
-3763	3765	GO:0009987	to	cellular process
-3792	3795	GO:0044464	rod	cell part
-3792	3795	GO:0044422	rod	organelle part
-3799	3801	GO:0065007	to	biological regulation
-3799	3801	GO:0009987	to	cellular process
-4184	4189	GO:0005623	cells	cell
-4247	4252	GO:0005623	cells	cell
-4410	4412	GO:0065007	to	biological regulation
-4410	4412	GO:0009987	to	cellular process
-4431	4433	GO:0065007	to	biological regulation
-4431	4433	GO:0009987	to	cellular process
-4579	4588	GO:0008152	formation	metabolic process
-4642	4646	GO:0005623	cell	cell
-4642	4653	GO:0044464	cell bodies	cell part
-4719	4721	GO:0065007	to	biological regulation
-4719	4721	GO:0009987	to	cellular process
-4971	4980	GO:0008152	formation	metabolic process
-5077	5079	GO:0065007	to	biological regulation
-5077	5079	GO:0009987	to	cellular process
-5149	5151	GO:0065007	to	biological regulation
-5149	5151	GO:0009987	to	cellular process
-5165	5169	GO:0005623	cell	cell
-5207	5209	GO:0065007	to	biological regulation
-5207	5209	GO:0009987	to	cellular process
-5257	5262	GO:0005623	cells	cell
-5290	5292	GO:0065007	to	biological regulation
-5290	5292	GO:0009987	to	cellular process
-5424	5426	GO:0065007	to	biological regulation
-5424	5426	GO:0009987	to	cellular process
-5684	5689	GO:0005623	cells	cell
-5753	5756	GO:0044464	rod	cell part
-5753	5756	GO:0044422	rod	organelle part
-5771	5776	GO:0005623	cells	cell
-5771	5776	GO:0005623	cells	cell
-5845	5848	GO:0044464	rod	cell part
-5845	5848	GO:0044422	rod	organelle part
-5917	5921	GO:0005623	cell	cell
-5956	5960	GO:0044464	rods	cell part
-5956	5960	GO:0044422	rods	organelle part
-6863	6865	GO:0065007	to	biological regulation
-6863	6865	GO:0009987	to	cellular process
-6978	6995	GO:0065007	phototransduction	biological regulation
-6978	6995	GO:0050896	phototransduction	response to stimulus
-6978	6995	GO:0009987	phototransduction	cellular process
-6978	6995	GO:0023046	phototransduction	signaling process
-7077	7079	GO:0065007	to	biological regulation
-7077	7079	GO:0009987	to	cellular process
-7365	7367	GO:0065007	to	biological regulation
-7365	7367	GO:0009987	to	cellular process
-7524	7533	GO:0009987	embryonic	cellular process
-7524	7533	GO:0065007	embryonic	biological regulation
-7599	7601	GO:0065007	to	biological regulation
-7599	7601	GO:0009987	to	cellular process
-7703	7718	GO:0008152	gene expression	metabolic process
-7823	7825	GO:0065007	to	biological regulation
-7823	7825	GO:0009987	to	cellular process
-7927	7929	GO:0065007	to	biological regulation
-7927	7929	GO:0009987	to	cellular process
-8131	8133	GO:0065007	to	biological regulation
-8131	8133	GO:0009987	to	cellular process
-8593	8599	GO:0060089	type I	molecular transducer activity
-8593	8599	GO:0003824	type I	catalytic activity
-8630	8645	GO:0008152	gene expression	metabolic process
-8682	8697	GO:0008152	gene expression	metabolic process
-8950	8965	GO:0008152	gene expression	metabolic process
-8995	9000	GO:0005623	cells	cell
-9011	9013	GO:0065007	to	biological regulation
-9011	9013	GO:0009987	to	cellular process
-9100	9107	GO:0065007	type II	biological regulation
-9100	9107	GO:0003824	type II	catalytic activity
-9100	9107	GO:0060089	type II	molecular transducer activity
-9100	9107	GO:0008152	type II	metabolic process
-9207	9212	GO:0005623	cells	cell
-9326	9331	GO:0005623	cells	cell
-9439	9444	GO:0005623	cells	cell
-9500	9502	GO:0065007	to	biological regulation
-9500	9502	GO:0009987	to	cellular process
-9558	9563	GO:0005623	cells	cell
-9623	9625	GO:0065007	to	biological regulation
-9623	9625	GO:0009987	to	cellular process
-9641	9645	GO:0005623	cell	cell
-9641	9652	GO:0044464	cell bodies	cell part
-9653	9655	GO:0065007	to	biological regulation
-9653	9655	GO:0009987	to	cellular process
-9708	9713	GO:0005623	cells	cell
-9763	9767	GO:0005623	cell	cell
-9802	9806	GO:0005623	cell	cell
-9905	9912	GO:0065007	type II	biological regulation
-9905	9912	GO:0003824	type II	catalytic activity
-9905	9912	GO:0060089	type II	molecular transducer activity
-9905	9912	GO:0008152	type II	metabolic process
-9982	9995	GO:0016265	retinal cells	death
-9982	9995	GO:0009987	retinal cells	cellular process
-9982	9995	GO:0032502	retinal cells	developmental process
-9990	9995	GO:0005623	cells	cell
-10035	10040	GO:0005623	cells	cell
-10097	10102	GO:0005623	cells	cell
-10188	10193	GO:0005623	cells	cell
-10262	10267	GO:0005623	cells	cell
-10295	10300	GO:0005623	cells	cell
-10361	10363	GO:0065007	to	biological regulation
-10361	10363	GO:0009987	to	cellular process
-10393	10398	GO:0005623	cells	cell
-10415	10417	GO:0065007	to	biological regulation
-10415	10417	GO:0009987	to	cellular process
-10442	10450	GO:0044421	antibody	extraccellular region part
-10442	10450	GO:0032991	antibody	macromolecular complex
-10580	10593	GO:0016265	retinal cells	death
-10580	10593	GO:0009987	retinal cells	cellular process
-10580	10593	GO:0032502	retinal cells	developmental process
-10588	10593	GO:0005623	cells	cell
-10726	10731	GO:0005623	cells	cell
-10820	10833	GO:0016265	retinal cells	death
-10820	10833	GO:0009987	retinal cells	cellular process
-10820	10833	GO:0032502	retinal cells	developmental process
-10828	10833	GO:0005623	cells	cell
-10963	10968	GO:0005623	cells	cell
-11031	11033	GO:0065007	to	biological regulation
-11031	11033	GO:0009987	to	cellular process
-11088	11093	GO:0005623	cells	cell
-11137	11145	GO:0044421	antibody	extraccellular region part
-11137	11145	GO:0032991	antibody	macromolecular complex
-11287	11315	GO:0044464	photoreceptor outer segments	cell part
-11396	11401	GO:0005623	cells	cell
-12107	12112	GO:0005623	cells	cell
-12325	12337	GO:0051179	localization	localization
-12359	12361	GO:0065007	to	biological regulation
-12359	12361	GO:0009987	to	cellular process
-12366	12393	GO:0044464	photoreceptor inner segment	cell part
-12423	12435	GO:0051179	localization	localization
-12632	12644	GO:0051179	localization	localization
-12817	12819	GO:0065007	to	biological regulation
-12817	12819	GO:0009987	to	cellular process
-12963	12975	GO:0051179	localization	localization
-13011	13013	GO:0065007	to	biological regulation
-13011	13013	GO:0009987	to	cellular process
-13330	13332	GO:0065007	to	biological regulation
-13330	13332	GO:0009987	to	cellular process
-13404	13408	GO:0044464	rods	cell part
-13404	13408	GO:0044422	rods	organelle part
-13844	13846	GO:0065007	to	biological regulation
-13844	13846	GO:0009987	to	cellular process
-13854	13860	GO:0060089	type I	molecular transducer activity
-13854	13860	GO:0003824	type I	catalytic activity
-13899	13901	GO:0065007	to	biological regulation
-13899	13901	GO:0009987	to	cellular process
-13958	13970	GO:0051179	localization	localization
-13971	13973	GO:0065007	to	biological regulation
-13971	13973	GO:0009987	to	cellular process
-14030	14032	GO:0065007	to	biological regulation
-14030	14032	GO:0009987	to	cellular process
-14234	14252	GO:0009987	glucose metabolism	cellular process
-14234	14252	GO:0008152	glucose metabolism	metabolic process
-14242	14252	GO:0008152	metabolism	metabolic process
-14270	14291	GO:0008152	fatty acid metabolism	metabolic process
-14270	14291	GO:0009987	fatty acid metabolism	cellular process
-14281	14291	GO:0008152	metabolism	metabolic process
-14302	14312	GO:0050896	DNA repair	response to stimulus
-14302	14312	GO:0009987	DNA repair	cellular process
-14302	14312	GO:0008152	DNA repair	metabolic process
-14322	14326	GO:0005623	cell	cell
-14322	14332	GO:0009987	cell cycle	cellular process
-14333	14343	GO:0043226	chromosome	organelle
-14333	14343	GO:0044422	chromosome	organelle part
-14333	14343	GO:0044464	chromosome	cell part
-14333	14355	GO:0016043	chromosome segregation	cellular component organization
-14333	14355	GO:0009987	chromosome segregation	cellular process
-14459	14476	GO:0032502	otolith formation	developmental process
-14467	14476	GO:0008152	formation	metabolic process
-14651	14666	GO:0008152	gene expression	metabolic process
-14682	14684	GO:0065007	to	biological regulation
-14682	14684	GO:0009987	to	cellular process
-15460	15469	GO:0009987	embryonic	cellular process
-15460	15469	GO:0065007	embryonic	biological regulation
-15537	15546	GO:0009987	embryonic	cellular process
-15537	15546	GO:0065007	embryonic	biological regulation
-15659	15661	GO:0065007	to	biological regulation
-15659	15661	GO:0009987	to	cellular process
-15659	15661	GO:0065007	to	biological regulation
-15659	15661	GO:0009987	to	cellular process
-15666	15668	GO:0065007	to	biological regulation
-15666	15668	GO:0009987	to	cellular process
-16719	16723	GO:0005623	cell	cell
-16719	16730	GO:0044464	cell bodies	cell part
-16755	16760	GO:0005623	cells	cell
-16768	16770	GO:0065007	to	biological regulation
-16768	16770	GO:0009987	to	cellular process
-16897	16899	GO:0065007	to	biological regulation
-16897	16899	GO:0009987	to	cellular process
-16922	16924	GO:0065007	to	biological regulation
-16922	16924	GO:0009987	to	cellular process
-16978	16982	GO:0005623	cell	cell
-16978	16989	GO:0044464	cell bodies	cell part
-17004	17006	GO:0065007	to	biological regulation
-17004	17006	GO:0009987	to	cellular process
-17004	17006	GO:0065007	to	biological regulation
-17004	17006	GO:0009987	to	cellular process
-17123	17127	GO:0005623	cell	cell
-17123	17134	GO:0044464	cell bodies	cell part
-17146	17148	GO:0065007	to	biological regulation
-17146	17148	GO:0009987	to	cellular process
-17146	17148	GO:0065007	to	biological regulation
-17146	17148	GO:0009987	to	cellular process
-17410	17414	GO:0005623	cell	cell
-17410	17421	GO:0044464	cell bodies	cell part
-17422	17424	GO:0065007	to	biological regulation
-17422	17424	GO:0009987	to	cellular process
-17453	17456	GO:0044422	Rod	organelle part
-17453	17456	GO:0044464	Rod	cell part
-17530	17532	GO:0065007	to	biological regulation
-17530	17532	GO:0009987	to	cellular process
-17549	17564	GO:0008152	gene expression	metabolic process
-17566	17569	GO:0044464	rod	cell part
-17566	17569	GO:0044422	rod	organelle part
-17712	17714	GO:0065007	to	biological regulation
-17712	17714	GO:0009987	to	cellular process
-17802	17804	GO:0065007	to	biological regulation
-17802	17804	GO:0009987	to	cellular process
-17853	17856	GO:0044464	rod	cell part
-17853	17856	GO:0044422	rod	organelle part
-17853	17856	GO:0044464	rod	cell part
-17853	17856	GO:0044422	rod	organelle part
-18181	18196	GO:0008152	gene expression	metabolic process
-18337	18339	GO:0065007	to	biological regulation
-18337	18339	GO:0009987	to	cellular process
-18501	18503	GO:0065007	to	biological regulation
-18501	18503	GO:0009987	to	cellular process
-18676	18678	GO:0065007	to	biological regulation
-18676	18678	GO:0009987	to	cellular process
-19059	19072	GO:0008152	Transcription	metabolic process
-19059	19072	GO:0009987	Transcription	cellular process
-19153	19166	GO:0009987	transcription	cellular process
-19153	19166	GO:0008152	transcription	metabolic process
-19360	19373	GO:0009987	transcription	cellular process
-19360	19373	GO:0008152	transcription	metabolic process
-19486	19490	GO:0044464	rods	cell part
-19486	19490	GO:0044422	rods	organelle part
-19510	19512	GO:0065007	to	biological regulation
-19510	19512	GO:0009987	to	cellular process
-19605	19618	GO:0009987	transcription	cellular process
-19605	19618	GO:0008152	transcription	metabolic process
-19644	19648	GO:0044464	rods	cell part
-19644	19648	GO:0044422	rods	organelle part
-19757	19759	GO:0065007	to	biological regulation
-19757	19759	GO:0009987	to	cellular process
-20365	20378	GO:0009987	transcription	cellular process
-20365	20378	GO:0008152	transcription	metabolic process
-20443	20445	GO:0065007	to	biological regulation
-20443	20445	GO:0009987	to	cellular process
-20833	20837	GO:0005623	cell	cell
-20981	20985	GO:0016265	glia	death
-20981	20985	GO:0009987	glia	cellular process
-21007	21011	GO:0005623	cell	cell
-21151	21155	GO:0016265	glia	death
-21151	21155	GO:0009987	glia	cellular process
-21156	21158	GO:0065007	to	biological regulation
-21156	21158	GO:0009987	to	cellular process
-21269	21273	GO:0005623	Cell	cell
-21287	21289	GO:0065007	to	biological regulation
-21287	21289	GO:0009987	to	cellular process
-21334	21349	GO:0008152	gene expression	metabolic process
-21399	21403	GO:0005623	cell	cell
-21399	21410	GO:0044464	cell bodies	cell part
-21447	21451	GO:0005623	cell	cell
-21447	21458	GO:0044464	cell bodies	cell part
-21578	21581	GO:0044464	rod	cell part
-21578	21581	GO:0044422	rod	organelle part
-21702	21706	GO:0005623	cell	cell
-21702	21713	GO:0044464	cell bodies	cell part
-21797	21801	GO:0044464	rods	cell part
-21797	21801	GO:0044422	rods	organelle part
-21847	21870	GO:0044464	nuclear heterochromatin	cell part
-21847	21870	GO:0044422	nuclear heterochromatin	organelle part
-21855	21870	GO:0044464	heterochromatin	cell part
-21855	21870	GO:0044422	heterochromatin	organelle part
-21997	22008	GO:0044464	euchromatin	cell part
-21997	22008	GO:0044422	euchromatin	organelle part
-22014	22018	GO:0044464	rods	cell part
-22014	22018	GO:0044422	rods	organelle part
-22075	22084	GO:0044464	cytoplasm	cell part
-22077	22079	GO:0065007	to	biological regulation
-22077	22079	GO:0009987	to	cellular process
-22132	22144	GO:0044464	mitochondria	cell part
-22132	22144	GO:0043226	mitochondria	organelle
-22233	22238	GO:0005623	cells	cell
-22425	22430	GO:0005623	cells	cell
-22512	22516	GO:0005623	cell	cell
-22606	22619	GO:0016265	retinal cells	death
-22606	22619	GO:0009987	retinal cells	cellular process
-22606	22619	GO:0032502	retinal cells	developmental process
-22614	22619	GO:0005623	cells	cell
-22660	22664	GO:0005623	cell	cell
-22809	22814	GO:0005623	cells	cell
-22866	22871	GO:0005623	cells	cell
-22955	22967	GO:0051179	localization	localization
-22977	22981	GO:0005623	cell	cell
-22977	22988	GO:0044464	cell bodies	cell part
-23001	23003	GO:0065007	to	biological regulation
-23001	23003	GO:0009987	to	cellular process
-23013	23017	GO:0005623	cell	cell
-23013	23022	GO:0044464	cell body	cell part
-23038	23041	GO:0044464	rod	cell part
-23038	23041	GO:0044422	rod	organelle part
-23042	23046	GO:0022414	soma	reproductive process
-23042	23046	GO:0032502	soma	developmental process
-23112	23127	GO:0044464	heterochromatin	cell part
-23112	23127	GO:0044422	heterochromatin	organelle part
-23169	23180	GO:0044464	euchromatin	cell part
-23169	23180	GO:0044422	euchromatin	organelle part
-23210	23219	GO:0044464	cytoplasm	cell part
-23228	23238	GO:0043226	organelles	organelle
-23259	23263	GO:0005623	cell	cell
-23347	23351	GO:0044464	rods	cell part
-23347	23351	GO:0044422	rods	organelle part
-23385	23400	GO:0044464	heterochromatin	cell part
-23385	23400	GO:0044422	heterochromatin	organelle part
-23431	23442	GO:0044464	euchromatin	cell part
-23431	23442	GO:0044422	euchromatin	organelle part
-23466	23471	GO:0005623	cells	cell
-23512	23523	GO:0044464	euchromatin	cell part
-23512	23523	GO:0044422	euchromatin	organelle part
-23563	23568	GO:0005623	cells	cell
-23587	23591	GO:0044464	rods	cell part
-23587	23591	GO:0044422	rods	organelle part
-23764	23769	GO:0005623	cells	cell
-23839	23841	GO:0065007	to	biological regulation
-23839	23841	GO:0009987	to	cellular process
-23930	23934	GO:0005623	cell	cell
-23930	23941	GO:0044464	cell bodies	cell part
-24038	24041	GO:0044464	rod	cell part
-24038	24041	GO:0044422	rod	organelle part
-24192	24194	GO:0065007	to	biological regulation
-24192	24194	GO:0009987	to	cellular process
-24205	24209	GO:0044464	rods	cell part
-24205	24209	GO:0044422	rods	organelle part
-24501	24503	GO:0065007	to	biological regulation
-24501	24503	GO:0009987	to	cellular process
-24655	24667	GO:0044464	mitochondria	cell part
-24655	24667	GO:0043226	mitochondria	organelle
-24669	24672	GO:0023046	red	signaling process
-24669	24672	GO:0050896	red	response to stimulus
-24669	24672	GO:0009987	red	cellular process
-24669	24672	GO:0065007	red	biological regulation
-24730	24740	GO:0043226	organelles	organelle
-24777	24781	GO:0044464	rods	cell part
-24777	24781	GO:0044422	rods	organelle part
-24804	24809	GO:0005623	cells	cell
-24917	24921	GO:0005623	cell	cell
-24993	24997	GO:0044464	rods	cell part
-24993	24997	GO:0044422	rods	organelle part
-25087	25092	GO:0005623	cells	cell
-25178	25191	GO:0009987	transcription	cellular process
-25178	25191	GO:0008152	transcription	metabolic process
-25195	25197	GO:0065007	to	biological regulation
-25195	25197	GO:0009987	to	cellular process
-25265	25269	GO:0044464	rods	cell part
-25265	25269	GO:0044422	rods	organelle part
-25458	25464	GO:0060089	type I	molecular transducer activity
-25458	25464	GO:0003824	type I	catalytic activity
-25535	25540	GO:0005623	cells	cell
-25559	25564	GO:0005623	cells	cell
-25581	25583	GO:0065007	to	biological regulation
-25581	25583	GO:0009987	to	cellular process
-25598	25601	GO:0044464	rod	cell part
-25598	25601	GO:0044422	rod	organelle part
-25654	25669	GO:0008152	gene expression	metabolic process
-25679	25684	GO:0005623	cells	cell
-25730	25732	GO:0065007	to	biological regulation
-25730	25732	GO:0009987	to	cellular process
-25780	25784	GO:0044464	rods	cell part
-25780	25784	GO:0044422	rods	organelle part
-25818	25824	GO:0060089	type I	molecular transducer activity
-25818	25824	GO:0003824	type I	catalytic activity
-25879	25884	GO:0005623	cells	cell
-25984	25989	GO:0005623	cells	cell
-26004	26006	GO:0065007	to	biological regulation
-26004	26006	GO:0009987	to	cellular process
-26116	26122	GO:0060089	type I	molecular transducer activity
-26116	26122	GO:0003824	type I	catalytic activity
-26226	26228	GO:0065007	to	biological regulation
-26226	26228	GO:0009987	to	cellular process
-26322	26327	GO:0005623	cells	cell
-26392	26394	GO:0065007	to	biological regulation
-26392	26394	GO:0009987	to	cellular process
-26445	26450	GO:0005623	cells	cell
-26551	26556	GO:0005623	cells	cell
-26576	26581	GO:0005623	cells	cell
-26688	26694	GO:0060089	type I	molecular transducer activity
-26688	26694	GO:0003824	type I	catalytic activity
-26776	26789	GO:0009987	transcription	cellular process
-26776	26789	GO:0008152	transcription	metabolic process
-26851	26855	GO:0044464	rods	cell part
-26851	26855	GO:0044422	rods	organelle part
-27009	27013	GO:0044464	rods	cell part
-27009	27013	GO:0044422	rods	organelle part
-27241	27243	GO:0065007	to	biological regulation
-27241	27243	GO:0009987	to	cellular process
-27267	27282	GO:0008152	gene expression	metabolic process
-27511	27518	GO:0065007	type II	biological regulation
-27511	27518	GO:0003824	type II	catalytic activity
-27511	27518	GO:0060089	type II	molecular transducer activity
-27511	27518	GO:0008152	type II	metabolic process
-27565	27570	GO:0005623	cells	cell
-27705	27710	GO:0005623	cells	cell
-27718	27720	GO:0065007	to	biological regulation
-27718	27720	GO:0009987	to	cellular process
-27760	27764	GO:0005623	cell	cell
-27760	27771	GO:0044464	cell bodies	cell part
-27831	27836	GO:0005623	cells	cell
-27944	27952	GO:0044421	antibody	extraccellular region part
-27944	27952	GO:0032991	antibody	macromolecular complex
-28121	28123	GO:0065007	to	biological regulation
-28121	28123	GO:0009987	to	cellular process
-28306	28313	GO:0009987	reduced	cellular process
-28306	28313	GO:0008152	reduced	metabolic process
-28306	28313	GO:0005215	reduced	transporter activity
-28306	28313	GO:0051234	reduced	establishment of localization
-28406	28413	GO:0009987	reduced	cellular process
-28406	28413	GO:0008152	reduced	metabolic process
-28406	28413	GO:0005215	reduced	transporter activity
-28406	28413	GO:0051234	reduced	establishment of localization
-28752	28767	GO:0008152	gene expression	metabolic process
-28841	28843	GO:0065007	to	biological regulation
-28841	28843	GO:0009987	to	cellular process
-29075	29077	GO:0065007	to	biological regulation
-29075	29077	GO:0009987	to	cellular process
-29173	29175	GO:0065007	to	biological regulation
-29173	29175	GO:0009987	to	cellular process
-29282	29284	GO:0065007	to	biological regulation
-29282	29284	GO:0009987	to	cellular process
-29429	29433	GO:0016265	glia	death
-29429	29433	GO:0009987	glia	cellular process
-29594	29598	GO:0016265	glia	death
-29594	29598	GO:0009987	glia	cellular process
-29629	29631	GO:0065007	to	biological regulation
-29629	29631	GO:0009987	to	cellular process
-29656	29658	GO:0065007	to	biological regulation
-29656	29658	GO:0009987	to	cellular process
-29992	29994	GO:0065007	to	biological regulation
-29992	29994	GO:0009987	to	cellular process
-30207	30209	GO:0065007	to	biological regulation
-30207	30209	GO:0009987	to	cellular process
-30229	30231	GO:0065007	to	biological regulation
-30229	30231	GO:0009987	to	cellular process
-30236	30238	GO:0065007	to	biological regulation
-30236	30238	GO:0009987	to	cellular process
-30295	30297	GO:0065007	to	biological regulation
-30295	30297	GO:0009987	to	cellular process
-30312	30314	GO:0065007	to	biological regulation
-30312	30314	GO:0009987	to	cellular process
-30819	30826	GO:0005488	binding	binding
-30940	30955	GO:0008152	gene expression	metabolic process
-31068	31072	GO:0044464	rods	cell part
-31068	31072	GO:0044422	rods	organelle part
-31133	31135	GO:0065007	to	biological regulation
-31133	31135	GO:0009987	to	cellular process
-31194	31198	GO:0044464	rods	cell part
-31194	31198	GO:0044422	rods	organelle part
-31253	31266	GO:0009987	transcription	cellular process
-31253	31266	GO:0008152	transcription	metabolic process
-31306	31319	GO:0009987	transcription	cellular process
-31306	31319	GO:0008152	transcription	metabolic process
-31380	31386	GO:0060089	type I	molecular transducer activity
-31380	31386	GO:0003824	type I	catalytic activity
-31391	31398	GO:0065007	type II	biological regulation
-31391	31398	GO:0003824	type II	catalytic activity
-31391	31398	GO:0060089	type II	molecular transducer activity
-31391	31398	GO:0008152	type II	metabolic process
-31456	31469	GO:0009987	transcription	cellular process
-31456	31469	GO:0008152	transcription	metabolic process
-31563	31569	GO:0060089	type I	molecular transducer activity
-31563	31569	GO:0003824	type I	catalytic activity
-31612	31625	GO:0009987	transcription	cellular process
-31612	31625	GO:0008152	transcription	metabolic process
-31678	31685	GO:0065007	type II	biological regulation
-31678	31685	GO:0003824	type II	catalytic activity
-31678	31685	GO:0060089	type II	molecular transducer activity
-31678	31685	GO:0008152	type II	metabolic process
-31693	31706	GO:0009987	transcription	cellular process
-31693	31706	GO:0008152	transcription	metabolic process
-31754	31767	GO:0009987	transcription	cellular process
-31754	31767	GO:0008152	transcription	metabolic process
-31832	31834	GO:0065007	to	biological regulation
-31832	31834	GO:0009987	to	cellular process
-31832	31834	GO:0065007	to	biological regulation
-31832	31834	GO:0009987	to	cellular process
-32131	32136	GO:0005623	cells	cell
-32407	32409	GO:0065007	to	biological regulation
-32407	32409	GO:0009987	to	cellular process
-32819	32821	GO:0065007	to	biological regulation
-32819	32821	GO:0009987	to	cellular process
-33030	33032	GO:0065007	to	biological regulation
-33030	33032	GO:0009987	to	cellular process
-33435	33440	GO:0005623	cells	cell
-33593	33598	GO:0005623	cells	cell
-33756	33774	GO:0009987	glucose metabolism	cellular process
-33756	33774	GO:0008152	glucose metabolism	metabolic process
-33764	33774	GO:0008152	metabolism	metabolic process
-33860	33870	GO:0008152	glycolysis	metabolic process
-33860	33870	GO:0009987	glycolysis	cellular process
-33902	33920	GO:0009987	glucose metabolism	cellular process
-33902	33920	GO:0008152	glucose metabolism	metabolic process
-33910	33920	GO:0008152	metabolism	metabolic process
-34086	34090	GO:0044464	rods	cell part
-34086	34090	GO:0044422	rods	organelle part
-34143	34161	GO:0009987	glucose metabolism	cellular process
-34143	34161	GO:0008152	glucose metabolism	metabolic process
-34151	34161	GO:0008152	metabolism	metabolic process
-34186	34193	GO:0003824	protein	catalytic activity
-34212	34214	GO:0065007	to	biological regulation
-34212	34214	GO:0009987	to	cellular process
-34563	34578	GO:0008152	gene expression	metabolic process
-34735	34753	GO:0009987	glucose metabolism	cellular process
-34735	34753	GO:0008152	glucose metabolism	metabolic process
-34743	34753	GO:0008152	metabolism	metabolic process
-34770	34774	GO:0044464	rods	cell part
-34770	34774	GO:0044422	rods	organelle part
-34825	34827	GO:0065007	to	biological regulation
-34825	34827	GO:0009987	to	cellular process
-35076	35078	GO:0065007	To	biological regulation
-35076	35078	GO:0009987	To	cellular process
-35340	35344	GO:0044464	rods	cell part
-35340	35344	GO:0044422	rods	organelle part
-35417	35421	GO:0044464	rods	cell part
-35417	35421	GO:0044422	rods	organelle part
-35477	35482	GO:0005623	cells	cell
-35550	35554	GO:0005623	cell	cell
-35624	35629	GO:0005623	cells	cell
-35648	35650	GO:0065007	to	biological regulation
-35648	35650	GO:0009987	to	cellular process
-35737	35742	GO:0005623	cells	cell
-35762	35764	GO:0065007	to	biological regulation
-35762	35764	GO:0009987	to	cellular process
-35772	35776	GO:0044464	rods	cell part
-35772	35776	GO:0044422	rods	organelle part
-35842	35855	GO:0009987	transcription	cellular process
-35842	35855	GO:0008152	transcription	metabolic process
-35870	35873	GO:0044464	rod	cell part
-35870	35873	GO:0044422	rod	organelle part
-35890	35892	GO:0065007	to	biological regulation
-35890	35892	GO:0009987	to	cellular process
-35924	35928	GO:0005623	cell	cell
-36120	36123	GO:0044464	rod	cell part
-36120	36123	GO:0044422	rod	organelle part
-36162	36164	GO:0065007	to	biological regulation
-36162	36164	GO:0009987	to	cellular process
-36214	36218	GO:0005623	cell	cell
-36278	36280	GO:0065007	to	biological regulation
-36278	36280	GO:0009987	to	cellular process
-36334	36338	GO:0044464	rods	cell part
-36334	36338	GO:0044422	rods	organelle part
-36439	36442	GO:0044464	rod	cell part
-36439	36442	GO:0044422	rod	organelle part
-36474	36476	GO:0065007	to	biological regulation
-36474	36476	GO:0009987	to	cellular process
-36511	36513	GO:0065007	to	biological regulation
-36511	36513	GO:0009987	to	cellular process
-36567	36572	GO:0005623	cells	cell
-36781	36784	GO:0044464	rod	cell part
-36781	36784	GO:0044422	rod	organelle part
-36951	36954	GO:0044464	rod	cell part
-36951	36954	GO:0044422	rod	organelle part
-37076	37081	GO:0005623	cells	cell
-37367	37370	GO:0044464	rod	cell part
-37367	37370	GO:0044422	rod	organelle part
-37556	37561	GO:0005623	cells	cell
-37741	37743	GO:0065007	to	biological regulation
-37741	37743	GO:0009987	to	cellular process
-37818	37820	GO:0065007	to	biological regulation
-37818	37820	GO:0009987	to	cellular process
-37907	37925	GO:0032502	retinal lamination	developmental process
-37939	37948	GO:0008152	formation	metabolic process
-38116	38118	GO:0065007	to	biological regulation
-38116	38118	GO:0009987	to	cellular process
-38283	38285	GO:0065007	to	biological regulation
-38283	38285	GO:0009987	to	cellular process
-38314	38316	GO:0065007	to	biological regulation
-38314	38316	GO:0009987	to	cellular process
-38321	38323	GO:0065007	to	biological regulation
-38321	38323	GO:0009987	to	cellular process
-38426	38431	GO:0005623	cells	cell
-38450	38453	GO:0044464	rod	cell part
-38450	38453	GO:0044422	rod	organelle part
-38622	38629	GO:0009987	reduced	cellular process
-38622	38629	GO:0008152	reduced	metabolic process
-38622	38629	GO:0005215	reduced	transporter activity
-38622	38629	GO:0051234	reduced	establishment of localization
-38630	38633	GO:0044464	rod	cell part
-38630	38633	GO:0044422	rod	organelle part
-38695	38697	GO:0065007	to	biological regulation
-38695	38697	GO:0009987	to	cellular process
-38930	38934	GO:0044464	rods	cell part
-38930	38934	GO:0044422	rods	organelle part
-39077	39081	GO:0005623	cell	cell
-39248	39254	GO:0060089	type I	molecular transducer activity
-39248	39254	GO:0003824	type I	catalytic activity
-39293	39300	GO:0065007	type II	biological regulation
-39293	39300	GO:0003824	type II	catalytic activity
-39293	39300	GO:0060089	type II	molecular transducer activity
-39293	39300	GO:0008152	type II	metabolic process
-39392	39397	GO:0005623	cells	cell
-39449	39451	GO:0065007	to	biological regulation
-39449	39451	GO:0009987	to	cellular process
-39572	39576	GO:0044464	rods	cell part
-39572	39576	GO:0044422	rods	organelle part
-39739	39742	GO:0044464	rod	cell part
-39739	39742	GO:0044422	rod	organelle part
-39804	39819	GO:0008152	gene expression	metabolic process
-39832	39834	GO:0065007	to	biological regulation
-39832	39834	GO:0009987	to	cellular process
-40004	40006	GO:0065007	to	biological regulation
-40004	40006	GO:0009987	to	cellular process
-40057	40061	GO:0005623	cell	cell
-40128	40131	GO:0044464	rod	cell part
-40128	40131	GO:0044422	rod	organelle part
-40159	40163	GO:0005623	cell	cell
-40185	40189	GO:0005623	cell	cell
-40190	40192	GO:0065007	to	biological regulation
-40190	40192	GO:0009987	to	cellular process
-40193	40202	GO:0016265	apoptosis	death
-40193	40202	GO:0009987	apoptosis	cellular process
-40346	40355	GO:0008152	formation	metabolic process
-40447	40449	GO:0065007	to	biological regulation
-40447	40449	GO:0009987	to	cellular process
-40475	40479	GO:0005623	cell	cell
-40516	40525	GO:0008152	formation	metabolic process
-40611	40615	GO:0005623	cell	cell
-40727	40729	GO:0065007	to	biological regulation
-40727	40729	GO:0009987	to	cellular process
-40818	40827	GO:0008152	formation	metabolic process
-40849	40851	GO:0065007	to	biological regulation
-40849	40851	GO:0009987	to	cellular process
-41106	41118	GO:0043473	pigmentation	pigmentation
-41189	41191	GO:0065007	to	biological regulation
-41189	41191	GO:0009987	to	cellular process
-41309	41313	GO:0044464	rods	cell part
-41309	41313	GO:0044422	rods	organelle part
-41344	41346	GO:0065007	to	biological regulation
-41344	41346	GO:0009987	to	cellular process
-41397	41399	GO:0065007	to	biological regulation
-41397	41399	GO:0009987	to	cellular process
-41617	41619	GO:0065007	to	biological regulation
-41617	41619	GO:0009987	to	cellular process
-41651	41653	GO:0065007	to	biological regulation
-41651	41653	GO:0009987	to	cellular process
-41685	41687	GO:0065007	to	biological regulation
-41685	41687	GO:0009987	to	cellular process
-41721	41723	GO:0065007	to	biological regulation
-41721	41723	GO:0009987	to	cellular process
-42083	42087	GO:0044464	rods	cell part
-42083	42087	GO:0044422	rods	organelle part
-42178	42182	GO:0044464	rods	cell part
-42178	42182	GO:0044422	rods	organelle part
-42254	42256	GO:0065007	to	biological regulation
-42254	42256	GO:0009987	to	cellular process
-42337	42339	GO:0065007	to	biological regulation
-42337	42339	GO:0009987	to	cellular process
-42467	42471	GO:0044464	rods	cell part
-42467	42471	GO:0044422	rods	organelle part
-42523	42527	GO:0005623	cell	cell
-42623	42625	GO:0065007	to	biological regulation
-42623	42625	GO:0009987	to	cellular process
-42669	42675	GO:0032501	vision	multicellular organismal process
-42796	42798	GO:0065007	to	biological regulation
-42796	42798	GO:0009987	to	cellular process
-42839	42841	GO:0065007	to	biological regulation
-42839	42841	GO:0009987	to	cellular process
-43199	43201	GO:0065007	to	biological regulation
-43199	43201	GO:0009987	to	cellular process
-43199	43201	GO:0065007	to	biological regulation
-43199	43201	GO:0009987	to	cellular process
-44366	44370	GO:0044464	Axon	cell part
-44836	44838	GO:0065007	to	biological regulation
-44836	44838	GO:0009987	to	cellular process
-44836	44838	GO:0065007	to	biological regulation
-44836	44838	GO:0009987	to	cellular process
-45047	45049	GO:0065007	to	biological regulation
-45047	45049	GO:0009987	to	cellular process
-45047	45049	GO:0065007	to	biological regulation
-45047	45049	GO:0009987	to	cellular process
-45160	45162	GO:0065007	to	biological regulation
-45160	45162	GO:0009987	to	cellular process
-45314	45316	GO:0065007	to	biological regulation
-45314	45316	GO:0009987	to	cellular process
-45523	45525	GO:0065007	to	biological regulation
-45523	45525	GO:0009987	to	cellular process
-45611	45613	GO:0065007	to	biological regulation
-45611	45613	GO:0009987	to	cellular process
-45915	45917	GO:0065007	to	biological regulation
-45915	45917	GO:0009987	to	cellular process
-47990	47994	GO:0005623	cell	cell
-48291	48296	GO:0005623	cells	cell
-48329	48333	GO:0005623	cell	cell
-48514	48522	GO:0044421	antibody	extraccellular region part
-48514	48522	GO:0032991	antibody	macromolecular complex
-48610	48620	GO:0044421	antibodies	extraccellular region part
-48610	48620	GO:0032991	antibodies	macromolecular complex
-48610	48620	GO:0044421	antibodies	extraccellular region part
-48610	48620	GO:0032991	antibodies	macromolecular complex
-48979	48987	GO:0044421	antibody	extraccellular region part
-48979	48987	GO:0032991	antibody	macromolecular complex
-49018	49020	GO:0065007	to	biological regulation
-49018	49020	GO:0009987	to	cellular process
-49181	49183	GO:0065007	to	biological regulation
-49181	49183	GO:0009987	to	cellular process
-49661	49668	GO:0005215	calcium	transporter activity
-49731	49733	GO:0065007	to	biological regulation
-49731	49733	GO:0009987	to	cellular process
-50541	50548	GO:0008152	ethanol	metabolic process
-50541	50548	GO:0009987	ethanol	cellular process
-50575	50582	GO:0008152	ethanol	metabolic process
-50575	50582	GO:0009987	ethanol	cellular process
-50620	50627	GO:0008152	ethanol	metabolic process
-50620	50627	GO:0009987	ethanol	cellular process
-51077	51082	GO:0005623	cells	cell
-51343	51345	GO:0065007	to	biological regulation
-51343	51345	GO:0009987	to	cellular process
-51600	51604	GO:0005623	cell	cell
-51600	51611	GO:0044464	cell bodies	cell part
-51619	51623	GO:0044464	rods	cell part
-51619	51623	GO:0044422	rods	organelle part
-51639	51644	GO:0005623	cells	cell
-51929	51933	GO:0005623	cell	cell
-51929	51940	GO:0044464	cell bodies	cell part
-51951	51953	GO:0065007	to	biological regulation
-51951	51953	GO:0009987	to	cellular process
-51988	51992	GO:0005623	cell	cell
-51988	51999	GO:0044464	cell bodies	cell part
-52022	52024	GO:0065007	to	biological regulation
-52022	52024	GO:0009987	to	cellular process
-52044	52048	GO:0005623	cell	cell
-52077	52079	GO:0065007	to	biological regulation
-52077	52079	GO:0009987	to	cellular process
-52130	52135	GO:0005623	cells	cell
-52228	52232	GO:0005623	cell	cell
-52228	52242	GO:0044464	cell membranes	cell part
-52233	52242	GO:0044464	membranes	cell part
-52508	52513	GO:0005623	cells	cell
-52586	52588	GO:0065007	to	biological regulation
-52586	52588	GO:0009987	to	cellular process
-52616	52620	GO:0044464	rods	cell part
-52616	52620	GO:0044422	rods	organelle part
-52671	52683	GO:0044464	mitochondria	cell part
-52671	52683	GO:0043226	mitochondria	organelle
-52689	52693	GO:0044464	rods	cell part
-52689	52693	GO:0044422	rods	organelle part
-52751	52756	GO:0005623	cells	cell
-52778	52788	GO:0043226	organelles	organelle
-52826	52830	GO:0044464	rods	cell part
-52826	52830	GO:0044422	rods	organelle part
-52863	52872	GO:0043226	organelle	organelle
-52901	52903	GO:0065007	to	biological regulation
-52901	52903	GO:0009987	to	cellular process
-52927	52931	GO:0044464	rods	cell part
-52927	52931	GO:0044422	rods	organelle part
-52949	52961	GO:0044464	mitochondria	cell part
-52949	52961	GO:0043226	mitochondria	organelle
-53032	53036	GO:0005623	cell	cell
-53032	53043	GO:0044464	cell bodies	cell part
-53630	53639	GO:0009987	embryonic	cellular process
-53630	53639	GO:0065007	embryonic	biological regulation
-53689	53698	GO:0009987	embryonic	cellular process
-53689	53698	GO:0065007	embryonic	biological regulation
-54569	54574	GO:0005623	cells	cell
-54627	54629	GO:0065007	to	biological regulation
-54627	54629	GO:0009987	to	cellular process
-54627	54629	GO:0065007	to	biological regulation
-54627	54629	GO:0009987	to	cellular process
-54746	54751	GO:0005623	cells	cell
-55091	55093	GO:0065007	to	biological regulation
-55091	55093	GO:0009987	to	cellular process
-55352	55355	GO:0044422	Rod	organelle part
-55352	55355	GO:0044464	Rod	cell part
-55677	55679	GO:0065007	to	biological regulation
-55677	55679	GO:0009987	to	cellular process
-56002	56005	GO:0023046	red	signaling process
-56002	56005	GO:0050896	red	response to stimulus
-56002	56005	GO:0009987	red	cellular process
-56002	56005	GO:0065007	red	biological regulation
-56506	56508	GO:0065007	to	biological regulation
-56506	56508	GO:0009987	to	cellular process
-56555	56557	GO:0065007	to	biological regulation
-56555	56557	GO:0009987	to	cellular process
-56803	56805	GO:0065007	to	biological regulation
-56803	56805	GO:0009987	to	cellular process
-56803	56805	GO:0065007	to	biological regulation
-56803	56805	GO:0009987	to	cellular process
-57206	57208	GO:0065007	to	biological regulation
-57206	57208	GO:0009987	to	cellular process
-59077	59079	GO:0065007	to	biological regulation
-59077	59079	GO:0009987	to	cellular process
-59142	59144	GO:0065007	to	biological regulation
-59142	59144	GO:0009987	to	cellular process
-59183	59185	GO:0065007	to	biological regulation
-59183	59185	GO:0009987	to	cellular process
-59224	59226	GO:0065007	to	biological regulation
-59224	59226	GO:0009987	to	cellular process
-59437	59439	GO:0065007	to	biological regulation
-59437	59439	GO:0009987	to	cellular process
-59457	59459	GO:0065007	to	biological regulation
-59457	59459	GO:0009987	to	cellular process
-59583	59592	GO:0009987	embryonic	cellular process
-59583	59592	GO:0065007	embryonic	biological regulation
-59674	59678	GO:0005623	cell	cell
-60019	60021	GO:0065007	to	biological regulation
-60019	60021	GO:0009987	to	cellular process
-60318	60320	GO:0065007	to	biological regulation
-60318	60320	GO:0009987	to	cellular process
-60612	60614	GO:0065007	to	biological regulation
-60612	60614	GO:0009987	to	cellular process
-60612	60614	GO:0065007	to	biological regulation
-60612	60614	GO:0009987	to	cellular process
-60704	60706	GO:0065007	to	biological regulation
-60704	60706	GO:0009987	to	cellular process
-60713	60715	GO:0065007	to	biological regulation
-60713	60715	GO:0009987	to	cellular process
-61309	61312	GO:0023046	red	signaling process
-61309	61312	GO:0050896	red	response to stimulus
-61309	61312	GO:0009987	red	cellular process
-61309	61312	GO:0065007	red	biological regulation
-61313	61317	GO:0005623	cell	cell
-61494	61499	GO:0005623	cells	cell
-61763	61769	GO:0060089	type I	molecular transducer activity
-61763	61769	GO:0003824	type I	catalytic activity
-61774	61781	GO:0065007	type II	biological regulation
-61774	61781	GO:0003824	type II	catalytic activity
-61774	61781	GO:0060089	type II	molecular transducer activity
-61774	61781	GO:0008152	type II	metabolic process
-61902	61904	GO:0065007	to	biological regulation
-61902	61904	GO:0009987	to	cellular process
-61924	61930	GO:0060089	type I	molecular transducer activity
-61924	61930	GO:0003824	type I	catalytic activity
-61934	61941	GO:0065007	type II	biological regulation
-61934	61941	GO:0003824	type II	catalytic activity
-61934	61941	GO:0060089	type II	molecular transducer activity
-61934	61941	GO:0008152	type II	metabolic process
-62544	62547	GO:0044464	rod	cell part
-62544	62547	GO:0044422	rod	organelle part
-62644	62648	GO:0044464	rods	cell part
-62644	62648	GO:0044422	rods	organelle part
-62727	62732	GO:0005623	cells	cell
-62801	62813	GO:0051179	localization	localization
-62826	62830	GO:0016265	glia	death
-62826	62830	GO:0009987	glia	cellular process
-62968	62971	GO:0044422	Rod	organelle part
-62968	62971	GO:0044464	Rod	cell part
-63071	63077	GO:0060089	type I	molecular transducer activity
-63071	63077	GO:0003824	type I	catalytic activity
-63082	63089	GO:0065007	type II	biological regulation
-63082	63089	GO:0003824	type II	catalytic activity
-63082	63089	GO:0060089	type II	molecular transducer activity
-63082	63089	GO:0008152	type II	metabolic process
-63360	63373	GO:0009987	transcription	cellular process
-63360	63373	GO:0008152	transcription	metabolic process
-63546	63550	GO:0005623	Cell	cell
-63595	63603	GO:0032991	Antibody	macromolecular complex
-63595	63603	GO:0044421	Antibody	extraccellular region part
-63653	63657	GO:0005623	cell	cell
-63703	63706	GO:0023046	red	signaling process
-63703	63706	GO:0050896	red	response to stimulus
-63703	63706	GO:0009987	red	cellular process
-63703	63706	GO:0065007	red	biological regulation
-63734	63747	GO:0016265	retinal cells	death
-63734	63747	GO:0009987	retinal cells	cellular process
-63734	63747	GO:0032502	retinal cells	developmental process
-63742	63747	GO:0005623	cells	cell
-63867	63875	GO:0044421	antibody	extraccellular region part
-63867	63875	GO:0032991	antibody	macromolecular complex
-63889	63892	GO:0023046	red	signaling process
-63889	63892	GO:0050896	red	response to stimulus
-63889	63892	GO:0009987	red	cellular process
-63889	63892	GO:0065007	red	biological regulation
-64285	64290	GO:0005623	cells	cell
-64455	64467	GO:0051179	localization	localization
-64482	64484	GO:0065007	to	biological regulation
-64482	64484	GO:0009987	to	cellular process
-64781	64790	GO:0009987	embryonic	cellular process
-64781	64790	GO:0065007	embryonic	biological regulation
-64807	64812	GO:0005623	cells	cell
-65283	65292	GO:0009987	embryonic	cellular process
-65283	65292	GO:0065007	embryonic	biological regulation
-65822	65826	GO:0005623	Cell	cell
-65844	65846	GO:0065007	to	biological regulation
-65844	65846	GO:0009987	to	cellular process
-66026	66031	GO:0005623	cells	cell
-66062	66067	GO:0005623	Cells	cell
-66157	66162	GO:0005623	cells	cell
-66199	66203	GO:0005623	cell	cell
-66199	66210	GO:0044464	cell bodies	cell part
-66474	66479	GO:0005623	cells	cell
-66816	66821	GO:0005623	cells	cell
-66898	66900	GO:0065007	to	biological regulation
-66898	66900	GO:0009987	to	cellular process
-66924	66929	GO:0005623	cells	cell
-67065	67070	GO:0005623	cells	cell
-67205	67208	GO:0044464	rod	cell part
-67205	67208	GO:0044422	rod	organelle part
-67209	67213	GO:0005623	cell	cell
-67209	67220	GO:0044464	cell bodies	cell part
-67247	67251	GO:0005623	cell	cell
-67247	67258	GO:0044464	cell bodies	cell part
-67312	67319	GO:0043226	nucleus	organelle
-67312	67319	GO:0044464	nucleus	cell part
-67349	67364	GO:0044464	heterochromatin	cell part
-67349	67364	GO:0044422	heterochromatin	organelle part
-67402	67406	GO:0005623	cell	cell
-67458	67473	GO:0044464	heterochromatin	cell part
-67458	67473	GO:0044422	heterochromatin	organelle part
-67481	67492	GO:0044464	euchromatin	cell part
-67481	67492	GO:0044422	euchromatin	organelle part
-67515	67527	GO:0044464	mitochondria	cell part
-67515	67527	GO:0043226	mitochondria	organelle
-67569	67573	GO:0005623	cell	cell
-67569	67578	GO:0044464	cell body	cell part
-67593	67597	GO:0005623	cell	cell
-67629	67644	GO:0044464	heterochromatin	cell part
-67629	67644	GO:0044422	heterochromatin	organelle part
-67671	67684	GO:0043226	mitochondrion	organelle
-67671	67684	GO:0044464	mitochondrion	cell part
-67686	67689	GO:0023046	red	signaling process
-67686	67689	GO:0050896	red	response to stimulus
-67686	67689	GO:0009987	red	cellular process
-67686	67689	GO:0065007	red	biological regulation
-67809	67812	GO:0044422	Rod	organelle part
-67809	67812	GO:0044464	Rod	cell part
-67919	67922	GO:0023046	red	signaling process
-67919	67922	GO:0050896	red	response to stimulus
-67919	67922	GO:0009987	red	cellular process
-67919	67922	GO:0065007	red	biological regulation
-68173	68186	GO:0009987	transcription	cellular process
-68173	68186	GO:0008152	transcription	metabolic process
-68190	68192	GO:0065007	to	biological regulation
-68190	68192	GO:0009987	to	cellular process
-68256	68269	GO:0009987	transcription	cellular process
-68256	68269	GO:0008152	transcription	metabolic process
-68340	68346	GO:0009987	direct	cellular process
-68340	68346	GO:0008152	direct	metabolic process
-68496	68509	GO:0009987	transcription	cellular process
-68496	68509	GO:0008152	transcription	metabolic process
-68911	68914	GO:0044464	rod	cell part
-68911	68914	GO:0044422	rod	organelle part
+114	117	GO:0044422	Rod	organelle part
+114	117	GO:0044464	Rod	cell part
+151	157	GO:0032501	vision	multicellular organismal process
+257	259	GO:0065007	to	biological regulation
+257	259	GO:0009987	to	cellular process
+286	301	GO:0008152	gene expression	metabolic process
+405	410	GO:0005623	cells	cell
+618	631	GO:0009987	transcription	cellular process
+618	631	GO:0008152	transcription	metabolic process
+805	810	GO:0005623	cells	cell
+841	843	GO:0065007	to	biological regulation
+841	843	GO:0009987	to	cellular process
+961	965	GO:0005623	cell	cell
+1081	1083	GO:0065007	to	biological regulation
+1081	1083	GO:0009987	to	cellular process
+1292	1311	GO:0008152	glycogen metabolism	metabolic process
+1292	1311	GO:0009987	glycogen metabolism	cellular process
+1301	1311	GO:0008152	metabolism	metabolic process
+1470	1472	GO:0065007	to	biological regulation
+1470	1472	GO:0009987	to	cellular process
+1521	1525	GO:0005623	cell	cell
+1539	1541	GO:0065007	to	biological regulation
+1539	1541	GO:0009987	to	cellular process
+1687	1691	GO:0044464	rods	cell part
+1687	1691	GO:0044422	rods	organelle part
+1765	1771	GO:0032501	Vision	multicellular organismal process
+1944	1948	GO:0005623	cell	cell
+1984	1986	GO:0065007	to	biological regulation
+1984	1986	GO:0009987	to	cellular process
+2074	2078	GO:0044464	rods	cell part
+2074	2078	GO:0044422	rods	organelle part
+2090	2094	GO:0044422	Rods	organelle part
+2090	2094	GO:0044464	Rods	cell part
+2125	2131	GO:0032501	vision	multicellular organismal process
+2165	2171	GO:0032501	vision	multicellular organismal process
+2216	2218	GO:0065007	to	biological regulation
+2216	2218	GO:0009987	to	cellular process
+2223	2225	GO:0065007	to	biological regulation
+2223	2225	GO:0009987	to	cellular process
+2515	2519	GO:0044464	rods	cell part
+2515	2519	GO:0044422	rods	organelle part
+2585	2587	GO:0065007	to	biological regulation
+2585	2587	GO:0009987	to	cellular process
+2634	2639	GO:0016265	death	death
+2764	2770	GO:0032501	vision	multicellular organismal process
+2876	2880	GO:0044464	rods	cell part
+2876	2880	GO:0044422	rods	organelle part
+2926	2928	GO:0065007	to	biological regulation
+2926	2928	GO:0009987	to	cellular process
+3011	3017	GO:0032501	vision	multicellular organismal process
+3023	3026	GO:0044464	rod	cell part
+3023	3026	GO:0044422	rod	organelle part
+3094	3096	GO:0065007	to	biological regulation
+3094	3096	GO:0009987	to	cellular process
+3423	3436	GO:0009987	transcription	cellular process
+3423	3436	GO:0008152	transcription	metabolic process
+3532	3536	GO:0044464	rods	cell part
+3532	3536	GO:0044422	rods	organelle part
+3779	3781	GO:0065007	to	biological regulation
+3779	3781	GO:0009987	to	cellular process
+3808	3811	GO:0044464	rod	cell part
+3808	3811	GO:0044422	rod	organelle part
+3815	3817	GO:0065007	to	biological regulation
+3815	3817	GO:0009987	to	cellular process
+4200	4205	GO:0005623	cells	cell
+4263	4268	GO:0005623	cells	cell
+4426	4428	GO:0065007	to	biological regulation
+4426	4428	GO:0009987	to	cellular process
+4447	4449	GO:0065007	to	biological regulation
+4447	4449	GO:0009987	to	cellular process
+4595	4604	GO:0008152	formation	metabolic process
+4658	4662	GO:0005623	cell	cell
+4658	4669	GO:0044464	cell bodies	cell part
+4735	4737	GO:0065007	to	biological regulation
+4735	4737	GO:0009987	to	cellular process
+4989	4998	GO:0008152	formation	metabolic process
+5095	5097	GO:0065007	to	biological regulation
+5095	5097	GO:0009987	to	cellular process
+5167	5169	GO:0065007	to	biological regulation
+5167	5169	GO:0009987	to	cellular process
+5183	5187	GO:0005623	cell	cell
+5225	5227	GO:0065007	to	biological regulation
+5225	5227	GO:0009987	to	cellular process
+5275	5280	GO:0005623	cells	cell
+5308	5310	GO:0065007	to	biological regulation
+5308	5310	GO:0009987	to	cellular process
+5444	5446	GO:0065007	to	biological regulation
+5444	5446	GO:0009987	to	cellular process
+5704	5709	GO:0005623	cells	cell
+5773	5776	GO:0044464	rod	cell part
+5773	5776	GO:0044422	rod	organelle part
+5791	5796	GO:0005623	cells	cell
+5791	5796	GO:0005623	cells	cell
+5865	5868	GO:0044464	rod	cell part
+5865	5868	GO:0044422	rod	organelle part
+5937	5941	GO:0005623	cell	cell
+5976	5980	GO:0044464	rods	cell part
+5976	5980	GO:0044422	rods	organelle part
+6891	6893	GO:0065007	to	biological regulation
+6891	6893	GO:0009987	to	cellular process
+7006	7023	GO:0065007	phototransduction	biological regulation
+7006	7023	GO:0050896	phototransduction	response to stimulus
+7006	7023	GO:0009987	phototransduction	cellular process
+7006	7023	GO:0023046	phototransduction	signaling process
+7105	7107	GO:0065007	to	biological regulation
+7105	7107	GO:0009987	to	cellular process
+7393	7395	GO:0065007	to	biological regulation
+7393	7395	GO:0009987	to	cellular process
+7554	7563	GO:0009987	embryonic	cellular process
+7554	7563	GO:0065007	embryonic	biological regulation
+7629	7631	GO:0065007	to	biological regulation
+7629	7631	GO:0009987	to	cellular process
+7733	7748	GO:0008152	gene expression	metabolic process
+7853	7855	GO:0065007	to	biological regulation
+7853	7855	GO:0009987	to	cellular process
+7957	7959	GO:0065007	to	biological regulation
+7957	7959	GO:0009987	to	cellular process
+8165	8167	GO:0065007	to	biological regulation
+8165	8167	GO:0009987	to	cellular process
+8627	8633	GO:0060089	type I	molecular transducer activity
+8627	8633	GO:0003824	type I	catalytic activity
+8664	8679	GO:0008152	gene expression	metabolic process
+8716	8731	GO:0008152	gene expression	metabolic process
+8984	8999	GO:0008152	gene expression	metabolic process
+9029	9034	GO:0005623	cells	cell
+9045	9047	GO:0065007	to	biological regulation
+9045	9047	GO:0009987	to	cellular process
+9136	9143	GO:0065007	type II	biological regulation
+9136	9143	GO:0003824	type II	catalytic activity
+9136	9143	GO:0060089	type II	molecular transducer activity
+9136	9143	GO:0008152	type II	metabolic process
+9243	9248	GO:0005623	cells	cell
+9362	9367	GO:0005623	cells	cell
+9475	9480	GO:0005623	cells	cell
+9536	9538	GO:0065007	to	biological regulation
+9536	9538	GO:0009987	to	cellular process
+9594	9599	GO:0005623	cells	cell
+9659	9661	GO:0065007	to	biological regulation
+9659	9661	GO:0009987	to	cellular process
+9677	9681	GO:0005623	cell	cell
+9677	9688	GO:0044464	cell bodies	cell part
+9689	9691	GO:0065007	to	biological regulation
+9689	9691	GO:0009987	to	cellular process
+9744	9749	GO:0005623	cells	cell
+9799	9803	GO:0005623	cell	cell
+9840	9844	GO:0005623	cell	cell
+9943	9950	GO:0065007	type II	biological regulation
+9943	9950	GO:0003824	type II	catalytic activity
+9943	9950	GO:0060089	type II	molecular transducer activity
+9943	9950	GO:0008152	type II	metabolic process
+10020	10033	GO:0016265	retinal cells	death
+10020	10033	GO:0009987	retinal cells	cellular process
+10020	10033	GO:0032502	retinal cells	developmental process
+10028	10033	GO:0005623	cells	cell
+10073	10078	GO:0005623	cells	cell
+10135	10140	GO:0005623	cells	cell
+10226	10231	GO:0005623	cells	cell
+10300	10305	GO:0005623	cells	cell
+10333	10338	GO:0005623	cells	cell
+10399	10401	GO:0065007	to	biological regulation
+10399	10401	GO:0009987	to	cellular process
+10431	10436	GO:0005623	cells	cell
+10453	10455	GO:0065007	to	biological regulation
+10453	10455	GO:0009987	to	cellular process
+10480	10488	GO:0044421	antibody	extraccellular region part
+10480	10488	GO:0032991	antibody	macromolecular complex
+10620	10633	GO:0016265	retinal cells	death
+10620	10633	GO:0009987	retinal cells	cellular process
+10620	10633	GO:0032502	retinal cells	developmental process
+10628	10633	GO:0005623	cells	cell
+10766	10771	GO:0005623	cells	cell
+10860	10873	GO:0016265	retinal cells	death
+10860	10873	GO:0009987	retinal cells	cellular process
+10860	10873	GO:0032502	retinal cells	developmental process
+10868	10873	GO:0005623	cells	cell
+11003	11008	GO:0005623	cells	cell
+11071	11073	GO:0065007	to	biological regulation
+11071	11073	GO:0009987	to	cellular process
+11128	11133	GO:0005623	cells	cell
+11177	11185	GO:0044421	antibody	extraccellular region part
+11177	11185	GO:0032991	antibody	macromolecular complex
+11327	11355	GO:0044464	photoreceptor outer segments	cell part
+11436	11441	GO:0005623	cells	cell
+12151	12156	GO:0005623	cells	cell
+12369	12381	GO:0051179	localization	localization
+12403	12405	GO:0065007	to	biological regulation
+12403	12405	GO:0009987	to	cellular process
+12410	12437	GO:0044464	photoreceptor inner segment	cell part
+12467	12479	GO:0051179	localization	localization
+12676	12688	GO:0051179	localization	localization
+12861	12863	GO:0065007	to	biological regulation
+12861	12863	GO:0009987	to	cellular process
+13007	13019	GO:0051179	localization	localization
+13057	13059	GO:0065007	to	biological regulation
+13057	13059	GO:0009987	to	cellular process
+13376	13378	GO:0065007	to	biological regulation
+13376	13378	GO:0009987	to	cellular process
+13450	13454	GO:0044464	rods	cell part
+13450	13454	GO:0044422	rods	organelle part
+13892	13894	GO:0065007	to	biological regulation
+13892	13894	GO:0009987	to	cellular process
+13902	13908	GO:0060089	type I	molecular transducer activity
+13902	13908	GO:0003824	type I	catalytic activity
+13947	13949	GO:0065007	to	biological regulation
+13947	13949	GO:0009987	to	cellular process
+14006	14018	GO:0051179	localization	localization
+14019	14021	GO:0065007	to	biological regulation
+14019	14021	GO:0009987	to	cellular process
+14078	14080	GO:0065007	to	biological regulation
+14078	14080	GO:0009987	to	cellular process
+14282	14300	GO:0009987	glucose metabolism	cellular process
+14282	14300	GO:0008152	glucose metabolism	metabolic process
+14290	14300	GO:0008152	metabolism	metabolic process
+14318	14339	GO:0008152	fatty acid metabolism	metabolic process
+14318	14339	GO:0009987	fatty acid metabolism	cellular process
+14329	14339	GO:0008152	metabolism	metabolic process
+14350	14360	GO:0050896	DNA repair	response to stimulus
+14350	14360	GO:0009987	DNA repair	cellular process
+14350	14360	GO:0008152	DNA repair	metabolic process
+14370	14374	GO:0005623	cell	cell
+14370	14380	GO:0009987	cell cycle	cellular process
+14381	14391	GO:0043226	chromosome	organelle
+14381	14391	GO:0044422	chromosome	organelle part
+14381	14391	GO:0044464	chromosome	cell part
+14381	14403	GO:0016043	chromosome segregation	cellular component organization
+14381	14403	GO:0009987	chromosome segregation	cellular process
+14507	14524	GO:0032502	otolith formation	developmental process
+14515	14524	GO:0008152	formation	metabolic process
+14701	14716	GO:0008152	gene expression	metabolic process
+14732	14734	GO:0065007	to	biological regulation
+14732	14734	GO:0009987	to	cellular process
+15510	15519	GO:0009987	embryonic	cellular process
+15510	15519	GO:0065007	embryonic	biological regulation
+15587	15596	GO:0009987	embryonic	cellular process
+15587	15596	GO:0065007	embryonic	biological regulation
+15709	15711	GO:0065007	to	biological regulation
+15709	15711	GO:0009987	to	cellular process
+15709	15711	GO:0065007	to	biological regulation
+15709	15711	GO:0009987	to	cellular process
+15716	15718	GO:0065007	to	biological regulation
+15716	15718	GO:0009987	to	cellular process
+16775	16779	GO:0005623	cell	cell
+16775	16786	GO:0044464	cell bodies	cell part
+16811	16816	GO:0005623	cells	cell
+16824	16826	GO:0065007	to	biological regulation
+16824	16826	GO:0009987	to	cellular process
+16953	16955	GO:0065007	to	biological regulation
+16953	16955	GO:0009987	to	cellular process
+16978	16980	GO:0065007	to	biological regulation
+16978	16980	GO:0009987	to	cellular process
+17034	17038	GO:0005623	cell	cell
+17034	17045	GO:0044464	cell bodies	cell part
+17060	17062	GO:0065007	to	biological regulation
+17060	17062	GO:0009987	to	cellular process
+17060	17062	GO:0065007	to	biological regulation
+17060	17062	GO:0009987	to	cellular process
+17179	17183	GO:0005623	cell	cell
+17179	17190	GO:0044464	cell bodies	cell part
+17202	17204	GO:0065007	to	biological regulation
+17202	17204	GO:0009987	to	cellular process
+17202	17204	GO:0065007	to	biological regulation
+17202	17204	GO:0009987	to	cellular process
+17466	17470	GO:0005623	cell	cell
+17466	17477	GO:0044464	cell bodies	cell part
+17478	17480	GO:0065007	to	biological regulation
+17478	17480	GO:0009987	to	cellular process
+17511	17514	GO:0044422	Rod	organelle part
+17511	17514	GO:0044464	Rod	cell part
+17590	17592	GO:0065007	to	biological regulation
+17590	17592	GO:0009987	to	cellular process
+17609	17624	GO:0008152	gene expression	metabolic process
+17626	17629	GO:0044464	rod	cell part
+17626	17629	GO:0044422	rod	organelle part
+17772	17774	GO:0065007	to	biological regulation
+17772	17774	GO:0009987	to	cellular process
+17862	17864	GO:0065007	to	biological regulation
+17862	17864	GO:0009987	to	cellular process
+17913	17916	GO:0044464	rod	cell part
+17913	17916	GO:0044422	rod	organelle part
+17913	17916	GO:0044464	rod	cell part
+17913	17916	GO:0044422	rod	organelle part
+18243	18258	GO:0008152	gene expression	metabolic process
+18399	18401	GO:0065007	to	biological regulation
+18399	18401	GO:0009987	to	cellular process
+18563	18565	GO:0065007	to	biological regulation
+18563	18565	GO:0009987	to	cellular process
+18738	18740	GO:0065007	to	biological regulation
+18738	18740	GO:0009987	to	cellular process
+19123	19136	GO:0008152	Transcription	metabolic process
+19123	19136	GO:0009987	Transcription	cellular process
+19219	19232	GO:0009987	transcription	cellular process
+19219	19232	GO:0008152	transcription	metabolic process
+19426	19439	GO:0009987	transcription	cellular process
+19426	19439	GO:0008152	transcription	metabolic process
+19552	19556	GO:0044464	rods	cell part
+19552	19556	GO:0044422	rods	organelle part
+19576	19578	GO:0065007	to	biological regulation
+19576	19578	GO:0009987	to	cellular process
+19671	19684	GO:0009987	transcription	cellular process
+19671	19684	GO:0008152	transcription	metabolic process
+19710	19714	GO:0044464	rods	cell part
+19710	19714	GO:0044422	rods	organelle part
+19823	19825	GO:0065007	to	biological regulation
+19823	19825	GO:0009987	to	cellular process
+20433	20446	GO:0009987	transcription	cellular process
+20433	20446	GO:0008152	transcription	metabolic process
+20513	20515	GO:0065007	to	biological regulation
+20513	20515	GO:0009987	to	cellular process
+20903	20907	GO:0005623	cell	cell
+21051	21055	GO:0016265	glia	death
+21051	21055	GO:0009987	glia	cellular process
+21077	21081	GO:0005623	cell	cell
+21221	21225	GO:0016265	glia	death
+21221	21225	GO:0009987	glia	cellular process
+21226	21228	GO:0065007	to	biological regulation
+21226	21228	GO:0009987	to	cellular process
+21341	21345	GO:0005623	Cell	cell
+21361	21363	GO:0065007	to	biological regulation
+21361	21363	GO:0009987	to	cellular process
+21408	21423	GO:0008152	gene expression	metabolic process
+21473	21477	GO:0005623	cell	cell
+21473	21484	GO:0044464	cell bodies	cell part
+21521	21525	GO:0005623	cell	cell
+21521	21532	GO:0044464	cell bodies	cell part
+21652	21655	GO:0044464	rod	cell part
+21652	21655	GO:0044422	rod	organelle part
+21776	21780	GO:0005623	cell	cell
+21776	21787	GO:0044464	cell bodies	cell part
+21871	21875	GO:0044464	rods	cell part
+21871	21875	GO:0044422	rods	organelle part
+21921	21944	GO:0044464	nuclear heterochromatin	cell part
+21921	21944	GO:0044422	nuclear heterochromatin	organelle part
+21929	21944	GO:0044464	heterochromatin	cell part
+21929	21944	GO:0044422	heterochromatin	organelle part
+22071	22082	GO:0044464	euchromatin	cell part
+22071	22082	GO:0044422	euchromatin	organelle part
+22088	22092	GO:0044464	rods	cell part
+22088	22092	GO:0044422	rods	organelle part
+22149	22158	GO:0044464	cytoplasm	cell part
+22151	22153	GO:0065007	to	biological regulation
+22151	22153	GO:0009987	to	cellular process
+22206	22218	GO:0044464	mitochondria	cell part
+22206	22218	GO:0043226	mitochondria	organelle
+22309	22314	GO:0005623	cells	cell
+22501	22506	GO:0005623	cells	cell
+22588	22592	GO:0005623	cell	cell
+22682	22695	GO:0016265	retinal cells	death
+22682	22695	GO:0009987	retinal cells	cellular process
+22682	22695	GO:0032502	retinal cells	developmental process
+22690	22695	GO:0005623	cells	cell
+22736	22740	GO:0005623	cell	cell
+22885	22890	GO:0005623	cells	cell
+22942	22947	GO:0005623	cells	cell
+23031	23043	GO:0051179	localization	localization
+23053	23057	GO:0005623	cell	cell
+23053	23064	GO:0044464	cell bodies	cell part
+23079	23081	GO:0065007	to	biological regulation
+23079	23081	GO:0009987	to	cellular process
+23091	23095	GO:0005623	cell	cell
+23091	23100	GO:0044464	cell body	cell part
+23116	23119	GO:0044464	rod	cell part
+23116	23119	GO:0044422	rod	organelle part
+23120	23124	GO:0022414	soma	reproductive process
+23120	23124	GO:0032502	soma	developmental process
+23190	23205	GO:0044464	heterochromatin	cell part
+23190	23205	GO:0044422	heterochromatin	organelle part
+23247	23258	GO:0044464	euchromatin	cell part
+23247	23258	GO:0044422	euchromatin	organelle part
+23288	23297	GO:0044464	cytoplasm	cell part
+23306	23316	GO:0043226	organelles	organelle
+23337	23341	GO:0005623	cell	cell
+23425	23429	GO:0044464	rods	cell part
+23425	23429	GO:0044422	rods	organelle part
+23463	23478	GO:0044464	heterochromatin	cell part
+23463	23478	GO:0044422	heterochromatin	organelle part
+23509	23520	GO:0044464	euchromatin	cell part
+23509	23520	GO:0044422	euchromatin	organelle part
+23544	23549	GO:0005623	cells	cell
+23590	23601	GO:0044464	euchromatin	cell part
+23590	23601	GO:0044422	euchromatin	organelle part
+23641	23646	GO:0005623	cells	cell
+23665	23669	GO:0044464	rods	cell part
+23665	23669	GO:0044422	rods	organelle part
+23842	23847	GO:0005623	cells	cell
+23917	23919	GO:0065007	to	biological regulation
+23917	23919	GO:0009987	to	cellular process
+24008	24012	GO:0005623	cell	cell
+24008	24019	GO:0044464	cell bodies	cell part
+24116	24119	GO:0044464	rod	cell part
+24116	24119	GO:0044422	rod	organelle part
+24270	24272	GO:0065007	to	biological regulation
+24270	24272	GO:0009987	to	cellular process
+24283	24287	GO:0044464	rods	cell part
+24283	24287	GO:0044422	rods	organelle part
+24579	24581	GO:0065007	to	biological regulation
+24579	24581	GO:0009987	to	cellular process
+24735	24747	GO:0044464	mitochondria	cell part
+24735	24747	GO:0043226	mitochondria	organelle
+24749	24752	GO:0023046	red	signaling process
+24749	24752	GO:0050896	red	response to stimulus
+24749	24752	GO:0009987	red	cellular process
+24749	24752	GO:0065007	red	biological regulation
+24810	24820	GO:0043226	organelles	organelle
+24857	24861	GO:0044464	rods	cell part
+24857	24861	GO:0044422	rods	organelle part
+24884	24889	GO:0005623	cells	cell
+24997	25001	GO:0005623	cell	cell
+25073	25077	GO:0044464	rods	cell part
+25073	25077	GO:0044422	rods	organelle part
+25167	25172	GO:0005623	cells	cell
+25262	25275	GO:0009987	transcription	cellular process
+25262	25275	GO:0008152	transcription	metabolic process
+25279	25281	GO:0065007	to	biological regulation
+25279	25281	GO:0009987	to	cellular process
+25349	25353	GO:0044464	rods	cell part
+25349	25353	GO:0044422	rods	organelle part
+25542	25548	GO:0060089	type I	molecular transducer activity
+25542	25548	GO:0003824	type I	catalytic activity
+25619	25624	GO:0005623	cells	cell
+25643	25648	GO:0005623	cells	cell
+25665	25667	GO:0065007	to	biological regulation
+25665	25667	GO:0009987	to	cellular process
+25682	25685	GO:0044464	rod	cell part
+25682	25685	GO:0044422	rod	organelle part
+25738	25753	GO:0008152	gene expression	metabolic process
+25763	25768	GO:0005623	cells	cell
+25814	25816	GO:0065007	to	biological regulation
+25814	25816	GO:0009987	to	cellular process
+25864	25868	GO:0044464	rods	cell part
+25864	25868	GO:0044422	rods	organelle part
+25904	25910	GO:0060089	type I	molecular transducer activity
+25904	25910	GO:0003824	type I	catalytic activity
+25965	25970	GO:0005623	cells	cell
+26070	26075	GO:0005623	cells	cell
+26090	26092	GO:0065007	to	biological regulation
+26090	26092	GO:0009987	to	cellular process
+26202	26208	GO:0060089	type I	molecular transducer activity
+26202	26208	GO:0003824	type I	catalytic activity
+26312	26314	GO:0065007	to	biological regulation
+26312	26314	GO:0009987	to	cellular process
+26408	26413	GO:0005623	cells	cell
+26478	26480	GO:0065007	to	biological regulation
+26478	26480	GO:0009987	to	cellular process
+26531	26536	GO:0005623	cells	cell
+26637	26642	GO:0005623	cells	cell
+26662	26667	GO:0005623	cells	cell
+26776	26782	GO:0060089	type I	molecular transducer activity
+26776	26782	GO:0003824	type I	catalytic activity
+26864	26877	GO:0009987	transcription	cellular process
+26864	26877	GO:0008152	transcription	metabolic process
+26939	26943	GO:0044464	rods	cell part
+26939	26943	GO:0044422	rods	organelle part
+27097	27101	GO:0044464	rods	cell part
+27097	27101	GO:0044422	rods	organelle part
+27329	27331	GO:0065007	to	biological regulation
+27329	27331	GO:0009987	to	cellular process
+27355	27370	GO:0008152	gene expression	metabolic process
+27601	27608	GO:0065007	type II	biological regulation
+27601	27608	GO:0003824	type II	catalytic activity
+27601	27608	GO:0060089	type II	molecular transducer activity
+27601	27608	GO:0008152	type II	metabolic process
+27655	27660	GO:0005623	cells	cell
+27795	27800	GO:0005623	cells	cell
+27808	27810	GO:0065007	to	biological regulation
+27808	27810	GO:0009987	to	cellular process
+27850	27854	GO:0005623	cell	cell
+27850	27861	GO:0044464	cell bodies	cell part
+27921	27926	GO:0005623	cells	cell
+28034	28042	GO:0044421	antibody	extraccellular region part
+28034	28042	GO:0032991	antibody	macromolecular complex
+28213	28215	GO:0065007	to	biological regulation
+28213	28215	GO:0009987	to	cellular process
+28398	28405	GO:0009987	reduced	cellular process
+28398	28405	GO:0008152	reduced	metabolic process
+28398	28405	GO:0005215	reduced	transporter activity
+28398	28405	GO:0051234	reduced	establishment of localization
+28498	28505	GO:0009987	reduced	cellular process
+28498	28505	GO:0008152	reduced	metabolic process
+28498	28505	GO:0005215	reduced	transporter activity
+28498	28505	GO:0051234	reduced	establishment of localization
+28844	28859	GO:0008152	gene expression	metabolic process
+28935	28937	GO:0065007	to	biological regulation
+28935	28937	GO:0009987	to	cellular process
+29169	29171	GO:0065007	to	biological regulation
+29169	29171	GO:0009987	to	cellular process
+29267	29269	GO:0065007	to	biological regulation
+29267	29269	GO:0009987	to	cellular process
+29376	29378	GO:0065007	to	biological regulation
+29376	29378	GO:0009987	to	cellular process
+29523	29527	GO:0016265	glia	death
+29523	29527	GO:0009987	glia	cellular process
+29688	29692	GO:0016265	glia	death
+29688	29692	GO:0009987	glia	cellular process
+29723	29725	GO:0065007	to	biological regulation
+29723	29725	GO:0009987	to	cellular process
+29750	29752	GO:0065007	to	biological regulation
+29750	29752	GO:0009987	to	cellular process
+30086	30088	GO:0065007	to	biological regulation
+30086	30088	GO:0009987	to	cellular process
+30303	30305	GO:0065007	to	biological regulation
+30303	30305	GO:0009987	to	cellular process
+30325	30327	GO:0065007	to	biological regulation
+30325	30327	GO:0009987	to	cellular process
+30332	30334	GO:0065007	to	biological regulation
+30332	30334	GO:0009987	to	cellular process
+30391	30393	GO:0065007	to	biological regulation
+30391	30393	GO:0009987	to	cellular process
+30408	30410	GO:0065007	to	biological regulation
+30408	30410	GO:0009987	to	cellular process
+30915	30922	GO:0005488	binding	binding
+31038	31053	GO:0008152	gene expression	metabolic process
+31166	31170	GO:0044464	rods	cell part
+31166	31170	GO:0044422	rods	organelle part
+31231	31233	GO:0065007	to	biological regulation
+31231	31233	GO:0009987	to	cellular process
+31292	31296	GO:0044464	rods	cell part
+31292	31296	GO:0044422	rods	organelle part
+31351	31364	GO:0009987	transcription	cellular process
+31351	31364	GO:0008152	transcription	metabolic process
+31404	31417	GO:0009987	transcription	cellular process
+31404	31417	GO:0008152	transcription	metabolic process
+31478	31484	GO:0060089	type I	molecular transducer activity
+31478	31484	GO:0003824	type I	catalytic activity
+31489	31496	GO:0065007	type II	biological regulation
+31489	31496	GO:0003824	type II	catalytic activity
+31489	31496	GO:0060089	type II	molecular transducer activity
+31489	31496	GO:0008152	type II	metabolic process
+31554	31567	GO:0009987	transcription	cellular process
+31554	31567	GO:0008152	transcription	metabolic process
+31661	31667	GO:0060089	type I	molecular transducer activity
+31661	31667	GO:0003824	type I	catalytic activity
+31710	31723	GO:0009987	transcription	cellular process
+31710	31723	GO:0008152	transcription	metabolic process
+31776	31783	GO:0065007	type II	biological regulation
+31776	31783	GO:0003824	type II	catalytic activity
+31776	31783	GO:0060089	type II	molecular transducer activity
+31776	31783	GO:0008152	type II	metabolic process
+31791	31804	GO:0009987	transcription	cellular process
+31791	31804	GO:0008152	transcription	metabolic process
+31852	31865	GO:0009987	transcription	cellular process
+31852	31865	GO:0008152	transcription	metabolic process
+31932	31934	GO:0065007	to	biological regulation
+31932	31934	GO:0009987	to	cellular process
+31932	31934	GO:0065007	to	biological regulation
+31932	31934	GO:0009987	to	cellular process
+32231	32236	GO:0005623	cells	cell
+32507	32509	GO:0065007	to	biological regulation
+32507	32509	GO:0009987	to	cellular process
+32919	32921	GO:0065007	to	biological regulation
+32919	32921	GO:0009987	to	cellular process
+33130	33132	GO:0065007	to	biological regulation
+33130	33132	GO:0009987	to	cellular process
+33537	33542	GO:0005623	cells	cell
+33695	33700	GO:0005623	cells	cell
+33860	33878	GO:0009987	glucose metabolism	cellular process
+33860	33878	GO:0008152	glucose metabolism	metabolic process
+33868	33878	GO:0008152	metabolism	metabolic process
+33964	33974	GO:0008152	glycolysis	metabolic process
+33964	33974	GO:0009987	glycolysis	cellular process
+34006	34024	GO:0009987	glucose metabolism	cellular process
+34006	34024	GO:0008152	glucose metabolism	metabolic process
+34014	34024	GO:0008152	metabolism	metabolic process
+34190	34194	GO:0044464	rods	cell part
+34190	34194	GO:0044422	rods	organelle part
+34247	34265	GO:0009987	glucose metabolism	cellular process
+34247	34265	GO:0008152	glucose metabolism	metabolic process
+34255	34265	GO:0008152	metabolism	metabolic process
+34290	34297	GO:0003824	protein	catalytic activity
+34316	34318	GO:0065007	to	biological regulation
+34316	34318	GO:0009987	to	cellular process
+34667	34682	GO:0008152	gene expression	metabolic process
+34839	34857	GO:0009987	glucose metabolism	cellular process
+34839	34857	GO:0008152	glucose metabolism	metabolic process
+34847	34857	GO:0008152	metabolism	metabolic process
+34874	34878	GO:0044464	rods	cell part
+34874	34878	GO:0044422	rods	organelle part
+34929	34931	GO:0065007	to	biological regulation
+34929	34931	GO:0009987	to	cellular process
+35180	35182	GO:0065007	To	biological regulation
+35180	35182	GO:0009987	To	cellular process
+35446	35450	GO:0044464	rods	cell part
+35446	35450	GO:0044422	rods	organelle part
+35523	35527	GO:0044464	rods	cell part
+35523	35527	GO:0044422	rods	organelle part
+35583	35588	GO:0005623	cells	cell
+35656	35660	GO:0005623	cell	cell
+35730	35735	GO:0005623	cells	cell
+35754	35756	GO:0065007	to	biological regulation
+35754	35756	GO:0009987	to	cellular process
+35843	35848	GO:0005623	cells	cell
+35868	35870	GO:0065007	to	biological regulation
+35868	35870	GO:0009987	to	cellular process
+35878	35882	GO:0044464	rods	cell part
+35878	35882	GO:0044422	rods	organelle part
+35948	35961	GO:0009987	transcription	cellular process
+35948	35961	GO:0008152	transcription	metabolic process
+35976	35979	GO:0044464	rod	cell part
+35976	35979	GO:0044422	rod	organelle part
+35996	35998	GO:0065007	to	biological regulation
+35996	35998	GO:0009987	to	cellular process
+36030	36034	GO:0005623	cell	cell
+36228	36231	GO:0044464	rod	cell part
+36228	36231	GO:0044422	rod	organelle part
+36270	36272	GO:0065007	to	biological regulation
+36270	36272	GO:0009987	to	cellular process
+36322	36326	GO:0005623	cell	cell
+36386	36388	GO:0065007	to	biological regulation
+36386	36388	GO:0009987	to	cellular process
+36442	36446	GO:0044464	rods	cell part
+36442	36446	GO:0044422	rods	organelle part
+36547	36550	GO:0044464	rod	cell part
+36547	36550	GO:0044422	rod	organelle part
+36582	36584	GO:0065007	to	biological regulation
+36582	36584	GO:0009987	to	cellular process
+36619	36621	GO:0065007	to	biological regulation
+36619	36621	GO:0009987	to	cellular process
+36675	36680	GO:0005623	cells	cell
+36889	36892	GO:0044464	rod	cell part
+36889	36892	GO:0044422	rod	organelle part
+37061	37064	GO:0044464	rod	cell part
+37061	37064	GO:0044422	rod	organelle part
+37186	37191	GO:0005623	cells	cell
+37477	37480	GO:0044464	rod	cell part
+37477	37480	GO:0044422	rod	organelle part
+37666	37671	GO:0005623	cells	cell
+37853	37855	GO:0065007	to	biological regulation
+37853	37855	GO:0009987	to	cellular process
+37930	37932	GO:0065007	to	biological regulation
+37930	37932	GO:0009987	to	cellular process
+38019	38037	GO:0032502	retinal lamination	developmental process
+38051	38060	GO:0008152	formation	metabolic process
+38228	38230	GO:0065007	to	biological regulation
+38228	38230	GO:0009987	to	cellular process
+38397	38399	GO:0065007	to	biological regulation
+38397	38399	GO:0009987	to	cellular process
+38428	38430	GO:0065007	to	biological regulation
+38428	38430	GO:0009987	to	cellular process
+38435	38437	GO:0065007	to	biological regulation
+38435	38437	GO:0009987	to	cellular process
+38540	38545	GO:0005623	cells	cell
+38564	38567	GO:0044464	rod	cell part
+38564	38567	GO:0044422	rod	organelle part
+38736	38743	GO:0009987	reduced	cellular process
+38736	38743	GO:0008152	reduced	metabolic process
+38736	38743	GO:0005215	reduced	transporter activity
+38736	38743	GO:0051234	reduced	establishment of localization
+38744	38747	GO:0044464	rod	cell part
+38744	38747	GO:0044422	rod	organelle part
+38809	38811	GO:0065007	to	biological regulation
+38809	38811	GO:0009987	to	cellular process
+39044	39048	GO:0044464	rods	cell part
+39044	39048	GO:0044422	rods	organelle part
+39193	39197	GO:0005623	cell	cell
+39364	39370	GO:0060089	type I	molecular transducer activity
+39364	39370	GO:0003824	type I	catalytic activity
+39409	39416	GO:0065007	type II	biological regulation
+39409	39416	GO:0003824	type II	catalytic activity
+39409	39416	GO:0060089	type II	molecular transducer activity
+39409	39416	GO:0008152	type II	metabolic process
+39508	39513	GO:0005623	cells	cell
+39565	39567	GO:0065007	to	biological regulation
+39565	39567	GO:0009987	to	cellular process
+39688	39692	GO:0044464	rods	cell part
+39688	39692	GO:0044422	rods	organelle part
+39855	39858	GO:0044464	rod	cell part
+39855	39858	GO:0044422	rod	organelle part
+39920	39935	GO:0008152	gene expression	metabolic process
+39950	39952	GO:0065007	to	biological regulation
+39950	39952	GO:0009987	to	cellular process
+40122	40124	GO:0065007	to	biological regulation
+40122	40124	GO:0009987	to	cellular process
+40175	40179	GO:0005623	cell	cell
+40246	40249	GO:0044464	rod	cell part
+40246	40249	GO:0044422	rod	organelle part
+40277	40281	GO:0005623	cell	cell
+40303	40307	GO:0005623	cell	cell
+40308	40310	GO:0065007	to	biological regulation
+40308	40310	GO:0009987	to	cellular process
+40311	40320	GO:0016265	apoptosis	death
+40311	40320	GO:0009987	apoptosis	cellular process
+40466	40475	GO:0008152	formation	metabolic process
+40567	40569	GO:0065007	to	biological regulation
+40567	40569	GO:0009987	to	cellular process
+40595	40599	GO:0005623	cell	cell
+40636	40645	GO:0008152	formation	metabolic process
+40731	40735	GO:0005623	cell	cell
+40847	40849	GO:0065007	to	biological regulation
+40847	40849	GO:0009987	to	cellular process
+40938	40947	GO:0008152	formation	metabolic process
+40969	40971	GO:0065007	to	biological regulation
+40969	40971	GO:0009987	to	cellular process
+41226	41238	GO:0043473	pigmentation	pigmentation
+41311	41313	GO:0065007	to	biological regulation
+41311	41313	GO:0009987	to	cellular process
+41431	41435	GO:0044464	rods	cell part
+41431	41435	GO:0044422	rods	organelle part
+41466	41468	GO:0065007	to	biological regulation
+41466	41468	GO:0009987	to	cellular process
+41519	41521	GO:0065007	to	biological regulation
+41519	41521	GO:0009987	to	cellular process
+41739	41741	GO:0065007	to	biological regulation
+41739	41741	GO:0009987	to	cellular process
+41773	41775	GO:0065007	to	biological regulation
+41773	41775	GO:0009987	to	cellular process
+41807	41809	GO:0065007	to	biological regulation
+41807	41809	GO:0009987	to	cellular process
+41843	41845	GO:0065007	to	biological regulation
+41843	41845	GO:0009987	to	cellular process
+42207	42211	GO:0044464	rods	cell part
+42207	42211	GO:0044422	rods	organelle part
+42302	42306	GO:0044464	rods	cell part
+42302	42306	GO:0044422	rods	organelle part
+42378	42380	GO:0065007	to	biological regulation
+42378	42380	GO:0009987	to	cellular process
+42461	42463	GO:0065007	to	biological regulation
+42461	42463	GO:0009987	to	cellular process
+42591	42595	GO:0044464	rods	cell part
+42591	42595	GO:0044422	rods	organelle part
+42647	42651	GO:0005623	cell	cell
+42747	42749	GO:0065007	to	biological regulation
+42747	42749	GO:0009987	to	cellular process
+42793	42799	GO:0032501	vision	multicellular organismal process
+42926	42928	GO:0065007	to	biological regulation
+42926	42928	GO:0009987	to	cellular process
+42969	42971	GO:0065007	to	biological regulation
+42969	42971	GO:0009987	to	cellular process
+43333	43335	GO:0065007	to	biological regulation
+43333	43335	GO:0009987	to	cellular process
+43333	43335	GO:0065007	to	biological regulation
+43333	43335	GO:0009987	to	cellular process
+44500	44504	GO:0044464	Axon	cell part
+44972	44974	GO:0065007	to	biological regulation
+44972	44974	GO:0009987	to	cellular process
+44972	44974	GO:0065007	to	biological regulation
+44972	44974	GO:0009987	to	cellular process
+45183	45185	GO:0065007	to	biological regulation
+45183	45185	GO:0009987	to	cellular process
+45183	45185	GO:0065007	to	biological regulation
+45183	45185	GO:0009987	to	cellular process
+45296	45298	GO:0065007	to	biological regulation
+45296	45298	GO:0009987	to	cellular process
+45450	45452	GO:0065007	to	biological regulation
+45450	45452	GO:0009987	to	cellular process
+45659	45661	GO:0065007	to	biological regulation
+45659	45661	GO:0009987	to	cellular process
+45747	45749	GO:0065007	to	biological regulation
+45747	45749	GO:0009987	to	cellular process
+46053	46055	GO:0065007	to	biological regulation
+46053	46055	GO:0009987	to	cellular process
+48132	48136	GO:0005623	cell	cell
+48433	48438	GO:0005623	cells	cell
+48471	48475	GO:0005623	cell	cell
+48660	48668	GO:0044421	antibody	extraccellular region part
+48660	48668	GO:0032991	antibody	macromolecular complex
+48756	48766	GO:0044421	antibodies	extraccellular region part
+48756	48766	GO:0032991	antibodies	macromolecular complex
+48756	48766	GO:0044421	antibodies	extraccellular region part
+48756	48766	GO:0032991	antibodies	macromolecular complex
+49125	49133	GO:0044421	antibody	extraccellular region part
+49125	49133	GO:0032991	antibody	macromolecular complex
+49164	49166	GO:0065007	to	biological regulation
+49164	49166	GO:0009987	to	cellular process
+49331	49333	GO:0065007	to	biological regulation
+49331	49333	GO:0009987	to	cellular process
+49811	49818	GO:0005215	calcium	transporter activity
+49881	49883	GO:0065007	to	biological regulation
+49881	49883	GO:0009987	to	cellular process
+50693	50700	GO:0008152	ethanol	metabolic process
+50693	50700	GO:0009987	ethanol	cellular process
+50727	50734	GO:0008152	ethanol	metabolic process
+50727	50734	GO:0009987	ethanol	cellular process
+50772	50779	GO:0008152	ethanol	metabolic process
+50772	50779	GO:0009987	ethanol	cellular process
+51229	51234	GO:0005623	cells	cell
+51495	51497	GO:0065007	to	biological regulation
+51495	51497	GO:0009987	to	cellular process
+51754	51758	GO:0005623	cell	cell
+51754	51765	GO:0044464	cell bodies	cell part
+51773	51777	GO:0044464	rods	cell part
+51773	51777	GO:0044422	rods	organelle part
+51793	51798	GO:0005623	cells	cell
+52083	52087	GO:0005623	cell	cell
+52083	52094	GO:0044464	cell bodies	cell part
+52105	52107	GO:0065007	to	biological regulation
+52105	52107	GO:0009987	to	cellular process
+52142	52146	GO:0005623	cell	cell
+52142	52153	GO:0044464	cell bodies	cell part
+52176	52178	GO:0065007	to	biological regulation
+52176	52178	GO:0009987	to	cellular process
+52198	52202	GO:0005623	cell	cell
+52231	52233	GO:0065007	to	biological regulation
+52231	52233	GO:0009987	to	cellular process
+52284	52289	GO:0005623	cells	cell
+52382	52386	GO:0005623	cell	cell
+52382	52396	GO:0044464	cell membranes	cell part
+52387	52396	GO:0044464	membranes	cell part
+52662	52667	GO:0005623	cells	cell
+52740	52742	GO:0065007	to	biological regulation
+52740	52742	GO:0009987	to	cellular process
+52770	52774	GO:0044464	rods	cell part
+52770	52774	GO:0044422	rods	organelle part
+52825	52837	GO:0044464	mitochondria	cell part
+52825	52837	GO:0043226	mitochondria	organelle
+52843	52847	GO:0044464	rods	cell part
+52843	52847	GO:0044422	rods	organelle part
+52905	52910	GO:0005623	cells	cell
+52932	52942	GO:0043226	organelles	organelle
+52980	52984	GO:0044464	rods	cell part
+52980	52984	GO:0044422	rods	organelle part
+53017	53026	GO:0043226	organelle	organelle
+53055	53057	GO:0065007	to	biological regulation
+53055	53057	GO:0009987	to	cellular process
+53081	53085	GO:0044464	rods	cell part
+53081	53085	GO:0044422	rods	organelle part
+53103	53115	GO:0044464	mitochondria	cell part
+53103	53115	GO:0043226	mitochondria	organelle
+53186	53190	GO:0005623	cell	cell
+53186	53197	GO:0044464	cell bodies	cell part
+53788	53797	GO:0009987	embryonic	cellular process
+53788	53797	GO:0065007	embryonic	biological regulation
+53847	53856	GO:0009987	embryonic	cellular process
+53847	53856	GO:0065007	embryonic	biological regulation
+54789	54794	GO:0005623	cells	cell
+54847	54849	GO:0065007	to	biological regulation
+54847	54849	GO:0009987	to	cellular process
+54847	54849	GO:0065007	to	biological regulation
+54847	54849	GO:0009987	to	cellular process
+54966	54971	GO:0005623	cells	cell
+55321	55323	GO:0065007	to	biological regulation
+55321	55323	GO:0009987	to	cellular process
+55590	55593	GO:0044422	Rod	organelle part
+55590	55593	GO:0044464	Rod	cell part
+55917	55919	GO:0065007	to	biological regulation
+55917	55919	GO:0009987	to	cellular process
+56242	56245	GO:0023046	red	signaling process
+56242	56245	GO:0050896	red	response to stimulus
+56242	56245	GO:0009987	red	cellular process
+56242	56245	GO:0065007	red	biological regulation
+56756	56758	GO:0065007	to	biological regulation
+56756	56758	GO:0009987	to	cellular process
+56805	56807	GO:0065007	to	biological regulation
+56805	56807	GO:0009987	to	cellular process
+57063	57065	GO:0065007	to	biological regulation
+57063	57065	GO:0009987	to	cellular process
+57063	57065	GO:0065007	to	biological regulation
+57063	57065	GO:0009987	to	cellular process
+57476	57478	GO:0065007	to	biological regulation
+57476	57478	GO:0009987	to	cellular process
+59451	59453	GO:0065007	to	biological regulation
+59451	59453	GO:0009987	to	cellular process
+59516	59518	GO:0065007	to	biological regulation
+59516	59518	GO:0009987	to	cellular process
+59557	59559	GO:0065007	to	biological regulation
+59557	59559	GO:0009987	to	cellular process
+59598	59600	GO:0065007	to	biological regulation
+59598	59600	GO:0009987	to	cellular process
+59811	59813	GO:0065007	to	biological regulation
+59811	59813	GO:0009987	to	cellular process
+59831	59833	GO:0065007	to	biological regulation
+59831	59833	GO:0009987	to	cellular process
+59963	59972	GO:0009987	embryonic	cellular process
+59963	59972	GO:0065007	embryonic	biological regulation
+60060	60064	GO:0005623	cell	cell
+60419	60421	GO:0065007	to	biological regulation
+60419	60421	GO:0009987	to	cellular process
+60718	60720	GO:0065007	to	biological regulation
+60718	60720	GO:0009987	to	cellular process
+61012	61014	GO:0065007	to	biological regulation
+61012	61014	GO:0009987	to	cellular process
+61012	61014	GO:0065007	to	biological regulation
+61012	61014	GO:0009987	to	cellular process
+61104	61106	GO:0065007	to	biological regulation
+61104	61106	GO:0009987	to	cellular process
+61113	61115	GO:0065007	to	biological regulation
+61113	61115	GO:0009987	to	cellular process
+61709	61712	GO:0023046	red	signaling process
+61709	61712	GO:0050896	red	response to stimulus
+61709	61712	GO:0009987	red	cellular process
+61709	61712	GO:0065007	red	biological regulation
+61713	61717	GO:0005623	cell	cell
+61894	61899	GO:0005623	cells	cell
+62163	62169	GO:0060089	type I	molecular transducer activity
+62163	62169	GO:0003824	type I	catalytic activity
+62174	62181	GO:0065007	type II	biological regulation
+62174	62181	GO:0003824	type II	catalytic activity
+62174	62181	GO:0060089	type II	molecular transducer activity
+62174	62181	GO:0008152	type II	metabolic process
+62302	62304	GO:0065007	to	biological regulation
+62302	62304	GO:0009987	to	cellular process
+62324	62330	GO:0060089	type I	molecular transducer activity
+62324	62330	GO:0003824	type I	catalytic activity
+62334	62341	GO:0065007	type II	biological regulation
+62334	62341	GO:0003824	type II	catalytic activity
+62334	62341	GO:0060089	type II	molecular transducer activity
+62334	62341	GO:0008152	type II	metabolic process
+62944	62947	GO:0044464	rod	cell part
+62944	62947	GO:0044422	rod	organelle part
+63044	63048	GO:0044464	rods	cell part
+63044	63048	GO:0044422	rods	organelle part
+63129	63134	GO:0005623	cells	cell
+63203	63215	GO:0051179	localization	localization
+63228	63232	GO:0016265	glia	death
+63228	63232	GO:0009987	glia	cellular process
+63374	63377	GO:0044422	Rod	organelle part
+63374	63377	GO:0044464	Rod	cell part
+63479	63485	GO:0060089	type I	molecular transducer activity
+63479	63485	GO:0003824	type I	catalytic activity
+63490	63497	GO:0065007	type II	biological regulation
+63490	63497	GO:0003824	type II	catalytic activity
+63490	63497	GO:0060089	type II	molecular transducer activity
+63490	63497	GO:0008152	type II	metabolic process
+63768	63781	GO:0009987	transcription	cellular process
+63768	63781	GO:0008152	transcription	metabolic process
+63958	63962	GO:0005623	Cell	cell
+64007	64015	GO:0032991	Antibody	macromolecular complex
+64007	64015	GO:0044421	Antibody	extraccellular region part
+64067	64071	GO:0005623	cell	cell
+64117	64120	GO:0023046	red	signaling process
+64117	64120	GO:0050896	red	response to stimulus
+64117	64120	GO:0009987	red	cellular process
+64117	64120	GO:0065007	red	biological regulation
+64148	64161	GO:0016265	retinal cells	death
+64148	64161	GO:0009987	retinal cells	cellular process
+64148	64161	GO:0032502	retinal cells	developmental process
+64156	64161	GO:0005623	cells	cell
+64283	64291	GO:0044421	antibody	extraccellular region part
+64283	64291	GO:0032991	antibody	macromolecular complex
+64305	64308	GO:0023046	red	signaling process
+64305	64308	GO:0050896	red	response to stimulus
+64305	64308	GO:0009987	red	cellular process
+64305	64308	GO:0065007	red	biological regulation
+64707	64712	GO:0005623	cells	cell
+64877	64889	GO:0051179	localization	localization
+64904	64906	GO:0065007	to	biological regulation
+64904	64906	GO:0009987	to	cellular process
+65209	65218	GO:0009987	embryonic	cellular process
+65209	65218	GO:0065007	embryonic	biological regulation
+65235	65240	GO:0005623	cells	cell
+65711	65720	GO:0009987	embryonic	cellular process
+65711	65720	GO:0065007	embryonic	biological regulation
+66260	66264	GO:0005623	Cell	cell
+66282	66284	GO:0065007	to	biological regulation
+66282	66284	GO:0009987	to	cellular process
+66468	66473	GO:0005623	cells	cell
+66504	66509	GO:0005623	Cells	cell
+66599	66604	GO:0005623	cells	cell
+66641	66645	GO:0005623	cell	cell
+66641	66652	GO:0044464	cell bodies	cell part
+66916	66921	GO:0005623	cells	cell
+67260	67265	GO:0005623	cells	cell
+67342	67344	GO:0065007	to	biological regulation
+67342	67344	GO:0009987	to	cellular process
+67368	67373	GO:0005623	cells	cell
+67509	67514	GO:0005623	cells	cell
+67651	67654	GO:0044464	rod	cell part
+67651	67654	GO:0044422	rod	organelle part
+67655	67659	GO:0005623	cell	cell
+67655	67666	GO:0044464	cell bodies	cell part
+67693	67697	GO:0005623	cell	cell
+67693	67704	GO:0044464	cell bodies	cell part
+67758	67765	GO:0043226	nucleus	organelle
+67758	67765	GO:0044464	nucleus	cell part
+67795	67810	GO:0044464	heterochromatin	cell part
+67795	67810	GO:0044422	heterochromatin	organelle part
+67848	67852	GO:0005623	cell	cell
+67904	67919	GO:0044464	heterochromatin	cell part
+67904	67919	GO:0044422	heterochromatin	organelle part
+67927	67938	GO:0044464	euchromatin	cell part
+67927	67938	GO:0044422	euchromatin	organelle part
+67961	67973	GO:0044464	mitochondria	cell part
+67961	67973	GO:0043226	mitochondria	organelle
+68015	68019	GO:0005623	cell	cell
+68015	68024	GO:0044464	cell body	cell part
+68039	68043	GO:0005623	cell	cell
+68075	68090	GO:0044464	heterochromatin	cell part
+68075	68090	GO:0044422	heterochromatin	organelle part
+68117	68130	GO:0043226	mitochondrion	organelle
+68117	68130	GO:0044464	mitochondrion	cell part
+68132	68135	GO:0023046	red	signaling process
+68132	68135	GO:0050896	red	response to stimulus
+68132	68135	GO:0009987	red	cellular process
+68132	68135	GO:0065007	red	biological regulation
+68259	68262	GO:0044422	Rod	organelle part
+68259	68262	GO:0044464	Rod	cell part
+68371	68374	GO:0023046	red	signaling process
+68371	68374	GO:0050896	red	response to stimulus
+68371	68374	GO:0009987	red	cellular process
+68371	68374	GO:0065007	red	biological regulation
+68625	68638	GO:0009987	transcription	cellular process
+68625	68638	GO:0008152	transcription	metabolic process
+68642	68644	GO:0065007	to	biological regulation
+68642	68644	GO:0009987	to	cellular process
+68708	68721	GO:0009987	transcription	cellular process
+68708	68721	GO:0008152	transcription	metabolic process
+68792	68798	GO:0009987	direct	cellular process
+68792	68798	GO:0008152	direct	metabolic process
+68948	68961	GO:0009987	transcription	cellular process
+68948	68961	GO:0008152	transcription	metabolic process
+69371	69374	GO:0044464	rod	cell part
+69371	69374	GO:0044422	rod	organelle part

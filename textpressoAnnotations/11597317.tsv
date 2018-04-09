@@ -1,242 +1,242 @@
 StartIndex	EndIndex	GO:ID	Term	OntologyTerm
-90	92	GO:0065007	to	biological regulation
-90	92	GO:0009987	to	cellular process
-152	162	GO:0050896	DNA repair	response to stimulus
-152	162	GO:0009987	DNA repair	cellular process
-152	162	GO:0008152	DNA repair	metabolic process
-353	355	GO:0065007	to	biological regulation
-353	355	GO:0009987	to	cellular process
-421	423	GO:0065007	to	biological regulation
-421	423	GO:0009987	to	cellular process
-424	446	GO:0009987	recombinational repair	cellular process
-424	446	GO:0008152	recombinational repair	metabolic process
-424	446	GO:0050896	recombinational repair	response to stimulus
-462	464	GO:0065007	to	biological regulation
-462	464	GO:0009987	to	cellular process
-702	704	GO:0065007	to	biological regulation
-702	704	GO:0009987	to	cellular process
-869	871	GO:0065007	to	biological regulation
-869	871	GO:0009987	to	cellular process
-990	995	GO:0005623	Cells	cell
-1014	1021	GO:0003824	protein	catalytic activity
-1044	1049	GO:0005623	cells	cell
-1154	1161	GO:0003824	protein	catalytic activity
-1205	1207	GO:0065007	to	biological regulation
-1205	1207	GO:0009987	to	cellular process
-1307	1314	GO:0003824	protein	catalytic activity
-1412	1422	GO:0050896	DNA repair	response to stimulus
-1412	1422	GO:0009987	DNA repair	cellular process
-1412	1422	GO:0008152	DNA repair	metabolic process
-1653	1675	GO:0009987	recombinational repair	cellular process
-1653	1675	GO:0008152	recombinational repair	metabolic process
-1653	1675	GO:0050896	recombinational repair	response to stimulus
-1745	1752	GO:0009987	S phase	cellular process
-1772	1774	GO:0065007	to	biological regulation
-1772	1774	GO:0009987	to	cellular process
-1896	1900	GO:0005623	Cell	cell
-1956	1958	GO:0065007	to	biological regulation
-1956	1958	GO:0009987	to	cellular process
-2027	2031	GO:0005623	cell	cell
-2051	2073	GO:0009987	recombinational repair	cellular process
-2051	2073	GO:0008152	recombinational repair	metabolic process
-2051	2073	GO:0050896	recombinational repair	response to stimulus
-2141	2147	GO:0009987	direct	cellular process
-2141	2147	GO:0008152	direct	metabolic process
-2141	2147	GO:0009987	direct	cellular process
-2141	2147	GO:0008152	direct	metabolic process
-2394	2399	GO:0005623	Cells	cell
-2421	2423	GO:0065007	to	biological regulation
-2421	2423	GO:0009987	to	cellular process
-2512	2520	GO:0003824	proteins	catalytic activity
-2542	2551	GO:0008152	formation	metabolic process
-2695	2704	GO:0009987	embryonic	cellular process
-2695	2704	GO:0065007	embryonic	biological regulation
-2715	2720	GO:0005623	cells	cell
-2966	2971	GO:0005623	cells	cell
-2977	2979	GO:0065007	to	biological regulation
-2977	2979	GO:0009987	to	cellular process
-3045	3067	GO:0009987	recombinational repair	cellular process
-3045	3067	GO:0008152	recombinational repair	metabolic process
-3045	3067	GO:0050896	recombinational repair	response to stimulus
-3214	3219	GO:0005623	cells	cell
-3461	3468	GO:0003824	protein	catalytic activity
-3581	3592	GO:0009987	recognition	cellular process
-4004	4013	GO:0008152	formation	metabolic process
-4097	4101	GO:0005623	cell	cell
-4221	4223	GO:0065007	to	biological regulation
-4221	4223	GO:0009987	to	cellular process
-4241	4246	GO:0005623	cells	cell
-4268	4275	GO:0003824	protein	catalytic activity
-4307	4309	GO:0065007	to	biological regulation
-4307	4309	GO:0009987	to	cellular process
-4421	4426	GO:0005623	cells	cell
-4500	4504	GO:0005623	cell	cell
-4527	4532	GO:0005623	cells	cell
-4590	4597	GO:0003824	protein	catalytic activity
-4798	4802	GO:0005623	cell	cell
-4865	4867	GO:0065007	to	biological regulation
-4865	4867	GO:0009987	to	cellular process
-4900	4905	GO:0005623	cells	cell
-5044	5066	GO:0009987	recombinational repair	cellular process
-5044	5066	GO:0008152	recombinational repair	metabolic process
-5044	5066	GO:0050896	recombinational repair	response to stimulus
-5103	5105	GO:0065007	to	biological regulation
-5103	5105	GO:0009987	to	cellular process
-5168	5170	GO:0065007	to	biological regulation
-5168	5170	GO:0009987	to	cellular process
-5254	5276	GO:0009987	recombinational repair	cellular process
-5254	5276	GO:0008152	recombinational repair	metabolic process
-5254	5276	GO:0050896	recombinational repair	response to stimulus
-5299	5304	GO:0005623	cells	cell
-5414	5418	GO:0005623	cell	cell
-5460	5467	GO:0003824	protein	catalytic activity
-5502	5504	GO:0065007	to	biological regulation
-5502	5504	GO:0009987	to	cellular process
-5555	5560	GO:0005623	cells	cell
-5630	5632	GO:0065007	to	biological regulation
-5630	5632	GO:0009987	to	cellular process
-5692	5694	GO:0065007	to	biological regulation
-5692	5694	GO:0009987	to	cellular process
-5762	5764	GO:0065007	to	biological regulation
-5762	5764	GO:0009987	to	cellular process
-5791	5798	GO:0003824	protein	catalytic activity
-6187	6192	GO:0005623	cells	cell
-6251	6273	GO:0009987	recombinational repair	cellular process
-6251	6273	GO:0008152	recombinational repair	metabolic process
-6251	6273	GO:0050896	recombinational repair	response to stimulus
-6283	6285	GO:0065007	to	biological regulation
-6283	6285	GO:0009987	to	cellular process
-6315	6319	GO:0005623	cell	cell
-6641	6643	GO:0065007	to	biological regulation
-6641	6643	GO:0009987	to	cellular process
-6689	6694	GO:0005623	cells	cell
-6831	6833	GO:0065007	to	biological regulation
-6831	6833	GO:0009987	to	cellular process
-6994	7016	GO:0009987	recombinational repair	cellular process
-6994	7016	GO:0008152	recombinational repair	metabolic process
-6994	7016	GO:0050896	recombinational repair	response to stimulus
-7367	7369	GO:0065007	to	biological regulation
-7367	7369	GO:0009987	to	cellular process
-7393	7403	GO:0050896	DNA repair	response to stimulus
-7393	7403	GO:0009987	DNA repair	cellular process
-7393	7403	GO:0008152	DNA repair	metabolic process
-7517	7522	GO:0005623	cells	cell
-7556	7561	GO:0005623	cells	cell
-7651	7656	GO:0005623	cells	cell
-7657	7659	GO:0065007	to	biological regulation
-7657	7659	GO:0009987	to	cellular process
-7853	7864	GO:0005488	DNA binding	binding
-7857	7864	GO:0005488	binding	binding
-7914	7916	GO:0065007	to	biological regulation
-7914	7916	GO:0009987	to	cellular process
-7979	7981	GO:0065007	to	biological regulation
-7979	7981	GO:0009987	to	cellular process
-7993	7995	GO:0065007	to	biological regulation
-7993	7995	GO:0009987	to	cellular process
-8163	8170	GO:0003824	protein	catalytic activity
-8201	8203	GO:0065007	to	biological regulation
-8201	8203	GO:0009987	to	cellular process
-8432	8444	GO:0051179	localization	localization
-8478	8483	GO:0005623	cells	cell
-8614	8621	GO:0003824	protein	catalytic activity
-8643	8648	GO:0005623	cells	cell
-8666	8668	GO:0065007	to	biological regulation
-8666	8668	GO:0009987	to	cellular process
-8673	8682	GO:0044464	cytoplasm	cell part
-8729	8736	GO:0003824	protein	catalytic activity
-8753	8765	GO:0051179	localization	localization
-8807	8812	GO:0005623	cells	cell
-8813	8815	GO:0065007	to	biological regulation
-8813	8815	GO:0009987	to	cellular process
-8840	8852	GO:0051179	localization	localization
-8918	8920	GO:0065007	to	biological regulation
-8918	8920	GO:0009987	to	cellular process
-8925	8932	GO:0043226	nucleus	organelle
-8925	8932	GO:0044464	nucleus	cell part
-8936	8943	GO:0005488	binding	binding
-9027	9036	GO:0051234	transport	establishment of localization
-9067	9069	GO:0065007	to	biological regulation
-9067	9069	GO:0009987	to	cellular process
-9074	9083	GO:0044464	cytoplasm	cell part
-9133	9142	GO:0051234	transport	establishment of localization
-9307	9309	GO:0065007	to	biological regulation
-9307	9309	GO:0009987	to	cellular process
-9462	9464	GO:0065007	to	biological regulation
-9462	9464	GO:0009987	to	cellular process
-9927	9934	GO:0005488	binding	binding
-10049	10051	GO:0065007	to	biological regulation
-10049	10051	GO:0009987	to	cellular process
-10057	10059	GO:0065007	to	biological regulation
-10057	10059	GO:0009987	to	cellular process
-10302	10309	GO:0005488	binding	binding
-10310	10312	GO:0065007	to	biological regulation
-10310	10312	GO:0009987	to	cellular process
-10358	10373	GO:0008152	DNA replication	metabolic process
-10358	10373	GO:0009987	DNA replication	cellular process
-10418	10440	GO:0009987	recombinational repair	cellular process
-10418	10440	GO:0008152	recombinational repair	metabolic process
-10418	10440	GO:0050896	recombinational repair	response to stimulus
-10472	10474	GO:0065007	to	biological regulation
-10472	10474	GO:0009987	to	cellular process
-10772	10779	GO:0003824	protein	catalytic activity
-10895	10917	GO:0009987	recombinational repair	cellular process
-10895	10917	GO:0008152	recombinational repair	metabolic process
-10895	10917	GO:0050896	recombinational repair	response to stimulus
-10994	11002	GO:0003824	proteins	catalytic activity
-11040	11042	GO:0065007	to	biological regulation
-11040	11042	GO:0009987	to	cellular process
-11422	11424	GO:0065007	to	biological regulation
-11422	11424	GO:0009987	to	cellular process
-11422	11424	GO:0065007	to	biological regulation
-11422	11424	GO:0009987	to	cellular process
-11422	11424	GO:0065007	to	biological regulation
-11422	11424	GO:0009987	to	cellular process
-11997	12019	GO:0009987	recombinational repair	cellular process
-11997	12019	GO:0008152	recombinational repair	metabolic process
-11997	12019	GO:0050896	recombinational repair	response to stimulus
-12061	12063	GO:0065007	to	biological regulation
-12061	12063	GO:0009987	to	cellular process
-12111	12113	GO:0065007	to	biological regulation
-12111	12113	GO:0009987	to	cellular process
-12111	12113	GO:0065007	to	biological regulation
-12111	12113	GO:0009987	to	cellular process
-12140	12147	GO:0043226	nucleus	organelle
-12140	12147	GO:0044464	nucleus	cell part
-12194	12206	GO:0051179	localization	localization
-12214	12216	GO:0065007	to	biological regulation
-12214	12216	GO:0009987	to	cellular process
-12347	12349	GO:0065007	to	biological regulation
-12347	12349	GO:0009987	to	cellular process
-12495	12517	GO:0009987	recombinational repair	cellular process
-12495	12517	GO:0008152	recombinational repair	metabolic process
-12495	12517	GO:0050896	recombinational repair	response to stimulus
-12600	12602	GO:0065007	to	biological regulation
-12600	12602	GO:0009987	to	cellular process
-12737	12746	GO:0009987	embryonic	cellular process
-12737	12746	GO:0065007	embryonic	biological regulation
-12777	12784	GO:0003824	protein	catalytic activity
-12881	12905	GO:0009987	homology-directed repair	cellular process
-12881	12905	GO:0008152	homology-directed repair	metabolic process
-12881	12905	GO:0050896	homology-directed repair	response to stimulus
-13135	13144	GO:0008152	formation	metabolic process
-13552	13554	GO:0065007	to	biological regulation
-13552	13554	GO:0009987	to	cellular process
-13552	13554	GO:0065007	to	biological regulation
-13552	13554	GO:0009987	to	cellular process
-13657	13659	GO:0065007	to	biological regulation
-13657	13659	GO:0009987	to	cellular process
-13934	13938	GO:0005623	cell	cell
-14036	14038	GO:0065007	to	biological regulation
-14036	14038	GO:0009987	to	cellular process
-14099	14101	GO:0065007	to	biological regulation
-14099	14101	GO:0009987	to	cellular process
-14124	14126	GO:0065007	to	biological regulation
-14124	14126	GO:0009987	to	cellular process
-14152	14174	GO:0009987	recombinational repair	cellular process
-14152	14174	GO:0008152	recombinational repair	metabolic process
-14152	14174	GO:0050896	recombinational repair	response to stimulus
-14223	14228	GO:0005623	cells	cell
-14242	14244	GO:0065007	to	biological regulation
-14242	14244	GO:0009987	to	cellular process
-14280	14282	GO:0065007	to	biological regulation
-14280	14282	GO:0009987	to	cellular process
+94	96	GO:0065007	to	biological regulation
+94	96	GO:0009987	to	cellular process
+156	166	GO:0050896	DNA repair	response to stimulus
+156	166	GO:0009987	DNA repair	cellular process
+156	166	GO:0008152	DNA repair	metabolic process
+357	359	GO:0065007	to	biological regulation
+357	359	GO:0009987	to	cellular process
+425	427	GO:0065007	to	biological regulation
+425	427	GO:0009987	to	cellular process
+428	450	GO:0009987	recombinational repair	cellular process
+428	450	GO:0008152	recombinational repair	metabolic process
+428	450	GO:0050896	recombinational repair	response to stimulus
+466	468	GO:0065007	to	biological regulation
+466	468	GO:0009987	to	cellular process
+706	708	GO:0065007	to	biological regulation
+706	708	GO:0009987	to	cellular process
+879	881	GO:0065007	to	biological regulation
+879	881	GO:0009987	to	cellular process
+1000	1005	GO:0005623	Cells	cell
+1024	1031	GO:0003824	protein	catalytic activity
+1054	1059	GO:0005623	cells	cell
+1164	1171	GO:0003824	protein	catalytic activity
+1215	1217	GO:0065007	to	biological regulation
+1215	1217	GO:0009987	to	cellular process
+1317	1324	GO:0003824	protein	catalytic activity
+1424	1434	GO:0050896	DNA repair	response to stimulus
+1424	1434	GO:0009987	DNA repair	cellular process
+1424	1434	GO:0008152	DNA repair	metabolic process
+1667	1689	GO:0009987	recombinational repair	cellular process
+1667	1689	GO:0008152	recombinational repair	metabolic process
+1667	1689	GO:0050896	recombinational repair	response to stimulus
+1759	1766	GO:0009987	S phase	cellular process
+1786	1788	GO:0065007	to	biological regulation
+1786	1788	GO:0009987	to	cellular process
+1910	1914	GO:0005623	Cell	cell
+1970	1972	GO:0065007	to	biological regulation
+1970	1972	GO:0009987	to	cellular process
+2041	2045	GO:0005623	cell	cell
+2065	2087	GO:0009987	recombinational repair	cellular process
+2065	2087	GO:0008152	recombinational repair	metabolic process
+2065	2087	GO:0050896	recombinational repair	response to stimulus
+2155	2161	GO:0009987	direct	cellular process
+2155	2161	GO:0008152	direct	metabolic process
+2155	2161	GO:0009987	direct	cellular process
+2155	2161	GO:0008152	direct	metabolic process
+2408	2413	GO:0005623	Cells	cell
+2435	2437	GO:0065007	to	biological regulation
+2435	2437	GO:0009987	to	cellular process
+2526	2534	GO:0003824	proteins	catalytic activity
+2556	2565	GO:0008152	formation	metabolic process
+2709	2718	GO:0009987	embryonic	cellular process
+2709	2718	GO:0065007	embryonic	biological regulation
+2729	2734	GO:0005623	cells	cell
+2980	2985	GO:0005623	cells	cell
+2991	2993	GO:0065007	to	biological regulation
+2991	2993	GO:0009987	to	cellular process
+3059	3081	GO:0009987	recombinational repair	cellular process
+3059	3081	GO:0008152	recombinational repair	metabolic process
+3059	3081	GO:0050896	recombinational repair	response to stimulus
+3230	3235	GO:0005623	cells	cell
+3479	3486	GO:0003824	protein	catalytic activity
+3599	3610	GO:0009987	recognition	cellular process
+4022	4031	GO:0008152	formation	metabolic process
+4115	4119	GO:0005623	cell	cell
+4241	4243	GO:0065007	to	biological regulation
+4241	4243	GO:0009987	to	cellular process
+4261	4266	GO:0005623	cells	cell
+4288	4295	GO:0003824	protein	catalytic activity
+4327	4329	GO:0065007	to	biological regulation
+4327	4329	GO:0009987	to	cellular process
+4441	4446	GO:0005623	cells	cell
+4520	4524	GO:0005623	cell	cell
+4547	4552	GO:0005623	cells	cell
+4610	4617	GO:0003824	protein	catalytic activity
+4818	4822	GO:0005623	cell	cell
+4885	4887	GO:0065007	to	biological regulation
+4885	4887	GO:0009987	to	cellular process
+4920	4925	GO:0005623	cells	cell
+5064	5086	GO:0009987	recombinational repair	cellular process
+5064	5086	GO:0008152	recombinational repair	metabolic process
+5064	5086	GO:0050896	recombinational repair	response to stimulus
+5123	5125	GO:0065007	to	biological regulation
+5123	5125	GO:0009987	to	cellular process
+5190	5192	GO:0065007	to	biological regulation
+5190	5192	GO:0009987	to	cellular process
+5276	5298	GO:0009987	recombinational repair	cellular process
+5276	5298	GO:0008152	recombinational repair	metabolic process
+5276	5298	GO:0050896	recombinational repair	response to stimulus
+5321	5326	GO:0005623	cells	cell
+5436	5440	GO:0005623	cell	cell
+5482	5489	GO:0003824	protein	catalytic activity
+5524	5526	GO:0065007	to	biological regulation
+5524	5526	GO:0009987	to	cellular process
+5577	5582	GO:0005623	cells	cell
+5652	5654	GO:0065007	to	biological regulation
+5652	5654	GO:0009987	to	cellular process
+5714	5716	GO:0065007	to	biological regulation
+5714	5716	GO:0009987	to	cellular process
+5784	5786	GO:0065007	to	biological regulation
+5784	5786	GO:0009987	to	cellular process
+5813	5820	GO:0003824	protein	catalytic activity
+6209	6214	GO:0005623	cells	cell
+6273	6295	GO:0009987	recombinational repair	cellular process
+6273	6295	GO:0008152	recombinational repair	metabolic process
+6273	6295	GO:0050896	recombinational repair	response to stimulus
+6305	6307	GO:0065007	to	biological regulation
+6305	6307	GO:0009987	to	cellular process
+6337	6341	GO:0005623	cell	cell
+6663	6665	GO:0065007	to	biological regulation
+6663	6665	GO:0009987	to	cellular process
+6711	6716	GO:0005623	cells	cell
+6853	6855	GO:0065007	to	biological regulation
+6853	6855	GO:0009987	to	cellular process
+7016	7038	GO:0009987	recombinational repair	cellular process
+7016	7038	GO:0008152	recombinational repair	metabolic process
+7016	7038	GO:0050896	recombinational repair	response to stimulus
+7393	7395	GO:0065007	to	biological regulation
+7393	7395	GO:0009987	to	cellular process
+7419	7429	GO:0050896	DNA repair	response to stimulus
+7419	7429	GO:0009987	DNA repair	cellular process
+7419	7429	GO:0008152	DNA repair	metabolic process
+7543	7548	GO:0005623	cells	cell
+7582	7587	GO:0005623	cells	cell
+7677	7682	GO:0005623	cells	cell
+7683	7685	GO:0065007	to	biological regulation
+7683	7685	GO:0009987	to	cellular process
+7879	7890	GO:0005488	DNA binding	binding
+7883	7890	GO:0005488	binding	binding
+7940	7942	GO:0065007	to	biological regulation
+7940	7942	GO:0009987	to	cellular process
+8005	8007	GO:0065007	to	biological regulation
+8005	8007	GO:0009987	to	cellular process
+8019	8021	GO:0065007	to	biological regulation
+8019	8021	GO:0009987	to	cellular process
+8189	8196	GO:0003824	protein	catalytic activity
+8227	8229	GO:0065007	to	biological regulation
+8227	8229	GO:0009987	to	cellular process
+8460	8472	GO:0051179	localization	localization
+8506	8511	GO:0005623	cells	cell
+8642	8649	GO:0003824	protein	catalytic activity
+8671	8676	GO:0005623	cells	cell
+8694	8696	GO:0065007	to	biological regulation
+8694	8696	GO:0009987	to	cellular process
+8701	8710	GO:0044464	cytoplasm	cell part
+8757	8764	GO:0003824	protein	catalytic activity
+8781	8793	GO:0051179	localization	localization
+8835	8840	GO:0005623	cells	cell
+8841	8843	GO:0065007	to	biological regulation
+8841	8843	GO:0009987	to	cellular process
+8868	8880	GO:0051179	localization	localization
+8946	8948	GO:0065007	to	biological regulation
+8946	8948	GO:0009987	to	cellular process
+8953	8960	GO:0043226	nucleus	organelle
+8953	8960	GO:0044464	nucleus	cell part
+8964	8971	GO:0005488	binding	binding
+9055	9064	GO:0051234	transport	establishment of localization
+9095	9097	GO:0065007	to	biological regulation
+9095	9097	GO:0009987	to	cellular process
+9102	9111	GO:0044464	cytoplasm	cell part
+9161	9170	GO:0051234	transport	establishment of localization
+9335	9337	GO:0065007	to	biological regulation
+9335	9337	GO:0009987	to	cellular process
+9492	9494	GO:0065007	to	biological regulation
+9492	9494	GO:0009987	to	cellular process
+9957	9964	GO:0005488	binding	binding
+10079	10081	GO:0065007	to	biological regulation
+10079	10081	GO:0009987	to	cellular process
+10087	10089	GO:0065007	to	biological regulation
+10087	10089	GO:0009987	to	cellular process
+10332	10339	GO:0005488	binding	binding
+10340	10342	GO:0065007	to	biological regulation
+10340	10342	GO:0009987	to	cellular process
+10388	10403	GO:0008152	DNA replication	metabolic process
+10388	10403	GO:0009987	DNA replication	cellular process
+10448	10470	GO:0009987	recombinational repair	cellular process
+10448	10470	GO:0008152	recombinational repair	metabolic process
+10448	10470	GO:0050896	recombinational repair	response to stimulus
+10502	10504	GO:0065007	to	biological regulation
+10502	10504	GO:0009987	to	cellular process
+10802	10809	GO:0003824	protein	catalytic activity
+10927	10949	GO:0009987	recombinational repair	cellular process
+10927	10949	GO:0008152	recombinational repair	metabolic process
+10927	10949	GO:0050896	recombinational repair	response to stimulus
+11026	11034	GO:0003824	proteins	catalytic activity
+11072	11074	GO:0065007	to	biological regulation
+11072	11074	GO:0009987	to	cellular process
+11454	11456	GO:0065007	to	biological regulation
+11454	11456	GO:0009987	to	cellular process
+11454	11456	GO:0065007	to	biological regulation
+11454	11456	GO:0009987	to	cellular process
+11454	11456	GO:0065007	to	biological regulation
+11454	11456	GO:0009987	to	cellular process
+12031	12053	GO:0009987	recombinational repair	cellular process
+12031	12053	GO:0008152	recombinational repair	metabolic process
+12031	12053	GO:0050896	recombinational repair	response to stimulus
+12095	12097	GO:0065007	to	biological regulation
+12095	12097	GO:0009987	to	cellular process
+12145	12147	GO:0065007	to	biological regulation
+12145	12147	GO:0009987	to	cellular process
+12145	12147	GO:0065007	to	biological regulation
+12145	12147	GO:0009987	to	cellular process
+12174	12181	GO:0043226	nucleus	organelle
+12174	12181	GO:0044464	nucleus	cell part
+12228	12240	GO:0051179	localization	localization
+12248	12250	GO:0065007	to	biological regulation
+12248	12250	GO:0009987	to	cellular process
+12381	12383	GO:0065007	to	biological regulation
+12381	12383	GO:0009987	to	cellular process
+12529	12551	GO:0009987	recombinational repair	cellular process
+12529	12551	GO:0008152	recombinational repair	metabolic process
+12529	12551	GO:0050896	recombinational repair	response to stimulus
+12634	12636	GO:0065007	to	biological regulation
+12634	12636	GO:0009987	to	cellular process
+12775	12784	GO:0009987	embryonic	cellular process
+12775	12784	GO:0065007	embryonic	biological regulation
+12815	12822	GO:0003824	protein	catalytic activity
+12925	12949	GO:0009987	homology-directed repair	cellular process
+12925	12949	GO:0008152	homology-directed repair	metabolic process
+12925	12949	GO:0050896	homology-directed repair	response to stimulus
+13179	13188	GO:0008152	formation	metabolic process
+13600	13602	GO:0065007	to	biological regulation
+13600	13602	GO:0009987	to	cellular process
+13600	13602	GO:0065007	to	biological regulation
+13600	13602	GO:0009987	to	cellular process
+13705	13707	GO:0065007	to	biological regulation
+13705	13707	GO:0009987	to	cellular process
+13982	13986	GO:0005623	cell	cell
+14084	14086	GO:0065007	to	biological regulation
+14084	14086	GO:0009987	to	cellular process
+14147	14149	GO:0065007	to	biological regulation
+14147	14149	GO:0009987	to	cellular process
+14172	14174	GO:0065007	to	biological regulation
+14172	14174	GO:0009987	to	cellular process
+14200	14222	GO:0009987	recombinational repair	cellular process
+14200	14222	GO:0008152	recombinational repair	metabolic process
+14200	14222	GO:0050896	recombinational repair	response to stimulus
+14271	14276	GO:0005623	cells	cell
+14290	14292	GO:0065007	to	biological regulation
+14290	14292	GO:0009987	to	cellular process
+14328	14330	GO:0065007	to	biological regulation
+14328	14330	GO:0009987	to	cellular process

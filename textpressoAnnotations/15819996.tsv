@@ -1,733 +1,733 @@
 StartIndex	EndIndex	GO:ID	Term	OntologyTerm
 8	20	GO:0051179	localization	localization
 49	66	GO:0032502	brain development	developmental process
-122	129	GO:0003824	protein	catalytic activity
-176	178	GO:0065007	to	biological regulation
-176	178	GO:0009987	to	cellular process
-257	259	GO:0065007	to	biological regulation
-257	259	GO:0009987	to	cellular process
-423	440	GO:0032502	brain development	developmental process
-520	527	GO:0003824	protein	catalytic activity
-541	554	GO:0032502	embryogenesis	developmental process
-659	664	GO:0005623	cells	cell
-723	735	GO:0051179	localization	localization
-741	750	GO:0044464	cytoplasm	cell part
-743	745	GO:0065007	to	biological regulation
-743	745	GO:0009987	to	cellular process
-754	761	GO:0043226	nucleus	organelle
-754	761	GO:0044464	nucleus	cell part
-801	805	GO:0005623	cell	cell
-927	934	GO:0044464	cytosol	cell part
-955	960	GO:0005623	cells	cell
-964	973	GO:0009987	embryonic	cellular process
-964	973	GO:0065007	embryonic	biological regulation
-1001	1008	GO:0003824	protein	catalytic activity
-1033	1040	GO:0044464	cytosol	cell part
-1044	1049	GO:0005623	cells	cell
-1156	1165	GO:0009987	embryonic	cellular process
-1156	1165	GO:0065007	embryonic	biological regulation
-1189	1194	GO:0005623	cells	cell
-1264	1266	GO:0065007	to	biological regulation
-1264	1266	GO:0009987	to	cellular process
-1271	1278	GO:0043226	nucleus	organelle
-1271	1278	GO:0044464	nucleus	cell part
-1280	1294	GO:0009987	Neuronal cells	cellular process
-1280	1294	GO:0016265	Neuronal cells	death
-1289	1294	GO:0005623	cells	cell
-1353	1360	GO:0043226	nucleus	organelle
-1353	1360	GO:0044464	nucleus	cell part
-1394	1401	GO:0003824	protein	catalytic activity
-1549	1560	GO:0044464	nucleoplasm	cell part
-1549	1560	GO:0044422	nucleoplasm	organelle part
-1620	1624	GO:0005623	cell	cell
-1664	1677	GO:0009987	translocation	cellular process
-1664	1677	GO:0065007	translocation	biological regulation
-1664	1677	GO:0051234	translocation	establishment of localization
-1692	1694	GO:0065007	to	biological regulation
-1692	1694	GO:0009987	to	cellular process
-1705	1710	GO:0005623	cells	cell
-1727	1744	GO:0032502	brain development	developmental process
-1789	1803	GO:0009987	neuronal cells	cellular process
-1789	1803	GO:0016265	neuronal cells	death
-1798	1803	GO:0005623	cells	cell
-1888	1902	GO:0009987	neuronal cells	cellular process
-1888	1902	GO:0016265	neuronal cells	death
-1897	1902	GO:0005623	cells	cell
-1976	1984	GO:0003824	proteins	catalytic activity
-1997	1999	GO:0065007	to	biological regulation
-1997	1999	GO:0009987	to	cellular process
-2402	2422	GO:0005488	phospholipid binding	binding
-2415	2422	GO:0005488	binding	binding
-2459	2461	GO:0065007	to	biological regulation
-2459	2461	GO:0009987	to	cellular process
-2490	2492	GO:0065007	to	biological regulation
-2490	2492	GO:0009987	to	cellular process
-2505	2513	GO:0003824	proteins	catalytic activity
-2663	2665	GO:0065007	to	biological regulation
-2663	2665	GO:0009987	to	cellular process
-2735	2754	GO:0044464	chromaffin granules	cell part
-2735	2754	GO:0043226	chromaffin granules	organelle
-2769	2778	GO:0044464	membranes	cell part
-2927	2932	GO:0005623	cells	cell
-2956	2963	GO:0044464	cytosol	cell part
-3046	3053	GO:0043226	nucleus	organelle
-3046	3053	GO:0044464	nucleus	cell part
-3076	3081	GO:0005623	cells	cell
-3153	3155	GO:0065007	to	biological regulation
-3153	3155	GO:0009987	to	cellular process
-3212	3214	GO:0065007	to	biological regulation
-3212	3214	GO:0009987	to	cellular process
-3484	3487	GO:0023046	red	signaling process
-3484	3487	GO:0050896	red	response to stimulus
-3484	3487	GO:0009987	red	cellular process
-3484	3487	GO:0065007	red	biological regulation
-3494	3499	GO:0005623	cells	cell
-3577	3589	GO:0051179	localization	localization
-3619	3643	GO:0032502	myoblast differentiation	developmental process
-3619	3643	GO:0009987	myoblast differentiation	cellular process
-3665	3670	GO:0005623	cells	cell
-3675	3682	GO:0003824	protein	catalytic activity
-3714	3721	GO:0044464	cytosol	cell part
-3726	3734	GO:0044464	membrane	cell part
-3726	3744	GO:0044464	membrane fractions	cell part
-3769	3774	GO:0005623	cells	cell
-3808	3816	GO:0044464	membrane	cell part
-3808	3825	GO:0044464	membrane fraction	cell part
-3952	3955	GO:0023046	red	signaling process
-3952	3955	GO:0050896	red	response to stimulus
-3952	3955	GO:0009987	red	cellular process
-3952	3955	GO:0065007	red	biological regulation
-3962	3967	GO:0005623	cells	cell
-3969	3989	GO:0022610	platelet aggregation	biological adhesion
-3969	3989	GO:0009987	platelet aggregation	cellular process
-4261	4278	GO:0032502	brain development	developmental process
-4394	4401	GO:0032502	embryos	developmental process
-4501	4507	GO:0032502	embryo	developmental process
-4560	4565	GO:0005623	cells	cell
-4637	4646	GO:0009987	embryonic	cellular process
-4637	4646	GO:0065007	embryonic	biological regulation
-4637	4658	GO:0032502	embryonic development	developmental process
-4714	4721	GO:0003824	protein	catalytic activity
-4836	4845	GO:0009987	embryonic	cellular process
-4836	4845	GO:0065007	embryonic	biological regulation
-4836	4845	GO:0009987	embryonic	cellular process
-4836	4845	GO:0065007	embryonic	biological regulation
-5180	5182	GO:0065007	to	biological regulation
-5180	5182	GO:0009987	to	cellular process
-5245	5252	GO:0003824	protein	catalytic activity
-5263	5268	GO:0005623	cells	cell
-5342	5347	GO:0005623	cells	cell
-5477	5484	GO:0032502	embryos	developmental process
-5723	5728	GO:0005623	cells	cell
-5723	5728	GO:0005623	cells	cell
-5896	5904	GO:0003824	Proteins	catalytic activity
-5926	5931	GO:0005623	cells	cell
-6038	6040	GO:0065007	to	biological regulation
-6038	6040	GO:0009987	to	cellular process
-6056	6065	GO:0044464	membranes	cell part
-6153	6160	GO:0003824	coupled	catalytic activity
-6171	6179	GO:0044421	antibody	extraccellular region part
-6171	6179	GO:0032991	antibody	macromolecular complex
-6278	6285	GO:0003824	protein	catalytic activity
-6445	6449	GO:0005623	cell	cell
-6611	6617	GO:0032502	embryo	developmental process
-6705	6709	GO:0005623	cell	cell
-6792	6804	GO:0051179	localization	localization
-6812	6819	GO:0003824	protein	catalytic activity
-7008	7015	GO:0044464	cytosol	cell part
-7032	7037	GO:0005623	cells	cell
-7168	7175	GO:0032502	embryos	developmental process
-7197	7203	GO:0032502	embryo	developmental process
-7246	7250	GO:0005623	cell	cell
-7317	7322	GO:0005623	cells	cell
-7479	7483	GO:0005623	cell	cell
-7781	7787	GO:0032502	embryo	developmental process
-8170	8177	GO:0044464	cytosol	cell part
-8196	8198	GO:0065007	to	biological regulation
-8196	8198	GO:0009987	to	cellular process
-8234	8241	GO:0044464	cytosol	cell part
-8263	8269	GO:0032502	embryo	developmental process
-8544	8556	GO:0051179	localization	localization
-8564	8573	GO:0009987	embryonic	cellular process
-8564	8573	GO:0065007	embryonic	biological regulation
-8740	8749	GO:0009987	embryonic	cellular process
-8740	8749	GO:0065007	embryonic	biological regulation
-8784	8789	GO:0005623	cells	cell
-8992	8999	GO:0044464	cytosol	cell part
-9060	9065	GO:0005623	cells	cell
-9132	9139	GO:0044464	cytosol	cell part
-9245	9250	GO:0005623	cells	cell
-9308	9315	GO:0065007	neurons	biological regulation
-9308	9315	GO:0016265	neurons	death
-9308	9315	GO:0009987	neurons	cellular process
-9390	9401	GO:0009987	glial cells	cellular process
-9390	9401	GO:0016265	glial cells	death
-9396	9401	GO:0005623	cells	cell
-9448	9453	GO:0005623	Cells	cell
-9600	9607	GO:0044464	cytosol	cell part
-9652	9659	GO:0043226	nucleus	organelle
-9652	9659	GO:0044464	nucleus	cell part
-9680	9692	GO:0051179	localization	localization
-9710	9717	GO:0032502	embryos	developmental process
-9757	9766	GO:0009987	embryonic	cellular process
-9757	9766	GO:0065007	embryonic	biological regulation
-9881	9889	GO:0044421	antibody	extraccellular region part
-9881	9889	GO:0032991	antibody	macromolecular complex
-9939	9944	GO:0005623	cells	cell
-10174	10179	GO:0005623	cells	cell
-10199	10206	GO:0044464	cytosol	cell part
-10250	10255	GO:0005623	cells	cell
-10301	10308	GO:0044464	cytosol	cell part
-10380	10385	GO:0005623	cells	cell
-10612	10617	GO:0005623	cells	cell
-10852	10859	GO:0065007	neurons	biological regulation
-10852	10859	GO:0016265	neurons	death
-10852	10859	GO:0009987	neurons	cellular process
-11101	11108	GO:0065007	neurons	biological regulation
-11101	11108	GO:0016265	neurons	death
-11101	11108	GO:0009987	neurons	cellular process
-11155	11167	GO:0051179	localization	localization
-11363	11370	GO:0065007	neurons	biological regulation
-11363	11370	GO:0016265	neurons	death
-11363	11370	GO:0009987	neurons	cellular process
-11700	11704	GO:0005623	cell	cell
-11803	11812	GO:0044464	cytoplasm	cell part
-11820	11824	GO:0005623	cell	cell
-11918	11925	GO:0043226	nucleus	organelle
-11918	11925	GO:0044464	nucleus	cell part
-11930	11937	GO:0044464	cytosol	cell part
-12091	12098	GO:0043226	nucleus	organelle
-12091	12098	GO:0044464	nucleus	cell part
-12142	12149	GO:0065007	neurons	biological regulation
-12142	12149	GO:0016265	neurons	death
-12142	12149	GO:0009987	neurons	cellular process
-12206	12215	GO:0008152	formation	metabolic process
-12322	12327	GO:0005623	cells	cell
-12351	12358	GO:0065007	neurons	biological regulation
-12351	12358	GO:0016265	neurons	death
-12351	12358	GO:0009987	neurons	cellular process
-12747	12755	GO:0044421	antibody	extraccellular region part
-12747	12755	GO:0032991	antibody	macromolecular complex
-12802	12809	GO:0065007	neurons	biological regulation
-12802	12809	GO:0016265	neurons	death
-12802	12809	GO:0009987	neurons	cellular process
-12874	12881	GO:0065007	neurons	biological regulation
-12874	12881	GO:0016265	neurons	death
-12874	12881	GO:0009987	neurons	cellular process
-13032	13039	GO:0043226	nucleus	organelle
-13032	13039	GO:0044464	nucleus	cell part
-13126	13133	GO:0065007	neurons	biological regulation
-13126	13133	GO:0016265	neurons	death
-13126	13133	GO:0009987	neurons	cellular process
-13200	13209	GO:0044464	cytoplasm	cell part
-13322	13329	GO:0065007	neurons	biological regulation
-13322	13329	GO:0016265	neurons	death
-13322	13329	GO:0009987	neurons	cellular process
-13389	13396	GO:0003824	protein	catalytic activity
-13404	13411	GO:0043226	nucleus	organelle
-13404	13411	GO:0044464	nucleus	cell part
-13434	13441	GO:0065007	neurons	biological regulation
-13434	13441	GO:0016265	neurons	death
-13434	13441	GO:0009987	neurons	cellular process
-13447	13449	GO:0065007	To	biological regulation
-13447	13449	GO:0009987	To	cellular process
-13559	13567	GO:0044421	antibody	extraccellular region part
-13559	13567	GO:0032991	antibody	macromolecular complex
-13725	13733	GO:0044421	antibody	extraccellular region part
-13725	13733	GO:0032991	antibody	macromolecular complex
-13833	13841	GO:0044421	antibody	extraccellular region part
-13833	13841	GO:0032991	antibody	macromolecular complex
-13929	13938	GO:0008152	formation	metabolic process
-14142	14147	GO:0005623	cells	cell
-14200	14207	GO:0003824	protein	catalytic activity
-14220	14227	GO:0043226	nucleus	organelle
-14220	14227	GO:0044464	nucleus	cell part
-14236	14245	GO:0044464	cytoplasm	cell part
-14295	14302	GO:0065007	neurons	biological regulation
-14295	14302	GO:0016265	neurons	death
-14295	14302	GO:0009987	neurons	cellular process
-14396	14398	GO:0065007	to	biological regulation
-14396	14398	GO:0009987	to	cellular process
-14432	14442	GO:0044421	antibodies	extraccellular region part
-14432	14442	GO:0032991	antibodies	macromolecular complex
-14584	14592	GO:0044421	antibody	extraccellular region part
-14584	14592	GO:0032991	antibody	macromolecular complex
-14825	14833	GO:0044421	antibody	extraccellular region part
-14825	14833	GO:0032991	antibody	macromolecular complex
-14861	14868	GO:0003824	protein	catalytic activity
-15022	15030	GO:0044464	membrane	cell part
-15092	15099	GO:0005488	binding	binding
-15117	15125	GO:0044421	antibody	extraccellular region part
-15117	15125	GO:0032991	antibody	macromolecular complex
-15212	15219	GO:0065007	neurons	biological regulation
-15212	15219	GO:0016265	neurons	death
-15212	15219	GO:0009987	neurons	cellular process
-15336	15340	GO:0005623	cell	cell
-15336	15347	GO:0044464	cell bodies	cell part
-15351	15358	GO:0065007	neurons	biological regulation
-15351	15358	GO:0016265	neurons	death
-15351	15358	GO:0009987	neurons	cellular process
-15405	15407	GO:0065007	to	biological regulation
-15405	15407	GO:0009987	to	cellular process
-15418	15425	GO:0065007	neurons	biological regulation
-15418	15425	GO:0016265	neurons	death
-15418	15425	GO:0009987	neurons	cellular process
-15489	15498	GO:0044464	cytoplasm	cell part
-15627	15629	GO:0065007	to	biological regulation
-15627	15629	GO:0009987	to	cellular process
-15827	15836	GO:0044464	cytoplasm	cell part
-15848	15863	GO:0044464	plasma membrane	cell part
-15855	15863	GO:0044464	membrane	cell part
-15876	15881	GO:0005623	cells	cell
-15913	15922	GO:0044464	dendrites	cell part
-15930	15932	GO:0065007	to	biological regulation
-15930	15932	GO:0009987	to	cellular process
-16130	16135	GO:0044464	axons	cell part
-16227	16232	GO:0044464	axons	cell part
-16369	16384	GO:0044464	climbing fibers	cell part
-16650	16655	GO:0005623	cells	cell
-16837	16845	GO:0044421	antibody	extraccellular region part
-16837	16845	GO:0032991	antibody	macromolecular complex
-17210	17212	GO:0065007	to	biological regulation
-17210	17212	GO:0009987	to	cellular process
-17239	17246	GO:0065007	neurons	biological regulation
-17239	17246	GO:0016265	neurons	death
-17239	17246	GO:0009987	neurons	cellular process
-17264	17266	GO:0065007	to	biological regulation
-17264	17266	GO:0009987	to	cellular process
-17294	17301	GO:0043226	nucleus	organelle
-17294	17301	GO:0044464	nucleus	cell part
-17307	17311	GO:0005623	cell	cell
-17307	17316	GO:0044464	cell body	cell part
-17354	17363	GO:0044464	dendrites	cell part
-17468	17473	GO:0044464	axons	cell part
-17523	17525	GO:0065007	to	biological regulation
-17523	17525	GO:0009987	to	cellular process
-17855	17864	GO:0044464	cytoplasm	cell part
-17911	17913	GO:0065007	to	biological regulation
-17911	17913	GO:0009987	to	cellular process
-17953	17960	GO:0065007	neurons	biological regulation
-17953	17960	GO:0016265	neurons	death
-17953	17960	GO:0009987	neurons	cellular process
-18021	18036	GO:0044464	plasma membrane	cell part
-18028	18036	GO:0044464	membrane	cell part
-18046	18056	GO:0044464	perikaryon	cell part
-18082	18090	GO:0044464	dendrite	cell part
-18108	18115	GO:0065007	neurons	biological regulation
-18108	18115	GO:0016265	neurons	death
-18108	18115	GO:0009987	neurons	cellular process
-18171	18180	GO:0044464	dendrites	cell part
-18447	18454	GO:0065007	neurons	biological regulation
-18447	18454	GO:0016265	neurons	death
-18447	18454	GO:0009987	neurons	cellular process
-18479	18488	GO:0044464	dendrites	cell part
-18534	18542	GO:0044421	antibody	extraccellular region part
-18534	18542	GO:0032991	antibody	macromolecular complex
-18893	18897	GO:0005623	cell	cell
-18893	18906	GO:0044464	cell membrane	cell part
-18898	18906	GO:0044464	membrane	cell part
-18914	18924	GO:0044464	perikaryon	cell part
-18953	18961	GO:0044464	dendrite	cell part
-19018	19026	GO:0044421	antibody	extraccellular region part
-19018	19026	GO:0032991	antibody	macromolecular complex
-19114	19121	GO:0065007	neurons	biological regulation
-19114	19121	GO:0016265	neurons	death
-19114	19121	GO:0009987	neurons	cellular process
-19255	19260	GO:0005623	cells	cell
-19328	19333	GO:0005623	cells	cell
-19366	19373	GO:0065007	neurons	biological regulation
-19366	19373	GO:0016265	neurons	death
-19366	19373	GO:0009987	neurons	cellular process
-19477	19485	GO:0044421	antibody	extraccellular region part
-19477	19485	GO:0032991	antibody	macromolecular complex
-19522	19524	GO:0065007	to	biological regulation
-19522	19524	GO:0009987	to	cellular process
-19535	19545	GO:0044421	antibodies	extraccellular region part
-19535	19545	GO:0032991	antibodies	macromolecular complex
-19546	19548	GO:0065007	to	biological regulation
-19546	19548	GO:0009987	to	cellular process
-19632	19637	GO:0005623	cells	cell
-19642	19644	GO:0065007	to	biological regulation
-19642	19644	GO:0009987	to	cellular process
-19934	19942	GO:0044421	antibody	extraccellular region part
-19934	19942	GO:0032991	antibody	macromolecular complex
-20053	20055	GO:0065007	to	biological regulation
-20053	20055	GO:0009987	to	cellular process
-20091	20093	GO:0065007	To	biological regulation
-20091	20093	GO:0009987	To	cellular process
-20230	20235	GO:0005623	cells	cell
-20264	20266	GO:0065007	to	biological regulation
-20264	20266	GO:0009987	to	cellular process
-20302	20313	GO:0044464	nucleoplasm	cell part
-20302	20313	GO:0044422	nucleoplasm	organelle part
-20329	20340	GO:0044464	nucleoplasm	cell part
-20329	20340	GO:0044422	nucleoplasm	organelle part
-20382	20393	GO:0044464	nucleoplasm	cell part
-20382	20393	GO:0044422	nucleoplasm	organelle part
-20439	20441	GO:0065007	to	biological regulation
-20439	20441	GO:0009987	to	cellular process
-20536	20547	GO:0044464	nucleoplasm	cell part
-20536	20547	GO:0044422	nucleoplasm	organelle part
-20598	20602	GO:0005623	cell	cell
-20684	20695	GO:0044464	nucleoplasm	cell part
-20684	20695	GO:0044422	nucleoplasm	organelle part
-20704	20709	GO:0005623	cells	cell
-20724	20734	GO:0044421	antibodies	extraccellular region part
-20724	20734	GO:0032991	antibodies	macromolecular complex
-20779	20781	GO:0065007	to	biological regulation
-20779	20781	GO:0009987	to	cellular process
-20798	20809	GO:0044464	nucleoplasm	cell part
-20798	20809	GO:0044422	nucleoplasm	organelle part
-20927	20944	GO:0044464	nuclear membranes	cell part
-20927	20944	GO:0044422	nuclear membranes	organelle part
-20935	20944	GO:0044464	membranes	cell part
-20967	20976	GO:0044464	cytoplasm	cell part
-21038	21042	GO:0005623	cell	cell
-21085	21092	GO:0043226	nucleus	organelle
-21085	21092	GO:0044464	nucleus	cell part
-21197	21202	GO:0005623	cells	cell
-21337	21349	GO:0051179	localization	localization
-21454	21458	GO:0005623	cell	cell
-21507	21512	GO:0005623	cells	cell
-21547	21564	GO:0044464	nuclear membranes	cell part
-21547	21564	GO:0044422	nuclear membranes	organelle part
-21555	21564	GO:0044464	membranes	cell part
-21573	21584	GO:0044464	nucleoplasm	cell part
-21573	21584	GO:0044422	nucleoplasm	organelle part
-21604	21606	GO:0065007	to	biological regulation
-21604	21606	GO:0009987	to	cellular process
-21691	21698	GO:0043226	nucleus	organelle
-21691	21698	GO:0044464	nucleus	cell part
-21716	21721	GO:0005623	cells	cell
-21906	21917	GO:0044464	nucleoplasm	cell part
-21906	21917	GO:0044422	nucleoplasm	organelle part
-21927	21944	GO:0044464	nuclear membranes	cell part
-21927	21944	GO:0044422	nuclear membranes	organelle part
-21935	21944	GO:0044464	membranes	cell part
-21963	21972	GO:0044464	cytoplasm	cell part
-22008	22019	GO:0044464	nucleoplasm	cell part
-22008	22019	GO:0044422	nucleoplasm	organelle part
-22094	22099	GO:0005623	cells	cell
-22106	22111	GO:0005623	Cells	cell
-22404	22411	GO:0003824	protein	catalytic activity
-22467	22480	GO:0032502	embryogenesis	developmental process
-22571	22580	GO:0009987	embryonic	cellular process
-22571	22580	GO:0065007	embryonic	biological regulation
-22647	22652	GO:0005623	cells	cell
-22707	22712	GO:0005623	cells	cell
-22723	22725	GO:0065007	to	biological regulation
-22723	22725	GO:0009987	to	cellular process
-22793	22800	GO:0044464	cytosol	cell part
-22835	22840	GO:0005623	cells	cell
-22871	22883	GO:0051179	localization	localization
-22891	22898	GO:0003824	protein	catalytic activity
-22997	23002	GO:0005623	Cells	cell
-23156	23163	GO:0044464	cytosol	cell part
-23259	23266	GO:0043226	nucleus	organelle
-23259	23266	GO:0044464	nucleus	cell part
-23270	23275	GO:0005623	cells	cell
-23390	23395	GO:0005623	cells	cell
-23434	23436	GO:0065007	to	biological regulation
-23434	23436	GO:0009987	to	cellular process
-23513	23515	GO:0065007	to	biological regulation
-23513	23515	GO:0009987	to	cellular process
-23625	23636	GO:0009987	glial cells	cellular process
-23625	23636	GO:0016265	glial cells	death
-23631	23636	GO:0005623	cells	cell
-23712	23719	GO:0065007	neurons	biological regulation
-23712	23719	GO:0016265	neurons	death
-23712	23719	GO:0009987	neurons	cellular process
-23752	23759	GO:0009987	Neurons	cellular process
-23752	23759	GO:0016265	Neurons	death
-23752	23759	GO:0065007	Neurons	biological regulation
-23905	23907	GO:0065007	to	biological regulation
-23905	23907	GO:0009987	to	cellular process
-23936	23940	GO:0005623	cell	cell
-23986	23990	GO:0005623	cell	cell
-23986	24001	GO:0009987	cell maturation	cellular process
-23986	24001	GO:0032502	cell maturation	developmental process
-23991	24001	GO:0022414	maturation	reproductive process
-24053	24065	GO:0051179	localization	localization
-24115	24119	GO:0005623	cell	cell
-24176	24188	GO:0051179	localization	localization
-24207	24214	GO:0065007	neurons	biological regulation
-24207	24214	GO:0016265	neurons	death
-24207	24214	GO:0009987	neurons	cellular process
-24311	24318	GO:0065007	neurons	biological regulation
-24311	24318	GO:0016265	neurons	death
-24311	24318	GO:0009987	neurons	cellular process
-24456	24465	GO:0044464	dendrites	cell part
-24613	24615	GO:0065007	to	biological regulation
-24613	24615	GO:0009987	to	cellular process
-24683	24692	GO:0044464	cytoplasm	cell part
-24727	24734	GO:0065007	neurons	biological regulation
-24727	24734	GO:0016265	neurons	death
-24727	24734	GO:0009987	neurons	cellular process
-24996	24998	GO:0065007	To	biological regulation
-24996	24998	GO:0009987	To	cellular process
-25024	25026	GO:0065007	to	biological regulation
-25024	25026	GO:0009987	to	cellular process
-25397	25404	GO:0065007	neurons	biological regulation
-25397	25404	GO:0016265	neurons	death
-25397	25404	GO:0009987	neurons	cellular process
-25484	25493	GO:0044464	dendrites	cell part
-25534	25541	GO:0065007	neurons	biological regulation
-25534	25541	GO:0016265	neurons	death
-25534	25541	GO:0009987	neurons	cellular process
-25797	25799	GO:0065007	to	biological regulation
-25797	25799	GO:0009987	to	cellular process
-25856	25861	GO:0005623	cells	cell
-25856	25860	GO:0005623	cell	cell
-25883	25892	GO:0016265	apoptosis	death
-25883	25892	GO:0009987	apoptosis	cellular process
-25926	25931	GO:0005623	cells	cell
-25995	26004	GO:0044464	cytoplasm	cell part
-25997	25999	GO:0065007	to	biological regulation
-25997	25999	GO:0009987	to	cellular process
-26017	26026	GO:0044464	membranes	cell part
-26100	26107	GO:0065007	neurons	biological regulation
-26100	26107	GO:0016265	neurons	death
-26100	26107	GO:0009987	neurons	cellular process
-26123	26125	GO:0065007	to	biological regulation
-26123	26125	GO:0009987	to	cellular process
-26183	26191	GO:0044464	membrane	cell part
-26210	26223	GO:0009987	translocation	cellular process
-26210	26223	GO:0065007	translocation	biological regulation
-26210	26223	GO:0051234	translocation	establishment of localization
-26228	26236	GO:0044464	membrane	cell part
-26237	26244	GO:0005488	binding	binding
-26255	26257	GO:0065007	to	biological regulation
-26255	26257	GO:0009987	to	cellular process
-26307	26316	GO:0016265	apoptosis	death
-26307	26316	GO:0009987	apoptosis	cellular process
-26512	26519	GO:0003824	protein	catalytic activity
-26529	26536	GO:0043226	nucleus	organelle
-26529	26536	GO:0044464	nucleus	cell part
-26616	26623	GO:0065007	neurons	biological regulation
-26616	26623	GO:0016265	neurons	death
-26616	26623	GO:0009987	neurons	cellular process
-26668	26672	GO:0005623	cell	cell
-26717	26722	GO:0005623	cells	cell
-26736	26738	GO:0065007	to	biological regulation
-26736	26738	GO:0009987	to	cellular process
-26836	26839	GO:0023046	red	signaling process
-26836	26839	GO:0050896	red	response to stimulus
-26836	26839	GO:0009987	red	cellular process
-26836	26839	GO:0065007	red	biological regulation
-26846	26851	GO:0005623	cells	cell
-27012	27014	GO:0065007	to	biological regulation
-27012	27014	GO:0009987	to	cellular process
-27058	27062	GO:0005623	cell	cell
-27162	27171	GO:0023052	signaling	signaling
-27162	27181	GO:0023046	signaling processes	signaling process
-27305	27307	GO:0065007	to	biological regulation
-27305	27307	GO:0009987	to	cellular process
-27335	27337	GO:0065007	to	biological regulation
-27335	27337	GO:0009987	to	cellular process
-27428	27435	GO:0065007	neurons	biological regulation
-27428	27435	GO:0016265	neurons	death
-27428	27435	GO:0009987	neurons	cellular process
-27940	27953	GO:0032502	embryogenesis	developmental process
-28027	28036	GO:0009987	embryonic	cellular process
-28027	28036	GO:0065007	embryonic	biological regulation
-28077	28089	GO:0051179	localization	localization
-28251	28258	GO:0044464	cytosol	cell part
-28253	28255	GO:0065007	to	biological regulation
-28253	28255	GO:0009987	to	cellular process
-28266	28273	GO:0043226	nucleus	organelle
-28266	28273	GO:0044464	nucleus	cell part
-28277	28282	GO:0005623	cells	cell
-28290	28299	GO:0009987	embryonic	cellular process
-28290	28299	GO:0065007	embryonic	biological regulation
-28378	28380	GO:0065007	to	biological regulation
-28378	28380	GO:0009987	to	cellular process
-28436	28443	GO:0005488	binding	binding
-28458	28460	GO:0065007	to	biological regulation
-28458	28460	GO:0009987	to	cellular process
-28461	28470	GO:0044464	membranes	cell part
-28517	28524	GO:0005488	Binding	binding
-28674	28689	GO:0044464	plasma membrane	cell part
-28681	28689	GO:0044464	membrane	cell part
-28698	28707	GO:0044464	cytoplasm	cell part
-28735	28747	GO:0043226	cytoskeleton	organelle
-28735	28747	GO:0044464	cytoskeleton	cell part
-28801	28803	GO:0065007	to	biological regulation
-28801	28803	GO:0009987	to	cellular process
-28843	28850	GO:0043226	nucleus	organelle
-28843	28850	GO:0044464	nucleus	cell part
-28966	28973	GO:0043226	nucleus	organelle
-28966	28973	GO:0044464	nucleus	cell part
-29010	29017	GO:0044464	cytosol	cell part
-29032	29045	GO:0044464	intracellular	cell part
-29032	29045	GO:0051179	intracellular	localization
-29032	29045	GO:0009987	intracellular	cellular process
-29055	29057	GO:0065007	to	biological regulation
-29055	29057	GO:0009987	to	cellular process
-29087	29089	GO:0065007	to	biological regulation
-29087	29089	GO:0009987	to	cellular process
-29094	29110	GO:0044464	nuclear membrane	cell part
-29094	29110	GO:0044422	nuclear membrane	organelle part
-29102	29110	GO:0044464	membrane	cell part
-29279	29284	GO:0005623	cells	cell
-29300	29313	GO:0044464	intracellular	cell part
-29300	29313	GO:0051179	intracellular	localization
-29300	29313	GO:0009987	intracellular	cellular process
-29389	29401	GO:0051179	localization	localization
-29409	29420	GO:0044464	nucleoplasm	cell part
-29409	29420	GO:0044422	nucleoplasm	organelle part
-29421	29423	GO:0065007	to	biological regulation
-29421	29423	GO:0009987	to	cellular process
-29428	29444	GO:0044464	nuclear membrane	cell part
-29428	29444	GO:0044422	nuclear membrane	organelle part
-29436	29444	GO:0044464	membrane	cell part
-29498	29510	GO:0051179	localization	localization
-29541	29555	GO:0051234	nuclear import	establishment of localization
-29564	29566	GO:0065007	to	biological regulation
-29564	29566	GO:0009987	to	cellular process
-29624	29636	GO:0051179	localization	localization
-29697	29704	GO:0005488	binding	binding
-29723	29730	GO:0003824	protein	catalytic activity
-29833	29849	GO:0044422	nuclear envelope	organelle part
-29833	29849	GO:0044464	nuclear envelope	cell part
-29841	29849	GO:0044464	envelope	cell part
-29865	29874	GO:0008152	breakdown	metabolic process
-29954	29966	GO:0051179	localization	localization
-30144	30159	GO:0009987	phosphorylation	cellular process
-30144	30159	GO:0008152	phosphorylation	metabolic process
-30169	30183	GO:0051234	nuclear export	establishment of localization
-30262	30269	GO:0043226	nucleus	organelle
-30262	30269	GO:0044464	nucleus	cell part
-30288	30290	GO:0065007	to	biological regulation
-30288	30290	GO:0009987	to	cellular process
-30299	30306	GO:0005488	binding	binding
-30374	30385	GO:0009987	recognition	cellular process
-30386	30393	GO:0003824	protein	catalytic activity
-30386	30401	GO:0032991	protein complex	macromolecular complex
-30507	30509	GO:0065007	to	biological regulation
-30507	30509	GO:0009987	to	cellular process
-30518	30522	GO:0005623	cell	cell
-30538	30540	GO:0065007	to	biological regulation
-30538	30540	GO:0009987	to	cellular process
-30584	30599	GO:0008152	DNA replication	metabolic process
-30584	30599	GO:0009987	DNA replication	cellular process
-30778	30790	GO:0051179	localization	localization
-30916	30929	GO:0009987	translocation	cellular process
-30916	30929	GO:0065007	translocation	biological regulation
-30916	30929	GO:0051234	translocation	establishment of localization
-30944	30946	GO:0065007	to	biological regulation
-30944	30946	GO:0009987	to	cellular process
-30973	30978	GO:0005623	cells	cell
-31077	31084	GO:0065007	neurons	biological regulation
-31077	31084	GO:0016265	neurons	death
-31077	31084	GO:0009987	neurons	cellular process
-31150	31157	GO:0065007	neurons	biological regulation
-31150	31157	GO:0016265	neurons	death
-31150	31157	GO:0009987	neurons	cellular process
-31192	31199	GO:0044464	cytosol	cell part
-31232	31236	GO:0005623	cell	cell
-31232	31236	GO:0005623	cell	cell
-31919	31926	GO:0032502	embryos	developmental process
-31919	31926	GO:0032502	embryos	developmental process
-32011	32020	GO:0044464	membranes	cell part
-32083	32085	GO:0065007	to	biological regulation
-32083	32085	GO:0009987	to	cellular process
-32180	32182	GO:0065007	to	biological regulation
-32180	32182	GO:0009987	to	cellular process
-32206	32213	GO:0032502	embryos	developmental process
-32363	32370	GO:0008152	ethanol	metabolic process
-32363	32370	GO:0009987	ethanol	cellular process
-32406	32408	GO:0065007	to	biological regulation
-32406	32408	GO:0009987	to	cellular process
-32435	32437	GO:0065007	to	biological regulation
-32435	32437	GO:0009987	to	cellular process
-33109	33119	GO:0044421	Antibodies	extraccellular region part
-33109	33119	GO:0032991	Antibodies	macromolecular complex
-33109	33119	GO:0044421	Antibodies	extraccellular region part
-33109	33119	GO:0032991	Antibodies	macromolecular complex
-33337	33345	GO:0044421	antibody	extraccellular region part
-33337	33345	GO:0032991	antibody	macromolecular complex
-33446	33467	GO:0044422	intermediate filament	organelle part
-33446	33467	GO:0032991	intermediate filament	macromolecular complex
-33446	33467	GO:0044464	intermediate filament	cell part
-33492	33499	GO:0003824	protein	catalytic activity
-33748	33756	GO:0044421	antibody	extraccellular region part
-33748	33756	GO:0032991	antibody	macromolecular complex
-33908	33918	GO:0044421	antibodies	extraccellular region part
-33908	33918	GO:0032991	antibodies	macromolecular complex
-33947	33955	GO:0044421	antibody	extraccellular region part
-33947	33955	GO:0032991	antibody	macromolecular complex
-34146	34156	GO:0044421	antibodies	extraccellular region part
-34146	34156	GO:0032991	antibodies	macromolecular complex
-34210	34220	GO:0044421	antibodies	extraccellular region part
-34210	34220	GO:0032991	antibodies	macromolecular complex
-34242	34249	GO:0003824	coupled	catalytic activity
-34250	34252	GO:0065007	to	biological regulation
-34250	34252	GO:0009987	to	cellular process
-34350	34352	GO:0065007	to	biological regulation
-34350	34352	GO:0009987	to	cellular process
-34436	34443	GO:0008152	ethanol	metabolic process
-34436	34443	GO:0009987	ethanol	cellular process
-34448	34456	GO:0044421	antibody	extraccellular region part
-34448	34456	GO:0032991	antibody	macromolecular complex
-34663	34665	GO:0065007	to	biological regulation
-34663	34665	GO:0009987	to	cellular process
-34767	34774	GO:0005488	binding	binding
-34938	34948	GO:0044421	antibodies	extraccellular region part
-34938	34948	GO:0032991	antibodies	macromolecular complex
-35116	35124	GO:0044421	antibody	extraccellular region part
-35116	35124	GO:0032991	antibody	macromolecular complex
-35316	35324	GO:0044421	antibody	extraccellular region part
-35316	35324	GO:0032991	antibody	macromolecular complex
-35674	35682	GO:0044421	antibody	extraccellular region part
-35674	35682	GO:0032991	antibody	macromolecular complex
-35851	35861	GO:0044421	antibodies	extraccellular region part
-35851	35861	GO:0032991	antibodies	macromolecular complex
-35900	35902	GO:0065007	to	biological regulation
-35900	35902	GO:0009987	to	cellular process
-35922	35930	GO:0044421	antibody	extraccellular region part
-35922	35930	GO:0032991	antibody	macromolecular complex
-36004	36008	GO:0005623	Cell	cell
-36021	36027	GO:0040007	growth	growth
-36042	36046	GO:0005623	cell	cell
-36082	36084	GO:0065007	to	biological regulation
-36082	36084	GO:0009987	to	cellular process
-36343	36348	GO:0005623	cells	cell
-36521	36526	GO:0005623	cells	cell
-36521	36526	GO:0005623	cells	cell
-37127	37138	GO:0044464	nucleoplasm	cell part
-37127	37138	GO:0044422	nucleoplasm	organelle part
-37149	37151	GO:0065007	to	biological regulation
-37149	37151	GO:0009987	to	cellular process
-37743	37754	GO:0044464	nucleoplasm	cell part
-37743	37754	GO:0044422	nucleoplasm	organelle part
-37800	37802	GO:0065007	to	biological regulation
-37800	37802	GO:0009987	to	cellular process
-37829	37840	GO:0044422	Nucleoplasm	organelle part
-37829	37840	GO:0044464	Nucleoplasm	cell part
-37875	37877	GO:0065007	to	biological regulation
-37875	37877	GO:0009987	to	cellular process
-37924	37929	GO:0005623	Cells	cell
-38015	38017	GO:0065007	to	biological regulation
-38015	38017	GO:0009987	to	cellular process
-38130	38140	GO:0044421	antibodies	extraccellular region part
-38130	38140	GO:0032991	antibodies	macromolecular complex
-38241	38247	GO:0032502	Embryo	developmental process
-38321	38326	GO:0005623	cells	cell
-38331	38338	GO:0032502	embryos	developmental process
-38403	38409	GO:0032502	Embryo	developmental process
-38440	38448	GO:0044464	membrane	cell part
-38543	38547	GO:0051234	poly _ORB_ A	establishment of localization
-38543	38547	GO:0003824	poly _ORB_ A	catalytic activity
-38543	38547	GO:0032991	poly _ORB_ A	macromolecular complex
-38543	38547	GO:0005488	poly _ORB_ A	binding
-38543	38547	GO:0044464	poly _ORB_ A	cell part
-38626	38631	GO:0005623	cells	cell
-38679	38688	GO:0044464	membranes	cell part
-38861	38863	GO:0065007	to	biological regulation
-38861	38863	GO:0009987	to	cellular process
-39065	39075	GO:0044421	antibodies	extraccellular region part
-39065	39075	GO:0032991	antibodies	macromolecular complex
-39141	39143	GO:0065007	to	biological regulation
-39141	39143	GO:0009987	to	cellular process
-39203	39205	GO:0065007	to	biological regulation
-39203	39205	GO:0009987	to	cellular process
+128	135	GO:0003824	protein	catalytic activity
+182	184	GO:0065007	to	biological regulation
+182	184	GO:0009987	to	cellular process
+263	265	GO:0065007	to	biological regulation
+263	265	GO:0009987	to	cellular process
+429	446	GO:0032502	brain development	developmental process
+526	533	GO:0003824	protein	catalytic activity
+547	560	GO:0032502	embryogenesis	developmental process
+669	674	GO:0005623	cells	cell
+733	745	GO:0051179	localization	localization
+751	760	GO:0044464	cytoplasm	cell part
+753	755	GO:0065007	to	biological regulation
+753	755	GO:0009987	to	cellular process
+764	771	GO:0043226	nucleus	organelle
+764	771	GO:0044464	nucleus	cell part
+811	815	GO:0005623	cell	cell
+937	944	GO:0044464	cytosol	cell part
+965	970	GO:0005623	cells	cell
+974	983	GO:0009987	embryonic	cellular process
+974	983	GO:0065007	embryonic	biological regulation
+1011	1018	GO:0003824	protein	catalytic activity
+1043	1050	GO:0044464	cytosol	cell part
+1054	1059	GO:0005623	cells	cell
+1166	1175	GO:0009987	embryonic	cellular process
+1166	1175	GO:0065007	embryonic	biological regulation
+1199	1204	GO:0005623	cells	cell
+1274	1276	GO:0065007	to	biological regulation
+1274	1276	GO:0009987	to	cellular process
+1281	1288	GO:0043226	nucleus	organelle
+1281	1288	GO:0044464	nucleus	cell part
+1290	1304	GO:0009987	Neuronal cells	cellular process
+1290	1304	GO:0016265	Neuronal cells	death
+1299	1304	GO:0005623	cells	cell
+1363	1370	GO:0043226	nucleus	organelle
+1363	1370	GO:0044464	nucleus	cell part
+1404	1411	GO:0003824	protein	catalytic activity
+1559	1570	GO:0044464	nucleoplasm	cell part
+1559	1570	GO:0044422	nucleoplasm	organelle part
+1630	1634	GO:0005623	cell	cell
+1678	1691	GO:0009987	translocation	cellular process
+1678	1691	GO:0065007	translocation	biological regulation
+1678	1691	GO:0051234	translocation	establishment of localization
+1706	1708	GO:0065007	to	biological regulation
+1706	1708	GO:0009987	to	cellular process
+1719	1724	GO:0005623	cells	cell
+1741	1758	GO:0032502	brain development	developmental process
+1803	1817	GO:0009987	neuronal cells	cellular process
+1803	1817	GO:0016265	neuronal cells	death
+1812	1817	GO:0005623	cells	cell
+1902	1916	GO:0009987	neuronal cells	cellular process
+1902	1916	GO:0016265	neuronal cells	death
+1911	1916	GO:0005623	cells	cell
+1994	2002	GO:0003824	proteins	catalytic activity
+2015	2017	GO:0065007	to	biological regulation
+2015	2017	GO:0009987	to	cellular process
+2420	2440	GO:0005488	phospholipid binding	binding
+2433	2440	GO:0005488	binding	binding
+2477	2479	GO:0065007	to	biological regulation
+2477	2479	GO:0009987	to	cellular process
+2508	2510	GO:0065007	to	biological regulation
+2508	2510	GO:0009987	to	cellular process
+2523	2531	GO:0003824	proteins	catalytic activity
+2683	2685	GO:0065007	to	biological regulation
+2683	2685	GO:0009987	to	cellular process
+2755	2774	GO:0044464	chromaffin granules	cell part
+2755	2774	GO:0043226	chromaffin granules	organelle
+2789	2798	GO:0044464	membranes	cell part
+2947	2952	GO:0005623	cells	cell
+2976	2983	GO:0044464	cytosol	cell part
+3066	3073	GO:0043226	nucleus	organelle
+3066	3073	GO:0044464	nucleus	cell part
+3096	3101	GO:0005623	cells	cell
+3173	3175	GO:0065007	to	biological regulation
+3173	3175	GO:0009987	to	cellular process
+3232	3234	GO:0065007	to	biological regulation
+3232	3234	GO:0009987	to	cellular process
+3504	3507	GO:0023046	red	signaling process
+3504	3507	GO:0050896	red	response to stimulus
+3504	3507	GO:0009987	red	cellular process
+3504	3507	GO:0065007	red	biological regulation
+3514	3519	GO:0005623	cells	cell
+3597	3609	GO:0051179	localization	localization
+3639	3663	GO:0032502	myoblast differentiation	developmental process
+3639	3663	GO:0009987	myoblast differentiation	cellular process
+3685	3690	GO:0005623	cells	cell
+3695	3702	GO:0003824	protein	catalytic activity
+3734	3741	GO:0044464	cytosol	cell part
+3746	3754	GO:0044464	membrane	cell part
+3746	3764	GO:0044464	membrane fractions	cell part
+3789	3794	GO:0005623	cells	cell
+3828	3836	GO:0044464	membrane	cell part
+3828	3845	GO:0044464	membrane fraction	cell part
+3972	3975	GO:0023046	red	signaling process
+3972	3975	GO:0050896	red	response to stimulus
+3972	3975	GO:0009987	red	cellular process
+3972	3975	GO:0065007	red	biological regulation
+3982	3987	GO:0005623	cells	cell
+3989	4009	GO:0022610	platelet aggregation	biological adhesion
+3989	4009	GO:0009987	platelet aggregation	cellular process
+4281	4298	GO:0032502	brain development	developmental process
+4414	4421	GO:0032502	embryos	developmental process
+4525	4531	GO:0032502	embryo	developmental process
+4586	4591	GO:0005623	cells	cell
+4663	4672	GO:0009987	embryonic	cellular process
+4663	4672	GO:0065007	embryonic	biological regulation
+4663	4684	GO:0032502	embryonic development	developmental process
+4740	4747	GO:0003824	protein	catalytic activity
+4862	4871	GO:0009987	embryonic	cellular process
+4862	4871	GO:0065007	embryonic	biological regulation
+4862	4871	GO:0009987	embryonic	cellular process
+4862	4871	GO:0065007	embryonic	biological regulation
+5206	5208	GO:0065007	to	biological regulation
+5206	5208	GO:0009987	to	cellular process
+5271	5278	GO:0003824	protein	catalytic activity
+5289	5294	GO:0005623	cells	cell
+5368	5373	GO:0005623	cells	cell
+5507	5514	GO:0032502	embryos	developmental process
+5753	5758	GO:0005623	cells	cell
+5753	5758	GO:0005623	cells	cell
+5926	5934	GO:0003824	Proteins	catalytic activity
+5956	5961	GO:0005623	cells	cell
+6068	6070	GO:0065007	to	biological regulation
+6068	6070	GO:0009987	to	cellular process
+6086	6095	GO:0044464	membranes	cell part
+6183	6190	GO:0003824	coupled	catalytic activity
+6201	6209	GO:0044421	antibody	extraccellular region part
+6201	6209	GO:0032991	antibody	macromolecular complex
+6310	6317	GO:0003824	protein	catalytic activity
+6477	6481	GO:0005623	cell	cell
+6643	6649	GO:0032502	embryo	developmental process
+6737	6741	GO:0005623	cell	cell
+6824	6836	GO:0051179	localization	localization
+6844	6851	GO:0003824	protein	catalytic activity
+7040	7047	GO:0044464	cytosol	cell part
+7064	7069	GO:0005623	cells	cell
+7204	7211	GO:0032502	embryos	developmental process
+7233	7239	GO:0032502	embryo	developmental process
+7282	7286	GO:0005623	cell	cell
+7353	7358	GO:0005623	cells	cell
+7515	7519	GO:0005623	cell	cell
+7817	7823	GO:0032502	embryo	developmental process
+8206	8213	GO:0044464	cytosol	cell part
+8232	8234	GO:0065007	to	biological regulation
+8232	8234	GO:0009987	to	cellular process
+8270	8277	GO:0044464	cytosol	cell part
+8299	8305	GO:0032502	embryo	developmental process
+8582	8594	GO:0051179	localization	localization
+8602	8611	GO:0009987	embryonic	cellular process
+8602	8611	GO:0065007	embryonic	biological regulation
+8780	8789	GO:0009987	embryonic	cellular process
+8780	8789	GO:0065007	embryonic	biological regulation
+8824	8829	GO:0005623	cells	cell
+9032	9039	GO:0044464	cytosol	cell part
+9100	9105	GO:0005623	cells	cell
+9172	9179	GO:0044464	cytosol	cell part
+9285	9290	GO:0005623	cells	cell
+9348	9355	GO:0065007	neurons	biological regulation
+9348	9355	GO:0016265	neurons	death
+9348	9355	GO:0009987	neurons	cellular process
+9430	9441	GO:0009987	glial cells	cellular process
+9430	9441	GO:0016265	glial cells	death
+9436	9441	GO:0005623	cells	cell
+9488	9493	GO:0005623	Cells	cell
+9640	9647	GO:0044464	cytosol	cell part
+9692	9699	GO:0043226	nucleus	organelle
+9692	9699	GO:0044464	nucleus	cell part
+9724	9736	GO:0051179	localization	localization
+9754	9761	GO:0032502	embryos	developmental process
+9801	9810	GO:0009987	embryonic	cellular process
+9801	9810	GO:0065007	embryonic	biological regulation
+9925	9933	GO:0044421	antibody	extraccellular region part
+9925	9933	GO:0032991	antibody	macromolecular complex
+9983	9988	GO:0005623	cells	cell
+10218	10223	GO:0005623	cells	cell
+10243	10250	GO:0044464	cytosol	cell part
+10294	10299	GO:0005623	cells	cell
+10345	10352	GO:0044464	cytosol	cell part
+10424	10429	GO:0005623	cells	cell
+10656	10661	GO:0005623	cells	cell
+10898	10905	GO:0065007	neurons	biological regulation
+10898	10905	GO:0016265	neurons	death
+10898	10905	GO:0009987	neurons	cellular process
+11149	11156	GO:0065007	neurons	biological regulation
+11149	11156	GO:0016265	neurons	death
+11149	11156	GO:0009987	neurons	cellular process
+11203	11215	GO:0051179	localization	localization
+11411	11418	GO:0065007	neurons	biological regulation
+11411	11418	GO:0016265	neurons	death
+11411	11418	GO:0009987	neurons	cellular process
+11748	11752	GO:0005623	cell	cell
+11851	11860	GO:0044464	cytoplasm	cell part
+11868	11872	GO:0005623	cell	cell
+11966	11973	GO:0043226	nucleus	organelle
+11966	11973	GO:0044464	nucleus	cell part
+11978	11985	GO:0044464	cytosol	cell part
+12139	12146	GO:0043226	nucleus	organelle
+12139	12146	GO:0044464	nucleus	cell part
+12194	12201	GO:0065007	neurons	biological regulation
+12194	12201	GO:0016265	neurons	death
+12194	12201	GO:0009987	neurons	cellular process
+12258	12267	GO:0008152	formation	metabolic process
+12374	12379	GO:0005623	cells	cell
+12403	12410	GO:0065007	neurons	biological regulation
+12403	12410	GO:0016265	neurons	death
+12403	12410	GO:0009987	neurons	cellular process
+12799	12807	GO:0044421	antibody	extraccellular region part
+12799	12807	GO:0032991	antibody	macromolecular complex
+12854	12861	GO:0065007	neurons	biological regulation
+12854	12861	GO:0016265	neurons	death
+12854	12861	GO:0009987	neurons	cellular process
+12926	12933	GO:0065007	neurons	biological regulation
+12926	12933	GO:0016265	neurons	death
+12926	12933	GO:0009987	neurons	cellular process
+13084	13091	GO:0043226	nucleus	organelle
+13084	13091	GO:0044464	nucleus	cell part
+13178	13185	GO:0065007	neurons	biological regulation
+13178	13185	GO:0016265	neurons	death
+13178	13185	GO:0009987	neurons	cellular process
+13252	13261	GO:0044464	cytoplasm	cell part
+13374	13381	GO:0065007	neurons	biological regulation
+13374	13381	GO:0016265	neurons	death
+13374	13381	GO:0009987	neurons	cellular process
+13441	13448	GO:0003824	protein	catalytic activity
+13456	13463	GO:0043226	nucleus	organelle
+13456	13463	GO:0044464	nucleus	cell part
+13486	13493	GO:0065007	neurons	biological regulation
+13486	13493	GO:0016265	neurons	death
+13486	13493	GO:0009987	neurons	cellular process
+13499	13501	GO:0065007	To	biological regulation
+13499	13501	GO:0009987	To	cellular process
+13611	13619	GO:0044421	antibody	extraccellular region part
+13611	13619	GO:0032991	antibody	macromolecular complex
+13777	13785	GO:0044421	antibody	extraccellular region part
+13777	13785	GO:0032991	antibody	macromolecular complex
+13885	13893	GO:0044421	antibody	extraccellular region part
+13885	13893	GO:0032991	antibody	macromolecular complex
+13983	13992	GO:0008152	formation	metabolic process
+14196	14201	GO:0005623	cells	cell
+14254	14261	GO:0003824	protein	catalytic activity
+14274	14281	GO:0043226	nucleus	organelle
+14274	14281	GO:0044464	nucleus	cell part
+14290	14299	GO:0044464	cytoplasm	cell part
+14349	14356	GO:0065007	neurons	biological regulation
+14349	14356	GO:0016265	neurons	death
+14349	14356	GO:0009987	neurons	cellular process
+14450	14452	GO:0065007	to	biological regulation
+14450	14452	GO:0009987	to	cellular process
+14486	14496	GO:0044421	antibodies	extraccellular region part
+14486	14496	GO:0032991	antibodies	macromolecular complex
+14638	14646	GO:0044421	antibody	extraccellular region part
+14638	14646	GO:0032991	antibody	macromolecular complex
+14879	14887	GO:0044421	antibody	extraccellular region part
+14879	14887	GO:0032991	antibody	macromolecular complex
+14915	14922	GO:0003824	protein	catalytic activity
+15076	15084	GO:0044464	membrane	cell part
+15146	15153	GO:0005488	binding	binding
+15171	15179	GO:0044421	antibody	extraccellular region part
+15171	15179	GO:0032991	antibody	macromolecular complex
+15268	15275	GO:0065007	neurons	biological regulation
+15268	15275	GO:0016265	neurons	death
+15268	15275	GO:0009987	neurons	cellular process
+15392	15396	GO:0005623	cell	cell
+15392	15403	GO:0044464	cell bodies	cell part
+15407	15414	GO:0065007	neurons	biological regulation
+15407	15414	GO:0016265	neurons	death
+15407	15414	GO:0009987	neurons	cellular process
+15461	15463	GO:0065007	to	biological regulation
+15461	15463	GO:0009987	to	cellular process
+15474	15481	GO:0065007	neurons	biological regulation
+15474	15481	GO:0016265	neurons	death
+15474	15481	GO:0009987	neurons	cellular process
+15545	15554	GO:0044464	cytoplasm	cell part
+15683	15685	GO:0065007	to	biological regulation
+15683	15685	GO:0009987	to	cellular process
+15883	15892	GO:0044464	cytoplasm	cell part
+15904	15919	GO:0044464	plasma membrane	cell part
+15911	15919	GO:0044464	membrane	cell part
+15932	15937	GO:0005623	cells	cell
+15969	15978	GO:0044464	dendrites	cell part
+15986	15988	GO:0065007	to	biological regulation
+15986	15988	GO:0009987	to	cellular process
+16186	16191	GO:0044464	axons	cell part
+16283	16288	GO:0044464	axons	cell part
+16425	16440	GO:0044464	climbing fibers	cell part
+16710	16715	GO:0005623	cells	cell
+16897	16905	GO:0044421	antibody	extraccellular region part
+16897	16905	GO:0032991	antibody	macromolecular complex
+17270	17272	GO:0065007	to	biological regulation
+17270	17272	GO:0009987	to	cellular process
+17299	17306	GO:0065007	neurons	biological regulation
+17299	17306	GO:0016265	neurons	death
+17299	17306	GO:0009987	neurons	cellular process
+17324	17326	GO:0065007	to	biological regulation
+17324	17326	GO:0009987	to	cellular process
+17354	17361	GO:0043226	nucleus	organelle
+17354	17361	GO:0044464	nucleus	cell part
+17367	17371	GO:0005623	cell	cell
+17367	17376	GO:0044464	cell body	cell part
+17414	17423	GO:0044464	dendrites	cell part
+17528	17533	GO:0044464	axons	cell part
+17583	17585	GO:0065007	to	biological regulation
+17583	17585	GO:0009987	to	cellular process
+17919	17928	GO:0044464	cytoplasm	cell part
+17975	17977	GO:0065007	to	biological regulation
+17975	17977	GO:0009987	to	cellular process
+18017	18024	GO:0065007	neurons	biological regulation
+18017	18024	GO:0016265	neurons	death
+18017	18024	GO:0009987	neurons	cellular process
+18085	18100	GO:0044464	plasma membrane	cell part
+18092	18100	GO:0044464	membrane	cell part
+18110	18120	GO:0044464	perikaryon	cell part
+18146	18154	GO:0044464	dendrite	cell part
+18172	18179	GO:0065007	neurons	biological regulation
+18172	18179	GO:0016265	neurons	death
+18172	18179	GO:0009987	neurons	cellular process
+18235	18244	GO:0044464	dendrites	cell part
+18515	18522	GO:0065007	neurons	biological regulation
+18515	18522	GO:0016265	neurons	death
+18515	18522	GO:0009987	neurons	cellular process
+18547	18556	GO:0044464	dendrites	cell part
+18602	18610	GO:0044421	antibody	extraccellular region part
+18602	18610	GO:0032991	antibody	macromolecular complex
+18961	18965	GO:0005623	cell	cell
+18961	18974	GO:0044464	cell membrane	cell part
+18966	18974	GO:0044464	membrane	cell part
+18982	18992	GO:0044464	perikaryon	cell part
+19021	19029	GO:0044464	dendrite	cell part
+19086	19094	GO:0044421	antibody	extraccellular region part
+19086	19094	GO:0032991	antibody	macromolecular complex
+19182	19189	GO:0065007	neurons	biological regulation
+19182	19189	GO:0016265	neurons	death
+19182	19189	GO:0009987	neurons	cellular process
+19325	19330	GO:0005623	cells	cell
+19400	19405	GO:0005623	cells	cell
+19438	19445	GO:0065007	neurons	biological regulation
+19438	19445	GO:0016265	neurons	death
+19438	19445	GO:0009987	neurons	cellular process
+19549	19557	GO:0044421	antibody	extraccellular region part
+19549	19557	GO:0032991	antibody	macromolecular complex
+19594	19596	GO:0065007	to	biological regulation
+19594	19596	GO:0009987	to	cellular process
+19607	19617	GO:0044421	antibodies	extraccellular region part
+19607	19617	GO:0032991	antibodies	macromolecular complex
+19618	19620	GO:0065007	to	biological regulation
+19618	19620	GO:0009987	to	cellular process
+19704	19709	GO:0005623	cells	cell
+19714	19716	GO:0065007	to	biological regulation
+19714	19716	GO:0009987	to	cellular process
+20006	20014	GO:0044421	antibody	extraccellular region part
+20006	20014	GO:0032991	antibody	macromolecular complex
+20125	20127	GO:0065007	to	biological regulation
+20125	20127	GO:0009987	to	cellular process
+20165	20167	GO:0065007	To	biological regulation
+20165	20167	GO:0009987	To	cellular process
+20304	20309	GO:0005623	cells	cell
+20338	20340	GO:0065007	to	biological regulation
+20338	20340	GO:0009987	to	cellular process
+20376	20387	GO:0044464	nucleoplasm	cell part
+20376	20387	GO:0044422	nucleoplasm	organelle part
+20403	20414	GO:0044464	nucleoplasm	cell part
+20403	20414	GO:0044422	nucleoplasm	organelle part
+20456	20467	GO:0044464	nucleoplasm	cell part
+20456	20467	GO:0044422	nucleoplasm	organelle part
+20513	20515	GO:0065007	to	biological regulation
+20513	20515	GO:0009987	to	cellular process
+20610	20621	GO:0044464	nucleoplasm	cell part
+20610	20621	GO:0044422	nucleoplasm	organelle part
+20672	20676	GO:0005623	cell	cell
+20758	20769	GO:0044464	nucleoplasm	cell part
+20758	20769	GO:0044422	nucleoplasm	organelle part
+20778	20783	GO:0005623	cells	cell
+20798	20808	GO:0044421	antibodies	extraccellular region part
+20798	20808	GO:0032991	antibodies	macromolecular complex
+20853	20855	GO:0065007	to	biological regulation
+20853	20855	GO:0009987	to	cellular process
+20872	20883	GO:0044464	nucleoplasm	cell part
+20872	20883	GO:0044422	nucleoplasm	organelle part
+21001	21018	GO:0044464	nuclear membranes	cell part
+21001	21018	GO:0044422	nuclear membranes	organelle part
+21009	21018	GO:0044464	membranes	cell part
+21041	21050	GO:0044464	cytoplasm	cell part
+21112	21116	GO:0005623	cell	cell
+21159	21166	GO:0043226	nucleus	organelle
+21159	21166	GO:0044464	nucleus	cell part
+21271	21276	GO:0005623	cells	cell
+21415	21427	GO:0051179	localization	localization
+21532	21536	GO:0005623	cell	cell
+21585	21590	GO:0005623	cells	cell
+21625	21642	GO:0044464	nuclear membranes	cell part
+21625	21642	GO:0044422	nuclear membranes	organelle part
+21633	21642	GO:0044464	membranes	cell part
+21651	21662	GO:0044464	nucleoplasm	cell part
+21651	21662	GO:0044422	nucleoplasm	organelle part
+21682	21684	GO:0065007	to	biological regulation
+21682	21684	GO:0009987	to	cellular process
+21769	21776	GO:0043226	nucleus	organelle
+21769	21776	GO:0044464	nucleus	cell part
+21794	21799	GO:0005623	cells	cell
+21984	21995	GO:0044464	nucleoplasm	cell part
+21984	21995	GO:0044422	nucleoplasm	organelle part
+22005	22022	GO:0044464	nuclear membranes	cell part
+22005	22022	GO:0044422	nuclear membranes	organelle part
+22013	22022	GO:0044464	membranes	cell part
+22041	22050	GO:0044464	cytoplasm	cell part
+22086	22097	GO:0044464	nucleoplasm	cell part
+22086	22097	GO:0044422	nucleoplasm	organelle part
+22172	22177	GO:0005623	cells	cell
+22184	22189	GO:0005623	Cells	cell
+22486	22493	GO:0003824	protein	catalytic activity
+22549	22562	GO:0032502	embryogenesis	developmental process
+22653	22662	GO:0009987	embryonic	cellular process
+22653	22662	GO:0065007	embryonic	biological regulation
+22729	22734	GO:0005623	cells	cell
+22789	22794	GO:0005623	cells	cell
+22805	22807	GO:0065007	to	biological regulation
+22805	22807	GO:0009987	to	cellular process
+22875	22882	GO:0044464	cytosol	cell part
+22917	22922	GO:0005623	cells	cell
+22953	22965	GO:0051179	localization	localization
+22973	22980	GO:0003824	protein	catalytic activity
+23081	23086	GO:0005623	Cells	cell
+23240	23247	GO:0044464	cytosol	cell part
+23343	23350	GO:0043226	nucleus	organelle
+23343	23350	GO:0044464	nucleus	cell part
+23354	23359	GO:0005623	cells	cell
+23474	23479	GO:0005623	cells	cell
+23518	23520	GO:0065007	to	biological regulation
+23518	23520	GO:0009987	to	cellular process
+23597	23599	GO:0065007	to	biological regulation
+23597	23599	GO:0009987	to	cellular process
+23709	23720	GO:0009987	glial cells	cellular process
+23709	23720	GO:0016265	glial cells	death
+23715	23720	GO:0005623	cells	cell
+23796	23803	GO:0065007	neurons	biological regulation
+23796	23803	GO:0016265	neurons	death
+23796	23803	GO:0009987	neurons	cellular process
+23836	23843	GO:0009987	Neurons	cellular process
+23836	23843	GO:0016265	Neurons	death
+23836	23843	GO:0065007	Neurons	biological regulation
+23989	23991	GO:0065007	to	biological regulation
+23989	23991	GO:0009987	to	cellular process
+24020	24024	GO:0005623	cell	cell
+24070	24074	GO:0005623	cell	cell
+24070	24085	GO:0009987	cell maturation	cellular process
+24070	24085	GO:0032502	cell maturation	developmental process
+24075	24085	GO:0022414	maturation	reproductive process
+24137	24149	GO:0051179	localization	localization
+24199	24203	GO:0005623	cell	cell
+24262	24274	GO:0051179	localization	localization
+24293	24300	GO:0065007	neurons	biological regulation
+24293	24300	GO:0016265	neurons	death
+24293	24300	GO:0009987	neurons	cellular process
+24397	24404	GO:0065007	neurons	biological regulation
+24397	24404	GO:0016265	neurons	death
+24397	24404	GO:0009987	neurons	cellular process
+24542	24551	GO:0044464	dendrites	cell part
+24699	24701	GO:0065007	to	biological regulation
+24699	24701	GO:0009987	to	cellular process
+24769	24778	GO:0044464	cytoplasm	cell part
+24813	24820	GO:0065007	neurons	biological regulation
+24813	24820	GO:0016265	neurons	death
+24813	24820	GO:0009987	neurons	cellular process
+25082	25084	GO:0065007	To	biological regulation
+25082	25084	GO:0009987	To	cellular process
+25110	25112	GO:0065007	to	biological regulation
+25110	25112	GO:0009987	to	cellular process
+25483	25490	GO:0065007	neurons	biological regulation
+25483	25490	GO:0016265	neurons	death
+25483	25490	GO:0009987	neurons	cellular process
+25570	25579	GO:0044464	dendrites	cell part
+25620	25627	GO:0065007	neurons	biological regulation
+25620	25627	GO:0016265	neurons	death
+25620	25627	GO:0009987	neurons	cellular process
+25883	25885	GO:0065007	to	biological regulation
+25883	25885	GO:0009987	to	cellular process
+25942	25947	GO:0005623	cells	cell
+25942	25946	GO:0005623	cell	cell
+25969	25978	GO:0016265	apoptosis	death
+25969	25978	GO:0009987	apoptosis	cellular process
+26012	26017	GO:0005623	cells	cell
+26081	26090	GO:0044464	cytoplasm	cell part
+26083	26085	GO:0065007	to	biological regulation
+26083	26085	GO:0009987	to	cellular process
+26103	26112	GO:0044464	membranes	cell part
+26186	26193	GO:0065007	neurons	biological regulation
+26186	26193	GO:0016265	neurons	death
+26186	26193	GO:0009987	neurons	cellular process
+26209	26211	GO:0065007	to	biological regulation
+26209	26211	GO:0009987	to	cellular process
+26269	26277	GO:0044464	membrane	cell part
+26296	26309	GO:0009987	translocation	cellular process
+26296	26309	GO:0065007	translocation	biological regulation
+26296	26309	GO:0051234	translocation	establishment of localization
+26314	26322	GO:0044464	membrane	cell part
+26323	26330	GO:0005488	binding	binding
+26341	26343	GO:0065007	to	biological regulation
+26341	26343	GO:0009987	to	cellular process
+26393	26402	GO:0016265	apoptosis	death
+26393	26402	GO:0009987	apoptosis	cellular process
+26598	26605	GO:0003824	protein	catalytic activity
+26615	26622	GO:0043226	nucleus	organelle
+26615	26622	GO:0044464	nucleus	cell part
+26702	26709	GO:0065007	neurons	biological regulation
+26702	26709	GO:0016265	neurons	death
+26702	26709	GO:0009987	neurons	cellular process
+26754	26758	GO:0005623	cell	cell
+26803	26808	GO:0005623	cells	cell
+26822	26824	GO:0065007	to	biological regulation
+26822	26824	GO:0009987	to	cellular process
+26922	26925	GO:0023046	red	signaling process
+26922	26925	GO:0050896	red	response to stimulus
+26922	26925	GO:0009987	red	cellular process
+26922	26925	GO:0065007	red	biological regulation
+26932	26937	GO:0005623	cells	cell
+27100	27102	GO:0065007	to	biological regulation
+27100	27102	GO:0009987	to	cellular process
+27146	27150	GO:0005623	cell	cell
+27250	27259	GO:0023052	signaling	signaling
+27250	27269	GO:0023046	signaling processes	signaling process
+27393	27395	GO:0065007	to	biological regulation
+27393	27395	GO:0009987	to	cellular process
+27423	27425	GO:0065007	to	biological regulation
+27423	27425	GO:0009987	to	cellular process
+27516	27523	GO:0065007	neurons	biological regulation
+27516	27523	GO:0016265	neurons	death
+27516	27523	GO:0009987	neurons	cellular process
+28030	28043	GO:0032502	embryogenesis	developmental process
+28117	28126	GO:0009987	embryonic	cellular process
+28117	28126	GO:0065007	embryonic	biological regulation
+28167	28179	GO:0051179	localization	localization
+28341	28348	GO:0044464	cytosol	cell part
+28343	28345	GO:0065007	to	biological regulation
+28343	28345	GO:0009987	to	cellular process
+28356	28363	GO:0043226	nucleus	organelle
+28356	28363	GO:0044464	nucleus	cell part
+28367	28372	GO:0005623	cells	cell
+28380	28389	GO:0009987	embryonic	cellular process
+28380	28389	GO:0065007	embryonic	biological regulation
+28468	28470	GO:0065007	to	biological regulation
+28468	28470	GO:0009987	to	cellular process
+28526	28533	GO:0005488	binding	binding
+28548	28550	GO:0065007	to	biological regulation
+28548	28550	GO:0009987	to	cellular process
+28551	28560	GO:0044464	membranes	cell part
+28607	28614	GO:0005488	Binding	binding
+28764	28779	GO:0044464	plasma membrane	cell part
+28771	28779	GO:0044464	membrane	cell part
+28788	28797	GO:0044464	cytoplasm	cell part
+28825	28837	GO:0043226	cytoskeleton	organelle
+28825	28837	GO:0044464	cytoskeleton	cell part
+28891	28893	GO:0065007	to	biological regulation
+28891	28893	GO:0009987	to	cellular process
+28933	28940	GO:0043226	nucleus	organelle
+28933	28940	GO:0044464	nucleus	cell part
+29056	29063	GO:0043226	nucleus	organelle
+29056	29063	GO:0044464	nucleus	cell part
+29100	29107	GO:0044464	cytosol	cell part
+29122	29135	GO:0044464	intracellular	cell part
+29122	29135	GO:0051179	intracellular	localization
+29122	29135	GO:0009987	intracellular	cellular process
+29145	29147	GO:0065007	to	biological regulation
+29145	29147	GO:0009987	to	cellular process
+29177	29179	GO:0065007	to	biological regulation
+29177	29179	GO:0009987	to	cellular process
+29184	29200	GO:0044464	nuclear membrane	cell part
+29184	29200	GO:0044422	nuclear membrane	organelle part
+29192	29200	GO:0044464	membrane	cell part
+29369	29374	GO:0005623	cells	cell
+29390	29403	GO:0044464	intracellular	cell part
+29390	29403	GO:0051179	intracellular	localization
+29390	29403	GO:0009987	intracellular	cellular process
+29479	29491	GO:0051179	localization	localization
+29499	29510	GO:0044464	nucleoplasm	cell part
+29499	29510	GO:0044422	nucleoplasm	organelle part
+29511	29513	GO:0065007	to	biological regulation
+29511	29513	GO:0009987	to	cellular process
+29518	29534	GO:0044464	nuclear membrane	cell part
+29518	29534	GO:0044422	nuclear membrane	organelle part
+29526	29534	GO:0044464	membrane	cell part
+29590	29602	GO:0051179	localization	localization
+29633	29647	GO:0051234	nuclear import	establishment of localization
+29656	29658	GO:0065007	to	biological regulation
+29656	29658	GO:0009987	to	cellular process
+29716	29728	GO:0051179	localization	localization
+29789	29796	GO:0005488	binding	binding
+29815	29822	GO:0003824	protein	catalytic activity
+29925	29941	GO:0044422	nuclear envelope	organelle part
+29925	29941	GO:0044464	nuclear envelope	cell part
+29933	29941	GO:0044464	envelope	cell part
+29957	29966	GO:0008152	breakdown	metabolic process
+30046	30058	GO:0051179	localization	localization
+30236	30251	GO:0009987	phosphorylation	cellular process
+30236	30251	GO:0008152	phosphorylation	metabolic process
+30261	30275	GO:0051234	nuclear export	establishment of localization
+30354	30361	GO:0043226	nucleus	organelle
+30354	30361	GO:0044464	nucleus	cell part
+30380	30382	GO:0065007	to	biological regulation
+30380	30382	GO:0009987	to	cellular process
+30391	30398	GO:0005488	binding	binding
+30466	30477	GO:0009987	recognition	cellular process
+30478	30485	GO:0003824	protein	catalytic activity
+30478	30493	GO:0032991	protein complex	macromolecular complex
+30599	30601	GO:0065007	to	biological regulation
+30599	30601	GO:0009987	to	cellular process
+30610	30614	GO:0005623	cell	cell
+30630	30632	GO:0065007	to	biological regulation
+30630	30632	GO:0009987	to	cellular process
+30676	30691	GO:0008152	DNA replication	metabolic process
+30676	30691	GO:0009987	DNA replication	cellular process
+30870	30882	GO:0051179	localization	localization
+31012	31025	GO:0009987	translocation	cellular process
+31012	31025	GO:0065007	translocation	biological regulation
+31012	31025	GO:0051234	translocation	establishment of localization
+31040	31042	GO:0065007	to	biological regulation
+31040	31042	GO:0009987	to	cellular process
+31069	31074	GO:0005623	cells	cell
+31173	31180	GO:0065007	neurons	biological regulation
+31173	31180	GO:0016265	neurons	death
+31173	31180	GO:0009987	neurons	cellular process
+31246	31253	GO:0065007	neurons	biological regulation
+31246	31253	GO:0016265	neurons	death
+31246	31253	GO:0009987	neurons	cellular process
+31288	31295	GO:0044464	cytosol	cell part
+31328	31332	GO:0005623	cell	cell
+31328	31332	GO:0005623	cell	cell
+32021	32028	GO:0032502	embryos	developmental process
+32021	32028	GO:0032502	embryos	developmental process
+32113	32122	GO:0044464	membranes	cell part
+32185	32187	GO:0065007	to	biological regulation
+32185	32187	GO:0009987	to	cellular process
+32282	32284	GO:0065007	to	biological regulation
+32282	32284	GO:0009987	to	cellular process
+32308	32315	GO:0032502	embryos	developmental process
+32465	32472	GO:0008152	ethanol	metabolic process
+32465	32472	GO:0009987	ethanol	cellular process
+32508	32510	GO:0065007	to	biological regulation
+32508	32510	GO:0009987	to	cellular process
+32537	32539	GO:0065007	to	biological regulation
+32537	32539	GO:0009987	to	cellular process
+33217	33227	GO:0044421	Antibodies	extraccellular region part
+33217	33227	GO:0032991	Antibodies	macromolecular complex
+33217	33227	GO:0044421	Antibodies	extraccellular region part
+33217	33227	GO:0032991	Antibodies	macromolecular complex
+33447	33455	GO:0044421	antibody	extraccellular region part
+33447	33455	GO:0032991	antibody	macromolecular complex
+33556	33577	GO:0044422	intermediate filament	organelle part
+33556	33577	GO:0032991	intermediate filament	macromolecular complex
+33556	33577	GO:0044464	intermediate filament	cell part
+33602	33609	GO:0003824	protein	catalytic activity
+33862	33870	GO:0044421	antibody	extraccellular region part
+33862	33870	GO:0032991	antibody	macromolecular complex
+34022	34032	GO:0044421	antibodies	extraccellular region part
+34022	34032	GO:0032991	antibodies	macromolecular complex
+34061	34069	GO:0044421	antibody	extraccellular region part
+34061	34069	GO:0032991	antibody	macromolecular complex
+34260	34270	GO:0044421	antibodies	extraccellular region part
+34260	34270	GO:0032991	antibodies	macromolecular complex
+34324	34334	GO:0044421	antibodies	extraccellular region part
+34324	34334	GO:0032991	antibodies	macromolecular complex
+34356	34363	GO:0003824	coupled	catalytic activity
+34364	34366	GO:0065007	to	biological regulation
+34364	34366	GO:0009987	to	cellular process
+34466	34468	GO:0065007	to	biological regulation
+34466	34468	GO:0009987	to	cellular process
+34552	34559	GO:0008152	ethanol	metabolic process
+34552	34559	GO:0009987	ethanol	cellular process
+34564	34572	GO:0044421	antibody	extraccellular region part
+34564	34572	GO:0032991	antibody	macromolecular complex
+34779	34781	GO:0065007	to	biological regulation
+34779	34781	GO:0009987	to	cellular process
+34883	34890	GO:0005488	binding	binding
+35054	35064	GO:0044421	antibodies	extraccellular region part
+35054	35064	GO:0032991	antibodies	macromolecular complex
+35232	35240	GO:0044421	antibody	extraccellular region part
+35232	35240	GO:0032991	antibody	macromolecular complex
+35432	35440	GO:0044421	antibody	extraccellular region part
+35432	35440	GO:0032991	antibody	macromolecular complex
+35794	35802	GO:0044421	antibody	extraccellular region part
+35794	35802	GO:0032991	antibody	macromolecular complex
+35971	35981	GO:0044421	antibodies	extraccellular region part
+35971	35981	GO:0032991	antibodies	macromolecular complex
+36020	36022	GO:0065007	to	biological regulation
+36020	36022	GO:0009987	to	cellular process
+36042	36050	GO:0044421	antibody	extraccellular region part
+36042	36050	GO:0032991	antibody	macromolecular complex
+36126	36130	GO:0005623	Cell	cell
+36143	36149	GO:0040007	growth	growth
+36166	36170	GO:0005623	cell	cell
+36206	36208	GO:0065007	to	biological regulation
+36206	36208	GO:0009987	to	cellular process
+36467	36472	GO:0005623	cells	cell
+36649	36654	GO:0005623	cells	cell
+36649	36654	GO:0005623	cells	cell
+37255	37266	GO:0044464	nucleoplasm	cell part
+37255	37266	GO:0044422	nucleoplasm	organelle part
+37277	37279	GO:0065007	to	biological regulation
+37277	37279	GO:0009987	to	cellular process
+37871	37882	GO:0044464	nucleoplasm	cell part
+37871	37882	GO:0044422	nucleoplasm	organelle part
+37928	37930	GO:0065007	to	biological regulation
+37928	37930	GO:0009987	to	cellular process
+37957	37968	GO:0044422	Nucleoplasm	organelle part
+37957	37968	GO:0044464	Nucleoplasm	cell part
+38003	38005	GO:0065007	to	biological regulation
+38003	38005	GO:0009987	to	cellular process
+38056	38061	GO:0005623	Cells	cell
+38147	38149	GO:0065007	to	biological regulation
+38147	38149	GO:0009987	to	cellular process
+38262	38272	GO:0044421	antibodies	extraccellular region part
+38262	38272	GO:0032991	antibodies	macromolecular complex
+38375	38381	GO:0032502	Embryo	developmental process
+38457	38462	GO:0005623	cells	cell
+38467	38474	GO:0032502	embryos	developmental process
+38539	38545	GO:0032502	Embryo	developmental process
+38576	38584	GO:0044464	membrane	cell part
+38679	38683	GO:0051234	poly _ORB_ A	establishment of localization
+38679	38683	GO:0003824	poly _ORB_ A	catalytic activity
+38679	38683	GO:0032991	poly _ORB_ A	macromolecular complex
+38679	38683	GO:0005488	poly _ORB_ A	binding
+38679	38683	GO:0044464	poly _ORB_ A	cell part
+38762	38767	GO:0005623	cells	cell
+38815	38824	GO:0044464	membranes	cell part
+38997	38999	GO:0065007	to	biological regulation
+38997	38999	GO:0009987	to	cellular process
+39205	39215	GO:0044421	antibodies	extraccellular region part
+39205	39215	GO:0032991	antibodies	macromolecular complex
+39281	39283	GO:0065007	to	biological regulation
+39281	39283	GO:0009987	to	cellular process
+39343	39345	GO:0065007	to	biological regulation
+39343	39345	GO:0009987	to	cellular process

@@ -1,520 +1,520 @@
 StartIndex	EndIndex	GO:ID	Term	OntologyTerm
-201	203	GO:0065007	to	biological regulation
-201	203	GO:0009987	to	cellular process
-412	414	GO:0065007	to	biological regulation
-412	414	GO:0009987	to	cellular process
-772	774	GO:0065007	to	biological regulation
-772	774	GO:0009987	to	cellular process
-866	881	GO:0008152	gene expression	metabolic process
-980	982	GO:0065007	to	biological regulation
-980	982	GO:0009987	to	cellular process
-1164	1193	GO:0065007	regulation of gene expression	biological regulation
-1178	1193	GO:0008152	gene expression	metabolic process
-1244	1246	GO:0065007	to	biological regulation
-1244	1246	GO:0009987	to	cellular process
-1694	1696	GO:0065007	to	biological regulation
-1694	1696	GO:0009987	to	cellular process
-1700	1702	GO:0065007	to	biological regulation
-1700	1702	GO:0009987	to	cellular process
-1858	1860	GO:0065007	to	biological regulation
-1858	1860	GO:0009987	to	cellular process
-2235	2237	GO:0065007	To	biological regulation
-2235	2237	GO:0009987	To	cellular process
-2334	2340	GO:0065007	global	biological regulation
-2341	2356	GO:0008152	gene expression	metabolic process
-2462	2475	GO:0009987	transcription	cellular process
-2462	2475	GO:0008152	transcription	metabolic process
-2620	2630	GO:0044464	Chromosome	cell part
-2620	2630	GO:0043226	Chromosome	organelle
-2620	2630	GO:0044422	Chromosome	organelle part
-2879	2881	GO:0065007	to	biological regulation
-2879	2881	GO:0009987	to	cellular process
-2879	2881	GO:0065007	to	biological regulation
-2879	2881	GO:0009987	to	cellular process
-3255	3267	GO:0051704	pathogenesis	multi-organism process
-3390	3392	GO:0065007	to	biological regulation
-3390	3392	GO:0009987	to	cellular process
-3628	3643	GO:0008152	gene expression	metabolic process
-3881	3892	GO:0009987	recognition	cellular process
-4080	4082	GO:0065007	to	biological regulation
-4080	4082	GO:0009987	to	cellular process
-4306	4308	GO:0065007	to	biological regulation
-4306	4308	GO:0009987	to	cellular process
-4571	4573	GO:0065007	to	biological regulation
-4571	4573	GO:0009987	to	cellular process
-4990	5005	GO:0008152	gene expression	metabolic process
-5038	5040	GO:0065007	to	biological regulation
-5038	5040	GO:0009987	to	cellular process
-5064	5079	GO:0008152	gene expression	metabolic process
-5147	5149	GO:0065007	to	biological regulation
-5147	5149	GO:0009987	to	cellular process
-5276	5278	GO:0065007	to	biological regulation
-5276	5278	GO:0009987	to	cellular process
-5464	5479	GO:0008152	gene expression	metabolic process
-5654	5656	GO:0065007	to	biological regulation
-5654	5656	GO:0009987	to	cellular process
-5807	5809	GO:0065007	to	biological regulation
-5807	5809	GO:0009987	to	cellular process
-5892	5907	GO:0008152	gene expression	metabolic process
-5996	5998	GO:0065007	to	biological regulation
-5996	5998	GO:0009987	to	cellular process
-6064	6066	GO:0065007	to	biological regulation
-6064	6066	GO:0009987	to	cellular process
-6989	6998	GO:0044464	autosomes	cell part
-6989	6998	GO:0043226	autosomes	organelle
-7270	7272	GO:0065007	to	biological regulation
-7270	7272	GO:0009987	to	cellular process
-7488	7490	GO:0065007	to	biological regulation
-7488	7490	GO:0009987	to	cellular process
-7700	7715	GO:0008152	gene expression	metabolic process
-7954	7956	GO:0065007	to	biological regulation
-7954	7956	GO:0009987	to	cellular process
-8035	8037	GO:0065007	to	biological regulation
-8035	8037	GO:0009987	to	cellular process
+205	207	GO:0065007	to	biological regulation
+205	207	GO:0009987	to	cellular process
+416	418	GO:0065007	to	biological regulation
+416	418	GO:0009987	to	cellular process
+776	778	GO:0065007	to	biological regulation
+776	778	GO:0009987	to	cellular process
+870	885	GO:0008152	gene expression	metabolic process
+984	986	GO:0065007	to	biological regulation
+984	986	GO:0009987	to	cellular process
+1168	1197	GO:0065007	regulation of gene expression	biological regulation
+1182	1197	GO:0008152	gene expression	metabolic process
+1248	1250	GO:0065007	to	biological regulation
+1248	1250	GO:0009987	to	cellular process
+1702	1704	GO:0065007	to	biological regulation
+1702	1704	GO:0009987	to	cellular process
+1708	1710	GO:0065007	to	biological regulation
+1708	1710	GO:0009987	to	cellular process
+1866	1868	GO:0065007	to	biological regulation
+1866	1868	GO:0009987	to	cellular process
+2243	2245	GO:0065007	To	biological regulation
+2243	2245	GO:0009987	To	cellular process
+2342	2348	GO:0065007	global	biological regulation
+2349	2364	GO:0008152	gene expression	metabolic process
+2470	2483	GO:0009987	transcription	cellular process
+2470	2483	GO:0008152	transcription	metabolic process
+2628	2638	GO:0044464	Chromosome	cell part
+2628	2638	GO:0043226	Chromosome	organelle
+2628	2638	GO:0044422	Chromosome	organelle part
+2891	2893	GO:0065007	to	biological regulation
+2891	2893	GO:0009987	to	cellular process
+2891	2893	GO:0065007	to	biological regulation
+2891	2893	GO:0009987	to	cellular process
+3267	3279	GO:0051704	pathogenesis	multi-organism process
+3402	3404	GO:0065007	to	biological regulation
+3402	3404	GO:0009987	to	cellular process
+3640	3655	GO:0008152	gene expression	metabolic process
+3893	3904	GO:0009987	recognition	cellular process
+4094	4096	GO:0065007	to	biological regulation
+4094	4096	GO:0009987	to	cellular process
+4320	4322	GO:0065007	to	biological regulation
+4320	4322	GO:0009987	to	cellular process
+4585	4587	GO:0065007	to	biological regulation
+4585	4587	GO:0009987	to	cellular process
+5004	5019	GO:0008152	gene expression	metabolic process
+5052	5054	GO:0065007	to	biological regulation
+5052	5054	GO:0009987	to	cellular process
+5078	5093	GO:0008152	gene expression	metabolic process
+5161	5163	GO:0065007	to	biological regulation
+5161	5163	GO:0009987	to	cellular process
+5290	5292	GO:0065007	to	biological regulation
+5290	5292	GO:0009987	to	cellular process
+5480	5495	GO:0008152	gene expression	metabolic process
+5670	5672	GO:0065007	to	biological regulation
+5670	5672	GO:0009987	to	cellular process
+5823	5825	GO:0065007	to	biological regulation
+5823	5825	GO:0009987	to	cellular process
+5908	5923	GO:0008152	gene expression	metabolic process
+6012	6014	GO:0065007	to	biological regulation
+6012	6014	GO:0009987	to	cellular process
+6080	6082	GO:0065007	to	biological regulation
+6080	6082	GO:0009987	to	cellular process
+7013	7022	GO:0044464	autosomes	cell part
+7013	7022	GO:0043226	autosomes	organelle
+7294	7296	GO:0065007	to	biological regulation
+7294	7296	GO:0009987	to	cellular process
+7512	7514	GO:0065007	to	biological regulation
+7512	7514	GO:0009987	to	cellular process
+7724	7739	GO:0008152	gene expression	metabolic process
+7978	7980	GO:0065007	to	biological regulation
+7978	7980	GO:0009987	to	cellular process
 8059	8061	GO:0065007	to	biological regulation
 8059	8061	GO:0009987	to	cellular process
-8242	8244	GO:0065007	to	biological regulation
-8242	8244	GO:0009987	to	cellular process
-8274	8289	GO:0008152	gene expression	metabolic process
-8610	8612	GO:0065007	to	biological regulation
-8610	8612	GO:0009987	to	cellular process
-8676	8678	GO:0065007	to	biological regulation
-8676	8678	GO:0009987	to	cellular process
-8732	8734	GO:0065007	to	biological regulation
-8732	8734	GO:0009987	to	cellular process
-8994	8996	GO:0065007	to	biological regulation
-8994	8996	GO:0009987	to	cellular process
-9111	9121	GO:0044464	Chromosome	cell part
-9111	9121	GO:0043226	Chromosome	organelle
-9111	9121	GO:0044422	Chromosome	organelle part
-9147	9158	GO:0044464	Chromosomes	cell part
-9147	9158	GO:0044422	Chromosomes	organelle part
-9147	9158	GO:0043226	Chromosomes	organelle
-9410	9412	GO:0065007	to	biological regulation
-9410	9412	GO:0009987	to	cellular process
-9487	9497	GO:0044464	Chromosome	cell part
-9487	9497	GO:0043226	Chromosome	organelle
-9487	9497	GO:0044422	Chromosome	organelle part
-9574	9576	GO:0065007	to	biological regulation
-9574	9576	GO:0009987	to	cellular process
-9964	9966	GO:0065007	to	biological regulation
-9964	9966	GO:0009987	to	cellular process
-9993	10003	GO:0044464	Chromosome	cell part
-9993	10003	GO:0043226	Chromosome	organelle
-9993	10003	GO:0044422	Chromosome	organelle part
-10105	10107	GO:0065007	to	biological regulation
-10105	10107	GO:0009987	to	cellular process
-10143	10153	GO:0044464	Chromosome	cell part
-10143	10153	GO:0043226	Chromosome	organelle
-10143	10153	GO:0044422	Chromosome	organelle part
-10377	10379	GO:0065007	to	biological regulation
-10377	10379	GO:0009987	to	cellular process
-10782	10793	GO:0044464	Chromosomes	cell part
-10782	10793	GO:0044422	Chromosomes	organelle part
-10782	10793	GO:0043226	Chromosomes	organelle
-10782	10792	GO:0044464	Chromosome	cell part
-10782	10792	GO:0043226	Chromosome	organelle
-10782	10792	GO:0044422	Chromosome	organelle part
-10888	10898	GO:0044464	Chromosome	cell part
-10888	10898	GO:0043226	Chromosome	organelle
-10888	10898	GO:0044422	Chromosome	organelle part
-10974	10976	GO:0065007	to	biological regulation
-10974	10976	GO:0009987	to	cellular process
-11261	11263	GO:0065007	to	biological regulation
-11261	11263	GO:0009987	to	cellular process
-12221	12227	GO:0060089	type I	molecular transducer activity
-12221	12227	GO:0003824	type I	catalytic activity
-12348	12350	GO:0065007	to	biological regulation
-12348	12350	GO:0009987	to	cellular process
-12744	12759	GO:0008152	gene expression	metabolic process
-12973	12975	GO:0065007	to	biological regulation
-12973	12975	GO:0009987	to	cellular process
-13015	13017	GO:0065007	to	biological regulation
-13015	13017	GO:0009987	to	cellular process
-13699	13701	GO:0065007	to	biological regulation
-13699	13701	GO:0009987	to	cellular process
-14586	14597	GO:0044464	Chromosomes	cell part
-14586	14597	GO:0044422	Chromosomes	organelle part
-14586	14597	GO:0043226	Chromosomes	organelle
-14705	14715	GO:0043226	chromosome	organelle
-14705	14715	GO:0044422	chromosome	organelle part
-14705	14715	GO:0044464	chromosome	cell part
-14982	14992	GO:0044464	Chromosome	cell part
-14982	14992	GO:0043226	Chromosome	organelle
-14982	14992	GO:0044422	Chromosome	organelle part
-15440	15442	GO:0065007	to	biological regulation
-15440	15442	GO:0009987	to	cellular process
-15466	15468	GO:0065007	to	biological regulation
-15466	15468	GO:0009987	to	cellular process
-15520	15533	GO:0009987	transcription	cellular process
-15520	15533	GO:0008152	transcription	metabolic process
-15839	15841	GO:0065007	to	biological regulation
-15839	15841	GO:0009987	to	cellular process
-15953	15982	GO:0065007	regulation of gene expression	biological regulation
-15967	15982	GO:0008152	gene expression	metabolic process
-16084	16099	GO:0008152	gene expression	metabolic process
-16780	16782	GO:0065007	to	biological regulation
-16780	16782	GO:0009987	to	cellular process
-17089	17091	GO:0065007	to	biological regulation
-17089	17091	GO:0009987	to	cellular process
-19050	19052	GO:0065007	to	biological regulation
-19050	19052	GO:0009987	to	cellular process
-19103	19116	GO:0009987	transcription	cellular process
-19103	19116	GO:0008152	transcription	metabolic process
-19420	19435	GO:0008152	gene expression	metabolic process
-19452	19454	GO:0065007	to	biological regulation
-19452	19454	GO:0009987	to	cellular process
-19546	19561	GO:0008152	gene expression	metabolic process
-19726	19728	GO:0065007	To	biological regulation
-19726	19728	GO:0009987	To	cellular process
-19863	19865	GO:0065007	to	biological regulation
-19863	19865	GO:0009987	to	cellular process
-20210	20220	GO:0044464	Chromosome	cell part
-20210	20220	GO:0043226	Chromosome	organelle
-20210	20220	GO:0044422	Chromosome	organelle part
-20420	20430	GO:0044464	Chromosome	cell part
-20420	20430	GO:0043226	Chromosome	organelle
-20420	20430	GO:0044422	Chromosome	organelle part
-20506	20516	GO:0044464	Chromosome	cell part
-20506	20516	GO:0043226	Chromosome	organelle
-20506	20516	GO:0044422	Chromosome	organelle part
-20547	20549	GO:0065007	to	biological regulation
-20547	20549	GO:0009987	to	cellular process
-20556	20571	GO:0008152	gene expression	metabolic process
-20648	20658	GO:0044464	Chromosome	cell part
-20648	20658	GO:0043226	Chromosome	organelle
-20648	20658	GO:0044422	Chromosome	organelle part
-20671	20686	GO:0008152	gene expression	metabolic process
-20749	20751	GO:0065007	to	biological regulation
-20749	20751	GO:0009987	to	cellular process
-20752	20762	GO:0044464	Chromosome	cell part
-20752	20762	GO:0043226	Chromosome	organelle
-20752	20762	GO:0044422	Chromosome	organelle part
-20910	20925	GO:0008152	gene expression	metabolic process
-21110	21120	GO:0044464	Chromosome	cell part
-21110	21120	GO:0043226	Chromosome	organelle
-21110	21120	GO:0044422	Chromosome	organelle part
-21174	21203	GO:0065007	regulation of gene expression	biological regulation
-21188	21203	GO:0008152	gene expression	metabolic process
-21292	21294	GO:0065007	to	biological regulation
-21292	21294	GO:0009987	to	cellular process
-21319	21329	GO:0044464	Chromosome	cell part
-21319	21329	GO:0043226	Chromosome	organelle
-21319	21329	GO:0044422	Chromosome	organelle part
-21381	21383	GO:0065007	to	biological regulation
-21381	21383	GO:0009987	to	cellular process
-21752	21754	GO:0065007	to	biological regulation
-21752	21754	GO:0009987	to	cellular process
-21963	21978	GO:0008152	gene expression	metabolic process
-22339	22341	GO:0065007	to	biological regulation
-22339	22341	GO:0009987	to	cellular process
-22440	22442	GO:0065007	to	biological regulation
-22440	22442	GO:0009987	to	cellular process
-22889	22897	GO:0003824	reducing	catalytic activity
-22904	22906	GO:0065007	to	biological regulation
-22904	22906	GO:0009987	to	cellular process
-22970	22980	GO:0044464	Chromosome	cell part
-22970	22980	GO:0043226	Chromosome	organelle
-22970	22980	GO:0044422	Chromosome	organelle part
-23187	23189	GO:0065007	to	biological regulation
-23187	23189	GO:0009987	to	cellular process
-23268	23279	GO:0044464	Chromosomes	cell part
-23268	23279	GO:0044422	Chromosomes	organelle part
-23268	23279	GO:0043226	Chromosomes	organelle
-23587	23598	GO:0044464	Chromosomes	cell part
-23587	23598	GO:0044422	Chromosomes	organelle part
-23587	23598	GO:0043226	Chromosomes	organelle
-23671	23681	GO:0044464	Chromosome	cell part
-23671	23681	GO:0043226	Chromosome	organelle
-23671	23681	GO:0044422	Chromosome	organelle part
-23727	23737	GO:0044464	Chromosome	cell part
-23727	23737	GO:0043226	Chromosome	organelle
-23727	23737	GO:0044422	Chromosome	organelle part
-24353	24371	GO:0051234	hormone secretions	establishment of localization
-24353	24371	GO:0065007	hormone secretions	biological regulation
-24353	24371	GO:0023046	hormone secretions	signaling process
-24353	24371	GO:0009987	hormone secretions	cellular process
-24361	24371	GO:0051234	secretions	establishment of localization
-24559	24561	GO:0065007	to	biological regulation
-24559	24561	GO:0009987	to	cellular process
-24602	24615	GO:0009987	transcription	cellular process
-24602	24615	GO:0008152	transcription	metabolic process
-24848	24863	GO:0008152	gene expression	metabolic process
-24933	24946	GO:0009987	transcription	cellular process
-24933	24946	GO:0008152	transcription	metabolic process
-25293	25295	GO:0065007	to	biological regulation
-25293	25295	GO:0009987	to	cellular process
-25335	25348	GO:0009987	transcription	cellular process
-25335	25348	GO:0008152	transcription	metabolic process
-25538	25567	GO:0065007	regulation of gene expression	biological regulation
-25552	25567	GO:0008152	gene expression	metabolic process
-25829	25858	GO:0065007	regulation of gene expression	biological regulation
-25843	25858	GO:0008152	gene expression	metabolic process
-25879	25881	GO:0065007	to	biological regulation
-25879	25881	GO:0009987	to	cellular process
-26446	26448	GO:0065007	to	biological regulation
-26446	26448	GO:0009987	to	cellular process
-26446	26448	GO:0065007	to	biological regulation
-26446	26448	GO:0009987	to	cellular process
-26583	26585	GO:0065007	to	biological regulation
-26583	26585	GO:0009987	to	cellular process
-26733	26735	GO:0065007	to	biological regulation
-26733	26735	GO:0009987	to	cellular process
-27089	27120	GO:0008152	posttranslational modifications	metabolic process
-27089	27120	GO:0009987	posttranslational modifications	cellular process
-27165	27167	GO:0065007	to	biological regulation
-27165	27167	GO:0009987	to	cellular process
-27215	27228	GO:0009987	transcription	cellular process
-27215	27228	GO:0008152	transcription	metabolic process
-27295	27297	GO:0065007	to	biological regulation
-27295	27297	GO:0009987	to	cellular process
-27348	27363	GO:0008152	gene expression	metabolic process
-27805	27807	GO:0065007	to	biological regulation
-27805	27807	GO:0009987	to	cellular process
-27947	27949	GO:0065007	to	biological regulation
-27947	27949	GO:0009987	to	cellular process
-28119	28121	GO:0065007	to	biological regulation
-28119	28121	GO:0009987	to	cellular process
-28452	28467	GO:0008152	gene expression	metabolic process
-28521	28523	GO:0065007	to	biological regulation
-28521	28523	GO:0009987	to	cellular process
-28550	28552	GO:0065007	to	biological regulation
-28550	28552	GO:0009987	to	cellular process
-28843	28855	GO:0051179	localization	localization
-28894	28896	GO:0065007	to	biological regulation
-28894	28896	GO:0009987	to	cellular process
-29097	29107	GO:0044464	Chromosome	cell part
-29097	29107	GO:0043226	Chromosome	organelle
-29097	29107	GO:0044422	Chromosome	organelle part
-29309	29321	GO:0051179	localization	localization
-29337	29339	GO:0065007	to	biological regulation
-29337	29339	GO:0009987	to	cellular process
-29463	29465	GO:0065007	to	biological regulation
-29463	29465	GO:0009987	to	cellular process
-29640	29642	GO:0065007	to	biological regulation
-29640	29642	GO:0009987	to	cellular process
-29930	29940	GO:0044464	Chromosome	cell part
-29930	29940	GO:0043226	Chromosome	organelle
-29930	29940	GO:0044422	Chromosome	organelle part
-30130	30145	GO:0008152	gene expression	metabolic process
-30540	30542	GO:0065007	to	biological regulation
-30540	30542	GO:0009987	to	cellular process
-30586	30588	GO:0065007	to	biological regulation
-30586	30588	GO:0009987	to	cellular process
-30657	30659	GO:0065007	to	biological regulation
-30657	30659	GO:0009987	to	cellular process
-30730	30732	GO:0065007	to	biological regulation
-30730	30732	GO:0009987	to	cellular process
-30944	30959	GO:0008152	gene expression	metabolic process
-30963	30970	GO:0003824	protein	catalytic activity
-31282	31284	GO:0065007	to	biological regulation
-31282	31284	GO:0009987	to	cellular process
-31282	31284	GO:0065007	to	biological regulation
-31282	31284	GO:0009987	to	cellular process
-31449	31451	GO:0065007	to	biological regulation
-31449	31451	GO:0009987	to	cellular process
-31810	31825	GO:0008152	gene expression	metabolic process
-31933	31935	GO:0065007	to	biological regulation
-31933	31935	GO:0009987	to	cellular process
-31986	31998	GO:0051179	localization	localization
-32042	32044	GO:0065007	to	biological regulation
-32042	32044	GO:0009987	to	cellular process
-32102	32104	GO:0065007	to	biological regulation
-32102	32104	GO:0009987	to	cellular process
-32427	32429	GO:0065007	to	biological regulation
-32427	32429	GO:0009987	to	cellular process
-32540	32542	GO:0065007	to	biological regulation
-32540	32542	GO:0009987	to	cellular process
-32976	32981	GO:0016265	death	death
-33267	33269	GO:0065007	to	biological regulation
-33267	33269	GO:0009987	to	cellular process
-33295	33297	GO:0065007	to	biological regulation
-33295	33297	GO:0009987	to	cellular process
-33295	33297	GO:0065007	to	biological regulation
-33295	33297	GO:0009987	to	cellular process
-33595	33597	GO:0065007	to	biological regulation
-33595	33597	GO:0009987	to	cellular process
-33696	33698	GO:0065007	to	biological regulation
-33696	33698	GO:0009987	to	cellular process
-34256	34262	GO:0060089	type I	molecular transducer activity
-34256	34262	GO:0003824	type I	catalytic activity
-34271	34286	GO:0008152	Gene expression	metabolic process
-34323	34325	GO:0065007	to	biological regulation
-34323	34325	GO:0009987	to	cellular process
-34323	34325	GO:0065007	to	biological regulation
-34323	34325	GO:0009987	to	cellular process
-34449	34451	GO:0065007	to	biological regulation
-34449	34451	GO:0009987	to	cellular process
-34553	34555	GO:0065007	to	biological regulation
-34553	34555	GO:0009987	to	cellular process
-35057	35066	GO:0044464	autosomes	cell part
-35057	35066	GO:0043226	autosomes	organelle
-35345	35360	GO:0008152	gene expression	metabolic process
-35493	35495	GO:0065007	to	biological regulation
-35493	35495	GO:0009987	to	cellular process
-35493	35495	GO:0065007	to	biological regulation
-35493	35495	GO:0009987	to	cellular process
+8083	8085	GO:0065007	to	biological regulation
+8083	8085	GO:0009987	to	cellular process
+8266	8268	GO:0065007	to	biological regulation
+8266	8268	GO:0009987	to	cellular process
+8298	8313	GO:0008152	gene expression	metabolic process
+8634	8636	GO:0065007	to	biological regulation
+8634	8636	GO:0009987	to	cellular process
+8700	8702	GO:0065007	to	biological regulation
+8700	8702	GO:0009987	to	cellular process
+8756	8758	GO:0065007	to	biological regulation
+8756	8758	GO:0009987	to	cellular process
+9018	9020	GO:0065007	to	biological regulation
+9018	9020	GO:0009987	to	cellular process
+9137	9147	GO:0044464	Chromosome	cell part
+9137	9147	GO:0043226	Chromosome	organelle
+9137	9147	GO:0044422	Chromosome	organelle part
+9173	9184	GO:0044464	Chromosomes	cell part
+9173	9184	GO:0044422	Chromosomes	organelle part
+9173	9184	GO:0043226	Chromosomes	organelle
+9436	9438	GO:0065007	to	biological regulation
+9436	9438	GO:0009987	to	cellular process
+9513	9523	GO:0044464	Chromosome	cell part
+9513	9523	GO:0043226	Chromosome	organelle
+9513	9523	GO:0044422	Chromosome	organelle part
+9600	9602	GO:0065007	to	biological regulation
+9600	9602	GO:0009987	to	cellular process
+9992	9994	GO:0065007	to	biological regulation
+9992	9994	GO:0009987	to	cellular process
+10021	10031	GO:0044464	Chromosome	cell part
+10021	10031	GO:0043226	Chromosome	organelle
+10021	10031	GO:0044422	Chromosome	organelle part
+10133	10135	GO:0065007	to	biological regulation
+10133	10135	GO:0009987	to	cellular process
+10171	10181	GO:0044464	Chromosome	cell part
+10171	10181	GO:0043226	Chromosome	organelle
+10171	10181	GO:0044422	Chromosome	organelle part
+10405	10407	GO:0065007	to	biological regulation
+10405	10407	GO:0009987	to	cellular process
+10812	10823	GO:0044464	Chromosomes	cell part
+10812	10823	GO:0044422	Chromosomes	organelle part
+10812	10823	GO:0043226	Chromosomes	organelle
+10812	10822	GO:0044464	Chromosome	cell part
+10812	10822	GO:0043226	Chromosome	organelle
+10812	10822	GO:0044422	Chromosome	organelle part
+10918	10928	GO:0044464	Chromosome	cell part
+10918	10928	GO:0043226	Chromosome	organelle
+10918	10928	GO:0044422	Chromosome	organelle part
+11004	11006	GO:0065007	to	biological regulation
+11004	11006	GO:0009987	to	cellular process
+11293	11295	GO:0065007	to	biological regulation
+11293	11295	GO:0009987	to	cellular process
+12257	12263	GO:0060089	type I	molecular transducer activity
+12257	12263	GO:0003824	type I	catalytic activity
+12384	12386	GO:0065007	to	biological regulation
+12384	12386	GO:0009987	to	cellular process
+12780	12795	GO:0008152	gene expression	metabolic process
+13011	13013	GO:0065007	to	biological regulation
+13011	13013	GO:0009987	to	cellular process
+13053	13055	GO:0065007	to	biological regulation
+13053	13055	GO:0009987	to	cellular process
+13737	13739	GO:0065007	to	biological regulation
+13737	13739	GO:0009987	to	cellular process
+14628	14639	GO:0044464	Chromosomes	cell part
+14628	14639	GO:0044422	Chromosomes	organelle part
+14628	14639	GO:0043226	Chromosomes	organelle
+14747	14757	GO:0043226	chromosome	organelle
+14747	14757	GO:0044422	chromosome	organelle part
+14747	14757	GO:0044464	chromosome	cell part
+15024	15034	GO:0044464	Chromosome	cell part
+15024	15034	GO:0043226	Chromosome	organelle
+15024	15034	GO:0044422	Chromosome	organelle part
+15484	15486	GO:0065007	to	biological regulation
+15484	15486	GO:0009987	to	cellular process
+15510	15512	GO:0065007	to	biological regulation
+15510	15512	GO:0009987	to	cellular process
+15564	15577	GO:0009987	transcription	cellular process
+15564	15577	GO:0008152	transcription	metabolic process
+15883	15885	GO:0065007	to	biological regulation
+15883	15885	GO:0009987	to	cellular process
+15997	16026	GO:0065007	regulation of gene expression	biological regulation
+16011	16026	GO:0008152	gene expression	metabolic process
+16132	16147	GO:0008152	gene expression	metabolic process
+16832	16834	GO:0065007	to	biological regulation
+16832	16834	GO:0009987	to	cellular process
+17141	17143	GO:0065007	to	biological regulation
+17141	17143	GO:0009987	to	cellular process
+19106	19108	GO:0065007	to	biological regulation
+19106	19108	GO:0009987	to	cellular process
+19159	19172	GO:0009987	transcription	cellular process
+19159	19172	GO:0008152	transcription	metabolic process
+19476	19491	GO:0008152	gene expression	metabolic process
+19508	19510	GO:0065007	to	biological regulation
+19508	19510	GO:0009987	to	cellular process
+19602	19617	GO:0008152	gene expression	metabolic process
+19784	19786	GO:0065007	To	biological regulation
+19784	19786	GO:0009987	To	cellular process
+19921	19923	GO:0065007	to	biological regulation
+19921	19923	GO:0009987	to	cellular process
+20268	20278	GO:0044464	Chromosome	cell part
+20268	20278	GO:0043226	Chromosome	organelle
+20268	20278	GO:0044422	Chromosome	organelle part
+20478	20488	GO:0044464	Chromosome	cell part
+20478	20488	GO:0043226	Chromosome	organelle
+20478	20488	GO:0044422	Chromosome	organelle part
+20564	20574	GO:0044464	Chromosome	cell part
+20564	20574	GO:0043226	Chromosome	organelle
+20564	20574	GO:0044422	Chromosome	organelle part
+20605	20607	GO:0065007	to	biological regulation
+20605	20607	GO:0009987	to	cellular process
+20614	20629	GO:0008152	gene expression	metabolic process
+20708	20718	GO:0044464	Chromosome	cell part
+20708	20718	GO:0043226	Chromosome	organelle
+20708	20718	GO:0044422	Chromosome	organelle part
+20731	20746	GO:0008152	gene expression	metabolic process
+20809	20811	GO:0065007	to	biological regulation
+20809	20811	GO:0009987	to	cellular process
+20812	20822	GO:0044464	Chromosome	cell part
+20812	20822	GO:0043226	Chromosome	organelle
+20812	20822	GO:0044422	Chromosome	organelle part
+20970	20985	GO:0008152	gene expression	metabolic process
+21170	21180	GO:0044464	Chromosome	cell part
+21170	21180	GO:0043226	Chromosome	organelle
+21170	21180	GO:0044422	Chromosome	organelle part
+21234	21263	GO:0065007	regulation of gene expression	biological regulation
+21248	21263	GO:0008152	gene expression	metabolic process
+21352	21354	GO:0065007	to	biological regulation
+21352	21354	GO:0009987	to	cellular process
+21379	21389	GO:0044464	Chromosome	cell part
+21379	21389	GO:0043226	Chromosome	organelle
+21379	21389	GO:0044422	Chromosome	organelle part
+21441	21443	GO:0065007	to	biological regulation
+21441	21443	GO:0009987	to	cellular process
+21816	21818	GO:0065007	to	biological regulation
+21816	21818	GO:0009987	to	cellular process
+22027	22042	GO:0008152	gene expression	metabolic process
+22407	22409	GO:0065007	to	biological regulation
+22407	22409	GO:0009987	to	cellular process
+22508	22510	GO:0065007	to	biological regulation
+22508	22510	GO:0009987	to	cellular process
+22957	22965	GO:0003824	reducing	catalytic activity
+22972	22974	GO:0065007	to	biological regulation
+22972	22974	GO:0009987	to	cellular process
+23038	23048	GO:0044464	Chromosome	cell part
+23038	23048	GO:0043226	Chromosome	organelle
+23038	23048	GO:0044422	Chromosome	organelle part
+23255	23257	GO:0065007	to	biological regulation
+23255	23257	GO:0009987	to	cellular process
+23338	23349	GO:0044464	Chromosomes	cell part
+23338	23349	GO:0044422	Chromosomes	organelle part
+23338	23349	GO:0043226	Chromosomes	organelle
+23657	23668	GO:0044464	Chromosomes	cell part
+23657	23668	GO:0044422	Chromosomes	organelle part
+23657	23668	GO:0043226	Chromosomes	organelle
+23741	23751	GO:0044464	Chromosome	cell part
+23741	23751	GO:0043226	Chromosome	organelle
+23741	23751	GO:0044422	Chromosome	organelle part
+23797	23807	GO:0044464	Chromosome	cell part
+23797	23807	GO:0043226	Chromosome	organelle
+23797	23807	GO:0044422	Chromosome	organelle part
+24423	24441	GO:0051234	hormone secretions	establishment of localization
+24423	24441	GO:0065007	hormone secretions	biological regulation
+24423	24441	GO:0023046	hormone secretions	signaling process
+24423	24441	GO:0009987	hormone secretions	cellular process
+24431	24441	GO:0051234	secretions	establishment of localization
+24631	24633	GO:0065007	to	biological regulation
+24631	24633	GO:0009987	to	cellular process
+24674	24687	GO:0009987	transcription	cellular process
+24674	24687	GO:0008152	transcription	metabolic process
+24920	24935	GO:0008152	gene expression	metabolic process
+25005	25018	GO:0009987	transcription	cellular process
+25005	25018	GO:0008152	transcription	metabolic process
+25365	25367	GO:0065007	to	biological regulation
+25365	25367	GO:0009987	to	cellular process
+25407	25420	GO:0009987	transcription	cellular process
+25407	25420	GO:0008152	transcription	metabolic process
+25610	25639	GO:0065007	regulation of gene expression	biological regulation
+25624	25639	GO:0008152	gene expression	metabolic process
+25901	25930	GO:0065007	regulation of gene expression	biological regulation
+25915	25930	GO:0008152	gene expression	metabolic process
+25951	25953	GO:0065007	to	biological regulation
+25951	25953	GO:0009987	to	cellular process
+26520	26522	GO:0065007	to	biological regulation
+26520	26522	GO:0009987	to	cellular process
+26520	26522	GO:0065007	to	biological regulation
+26520	26522	GO:0009987	to	cellular process
+26657	26659	GO:0065007	to	biological regulation
+26657	26659	GO:0009987	to	cellular process
+26809	26811	GO:0065007	to	biological regulation
+26809	26811	GO:0009987	to	cellular process
+27165	27196	GO:0008152	posttranslational modifications	metabolic process
+27165	27196	GO:0009987	posttranslational modifications	cellular process
+27241	27243	GO:0065007	to	biological regulation
+27241	27243	GO:0009987	to	cellular process
+27291	27304	GO:0009987	transcription	cellular process
+27291	27304	GO:0008152	transcription	metabolic process
+27371	27373	GO:0065007	to	biological regulation
+27371	27373	GO:0009987	to	cellular process
+27424	27439	GO:0008152	gene expression	metabolic process
+27885	27887	GO:0065007	to	biological regulation
+27885	27887	GO:0009987	to	cellular process
+28027	28029	GO:0065007	to	biological regulation
+28027	28029	GO:0009987	to	cellular process
+28199	28201	GO:0065007	to	biological regulation
+28199	28201	GO:0009987	to	cellular process
+28534	28549	GO:0008152	gene expression	metabolic process
+28603	28605	GO:0065007	to	biological regulation
+28603	28605	GO:0009987	to	cellular process
+28632	28634	GO:0065007	to	biological regulation
+28632	28634	GO:0009987	to	cellular process
+28925	28937	GO:0051179	localization	localization
+28976	28978	GO:0065007	to	biological regulation
+28976	28978	GO:0009987	to	cellular process
+29179	29189	GO:0044464	Chromosome	cell part
+29179	29189	GO:0043226	Chromosome	organelle
+29179	29189	GO:0044422	Chromosome	organelle part
+29391	29403	GO:0051179	localization	localization
+29419	29421	GO:0065007	to	biological regulation
+29419	29421	GO:0009987	to	cellular process
+29545	29547	GO:0065007	to	biological regulation
+29545	29547	GO:0009987	to	cellular process
+29722	29724	GO:0065007	to	biological regulation
+29722	29724	GO:0009987	to	cellular process
+30012	30022	GO:0044464	Chromosome	cell part
+30012	30022	GO:0043226	Chromosome	organelle
+30012	30022	GO:0044422	Chromosome	organelle part
+30212	30227	GO:0008152	gene expression	metabolic process
+30626	30628	GO:0065007	to	biological regulation
+30626	30628	GO:0009987	to	cellular process
+30672	30674	GO:0065007	to	biological regulation
+30672	30674	GO:0009987	to	cellular process
+30743	30745	GO:0065007	to	biological regulation
+30743	30745	GO:0009987	to	cellular process
+30816	30818	GO:0065007	to	biological regulation
+30816	30818	GO:0009987	to	cellular process
+31030	31045	GO:0008152	gene expression	metabolic process
+31049	31056	GO:0003824	protein	catalytic activity
+31370	31372	GO:0065007	to	biological regulation
+31370	31372	GO:0009987	to	cellular process
+31370	31372	GO:0065007	to	biological regulation
+31370	31372	GO:0009987	to	cellular process
+31537	31539	GO:0065007	to	biological regulation
+31537	31539	GO:0009987	to	cellular process
+31898	31913	GO:0008152	gene expression	metabolic process
+32021	32023	GO:0065007	to	biological regulation
+32021	32023	GO:0009987	to	cellular process
+32074	32086	GO:0051179	localization	localization
+32130	32132	GO:0065007	to	biological regulation
+32130	32132	GO:0009987	to	cellular process
+32190	32192	GO:0065007	to	biological regulation
+32190	32192	GO:0009987	to	cellular process
+32521	32523	GO:0065007	to	biological regulation
+32521	32523	GO:0009987	to	cellular process
+32634	32636	GO:0065007	to	biological regulation
+32634	32636	GO:0009987	to	cellular process
+33070	33075	GO:0016265	death	death
+33365	33367	GO:0065007	to	biological regulation
+33365	33367	GO:0009987	to	cellular process
+33393	33395	GO:0065007	to	biological regulation
+33393	33395	GO:0009987	to	cellular process
+33393	33395	GO:0065007	to	biological regulation
+33393	33395	GO:0009987	to	cellular process
+33695	33697	GO:0065007	to	biological regulation
+33695	33697	GO:0009987	to	cellular process
+33796	33798	GO:0065007	to	biological regulation
+33796	33798	GO:0009987	to	cellular process
+34356	34362	GO:0060089	type I	molecular transducer activity
+34356	34362	GO:0003824	type I	catalytic activity
+34371	34386	GO:0008152	Gene expression	metabolic process
+34423	34425	GO:0065007	to	biological regulation
+34423	34425	GO:0009987	to	cellular process
+34423	34425	GO:0065007	to	biological regulation
+34423	34425	GO:0009987	to	cellular process
+34549	34551	GO:0065007	to	biological regulation
+34549	34551	GO:0009987	to	cellular process
+34653	34655	GO:0065007	to	biological regulation
+34653	34655	GO:0009987	to	cellular process
+35161	35170	GO:0044464	autosomes	cell part
+35161	35170	GO:0043226	autosomes	organelle
+35449	35464	GO:0008152	gene expression	metabolic process
 35597	35599	GO:0065007	to	biological regulation
 35597	35599	GO:0009987	to	cellular process
-35642	35644	GO:0065007	to	biological regulation
-35642	35644	GO:0009987	to	cellular process
-35855	35857	GO:0065007	to	biological regulation
-35855	35857	GO:0009987	to	cellular process
-35855	35857	GO:0065007	to	biological regulation
-35855	35857	GO:0009987	to	cellular process
-36140	36142	GO:0065007	to	biological regulation
-36140	36142	GO:0009987	to	cellular process
-36466	36468	GO:0065007	to	biological regulation
-36466	36468	GO:0009987	to	cellular process
-36658	36660	GO:0065007	to	biological regulation
-36658	36660	GO:0009987	to	cellular process
-36878	36880	GO:0065007	to	biological regulation
-36878	36880	GO:0009987	to	cellular process
-36953	36955	GO:0065007	to	biological regulation
-36953	36955	GO:0009987	to	cellular process
-37051	37053	GO:0065007	to	biological regulation
-37051	37053	GO:0009987	to	cellular process
-37995	37997	GO:0065007	To	biological regulation
-37995	37997	GO:0009987	To	cellular process
-38212	38214	GO:0065007	to	biological regulation
-38212	38214	GO:0009987	to	cellular process
-38319	38321	GO:0065007	to	biological regulation
-38319	38321	GO:0009987	to	cellular process
-38357	38359	GO:0065007	to	biological regulation
-38357	38359	GO:0009987	to	cellular process
-38492	38494	GO:0065007	to	biological regulation
-38492	38494	GO:0009987	to	cellular process
-38610	38612	GO:0065007	to	biological regulation
-38610	38612	GO:0009987	to	cellular process
-38636	38638	GO:0065007	to	biological regulation
-38636	38638	GO:0009987	to	cellular process
-38932	38934	GO:0065007	To	biological regulation
-38932	38934	GO:0009987	To	cellular process
-39257	39259	GO:0065007	to	biological regulation
-39257	39259	GO:0009987	to	cellular process
-39362	39377	GO:0008152	gene expression	metabolic process
-39387	39389	GO:0065007	to	biological regulation
-39387	39389	GO:0009987	to	cellular process
-39851	39853	GO:0065007	To	biological regulation
-39851	39853	GO:0009987	To	cellular process
-39924	39934	GO:0043226	chromosome	organelle
-39924	39934	GO:0044422	chromosome	organelle part
-39924	39934	GO:0044464	chromosome	cell part
-39939	39954	GO:0008152	gene expression	metabolic process
-40020	40030	GO:0043226	chromosome	organelle
-40020	40030	GO:0044422	chromosome	organelle part
-40020	40030	GO:0044464	chromosome	cell part
-40149	40151	GO:0065007	to	biological regulation
-40149	40151	GO:0009987	to	cellular process
-40193	40195	GO:0065007	to	biological regulation
-40193	40195	GO:0009987	to	cellular process
-40212	40215	GO:0023046	red	signaling process
-40212	40215	GO:0050896	red	response to stimulus
-40212	40215	GO:0009987	red	cellular process
-40212	40215	GO:0065007	red	biological regulation
-40236	40238	GO:0065007	to	biological regulation
-40236	40238	GO:0009987	to	cellular process
-40285	40287	GO:0065007	to	biological regulation
-40285	40287	GO:0009987	to	cellular process
-40412	40427	GO:0008152	gene expression	metabolic process
-40703	40705	GO:0065007	to	biological regulation
-40703	40705	GO:0009987	to	cellular process
-40738	40740	GO:0065007	to	biological regulation
-40738	40740	GO:0009987	to	cellular process
-41315	41317	GO:0065007	to	biological regulation
-41315	41317	GO:0009987	to	cellular process
-41438	41440	GO:0065007	to	biological regulation
-41438	41440	GO:0009987	to	cellular process
-41526	41528	GO:0065007	to	biological regulation
-41526	41528	GO:0009987	to	cellular process
-41781	41783	GO:0065007	to	biological regulation
-41781	41783	GO:0009987	to	cellular process
-41873	41875	GO:0065007	to	biological regulation
-41873	41875	GO:0009987	to	cellular process
-41873	41875	GO:0065007	to	biological regulation
-41873	41875	GO:0009987	to	cellular process
-42000	42002	GO:0065007	to	biological regulation
-42000	42002	GO:0009987	to	cellular process
-42000	42002	GO:0065007	to	biological regulation
-42000	42002	GO:0009987	to	cellular process
-44008	44023	GO:0008152	gene expression	metabolic process
-44450	44452	GO:0065007	to	biological regulation
-44450	44452	GO:0009987	to	cellular process
-44544	44547	GO:0023046	red	signaling process
-44544	44547	GO:0050896	red	response to stimulus
-44544	44547	GO:0009987	red	cellular process
-44544	44547	GO:0065007	red	biological regulation
-44591	44601	GO:0044464	Chromosome	cell part
-44591	44601	GO:0043226	Chromosome	organelle
-44591	44601	GO:0044422	Chromosome	organelle part
-44631	44642	GO:0044464	Chromosomes	cell part
-44631	44642	GO:0044422	Chromosomes	organelle part
-44631	44642	GO:0043226	Chromosomes	organelle
-44854	44864	GO:0044464	Chromosome	cell part
-44854	44864	GO:0043226	Chromosome	organelle
-44854	44864	GO:0044422	Chromosome	organelle part
-44974	44976	GO:0065007	to	biological regulation
-44974	44976	GO:0009987	to	cellular process
-45123	45125	GO:0065007	to	biological regulation
-45123	45125	GO:0009987	to	cellular process
-45151	45154	GO:0023046	red	signaling process
-45151	45154	GO:0050896	red	response to stimulus
-45151	45154	GO:0009987	red	cellular process
-45151	45154	GO:0065007	red	biological regulation
-45292	45295	GO:0023046	red	signaling process
-45292	45295	GO:0050896	red	response to stimulus
-45292	45295	GO:0009987	red	cellular process
-45292	45295	GO:0065007	red	biological regulation
-45992	45995	GO:0065007	Red	biological regulation
-45992	45995	GO:0009987	Red	cellular process
-45992	45995	GO:0050896	Red	response to stimulus
-45992	45995	GO:0023046	Red	signaling process
-46041	46043	GO:0065007	to	biological regulation
-46041	46043	GO:0009987	to	cellular process
-46459	46469	GO:0044464	Chromosome	cell part
-46459	46469	GO:0043226	Chromosome	organelle
-46459	46469	GO:0044422	Chromosome	organelle part
-46718	46721	GO:0023046	red	signaling process
-46718	46721	GO:0050896	red	response to stimulus
-46718	46721	GO:0009987	red	cellular process
-46718	46721	GO:0065007	red	biological regulation
-48093	48095	GO:0065007	to	biological regulation
-48093	48095	GO:0009987	to	cellular process
-48185	48195	GO:0044464	Chromosome	cell part
-48185	48195	GO:0043226	Chromosome	organelle
-48185	48195	GO:0044422	Chromosome	organelle part
-48213	48223	GO:0044464	Chromosome	cell part
-48213	48223	GO:0043226	Chromosome	organelle
-48213	48223	GO:0044422	Chromosome	organelle part
-48312	48315	GO:0023046	red	signaling process
-48312	48315	GO:0050896	red	response to stimulus
-48312	48315	GO:0009987	red	cellular process
-48312	48315	GO:0065007	red	biological regulation
-48447	48462	GO:0008152	gene expression	metabolic process
-48859	48861	GO:0065007	to	biological regulation
-48859	48861	GO:0009987	to	cellular process
-48923	48925	GO:0065007	to	biological regulation
-48923	48925	GO:0009987	to	cellular process
-48926	48936	GO:0044464	Chromosome	cell part
-48926	48936	GO:0043226	Chromosome	organelle
-48926	48936	GO:0044422	Chromosome	organelle part
-48955	48965	GO:0044464	Chromosome	cell part
-48955	48965	GO:0043226	Chromosome	organelle
-48955	48965	GO:0044422	Chromosome	organelle part
-49056	49071	GO:0008152	gene expression	metabolic process
-49084	49087	GO:0023046	red	signaling process
-49084	49087	GO:0050896	red	response to stimulus
-49084	49087	GO:0009987	red	cellular process
-49084	49087	GO:0065007	red	biological regulation
-49184	49186	GO:0065007	to	biological regulation
-49184	49186	GO:0009987	to	cellular process
-49761	49763	GO:0065007	to	biological regulation
-49761	49763	GO:0009987	to	cellular process
-49796	49798	GO:0065007	to	biological regulation
-49796	49798	GO:0009987	to	cellular process
-49953	49955	GO:0065007	to	biological regulation
-49953	49955	GO:0009987	to	cellular process
-50010	50012	GO:0065007	to	biological regulation
-50010	50012	GO:0009987	to	cellular process
-50029	50031	GO:0065007	to	biological regulation
-50029	50031	GO:0009987	to	cellular process
+35597	35599	GO:0065007	to	biological regulation
+35597	35599	GO:0009987	to	cellular process
+35703	35705	GO:0065007	to	biological regulation
+35703	35705	GO:0009987	to	cellular process
+35748	35750	GO:0065007	to	biological regulation
+35748	35750	GO:0009987	to	cellular process
+35963	35965	GO:0065007	to	biological regulation
+35963	35965	GO:0009987	to	cellular process
+35963	35965	GO:0065007	to	biological regulation
+35963	35965	GO:0009987	to	cellular process
+36250	36252	GO:0065007	to	biological regulation
+36250	36252	GO:0009987	to	cellular process
+36578	36580	GO:0065007	to	biological regulation
+36578	36580	GO:0009987	to	cellular process
+36772	36774	GO:0065007	to	biological regulation
+36772	36774	GO:0009987	to	cellular process
+36994	36996	GO:0065007	to	biological regulation
+36994	36996	GO:0009987	to	cellular process
+37071	37073	GO:0065007	to	biological regulation
+37071	37073	GO:0009987	to	cellular process
+37169	37171	GO:0065007	to	biological regulation
+37169	37171	GO:0009987	to	cellular process
+38113	38115	GO:0065007	To	biological regulation
+38113	38115	GO:0009987	To	cellular process
+38330	38332	GO:0065007	to	biological regulation
+38330	38332	GO:0009987	to	cellular process
+38439	38441	GO:0065007	to	biological regulation
+38439	38441	GO:0009987	to	cellular process
+38477	38479	GO:0065007	to	biological regulation
+38477	38479	GO:0009987	to	cellular process
+38612	38614	GO:0065007	to	biological regulation
+38612	38614	GO:0009987	to	cellular process
+38730	38732	GO:0065007	to	biological regulation
+38730	38732	GO:0009987	to	cellular process
+38756	38758	GO:0065007	to	biological regulation
+38756	38758	GO:0009987	to	cellular process
+39054	39056	GO:0065007	To	biological regulation
+39054	39056	GO:0009987	To	cellular process
+39379	39381	GO:0065007	to	biological regulation
+39379	39381	GO:0009987	to	cellular process
+39484	39499	GO:0008152	gene expression	metabolic process
+39509	39511	GO:0065007	to	biological regulation
+39509	39511	GO:0009987	to	cellular process
+39973	39975	GO:0065007	To	biological regulation
+39973	39975	GO:0009987	To	cellular process
+40046	40056	GO:0043226	chromosome	organelle
+40046	40056	GO:0044422	chromosome	organelle part
+40046	40056	GO:0044464	chromosome	cell part
+40061	40076	GO:0008152	gene expression	metabolic process
+40142	40152	GO:0043226	chromosome	organelle
+40142	40152	GO:0044422	chromosome	organelle part
+40142	40152	GO:0044464	chromosome	cell part
+40271	40273	GO:0065007	to	biological regulation
+40271	40273	GO:0009987	to	cellular process
+40315	40317	GO:0065007	to	biological regulation
+40315	40317	GO:0009987	to	cellular process
+40334	40337	GO:0023046	red	signaling process
+40334	40337	GO:0050896	red	response to stimulus
+40334	40337	GO:0009987	red	cellular process
+40334	40337	GO:0065007	red	biological regulation
+40358	40360	GO:0065007	to	biological regulation
+40358	40360	GO:0009987	to	cellular process
+40407	40409	GO:0065007	to	biological regulation
+40407	40409	GO:0009987	to	cellular process
+40536	40551	GO:0008152	gene expression	metabolic process
+40827	40829	GO:0065007	to	biological regulation
+40827	40829	GO:0009987	to	cellular process
+40862	40864	GO:0065007	to	biological regulation
+40862	40864	GO:0009987	to	cellular process
+41439	41441	GO:0065007	to	biological regulation
+41439	41441	GO:0009987	to	cellular process
+41562	41564	GO:0065007	to	biological regulation
+41562	41564	GO:0009987	to	cellular process
+41650	41652	GO:0065007	to	biological regulation
+41650	41652	GO:0009987	to	cellular process
+41909	41911	GO:0065007	to	biological regulation
+41909	41911	GO:0009987	to	cellular process
+42001	42003	GO:0065007	to	biological regulation
+42001	42003	GO:0009987	to	cellular process
+42001	42003	GO:0065007	to	biological regulation
+42001	42003	GO:0009987	to	cellular process
+42132	42134	GO:0065007	to	biological regulation
+42132	42134	GO:0009987	to	cellular process
+42132	42134	GO:0065007	to	biological regulation
+42132	42134	GO:0009987	to	cellular process
+44182	44197	GO:0008152	gene expression	metabolic process
+44644	44646	GO:0065007	to	biological regulation
+44644	44646	GO:0009987	to	cellular process
+44738	44741	GO:0023046	red	signaling process
+44738	44741	GO:0050896	red	response to stimulus
+44738	44741	GO:0009987	red	cellular process
+44738	44741	GO:0065007	red	biological regulation
+44785	44795	GO:0044464	Chromosome	cell part
+44785	44795	GO:0043226	Chromosome	organelle
+44785	44795	GO:0044422	Chromosome	organelle part
+44825	44836	GO:0044464	Chromosomes	cell part
+44825	44836	GO:0044422	Chromosomes	organelle part
+44825	44836	GO:0043226	Chromosomes	organelle
+45050	45060	GO:0044464	Chromosome	cell part
+45050	45060	GO:0043226	Chromosome	organelle
+45050	45060	GO:0044422	Chromosome	organelle part
+45170	45172	GO:0065007	to	biological regulation
+45170	45172	GO:0009987	to	cellular process
+45319	45321	GO:0065007	to	biological regulation
+45319	45321	GO:0009987	to	cellular process
+45347	45350	GO:0023046	red	signaling process
+45347	45350	GO:0050896	red	response to stimulus
+45347	45350	GO:0009987	red	cellular process
+45347	45350	GO:0065007	red	biological regulation
+45490	45493	GO:0023046	red	signaling process
+45490	45493	GO:0050896	red	response to stimulus
+45490	45493	GO:0009987	red	cellular process
+45490	45493	GO:0065007	red	biological regulation
+46202	46205	GO:0065007	Red	biological regulation
+46202	46205	GO:0009987	Red	cellular process
+46202	46205	GO:0050896	Red	response to stimulus
+46202	46205	GO:0023046	Red	signaling process
+46251	46253	GO:0065007	to	biological regulation
+46251	46253	GO:0009987	to	cellular process
+46677	46687	GO:0044464	Chromosome	cell part
+46677	46687	GO:0043226	Chromosome	organelle
+46677	46687	GO:0044422	Chromosome	organelle part
+46938	46941	GO:0023046	red	signaling process
+46938	46941	GO:0050896	red	response to stimulus
+46938	46941	GO:0009987	red	cellular process
+46938	46941	GO:0065007	red	biological regulation
+48327	48329	GO:0065007	to	biological regulation
+48327	48329	GO:0009987	to	cellular process
+48419	48429	GO:0044464	Chromosome	cell part
+48419	48429	GO:0043226	Chromosome	organelle
+48419	48429	GO:0044422	Chromosome	organelle part
+48447	48457	GO:0044464	Chromosome	cell part
+48447	48457	GO:0043226	Chromosome	organelle
+48447	48457	GO:0044422	Chromosome	organelle part
+48546	48549	GO:0023046	red	signaling process
+48546	48549	GO:0050896	red	response to stimulus
+48546	48549	GO:0009987	red	cellular process
+48546	48549	GO:0065007	red	biological regulation
+48687	48702	GO:0008152	gene expression	metabolic process
+49099	49101	GO:0065007	to	biological regulation
+49099	49101	GO:0009987	to	cellular process
+49163	49165	GO:0065007	to	biological regulation
+49163	49165	GO:0009987	to	cellular process
+49166	49176	GO:0044464	Chromosome	cell part
+49166	49176	GO:0043226	Chromosome	organelle
+49166	49176	GO:0044422	Chromosome	organelle part
+49197	49207	GO:0044464	Chromosome	cell part
+49197	49207	GO:0043226	Chromosome	organelle
+49197	49207	GO:0044422	Chromosome	organelle part
+49298	49313	GO:0008152	gene expression	metabolic process
+49326	49329	GO:0023046	red	signaling process
+49326	49329	GO:0050896	red	response to stimulus
+49326	49329	GO:0009987	red	cellular process
+49326	49329	GO:0065007	red	biological regulation
+49426	49428	GO:0065007	to	biological regulation
+49426	49428	GO:0009987	to	cellular process
+50027	50029	GO:0065007	to	biological regulation
+50027	50029	GO:0009987	to	cellular process
+50062	50064	GO:0065007	to	biological regulation
+50062	50064	GO:0009987	to	cellular process
+50221	50223	GO:0065007	to	biological regulation
+50221	50223	GO:0009987	to	cellular process
+50278	50280	GO:0065007	to	biological regulation
+50278	50280	GO:0009987	to	cellular process
+50297	50299	GO:0065007	to	biological regulation
+50297	50299	GO:0009987	to	cellular process

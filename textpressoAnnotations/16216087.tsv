@@ -3,995 +3,995 @@ StartIndex	EndIndex	GO:ID	Term	OntologyTerm
 52	58	GO:0050896	Memory	response to stimulus
 103	105	GO:0065007	to	biological regulation
 103	105	GO:0009987	to	cellular process
-275	283	GO:0050896	learning	response to stimulus
-275	283	GO:0032501	learning	multicellular organismal process
-289	295	GO:0050896	memory	response to stimulus
-289	295	GO:0032501	memory	multicellular organismal process
-365	383	GO:0050896	olfactory behavior	response to stimulus
-375	383	GO:0050896	behavior	response to stimulus
-502	504	GO:0065007	to	biological regulation
-502	504	GO:0009987	to	cellular process
-667	675	GO:0050896	learning	response to stimulus
-667	675	GO:0032501	learning	multicellular organismal process
-690	710	GO:0050896	operant conditioning	response to stimulus
-690	710	GO:0032501	operant conditioning	multicellular organismal process
-727	733	GO:0050896	memory	response to stimulus
-727	733	GO:0032501	memory	multicellular organismal process
-904	910	GO:0050896	memory	response to stimulus
-904	910	GO:0032501	memory	multicellular organismal process
-951	957	GO:0050896	memory	response to stimulus
-951	957	GO:0032501	memory	multicellular organismal process
-1013	1015	GO:0065007	to	biological regulation
-1013	1015	GO:0009987	to	cellular process
-1193	1201	GO:0050896	behavior	response to stimulus
-1282	1300	GO:0032501	olfactory learning	multicellular organismal process
-1282	1300	GO:0050896	olfactory learning	response to stimulus
-1292	1300	GO:0050896	learning	response to stimulus
-1292	1300	GO:0032501	learning	multicellular organismal process
-1322	1328	GO:0050896	memory	response to stimulus
-1322	1328	GO:0032501	memory	multicellular organismal process
-1358	1372	GO:0032501	sense of smell	multicellular organismal process
-1480	1486	GO:0050896	memory	response to stimulus
-1480	1486	GO:0032501	memory	multicellular organismal process
-1505	1507	GO:0065007	to	biological regulation
-1505	1507	GO:0009987	to	cellular process
-1690	1699	GO:0008152	formation	metabolic process
-1725	1731	GO:0050896	memory	response to stimulus
-1725	1731	GO:0032501	memory	multicellular organismal process
-1783	1785	GO:0065007	to	biological regulation
-1783	1785	GO:0009987	to	cellular process
-1948	1954	GO:0050896	memory	response to stimulus
-1948	1954	GO:0032501	memory	multicellular organismal process
-2140	2146	GO:0050896	memory	response to stimulus
-2140	2146	GO:0032501	memory	multicellular organismal process
-2154	2156	GO:0065007	to	biological regulation
-2154	2156	GO:0009987	to	cellular process
-2212	2214	GO:0065007	to	biological regulation
-2212	2214	GO:0009987	to	cellular process
-2429	2431	GO:0065007	to	biological regulation
-2429	2431	GO:0009987	to	cellular process
-2442	2444	GO:0065007	to	biological regulation
-2442	2444	GO:0009987	to	cellular process
-2469	2471	GO:0065007	to	biological regulation
-2469	2471	GO:0009987	to	cellular process
-2852	2860	GO:0045202	synapses	synapse
-2890	2897	GO:0065007	neurons	biological regulation
-2890	2897	GO:0016265	neurons	death
-2890	2897	GO:0009987	neurons	cellular process
-2906	2911	GO:0005623	cells	cell
-2934	2941	GO:0065007	neurons	biological regulation
-2934	2941	GO:0016265	neurons	death
-2934	2941	GO:0009987	neurons	cellular process
-2951	2956	GO:0005623	cells	cell
-2999	3007	GO:0045202	synapses	synapse
-3153	3166	GO:0023052	glutamatergic	signaling
-3153	3166	GO:0065007	glutamatergic	biological regulation
-3153	3166	GO:0009987	glutamatergic	cellular process
-3395	3401	GO:0050896	memory	response to stimulus
-3395	3401	GO:0032501	memory	multicellular organismal process
-3441	3458	GO:0009987	neurotransmission	cellular process
-3441	3458	GO:0023046	neurotransmission	signaling process
-3441	3458	GO:0065007	neurotransmission	biological regulation
-3441	3458	GO:0051234	neurotransmission	establishment of localization
-3525	3527	GO:0065007	to	biological regulation
-3525	3527	GO:0009987	to	cellular process
-3550	3552	GO:0065007	to	biological regulation
-3550	3552	GO:0009987	to	cellular process
-3762	3764	GO:0065007	to	biological regulation
-3762	3764	GO:0009987	to	cellular process
-3940	3949	GO:0008152	formation	metabolic process
-4118	4125	GO:0065007	neurons	biological regulation
-4118	4125	GO:0016265	neurons	death
-4118	4125	GO:0009987	neurons	cellular process
-4160	4162	GO:0065007	to	biological regulation
-4160	4162	GO:0009987	to	cellular process
-4225	4234	GO:0003824	glutamine	catalytic activity
-4456	4465	GO:0003824	glutamine	catalytic activity
-4510	4512	GO:0065007	to	biological regulation
-4510	4512	GO:0009987	to	cellular process
-4745	4750	GO:0005623	cells	cell
-4885	4906	GO:0009987	synaptic transmission	cellular process
-4885	4906	GO:0023052	synaptic transmission	signaling
-5016	5018	GO:0065007	to	biological regulation
-5016	5018	GO:0009987	to	cellular process
-5366	5374	GO:0050896	behavior	response to stimulus
-5535	5537	GO:0065007	to	biological regulation
-5535	5537	GO:0009987	to	cellular process
-6490	6508	GO:0050896	olfactory behavior	response to stimulus
-6500	6508	GO:0050896	behavior	response to stimulus
-6509	6511	GO:0065007	To	biological regulation
-6509	6511	GO:0009987	To	cellular process
-6552	6570	GO:0032501	olfactory learning	multicellular organismal process
-6552	6570	GO:0050896	olfactory learning	response to stimulus
-6562	6570	GO:0050896	learning	response to stimulus
-6562	6570	GO:0032501	learning	multicellular organismal process
-6592	6598	GO:0050896	memory	response to stimulus
-6592	6598	GO:0032501	memory	multicellular organismal process
-7191	7197	GO:0050896	memory	response to stimulus
-7191	7197	GO:0032501	memory	multicellular organismal process
-7209	7211	GO:0065007	to	biological regulation
-7209	7211	GO:0009987	to	cellular process
-7209	7211	GO:0065007	to	biological regulation
-7209	7211	GO:0009987	to	cellular process
-7536	7544	GO:0050896	learning	response to stimulus
-7536	7544	GO:0032501	learning	multicellular organismal process
-7566	7572	GO:0050896	memory	response to stimulus
-7566	7572	GO:0032501	memory	multicellular organismal process
-7638	7646	GO:0050896	Learning	response to stimulus
-7638	7646	GO:0032501	Learning	multicellular organismal process
-7665	7667	GO:0065007	To	biological regulation
-7665	7667	GO:0009987	To	cellular process
-7704	7721	GO:0009987	neurotransmission	cellular process
-7704	7721	GO:0023046	neurotransmission	signaling process
-7704	7721	GO:0065007	neurotransmission	biological regulation
-7704	7721	GO:0051234	neurotransmission	establishment of localization
-7773	7775	GO:0065007	to	biological regulation
-7773	7775	GO:0009987	to	cellular process
-8270	8272	GO:0065007	To	biological regulation
-8270	8272	GO:0009987	To	cellular process
-8524	8531	GO:0065007	neurons	biological regulation
-8524	8531	GO:0016265	neurons	death
-8524	8531	GO:0009987	neurons	cellular process
-8566	8568	GO:0065007	to	biological regulation
-8566	8568	GO:0009987	to	cellular process
-8924	8926	GO:0065007	to	biological regulation
-8924	8926	GO:0009987	to	cellular process
-9115	9117	GO:0065007	to	biological regulation
-9115	9117	GO:0009987	to	cellular process
-9227	9229	GO:0065007	to	biological regulation
-9227	9229	GO:0009987	to	cellular process
-9227	9229	GO:0065007	to	biological regulation
-9227	9229	GO:0009987	to	cellular process
-9670	9678	GO:0050896	learning	response to stimulus
-9670	9678	GO:0032501	learning	multicellular organismal process
-9822	9824	GO:0065007	to	biological regulation
-9822	9824	GO:0009987	to	cellular process
-9849	9857	GO:0050896	learning	response to stimulus
-9849	9857	GO:0032501	learning	multicellular organismal process
-9983	9987	GO:0032502	head	developmental process
-10085	10089	GO:0032502	head	developmental process
-10200	10204	GO:0032502	head	developmental process
-10238	10241	GO:0023046	red	signaling process
-10238	10241	GO:0050896	red	response to stimulus
-10238	10241	GO:0009987	red	cellular process
-10238	10241	GO:0065007	red	biological regulation
-10419	10421	GO:0065007	to	biological regulation
-10419	10421	GO:0009987	to	cellular process
-10630	10632	GO:0065007	to	biological regulation
-10630	10632	GO:0009987	to	cellular process
-10976	10984	GO:0050896	learning	response to stimulus
-10976	10984	GO:0032501	learning	multicellular organismal process
-11092	11094	GO:0065007	To	biological regulation
-11092	11094	GO:0009987	To	cellular process
-11117	11135	GO:0032501	olfactory learning	multicellular organismal process
-11117	11135	GO:0050896	olfactory learning	response to stimulus
-11127	11135	GO:0050896	learning	response to stimulus
-11127	11135	GO:0032501	learning	multicellular organismal process
-11705	11712	GO:0009987	reduced	cellular process
-11705	11712	GO:0008152	reduced	metabolic process
-11705	11712	GO:0005215	reduced	transporter activity
-11705	11712	GO:0051234	reduced	establishment of localization
-11713	11715	GO:0065007	to	biological regulation
-11713	11715	GO:0009987	to	cellular process
-11807	11809	GO:0065007	to	biological regulation
-11807	11809	GO:0009987	to	cellular process
-11841	11843	GO:0065007	to	biological regulation
-11841	11843	GO:0009987	to	cellular process
-11987	11989	GO:0065007	to	biological regulation
-11987	11989	GO:0009987	to	cellular process
-12229	12231	GO:0065007	to	biological regulation
-12229	12231	GO:0009987	to	cellular process
-13534	13542	GO:0050896	learning	response to stimulus
-13534	13542	GO:0032501	learning	multicellular organismal process
-13592	13594	GO:0065007	to	biological regulation
-13592	13594	GO:0009987	to	cellular process
-13783	13785	GO:0065007	To	biological regulation
-13783	13785	GO:0009987	To	cellular process
-13825	13834	GO:0032501	olfaction	multicellular organismal process
-13940	13951	GO:0032501	habituation	multicellular organismal process
-13940	13951	GO:0050896	habituation	response to stimulus
-13993	13995	GO:0065007	to	biological regulation
-13993	13995	GO:0009987	to	cellular process
-14327	14329	GO:0065007	to	biological regulation
-14327	14329	GO:0009987	to	cellular process
-14381	14389	GO:0050896	learning	response to stimulus
-14381	14389	GO:0032501	learning	multicellular organismal process
-14534	14536	GO:0065007	to	biological regulation
-14534	14536	GO:0009987	to	cellular process
-14671	14673	GO:0065007	to	biological regulation
-14671	14673	GO:0009987	to	cellular process
-15418	15420	GO:0065007	to	biological regulation
-15418	15420	GO:0009987	to	cellular process
-15421	15428	GO:0009987	reduced	cellular process
-15421	15428	GO:0008152	reduced	metabolic process
-15421	15428	GO:0005215	reduced	transporter activity
-15421	15428	GO:0051234	reduced	establishment of localization
-15594	15612	GO:0032501	olfactory learning	multicellular organismal process
-15594	15612	GO:0050896	olfactory learning	response to stimulus
-15604	15612	GO:0050896	learning	response to stimulus
-15604	15612	GO:0032501	learning	multicellular organismal process
-15684	15686	GO:0065007	To	biological regulation
-15684	15686	GO:0009987	To	cellular process
-15694	15703	GO:0032501	olfaction	multicellular organismal process
-15812	15820	GO:0050896	learning	response to stimulus
-15812	15820	GO:0032501	learning	multicellular organismal process
-16039	16041	GO:0065007	to	biological regulation
-16039	16041	GO:0009987	to	cellular process
-16039	16041	GO:0065007	to	biological regulation
-16039	16041	GO:0009987	to	cellular process
-16103	16117	GO:0032501	sense of smell	multicellular organismal process
-16139	16141	GO:0065007	to	biological regulation
-16139	16141	GO:0009987	to	cellular process
-16597	16599	GO:0065007	to	biological regulation
-16597	16599	GO:0009987	to	cellular process
-16609	16627	GO:0032501	olfactory learning	multicellular organismal process
-16609	16627	GO:0050896	olfactory learning	response to stimulus
-16619	16627	GO:0050896	learning	response to stimulus
-16619	16627	GO:0032501	learning	multicellular organismal process
-16657	16663	GO:0032501	Memory	multicellular organismal process
-16657	16663	GO:0050896	Memory	response to stimulus
-16728	16730	GO:0065007	To	biological regulation
-16728	16730	GO:0009987	To	cellular process
-16795	16813	GO:0050896	olfactory behavior	response to stimulus
-16805	16813	GO:0050896	behavior	response to stimulus
-16882	16888	GO:0050896	memory	response to stimulus
-16882	16888	GO:0032501	memory	multicellular organismal process
-16890	16892	GO:0065007	To	biological regulation
-16890	16892	GO:0009987	To	cellular process
-16909	16915	GO:0050896	memory	response to stimulus
-16909	16915	GO:0032501	memory	multicellular organismal process
-17293	17295	GO:0065007	to	biological regulation
-17293	17295	GO:0009987	to	cellular process
-17326	17332	GO:0050896	memory	response to stimulus
-17326	17332	GO:0032501	memory	multicellular organismal process
-17397	17404	GO:0009987	reduced	cellular process
-17397	17404	GO:0008152	reduced	metabolic process
-17397	17404	GO:0005215	reduced	transporter activity
-17397	17404	GO:0051234	reduced	establishment of localization
-17415	17421	GO:0050896	memory	response to stimulus
-17415	17421	GO:0032501	memory	multicellular organismal process
-17469	17471	GO:0065007	to	biological regulation
-17469	17471	GO:0009987	to	cellular process
-17487	17495	GO:0050896	learning	response to stimulus
-17487	17495	GO:0032501	learning	multicellular organismal process
-17568	17574	GO:0050896	memory	response to stimulus
-17568	17574	GO:0032501	memory	multicellular organismal process
-17568	17574	GO:0050896	memory	response to stimulus
-17568	17574	GO:0032501	memory	multicellular organismal process
-17815	17817	GO:0065007	to	biological regulation
-17815	17817	GO:0009987	to	cellular process
-17824	17830	GO:0050896	memory	response to stimulus
-17824	17830	GO:0032501	memory	multicellular organismal process
-17897	17904	GO:0009987	reduced	cellular process
-17897	17904	GO:0008152	reduced	metabolic process
-17897	17904	GO:0005215	reduced	transporter activity
-17897	17904	GO:0051234	reduced	establishment of localization
-17948	17950	GO:0065007	to	biological regulation
-17948	17950	GO:0009987	to	cellular process
-17993	17999	GO:0050896	memory	response to stimulus
-17993	17999	GO:0032501	memory	multicellular organismal process
-18064	18070	GO:0050896	memory	response to stimulus
-18064	18070	GO:0032501	memory	multicellular organismal process
-18178	18184	GO:0050896	memory	response to stimulus
-18178	18184	GO:0032501	memory	multicellular organismal process
-18216	18225	GO:0032501	olfaction	multicellular organismal process
-18258	18260	GO:0065007	to	biological regulation
-18258	18260	GO:0009987	to	cellular process
-18321	18329	GO:0050896	learning	response to stimulus
-18321	18329	GO:0032501	learning	multicellular organismal process
-18330	18338	GO:0050896	behavior	response to stimulus
-18398	18404	GO:0050896	memory	response to stimulus
-18398	18404	GO:0032501	memory	multicellular organismal process
-18566	18572	GO:0050896	memory	response to stimulus
-18566	18572	GO:0032501	memory	multicellular organismal process
-18728	18730	GO:0065007	to	biological regulation
-18728	18730	GO:0009987	to	cellular process
-18945	18947	GO:0065007	to	biological regulation
-18945	18947	GO:0009987	to	cellular process
-19231	19241	GO:0065007	epigenetic	biological regulation
-19310	19316	GO:0050896	memory	response to stimulus
-19310	19316	GO:0032501	memory	multicellular organismal process
-19484	19490	GO:0050896	memory	response to stimulus
-19484	19490	GO:0032501	memory	multicellular organismal process
-19513	19515	GO:0065007	to	biological regulation
-19513	19515	GO:0009987	to	cellular process
-19587	19593	GO:0032501	Memory	multicellular organismal process
-19587	19593	GO:0050896	Memory	response to stimulus
-19626	19633	GO:0003824	Protein	catalytic activity
-19668	19670	GO:0065007	to	biological regulation
-19668	19670	GO:0009987	to	cellular process
-19727	19733	GO:0050896	memory	response to stimulus
-19727	19733	GO:0032501	memory	multicellular organismal process
-19863	19870	GO:0003824	protein	catalytic activity
-19894	19900	GO:0050896	memory	response to stimulus
-19894	19900	GO:0032501	memory	multicellular organismal process
-19959	19965	GO:0050896	memory	response to stimulus
-19959	19965	GO:0032501	memory	multicellular organismal process
-19959	19965	GO:0050896	memory	response to stimulus
-19959	19965	GO:0032501	memory	multicellular organismal process
-20030	20037	GO:0003824	protein	catalytic activity
-20172	20178	GO:0050896	memory	response to stimulus
-20172	20178	GO:0032501	memory	multicellular organismal process
-20297	20299	GO:0065007	To	biological regulation
-20297	20299	GO:0009987	To	cellular process
-20346	20353	GO:0003824	protein	catalytic activity
-20368	20374	GO:0050896	memory	response to stimulus
-20368	20374	GO:0032501	memory	multicellular organismal process
-20368	20374	GO:0050896	memory	response to stimulus
-20368	20374	GO:0032501	memory	multicellular organismal process
-20380	20386	GO:0050896	memory	response to stimulus
-20380	20386	GO:0032501	memory	multicellular organismal process
-20657	20664	GO:0003824	protein	catalytic activity
-20760	20767	GO:0003824	protein	catalytic activity
-20974	20982	GO:0050896	learning	response to stimulus
-20974	20982	GO:0032501	learning	multicellular organismal process
-21044	21051	GO:0003824	protein	catalytic activity
-21111	21117	GO:0050896	memory	response to stimulus
-21111	21117	GO:0032501	memory	multicellular organismal process
-21129	21136	GO:0003824	protein	catalytic activity
-21329	21331	GO:0065007	to	biological regulation
-21329	21331	GO:0009987	to	cellular process
-21596	21603	GO:0009987	reduced	cellular process
-21596	21603	GO:0008152	reduced	metabolic process
-21596	21603	GO:0005215	reduced	transporter activity
-21596	21603	GO:0051234	reduced	establishment of localization
-21664	21670	GO:0050896	memory	response to stimulus
-21664	21670	GO:0032501	memory	multicellular organismal process
-21784	21792	GO:0050896	learning	response to stimulus
-21784	21792	GO:0032501	learning	multicellular organismal process
-21886	21888	GO:0065007	to	biological regulation
-21886	21888	GO:0009987	to	cellular process
-22007	22015	GO:0050896	learning	response to stimulus
-22007	22015	GO:0032501	learning	multicellular organismal process
-22117	22119	GO:0065007	to	biological regulation
-22117	22119	GO:0009987	to	cellular process
-22205	22211	GO:0050896	memory	response to stimulus
-22205	22211	GO:0032501	memory	multicellular organismal process
-22217	22235	GO:0032501	olfactory learning	multicellular organismal process
-22217	22235	GO:0050896	olfactory learning	response to stimulus
-22227	22235	GO:0050896	learning	response to stimulus
-22227	22235	GO:0032501	learning	multicellular organismal process
-22312	22318	GO:0032501	Memory	multicellular organismal process
-22312	22318	GO:0050896	Memory	response to stimulus
-22543	22545	GO:0065007	to	biological regulation
-22543	22545	GO:0009987	to	cellular process
-22597	22603	GO:0050896	memory	response to stimulus
-22597	22603	GO:0032501	memory	multicellular organismal process
-22619	22625	GO:0050896	memory	response to stimulus
-22619	22625	GO:0032501	memory	multicellular organismal process
-22649	22651	GO:0065007	to	biological regulation
-22649	22651	GO:0009987	to	cellular process
-22717	22725	GO:0050896	learning	response to stimulus
-22717	22725	GO:0032501	learning	multicellular organismal process
-22828	22830	GO:0065007	To	biological regulation
-22828	22830	GO:0009987	To	cellular process
-23006	23013	GO:0003824	protein	catalytic activity
-23266	23272	GO:0050896	memory	response to stimulus
-23266	23272	GO:0032501	memory	multicellular organismal process
-23490	23492	GO:0065007	to	biological regulation
-23490	23492	GO:0009987	to	cellular process
-23536	23538	GO:0065007	to	biological regulation
-23536	23538	GO:0009987	to	cellular process
-24138	24143	GO:0005623	cells	cell
-24303	24309	GO:0050896	memory	response to stimulus
-24303	24309	GO:0032501	memory	multicellular organismal process
-24474	24480	GO:0032501	Memory	multicellular organismal process
-24474	24480	GO:0050896	Memory	response to stimulus
-24673	24679	GO:0050896	memory	response to stimulus
-24673	24679	GO:0032501	memory	multicellular organismal process
-24815	24821	GO:0050896	memory	response to stimulus
-24815	24821	GO:0032501	memory	multicellular organismal process
-24911	24917	GO:0050896	memory	response to stimulus
-24911	24917	GO:0032501	memory	multicellular organismal process
-24937	24943	GO:0050896	memory	response to stimulus
-24937	24943	GO:0032501	memory	multicellular organismal process
-24964	24966	GO:0065007	to	biological regulation
-24964	24966	GO:0009987	to	cellular process
-25071	25073	GO:0065007	to	biological regulation
-25071	25073	GO:0009987	to	cellular process
-25174	25180	GO:0050896	memory	response to stimulus
-25174	25180	GO:0032501	memory	multicellular organismal process
-25377	25379	GO:0065007	to	biological regulation
-25377	25379	GO:0009987	to	cellular process
-25401	25407	GO:0050896	memory	response to stimulus
-25401	25407	GO:0032501	memory	multicellular organismal process
-25483	25489	GO:0050896	memory	response to stimulus
-25483	25489	GO:0032501	memory	multicellular organismal process
-25667	25674	GO:0003824	protein	catalytic activity
-25721	25728	GO:0003824	protein	catalytic activity
-25755	25761	GO:0050896	memory	response to stimulus
-25755	25761	GO:0032501	memory	multicellular organismal process
-25806	25812	GO:0050896	memory	response to stimulus
-25806	25812	GO:0032501	memory	multicellular organismal process
-25859	25865	GO:0050896	memory	response to stimulus
-25859	25865	GO:0032501	memory	multicellular organismal process
-26008	26014	GO:0050896	memory	response to stimulus
-26008	26014	GO:0032501	memory	multicellular organismal process
-26035	26042	GO:0003824	protein	catalytic activity
-26172	26174	GO:0065007	to	biological regulation
-26172	26174	GO:0009987	to	cellular process
-26194	26200	GO:0050896	memory	response to stimulus
-26194	26200	GO:0032501	memory	multicellular organismal process
-26374	26381	GO:0003824	protein	catalytic activity
-26658	26660	GO:0065007	to	biological regulation
-26658	26660	GO:0009987	to	cellular process
-26841	26843	GO:0065007	to	biological regulation
-26841	26843	GO:0009987	to	cellular process
-27099	27105	GO:0050896	memory	response to stimulus
-27099	27105	GO:0032501	memory	multicellular organismal process
-27163	27171	GO:0050896	learning	response to stimulus
-27163	27171	GO:0032501	learning	multicellular organismal process
-27273	27281	GO:0050896	learning	response to stimulus
-27273	27281	GO:0032501	learning	multicellular organismal process
-27287	27293	GO:0050896	memory	response to stimulus
-27287	27293	GO:0032501	memory	multicellular organismal process
-27373	27375	GO:0065007	to	biological regulation
-27373	27375	GO:0009987	to	cellular process
-27471	27478	GO:0065007	neurons	biological regulation
-27471	27478	GO:0016265	neurons	death
-27471	27478	GO:0009987	neurons	cellular process
-27543	27548	GO:0005623	cells	cell
-27588	27596	GO:0050896	learning	response to stimulus
-27588	27596	GO:0032501	learning	multicellular organismal process
-27619	27625	GO:0050896	memory	response to stimulus
-27619	27625	GO:0032501	memory	multicellular organismal process
-27643	27662	GO:0050896	olfactory behaviors	response to stimulus
-27653	27662	GO:0050896	behaviors	response to stimulus
-27691	27711	GO:0050896	operant conditioning	response to stimulus
-27691	27711	GO:0032501	operant conditioning	multicellular organismal process
-27865	27871	GO:0050896	memory	response to stimulus
-27865	27871	GO:0032501	memory	multicellular organismal process
-27949	27951	GO:0065007	to	biological regulation
-27949	27951	GO:0009987	to	cellular process
-27952	27962	GO:0065007	epigenetic	biological regulation
-28196	28198	GO:0065007	to	biological regulation
-28196	28198	GO:0009987	to	cellular process
-28276	28282	GO:0050896	memory	response to stimulus
-28276	28282	GO:0032501	memory	multicellular organismal process
-28313	28321	GO:0050896	learning	response to stimulus
-28313	28321	GO:0032501	learning	multicellular organismal process
-28633	28639	GO:0050896	memory	response to stimulus
-28633	28639	GO:0032501	memory	multicellular organismal process
-28633	28639	GO:0050896	memory	response to stimulus
-28633	28639	GO:0032501	memory	multicellular organismal process
-28686	28688	GO:0065007	to	biological regulation
-28686	28688	GO:0009987	to	cellular process
-29186	29204	GO:0032501	olfactory learning	multicellular organismal process
-29186	29204	GO:0050896	olfactory learning	response to stimulus
-29196	29204	GO:0050896	learning	response to stimulus
-29196	29204	GO:0032501	learning	multicellular organismal process
-29371	29373	GO:0065007	to	biological regulation
-29371	29373	GO:0009987	to	cellular process
-29448	29454	GO:0065007	global	biological regulation
-29674	29676	GO:0065007	to	biological regulation
-29674	29676	GO:0009987	to	cellular process
-29976	29984	GO:0050896	learning	response to stimulus
-29976	29984	GO:0032501	learning	multicellular organismal process
-30156	30164	GO:0050896	learning	response to stimulus
-30156	30164	GO:0032501	learning	multicellular organismal process
-30215	30221	GO:0050896	memory	response to stimulus
-30215	30221	GO:0032501	memory	multicellular organismal process
-30318	30325	GO:0065007	neurons	biological regulation
-30318	30325	GO:0016265	neurons	death
-30318	30325	GO:0009987	neurons	cellular process
-30392	30394	GO:0065007	to	biological regulation
-30392	30394	GO:0009987	to	cellular process
-31060	31068	GO:0050896	learning	response to stimulus
-31060	31068	GO:0032501	learning	multicellular organismal process
-31275	31283	GO:0050896	Learning	response to stimulus
-31275	31283	GO:0032501	Learning	multicellular organismal process
-31329	31336	GO:0065007	neurons	biological regulation
-31329	31336	GO:0016265	neurons	death
-31329	31336	GO:0009987	neurons	cellular process
-31375	31377	GO:0065007	to	biological regulation
-31375	31377	GO:0009987	to	cellular process
-31490	31498	GO:0050896	learning	response to stimulus
-31490	31498	GO:0032501	learning	multicellular organismal process
-31731	31739	GO:0050896	learning	response to stimulus
-31731	31739	GO:0032501	learning	multicellular organismal process
-31847	31855	GO:0050896	learning	response to stimulus
-31847	31855	GO:0032501	learning	multicellular organismal process
-31883	31890	GO:0003824	protein	catalytic activity
-31914	31916	GO:0065007	to	biological regulation
-31914	31916	GO:0009987	to	cellular process
-31950	31958	GO:0050896	learning	response to stimulus
-31950	31958	GO:0032501	learning	multicellular organismal process
-31982	31988	GO:0050896	memory	response to stimulus
-31982	31988	GO:0032501	memory	multicellular organismal process
-32102	32108	GO:0009987	direct	cellular process
-32102	32108	GO:0008152	direct	metabolic process
-32122	32124	GO:0065007	to	biological regulation
-32122	32124	GO:0009987	to	cellular process
-32203	32205	GO:0065007	to	biological regulation
-32203	32205	GO:0009987	to	cellular process
-32288	32296	GO:0050896	learning	response to stimulus
-32288	32296	GO:0032501	learning	multicellular organismal process
-32521	32528	GO:0009987	reduced	cellular process
-32521	32528	GO:0008152	reduced	metabolic process
-32521	32528	GO:0005215	reduced	transporter activity
-32521	32528	GO:0051234	reduced	establishment of localization
-32578	32580	GO:0065007	to	biological regulation
-32578	32580	GO:0009987	to	cellular process
-32740	32744	GO:0005623	cell	cell
-32837	32845	GO:0045202	synapses	synapse
-32858	32865	GO:0009987	reduced	cellular process
-32858	32865	GO:0008152	reduced	metabolic process
-32858	32865	GO:0005215	reduced	transporter activity
-32858	32865	GO:0051234	reduced	establishment of localization
-33114	33122	GO:0050896	learning	response to stimulus
-33114	33122	GO:0032501	learning	multicellular organismal process
-33198	33200	GO:0065007	to	biological regulation
-33198	33200	GO:0009987	to	cellular process
-33201	33208	GO:0009987	reduced	cellular process
-33201	33208	GO:0008152	reduced	metabolic process
-33201	33208	GO:0005215	reduced	transporter activity
-33201	33208	GO:0051234	reduced	establishment of localization
-33228	33236	GO:0045202	synapses	synapse
-33268	33270	GO:0065007	to	biological regulation
-33268	33270	GO:0009987	to	cellular process
-33476	33483	GO:0065007	neurons	biological regulation
-33476	33483	GO:0016265	neurons	death
-33476	33483	GO:0009987	neurons	cellular process
-33661	33668	GO:0045202	synapse	synapse
-33696	33701	GO:0005623	cells	cell
-33714	33716	GO:0065007	to	biological regulation
-33714	33716	GO:0009987	to	cellular process
-33714	33716	GO:0065007	to	biological regulation
-33714	33716	GO:0009987	to	cellular process
-33771	33773	GO:0065007	to	biological regulation
-33771	33773	GO:0009987	to	cellular process
-34000	34007	GO:0065007	neurons	biological regulation
-34000	34007	GO:0016265	neurons	death
-34000	34007	GO:0009987	neurons	cellular process
-34054	34056	GO:0065007	to	biological regulation
-34054	34056	GO:0009987	to	cellular process
-34180	34182	GO:0065007	to	biological regulation
-34180	34182	GO:0009987	to	cellular process
-34784	34792	GO:0050896	learning	response to stimulus
-34784	34792	GO:0032501	learning	multicellular organismal process
-35022	35028	GO:0009987	direct	cellular process
-35022	35028	GO:0008152	direct	metabolic process
-35298	35311	GO:0044464	intracellular	cell part
-35298	35311	GO:0051179	intracellular	localization
-35298	35311	GO:0009987	intracellular	cellular process
-35335	35341	GO:0032501	Memory	multicellular organismal process
-35335	35341	GO:0050896	Memory	response to stimulus
-35345	35352	GO:0005215	Reduced	transporter activity
-35345	35352	GO:0008152	Reduced	metabolic process
-35345	35352	GO:0009987	Reduced	cellular process
-35345	35352	GO:0051234	Reduced	establishment of localization
-35445	35447	GO:0065007	To	biological regulation
-35445	35447	GO:0009987	To	cellular process
-35465	35471	GO:0050896	memory	response to stimulus
-35465	35471	GO:0032501	memory	multicellular organismal process
-35682	35688	GO:0050896	memory	response to stimulus
-35682	35688	GO:0032501	memory	multicellular organismal process
-35751	35757	GO:0032501	Memory	multicellular organismal process
-35751	35757	GO:0050896	Memory	response to stimulus
-35839	35841	GO:0065007	to	biological regulation
-35839	35841	GO:0009987	to	cellular process
-35894	35896	GO:0065007	to	biological regulation
-35894	35896	GO:0009987	to	cellular process
-35901	35907	GO:0050896	memory	response to stimulus
-35901	35907	GO:0032501	memory	multicellular organismal process
-36001	36008	GO:0005215	Reduced	transporter activity
-36001	36008	GO:0008152	Reduced	metabolic process
-36001	36008	GO:0009987	Reduced	cellular process
-36001	36008	GO:0051234	Reduced	establishment of localization
-36019	36025	GO:0050896	memory	response to stimulus
-36019	36025	GO:0032501	memory	multicellular organismal process
-36060	36062	GO:0065007	to	biological regulation
-36060	36062	GO:0009987	to	cellular process
-36168	36170	GO:0065007	to	biological regulation
-36168	36170	GO:0009987	to	cellular process
-36192	36198	GO:0050896	memory	response to stimulus
-36192	36198	GO:0032501	memory	multicellular organismal process
-36375	36381	GO:0050896	memory	response to stimulus
-36375	36381	GO:0032501	memory	multicellular organismal process
-36406	36412	GO:0050896	memory	response to stimulus
-36406	36412	GO:0032501	memory	multicellular organismal process
-36487	36493	GO:0050896	memory	response to stimulus
-36487	36493	GO:0032501	memory	multicellular organismal process
-36487	36493	GO:0050896	memory	response to stimulus
-36487	36493	GO:0032501	memory	multicellular organismal process
-36834	36842	GO:0050896	learning	response to stimulus
-36834	36842	GO:0032501	learning	multicellular organismal process
-36856	36858	GO:0065007	To	biological regulation
-36856	36858	GO:0009987	To	cellular process
-36887	36895	GO:0050896	learning	response to stimulus
-36887	36895	GO:0032501	learning	multicellular organismal process
-36901	36907	GO:0050896	memory	response to stimulus
-36901	36907	GO:0032501	memory	multicellular organismal process
-37191	37199	GO:0050896	learning	response to stimulus
-37191	37199	GO:0032501	learning	multicellular organismal process
-37231	37237	GO:0050896	memory	response to stimulus
-37231	37237	GO:0032501	memory	multicellular organismal process
-37255	37261	GO:0009987	direct	cellular process
-37255	37261	GO:0008152	direct	metabolic process
-37354	37360	GO:0050896	memory	response to stimulus
-37354	37360	GO:0032501	memory	multicellular organismal process
-37399	37406	GO:0065007	neurons	biological regulation
-37399	37406	GO:0016265	neurons	death
-37399	37406	GO:0009987	neurons	cellular process
-37500	37508	GO:0050896	learning	response to stimulus
-37500	37508	GO:0032501	learning	multicellular organismal process
-37645	37647	GO:0065007	to	biological regulation
-37645	37647	GO:0009987	to	cellular process
-37799	37807	GO:0050896	learning	response to stimulus
-37799	37807	GO:0032501	learning	multicellular organismal process
-37812	37818	GO:0050896	memory	response to stimulus
-37812	37818	GO:0032501	memory	multicellular organismal process
-37812	37818	GO:0050896	memory	response to stimulus
-37812	37818	GO:0032501	memory	multicellular organismal process
-37919	37925	GO:0050896	memory	response to stimulus
-37919	37925	GO:0032501	memory	multicellular organismal process
+279	287	GO:0050896	learning	response to stimulus
+279	287	GO:0032501	learning	multicellular organismal process
+293	299	GO:0050896	memory	response to stimulus
+293	299	GO:0032501	memory	multicellular organismal process
+369	387	GO:0050896	olfactory behavior	response to stimulus
+379	387	GO:0050896	behavior	response to stimulus
+506	508	GO:0065007	to	biological regulation
+506	508	GO:0009987	to	cellular process
+671	679	GO:0050896	learning	response to stimulus
+671	679	GO:0032501	learning	multicellular organismal process
+694	714	GO:0050896	operant conditioning	response to stimulus
+694	714	GO:0032501	operant conditioning	multicellular organismal process
+731	737	GO:0050896	memory	response to stimulus
+731	737	GO:0032501	memory	multicellular organismal process
+908	914	GO:0050896	memory	response to stimulus
+908	914	GO:0032501	memory	multicellular organismal process
+955	961	GO:0050896	memory	response to stimulus
+955	961	GO:0032501	memory	multicellular organismal process
+1017	1019	GO:0065007	to	biological regulation
+1017	1019	GO:0009987	to	cellular process
+1197	1205	GO:0050896	behavior	response to stimulus
+1286	1304	GO:0032501	olfactory learning	multicellular organismal process
+1286	1304	GO:0050896	olfactory learning	response to stimulus
+1296	1304	GO:0050896	learning	response to stimulus
+1296	1304	GO:0032501	learning	multicellular organismal process
+1326	1332	GO:0050896	memory	response to stimulus
+1326	1332	GO:0032501	memory	multicellular organismal process
+1366	1380	GO:0032501	sense of smell	multicellular organismal process
+1488	1494	GO:0050896	memory	response to stimulus
+1488	1494	GO:0032501	memory	multicellular organismal process
+1513	1515	GO:0065007	to	biological regulation
+1513	1515	GO:0009987	to	cellular process
+1698	1707	GO:0008152	formation	metabolic process
+1733	1739	GO:0050896	memory	response to stimulus
+1733	1739	GO:0032501	memory	multicellular organismal process
+1791	1793	GO:0065007	to	biological regulation
+1791	1793	GO:0009987	to	cellular process
+1956	1962	GO:0050896	memory	response to stimulus
+1956	1962	GO:0032501	memory	multicellular organismal process
+2148	2154	GO:0050896	memory	response to stimulus
+2148	2154	GO:0032501	memory	multicellular organismal process
+2162	2164	GO:0065007	to	biological regulation
+2162	2164	GO:0009987	to	cellular process
+2220	2222	GO:0065007	to	biological regulation
+2220	2222	GO:0009987	to	cellular process
+2439	2441	GO:0065007	to	biological regulation
+2439	2441	GO:0009987	to	cellular process
+2452	2454	GO:0065007	to	biological regulation
+2452	2454	GO:0009987	to	cellular process
+2479	2481	GO:0065007	to	biological regulation
+2479	2481	GO:0009987	to	cellular process
+2862	2870	GO:0045202	synapses	synapse
+2900	2907	GO:0065007	neurons	biological regulation
+2900	2907	GO:0016265	neurons	death
+2900	2907	GO:0009987	neurons	cellular process
+2916	2921	GO:0005623	cells	cell
+2944	2951	GO:0065007	neurons	biological regulation
+2944	2951	GO:0016265	neurons	death
+2944	2951	GO:0009987	neurons	cellular process
+2961	2966	GO:0005623	cells	cell
+3009	3017	GO:0045202	synapses	synapse
+3163	3176	GO:0023052	glutamatergic	signaling
+3163	3176	GO:0065007	glutamatergic	biological regulation
+3163	3176	GO:0009987	glutamatergic	cellular process
+3407	3413	GO:0050896	memory	response to stimulus
+3407	3413	GO:0032501	memory	multicellular organismal process
+3453	3470	GO:0009987	neurotransmission	cellular process
+3453	3470	GO:0023046	neurotransmission	signaling process
+3453	3470	GO:0065007	neurotransmission	biological regulation
+3453	3470	GO:0051234	neurotransmission	establishment of localization
+3537	3539	GO:0065007	to	biological regulation
+3537	3539	GO:0009987	to	cellular process
+3562	3564	GO:0065007	to	biological regulation
+3562	3564	GO:0009987	to	cellular process
+3774	3776	GO:0065007	to	biological regulation
+3774	3776	GO:0009987	to	cellular process
+3952	3961	GO:0008152	formation	metabolic process
+4130	4137	GO:0065007	neurons	biological regulation
+4130	4137	GO:0016265	neurons	death
+4130	4137	GO:0009987	neurons	cellular process
+4172	4174	GO:0065007	to	biological regulation
+4172	4174	GO:0009987	to	cellular process
+4237	4246	GO:0003824	glutamine	catalytic activity
+4468	4477	GO:0003824	glutamine	catalytic activity
+4522	4524	GO:0065007	to	biological regulation
+4522	4524	GO:0009987	to	cellular process
+4757	4762	GO:0005623	cells	cell
+4897	4918	GO:0009987	synaptic transmission	cellular process
+4897	4918	GO:0023052	synaptic transmission	signaling
+5028	5030	GO:0065007	to	biological regulation
+5028	5030	GO:0009987	to	cellular process
+5378	5386	GO:0050896	behavior	response to stimulus
+5549	5551	GO:0065007	to	biological regulation
+5549	5551	GO:0009987	to	cellular process
+6504	6522	GO:0050896	olfactory behavior	response to stimulus
+6514	6522	GO:0050896	behavior	response to stimulus
+6525	6527	GO:0065007	To	biological regulation
+6525	6527	GO:0009987	To	cellular process
+6568	6586	GO:0032501	olfactory learning	multicellular organismal process
+6568	6586	GO:0050896	olfactory learning	response to stimulus
+6578	6586	GO:0050896	learning	response to stimulus
+6578	6586	GO:0032501	learning	multicellular organismal process
+6608	6614	GO:0050896	memory	response to stimulus
+6608	6614	GO:0032501	memory	multicellular organismal process
+7207	7213	GO:0050896	memory	response to stimulus
+7207	7213	GO:0032501	memory	multicellular organismal process
+7225	7227	GO:0065007	to	biological regulation
+7225	7227	GO:0009987	to	cellular process
+7225	7227	GO:0065007	to	biological regulation
+7225	7227	GO:0009987	to	cellular process
+7554	7562	GO:0050896	learning	response to stimulus
+7554	7562	GO:0032501	learning	multicellular organismal process
+7584	7590	GO:0050896	memory	response to stimulus
+7584	7590	GO:0032501	memory	multicellular organismal process
+7660	7668	GO:0050896	Learning	response to stimulus
+7660	7668	GO:0032501	Learning	multicellular organismal process
+7689	7691	GO:0065007	To	biological regulation
+7689	7691	GO:0009987	To	cellular process
+7728	7745	GO:0009987	neurotransmission	cellular process
+7728	7745	GO:0023046	neurotransmission	signaling process
+7728	7745	GO:0065007	neurotransmission	biological regulation
+7728	7745	GO:0051234	neurotransmission	establishment of localization
+7797	7799	GO:0065007	to	biological regulation
+7797	7799	GO:0009987	to	cellular process
+8294	8296	GO:0065007	To	biological regulation
+8294	8296	GO:0009987	To	cellular process
+8548	8555	GO:0065007	neurons	biological regulation
+8548	8555	GO:0016265	neurons	death
+8548	8555	GO:0009987	neurons	cellular process
+8590	8592	GO:0065007	to	biological regulation
+8590	8592	GO:0009987	to	cellular process
+8948	8950	GO:0065007	to	biological regulation
+8948	8950	GO:0009987	to	cellular process
+9139	9141	GO:0065007	to	biological regulation
+9139	9141	GO:0009987	to	cellular process
+9253	9255	GO:0065007	to	biological regulation
+9253	9255	GO:0009987	to	cellular process
+9253	9255	GO:0065007	to	biological regulation
+9253	9255	GO:0009987	to	cellular process
+9696	9704	GO:0050896	learning	response to stimulus
+9696	9704	GO:0032501	learning	multicellular organismal process
+9848	9850	GO:0065007	to	biological regulation
+9848	9850	GO:0009987	to	cellular process
+9875	9883	GO:0050896	learning	response to stimulus
+9875	9883	GO:0032501	learning	multicellular organismal process
+10009	10013	GO:0032502	head	developmental process
+10111	10115	GO:0032502	head	developmental process
+10226	10230	GO:0032502	head	developmental process
+10264	10267	GO:0023046	red	signaling process
+10264	10267	GO:0050896	red	response to stimulus
+10264	10267	GO:0009987	red	cellular process
+10264	10267	GO:0065007	red	biological regulation
+10445	10447	GO:0065007	to	biological regulation
+10445	10447	GO:0009987	to	cellular process
+10656	10658	GO:0065007	to	biological regulation
+10656	10658	GO:0009987	to	cellular process
+11004	11012	GO:0050896	learning	response to stimulus
+11004	11012	GO:0032501	learning	multicellular organismal process
+11124	11126	GO:0065007	To	biological regulation
+11124	11126	GO:0009987	To	cellular process
+11149	11167	GO:0032501	olfactory learning	multicellular organismal process
+11149	11167	GO:0050896	olfactory learning	response to stimulus
+11159	11167	GO:0050896	learning	response to stimulus
+11159	11167	GO:0032501	learning	multicellular organismal process
+11737	11744	GO:0009987	reduced	cellular process
+11737	11744	GO:0008152	reduced	metabolic process
+11737	11744	GO:0005215	reduced	transporter activity
+11737	11744	GO:0051234	reduced	establishment of localization
+11745	11747	GO:0065007	to	biological regulation
+11745	11747	GO:0009987	to	cellular process
+11839	11841	GO:0065007	to	biological regulation
+11839	11841	GO:0009987	to	cellular process
+11873	11875	GO:0065007	to	biological regulation
+11873	11875	GO:0009987	to	cellular process
+12019	12021	GO:0065007	to	biological regulation
+12019	12021	GO:0009987	to	cellular process
+12261	12263	GO:0065007	to	biological regulation
+12261	12263	GO:0009987	to	cellular process
+13568	13576	GO:0050896	learning	response to stimulus
+13568	13576	GO:0032501	learning	multicellular organismal process
+13626	13628	GO:0065007	to	biological regulation
+13626	13628	GO:0009987	to	cellular process
+13817	13819	GO:0065007	To	biological regulation
+13817	13819	GO:0009987	To	cellular process
+13859	13868	GO:0032501	olfaction	multicellular organismal process
+13974	13985	GO:0032501	habituation	multicellular organismal process
+13974	13985	GO:0050896	habituation	response to stimulus
+14027	14029	GO:0065007	to	biological regulation
+14027	14029	GO:0009987	to	cellular process
+14361	14363	GO:0065007	to	biological regulation
+14361	14363	GO:0009987	to	cellular process
+14415	14423	GO:0050896	learning	response to stimulus
+14415	14423	GO:0032501	learning	multicellular organismal process
+14568	14570	GO:0065007	to	biological regulation
+14568	14570	GO:0009987	to	cellular process
+14705	14707	GO:0065007	to	biological regulation
+14705	14707	GO:0009987	to	cellular process
+15452	15454	GO:0065007	to	biological regulation
+15452	15454	GO:0009987	to	cellular process
+15455	15462	GO:0009987	reduced	cellular process
+15455	15462	GO:0008152	reduced	metabolic process
+15455	15462	GO:0005215	reduced	transporter activity
+15455	15462	GO:0051234	reduced	establishment of localization
+15628	15646	GO:0032501	olfactory learning	multicellular organismal process
+15628	15646	GO:0050896	olfactory learning	response to stimulus
+15638	15646	GO:0050896	learning	response to stimulus
+15638	15646	GO:0032501	learning	multicellular organismal process
+15718	15720	GO:0065007	To	biological regulation
+15718	15720	GO:0009987	To	cellular process
+15728	15737	GO:0032501	olfaction	multicellular organismal process
+15846	15854	GO:0050896	learning	response to stimulus
+15846	15854	GO:0032501	learning	multicellular organismal process
+16073	16075	GO:0065007	to	biological regulation
+16073	16075	GO:0009987	to	cellular process
+16073	16075	GO:0065007	to	biological regulation
+16073	16075	GO:0009987	to	cellular process
+16137	16151	GO:0032501	sense of smell	multicellular organismal process
+16173	16175	GO:0065007	to	biological regulation
+16173	16175	GO:0009987	to	cellular process
+16631	16633	GO:0065007	to	biological regulation
+16631	16633	GO:0009987	to	cellular process
+16643	16661	GO:0032501	olfactory learning	multicellular organismal process
+16643	16661	GO:0050896	olfactory learning	response to stimulus
+16653	16661	GO:0050896	learning	response to stimulus
+16653	16661	GO:0032501	learning	multicellular organismal process
+16693	16699	GO:0032501	Memory	multicellular organismal process
+16693	16699	GO:0050896	Memory	response to stimulus
+16766	16768	GO:0065007	To	biological regulation
+16766	16768	GO:0009987	To	cellular process
+16833	16851	GO:0050896	olfactory behavior	response to stimulus
+16843	16851	GO:0050896	behavior	response to stimulus
+16920	16926	GO:0050896	memory	response to stimulus
+16920	16926	GO:0032501	memory	multicellular organismal process
+16928	16930	GO:0065007	To	biological regulation
+16928	16930	GO:0009987	To	cellular process
+16947	16953	GO:0050896	memory	response to stimulus
+16947	16953	GO:0032501	memory	multicellular organismal process
+17331	17333	GO:0065007	to	biological regulation
+17331	17333	GO:0009987	to	cellular process
+17364	17370	GO:0050896	memory	response to stimulus
+17364	17370	GO:0032501	memory	multicellular organismal process
+17435	17442	GO:0009987	reduced	cellular process
+17435	17442	GO:0008152	reduced	metabolic process
+17435	17442	GO:0005215	reduced	transporter activity
+17435	17442	GO:0051234	reduced	establishment of localization
+17453	17459	GO:0050896	memory	response to stimulus
+17453	17459	GO:0032501	memory	multicellular organismal process
+17507	17509	GO:0065007	to	biological regulation
+17507	17509	GO:0009987	to	cellular process
+17525	17533	GO:0050896	learning	response to stimulus
+17525	17533	GO:0032501	learning	multicellular organismal process
+17606	17612	GO:0050896	memory	response to stimulus
+17606	17612	GO:0032501	memory	multicellular organismal process
+17606	17612	GO:0050896	memory	response to stimulus
+17606	17612	GO:0032501	memory	multicellular organismal process
+17853	17855	GO:0065007	to	biological regulation
+17853	17855	GO:0009987	to	cellular process
+17862	17868	GO:0050896	memory	response to stimulus
+17862	17868	GO:0032501	memory	multicellular organismal process
+17935	17942	GO:0009987	reduced	cellular process
+17935	17942	GO:0008152	reduced	metabolic process
+17935	17942	GO:0005215	reduced	transporter activity
+17935	17942	GO:0051234	reduced	establishment of localization
+17986	17988	GO:0065007	to	biological regulation
+17986	17988	GO:0009987	to	cellular process
+18031	18037	GO:0050896	memory	response to stimulus
+18031	18037	GO:0032501	memory	multicellular organismal process
+18102	18108	GO:0050896	memory	response to stimulus
+18102	18108	GO:0032501	memory	multicellular organismal process
+18216	18222	GO:0050896	memory	response to stimulus
+18216	18222	GO:0032501	memory	multicellular organismal process
+18254	18263	GO:0032501	olfaction	multicellular organismal process
+18296	18298	GO:0065007	to	biological regulation
+18296	18298	GO:0009987	to	cellular process
+18361	18369	GO:0050896	learning	response to stimulus
+18361	18369	GO:0032501	learning	multicellular organismal process
+18370	18378	GO:0050896	behavior	response to stimulus
+18438	18444	GO:0050896	memory	response to stimulus
+18438	18444	GO:0032501	memory	multicellular organismal process
+18606	18612	GO:0050896	memory	response to stimulus
+18606	18612	GO:0032501	memory	multicellular organismal process
+18768	18770	GO:0065007	to	biological regulation
+18768	18770	GO:0009987	to	cellular process
+18985	18987	GO:0065007	to	biological regulation
+18985	18987	GO:0009987	to	cellular process
+19271	19281	GO:0065007	epigenetic	biological regulation
+19352	19358	GO:0050896	memory	response to stimulus
+19352	19358	GO:0032501	memory	multicellular organismal process
+19526	19532	GO:0050896	memory	response to stimulus
+19526	19532	GO:0032501	memory	multicellular organismal process
+19555	19557	GO:0065007	to	biological regulation
+19555	19557	GO:0009987	to	cellular process
+19631	19637	GO:0032501	Memory	multicellular organismal process
+19631	19637	GO:0050896	Memory	response to stimulus
+19670	19677	GO:0003824	Protein	catalytic activity
+19714	19716	GO:0065007	to	biological regulation
+19714	19716	GO:0009987	to	cellular process
+19773	19779	GO:0050896	memory	response to stimulus
+19773	19779	GO:0032501	memory	multicellular organismal process
+19909	19916	GO:0003824	protein	catalytic activity
+19940	19946	GO:0050896	memory	response to stimulus
+19940	19946	GO:0032501	memory	multicellular organismal process
+20005	20011	GO:0050896	memory	response to stimulus
+20005	20011	GO:0032501	memory	multicellular organismal process
+20005	20011	GO:0050896	memory	response to stimulus
+20005	20011	GO:0032501	memory	multicellular organismal process
+20076	20083	GO:0003824	protein	catalytic activity
+20218	20224	GO:0050896	memory	response to stimulus
+20218	20224	GO:0032501	memory	multicellular organismal process
+20345	20347	GO:0065007	To	biological regulation
+20345	20347	GO:0009987	To	cellular process
+20394	20401	GO:0003824	protein	catalytic activity
+20416	20422	GO:0050896	memory	response to stimulus
+20416	20422	GO:0032501	memory	multicellular organismal process
+20416	20422	GO:0050896	memory	response to stimulus
+20416	20422	GO:0032501	memory	multicellular organismal process
+20428	20434	GO:0050896	memory	response to stimulus
+20428	20434	GO:0032501	memory	multicellular organismal process
+20705	20712	GO:0003824	protein	catalytic activity
+20808	20815	GO:0003824	protein	catalytic activity
+21022	21030	GO:0050896	learning	response to stimulus
+21022	21030	GO:0032501	learning	multicellular organismal process
+21092	21099	GO:0003824	protein	catalytic activity
+21159	21165	GO:0050896	memory	response to stimulus
+21159	21165	GO:0032501	memory	multicellular organismal process
+21177	21184	GO:0003824	protein	catalytic activity
+21377	21379	GO:0065007	to	biological regulation
+21377	21379	GO:0009987	to	cellular process
+21646	21653	GO:0009987	reduced	cellular process
+21646	21653	GO:0008152	reduced	metabolic process
+21646	21653	GO:0005215	reduced	transporter activity
+21646	21653	GO:0051234	reduced	establishment of localization
+21714	21720	GO:0050896	memory	response to stimulus
+21714	21720	GO:0032501	memory	multicellular organismal process
+21834	21842	GO:0050896	learning	response to stimulus
+21834	21842	GO:0032501	learning	multicellular organismal process
+21936	21938	GO:0065007	to	biological regulation
+21936	21938	GO:0009987	to	cellular process
+22057	22065	GO:0050896	learning	response to stimulus
+22057	22065	GO:0032501	learning	multicellular organismal process
+22167	22169	GO:0065007	to	biological regulation
+22167	22169	GO:0009987	to	cellular process
+22255	22261	GO:0050896	memory	response to stimulus
+22255	22261	GO:0032501	memory	multicellular organismal process
+22267	22285	GO:0032501	olfactory learning	multicellular organismal process
+22267	22285	GO:0050896	olfactory learning	response to stimulus
+22277	22285	GO:0050896	learning	response to stimulus
+22277	22285	GO:0032501	learning	multicellular organismal process
+22364	22370	GO:0032501	Memory	multicellular organismal process
+22364	22370	GO:0050896	Memory	response to stimulus
+22597	22599	GO:0065007	to	biological regulation
+22597	22599	GO:0009987	to	cellular process
+22651	22657	GO:0050896	memory	response to stimulus
+22651	22657	GO:0032501	memory	multicellular organismal process
+22673	22679	GO:0050896	memory	response to stimulus
+22673	22679	GO:0032501	memory	multicellular organismal process
+22703	22705	GO:0065007	to	biological regulation
+22703	22705	GO:0009987	to	cellular process
+22771	22779	GO:0050896	learning	response to stimulus
+22771	22779	GO:0032501	learning	multicellular organismal process
+22884	22886	GO:0065007	To	biological regulation
+22884	22886	GO:0009987	To	cellular process
+23062	23069	GO:0003824	protein	catalytic activity
+23322	23328	GO:0050896	memory	response to stimulus
+23322	23328	GO:0032501	memory	multicellular organismal process
+23546	23548	GO:0065007	to	biological regulation
+23546	23548	GO:0009987	to	cellular process
+23592	23594	GO:0065007	to	biological regulation
+23592	23594	GO:0009987	to	cellular process
+24194	24199	GO:0005623	cells	cell
+24361	24367	GO:0050896	memory	response to stimulus
+24361	24367	GO:0032501	memory	multicellular organismal process
+24532	24538	GO:0032501	Memory	multicellular organismal process
+24532	24538	GO:0050896	Memory	response to stimulus
+24731	24737	GO:0050896	memory	response to stimulus
+24731	24737	GO:0032501	memory	multicellular organismal process
+24873	24879	GO:0050896	memory	response to stimulus
+24873	24879	GO:0032501	memory	multicellular organismal process
+24969	24975	GO:0050896	memory	response to stimulus
+24969	24975	GO:0032501	memory	multicellular organismal process
+24995	25001	GO:0050896	memory	response to stimulus
+24995	25001	GO:0032501	memory	multicellular organismal process
+25022	25024	GO:0065007	to	biological regulation
+25022	25024	GO:0009987	to	cellular process
+25129	25131	GO:0065007	to	biological regulation
+25129	25131	GO:0009987	to	cellular process
+25232	25238	GO:0050896	memory	response to stimulus
+25232	25238	GO:0032501	memory	multicellular organismal process
+25435	25437	GO:0065007	to	biological regulation
+25435	25437	GO:0009987	to	cellular process
+25459	25465	GO:0050896	memory	response to stimulus
+25459	25465	GO:0032501	memory	multicellular organismal process
+25541	25547	GO:0050896	memory	response to stimulus
+25541	25547	GO:0032501	memory	multicellular organismal process
+25725	25732	GO:0003824	protein	catalytic activity
+25779	25786	GO:0003824	protein	catalytic activity
+25813	25819	GO:0050896	memory	response to stimulus
+25813	25819	GO:0032501	memory	multicellular organismal process
+25864	25870	GO:0050896	memory	response to stimulus
+25864	25870	GO:0032501	memory	multicellular organismal process
+25917	25923	GO:0050896	memory	response to stimulus
+25917	25923	GO:0032501	memory	multicellular organismal process
+26066	26072	GO:0050896	memory	response to stimulus
+26066	26072	GO:0032501	memory	multicellular organismal process
+26093	26100	GO:0003824	protein	catalytic activity
+26230	26232	GO:0065007	to	biological regulation
+26230	26232	GO:0009987	to	cellular process
+26252	26258	GO:0050896	memory	response to stimulus
+26252	26258	GO:0032501	memory	multicellular organismal process
+26432	26439	GO:0003824	protein	catalytic activity
+26716	26718	GO:0065007	to	biological regulation
+26716	26718	GO:0009987	to	cellular process
+26899	26901	GO:0065007	to	biological regulation
+26899	26901	GO:0009987	to	cellular process
+27159	27165	GO:0050896	memory	response to stimulus
+27159	27165	GO:0032501	memory	multicellular organismal process
+27223	27231	GO:0050896	learning	response to stimulus
+27223	27231	GO:0032501	learning	multicellular organismal process
+27337	27345	GO:0050896	learning	response to stimulus
+27337	27345	GO:0032501	learning	multicellular organismal process
+27351	27357	GO:0050896	memory	response to stimulus
+27351	27357	GO:0032501	memory	multicellular organismal process
+27437	27439	GO:0065007	to	biological regulation
+27437	27439	GO:0009987	to	cellular process
+27535	27542	GO:0065007	neurons	biological regulation
+27535	27542	GO:0016265	neurons	death
+27535	27542	GO:0009987	neurons	cellular process
+27607	27612	GO:0005623	cells	cell
+27652	27660	GO:0050896	learning	response to stimulus
+27652	27660	GO:0032501	learning	multicellular organismal process
+27683	27689	GO:0050896	memory	response to stimulus
+27683	27689	GO:0032501	memory	multicellular organismal process
+27707	27726	GO:0050896	olfactory behaviors	response to stimulus
+27717	27726	GO:0050896	behaviors	response to stimulus
+27755	27775	GO:0050896	operant conditioning	response to stimulus
+27755	27775	GO:0032501	operant conditioning	multicellular organismal process
+27929	27935	GO:0050896	memory	response to stimulus
+27929	27935	GO:0032501	memory	multicellular organismal process
+28013	28015	GO:0065007	to	biological regulation
+28013	28015	GO:0009987	to	cellular process
+28016	28026	GO:0065007	epigenetic	biological regulation
+28260	28262	GO:0065007	to	biological regulation
+28260	28262	GO:0009987	to	cellular process
+28340	28346	GO:0050896	memory	response to stimulus
+28340	28346	GO:0032501	memory	multicellular organismal process
+28377	28385	GO:0050896	learning	response to stimulus
+28377	28385	GO:0032501	learning	multicellular organismal process
+28697	28703	GO:0050896	memory	response to stimulus
+28697	28703	GO:0032501	memory	multicellular organismal process
+28697	28703	GO:0050896	memory	response to stimulus
+28697	28703	GO:0032501	memory	multicellular organismal process
+28750	28752	GO:0065007	to	biological regulation
+28750	28752	GO:0009987	to	cellular process
+29254	29272	GO:0032501	olfactory learning	multicellular organismal process
+29254	29272	GO:0050896	olfactory learning	response to stimulus
+29264	29272	GO:0050896	learning	response to stimulus
+29264	29272	GO:0032501	learning	multicellular organismal process
+29439	29441	GO:0065007	to	biological regulation
+29439	29441	GO:0009987	to	cellular process
+29516	29522	GO:0065007	global	biological regulation
+29744	29746	GO:0065007	to	biological regulation
+29744	29746	GO:0009987	to	cellular process
+30046	30054	GO:0050896	learning	response to stimulus
+30046	30054	GO:0032501	learning	multicellular organismal process
+30226	30234	GO:0050896	learning	response to stimulus
+30226	30234	GO:0032501	learning	multicellular organismal process
+30285	30291	GO:0050896	memory	response to stimulus
+30285	30291	GO:0032501	memory	multicellular organismal process
+30388	30395	GO:0065007	neurons	biological regulation
+30388	30395	GO:0016265	neurons	death
+30388	30395	GO:0009987	neurons	cellular process
+30462	30464	GO:0065007	to	biological regulation
+30462	30464	GO:0009987	to	cellular process
+31130	31138	GO:0050896	learning	response to stimulus
+31130	31138	GO:0032501	learning	multicellular organismal process
+31347	31355	GO:0050896	Learning	response to stimulus
+31347	31355	GO:0032501	Learning	multicellular organismal process
+31403	31410	GO:0065007	neurons	biological regulation
+31403	31410	GO:0016265	neurons	death
+31403	31410	GO:0009987	neurons	cellular process
+31449	31451	GO:0065007	to	biological regulation
+31449	31451	GO:0009987	to	cellular process
+31564	31572	GO:0050896	learning	response to stimulus
+31564	31572	GO:0032501	learning	multicellular organismal process
+31805	31813	GO:0050896	learning	response to stimulus
+31805	31813	GO:0032501	learning	multicellular organismal process
+31921	31929	GO:0050896	learning	response to stimulus
+31921	31929	GO:0032501	learning	multicellular organismal process
+31957	31964	GO:0003824	protein	catalytic activity
+31988	31990	GO:0065007	to	biological regulation
+31988	31990	GO:0009987	to	cellular process
+32024	32032	GO:0050896	learning	response to stimulus
+32024	32032	GO:0032501	learning	multicellular organismal process
+32056	32062	GO:0050896	memory	response to stimulus
+32056	32062	GO:0032501	memory	multicellular organismal process
+32178	32184	GO:0009987	direct	cellular process
+32178	32184	GO:0008152	direct	metabolic process
+32198	32200	GO:0065007	to	biological regulation
+32198	32200	GO:0009987	to	cellular process
+32279	32281	GO:0065007	to	biological regulation
+32279	32281	GO:0009987	to	cellular process
+32364	32372	GO:0050896	learning	response to stimulus
+32364	32372	GO:0032501	learning	multicellular organismal process
+32597	32604	GO:0009987	reduced	cellular process
+32597	32604	GO:0008152	reduced	metabolic process
+32597	32604	GO:0005215	reduced	transporter activity
+32597	32604	GO:0051234	reduced	establishment of localization
+32654	32656	GO:0065007	to	biological regulation
+32654	32656	GO:0009987	to	cellular process
+32816	32820	GO:0005623	cell	cell
+32913	32921	GO:0045202	synapses	synapse
+32934	32941	GO:0009987	reduced	cellular process
+32934	32941	GO:0008152	reduced	metabolic process
+32934	32941	GO:0005215	reduced	transporter activity
+32934	32941	GO:0051234	reduced	establishment of localization
+33190	33198	GO:0050896	learning	response to stimulus
+33190	33198	GO:0032501	learning	multicellular organismal process
+33274	33276	GO:0065007	to	biological regulation
+33274	33276	GO:0009987	to	cellular process
+33277	33284	GO:0009987	reduced	cellular process
+33277	33284	GO:0008152	reduced	metabolic process
+33277	33284	GO:0005215	reduced	transporter activity
+33277	33284	GO:0051234	reduced	establishment of localization
+33304	33312	GO:0045202	synapses	synapse
+33344	33346	GO:0065007	to	biological regulation
+33344	33346	GO:0009987	to	cellular process
+33552	33559	GO:0065007	neurons	biological regulation
+33552	33559	GO:0016265	neurons	death
+33552	33559	GO:0009987	neurons	cellular process
+33739	33746	GO:0045202	synapse	synapse
+33774	33779	GO:0005623	cells	cell
+33792	33794	GO:0065007	to	biological regulation
+33792	33794	GO:0009987	to	cellular process
+33792	33794	GO:0065007	to	biological regulation
+33792	33794	GO:0009987	to	cellular process
+33849	33851	GO:0065007	to	biological regulation
+33849	33851	GO:0009987	to	cellular process
+34078	34085	GO:0065007	neurons	biological regulation
+34078	34085	GO:0016265	neurons	death
+34078	34085	GO:0009987	neurons	cellular process
+34132	34134	GO:0065007	to	biological regulation
+34132	34134	GO:0009987	to	cellular process
+34258	34260	GO:0065007	to	biological regulation
+34258	34260	GO:0009987	to	cellular process
+34864	34872	GO:0050896	learning	response to stimulus
+34864	34872	GO:0032501	learning	multicellular organismal process
+35102	35108	GO:0009987	direct	cellular process
+35102	35108	GO:0008152	direct	metabolic process
+35378	35391	GO:0044464	intracellular	cell part
+35378	35391	GO:0051179	intracellular	localization
+35378	35391	GO:0009987	intracellular	cellular process
+35417	35423	GO:0032501	Memory	multicellular organismal process
+35417	35423	GO:0050896	Memory	response to stimulus
+35427	35434	GO:0005215	Reduced	transporter activity
+35427	35434	GO:0008152	Reduced	metabolic process
+35427	35434	GO:0009987	Reduced	cellular process
+35427	35434	GO:0051234	Reduced	establishment of localization
+35529	35531	GO:0065007	To	biological regulation
+35529	35531	GO:0009987	To	cellular process
+35549	35555	GO:0050896	memory	response to stimulus
+35549	35555	GO:0032501	memory	multicellular organismal process
+35766	35772	GO:0050896	memory	response to stimulus
+35766	35772	GO:0032501	memory	multicellular organismal process
+35835	35841	GO:0032501	Memory	multicellular organismal process
+35835	35841	GO:0050896	Memory	response to stimulus
+35923	35925	GO:0065007	to	biological regulation
+35923	35925	GO:0009987	to	cellular process
+35978	35980	GO:0065007	to	biological regulation
+35978	35980	GO:0009987	to	cellular process
+35985	35991	GO:0050896	memory	response to stimulus
+35985	35991	GO:0032501	memory	multicellular organismal process
+36085	36092	GO:0005215	Reduced	transporter activity
+36085	36092	GO:0008152	Reduced	metabolic process
+36085	36092	GO:0009987	Reduced	cellular process
+36085	36092	GO:0051234	Reduced	establishment of localization
+36103	36109	GO:0050896	memory	response to stimulus
+36103	36109	GO:0032501	memory	multicellular organismal process
+36144	36146	GO:0065007	to	biological regulation
+36144	36146	GO:0009987	to	cellular process
+36252	36254	GO:0065007	to	biological regulation
+36252	36254	GO:0009987	to	cellular process
+36276	36282	GO:0050896	memory	response to stimulus
+36276	36282	GO:0032501	memory	multicellular organismal process
+36459	36465	GO:0050896	memory	response to stimulus
+36459	36465	GO:0032501	memory	multicellular organismal process
+36490	36496	GO:0050896	memory	response to stimulus
+36490	36496	GO:0032501	memory	multicellular organismal process
+36571	36577	GO:0050896	memory	response to stimulus
+36571	36577	GO:0032501	memory	multicellular organismal process
+36571	36577	GO:0050896	memory	response to stimulus
+36571	36577	GO:0032501	memory	multicellular organismal process
+36918	36926	GO:0050896	learning	response to stimulus
+36918	36926	GO:0032501	learning	multicellular organismal process
+36942	36944	GO:0065007	To	biological regulation
+36942	36944	GO:0009987	To	cellular process
+36973	36981	GO:0050896	learning	response to stimulus
+36973	36981	GO:0032501	learning	multicellular organismal process
+36987	36993	GO:0050896	memory	response to stimulus
+36987	36993	GO:0032501	memory	multicellular organismal process
+37277	37285	GO:0050896	learning	response to stimulus
+37277	37285	GO:0032501	learning	multicellular organismal process
+37317	37323	GO:0050896	memory	response to stimulus
+37317	37323	GO:0032501	memory	multicellular organismal process
+37341	37347	GO:0009987	direct	cellular process
+37341	37347	GO:0008152	direct	metabolic process
+37440	37446	GO:0050896	memory	response to stimulus
+37440	37446	GO:0032501	memory	multicellular organismal process
+37485	37492	GO:0065007	neurons	biological regulation
+37485	37492	GO:0016265	neurons	death
+37485	37492	GO:0009987	neurons	cellular process
+37586	37594	GO:0050896	learning	response to stimulus
+37586	37594	GO:0032501	learning	multicellular organismal process
+37731	37733	GO:0065007	to	biological regulation
+37731	37733	GO:0009987	to	cellular process
+37885	37893	GO:0050896	learning	response to stimulus
+37885	37893	GO:0032501	learning	multicellular organismal process
+37898	37904	GO:0050896	memory	response to stimulus
+37898	37904	GO:0032501	memory	multicellular organismal process
+37898	37904	GO:0050896	memory	response to stimulus
+37898	37904	GO:0032501	memory	multicellular organismal process
 38005	38011	GO:0050896	memory	response to stimulus
 38005	38011	GO:0032501	memory	multicellular organismal process
-38117	38119	GO:0065007	to	biological regulation
-38117	38119	GO:0009987	to	cellular process
-38172	38179	GO:0003824	protein	catalytic activity
-38366	38368	GO:0065007	to	biological regulation
-38366	38368	GO:0009987	to	cellular process
-38405	38411	GO:0050896	memory	response to stimulus
-38405	38411	GO:0032501	memory	multicellular organismal process
-38548	38550	GO:0065007	to	biological regulation
-38548	38550	GO:0009987	to	cellular process
-38567	38576	GO:0008152	formation	metabolic process
-38627	38633	GO:0050896	memory	response to stimulus
-38627	38633	GO:0032501	memory	multicellular organismal process
-38812	38818	GO:0050896	memory	response to stimulus
-38812	38818	GO:0032501	memory	multicellular organismal process
-38912	38918	GO:0050896	memory	response to stimulus
-38912	38918	GO:0032501	memory	multicellular organismal process
-39038	39044	GO:0032501	Memory	multicellular organismal process
-39038	39044	GO:0050896	Memory	response to stimulus
-39095	39111	GO:0032501	long-term memory	multicellular organismal process
-39095	39111	GO:0050896	long-term memory	response to stimulus
-39105	39111	GO:0050896	memory	response to stimulus
-39105	39111	GO:0032501	memory	multicellular organismal process
-39409	39411	GO:0065007	to	biological regulation
-39409	39411	GO:0009987	to	cellular process
-39409	39411	GO:0065007	to	biological regulation
-39409	39411	GO:0009987	to	cellular process
+38091	38097	GO:0050896	memory	response to stimulus
+38091	38097	GO:0032501	memory	multicellular organismal process
+38203	38205	GO:0065007	to	biological regulation
+38203	38205	GO:0009987	to	cellular process
+38258	38265	GO:0003824	protein	catalytic activity
+38454	38456	GO:0065007	to	biological regulation
+38454	38456	GO:0009987	to	cellular process
+38493	38499	GO:0050896	memory	response to stimulus
+38493	38499	GO:0032501	memory	multicellular organismal process
+38636	38638	GO:0065007	to	biological regulation
+38636	38638	GO:0009987	to	cellular process
+38655	38664	GO:0008152	formation	metabolic process
+38715	38721	GO:0050896	memory	response to stimulus
+38715	38721	GO:0032501	memory	multicellular organismal process
+38900	38906	GO:0050896	memory	response to stimulus
+38900	38906	GO:0032501	memory	multicellular organismal process
+39000	39006	GO:0050896	memory	response to stimulus
+39000	39006	GO:0032501	memory	multicellular organismal process
+39128	39134	GO:0032501	Memory	multicellular organismal process
+39128	39134	GO:0050896	Memory	response to stimulus
+39187	39203	GO:0032501	long-term memory	multicellular organismal process
+39187	39203	GO:0050896	long-term memory	response to stimulus
+39197	39203	GO:0050896	memory	response to stimulus
+39197	39203	GO:0032501	memory	multicellular organismal process
 39501	39503	GO:0065007	to	biological regulation
 39501	39503	GO:0009987	to	cellular process
-39711	39717	GO:0050896	memory	response to stimulus
-39711	39717	GO:0032501	memory	multicellular organismal process
-39994	40002	GO:0045202	synapses	synapse
-40050	40055	GO:0005623	cells	cell
-40338	40346	GO:0045202	synapses	synapse
-40419	40427	GO:0045202	synapses	synapse
-40492	40501	GO:0023052	signaling	signaling
-40579	40585	GO:0050896	memory	response to stimulus
-40579	40585	GO:0032501	memory	multicellular organismal process
-40586	40595	GO:0008152	formation	metabolic process
-40705	40711	GO:0050896	memory	response to stimulus
-40705	40711	GO:0032501	memory	multicellular organismal process
-40773	40788	GO:0009987	phosphorylation	cellular process
-40773	40788	GO:0008152	phosphorylation	metabolic process
-40797	40799	GO:0065007	to	biological regulation
-40797	40799	GO:0009987	to	cellular process
-40917	40919	GO:0065007	to	biological regulation
-40917	40919	GO:0009987	to	cellular process
-41201	41209	GO:0050896	Behavior	response to stimulus
-41315	41323	GO:0050896	learning	response to stimulus
-41315	41323	GO:0032501	learning	multicellular organismal process
-41344	41350	GO:0050896	memory	response to stimulus
-41344	41350	GO:0032501	memory	multicellular organismal process
-41413	41419	GO:0050896	memory	response to stimulus
-41413	41419	GO:0032501	memory	multicellular organismal process
-41497	41504	GO:0003824	protein	catalytic activity
-41543	41553	GO:0065007	epigenetic	biological regulation
-41610	41612	GO:0065007	to	biological regulation
-41610	41612	GO:0009987	to	cellular process
-41632	41638	GO:0050896	memory	response to stimulus
-41632	41638	GO:0032501	memory	multicellular organismal process
-41665	41667	GO:0065007	to	biological regulation
-41665	41667	GO:0009987	to	cellular process
-41880	41882	GO:0065007	to	biological regulation
-41880	41882	GO:0009987	to	cellular process
-42007	42009	GO:0065007	to	biological regulation
-42007	42009	GO:0009987	to	cellular process
-42044	42052	GO:0050896	behavior	response to stimulus
-42058	42060	GO:0065007	to	biological regulation
-42058	42060	GO:0009987	to	cellular process
-42231	42233	GO:0065007	to	biological regulation
-42231	42233	GO:0009987	to	cellular process
-42593	42595	GO:0065007	to	biological regulation
-42593	42595	GO:0009987	to	cellular process
-42664	42666	GO:0065007	to	biological regulation
-42664	42666	GO:0009987	to	cellular process
-42686	42688	GO:0065007	to	biological regulation
-42686	42688	GO:0009987	to	cellular process
-43349	43357	GO:0050896	learning	response to stimulus
-43349	43357	GO:0032501	learning	multicellular organismal process
-43363	43369	GO:0050896	memory	response to stimulus
-43363	43369	GO:0032501	memory	multicellular organismal process
-43440	43442	GO:0065007	To	biological regulation
-43440	43442	GO:0009987	To	cellular process
-43476	43486	GO:0065007	epigenetic	biological regulation
-43579	43585	GO:0050896	memory	response to stimulus
-43579	43585	GO:0032501	memory	multicellular organismal process
-43617	43625	GO:0050896	learning	response to stimulus
-43617	43625	GO:0032501	learning	multicellular organismal process
-44822	44832	GO:0043226	pronucleus	organelle
-44822	44832	GO:0044464	pronucleus	cell part
-45031	45041	GO:0043226	pronucleus	organelle
-45031	45041	GO:0044464	pronucleus	cell part
-45045	45052	GO:0022414	oocytes	reproductive process
-45045	45052	GO:0032502	oocytes	developmental process
-45306	45313	GO:0003824	protein	catalytic activity
-45844	45846	GO:0065007	to	biological regulation
-45844	45846	GO:0009987	to	cellular process
-47730	47740	GO:0044421	antibodies	extraccellular region part
-47730	47740	GO:0032991	antibodies	macromolecular complex
-47899	47909	GO:0044421	antibodies	extraccellular region part
-47899	47909	GO:0032991	antibodies	macromolecular complex
-48026	48034	GO:0044421	antibody	extraccellular region part
-48026	48034	GO:0032991	antibody	macromolecular complex
-48250	48257	GO:0003824	protein	catalytic activity
-48322	48332	GO:0044421	Antibodies	extraccellular region part
-48322	48332	GO:0032991	Antibodies	macromolecular complex
-48469	48477	GO:0009987	internal	cellular process
-48469	48477	GO:0008152	internal	metabolic process
-48539	48549	GO:0044421	antibodies	extraccellular region part
-48539	48549	GO:0032991	antibodies	macromolecular complex
-48554	48556	GO:0065007	to	biological regulation
-48554	48556	GO:0009987	to	cellular process
-48775	48777	GO:0065007	to	biological regulation
-48775	48777	GO:0009987	to	cellular process
-49115	49117	GO:0065007	to	biological regulation
-49115	49117	GO:0009987	to	cellular process
-49354	49356	GO:0065007	to	biological regulation
-49354	49356	GO:0009987	to	cellular process
-49990	49994	GO:0032502	Head	developmental process
-50007	50009	GO:0065007	to	biological regulation
-50007	50009	GO:0009987	to	cellular process
-50027	50029	GO:0065007	to	biological regulation
-50027	50029	GO:0009987	to	cellular process
-50054	50056	GO:0065007	to	biological regulation
-50054	50056	GO:0009987	to	cellular process
-50491	50502	GO:0032501	habituation	multicellular organismal process
-50491	50502	GO:0050896	habituation	response to stimulus
-50783	50787	GO:0032502	head	developmental process
-51350	51352	GO:0065007	to	biological regulation
-51350	51352	GO:0009987	to	cellular process
-51507	51509	GO:0065007	to	biological regulation
-51507	51509	GO:0009987	to	cellular process
-51507	51509	GO:0065007	to	biological regulation
-51507	51509	GO:0009987	to	cellular process
-51722	51724	GO:0065007	to	biological regulation
-51722	51724	GO:0009987	to	cellular process
-51722	51724	GO:0065007	to	biological regulation
-51722	51724	GO:0009987	to	cellular process
-52288	52290	GO:0065007	to	biological regulation
-52288	52290	GO:0009987	to	cellular process
-53008	53010	GO:0065007	To	biological regulation
-53008	53010	GO:0009987	To	cellular process
-53064	53066	GO:0065007	to	biological regulation
-53064	53066	GO:0009987	to	cellular process
-53104	53106	GO:0065007	to	biological regulation
-53104	53106	GO:0009987	to	cellular process
-53136	53144	GO:0050896	behavior	response to stimulus
-53294	53298	GO:0032502	head	developmental process
-53348	53350	GO:0065007	to	biological regulation
-53348	53350	GO:0009987	to	cellular process
-53547	53549	GO:0065007	to	biological regulation
-53547	53549	GO:0009987	to	cellular process
-53946	53948	GO:0065007	to	biological regulation
-53946	53948	GO:0009987	to	cellular process
-53997	53999	GO:0065007	to	biological regulation
-53997	53999	GO:0009987	to	cellular process
-54183	54194	GO:0032501	habituation	multicellular organismal process
-54183	54194	GO:0050896	habituation	response to stimulus
-54214	54216	GO:0065007	to	biological regulation
-54214	54216	GO:0009987	to	cellular process
-54361	54363	GO:0065007	to	biological regulation
-54361	54363	GO:0009987	to	cellular process
+39501	39503	GO:0065007	to	biological regulation
+39501	39503	GO:0009987	to	cellular process
+39593	39595	GO:0065007	to	biological regulation
+39593	39595	GO:0009987	to	cellular process
+39803	39809	GO:0050896	memory	response to stimulus
+39803	39809	GO:0032501	memory	multicellular organismal process
+40088	40096	GO:0045202	synapses	synapse
+40144	40149	GO:0005623	cells	cell
+40432	40440	GO:0045202	synapses	synapse
+40513	40521	GO:0045202	synapses	synapse
+40588	40597	GO:0023052	signaling	signaling
+40675	40681	GO:0050896	memory	response to stimulus
+40675	40681	GO:0032501	memory	multicellular organismal process
+40682	40691	GO:0008152	formation	metabolic process
+40801	40807	GO:0050896	memory	response to stimulus
+40801	40807	GO:0032501	memory	multicellular organismal process
+40869	40884	GO:0009987	phosphorylation	cellular process
+40869	40884	GO:0008152	phosphorylation	metabolic process
+40893	40895	GO:0065007	to	biological regulation
+40893	40895	GO:0009987	to	cellular process
+41013	41015	GO:0065007	to	biological regulation
+41013	41015	GO:0009987	to	cellular process
+41299	41307	GO:0050896	Behavior	response to stimulus
+41415	41423	GO:0050896	learning	response to stimulus
+41415	41423	GO:0032501	learning	multicellular organismal process
+41444	41450	GO:0050896	memory	response to stimulus
+41444	41450	GO:0032501	memory	multicellular organismal process
+41513	41519	GO:0050896	memory	response to stimulus
+41513	41519	GO:0032501	memory	multicellular organismal process
+41597	41604	GO:0003824	protein	catalytic activity
+41643	41653	GO:0065007	epigenetic	biological regulation
+41710	41712	GO:0065007	to	biological regulation
+41710	41712	GO:0009987	to	cellular process
+41732	41738	GO:0050896	memory	response to stimulus
+41732	41738	GO:0032501	memory	multicellular organismal process
+41765	41767	GO:0065007	to	biological regulation
+41765	41767	GO:0009987	to	cellular process
+41982	41984	GO:0065007	to	biological regulation
+41982	41984	GO:0009987	to	cellular process
+42109	42111	GO:0065007	to	biological regulation
+42109	42111	GO:0009987	to	cellular process
+42146	42154	GO:0050896	behavior	response to stimulus
+42160	42162	GO:0065007	to	biological regulation
+42160	42162	GO:0009987	to	cellular process
+42333	42335	GO:0065007	to	biological regulation
+42333	42335	GO:0009987	to	cellular process
+42695	42697	GO:0065007	to	biological regulation
+42695	42697	GO:0009987	to	cellular process
+42768	42770	GO:0065007	to	biological regulation
+42768	42770	GO:0009987	to	cellular process
+42790	42792	GO:0065007	to	biological regulation
+42790	42792	GO:0009987	to	cellular process
+43455	43463	GO:0050896	learning	response to stimulus
+43455	43463	GO:0032501	learning	multicellular organismal process
+43469	43475	GO:0050896	memory	response to stimulus
+43469	43475	GO:0032501	memory	multicellular organismal process
+43546	43548	GO:0065007	To	biological regulation
+43546	43548	GO:0009987	To	cellular process
+43582	43592	GO:0065007	epigenetic	biological regulation
+43685	43691	GO:0050896	memory	response to stimulus
+43685	43691	GO:0032501	memory	multicellular organismal process
+43723	43731	GO:0050896	learning	response to stimulus
+43723	43731	GO:0032501	learning	multicellular organismal process
+44934	44944	GO:0043226	pronucleus	organelle
+44934	44944	GO:0044464	pronucleus	cell part
+45143	45153	GO:0043226	pronucleus	organelle
+45143	45153	GO:0044464	pronucleus	cell part
+45157	45164	GO:0022414	oocytes	reproductive process
+45157	45164	GO:0032502	oocytes	developmental process
+45418	45425	GO:0003824	protein	catalytic activity
+45960	45962	GO:0065007	to	biological regulation
+45960	45962	GO:0009987	to	cellular process
+47870	47880	GO:0044421	antibodies	extraccellular region part
+47870	47880	GO:0032991	antibodies	macromolecular complex
+48039	48049	GO:0044421	antibodies	extraccellular region part
+48039	48049	GO:0032991	antibodies	macromolecular complex
+48168	48176	GO:0044421	antibody	extraccellular region part
+48168	48176	GO:0032991	antibody	macromolecular complex
+48396	48403	GO:0003824	protein	catalytic activity
+48468	48478	GO:0044421	Antibodies	extraccellular region part
+48468	48478	GO:0032991	Antibodies	macromolecular complex
+48615	48623	GO:0009987	internal	cellular process
+48615	48623	GO:0008152	internal	metabolic process
+48685	48695	GO:0044421	antibodies	extraccellular region part
+48685	48695	GO:0032991	antibodies	macromolecular complex
+48700	48702	GO:0065007	to	biological regulation
+48700	48702	GO:0009987	to	cellular process
+48925	48927	GO:0065007	to	biological regulation
+48925	48927	GO:0009987	to	cellular process
+49265	49267	GO:0065007	to	biological regulation
+49265	49267	GO:0009987	to	cellular process
+49508	49510	GO:0065007	to	biological regulation
+49508	49510	GO:0009987	to	cellular process
+50144	50148	GO:0032502	Head	developmental process
+50161	50163	GO:0065007	to	biological regulation
+50161	50163	GO:0009987	to	cellular process
+50181	50183	GO:0065007	to	biological regulation
+50181	50183	GO:0009987	to	cellular process
+50208	50210	GO:0065007	to	biological regulation
+50208	50210	GO:0009987	to	cellular process
+50647	50658	GO:0032501	habituation	multicellular organismal process
+50647	50658	GO:0050896	habituation	response to stimulus
+50941	50945	GO:0032502	head	developmental process
+51512	51514	GO:0065007	to	biological regulation
+51512	51514	GO:0009987	to	cellular process
+51669	51671	GO:0065007	to	biological regulation
+51669	51671	GO:0009987	to	cellular process
+51669	51671	GO:0065007	to	biological regulation
+51669	51671	GO:0009987	to	cellular process
+51884	51886	GO:0065007	to	biological regulation
+51884	51886	GO:0009987	to	cellular process
+51884	51886	GO:0065007	to	biological regulation
+51884	51886	GO:0009987	to	cellular process
+52450	52452	GO:0065007	to	biological regulation
+52450	52452	GO:0009987	to	cellular process
+53178	53180	GO:0065007	To	biological regulation
+53178	53180	GO:0009987	To	cellular process
+53234	53236	GO:0065007	to	biological regulation
+53234	53236	GO:0009987	to	cellular process
+53274	53276	GO:0065007	to	biological regulation
+53274	53276	GO:0009987	to	cellular process
+53306	53314	GO:0050896	behavior	response to stimulus
+53464	53468	GO:0032502	head	developmental process
+53518	53520	GO:0065007	to	biological regulation
+53518	53520	GO:0009987	to	cellular process
+53717	53719	GO:0065007	to	biological regulation
+53717	53719	GO:0009987	to	cellular process
+54116	54118	GO:0065007	to	biological regulation
+54116	54118	GO:0009987	to	cellular process
+54167	54169	GO:0065007	to	biological regulation
+54167	54169	GO:0009987	to	cellular process
+54357	54368	GO:0032501	habituation	multicellular organismal process
+54357	54368	GO:0050896	habituation	response to stimulus
 54388	54390	GO:0065007	to	biological regulation
 54388	54390	GO:0009987	to	cellular process
-54418	54424	GO:0050896	memory	response to stimulus
-54418	54424	GO:0032501	memory	multicellular organismal process
-54489	54497	GO:0050896	learning	response to stimulus
-54489	54497	GO:0032501	learning	multicellular organismal process
-54586	54594	GO:0050896	learning	response to stimulus
-54586	54594	GO:0032501	learning	multicellular organismal process
-54654	54662	GO:0050896	learning	response to stimulus
-54654	54662	GO:0032501	learning	multicellular organismal process
-54873	54875	GO:0065007	To	biological regulation
-54873	54875	GO:0009987	To	cellular process
-55450	55452	GO:0065007	to	biological regulation
-55450	55452	GO:0009987	to	cellular process
-55497	55503	GO:0032501	Memory	multicellular organismal process
-55497	55503	GO:0050896	Memory	response to stimulus
-55515	55517	GO:0065007	To	biological regulation
-55515	55517	GO:0009987	To	cellular process
-55525	55531	GO:0050896	memory	response to stimulus
-55525	55531	GO:0032501	memory	multicellular organismal process
-55562	55564	GO:0065007	to	biological regulation
-55562	55564	GO:0009987	to	cellular process
-55620	55626	GO:0050896	memory	response to stimulus
-55620	55626	GO:0032501	memory	multicellular organismal process
-55789	55795	GO:0032501	Memory	multicellular organismal process
-55789	55795	GO:0050896	Memory	response to stimulus
-55876	55878	GO:0065007	to	biological regulation
-55876	55878	GO:0009987	to	cellular process
-55909	55911	GO:0065007	to	biological regulation
-55909	55911	GO:0009987	to	cellular process
-55989	55991	GO:0065007	to	biological regulation
-55989	55991	GO:0009987	to	cellular process
-56044	56046	GO:0065007	to	biological regulation
-56044	56046	GO:0009987	to	cellular process
-56197	56205	GO:0050896	Learning	response to stimulus
-56197	56205	GO:0032501	Learning	multicellular organismal process
-56355	56363	GO:0050896	learning	response to stimulus
-56355	56363	GO:0032501	learning	multicellular organismal process
-56420	56422	GO:0065007	to	biological regulation
-56420	56422	GO:0009987	to	cellular process
-56538	56540	GO:0065007	To	biological regulation
-56538	56540	GO:0009987	To	cellular process
-56637	56644	GO:0009987	reduced	cellular process
-56637	56644	GO:0008152	reduced	metabolic process
-56637	56644	GO:0005215	reduced	transporter activity
-56637	56644	GO:0051234	reduced	establishment of localization
-56645	56647	GO:0065007	to	biological regulation
-56645	56647	GO:0009987	to	cellular process
-56669	56671	GO:0065007	To	biological regulation
-56669	56671	GO:0009987	To	cellular process
-56680	56686	GO:0050896	memory	response to stimulus
-56680	56686	GO:0032501	memory	multicellular organismal process
-56760	56762	GO:0065007	to	biological regulation
-56760	56762	GO:0009987	to	cellular process
-56917	56923	GO:0050896	memory	response to stimulus
-56917	56923	GO:0032501	memory	multicellular organismal process
-56987	56993	GO:0050896	memory	response to stimulus
-56987	56993	GO:0032501	memory	multicellular organismal process
-57025	57031	GO:0050896	memory	response to stimulus
-57025	57031	GO:0032501	memory	multicellular organismal process
-57275	57277	GO:0065007	to	biological regulation
-57275	57277	GO:0009987	to	cellular process
-57309	57311	GO:0065007	to	biological regulation
-57309	57311	GO:0009987	to	cellular process
-57972	57977	GO:0005623	cells	cell
-57994	57999	GO:0005623	cells	cell
-58391	58397	GO:0032501	Memory	multicellular organismal process
-58391	58397	GO:0050896	Memory	response to stimulus
-58417	58419	GO:0065007	to	biological regulation
-58417	58419	GO:0009987	to	cellular process
-58444	58450	GO:0032501	Memory	multicellular organismal process
-58444	58450	GO:0050896	Memory	response to stimulus
-58603	58609	GO:0050896	memory	response to stimulus
-58603	58609	GO:0032501	memory	multicellular organismal process
-58652	58658	GO:0032501	Memory	multicellular organismal process
-58652	58658	GO:0050896	Memory	response to stimulus
-58698	58705	GO:0009987	reduced	cellular process
-58698	58705	GO:0008152	reduced	metabolic process
-58698	58705	GO:0005215	reduced	transporter activity
-58698	58705	GO:0051234	reduced	establishment of localization
-58960	58966	GO:0050896	memory	response to stimulus
-58960	58966	GO:0032501	memory	multicellular organismal process
-59063	59069	GO:0050896	memory	response to stimulus
-59063	59069	GO:0032501	memory	multicellular organismal process
-59249	59255	GO:0050896	memory	response to stimulus
-59249	59255	GO:0032501	memory	multicellular organismal process
-59478	59480	GO:0065007	to	biological regulation
-59478	59480	GO:0009987	to	cellular process
-59494	59500	GO:0050896	memory	response to stimulus
-59494	59500	GO:0032501	memory	multicellular organismal process
-59766	59771	GO:0005623	cells	cell
-59795	59798	GO:0023046	red	signaling process
-59795	59798	GO:0050896	red	response to stimulus
-59795	59798	GO:0009987	red	cellular process
-59795	59798	GO:0065007	red	biological regulation
-59828	59833	GO:0005623	cells	cell
-59890	59895	GO:0005623	cells	cell
-60051	60053	GO:0065007	to	biological regulation
-60051	60053	GO:0009987	to	cellular process
-60602	60604	GO:0065007	to	biological regulation
-60602	60604	GO:0009987	to	cellular process
-60733	60735	GO:0065007	to	biological regulation
-60733	60735	GO:0009987	to	cellular process
-61014	61021	GO:0003824	protein	catalytic activity
-61078	61087	GO:0003824	glutamine	catalytic activity
-61130	61138	GO:0050896	Learning	response to stimulus
-61130	61138	GO:0032501	Learning	multicellular organismal process
-61844	61848	GO:0032502	head	developmental process
-61862	61864	GO:0065007	to	biological regulation
-61862	61864	GO:0009987	to	cellular process
-62586	62590	GO:0032502	head	developmental process
-62685	62688	GO:0023046	red	signaling process
-62685	62688	GO:0050896	red	response to stimulus
-62685	62688	GO:0009987	red	cellular process
-62685	62688	GO:0065007	red	biological regulation
-62742	62746	GO:0032502	head	developmental process
-62789	62793	GO:0032502	head	developmental process
-62851	62855	GO:0032502	head	developmental process
-62961	62963	GO:0065007	to	biological regulation
-62961	62963	GO:0009987	to	cellular process
-63131	63139	GO:0050896	Learning	response to stimulus
-63131	63139	GO:0032501	Learning	multicellular organismal process
-63181	63187	GO:0032501	Memory	multicellular organismal process
-63181	63187	GO:0050896	Memory	response to stimulus
-63191	63198	GO:0005215	Reduced	transporter activity
-63191	63198	GO:0008152	Reduced	metabolic process
-63191	63198	GO:0009987	Reduced	cellular process
-63191	63198	GO:0051234	Reduced	establishment of localization
-63342	63345	GO:0023046	red	signaling process
-63342	63345	GO:0050896	red	response to stimulus
-63342	63345	GO:0009987	red	cellular process
-63342	63345	GO:0065007	red	biological regulation
-63596	63604	GO:0050896	learning	response to stimulus
-63596	63604	GO:0032501	learning	multicellular organismal process
-64155	64161	GO:0050896	memory	response to stimulus
-64155	64161	GO:0032501	memory	multicellular organismal process
-64231	64234	GO:0023046	red	signaling process
-64231	64234	GO:0050896	red	response to stimulus
-64231	64234	GO:0009987	red	cellular process
-64231	64234	GO:0065007	red	biological regulation
-64252	64258	GO:0050896	memory	response to stimulus
-64252	64258	GO:0032501	memory	multicellular organismal process
-65071	65077	GO:0032501	Memory	multicellular organismal process
-65071	65077	GO:0050896	Memory	response to stimulus
-65091	65099	GO:0050896	Learning	response to stimulus
-65091	65099	GO:0032501	Learning	multicellular organismal process
-65221	65227	GO:0050896	memory	response to stimulus
-65221	65227	GO:0032501	memory	multicellular organismal process
-65258	65261	GO:0023046	red	signaling process
-65258	65261	GO:0050896	red	response to stimulus
-65258	65261	GO:0009987	red	cellular process
-65258	65261	GO:0065007	red	biological regulation
-65937	65944	GO:0003824	protein	catalytic activity
-66022	66032	GO:0044421	antibodies	extraccellular region part
-66022	66032	GO:0032991	antibodies	macromolecular complex
-66068	66076	GO:0009987	internal	cellular process
-66068	66076	GO:0008152	internal	metabolic process
-66203	66211	GO:0050896	learning	response to stimulus
-66203	66211	GO:0032501	learning	multicellular organismal process
-66241	66247	GO:0050896	memory	response to stimulus
-66241	66247	GO:0032501	memory	multicellular organismal process
-66377	66384	GO:0003824	protein	catalytic activity
-66395	66401	GO:0032501	Memory	multicellular organismal process
-66395	66401	GO:0050896	Memory	response to stimulus
-66395	66401	GO:0032501	Memory	multicellular organismal process
-66395	66401	GO:0050896	Memory	response to stimulus
-66415	66417	GO:0065007	to	biological regulation
-66415	66417	GO:0009987	to	cellular process
+54535	54537	GO:0065007	to	biological regulation
+54535	54537	GO:0009987	to	cellular process
+54562	54564	GO:0065007	to	biological regulation
+54562	54564	GO:0009987	to	cellular process
+54592	54598	GO:0050896	memory	response to stimulus
+54592	54598	GO:0032501	memory	multicellular organismal process
+54663	54671	GO:0050896	learning	response to stimulus
+54663	54671	GO:0032501	learning	multicellular organismal process
+54760	54768	GO:0050896	learning	response to stimulus
+54760	54768	GO:0032501	learning	multicellular organismal process
+54828	54836	GO:0050896	learning	response to stimulus
+54828	54836	GO:0032501	learning	multicellular organismal process
+55047	55049	GO:0065007	To	biological regulation
+55047	55049	GO:0009987	To	cellular process
+55626	55628	GO:0065007	to	biological regulation
+55626	55628	GO:0009987	to	cellular process
+55675	55681	GO:0032501	Memory	multicellular organismal process
+55675	55681	GO:0050896	Memory	response to stimulus
+55695	55697	GO:0065007	To	biological regulation
+55695	55697	GO:0009987	To	cellular process
+55705	55711	GO:0050896	memory	response to stimulus
+55705	55711	GO:0032501	memory	multicellular organismal process
+55742	55744	GO:0065007	to	biological regulation
+55742	55744	GO:0009987	to	cellular process
+55800	55806	GO:0050896	memory	response to stimulus
+55800	55806	GO:0032501	memory	multicellular organismal process
+55969	55975	GO:0032501	Memory	multicellular organismal process
+55969	55975	GO:0050896	Memory	response to stimulus
+56056	56058	GO:0065007	to	biological regulation
+56056	56058	GO:0009987	to	cellular process
+56089	56091	GO:0065007	to	biological regulation
+56089	56091	GO:0009987	to	cellular process
+56169	56171	GO:0065007	to	biological regulation
+56169	56171	GO:0009987	to	cellular process
+56224	56226	GO:0065007	to	biological regulation
+56224	56226	GO:0009987	to	cellular process
+56381	56389	GO:0050896	Learning	response to stimulus
+56381	56389	GO:0032501	Learning	multicellular organismal process
+56539	56547	GO:0050896	learning	response to stimulus
+56539	56547	GO:0032501	learning	multicellular organismal process
+56604	56606	GO:0065007	to	biological regulation
+56604	56606	GO:0009987	to	cellular process
+56722	56724	GO:0065007	To	biological regulation
+56722	56724	GO:0009987	To	cellular process
+56821	56828	GO:0009987	reduced	cellular process
+56821	56828	GO:0008152	reduced	metabolic process
+56821	56828	GO:0005215	reduced	transporter activity
+56821	56828	GO:0051234	reduced	establishment of localization
+56829	56831	GO:0065007	to	biological regulation
+56829	56831	GO:0009987	to	cellular process
+56853	56855	GO:0065007	To	biological regulation
+56853	56855	GO:0009987	To	cellular process
+56864	56870	GO:0050896	memory	response to stimulus
+56864	56870	GO:0032501	memory	multicellular organismal process
+56944	56946	GO:0065007	to	biological regulation
+56944	56946	GO:0009987	to	cellular process
+57101	57107	GO:0050896	memory	response to stimulus
+57101	57107	GO:0032501	memory	multicellular organismal process
+57171	57177	GO:0050896	memory	response to stimulus
+57171	57177	GO:0032501	memory	multicellular organismal process
+57209	57215	GO:0050896	memory	response to stimulus
+57209	57215	GO:0032501	memory	multicellular organismal process
+57467	57469	GO:0065007	to	biological regulation
+57467	57469	GO:0009987	to	cellular process
+57501	57503	GO:0065007	to	biological regulation
+57501	57503	GO:0009987	to	cellular process
+58168	58173	GO:0005623	cells	cell
+58190	58195	GO:0005623	cells	cell
+58605	58611	GO:0032501	Memory	multicellular organismal process
+58605	58611	GO:0050896	Memory	response to stimulus
+58631	58633	GO:0065007	to	biological regulation
+58631	58633	GO:0009987	to	cellular process
+58660	58666	GO:0032501	Memory	multicellular organismal process
+58660	58666	GO:0050896	Memory	response to stimulus
+58819	58825	GO:0050896	memory	response to stimulus
+58819	58825	GO:0032501	memory	multicellular organismal process
+58868	58874	GO:0032501	Memory	multicellular organismal process
+58868	58874	GO:0050896	Memory	response to stimulus
+58914	58921	GO:0009987	reduced	cellular process
+58914	58921	GO:0008152	reduced	metabolic process
+58914	58921	GO:0005215	reduced	transporter activity
+58914	58921	GO:0051234	reduced	establishment of localization
+59176	59182	GO:0050896	memory	response to stimulus
+59176	59182	GO:0032501	memory	multicellular organismal process
+59281	59287	GO:0050896	memory	response to stimulus
+59281	59287	GO:0032501	memory	multicellular organismal process
+59467	59473	GO:0050896	memory	response to stimulus
+59467	59473	GO:0032501	memory	multicellular organismal process
+59696	59698	GO:0065007	to	biological regulation
+59696	59698	GO:0009987	to	cellular process
+59712	59718	GO:0050896	memory	response to stimulus
+59712	59718	GO:0032501	memory	multicellular organismal process
+59994	59999	GO:0005623	cells	cell
+60023	60026	GO:0023046	red	signaling process
+60023	60026	GO:0050896	red	response to stimulus
+60023	60026	GO:0009987	red	cellular process
+60023	60026	GO:0065007	red	biological regulation
+60056	60061	GO:0005623	cells	cell
+60118	60123	GO:0005623	cells	cell
+60287	60289	GO:0065007	to	biological regulation
+60287	60289	GO:0009987	to	cellular process
+60838	60840	GO:0065007	to	biological regulation
+60838	60840	GO:0009987	to	cellular process
+60969	60971	GO:0065007	to	biological regulation
+60969	60971	GO:0009987	to	cellular process
+61262	61269	GO:0003824	protein	catalytic activity
+61332	61341	GO:0003824	glutamine	catalytic activity
+61392	61400	GO:0050896	Learning	response to stimulus
+61392	61400	GO:0032501	Learning	multicellular organismal process
+62110	62114	GO:0032502	head	developmental process
+62128	62130	GO:0065007	to	biological regulation
+62128	62130	GO:0009987	to	cellular process
+62856	62860	GO:0032502	head	developmental process
+62955	62958	GO:0023046	red	signaling process
+62955	62958	GO:0050896	red	response to stimulus
+62955	62958	GO:0009987	red	cellular process
+62955	62958	GO:0065007	red	biological regulation
+63012	63016	GO:0032502	head	developmental process
+63059	63063	GO:0032502	head	developmental process
+63123	63127	GO:0032502	head	developmental process
+63233	63235	GO:0065007	to	biological regulation
+63233	63235	GO:0009987	to	cellular process
+63409	63417	GO:0050896	Learning	response to stimulus
+63409	63417	GO:0032501	Learning	multicellular organismal process
+63459	63465	GO:0032501	Memory	multicellular organismal process
+63459	63465	GO:0050896	Memory	response to stimulus
+63469	63476	GO:0005215	Reduced	transporter activity
+63469	63476	GO:0008152	Reduced	metabolic process
+63469	63476	GO:0009987	Reduced	cellular process
+63469	63476	GO:0051234	Reduced	establishment of localization
+63624	63627	GO:0023046	red	signaling process
+63624	63627	GO:0050896	red	response to stimulus
+63624	63627	GO:0009987	red	cellular process
+63624	63627	GO:0065007	red	biological regulation
+63878	63886	GO:0050896	learning	response to stimulus
+63878	63886	GO:0032501	learning	multicellular organismal process
+64441	64447	GO:0050896	memory	response to stimulus
+64441	64447	GO:0032501	memory	multicellular organismal process
+64517	64520	GO:0023046	red	signaling process
+64517	64520	GO:0050896	red	response to stimulus
+64517	64520	GO:0009987	red	cellular process
+64517	64520	GO:0065007	red	biological regulation
+64538	64544	GO:0050896	memory	response to stimulus
+64538	64544	GO:0032501	memory	multicellular organismal process
+65369	65375	GO:0032501	Memory	multicellular organismal process
+65369	65375	GO:0050896	Memory	response to stimulus
+65389	65397	GO:0050896	Learning	response to stimulus
+65389	65397	GO:0032501	Learning	multicellular organismal process
+65521	65527	GO:0050896	memory	response to stimulus
+65521	65527	GO:0032501	memory	multicellular organismal process
+65558	65561	GO:0023046	red	signaling process
+65558	65561	GO:0050896	red	response to stimulus
+65558	65561	GO:0009987	red	cellular process
+65558	65561	GO:0065007	red	biological regulation
+66239	66246	GO:0003824	protein	catalytic activity
+66324	66334	GO:0044421	antibodies	extraccellular region part
+66324	66334	GO:0032991	antibodies	macromolecular complex
+66370	66378	GO:0009987	internal	cellular process
+66370	66378	GO:0008152	internal	metabolic process
+66507	66515	GO:0050896	learning	response to stimulus
+66507	66515	GO:0032501	learning	multicellular organismal process
+66545	66551	GO:0050896	memory	response to stimulus
+66545	66551	GO:0032501	memory	multicellular organismal process
 66681	66688	GO:0003824	protein	catalytic activity
-66854	66862	GO:0050896	learning	response to stimulus
-66854	66862	GO:0032501	learning	multicellular organismal process
-67339	67341	GO:0065007	to	biological regulation
-67339	67341	GO:0009987	to	cellular process
-67748	67755	GO:0065007	neurons	biological regulation
-67748	67755	GO:0016265	neurons	death
-67748	67755	GO:0009987	neurons	cellular process
-67772	67779	GO:0065007	neurons	biological regulation
-67772	67779	GO:0016265	neurons	death
-67772	67779	GO:0009987	neurons	cellular process
-67813	67820	GO:0065007	neurons	biological regulation
-67813	67820	GO:0016265	neurons	death
-67813	67820	GO:0009987	neurons	cellular process
-67901	67909	GO:0044421	antibody	extraccellular region part
-67901	67909	GO:0032991	antibody	macromolecular complex
-68255	68261	GO:0032501	Memory	multicellular organismal process
-68255	68261	GO:0050896	Memory	response to stimulus
-68301	68307	GO:0050896	memory	response to stimulus
-68301	68307	GO:0032501	memory	multicellular organismal process
-68454	68457	GO:0023046	red	signaling process
-68454	68457	GO:0050896	red	response to stimulus
-68454	68457	GO:0009987	red	cellular process
-68454	68457	GO:0065007	red	biological regulation
-68705	68711	GO:0050896	memory	response to stimulus
-68705	68711	GO:0032501	memory	multicellular organismal process
-68725	68731	GO:0032501	Memory	multicellular organismal process
-68725	68731	GO:0050896	Memory	response to stimulus
-68952	68958	GO:0050896	memory	response to stimulus
-68952	68958	GO:0032501	memory	multicellular organismal process
-69020	69026	GO:0050896	memory	response to stimulus
-69020	69026	GO:0032501	memory	multicellular organismal process
-69047	69054	GO:0003824	protein	catalytic activity
-69155	69157	GO:0065007	to	biological regulation
-69155	69157	GO:0009987	to	cellular process
-69162	69168	GO:0050896	memory	response to stimulus
-69162	69168	GO:0032501	memory	multicellular organismal process
-70177	70183	GO:0050896	memory	response to stimulus
-70177	70183	GO:0032501	memory	multicellular organismal process
+66699	66705	GO:0032501	Memory	multicellular organismal process
+66699	66705	GO:0050896	Memory	response to stimulus
+66699	66705	GO:0032501	Memory	multicellular organismal process
+66699	66705	GO:0050896	Memory	response to stimulus
+66719	66721	GO:0065007	to	biological regulation
+66719	66721	GO:0009987	to	cellular process
+66985	66992	GO:0003824	protein	catalytic activity
+67158	67166	GO:0050896	learning	response to stimulus
+67158	67166	GO:0032501	learning	multicellular organismal process
+67649	67651	GO:0065007	to	biological regulation
+67649	67651	GO:0009987	to	cellular process
+68060	68067	GO:0065007	neurons	biological regulation
+68060	68067	GO:0016265	neurons	death
+68060	68067	GO:0009987	neurons	cellular process
+68084	68091	GO:0065007	neurons	biological regulation
+68084	68091	GO:0016265	neurons	death
+68084	68091	GO:0009987	neurons	cellular process
+68125	68132	GO:0065007	neurons	biological regulation
+68125	68132	GO:0016265	neurons	death
+68125	68132	GO:0009987	neurons	cellular process
+68213	68221	GO:0044421	antibody	extraccellular region part
+68213	68221	GO:0032991	antibody	macromolecular complex
+68575	68581	GO:0032501	Memory	multicellular organismal process
+68575	68581	GO:0050896	Memory	response to stimulus
+68623	68629	GO:0050896	memory	response to stimulus
+68623	68629	GO:0032501	memory	multicellular organismal process
+68776	68779	GO:0023046	red	signaling process
+68776	68779	GO:0050896	red	response to stimulus
+68776	68779	GO:0009987	red	cellular process
+68776	68779	GO:0065007	red	biological regulation
+69029	69035	GO:0050896	memory	response to stimulus
+69029	69035	GO:0032501	memory	multicellular organismal process
+69049	69055	GO:0032501	Memory	multicellular organismal process
+69049	69055	GO:0050896	Memory	response to stimulus
+69276	69282	GO:0050896	memory	response to stimulus
+69276	69282	GO:0032501	memory	multicellular organismal process
+69344	69350	GO:0050896	memory	response to stimulus
+69344	69350	GO:0032501	memory	multicellular organismal process
+69371	69378	GO:0003824	protein	catalytic activity
+69479	69481	GO:0065007	to	biological regulation
+69479	69481	GO:0009987	to	cellular process
+69486	69492	GO:0050896	memory	response to stimulus
+69486	69492	GO:0032501	memory	multicellular organismal process
+70511	70517	GO:0050896	memory	response to stimulus
+70511	70517	GO:0032501	memory	multicellular organismal process

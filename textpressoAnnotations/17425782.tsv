@@ -1,516 +1,516 @@
 StartIndex	EndIndex	GO:ID	Term	OntologyTerm
 29	38	GO:0023052	signaling	signaling
 52	70	GO:0032502	kidney development	developmental process
-179	192	GO:0009987	transcription	cellular process
-179	192	GO:0008152	transcription	metabolic process
-179	207	GO:0032991	transcription factor complex	macromolecular complex
-179	207	GO:0044464	transcription factor complex	cell part
-179	207	GO:0044422	transcription factor complex	organelle part
-225	234	GO:0023052	signaling	signaling
-236	238	GO:0065007	To	biological regulation
-236	238	GO:0009987	To	cellular process
-305	314	GO:0023052	signaling	signaling
-318	336	GO:0032502	kidney development	developmental process
-671	677	GO:0040007	growth	growth
-699	717	GO:0032502	kidney development	developmental process
-1005	1014	GO:0023052	signaling	signaling
-1022	1029	GO:0009987	reduced	cellular process
-1022	1029	GO:0008152	reduced	metabolic process
-1022	1029	GO:0005215	reduced	transporter activity
-1022	1029	GO:0051234	reduced	establishment of localization
-1257	1261	GO:0005623	cell	cell
-1415	1438	GO:0032502	Branching morphogenesis	developmental process
-1415	1438	GO:0032501	Branching morphogenesis	multicellular organismal process
-1425	1438	GO:0032502	morphogenesis	developmental process
-1495	1502	GO:0009987	reduced	cellular process
-1495	1502	GO:0008152	reduced	metabolic process
-1495	1502	GO:0005215	reduced	transporter activity
-1495	1502	GO:0051234	reduced	establishment of localization
-1538	1540	GO:0065007	to	biological regulation
-1538	1540	GO:0009987	to	cellular process
-1686	1695	GO:0008152	formation	metabolic process
-1882	1900	GO:0032502	kidney development	developmental process
-1963	1986	GO:0032501	branching morphogenesis	multicellular organismal process
-1963	1986	GO:0032502	branching morphogenesis	developmental process
-1973	1986	GO:0032502	morphogenesis	developmental process
-2014	2032	GO:0032502	kidney development	developmental process
-2311	2320	GO:0023052	signaling	signaling
-2451	2460	GO:0023052	signaling	signaling
-2508	2526	GO:0032502	kidney development	developmental process
-2722	2724	GO:0065007	to	biological regulation
-2722	2724	GO:0009987	to	cellular process
-2951	2955	GO:0005623	cell	cell
-3107	3116	GO:0008152	formation	metabolic process
-3204	3206	GO:0065007	to	biological regulation
-3204	3206	GO:0009987	to	cellular process
-3248	3250	GO:0065007	to	biological regulation
-3248	3250	GO:0009987	to	cellular process
-3390	3399	GO:0023052	signaling	signaling
-3529	3538	GO:0023052	signaling	signaling
-3595	3604	GO:0008152	formation	metabolic process
-3700	3707	GO:0043226	nucleus	organelle
-3700	3707	GO:0044464	nucleus	cell part
-4031	4043	GO:0051179	localization	localization
-4279	4281	GO:0065007	to	biological regulation
-4279	4281	GO:0009987	to	cellular process
-4315	4324	GO:0023052	signaling	signaling
-4530	4532	GO:0065007	to	biological regulation
-4530	4532	GO:0009987	to	cellular process
-4623	4625	GO:0065007	to	biological regulation
-4623	4625	GO:0009987	to	cellular process
-4640	4649	GO:0023052	signaling	signaling
-4657	4675	GO:0032502	kidney development	developmental process
-4716	4723	GO:0032502	embryos	developmental process
-4778	4787	GO:0023052	signaling	signaling
-4904	4906	GO:0065007	to	biological regulation
-4904	4906	GO:0009987	to	cellular process
-5029	5052	GO:0032501	branching morphogenesis	multicellular organismal process
-5029	5052	GO:0032502	branching morphogenesis	developmental process
-5039	5052	GO:0032502	morphogenesis	developmental process
-5184	5193	GO:0008152	formation	metabolic process
-5380	5389	GO:0023052	signaling	signaling
-5563	5565	GO:0065007	to	biological regulation
-5563	5565	GO:0009987	to	cellular process
-5696	5698	GO:0065007	to	biological regulation
-5696	5698	GO:0009987	to	cellular process
-6094	6103	GO:0023052	signaling	signaling
-6302	6311	GO:0023052	signaling	signaling
-6514	6516	GO:0065007	to	biological regulation
-6514	6516	GO:0009987	to	cellular process
-6567	6569	GO:0065007	to	biological regulation
-6567	6569	GO:0009987	to	cellular process
-6746	6755	GO:0023052	signaling	signaling
-6794	6800	GO:0040007	growth	growth
-7000	7002	GO:0065007	to	biological regulation
-7000	7002	GO:0009987	to	cellular process
-7337	7344	GO:0032502	embryos	developmental process
-7374	7381	GO:0032502	embryos	developmental process
-7488	7495	GO:0032502	embryos	developmental process
-7645	7652	GO:0032502	embryos	developmental process
-7645	7652	GO:0032502	embryos	developmental process
-8034	8036	GO:0065007	to	biological regulation
-8034	8036	GO:0009987	to	cellular process
-8122	8124	GO:0065007	to	biological regulation
-8122	8124	GO:0009987	to	cellular process
-8179	8181	GO:0065007	to	biological regulation
-8179	8181	GO:0009987	to	cellular process
-8325	8337	GO:0051179	localization	localization
-8349	8357	GO:0003824	proteins	catalytic activity
-8411	8416	GO:0005623	cells	cell
-8461	8463	GO:0065007	to	biological regulation
-8461	8463	GO:0009987	to	cellular process
-8510	8515	GO:0005623	cells	cell
-8582	8587	GO:0005623	cells	cell
-8622	8630	GO:0003824	proteins	catalytic activity
-8726	8728	GO:0065007	to	biological regulation
-8726	8728	GO:0009987	to	cellular process
-8782	8790	GO:0003824	proteins	catalytic activity
-8848	8851	GO:0023046	red	signaling process
-8848	8851	GO:0050896	red	response to stimulus
-8848	8851	GO:0009987	red	cellular process
-8848	8851	GO:0065007	red	biological regulation
-8875	8882	GO:0043226	nucleus	organelle
-8875	8882	GO:0044464	nucleus	cell part
-9043	9047	GO:0005623	cell	cell
-9081	9086	GO:0005623	cells	cell
-9165	9173	GO:0044421	antibody	extraccellular region part
-9165	9173	GO:0032991	antibody	macromolecular complex
-9254	9256	GO:0065007	to	biological regulation
-9254	9256	GO:0009987	to	cellular process
-9543	9546	GO:0023046	red	signaling process
-9543	9546	GO:0050896	red	response to stimulus
-9543	9546	GO:0009987	red	cellular process
-9543	9546	GO:0065007	red	biological regulation
-9560	9563	GO:0023046	red	signaling process
-9560	9563	GO:0050896	red	response to stimulus
-9560	9563	GO:0009987	red	cellular process
-9560	9563	GO:0065007	red	biological regulation
-9565	9575	GO:0044421	antibodies	extraccellular region part
-9565	9575	GO:0032991	antibodies	macromolecular complex
-9661	9669	GO:0044421	antibody	extraccellular region part
-9661	9669	GO:0032991	antibody	macromolecular complex
-9688	9696	GO:0043226	vesicles	organelle
-9720	9730	GO:0044421	Antibodies	extraccellular region part
-9720	9730	GO:0032991	Antibodies	macromolecular complex
-9731	9733	GO:0065007	to	biological regulation
-9731	9733	GO:0009987	to	cellular process
-9783	9785	GO:0065007	to	biological regulation
-9783	9785	GO:0009987	to	cellular process
-9952	9954	GO:0065007	to	biological regulation
-9952	9954	GO:0009987	to	cellular process
-10179	10189	GO:0044421	antibodies	extraccellular region part
-10179	10189	GO:0032991	antibodies	macromolecular complex
-10190	10192	GO:0065007	to	biological regulation
-10190	10192	GO:0009987	to	cellular process
-10287	10290	GO:0023046	red	signaling process
-10287	10290	GO:0050896	red	response to stimulus
-10287	10290	GO:0009987	red	cellular process
-10287	10290	GO:0065007	red	biological regulation
-10452	10459	GO:0009987	reduced	cellular process
-10452	10459	GO:0008152	reduced	metabolic process
-10452	10459	GO:0005215	reduced	transporter activity
-10452	10459	GO:0051234	reduced	establishment of localization
-10452	10455	GO:0023046	red	signaling process
-10452	10455	GO:0050896	red	response to stimulus
-10452	10455	GO:0009987	red	cellular process
-10452	10455	GO:0065007	red	biological regulation
-11142	11144	GO:0065007	to	biological regulation
-11142	11144	GO:0009987	to	cellular process
-11287	11295	GO:0043226	vesicles	organelle
-12078	12085	GO:0032502	embryos	developmental process
-12537	12544	GO:0009987	reduced	cellular process
-12537	12544	GO:0008152	reduced	metabolic process
-12537	12544	GO:0005215	reduced	transporter activity
-12537	12544	GO:0051234	reduced	establishment of localization
-12537	12544	GO:0009987	reduced	cellular process
-12537	12544	GO:0008152	reduced	metabolic process
-12537	12544	GO:0005215	reduced	transporter activity
-12537	12544	GO:0051234	reduced	establishment of localization
-13119	13126	GO:0005215	Reduced	transporter activity
-13119	13126	GO:0008152	Reduced	metabolic process
-13119	13126	GO:0009987	Reduced	cellular process
-13119	13126	GO:0051234	Reduced	establishment of localization
-13141	13150	GO:0023052	signaling	signaling
+185	198	GO:0009987	transcription	cellular process
+185	198	GO:0008152	transcription	metabolic process
+185	213	GO:0032991	transcription factor complex	macromolecular complex
+185	213	GO:0044464	transcription factor complex	cell part
+185	213	GO:0044422	transcription factor complex	organelle part
+231	240	GO:0023052	signaling	signaling
+242	244	GO:0065007	To	biological regulation
+242	244	GO:0009987	To	cellular process
+311	320	GO:0023052	signaling	signaling
+324	342	GO:0032502	kidney development	developmental process
+681	687	GO:0040007	growth	growth
+709	727	GO:0032502	kidney development	developmental process
+1015	1024	GO:0023052	signaling	signaling
+1032	1039	GO:0009987	reduced	cellular process
+1032	1039	GO:0008152	reduced	metabolic process
+1032	1039	GO:0005215	reduced	transporter activity
+1032	1039	GO:0051234	reduced	establishment of localization
+1267	1271	GO:0005623	cell	cell
+1425	1448	GO:0032502	Branching morphogenesis	developmental process
+1425	1448	GO:0032501	Branching morphogenesis	multicellular organismal process
+1435	1448	GO:0032502	morphogenesis	developmental process
+1505	1512	GO:0009987	reduced	cellular process
+1505	1512	GO:0008152	reduced	metabolic process
+1505	1512	GO:0005215	reduced	transporter activity
+1505	1512	GO:0051234	reduced	establishment of localization
+1548	1550	GO:0065007	to	biological regulation
+1548	1550	GO:0009987	to	cellular process
+1696	1705	GO:0008152	formation	metabolic process
+1892	1910	GO:0032502	kidney development	developmental process
+1977	2000	GO:0032501	branching morphogenesis	multicellular organismal process
+1977	2000	GO:0032502	branching morphogenesis	developmental process
+1987	2000	GO:0032502	morphogenesis	developmental process
+2028	2046	GO:0032502	kidney development	developmental process
+2325	2334	GO:0023052	signaling	signaling
+2469	2478	GO:0023052	signaling	signaling
+2526	2544	GO:0032502	kidney development	developmental process
+2740	2742	GO:0065007	to	biological regulation
+2740	2742	GO:0009987	to	cellular process
+2969	2973	GO:0005623	cell	cell
+3125	3134	GO:0008152	formation	metabolic process
+3222	3224	GO:0065007	to	biological regulation
+3222	3224	GO:0009987	to	cellular process
+3266	3268	GO:0065007	to	biological regulation
+3266	3268	GO:0009987	to	cellular process
+3408	3417	GO:0023052	signaling	signaling
+3549	3558	GO:0023052	signaling	signaling
+3615	3624	GO:0008152	formation	metabolic process
+3720	3727	GO:0043226	nucleus	organelle
+3720	3727	GO:0044464	nucleus	cell part
+4051	4063	GO:0051179	localization	localization
+4299	4301	GO:0065007	to	biological regulation
+4299	4301	GO:0009987	to	cellular process
+4335	4344	GO:0023052	signaling	signaling
+4552	4554	GO:0065007	to	biological regulation
+4552	4554	GO:0009987	to	cellular process
+4645	4647	GO:0065007	to	biological regulation
+4645	4647	GO:0009987	to	cellular process
+4662	4671	GO:0023052	signaling	signaling
+4679	4697	GO:0032502	kidney development	developmental process
+4738	4745	GO:0032502	embryos	developmental process
+4800	4809	GO:0023052	signaling	signaling
+4926	4928	GO:0065007	to	biological regulation
+4926	4928	GO:0009987	to	cellular process
+5051	5074	GO:0032501	branching morphogenesis	multicellular organismal process
+5051	5074	GO:0032502	branching morphogenesis	developmental process
+5061	5074	GO:0032502	morphogenesis	developmental process
+5206	5215	GO:0008152	formation	metabolic process
+5402	5411	GO:0023052	signaling	signaling
+5591	5593	GO:0065007	to	biological regulation
+5591	5593	GO:0009987	to	cellular process
+5724	5726	GO:0065007	to	biological regulation
+5724	5726	GO:0009987	to	cellular process
+6122	6131	GO:0023052	signaling	signaling
+6334	6343	GO:0023052	signaling	signaling
+6546	6548	GO:0065007	to	biological regulation
+6546	6548	GO:0009987	to	cellular process
+6601	6603	GO:0065007	to	biological regulation
+6601	6603	GO:0009987	to	cellular process
+6780	6789	GO:0023052	signaling	signaling
+6828	6834	GO:0040007	growth	growth
+7036	7038	GO:0065007	to	biological regulation
+7036	7038	GO:0009987	to	cellular process
+7377	7384	GO:0032502	embryos	developmental process
+7414	7421	GO:0032502	embryos	developmental process
+7528	7535	GO:0032502	embryos	developmental process
+7685	7692	GO:0032502	embryos	developmental process
+7685	7692	GO:0032502	embryos	developmental process
+8084	8086	GO:0065007	to	biological regulation
+8084	8086	GO:0009987	to	cellular process
+8172	8174	GO:0065007	to	biological regulation
+8172	8174	GO:0009987	to	cellular process
+8229	8231	GO:0065007	to	biological regulation
+8229	8231	GO:0009987	to	cellular process
+8375	8387	GO:0051179	localization	localization
+8399	8407	GO:0003824	proteins	catalytic activity
+8461	8466	GO:0005623	cells	cell
+8511	8513	GO:0065007	to	biological regulation
+8511	8513	GO:0009987	to	cellular process
+8560	8565	GO:0005623	cells	cell
+8632	8637	GO:0005623	cells	cell
+8672	8680	GO:0003824	proteins	catalytic activity
+8780	8782	GO:0065007	to	biological regulation
+8780	8782	GO:0009987	to	cellular process
+8836	8844	GO:0003824	proteins	catalytic activity
+8902	8905	GO:0023046	red	signaling process
+8902	8905	GO:0050896	red	response to stimulus
+8902	8905	GO:0009987	red	cellular process
+8902	8905	GO:0065007	red	biological regulation
+8929	8936	GO:0043226	nucleus	organelle
+8929	8936	GO:0044464	nucleus	cell part
+9097	9101	GO:0005623	cell	cell
+9135	9140	GO:0005623	cells	cell
+9219	9227	GO:0044421	antibody	extraccellular region part
+9219	9227	GO:0032991	antibody	macromolecular complex
+9312	9314	GO:0065007	to	biological regulation
+9312	9314	GO:0009987	to	cellular process
+9601	9604	GO:0023046	red	signaling process
+9601	9604	GO:0050896	red	response to stimulus
+9601	9604	GO:0009987	red	cellular process
+9601	9604	GO:0065007	red	biological regulation
+9618	9621	GO:0023046	red	signaling process
+9618	9621	GO:0050896	red	response to stimulus
+9618	9621	GO:0009987	red	cellular process
+9618	9621	GO:0065007	red	biological regulation
+9623	9633	GO:0044421	antibodies	extraccellular region part
+9623	9633	GO:0032991	antibodies	macromolecular complex
+9719	9727	GO:0044421	antibody	extraccellular region part
+9719	9727	GO:0032991	antibody	macromolecular complex
+9746	9754	GO:0043226	vesicles	organelle
+9778	9788	GO:0044421	Antibodies	extraccellular region part
+9778	9788	GO:0032991	Antibodies	macromolecular complex
+9789	9791	GO:0065007	to	biological regulation
+9789	9791	GO:0009987	to	cellular process
+9841	9843	GO:0065007	to	biological regulation
+9841	9843	GO:0009987	to	cellular process
+10010	10012	GO:0065007	to	biological regulation
+10010	10012	GO:0009987	to	cellular process
+10241	10251	GO:0044421	antibodies	extraccellular region part
+10241	10251	GO:0032991	antibodies	macromolecular complex
+10252	10254	GO:0065007	to	biological regulation
+10252	10254	GO:0009987	to	cellular process
+10349	10352	GO:0023046	red	signaling process
+10349	10352	GO:0050896	red	response to stimulus
+10349	10352	GO:0009987	red	cellular process
+10349	10352	GO:0065007	red	biological regulation
+10514	10521	GO:0009987	reduced	cellular process
+10514	10521	GO:0008152	reduced	metabolic process
+10514	10521	GO:0005215	reduced	transporter activity
+10514	10521	GO:0051234	reduced	establishment of localization
+10514	10517	GO:0023046	red	signaling process
+10514	10517	GO:0050896	red	response to stimulus
+10514	10517	GO:0009987	red	cellular process
+10514	10517	GO:0065007	red	biological regulation
+11206	11208	GO:0065007	to	biological regulation
+11206	11208	GO:0009987	to	cellular process
+11351	11359	GO:0043226	vesicles	organelle
+12152	12159	GO:0032502	embryos	developmental process
+12615	12622	GO:0009987	reduced	cellular process
+12615	12622	GO:0008152	reduced	metabolic process
+12615	12622	GO:0005215	reduced	transporter activity
+12615	12622	GO:0051234	reduced	establishment of localization
+12615	12622	GO:0009987	reduced	cellular process
+12615	12622	GO:0008152	reduced	metabolic process
+12615	12622	GO:0005215	reduced	transporter activity
+12615	12622	GO:0051234	reduced	establishment of localization
+13203	13210	GO:0005215	Reduced	transporter activity
+13203	13210	GO:0008152	Reduced	metabolic process
+13203	13210	GO:0009987	Reduced	cellular process
+13203	13210	GO:0051234	Reduced	establishment of localization
 13225	13234	GO:0023052	signaling	signaling
-13249	13251	GO:0065007	to	biological regulation
-13249	13251	GO:0009987	to	cellular process
-13275	13284	GO:0023052	signaling	signaling
-13353	13360	GO:0032502	embryos	developmental process
-13396	13405	GO:0023052	signaling	signaling
-13606	13615	GO:0023052	signaling	signaling
-13713	13722	GO:0023052	signaling	signaling
-13774	13781	GO:0005215	Reduced	transporter activity
-13774	13781	GO:0008152	Reduced	metabolic process
-13774	13781	GO:0009987	Reduced	cellular process
-13774	13781	GO:0051234	Reduced	establishment of localization
-13796	13805	GO:0023052	signaling	signaling
-13838	13845	GO:0032502	embryos	developmental process
-13853	13860	GO:0032502	embryos	developmental process
-13919	13928	GO:0023052	signaling	signaling
-13952	13959	GO:0032502	embryos	developmental process
-14039	14046	GO:0043226	vesicle	organelle
-14143	14150	GO:0032502	embryos	developmental process
-14192	14199	GO:0009987	reduced	cellular process
-14192	14199	GO:0008152	reduced	metabolic process
-14192	14199	GO:0005215	reduced	transporter activity
-14192	14199	GO:0051234	reduced	establishment of localization
-14309	14316	GO:0043226	vesicle	organelle
-14353	14359	GO:0032502	embryo	developmental process
-14511	14518	GO:0032502	embryos	developmental process
-14601	14610	GO:0023052	signaling	signaling
-14612	14619	GO:0032502	Embryos	developmental process
-14706	14713	GO:0032502	embryos	developmental process
-15068	15077	GO:0023052	signaling	signaling
-15149	15156	GO:0032502	embryos	developmental process
-15371	15373	GO:0065007	to	biological regulation
-15371	15373	GO:0009987	to	cellular process
-15415	15422	GO:0009987	reduced	cellular process
-15415	15422	GO:0008152	reduced	metabolic process
-15415	15422	GO:0005215	reduced	transporter activity
-15415	15422	GO:0051234	reduced	establishment of localization
-15920	15926	GO:0032502	embryo	developmental process
-15964	15970	GO:0032502	embryo	developmental process
-16093	16099	GO:0032502	embryo	developmental process
-16155	16162	GO:0009987	reduced	cellular process
-16155	16162	GO:0008152	reduced	metabolic process
-16155	16162	GO:0005215	reduced	transporter activity
-16155	16162	GO:0051234	reduced	establishment of localization
-16272	16278	GO:0032502	embryo	developmental process
-16349	16376	GO:0003824	beta-galactosidase activity	catalytic activity
-17304	17309	GO:0005623	cells	cell
-18028	18030	GO:0065007	to	biological regulation
-18028	18030	GO:0009987	to	cellular process
-18100	18109	GO:0023052	signaling	signaling
-18559	18568	GO:0023052	signaling	signaling
-19388	19397	GO:0023052	signaling	signaling
-19742	19747	GO:0005623	cells	cell
-20084	20093	GO:0023052	signaling	signaling
-20144	20146	GO:0065007	to	biological regulation
-20144	20146	GO:0009987	to	cellular process
-20709	20718	GO:0023052	signaling	signaling
-21115	21124	GO:0023052	signaling	signaling
-21553	21560	GO:0009987	reduced	cellular process
-21553	21560	GO:0008152	reduced	metabolic process
-21553	21560	GO:0005215	reduced	transporter activity
-21553	21560	GO:0051234	reduced	establishment of localization
-21937	21945	GO:0043226	vesicles	organelle
-22043	22045	GO:0065007	to	biological regulation
-22043	22045	GO:0009987	to	cellular process
-22084	22093	GO:0023052	signaling	signaling
-22207	22216	GO:0023052	signaling	signaling
-22302	22304	GO:0065007	to	biological regulation
-22302	22304	GO:0009987	to	cellular process
-22331	22340	GO:0023052	signaling	signaling
-22510	22519	GO:0023052	signaling	signaling
-22551	22553	GO:0065007	To	biological regulation
-22551	22553	GO:0009987	To	cellular process
-22677	22686	GO:0023052	signaling	signaling
-22899	22901	GO:0065007	to	biological regulation
-22899	22901	GO:0009987	to	cellular process
-23020	23029	GO:0023052	signaling	signaling
-23132	23134	GO:0065007	To	biological regulation
-23132	23134	GO:0009987	To	cellular process
-23175	23190	GO:0008152	gene expression	metabolic process
-23246	23248	GO:0065007	to	biological regulation
-23246	23248	GO:0009987	to	cellular process
-23259	23265	GO:0065007	global	biological regulation
-23278	23293	GO:0008152	gene expression	metabolic process
-23346	23348	GO:0065007	to	biological regulation
-23346	23348	GO:0009987	to	cellular process
-23387	23396	GO:0023052	signaling	signaling
-23422	23424	GO:0065007	to	biological regulation
-23422	23424	GO:0009987	to	cellular process
-24178	24192	GO:0051234	glucose uptake	establishment of localization
-24400	24410	GO:0022414	maturation	reproductive process
-24560	24562	GO:0065007	to	biological regulation
-24560	24562	GO:0009987	to	cellular process
-24880	24908	GO:0065007	regulation of blood pressure	biological regulation
-25190	25203	GO:0009987	transcription	cellular process
-25190	25203	GO:0008152	transcription	metabolic process
-25227	25258	GO:0065007	regulation of circadian rhythms	biological regulation
-25241	25258	GO:0048511	circadian rhythms	rhythmic process
-25326	25328	GO:0065007	to	biological regulation
-25326	25328	GO:0009987	to	cellular process
-25347	25370	GO:0032501	branching morphogenesis	multicellular organismal process
-25347	25370	GO:0032502	branching morphogenesis	developmental process
-25357	25370	GO:0032502	morphogenesis	developmental process
-25611	25613	GO:0065007	to	biological regulation
-25611	25613	GO:0009987	to	cellular process
-26045	26054	GO:0023052	signaling	signaling
-26110	26125	GO:0008152	Gene expression	metabolic process
-26148	26157	GO:0023052	signaling	signaling
-26430	26437	GO:0009987	reduced	cellular process
-26430	26437	GO:0008152	reduced	metabolic process
-26430	26437	GO:0005215	reduced	transporter activity
-26430	26437	GO:0051234	reduced	establishment of localization
-26438	26440	GO:0065007	to	biological regulation
-26438	26440	GO:0009987	to	cellular process
-26443	26445	GO:0065007	to	biological regulation
-26443	26445	GO:0009987	to	cellular process
-26538	26540	GO:0065007	to	biological regulation
-26538	26540	GO:0009987	to	cellular process
-26609	26611	GO:0065007	to	biological regulation
-26609	26611	GO:0009987	to	cellular process
-27095	27110	GO:0008152	gene expression	metabolic process
-27168	27170	GO:0065007	to	biological regulation
-27168	27170	GO:0009987	to	cellular process
-27272	27281	GO:0023052	signaling	signaling
-27325	27334	GO:0023052	signaling	signaling
-27408	27422	GO:0032502	imaginal discs	developmental process
-27476	27485	GO:0023052	signaling	signaling
-27746	27765	GO:0009987	signal transduction	cellular process
-27746	27765	GO:0023046	signal transduction	signaling process
-27746	27765	GO:0050896	signal transduction	response to stimulus
-27746	27765	GO:0065007	signal transduction	biological regulation
-27746	27765	GO:0023052	signal transduction	signaling
-27753	27765	GO:0051704	transduction	multi-organism process
-27953	27955	GO:0065007	to	biological regulation
-27953	27955	GO:0009987	to	cellular process
-28337	28339	GO:0065007	to	biological regulation
-28337	28339	GO:0009987	to	cellular process
-28599	28608	GO:0023052	signaling	signaling
-28691	28693	GO:0065007	to	biological regulation
-28691	28693	GO:0009987	to	cellular process
-28750	28758	GO:0003824	proteins	catalytic activity
-28770	28783	GO:0009987	transcription	cellular process
-28770	28783	GO:0008152	transcription	metabolic process
-28821	28830	GO:0044422	chromatin	organelle part
-28821	28830	GO:0044464	chromatin	cell part
-28821	28841	GO:0009987	chromatin remodeling	cellular process
-28821	28841	GO:0016043	chromatin remodeling	cellular component organization
-29005	29007	GO:0065007	to	biological regulation
-29005	29007	GO:0009987	to	cellular process
-29028	29037	GO:0023052	signaling	signaling
-29055	29068	GO:0032502	embryogenesis	developmental process
-29073	29086	GO:0032502	imaginal disc	developmental process
-29073	29098	GO:0032502	imaginal disc development	developmental process
-29593	29602	GO:0023052	signaling	signaling
-29618	29620	GO:0065007	to	biological regulation
-29618	29620	GO:0009987	to	cellular process
-29756	29758	GO:0065007	to	biological regulation
-29756	29758	GO:0009987	to	cellular process
-30077	30095	GO:0032502	kidney development	developmental process
-30168	30177	GO:0023052	signaling	signaling
-30336	30345	GO:0023052	signaling	signaling
-30418	30425	GO:0009987	reduced	cellular process
-30418	30425	GO:0008152	reduced	metabolic process
-30418	30425	GO:0005215	reduced	transporter activity
-30418	30425	GO:0051234	reduced	establishment of localization
-30530	30539	GO:0023052	signaling	signaling
-30543	30566	GO:0032501	branching morphogenesis	multicellular organismal process
-30543	30566	GO:0032502	branching morphogenesis	developmental process
-30553	30566	GO:0032502	morphogenesis	developmental process
-30625	30631	GO:0009987	direct	cellular process
-30625	30631	GO:0008152	direct	metabolic process
-30636	30645	GO:0023052	signaling	signaling
-30646	30648	GO:0065007	to	biological regulation
-30646	30648	GO:0009987	to	cellular process
-30772	30781	GO:0023052	signaling	signaling
-30782	30784	GO:0065007	to	biological regulation
-30782	30784	GO:0009987	to	cellular process
-30838	30840	GO:0065007	to	biological regulation
-30838	30840	GO:0009987	to	cellular process
-30854	30863	GO:0023052	signaling	signaling
-30900	30907	GO:0009987	reduced	cellular process
-30900	30907	GO:0008152	reduced	metabolic process
-30900	30907	GO:0005215	reduced	transporter activity
-30900	30907	GO:0051234	reduced	establishment of localization
-30908	30931	GO:0032501	branching morphogenesis	multicellular organismal process
-30908	30931	GO:0032502	branching morphogenesis	developmental process
-30918	30931	GO:0032502	morphogenesis	developmental process
-30976	30978	GO:0065007	to	biological regulation
-30976	30978	GO:0009987	to	cellular process
-31074	31076	GO:0065007	to	biological regulation
-31074	31076	GO:0009987	to	cellular process
-31117	31119	GO:0065007	to	biological regulation
-31117	31119	GO:0009987	to	cellular process
-31248	31257	GO:0023052	signaling	signaling
-31330	31339	GO:0023052	signaling	signaling
-31362	31364	GO:0065007	to	biological regulation
-31362	31364	GO:0009987	to	cellular process
-31389	31398	GO:0023052	signaling	signaling
-31419	31421	GO:0065007	to	biological regulation
-31419	31421	GO:0009987	to	cellular process
-31493	31502	GO:0023052	signaling	signaling
-31750	31759	GO:0023052	signaling	signaling
-31782	31784	GO:0065007	to	biological regulation
-31782	31784	GO:0009987	to	cellular process
-31827	31829	GO:0065007	to	biological regulation
-31827	31829	GO:0009987	to	cellular process
-31869	31878	GO:0023052	signaling	signaling
-32089	32098	GO:0023052	signaling	signaling
-32146	32148	GO:0065007	to	biological regulation
-32146	32148	GO:0009987	to	cellular process
-32186	32195	GO:0023052	signaling	signaling
-32245	32254	GO:0023052	signaling	signaling
-32262	32269	GO:0009987	reduced	cellular process
-32262	32269	GO:0008152	reduced	metabolic process
-32262	32269	GO:0005215	reduced	transporter activity
-32262	32269	GO:0051234	reduced	establishment of localization
-32324	32331	GO:0032502	embryos	developmental process
-32504	32517	GO:0032502	organogenesis	developmental process
-32622	32630	GO:0003824	proteins	catalytic activity
-32709	32718	GO:0023052	signaling	signaling
-32858	32860	GO:0065007	to	biological regulation
-32858	32860	GO:0009987	to	cellular process
-33093	33095	GO:0065007	to	biological regulation
-33093	33095	GO:0009987	to	cellular process
-33351	33360	GO:0023052	signaling	signaling
-33477	33483	GO:0009987	direct	cellular process
-33477	33483	GO:0008152	direct	metabolic process
-33500	33518	GO:0032502	kidney development	developmental process
-33549	33551	GO:0065007	to	biological regulation
-33549	33551	GO:0009987	to	cellular process
-33662	33671	GO:0023052	signaling	signaling
-33745	33768	GO:0032501	branching morphogenesis	multicellular organismal process
-33745	33768	GO:0032502	branching morphogenesis	developmental process
-33755	33768	GO:0032502	morphogenesis	developmental process
-33828	33835	GO:0009987	reduced	cellular process
-33828	33835	GO:0008152	reduced	metabolic process
-33828	33835	GO:0005215	reduced	transporter activity
-33828	33835	GO:0051234	reduced	establishment of localization
-33995	34004	GO:0008152	formation	metabolic process
-34167	34176	GO:0023052	signaling	signaling
-34228	34237	GO:0023052	signaling	signaling
-34377	34386	GO:0023052	signaling	signaling
-34397	34401	GO:0005623	cell	cell
-34434	34441	GO:0009987	reduced	cellular process
-34434	34441	GO:0008152	reduced	metabolic process
-34434	34441	GO:0005215	reduced	transporter activity
-34434	34441	GO:0051234	reduced	establishment of localization
-34604	34613	GO:0023052	signaling	signaling
-34767	34776	GO:0023052	signaling	signaling
-34826	34839	GO:0032502	organogenesis	developmental process
-35086	35094	GO:0003824	proteins	catalytic activity
-35133	35145	GO:0051179	localization	localization
-35153	35166	GO:0009987	transcription	cellular process
-35153	35166	GO:0008152	transcription	metabolic process
-35280	35282	GO:0065007	to	biological regulation
-35280	35282	GO:0009987	to	cellular process
-35529	35531	GO:0065007	to	biological regulation
-35529	35531	GO:0009987	to	cellular process
-35887	35891	GO:0005623	cell	cell
-36496	36501	GO:0005623	cells	cell
-36529	36534	GO:0005623	cells	cell
-36556	36558	GO:0065007	to	biological regulation
-36556	36558	GO:0009987	to	cellular process
-36797	36803	GO:0051704	mating	multi-organism process
-36797	36803	GO:0022414	mating	reproductive process
-37468	37470	GO:0065007	to	biological regulation
-37468	37470	GO:0009987	to	cellular process
-37498	37508	GO:0044421	antibodies	extraccellular region part
-37498	37508	GO:0032991	antibodies	macromolecular complex
-37707	37717	GO:0044421	antibodies	extraccellular region part
-37707	37717	GO:0032991	antibodies	macromolecular complex
-37731	37741	GO:0044421	antibodies	extraccellular region part
-37731	37741	GO:0032991	antibodies	macromolecular complex
-37913	37919	GO:0032501	Vision	multicellular organismal process
-37966	37976	GO:0044421	antibodies	extraccellular region part
-37966	37976	GO:0032991	antibodies	macromolecular complex
-38049	38059	GO:0044421	antibodies	extraccellular region part
-38049	38059	GO:0032991	antibodies	macromolecular complex
-38332	38334	GO:0065007	to	biological regulation
-38332	38334	GO:0009987	to	cellular process
-38441	38443	GO:0065007	to	biological regulation
-38441	38443	GO:0009987	to	cellular process
-38523	38529	GO:0032502	embryo	developmental process
-38746	38748	GO:0065007	to	biological regulation
-38746	38748	GO:0009987	to	cellular process
-38864	38872	GO:0044421	antibody	extraccellular region part
-38864	38872	GO:0032991	antibody	macromolecular complex
-38864	38883	GO:0002376	antibody production	immune system process
-38883	38885	GO:0065007	To	biological regulation
-38883	38885	GO:0009987	To	cellular process
-38972	38982	GO:0044421	antibodies	extraccellular region part
-38972	38982	GO:0032991	antibodies	macromolecular complex
-39023	39025	GO:0065007	to	biological regulation
-39023	39025	GO:0009987	to	cellular process
-39296	39304	GO:0003824	proteins	catalytic activity
-39373	39381	GO:0044421	antibody	extraccellular region part
-39373	39381	GO:0032991	antibody	macromolecular complex
-39373	39392	GO:0002376	antibody production	immune system process
-39514	39516	GO:0065007	to	biological regulation
-39514	39516	GO:0009987	to	cellular process
-39514	39516	GO:0065007	to	biological regulation
-39514	39516	GO:0009987	to	cellular process
-39522	39524	GO:0065007	to	biological regulation
-39522	39524	GO:0009987	to	cellular process
-39563	39573	GO:0044421	antibodies	extraccellular region part
-39563	39573	GO:0032991	antibodies	macromolecular complex
-39689	39691	GO:0065007	to	biological regulation
-39689	39691	GO:0009987	to	cellular process
-39689	39691	GO:0065007	to	biological regulation
-39689	39691	GO:0009987	to	cellular process
-39814	39816	GO:0065007	To	biological regulation
-39814	39816	GO:0009987	To	cellular process
-39832	39840	GO:0044421	antibody	extraccellular region part
-39832	39840	GO:0032991	antibody	macromolecular complex
-39866	39876	GO:0044421	antibodies	extraccellular region part
-39866	39876	GO:0032991	antibodies	macromolecular complex
-39942	39948	GO:0032502	embryo	developmental process
-40018	40027	GO:0023052	signaling	signaling
-40050	40057	GO:0032502	embryos	developmental process
-40140	40142	GO:0065007	to	biological regulation
-40140	40142	GO:0009987	to	cellular process
-40168	40170	GO:0065007	to	biological regulation
-40168	40170	GO:0009987	to	cellular process
-40263	40265	GO:0065007	to	biological regulation
-40263	40265	GO:0009987	to	cellular process
-40436	40443	GO:0003824	protein	catalytic activity
-40742	40749	GO:0032502	embryos	developmental process
-40858	40860	GO:0065007	to	biological regulation
-40858	40860	GO:0009987	to	cellular process
-41013	41015	GO:0065007	to	biological regulation
-41013	41015	GO:0009987	to	cellular process
-41414	41416	GO:0065007	to	biological regulation
-41414	41416	GO:0009987	to	cellular process
-41414	41416	GO:0065007	to	biological regulation
-41414	41416	GO:0009987	to	cellular process
-41465	41467	GO:0065007	to	biological regulation
-41465	41467	GO:0009987	to	cellular process
-42035	42037	GO:0065007	to	biological regulation
-42035	42037	GO:0009987	to	cellular process
-42995	43003	GO:0009987	internal	cellular process
-42995	43003	GO:0008152	internal	metabolic process
-43397	43407	GO:0044421	antibodies	extraccellular region part
-43397	43407	GO:0032991	antibodies	macromolecular complex
+13311	13320	GO:0023052	signaling	signaling
+13335	13337	GO:0065007	to	biological regulation
+13335	13337	GO:0009987	to	cellular process
+13361	13370	GO:0023052	signaling	signaling
+13439	13446	GO:0032502	embryos	developmental process
+13482	13491	GO:0023052	signaling	signaling
+13692	13701	GO:0023052	signaling	signaling
+13799	13808	GO:0023052	signaling	signaling
+13864	13871	GO:0005215	Reduced	transporter activity
+13864	13871	GO:0008152	Reduced	metabolic process
+13864	13871	GO:0009987	Reduced	cellular process
+13864	13871	GO:0051234	Reduced	establishment of localization
+13886	13895	GO:0023052	signaling	signaling
+13928	13935	GO:0032502	embryos	developmental process
+13943	13950	GO:0032502	embryos	developmental process
+14009	14018	GO:0023052	signaling	signaling
+14042	14049	GO:0032502	embryos	developmental process
+14129	14136	GO:0043226	vesicle	organelle
+14233	14240	GO:0032502	embryos	developmental process
+14282	14289	GO:0009987	reduced	cellular process
+14282	14289	GO:0008152	reduced	metabolic process
+14282	14289	GO:0005215	reduced	transporter activity
+14282	14289	GO:0051234	reduced	establishment of localization
+14399	14406	GO:0043226	vesicle	organelle
+14443	14449	GO:0032502	embryo	developmental process
+14601	14608	GO:0032502	embryos	developmental process
+14691	14700	GO:0023052	signaling	signaling
+14702	14709	GO:0032502	Embryos	developmental process
+14796	14803	GO:0032502	embryos	developmental process
+15160	15169	GO:0023052	signaling	signaling
+15241	15248	GO:0032502	embryos	developmental process
+15463	15465	GO:0065007	to	biological regulation
+15463	15465	GO:0009987	to	cellular process
+15507	15514	GO:0009987	reduced	cellular process
+15507	15514	GO:0008152	reduced	metabolic process
+15507	15514	GO:0005215	reduced	transporter activity
+15507	15514	GO:0051234	reduced	establishment of localization
+16016	16022	GO:0032502	embryo	developmental process
+16060	16066	GO:0032502	embryo	developmental process
+16189	16195	GO:0032502	embryo	developmental process
+16251	16258	GO:0009987	reduced	cellular process
+16251	16258	GO:0008152	reduced	metabolic process
+16251	16258	GO:0005215	reduced	transporter activity
+16251	16258	GO:0051234	reduced	establishment of localization
+16368	16374	GO:0032502	embryo	developmental process
+16445	16472	GO:0003824	beta-galactosidase activity	catalytic activity
+17400	17405	GO:0005623	cells	cell
+18126	18128	GO:0065007	to	biological regulation
+18126	18128	GO:0009987	to	cellular process
+18198	18207	GO:0023052	signaling	signaling
+18657	18666	GO:0023052	signaling	signaling
+19490	19499	GO:0023052	signaling	signaling
+19844	19849	GO:0005623	cells	cell
+20186	20195	GO:0023052	signaling	signaling
+20248	20250	GO:0065007	to	biological regulation
+20248	20250	GO:0009987	to	cellular process
+20813	20822	GO:0023052	signaling	signaling
+21219	21228	GO:0023052	signaling	signaling
+21661	21668	GO:0009987	reduced	cellular process
+21661	21668	GO:0008152	reduced	metabolic process
+21661	21668	GO:0005215	reduced	transporter activity
+21661	21668	GO:0051234	reduced	establishment of localization
+22047	22055	GO:0043226	vesicles	organelle
+22153	22155	GO:0065007	to	biological regulation
+22153	22155	GO:0009987	to	cellular process
+22194	22203	GO:0023052	signaling	signaling
+22317	22326	GO:0023052	signaling	signaling
+22412	22414	GO:0065007	to	biological regulation
+22412	22414	GO:0009987	to	cellular process
+22441	22450	GO:0023052	signaling	signaling
+22620	22629	GO:0023052	signaling	signaling
+22661	22663	GO:0065007	To	biological regulation
+22661	22663	GO:0009987	To	cellular process
+22787	22796	GO:0023052	signaling	signaling
+23009	23011	GO:0065007	to	biological regulation
+23009	23011	GO:0009987	to	cellular process
+23130	23139	GO:0023052	signaling	signaling
+23246	23248	GO:0065007	To	biological regulation
+23246	23248	GO:0009987	To	cellular process
+23289	23304	GO:0008152	gene expression	metabolic process
+23360	23362	GO:0065007	to	biological regulation
+23360	23362	GO:0009987	to	cellular process
+23373	23379	GO:0065007	global	biological regulation
+23392	23407	GO:0008152	gene expression	metabolic process
+23460	23462	GO:0065007	to	biological regulation
+23460	23462	GO:0009987	to	cellular process
+23501	23510	GO:0023052	signaling	signaling
+23536	23538	GO:0065007	to	biological regulation
+23536	23538	GO:0009987	to	cellular process
+24292	24306	GO:0051234	glucose uptake	establishment of localization
+24514	24524	GO:0022414	maturation	reproductive process
+24678	24680	GO:0065007	to	biological regulation
+24678	24680	GO:0009987	to	cellular process
+25000	25028	GO:0065007	regulation of blood pressure	biological regulation
+25310	25323	GO:0009987	transcription	cellular process
+25310	25323	GO:0008152	transcription	metabolic process
+25347	25378	GO:0065007	regulation of circadian rhythms	biological regulation
+25361	25378	GO:0048511	circadian rhythms	rhythmic process
+25446	25448	GO:0065007	to	biological regulation
+25446	25448	GO:0009987	to	cellular process
+25467	25490	GO:0032501	branching morphogenesis	multicellular organismal process
+25467	25490	GO:0032502	branching morphogenesis	developmental process
+25477	25490	GO:0032502	morphogenesis	developmental process
+25733	25735	GO:0065007	to	biological regulation
+25733	25735	GO:0009987	to	cellular process
+26167	26176	GO:0023052	signaling	signaling
+26236	26251	GO:0008152	Gene expression	metabolic process
+26274	26283	GO:0023052	signaling	signaling
+26556	26563	GO:0009987	reduced	cellular process
+26556	26563	GO:0008152	reduced	metabolic process
+26556	26563	GO:0005215	reduced	transporter activity
+26556	26563	GO:0051234	reduced	establishment of localization
+26564	26566	GO:0065007	to	biological regulation
+26564	26566	GO:0009987	to	cellular process
+26569	26571	GO:0065007	to	biological regulation
+26569	26571	GO:0009987	to	cellular process
+26664	26666	GO:0065007	to	biological regulation
+26664	26666	GO:0009987	to	cellular process
+26735	26737	GO:0065007	to	biological regulation
+26735	26737	GO:0009987	to	cellular process
+27227	27242	GO:0008152	gene expression	metabolic process
+27300	27302	GO:0065007	to	biological regulation
+27300	27302	GO:0009987	to	cellular process
+27408	27417	GO:0023052	signaling	signaling
+27461	27470	GO:0023052	signaling	signaling
+27544	27558	GO:0032502	imaginal discs	developmental process
+27612	27621	GO:0023052	signaling	signaling
+27882	27901	GO:0009987	signal transduction	cellular process
+27882	27901	GO:0023046	signal transduction	signaling process
+27882	27901	GO:0050896	signal transduction	response to stimulus
+27882	27901	GO:0065007	signal transduction	biological regulation
+27882	27901	GO:0023052	signal transduction	signaling
+27889	27901	GO:0051704	transduction	multi-organism process
+28091	28093	GO:0065007	to	biological regulation
+28091	28093	GO:0009987	to	cellular process
+28475	28477	GO:0065007	to	biological regulation
+28475	28477	GO:0009987	to	cellular process
+28737	28746	GO:0023052	signaling	signaling
+28829	28831	GO:0065007	to	biological regulation
+28829	28831	GO:0009987	to	cellular process
+28888	28896	GO:0003824	proteins	catalytic activity
+28908	28921	GO:0009987	transcription	cellular process
+28908	28921	GO:0008152	transcription	metabolic process
+28959	28968	GO:0044422	chromatin	organelle part
+28959	28968	GO:0044464	chromatin	cell part
+28959	28979	GO:0009987	chromatin remodeling	cellular process
+28959	28979	GO:0016043	chromatin remodeling	cellular component organization
+29143	29145	GO:0065007	to	biological regulation
+29143	29145	GO:0009987	to	cellular process
+29166	29175	GO:0023052	signaling	signaling
+29193	29206	GO:0032502	embryogenesis	developmental process
+29211	29224	GO:0032502	imaginal disc	developmental process
+29211	29236	GO:0032502	imaginal disc development	developmental process
+29733	29742	GO:0023052	signaling	signaling
+29758	29760	GO:0065007	to	biological regulation
+29758	29760	GO:0009987	to	cellular process
+29896	29898	GO:0065007	to	biological regulation
+29896	29898	GO:0009987	to	cellular process
+30219	30237	GO:0032502	kidney development	developmental process
+30310	30319	GO:0023052	signaling	signaling
+30478	30487	GO:0023052	signaling	signaling
+30560	30567	GO:0009987	reduced	cellular process
+30560	30567	GO:0008152	reduced	metabolic process
+30560	30567	GO:0005215	reduced	transporter activity
+30560	30567	GO:0051234	reduced	establishment of localization
+30672	30681	GO:0023052	signaling	signaling
+30685	30708	GO:0032501	branching morphogenesis	multicellular organismal process
+30685	30708	GO:0032502	branching morphogenesis	developmental process
+30695	30708	GO:0032502	morphogenesis	developmental process
+30767	30773	GO:0009987	direct	cellular process
+30767	30773	GO:0008152	direct	metabolic process
+30778	30787	GO:0023052	signaling	signaling
+30788	30790	GO:0065007	to	biological regulation
+30788	30790	GO:0009987	to	cellular process
+30914	30923	GO:0023052	signaling	signaling
+30924	30926	GO:0065007	to	biological regulation
+30924	30926	GO:0009987	to	cellular process
+30980	30982	GO:0065007	to	biological regulation
+30980	30982	GO:0009987	to	cellular process
+30996	31005	GO:0023052	signaling	signaling
+31044	31051	GO:0009987	reduced	cellular process
+31044	31051	GO:0008152	reduced	metabolic process
+31044	31051	GO:0005215	reduced	transporter activity
+31044	31051	GO:0051234	reduced	establishment of localization
+31052	31075	GO:0032501	branching morphogenesis	multicellular organismal process
+31052	31075	GO:0032502	branching morphogenesis	developmental process
+31062	31075	GO:0032502	morphogenesis	developmental process
+31120	31122	GO:0065007	to	biological regulation
+31120	31122	GO:0009987	to	cellular process
+31218	31220	GO:0065007	to	biological regulation
+31218	31220	GO:0009987	to	cellular process
+31261	31263	GO:0065007	to	biological regulation
+31261	31263	GO:0009987	to	cellular process
+31392	31401	GO:0023052	signaling	signaling
+31474	31483	GO:0023052	signaling	signaling
+31506	31508	GO:0065007	to	biological regulation
+31506	31508	GO:0009987	to	cellular process
+31533	31542	GO:0023052	signaling	signaling
+31563	31565	GO:0065007	to	biological regulation
+31563	31565	GO:0009987	to	cellular process
+31637	31646	GO:0023052	signaling	signaling
+31896	31905	GO:0023052	signaling	signaling
+31928	31930	GO:0065007	to	biological regulation
+31928	31930	GO:0009987	to	cellular process
+31973	31975	GO:0065007	to	biological regulation
+31973	31975	GO:0009987	to	cellular process
+32015	32024	GO:0023052	signaling	signaling
+32237	32246	GO:0023052	signaling	signaling
+32294	32296	GO:0065007	to	biological regulation
+32294	32296	GO:0009987	to	cellular process
+32334	32343	GO:0023052	signaling	signaling
+32393	32402	GO:0023052	signaling	signaling
+32410	32417	GO:0009987	reduced	cellular process
+32410	32417	GO:0008152	reduced	metabolic process
+32410	32417	GO:0005215	reduced	transporter activity
+32410	32417	GO:0051234	reduced	establishment of localization
+32472	32479	GO:0032502	embryos	developmental process
+32652	32665	GO:0032502	organogenesis	developmental process
+32770	32778	GO:0003824	proteins	catalytic activity
+32857	32866	GO:0023052	signaling	signaling
+33008	33010	GO:0065007	to	biological regulation
+33008	33010	GO:0009987	to	cellular process
+33243	33245	GO:0065007	to	biological regulation
+33243	33245	GO:0009987	to	cellular process
+33501	33510	GO:0023052	signaling	signaling
+33627	33633	GO:0009987	direct	cellular process
+33627	33633	GO:0008152	direct	metabolic process
+33650	33668	GO:0032502	kidney development	developmental process
+33699	33701	GO:0065007	to	biological regulation
+33699	33701	GO:0009987	to	cellular process
+33812	33821	GO:0023052	signaling	signaling
+33899	33922	GO:0032501	branching morphogenesis	multicellular organismal process
+33899	33922	GO:0032502	branching morphogenesis	developmental process
+33909	33922	GO:0032502	morphogenesis	developmental process
+33982	33989	GO:0009987	reduced	cellular process
+33982	33989	GO:0008152	reduced	metabolic process
+33982	33989	GO:0005215	reduced	transporter activity
+33982	33989	GO:0051234	reduced	establishment of localization
+34149	34158	GO:0008152	formation	metabolic process
+34321	34330	GO:0023052	signaling	signaling
+34382	34391	GO:0023052	signaling	signaling
+34531	34540	GO:0023052	signaling	signaling
+34551	34555	GO:0005623	cell	cell
+34588	34595	GO:0009987	reduced	cellular process
+34588	34595	GO:0008152	reduced	metabolic process
+34588	34595	GO:0005215	reduced	transporter activity
+34588	34595	GO:0051234	reduced	establishment of localization
+34758	34767	GO:0023052	signaling	signaling
+34921	34930	GO:0023052	signaling	signaling
+34980	34993	GO:0032502	organogenesis	developmental process
+35240	35248	GO:0003824	proteins	catalytic activity
+35287	35299	GO:0051179	localization	localization
+35307	35320	GO:0009987	transcription	cellular process
+35307	35320	GO:0008152	transcription	metabolic process
+35434	35436	GO:0065007	to	biological regulation
+35434	35436	GO:0009987	to	cellular process
+35689	35691	GO:0065007	to	biological regulation
+35689	35691	GO:0009987	to	cellular process
+36047	36051	GO:0005623	cell	cell
+36660	36665	GO:0005623	cells	cell
+36693	36698	GO:0005623	cells	cell
+36720	36722	GO:0065007	to	biological regulation
+36720	36722	GO:0009987	to	cellular process
+36963	36969	GO:0051704	mating	multi-organism process
+36963	36969	GO:0022414	mating	reproductive process
+37640	37642	GO:0065007	to	biological regulation
+37640	37642	GO:0009987	to	cellular process
+37670	37680	GO:0044421	antibodies	extraccellular region part
+37670	37680	GO:0032991	antibodies	macromolecular complex
+37879	37889	GO:0044421	antibodies	extraccellular region part
+37879	37889	GO:0032991	antibodies	macromolecular complex
+37903	37913	GO:0044421	antibodies	extraccellular region part
+37903	37913	GO:0032991	antibodies	macromolecular complex
+38085	38091	GO:0032501	Vision	multicellular organismal process
+38138	38148	GO:0044421	antibodies	extraccellular region part
+38138	38148	GO:0032991	antibodies	macromolecular complex
+38221	38231	GO:0044421	antibodies	extraccellular region part
+38221	38231	GO:0032991	antibodies	macromolecular complex
+38506	38508	GO:0065007	to	biological regulation
+38506	38508	GO:0009987	to	cellular process
+38615	38617	GO:0065007	to	biological regulation
+38615	38617	GO:0009987	to	cellular process
+38697	38703	GO:0032502	embryo	developmental process
+38924	38926	GO:0065007	to	biological regulation
+38924	38926	GO:0009987	to	cellular process
+39044	39052	GO:0044421	antibody	extraccellular region part
+39044	39052	GO:0032991	antibody	macromolecular complex
+39044	39063	GO:0002376	antibody production	immune system process
+39065	39067	GO:0065007	To	biological regulation
+39065	39067	GO:0009987	To	cellular process
+39154	39164	GO:0044421	antibodies	extraccellular region part
+39154	39164	GO:0032991	antibodies	macromolecular complex
+39205	39207	GO:0065007	to	biological regulation
+39205	39207	GO:0009987	to	cellular process
+39478	39486	GO:0003824	proteins	catalytic activity
+39555	39563	GO:0044421	antibody	extraccellular region part
+39555	39563	GO:0032991	antibody	macromolecular complex
+39555	39574	GO:0002376	antibody production	immune system process
+39696	39698	GO:0065007	to	biological regulation
+39696	39698	GO:0009987	to	cellular process
+39696	39698	GO:0065007	to	biological regulation
+39696	39698	GO:0009987	to	cellular process
+39704	39706	GO:0065007	to	biological regulation
+39704	39706	GO:0009987	to	cellular process
+39745	39755	GO:0044421	antibodies	extraccellular region part
+39745	39755	GO:0032991	antibodies	macromolecular complex
+39871	39873	GO:0065007	to	biological regulation
+39871	39873	GO:0009987	to	cellular process
+39871	39873	GO:0065007	to	biological regulation
+39871	39873	GO:0009987	to	cellular process
+39996	39998	GO:0065007	To	biological regulation
+39996	39998	GO:0009987	To	cellular process
+40014	40022	GO:0044421	antibody	extraccellular region part
+40014	40022	GO:0032991	antibody	macromolecular complex
+40048	40058	GO:0044421	antibodies	extraccellular region part
+40048	40058	GO:0032991	antibodies	macromolecular complex
+40124	40130	GO:0032502	embryo	developmental process
+40202	40211	GO:0023052	signaling	signaling
+40236	40243	GO:0032502	embryos	developmental process
+40326	40328	GO:0065007	to	biological regulation
+40326	40328	GO:0009987	to	cellular process
+40354	40356	GO:0065007	to	biological regulation
+40354	40356	GO:0009987	to	cellular process
+40449	40451	GO:0065007	to	biological regulation
+40449	40451	GO:0009987	to	cellular process
+40622	40629	GO:0003824	protein	catalytic activity
+40932	40939	GO:0032502	embryos	developmental process
+41048	41050	GO:0065007	to	biological regulation
+41048	41050	GO:0009987	to	cellular process
+41203	41205	GO:0065007	to	biological regulation
+41203	41205	GO:0009987	to	cellular process
+41604	41606	GO:0065007	to	biological regulation
+41604	41606	GO:0009987	to	cellular process
+41604	41606	GO:0065007	to	biological regulation
+41604	41606	GO:0009987	to	cellular process
+41655	41657	GO:0065007	to	biological regulation
+41655	41657	GO:0009987	to	cellular process
+42229	42231	GO:0065007	to	biological regulation
+42229	42231	GO:0009987	to	cellular process
+43189	43197	GO:0009987	internal	cellular process
+43189	43197	GO:0008152	internal	metabolic process
+43595	43605	GO:0044421	antibodies	extraccellular region part
+43595	43605	GO:0032991	antibodies	macromolecular complex

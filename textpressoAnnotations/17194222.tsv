@@ -1,776 +1,776 @@
 StartIndex	EndIndex	GO:ID	Term	OntologyTerm
-118	125	GO:0003824	protein	catalytic activity
-205	221	GO:0032502	limb development	developmental process
-308	310	GO:0065007	to	biological regulation
-308	310	GO:0009987	to	cellular process
-371	380	GO:0009987	embryonic	cellular process
-371	380	GO:0065007	embryonic	biological regulation
-498	500	GO:0065007	to	biological regulation
-498	500	GO:0009987	to	cellular process
-579	595	GO:0032502	limb development	developmental process
-597	599	GO:0065007	To	biological regulation
-597	599	GO:0009987	To	cellular process
-761	763	GO:0065007	to	biological regulation
-761	763	GO:0009987	to	cellular process
-828	830	GO:0065007	to	biological regulation
-828	830	GO:0009987	to	cellular process
-1108	1117	GO:0023052	signaling	signaling
-1147	1161	GO:0032502	chondrogenesis	developmental process
-1210	1212	GO:0065007	to	biological regulation
-1210	1212	GO:0009987	to	cellular process
-1508	1520	GO:0032502	osteogenesis	developmental process
-1548	1557	GO:0023052	signaling	signaling
-1594	1602	GO:0003824	proteins	catalytic activity
-1620	1622	GO:0065007	to	biological regulation
-1620	1622	GO:0009987	to	cellular process
-1651	1660	GO:0008152	formation	metabolic process
-1784	1789	GO:0005623	cells	cell
-1837	1843	GO:0032502	embryo	developmental process
-2092	2094	GO:0065007	to	biological regulation
-2092	2094	GO:0009987	to	cellular process
-2408	2410	GO:0065007	to	biological regulation
-2408	2410	GO:0009987	to	cellular process
-2789	2795	GO:0032502	embryo	developmental process
-2827	2835	GO:0003824	proteins	catalytic activity
-2856	2865	GO:0023052	signaling	signaling
-2886	2888	GO:0065007	to	biological regulation
-2886	2888	GO:0009987	to	cellular process
-2906	2912	GO:0040007	growth	growth
-2916	2918	GO:0065007	to	biological regulation
-2916	2918	GO:0009987	to	cellular process
-3005	3019	GO:0032502	bone formation	developmental process
-3010	3019	GO:0008152	formation	metabolic process
-3102	3104	GO:0065007	to	biological regulation
-3102	3104	GO:0009987	to	cellular process
-3165	3188	GO:0032502	developmental processes	developmental process
-3221	3234	GO:0032502	morphogenesis	developmental process
-3338	3354	GO:0032502	limb development	developmental process
-3382	3384	GO:0065007	to	biological regulation
-3382	3384	GO:0009987	to	cellular process
-3446	3450	GO:0005623	cell	cell
-3561	3577	GO:0032502	limb development	developmental process
-3591	3600	GO:0023052	signaling	signaling
-3757	3759	GO:0065007	to	biological regulation
-3757	3759	GO:0009987	to	cellular process
-3780	3789	GO:0023052	signaling	signaling
-3912	3918	GO:0009987	direct	cellular process
-3912	3918	GO:0008152	direct	metabolic process
-4355	4357	GO:0065007	to	biological regulation
-4355	4357	GO:0009987	to	cellular process
-4537	4546	GO:0023052	signaling	signaling
-4566	4568	GO:0065007	to	biological regulation
-4566	4568	GO:0009987	to	cellular process
-4604	4606	GO:0065007	to	biological regulation
-4604	4606	GO:0009987	to	cellular process
-4843	4850	GO:0032502	embryos	developmental process
-4855	4857	GO:0065007	to	biological regulation
-4855	4857	GO:0009987	to	cellular process
-4960	4967	GO:0032502	embryos	developmental process
-5256	5258	GO:0065007	to	biological regulation
-5256	5258	GO:0009987	to	cellular process
-5328	5330	GO:0065007	to	biological regulation
-5328	5330	GO:0009987	to	cellular process
-5517	5519	GO:0065007	to	biological regulation
-5517	5519	GO:0009987	to	cellular process
-5538	5547	GO:0023052	signaling	signaling
-5781	5783	GO:0065007	to	biological regulation
-5781	5783	GO:0009987	to	cellular process
-6182	6191	GO:0023052	signaling	signaling
-6377	6384	GO:0008152	directs	metabolic process
-6377	6384	GO:0009987	directs	cellular process
-6517	6526	GO:0023052	signaling	signaling
-6709	6716	GO:0032502	embryos	developmental process
-7345	7350	GO:0016265	death	death
-7453	7462	GO:0023052	signaling	signaling
-7689	7724	GO:0032501	fibroblast growth factor production	multicellular organismal process
-7700	7706	GO:0040007	growth	growth
-7751	7753	GO:0065007	to	biological regulation
-7751	7753	GO:0009987	to	cellular process
-7929	7935	GO:0040007	growth	growth
-8035	8044	GO:0023052	signaling	signaling
-8056	8058	GO:0065007	to	biological regulation
-8056	8058	GO:0009987	to	cellular process
-8247	8256	GO:0023052	signaling	signaling
-8332	8348	GO:0032502	limb development	developmental process
-8380	8382	GO:0065007	to	biological regulation
-8380	8382	GO:0009987	to	cellular process
-8496	8505	GO:0023052	signaling	signaling
-8567	8589	GO:0022610	cartilage condensation	biological adhesion
-8567	8589	GO:0009987	cartilage condensation	cellular process
-8768	8770	GO:0065007	to	biological regulation
-8768	8770	GO:0009987	to	cellular process
-8950	8959	GO:0023052	signaling	signaling
-9025	9039	GO:0032502	chondrogenesis	developmental process
-9113	9119	GO:0065007	global	biological regulation
-9120	9134	GO:0032502	chondrogenesis	developmental process
-9120	9134	GO:0032502	chondrogenesis	developmental process
-9389	9403	GO:0032502	bone formation	developmental process
-9394	9403	GO:0008152	formation	metabolic process
-9414	9424	GO:0008152	metabolism	metabolic process
-9577	9579	GO:0065007	to	biological regulation
-9577	9579	GO:0009987	to	cellular process
-9602	9604	GO:0065007	To	biological regulation
-9602	9604	GO:0009987	To	cellular process
-9659	9668	GO:0023052	signaling	signaling
-9842	9858	GO:0032502	limb development	developmental process
-9913	9926	GO:0032502	embryogenesis	developmental process
-10031	10047	GO:0032502	limb development	developmental process
-10789	10803	GO:0032502	chondrogenesis	developmental process
-10805	10817	GO:0032502	Osteogenesis	developmental process
-10980	10992	GO:0032502	osteogenesis	developmental process
-11063	11083	GO:0032502	skeletal development	developmental process
-11131	11145	GO:0032502	chondrogenesis	developmental process
-11173	11182	GO:0008152	formation	metabolic process
-11287	11289	GO:0065007	To	biological regulation
-11287	11289	GO:0009987	To	cellular process
-11319	11328	GO:0023052	signaling	signaling
-11375	11377	GO:0065007	to	biological regulation
-11375	11377	GO:0009987	to	cellular process
-11645	11654	GO:0009987	embryonic	cellular process
-11645	11654	GO:0065007	embryonic	biological regulation
-11645	11666	GO:0032502	embryonic development	developmental process
-11946	11948	GO:0065007	to	biological regulation
-11946	11948	GO:0009987	to	cellular process
-12037	12039	GO:0065007	To	biological regulation
-12037	12039	GO:0009987	To	cellular process
-12262	12278	GO:0032502	limb development	developmental process
-12397	12399	GO:0065007	to	biological regulation
-12397	12399	GO:0009987	to	cellular process
-12555	12564	GO:0009987	embryonic	cellular process
-12555	12564	GO:0065007	embryonic	biological regulation
-12692	12694	GO:0065007	to	biological regulation
-12692	12694	GO:0009987	to	cellular process
-12818	12831	GO:0009987	transcription	cellular process
-12818	12831	GO:0008152	transcription	metabolic process
-12966	12969	GO:0023046	red	signaling process
-12966	12969	GO:0050896	red	response to stimulus
-12966	12969	GO:0009987	red	cellular process
-12966	12969	GO:0065007	red	biological regulation
-13400	13402	GO:0065007	To	biological regulation
-13400	13402	GO:0009987	To	cellular process
-13641	13655	GO:0032502	chondrogenesis	developmental process
-13660	13672	GO:0032502	osteogenesis	developmental process
-13707	13710	GO:0023046	red	signaling process
-13707	13710	GO:0050896	red	response to stimulus
-13707	13710	GO:0009987	red	cellular process
-13707	13710	GO:0065007	red	biological regulation
-13849	13852	GO:0023046	red	signaling process
-13849	13852	GO:0050896	red	response to stimulus
-13849	13852	GO:0009987	red	cellular process
-13849	13852	GO:0065007	red	biological regulation
-14410	14419	GO:0008152	formation	metabolic process
-14717	14719	GO:0065007	to	biological regulation
-14717	14719	GO:0009987	to	cellular process
-15988	15995	GO:0009987	reduced	cellular process
-15988	15995	GO:0008152	reduced	metabolic process
-15988	15995	GO:0005215	reduced	transporter activity
-15988	15995	GO:0051234	reduced	establishment of localization
-17072	17075	GO:0023046	red	signaling process
-17072	17075	GO:0050896	red	response to stimulus
-17072	17075	GO:0009987	red	cellular process
-17072	17075	GO:0065007	red	biological regulation
-17207	17209	GO:0065007	to	biological regulation
-17207	17209	GO:0009987	to	cellular process
-17846	17848	GO:0065007	To	biological regulation
-17846	17848	GO:0009987	To	cellular process
-17898	17907	GO:0009987	embryonic	cellular process
-17898	17907	GO:0065007	embryonic	biological regulation
-18275	18284	GO:0016265	apoptosis	death
-18275	18284	GO:0009987	apoptosis	cellular process
-18370	18379	GO:0016265	apoptosis	death
-18370	18379	GO:0009987	apoptosis	cellular process
-18396	18403	GO:0009987	reduced	cellular process
-18396	18403	GO:0008152	reduced	metabolic process
-18396	18403	GO:0005215	reduced	transporter activity
-18396	18403	GO:0051234	reduced	establishment of localization
-18606	18611	GO:0005623	cells	cell
-18624	18627	GO:0023046	red	signaling process
-18624	18627	GO:0050896	red	response to stimulus
-18624	18627	GO:0009987	red	cellular process
-18624	18627	GO:0065007	red	biological regulation
-18672	18681	GO:0016265	apoptosis	death
-18672	18681	GO:0009987	apoptosis	cellular process
-18763	18765	GO:0065007	to	biological regulation
-18763	18765	GO:0009987	to	cellular process
-19342	19351	GO:0016265	apoptosis	death
-19342	19351	GO:0009987	apoptosis	cellular process
-19420	19425	GO:0005623	cells	cell
-19749	19758	GO:0016265	apoptosis	death
-19749	19758	GO:0009987	apoptosis	cellular process
-19766	19771	GO:0005623	cells	cell
-19835	19844	GO:0009987	embryonic	cellular process
-19835	19844	GO:0065007	embryonic	biological regulation
-19911	19918	GO:0005215	Reduced	transporter activity
-19911	19918	GO:0008152	Reduced	metabolic process
-19911	19918	GO:0009987	Reduced	cellular process
-19911	19918	GO:0051234	Reduced	establishment of localization
-19933	19942	GO:0023052	Signaling	signaling
-19946	19955	GO:0023052	signaling	signaling
-19974	19976	GO:0065007	to	biological regulation
-19974	19976	GO:0009987	to	cellular process
-20161	20170	GO:0023052	signaling	signaling
-20282	20289	GO:0003824	protein	catalytic activity
-20504	20506	GO:0065007	to	biological regulation
-20504	20506	GO:0009987	to	cellular process
-21556	21565	GO:0023052	signaling	signaling
-21637	21639	GO:0065007	to	biological regulation
-21637	21639	GO:0009987	to	cellular process
-21850	21852	GO:0065007	to	biological regulation
-21850	21852	GO:0009987	to	cellular process
-22257	22266	GO:0023052	signaling	signaling
-22299	22320	GO:0016265	programmed cell death	death
-22299	22320	GO:0022414	programmed cell death	reproductive process
-22299	22320	GO:0009987	programmed cell death	cellular process
-22299	22320	GO:0032502	programmed cell death	developmental process
-22310	22314	GO:0005623	cell	cell
-22310	22320	GO:0016265	cell death	death
-22310	22320	GO:0009987	cell death	cellular process
-22315	22320	GO:0016265	death	death
-22321	22323	GO:0065007	to	biological regulation
-22321	22323	GO:0009987	to	cellular process
-22321	22323	GO:0065007	to	biological regulation
-22321	22323	GO:0009987	to	cellular process
-22842	22844	GO:0065007	To	biological regulation
-22842	22844	GO:0009987	To	cellular process
-23060	23062	GO:0065007	to	biological regulation
-23060	23062	GO:0009987	to	cellular process
-23154	23157	GO:0023046	red	signaling process
-23154	23157	GO:0050896	red	response to stimulus
-23154	23157	GO:0009987	red	cellular process
-23154	23157	GO:0065007	red	biological regulation
-23258	23261	GO:0023046	red	signaling process
-23258	23261	GO:0050896	red	response to stimulus
-23258	23261	GO:0009987	red	cellular process
-23258	23261	GO:0065007	red	biological regulation
-23500	23509	GO:0023052	signaling	signaling
-23774	23783	GO:0023052	signaling	signaling
-23873	23882	GO:0023052	signaling	signaling
-24130	24132	GO:0065007	to	biological regulation
-24130	24132	GO:0009987	to	cellular process
-24180	24189	GO:0008152	formation	metabolic process
-24336	24338	GO:0065007	To	biological regulation
-24336	24338	GO:0009987	To	cellular process
-24432	24454	GO:0022610	cartilage condensation	biological adhesion
-24432	24454	GO:0009987	cartilage condensation	cellular process
-24855	24864	GO:0008152	formation	metabolic process
-24960	24962	GO:0065007	to	biological regulation
-24960	24962	GO:0009987	to	cellular process
-25415	25429	GO:0032502	chondrogenesis	developmental process
-25523	25525	GO:0065007	to	biological regulation
-25523	25525	GO:0009987	to	cellular process
-25578	25580	GO:0065007	to	biological regulation
-25578	25580	GO:0009987	to	cellular process
-25657	25666	GO:0023052	signaling	signaling
-25697	25707	GO:0003824	initiating	catalytic activity
-25708	25722	GO:0032502	chondrogenesis	developmental process
-25826	25828	GO:0065007	to	biological regulation
-25826	25828	GO:0009987	to	cellular process
-26067	26074	GO:0005215	Reduced	transporter activity
-26067	26074	GO:0008152	Reduced	metabolic process
-26067	26074	GO:0009987	Reduced	cellular process
-26067	26074	GO:0051234	Reduced	establishment of localization
-26089	26098	GO:0023052	Signaling	signaling
-26154	26156	GO:0065007	to	biological regulation
-26154	26156	GO:0009987	to	cellular process
-26192	26194	GO:0065007	to	biological regulation
-26192	26194	GO:0009987	to	cellular process
-26570	26584	GO:0032502	chondrogenesis	developmental process
-26589	26601	GO:0032502	osteogenesis	developmental process
-26700	26703	GO:0023046	red	signaling process
-26700	26703	GO:0050896	red	response to stimulus
-26700	26703	GO:0009987	red	cellular process
-26700	26703	GO:0065007	red	biological regulation
-26840	26849	GO:0008152	formation	metabolic process
-27047	27054	GO:0065007	type II	biological regulation
-27047	27054	GO:0003824	type II	catalytic activity
-27047	27054	GO:0060089	type II	molecular transducer activity
-27047	27054	GO:0008152	type II	metabolic process
-27055	27063	GO:0044421	collagen	extraccellular region part
-27109	27117	GO:0044421	collagen	extraccellular region part
-27157	27163	GO:0060089	type I	molecular transducer activity
-27157	27163	GO:0003824	type I	catalytic activity
-27164	27172	GO:0044421	collagen	extraccellular region part
-28023	28025	GO:0065007	to	biological regulation
-28023	28025	GO:0009987	to	cellular process
-28137	28151	GO:0032502	chondrogenesis	developmental process
-28714	28722	GO:0044421	collagen	extraccellular region part
-28771	28776	GO:0005623	cells	cell
-28890	28892	GO:0065007	To	biological regulation
-28890	28892	GO:0009987	To	cellular process
-28937	28951	GO:0032502	chondrogenesis	developmental process
-29009	29011	GO:0065007	to	biological regulation
-29009	29011	GO:0009987	to	cellular process
-29306	29318	GO:0032502	Osteogenesis	developmental process
-29374	29388	GO:0032502	Bone formation	developmental process
-29379	29388	GO:0008152	formation	metabolic process
-29561	29573	GO:0032502	osteogenesis	developmental process
-29646	29648	GO:0065007	to	biological regulation
-29646	29648	GO:0009987	to	cellular process
-29740	29745	GO:0005623	cells	cell
-29834	29837	GO:0023046	red	signaling process
-29834	29837	GO:0050896	red	response to stimulus
-29834	29837	GO:0009987	red	cellular process
-29834	29837	GO:0065007	red	biological regulation
-29911	29916	GO:0005623	cells	cell
-30102	30108	GO:0040007	growth	growth
-30183	30188	GO:0005623	cells	cell
-30190	30193	GO:0023046	red	signaling process
-30190	30193	GO:0050896	red	response to stimulus
-30190	30193	GO:0009987	red	cellular process
-30190	30193	GO:0065007	red	biological regulation
-30220	30229	GO:0008152	formation	metabolic process
-30255	30258	GO:0023046	red	signaling process
-30255	30258	GO:0050896	red	response to stimulus
-30255	30258	GO:0009987	red	cellular process
-30255	30258	GO:0065007	red	biological regulation
-30322	30327	GO:0005623	cells	cell
-30462	30465	GO:0023046	red	signaling process
-30462	30465	GO:0050896	red	response to stimulus
-30462	30465	GO:0009987	red	cellular process
-30462	30465	GO:0065007	red	biological regulation
-30754	30756	GO:0065007	to	biological regulation
-30754	30756	GO:0009987	to	cellular process
-30817	30820	GO:0023046	red	signaling process
-30817	30820	GO:0050896	red	response to stimulus
-30817	30820	GO:0009987	red	cellular process
-30817	30820	GO:0065007	red	biological regulation
-30873	30882	GO:0008152	formation	metabolic process
-30937	30946	GO:0008152	formation	metabolic process
-30962	30976	GO:0032502	bone formation	developmental process
-30967	30976	GO:0008152	formation	metabolic process
-31133	31135	GO:0065007	to	biological regulation
-31133	31135	GO:0009987	to	cellular process
-31144	31151	GO:0032502	embryos	developmental process
-31174	31176	GO:0065007	To	biological regulation
-31174	31176	GO:0009987	To	cellular process
-31217	31231	GO:0032502	bone formation	developmental process
-31222	31231	GO:0008152	formation	metabolic process
-31282	31284	GO:0065007	to	biological regulation
-31282	31284	GO:0009987	to	cellular process
-31331	31333	GO:0065007	to	biological regulation
-31331	31333	GO:0009987	to	cellular process
-31389	31391	GO:0065007	to	biological regulation
-31389	31391	GO:0009987	to	cellular process
-31674	31683	GO:0008152	formation	metabolic process
-31699	31711	GO:0032502	ossification	developmental process
-31741	31744	GO:0023046	red	signaling process
-31741	31744	GO:0050896	red	response to stimulus
-31741	31744	GO:0009987	red	cellular process
-31741	31744	GO:0065007	red	biological regulation
-31769	31778	GO:0008152	formation	metabolic process
-31796	31808	GO:0032502	ossification	developmental process
-31840	31843	GO:0023046	red	signaling process
-31840	31843	GO:0050896	red	response to stimulus
-31840	31843	GO:0009987	red	cellular process
-31840	31843	GO:0065007	red	biological regulation
-31881	31890	GO:0008152	formation	metabolic process
-31980	31983	GO:0023046	red	signaling process
-31980	31983	GO:0050896	red	response to stimulus
-31980	31983	GO:0009987	red	cellular process
-31980	31983	GO:0065007	red	biological regulation
-32011	32025	GO:0032502	bone formation	developmental process
-32016	32025	GO:0008152	formation	metabolic process
-32194	32196	GO:0065007	to	biological regulation
-32194	32196	GO:0009987	to	cellular process
-32456	32458	GO:0065007	to	biological regulation
-32456	32458	GO:0009987	to	cellular process
-32535	32538	GO:0023046	red	signaling process
-32535	32538	GO:0050896	red	response to stimulus
-32535	32538	GO:0009987	red	cellular process
-32535	32538	GO:0065007	red	biological regulation
-32673	32687	GO:0032502	bone formation	developmental process
-32678	32687	GO:0008152	formation	metabolic process
-33046	33048	GO:0065007	to	biological regulation
-33046	33048	GO:0009987	to	cellular process
-33058	33084	GO:0009987	osteoblast differentiation	cellular process
-33058	33084	GO:0032502	osteoblast differentiation	developmental process
-33217	33219	GO:0065007	To	biological regulation
-33217	33219	GO:0009987	To	cellular process
-33237	33263	GO:0009987	osteoblast differentiation	cellular process
-33237	33263	GO:0032502	osteoblast differentiation	developmental process
-33344	33359	GO:0008152	gene expression	metabolic process
-33464	33470	GO:0060089	type I	molecular transducer activity
-33464	33470	GO:0003824	type I	catalytic activity
-33471	33479	GO:0044421	collagen	extraccellular region part
-33600	33605	GO:0005623	cells	cell
-33674	33676	GO:0065007	to	biological regulation
-33674	33676	GO:0009987	to	cellular process
-33719	33724	GO:0005623	cells	cell
-33744	33750	GO:0060089	type I	molecular transducer activity
-33744	33750	GO:0003824	type I	catalytic activity
-33751	33759	GO:0044421	collagen	extraccellular region part
-33781	33783	GO:0065007	to	biological regulation
-33781	33783	GO:0009987	to	cellular process
-33950	33952	GO:0065007	to	biological regulation
-33950	33952	GO:0009987	to	cellular process
-33987	33992	GO:0005623	cells	cell
-34055	34060	GO:0005623	cells	cell
-34068	34070	GO:0065007	to	biological regulation
-34068	34070	GO:0009987	to	cellular process
-34087	34089	GO:0065007	to	biological regulation
-34087	34089	GO:0009987	to	cellular process
-34225	34241	GO:0032502	limb development	developmental process
-34431	34433	GO:0065007	to	biological regulation
-34431	34433	GO:0009987	to	cellular process
-34511	34525	GO:0032502	chondrogenesis	developmental process
-34725	34737	GO:0032502	osteogenesis	developmental process
-34742	34751	GO:0023052	Signaling	signaling
-34764	34773	GO:0008152	Formation	metabolic process
-34803	34812	GO:0023052	signaling	signaling
-34923	34925	GO:0065007	to	biological regulation
-34923	34925	GO:0009987	to	cellular process
-35007	35009	GO:0065007	to	biological regulation
-35007	35009	GO:0009987	to	cellular process
-35128	35137	GO:0023052	signaling	signaling
-35138	35140	GO:0065007	to	biological regulation
-35138	35140	GO:0009987	to	cellular process
-35323	35325	GO:0065007	to	biological regulation
-35323	35325	GO:0009987	to	cellular process
-35452	35454	GO:0065007	to	biological regulation
-35452	35454	GO:0009987	to	cellular process
-35539	35548	GO:0023052	signaling	signaling
-36004	36013	GO:0023052	signaling	signaling
-36004	36013	GO:0023052	signaling	signaling
-36080	36082	GO:0065007	to	biological regulation
-36080	36082	GO:0009987	to	cellular process
-36180	36182	GO:0065007	to	biological regulation
-36180	36182	GO:0009987	to	cellular process
-36274	36276	GO:0065007	to	biological regulation
-36274	36276	GO:0009987	to	cellular process
-36539	36546	GO:0003824	protein	catalytic activity
-36823	36832	GO:0023052	signaling	signaling
-36930	36939	GO:0023052	signaling	signaling
-36986	37000	GO:0032502	chondrogenesis	developmental process
-37036	37045	GO:0023052	signaling	signaling
-37094	37103	GO:0023052	signaling	signaling
-37094	37103	GO:0023052	signaling	signaling
-37559	37561	GO:0065007	to	biological regulation
-37559	37561	GO:0009987	to	cellular process
-37712	37721	GO:0023052	signaling	signaling
-38206	38220	GO:0032502	chondrogenesis	developmental process
-39337	39339	GO:0065007	to	biological regulation
-39337	39339	GO:0009987	to	cellular process
-39638	39640	GO:0065007	to	biological regulation
-39638	39640	GO:0009987	to	cellular process
-39828	39830	GO:0065007	to	biological regulation
-39828	39830	GO:0009987	to	cellular process
-39849	39851	GO:0065007	to	biological regulation
-39849	39851	GO:0009987	to	cellular process
-39877	39879	GO:0065007	to	biological regulation
-39877	39879	GO:0009987	to	cellular process
-39990	39992	GO:0065007	to	biological regulation
-39990	39992	GO:0009987	to	cellular process
-40239	40248	GO:0023052	signaling	signaling
-40265	40274	GO:0016265	apoptosis	death
-40265	40274	GO:0009987	apoptosis	cellular process
-40394	40396	GO:0065007	to	biological regulation
-40394	40396	GO:0009987	to	cellular process
-40448	40470	GO:0065007	induction of apoptosis	biological regulation
-40461	40470	GO:0016265	apoptosis	death
-40461	40470	GO:0009987	apoptosis	cellular process
-40562	40571	GO:0023052	signaling	signaling
-40594	40598	GO:0005623	cell	cell
-40594	40604	GO:0016265	cell death	death
-40594	40604	GO:0009987	cell death	cellular process
-40599	40604	GO:0016265	death	death
-40605	40607	GO:0065007	to	biological regulation
-40605	40607	GO:0009987	to	cellular process
-40822	40831	GO:0016265	apoptosis	death
-40822	40831	GO:0009987	apoptosis	cellular process
-40914	40923	GO:0023052	Signaling	signaling
-41015	41024	GO:0023052	signaling	signaling
-41042	41052	GO:0003824	initiating	catalytic activity
-41133	41147	GO:0032502	chondrogenesis	developmental process
-41479	41481	GO:0065007	to	biological regulation
-41479	41481	GO:0009987	to	cellular process
-41519	41546	GO:0032502	chondrocyte differentiation	developmental process
-41519	41546	GO:0009987	chondrocyte differentiation	cellular process
-41617	41626	GO:0023052	signaling	signaling
-41630	41644	GO:0032502	chondrogenesis	developmental process
-41742	41748	GO:0060089	type I	molecular transducer activity
-41742	41748	GO:0003824	type I	catalytic activity
-41771	41790	GO:0009987	signal transduction	cellular process
-41771	41790	GO:0023046	signal transduction	signaling process
-41771	41790	GO:0050896	signal transduction	response to stimulus
-41771	41790	GO:0065007	signal transduction	biological regulation
-41771	41790	GO:0023052	signal transduction	signaling
-41778	41790	GO:0051704	transduction	multi-organism process
-41860	41862	GO:0065007	to	biological regulation
-41860	41862	GO:0009987	to	cellular process
-41908	41917	GO:0016265	apoptosis	death
-41908	41917	GO:0009987	apoptosis	cellular process
-42018	42020	GO:0065007	to	biological regulation
-42018	42020	GO:0009987	to	cellular process
-42057	42059	GO:0065007	to	biological regulation
-42057	42059	GO:0009987	to	cellular process
-42125	42132	GO:0009987	reduced	cellular process
-42125	42132	GO:0008152	reduced	metabolic process
-42125	42132	GO:0005215	reduced	transporter activity
-42125	42132	GO:0051234	reduced	establishment of localization
-42193	42195	GO:0065007	to	biological regulation
-42193	42195	GO:0009987	to	cellular process
-42196	42203	GO:0009987	reduced	cellular process
-42196	42203	GO:0008152	reduced	metabolic process
-42196	42203	GO:0005215	reduced	transporter activity
-42196	42203	GO:0051234	reduced	establishment of localization
-42234	42243	GO:0016265	apoptosis	death
-42234	42243	GO:0009987	apoptosis	cellular process
-42530	42542	GO:0032502	osteogenesis	developmental process
-42580	42594	GO:0032502	bone formation	developmental process
-42585	42594	GO:0008152	formation	metabolic process
-42857	42859	GO:0065007	to	biological regulation
-42857	42859	GO:0009987	to	cellular process
-43009	43014	GO:0005623	cells	cell
-43024	43026	GO:0065007	to	biological regulation
-43024	43026	GO:0009987	to	cellular process
-43094	43099	GO:0005623	cells	cell
-43109	43111	GO:0065007	to	biological regulation
-43109	43111	GO:0009987	to	cellular process
-43209	43234	GO:0032502	endochondral ossification	developmental process
-43222	43234	GO:0032502	ossification	developmental process
-43242	43244	GO:0065007	to	biological regulation
-43242	43244	GO:0009987	to	cellular process
-43260	43275	GO:0008152	gene expression	metabolic process
-43654	43663	GO:0023052	signaling	signaling
-43737	43749	GO:0032502	osteogenesis	developmental process
-43993	44007	GO:0032502	bone formation	developmental process
-43998	44007	GO:0008152	formation	metabolic process
-44168	44174	GO:0060089	type I	molecular transducer activity
-44168	44174	GO:0003824	type I	catalytic activity
-44202	44209	GO:0065007	type II	biological regulation
-44202	44209	GO:0003824	type II	catalytic activity
-44202	44209	GO:0060089	type II	molecular transducer activity
-44202	44209	GO:0008152	type II	metabolic process
-44347	44353	GO:0009987	direct	cellular process
-44347	44353	GO:0008152	direct	metabolic process
-44358	44373	GO:0009987	phosphorylation	cellular process
-44358	44373	GO:0008152	phosphorylation	metabolic process
-44402	44404	GO:0065007	to	biological regulation
-44402	44404	GO:0009987	to	cellular process
-44528	44533	GO:0005623	cells	cell
-44569	44571	GO:0065007	to	biological regulation
-44569	44571	GO:0009987	to	cellular process
-44684	44686	GO:0065007	to	biological regulation
-44684	44686	GO:0009987	to	cellular process
-44710	44712	GO:0065007	to	biological regulation
-44710	44712	GO:0009987	to	cellular process
-44728	44737	GO:0023052	signaling	signaling
-44728	44746	GO:0023052	signaling pathways	signaling
-44873	44899	GO:0009987	osteoblast differentiation	cellular process
-44873	44899	GO:0032502	osteoblast differentiation	developmental process
-45025	45039	GO:0032502	bone formation	developmental process
-45030	45039	GO:0008152	formation	metabolic process
-45075	45084	GO:0023052	signaling	signaling
-45384	45398	GO:0032502	chondrogenesis	developmental process
-45468	45482	GO:0032502	bone formation	developmental process
-45473	45482	GO:0008152	formation	metabolic process
-45535	45549	GO:0032502	chondrogenesis	developmental process
-45715	45718	GO:0023046	red	signaling process
-45715	45718	GO:0050896	red	response to stimulus
-45715	45718	GO:0009987	red	cellular process
-45715	45718	GO:0065007	red	biological regulation
-45722	45724	GO:0065007	to	biological regulation
-45722	45724	GO:0009987	to	cellular process
-45722	45724	GO:0065007	to	biological regulation
-45722	45724	GO:0009987	to	cellular process
-45722	45724	GO:0065007	to	biological regulation
-45722	45724	GO:0009987	to	cellular process
-45822	45824	GO:0065007	to	biological regulation
-45822	45824	GO:0009987	to	cellular process
-46280	46282	GO:0065007	to	biological regulation
-46280	46282	GO:0009987	to	cellular process
-46603	46605	GO:0065007	to	biological regulation
-46603	46605	GO:0009987	to	cellular process
-47532	47541	GO:0009987	embryonic	cellular process
-47532	47541	GO:0065007	embryonic	biological regulation
-47794	47796	GO:0065007	to	biological regulation
-47794	47796	GO:0009987	to	cellular process
-48026	48028	GO:0065007	to	biological regulation
-48026	48028	GO:0009987	to	cellular process
-48432	48442	GO:0043226	chromosome	organelle
-48432	48442	GO:0044422	chromosome	organelle part
-48432	48442	GO:0044464	chromosome	cell part
-48444	48454	GO:0044464	Chromosome	cell part
-48444	48454	GO:0043226	Chromosome	organelle
-48444	48454	GO:0044422	Chromosome	organelle part
-48459	48461	GO:0065007	To	biological regulation
-48459	48461	GO:0009987	To	cellular process
-48902	48912	GO:0043226	chromosome	organelle
-48902	48912	GO:0044422	chromosome	organelle part
-48902	48912	GO:0044464	chromosome	cell part
-49041	49043	GO:0065007	to	biological regulation
-49041	49043	GO:0009987	to	cellular process
-49219	49229	GO:0043226	chromosome	organelle
-49219	49229	GO:0044422	chromosome	organelle part
-49219	49229	GO:0044464	chromosome	cell part
-49447	49452	GO:0016265	death	death
-49484	49491	GO:0008152	ethanol	metabolic process
-49484	49491	GO:0009987	ethanol	cellular process
-49532	49534	GO:0065007	to	biological regulation
-49532	49534	GO:0009987	to	cellular process
-49579	49586	GO:0032502	embryos	developmental process
-49698	49701	GO:0023046	red	signaling process
-49698	49701	GO:0050896	red	response to stimulus
-49698	49701	GO:0009987	red	cellular process
-49698	49701	GO:0065007	red	biological regulation
-49751	49758	GO:0008152	ethanol	metabolic process
-49751	49758	GO:0009987	ethanol	cellular process
-50146	50151	GO:0005623	cells	cell
-50240	50247	GO:0032502	embryos	developmental process
-50265	50267	GO:0065007	to	biological regulation
-50265	50267	GO:0009987	to	cellular process
-50355	50362	GO:0032502	Embryos	developmental process
-50519	50526	GO:0032502	embryos	developmental process
-50985	50992	GO:0008152	ethanol	metabolic process
-50985	50992	GO:0009987	ethanol	cellular process
-51457	51464	GO:0008152	ethanol	metabolic process
-51457	51464	GO:0009987	ethanol	cellular process
-51772	51779	GO:0008152	ethanol	metabolic process
-51772	51779	GO:0009987	ethanol	cellular process
-52880	52882	GO:0065007	To	biological regulation
-52880	52882	GO:0009987	To	cellular process
-53121	53127	GO:0060089	type I	molecular transducer activity
-53121	53127	GO:0003824	type I	catalytic activity
-53128	53136	GO:0044421	collagen	extraccellular region part
-53597	53604	GO:0032502	embryos	developmental process
-53942	53949	GO:0032502	embryos	developmental process
-53942	53949	GO:0032502	embryos	developmental process
-54193	54202	GO:0009987	embryonic	cellular process
-54193	54202	GO:0065007	embryonic	biological regulation
-54250	54257	GO:0032502	embryos	developmental process
-54288	54295	GO:0032502	embryos	developmental process
-54344	54351	GO:0032502	embryos	developmental process
-54539	54546	GO:0032502	embryos	developmental process
-54728	54737	GO:0009987	embryonic	cellular process
-54728	54737	GO:0065007	embryonic	biological regulation
-55436	55438	GO:0065007	to	biological regulation
-55436	55438	GO:0009987	to	cellular process
-55436	55438	GO:0065007	to	biological regulation
-55436	55438	GO:0009987	to	cellular process
-55983	55995	GO:0032502	Osteogenesis	developmental process
-56447	56449	GO:0065007	to	biological regulation
-56447	56449	GO:0009987	to	cellular process
-56621	56623	GO:0065007	to	biological regulation
-56621	56623	GO:0009987	to	cellular process
-56621	56623	GO:0065007	to	biological regulation
-56621	56623	GO:0009987	to	cellular process
-56746	56752	GO:0050896	memory	response to stimulus
-56746	56752	GO:0032501	memory	multicellular organismal process
-56802	56804	GO:0065007	to	biological regulation
-56802	56804	GO:0009987	to	cellular process
-56879	56881	GO:0065007	to	biological regulation
-56879	56881	GO:0009987	to	cellular process
-56990	56997	GO:0003824	protein	catalytic activity
-57001	57010	GO:0009987	embryonic	cellular process
-57001	57010	GO:0065007	embryonic	biological regulation
-57031	57037	GO:0040007	growth	growth
-57439	57446	GO:0032502	embryos	developmental process
-57529	57535	GO:0032502	embryo	developmental process
-57771	57778	GO:0032502	embryos	developmental process
-57804	57807	GO:0023046	red	signaling process
-57804	57807	GO:0050896	red	response to stimulus
-57804	57807	GO:0009987	red	cellular process
-57804	57807	GO:0065007	red	biological regulation
-57862	57868	GO:0032502	embryo	developmental process
-58101	58104	GO:0023046	red	signaling process
-58101	58104	GO:0050896	red	response to stimulus
-58101	58104	GO:0009987	red	cellular process
-58101	58104	GO:0065007	red	biological regulation
-58403	58406	GO:0023046	red	signaling process
-58403	58406	GO:0050896	red	response to stimulus
-58403	58406	GO:0009987	red	cellular process
-58403	58406	GO:0065007	red	biological regulation
-58460	58463	GO:0023046	red	signaling process
-58460	58463	GO:0050896	red	response to stimulus
-58460	58463	GO:0009987	red	cellular process
-58460	58463	GO:0065007	red	biological regulation
-58496	58498	GO:0065007	to	biological regulation
-58496	58498	GO:0009987	to	cellular process
-58613	58622	GO:0023052	Signaling	signaling
-59024	59031	GO:0032502	embryos	developmental process
-59211	59216	GO:0005623	cells	cell
-59405	59412	GO:0032502	embryos	developmental process
-59673	59680	GO:0032502	embryos	developmental process
-59841	59848	GO:0032502	embryos	developmental process
-59888	59895	GO:0032502	embryos	developmental process
-60006	60015	GO:0009987	embryonic	cellular process
-60006	60015	GO:0065007	embryonic	biological regulation
-60145	60154	GO:0009987	embryonic	cellular process
-60145	60154	GO:0065007	embryonic	biological regulation
-60169	60172	GO:0023046	red	signaling process
-60169	60172	GO:0050896	red	response to stimulus
-60169	60172	GO:0009987	red	cellular process
-60169	60172	GO:0065007	red	biological regulation
-60277	60291	GO:0032502	Chondrogenesis	developmental process
-60400	60407	GO:0032502	embryos	developmental process
-60457	60463	GO:0032502	embryo	developmental process
-60497	60503	GO:0032502	embryo	developmental process
-60699	60706	GO:0032502	embryos	developmental process
-60714	60717	GO:0023046	red	signaling process
-60714	60717	GO:0050896	red	response to stimulus
-60714	60717	GO:0009987	red	cellular process
-60714	60717	GO:0065007	red	biological regulation
-60860	60867	GO:0032502	embryos	developmental process
-61025	61032	GO:0032502	embryos	developmental process
-61211	61223	GO:0032502	Osteogenesis	developmental process
-61244	61253	GO:0065007	Embryonic	biological regulation
-61244	61253	GO:0009987	Embryonic	cellular process
-61312	61319	GO:0032502	embryos	developmental process
-61391	61397	GO:0032502	embryo	developmental process
-61455	61461	GO:0032502	embryo	developmental process
-61545	61548	GO:0023046	red	signaling process
-61545	61548	GO:0050896	red	response to stimulus
-61545	61548	GO:0009987	red	cellular process
-61545	61548	GO:0065007	red	biological regulation
-61691	61697	GO:0032502	embryo	developmental process
-61742	61748	GO:0032502	embryo	developmental process
-61796	61803	GO:0032502	embryos	developmental process
-61892	61895	GO:0023046	red	signaling process
-61892	61895	GO:0050896	red	response to stimulus
-61892	61895	GO:0009987	red	cellular process
-61892	61895	GO:0065007	red	biological regulation
-61951	61957	GO:0032502	embryo	developmental process
-62029	62035	GO:0032502	embryo	developmental process
-62496	62499	GO:0065007	Red	biological regulation
-62496	62499	GO:0009987	Red	cellular process
-62496	62499	GO:0050896	Red	response to stimulus
-62496	62499	GO:0023046	Red	signaling process
-62574	62577	GO:0023046	red	signaling process
-62574	62577	GO:0050896	red	response to stimulus
-62574	62577	GO:0009987	red	cellular process
-62574	62577	GO:0065007	red	biological regulation
-62805	62807	GO:0065007	to	biological regulation
-62805	62807	GO:0009987	to	cellular process
-62876	62885	GO:0008152	Formation	metabolic process
-63145	63147	GO:0065007	to	biological regulation
-63145	63147	GO:0009987	to	cellular process
-63159	63164	GO:0005623	cells	cell
-63234	63239	GO:0005623	cells	cell
-63240	63242	GO:0065007	to	biological regulation
-63240	63242	GO:0009987	to	cellular process
-63295	63298	GO:0065007	Red	biological regulation
-63295	63298	GO:0009987	Red	cellular process
-63295	63298	GO:0050896	Red	response to stimulus
-63295	63298	GO:0023046	Red	signaling process
-63339	63351	GO:0032502	ossification	developmental process
-63403	63406	GO:0023046	red	signaling process
-63403	63406	GO:0050896	red	response to stimulus
-63403	63406	GO:0009987	red	cellular process
-63403	63406	GO:0065007	red	biological regulation
-63697	63711	GO:0032502	bone formation	developmental process
-63702	63711	GO:0008152	formation	metabolic process
-63749	63764	GO:0065007	bone resorption	biological regulation
-63860	63865	GO:0005623	cells	cell
-63930	63933	GO:0065007	Red	biological regulation
-63930	63933	GO:0009987	Red	cellular process
-63930	63933	GO:0050896	Red	response to stimulus
-63930	63933	GO:0023046	Red	signaling process
-64220	64223	GO:0023046	red	signaling process
-64220	64223	GO:0050896	red	response to stimulus
-64220	64223	GO:0009987	red	cellular process
-64220	64223	GO:0065007	red	biological regulation
-64301	64311	GO:0022414	Maturation	reproductive process
-65280	65282	GO:0065007	to	biological regulation
-65280	65282	GO:0009987	to	cellular process
-65367	65369	GO:0065007	to	biological regulation
-65367	65369	GO:0009987	to	cellular process
+122	129	GO:0003824	protein	catalytic activity
+209	225	GO:0032502	limb development	developmental process
+312	314	GO:0065007	to	biological regulation
+312	314	GO:0009987	to	cellular process
+375	384	GO:0009987	embryonic	cellular process
+375	384	GO:0065007	embryonic	biological regulation
+502	504	GO:0065007	to	biological regulation
+502	504	GO:0009987	to	cellular process
+583	599	GO:0032502	limb development	developmental process
+601	603	GO:0065007	To	biological regulation
+601	603	GO:0009987	To	cellular process
+765	767	GO:0065007	to	biological regulation
+765	767	GO:0009987	to	cellular process
+832	834	GO:0065007	to	biological regulation
+832	834	GO:0009987	to	cellular process
+1112	1121	GO:0023052	signaling	signaling
+1151	1165	GO:0032502	chondrogenesis	developmental process
+1214	1216	GO:0065007	to	biological regulation
+1214	1216	GO:0009987	to	cellular process
+1512	1524	GO:0032502	osteogenesis	developmental process
+1556	1565	GO:0023052	signaling	signaling
+1602	1610	GO:0003824	proteins	catalytic activity
+1628	1630	GO:0065007	to	biological regulation
+1628	1630	GO:0009987	to	cellular process
+1659	1668	GO:0008152	formation	metabolic process
+1792	1797	GO:0005623	cells	cell
+1845	1851	GO:0032502	embryo	developmental process
+2100	2102	GO:0065007	to	biological regulation
+2100	2102	GO:0009987	to	cellular process
+2416	2418	GO:0065007	to	biological regulation
+2416	2418	GO:0009987	to	cellular process
+2797	2803	GO:0032502	embryo	developmental process
+2839	2847	GO:0003824	proteins	catalytic activity
+2868	2877	GO:0023052	signaling	signaling
+2898	2900	GO:0065007	to	biological regulation
+2898	2900	GO:0009987	to	cellular process
+2918	2924	GO:0040007	growth	growth
+2928	2930	GO:0065007	to	biological regulation
+2928	2930	GO:0009987	to	cellular process
+3017	3031	GO:0032502	bone formation	developmental process
+3022	3031	GO:0008152	formation	metabolic process
+3114	3116	GO:0065007	to	biological regulation
+3114	3116	GO:0009987	to	cellular process
+3177	3200	GO:0032502	developmental processes	developmental process
+3233	3246	GO:0032502	morphogenesis	developmental process
+3350	3366	GO:0032502	limb development	developmental process
+3394	3396	GO:0065007	to	biological regulation
+3394	3396	GO:0009987	to	cellular process
+3458	3462	GO:0005623	cell	cell
+3575	3591	GO:0032502	limb development	developmental process
+3605	3614	GO:0023052	signaling	signaling
+3771	3773	GO:0065007	to	biological regulation
+3771	3773	GO:0009987	to	cellular process
+3794	3803	GO:0023052	signaling	signaling
+3926	3932	GO:0009987	direct	cellular process
+3926	3932	GO:0008152	direct	metabolic process
+4369	4371	GO:0065007	to	biological regulation
+4369	4371	GO:0009987	to	cellular process
+4551	4560	GO:0023052	signaling	signaling
+4580	4582	GO:0065007	to	biological regulation
+4580	4582	GO:0009987	to	cellular process
+4618	4620	GO:0065007	to	biological regulation
+4618	4620	GO:0009987	to	cellular process
+4857	4864	GO:0032502	embryos	developmental process
+4869	4871	GO:0065007	to	biological regulation
+4869	4871	GO:0009987	to	cellular process
+4974	4981	GO:0032502	embryos	developmental process
+5270	5272	GO:0065007	to	biological regulation
+5270	5272	GO:0009987	to	cellular process
+5342	5344	GO:0065007	to	biological regulation
+5342	5344	GO:0009987	to	cellular process
+5531	5533	GO:0065007	to	biological regulation
+5531	5533	GO:0009987	to	cellular process
+5552	5561	GO:0023052	signaling	signaling
+5795	5797	GO:0065007	to	biological regulation
+5795	5797	GO:0009987	to	cellular process
+6196	6205	GO:0023052	signaling	signaling
+6391	6398	GO:0008152	directs	metabolic process
+6391	6398	GO:0009987	directs	cellular process
+6531	6540	GO:0023052	signaling	signaling
+6723	6730	GO:0032502	embryos	developmental process
+7361	7366	GO:0016265	death	death
+7469	7478	GO:0023052	signaling	signaling
+7707	7742	GO:0032501	fibroblast growth factor production	multicellular organismal process
+7718	7724	GO:0040007	growth	growth
+7769	7771	GO:0065007	to	biological regulation
+7769	7771	GO:0009987	to	cellular process
+7947	7953	GO:0040007	growth	growth
+8053	8062	GO:0023052	signaling	signaling
+8074	8076	GO:0065007	to	biological regulation
+8074	8076	GO:0009987	to	cellular process
+8265	8274	GO:0023052	signaling	signaling
+8352	8368	GO:0032502	limb development	developmental process
+8400	8402	GO:0065007	to	biological regulation
+8400	8402	GO:0009987	to	cellular process
+8516	8525	GO:0023052	signaling	signaling
+8587	8609	GO:0022610	cartilage condensation	biological adhesion
+8587	8609	GO:0009987	cartilage condensation	cellular process
+8788	8790	GO:0065007	to	biological regulation
+8788	8790	GO:0009987	to	cellular process
+8970	8979	GO:0023052	signaling	signaling
+9045	9059	GO:0032502	chondrogenesis	developmental process
+9133	9139	GO:0065007	global	biological regulation
+9140	9154	GO:0032502	chondrogenesis	developmental process
+9140	9154	GO:0032502	chondrogenesis	developmental process
+9409	9423	GO:0032502	bone formation	developmental process
+9414	9423	GO:0008152	formation	metabolic process
+9434	9444	GO:0008152	metabolism	metabolic process
+9597	9599	GO:0065007	to	biological regulation
+9597	9599	GO:0009987	to	cellular process
+9624	9626	GO:0065007	To	biological regulation
+9624	9626	GO:0009987	To	cellular process
+9681	9690	GO:0023052	signaling	signaling
+9864	9880	GO:0032502	limb development	developmental process
+9935	9948	GO:0032502	embryogenesis	developmental process
+10053	10069	GO:0032502	limb development	developmental process
+10811	10825	GO:0032502	chondrogenesis	developmental process
+10827	10839	GO:0032502	Osteogenesis	developmental process
+11002	11014	GO:0032502	osteogenesis	developmental process
+11085	11105	GO:0032502	skeletal development	developmental process
+11153	11167	GO:0032502	chondrogenesis	developmental process
+11195	11204	GO:0008152	formation	metabolic process
+11313	11315	GO:0065007	To	biological regulation
+11313	11315	GO:0009987	To	cellular process
+11345	11354	GO:0023052	signaling	signaling
+11401	11403	GO:0065007	to	biological regulation
+11401	11403	GO:0009987	to	cellular process
+11671	11680	GO:0009987	embryonic	cellular process
+11671	11680	GO:0065007	embryonic	biological regulation
+11671	11692	GO:0032502	embryonic development	developmental process
+11972	11974	GO:0065007	to	biological regulation
+11972	11974	GO:0009987	to	cellular process
+12063	12065	GO:0065007	To	biological regulation
+12063	12065	GO:0009987	To	cellular process
+12288	12304	GO:0032502	limb development	developmental process
+12423	12425	GO:0065007	to	biological regulation
+12423	12425	GO:0009987	to	cellular process
+12581	12590	GO:0009987	embryonic	cellular process
+12581	12590	GO:0065007	embryonic	biological regulation
+12718	12720	GO:0065007	to	biological regulation
+12718	12720	GO:0009987	to	cellular process
+12844	12857	GO:0009987	transcription	cellular process
+12844	12857	GO:0008152	transcription	metabolic process
+12992	12995	GO:0023046	red	signaling process
+12992	12995	GO:0050896	red	response to stimulus
+12992	12995	GO:0009987	red	cellular process
+12992	12995	GO:0065007	red	biological regulation
+13430	13432	GO:0065007	To	biological regulation
+13430	13432	GO:0009987	To	cellular process
+13671	13685	GO:0032502	chondrogenesis	developmental process
+13690	13702	GO:0032502	osteogenesis	developmental process
+13737	13740	GO:0023046	red	signaling process
+13737	13740	GO:0050896	red	response to stimulus
+13737	13740	GO:0009987	red	cellular process
+13737	13740	GO:0065007	red	biological regulation
+13879	13882	GO:0023046	red	signaling process
+13879	13882	GO:0050896	red	response to stimulus
+13879	13882	GO:0009987	red	cellular process
+13879	13882	GO:0065007	red	biological regulation
+14442	14451	GO:0008152	formation	metabolic process
+14751	14753	GO:0065007	to	biological regulation
+14751	14753	GO:0009987	to	cellular process
+16022	16029	GO:0009987	reduced	cellular process
+16022	16029	GO:0008152	reduced	metabolic process
+16022	16029	GO:0005215	reduced	transporter activity
+16022	16029	GO:0051234	reduced	establishment of localization
+17108	17111	GO:0023046	red	signaling process
+17108	17111	GO:0050896	red	response to stimulus
+17108	17111	GO:0009987	red	cellular process
+17108	17111	GO:0065007	red	biological regulation
+17243	17245	GO:0065007	to	biological regulation
+17243	17245	GO:0009987	to	cellular process
+17886	17888	GO:0065007	To	biological regulation
+17886	17888	GO:0009987	To	cellular process
+17938	17947	GO:0009987	embryonic	cellular process
+17938	17947	GO:0065007	embryonic	biological regulation
+18315	18324	GO:0016265	apoptosis	death
+18315	18324	GO:0009987	apoptosis	cellular process
+18410	18419	GO:0016265	apoptosis	death
+18410	18419	GO:0009987	apoptosis	cellular process
+18436	18443	GO:0009987	reduced	cellular process
+18436	18443	GO:0008152	reduced	metabolic process
+18436	18443	GO:0005215	reduced	transporter activity
+18436	18443	GO:0051234	reduced	establishment of localization
+18646	18651	GO:0005623	cells	cell
+18664	18667	GO:0023046	red	signaling process
+18664	18667	GO:0050896	red	response to stimulus
+18664	18667	GO:0009987	red	cellular process
+18664	18667	GO:0065007	red	biological regulation
+18714	18723	GO:0016265	apoptosis	death
+18714	18723	GO:0009987	apoptosis	cellular process
+18805	18807	GO:0065007	to	biological regulation
+18805	18807	GO:0009987	to	cellular process
+19384	19393	GO:0016265	apoptosis	death
+19384	19393	GO:0009987	apoptosis	cellular process
+19462	19467	GO:0005623	cells	cell
+19791	19800	GO:0016265	apoptosis	death
+19791	19800	GO:0009987	apoptosis	cellular process
+19808	19813	GO:0005623	cells	cell
+19877	19886	GO:0009987	embryonic	cellular process
+19877	19886	GO:0065007	embryonic	biological regulation
+19955	19962	GO:0005215	Reduced	transporter activity
+19955	19962	GO:0008152	Reduced	metabolic process
+19955	19962	GO:0009987	Reduced	cellular process
+19955	19962	GO:0051234	Reduced	establishment of localization
+19977	19986	GO:0023052	Signaling	signaling
+19992	20001	GO:0023052	signaling	signaling
+20020	20022	GO:0065007	to	biological regulation
+20020	20022	GO:0009987	to	cellular process
+20207	20216	GO:0023052	signaling	signaling
+20328	20335	GO:0003824	protein	catalytic activity
+20550	20552	GO:0065007	to	biological regulation
+20550	20552	GO:0009987	to	cellular process
+21604	21613	GO:0023052	signaling	signaling
+21685	21687	GO:0065007	to	biological regulation
+21685	21687	GO:0009987	to	cellular process
+21898	21900	GO:0065007	to	biological regulation
+21898	21900	GO:0009987	to	cellular process
+22307	22316	GO:0023052	signaling	signaling
+22349	22370	GO:0016265	programmed cell death	death
+22349	22370	GO:0022414	programmed cell death	reproductive process
+22349	22370	GO:0009987	programmed cell death	cellular process
+22349	22370	GO:0032502	programmed cell death	developmental process
+22360	22364	GO:0005623	cell	cell
+22360	22370	GO:0016265	cell death	death
+22360	22370	GO:0009987	cell death	cellular process
+22365	22370	GO:0016265	death	death
+22371	22373	GO:0065007	to	biological regulation
+22371	22373	GO:0009987	to	cellular process
+22371	22373	GO:0065007	to	biological regulation
+22371	22373	GO:0009987	to	cellular process
+22894	22896	GO:0065007	To	biological regulation
+22894	22896	GO:0009987	To	cellular process
+23112	23114	GO:0065007	to	biological regulation
+23112	23114	GO:0009987	to	cellular process
+23206	23209	GO:0023046	red	signaling process
+23206	23209	GO:0050896	red	response to stimulus
+23206	23209	GO:0009987	red	cellular process
+23206	23209	GO:0065007	red	biological regulation
+23310	23313	GO:0023046	red	signaling process
+23310	23313	GO:0050896	red	response to stimulus
+23310	23313	GO:0009987	red	cellular process
+23310	23313	GO:0065007	red	biological regulation
+23552	23561	GO:0023052	signaling	signaling
+23826	23835	GO:0023052	signaling	signaling
+23925	23934	GO:0023052	signaling	signaling
+24182	24184	GO:0065007	to	biological regulation
+24182	24184	GO:0009987	to	cellular process
+24232	24241	GO:0008152	formation	metabolic process
+24390	24392	GO:0065007	To	biological regulation
+24390	24392	GO:0009987	To	cellular process
+24486	24508	GO:0022610	cartilage condensation	biological adhesion
+24486	24508	GO:0009987	cartilage condensation	cellular process
+24909	24918	GO:0008152	formation	metabolic process
+25016	25018	GO:0065007	to	biological regulation
+25016	25018	GO:0009987	to	cellular process
+25471	25485	GO:0032502	chondrogenesis	developmental process
+25579	25581	GO:0065007	to	biological regulation
+25579	25581	GO:0009987	to	cellular process
+25634	25636	GO:0065007	to	biological regulation
+25634	25636	GO:0009987	to	cellular process
+25713	25722	GO:0023052	signaling	signaling
+25753	25763	GO:0003824	initiating	catalytic activity
+25764	25778	GO:0032502	chondrogenesis	developmental process
+25882	25884	GO:0065007	to	biological regulation
+25882	25884	GO:0009987	to	cellular process
+26125	26132	GO:0005215	Reduced	transporter activity
+26125	26132	GO:0008152	Reduced	metabolic process
+26125	26132	GO:0009987	Reduced	cellular process
+26125	26132	GO:0051234	Reduced	establishment of localization
+26147	26156	GO:0023052	Signaling	signaling
+26214	26216	GO:0065007	to	biological regulation
+26214	26216	GO:0009987	to	cellular process
+26252	26254	GO:0065007	to	biological regulation
+26252	26254	GO:0009987	to	cellular process
+26630	26644	GO:0032502	chondrogenesis	developmental process
+26649	26661	GO:0032502	osteogenesis	developmental process
+26760	26763	GO:0023046	red	signaling process
+26760	26763	GO:0050896	red	response to stimulus
+26760	26763	GO:0009987	red	cellular process
+26760	26763	GO:0065007	red	biological regulation
+26900	26909	GO:0008152	formation	metabolic process
+27107	27114	GO:0065007	type II	biological regulation
+27107	27114	GO:0003824	type II	catalytic activity
+27107	27114	GO:0060089	type II	molecular transducer activity
+27107	27114	GO:0008152	type II	metabolic process
+27115	27123	GO:0044421	collagen	extraccellular region part
+27169	27177	GO:0044421	collagen	extraccellular region part
+27217	27223	GO:0060089	type I	molecular transducer activity
+27217	27223	GO:0003824	type I	catalytic activity
+27224	27232	GO:0044421	collagen	extraccellular region part
+28087	28089	GO:0065007	to	biological regulation
+28087	28089	GO:0009987	to	cellular process
+28201	28215	GO:0032502	chondrogenesis	developmental process
+28780	28788	GO:0044421	collagen	extraccellular region part
+28837	28842	GO:0005623	cells	cell
+28958	28960	GO:0065007	To	biological regulation
+28958	28960	GO:0009987	To	cellular process
+29005	29019	GO:0032502	chondrogenesis	developmental process
+29077	29079	GO:0065007	to	biological regulation
+29077	29079	GO:0009987	to	cellular process
+29376	29388	GO:0032502	Osteogenesis	developmental process
+29446	29460	GO:0032502	Bone formation	developmental process
+29451	29460	GO:0008152	formation	metabolic process
+29633	29645	GO:0032502	osteogenesis	developmental process
+29718	29720	GO:0065007	to	biological regulation
+29718	29720	GO:0009987	to	cellular process
+29812	29817	GO:0005623	cells	cell
+29906	29909	GO:0023046	red	signaling process
+29906	29909	GO:0050896	red	response to stimulus
+29906	29909	GO:0009987	red	cellular process
+29906	29909	GO:0065007	red	biological regulation
+29983	29988	GO:0005623	cells	cell
+30174	30180	GO:0040007	growth	growth
+30255	30260	GO:0005623	cells	cell
+30262	30265	GO:0023046	red	signaling process
+30262	30265	GO:0050896	red	response to stimulus
+30262	30265	GO:0009987	red	cellular process
+30262	30265	GO:0065007	red	biological regulation
+30292	30301	GO:0008152	formation	metabolic process
+30327	30330	GO:0023046	red	signaling process
+30327	30330	GO:0050896	red	response to stimulus
+30327	30330	GO:0009987	red	cellular process
+30327	30330	GO:0065007	red	biological regulation
+30394	30399	GO:0005623	cells	cell
+30534	30537	GO:0023046	red	signaling process
+30534	30537	GO:0050896	red	response to stimulus
+30534	30537	GO:0009987	red	cellular process
+30534	30537	GO:0065007	red	biological regulation
+30826	30828	GO:0065007	to	biological regulation
+30826	30828	GO:0009987	to	cellular process
+30889	30892	GO:0023046	red	signaling process
+30889	30892	GO:0050896	red	response to stimulus
+30889	30892	GO:0009987	red	cellular process
+30889	30892	GO:0065007	red	biological regulation
+30945	30954	GO:0008152	formation	metabolic process
+31009	31018	GO:0008152	formation	metabolic process
+31034	31048	GO:0032502	bone formation	developmental process
+31039	31048	GO:0008152	formation	metabolic process
+31205	31207	GO:0065007	to	biological regulation
+31205	31207	GO:0009987	to	cellular process
+31216	31223	GO:0032502	embryos	developmental process
+31246	31248	GO:0065007	To	biological regulation
+31246	31248	GO:0009987	To	cellular process
+31289	31303	GO:0032502	bone formation	developmental process
+31294	31303	GO:0008152	formation	metabolic process
+31354	31356	GO:0065007	to	biological regulation
+31354	31356	GO:0009987	to	cellular process
+31403	31405	GO:0065007	to	biological regulation
+31403	31405	GO:0009987	to	cellular process
+31461	31463	GO:0065007	to	biological regulation
+31461	31463	GO:0009987	to	cellular process
+31746	31755	GO:0008152	formation	metabolic process
+31771	31783	GO:0032502	ossification	developmental process
+31813	31816	GO:0023046	red	signaling process
+31813	31816	GO:0050896	red	response to stimulus
+31813	31816	GO:0009987	red	cellular process
+31813	31816	GO:0065007	red	biological regulation
+31841	31850	GO:0008152	formation	metabolic process
+31868	31880	GO:0032502	ossification	developmental process
+31912	31915	GO:0023046	red	signaling process
+31912	31915	GO:0050896	red	response to stimulus
+31912	31915	GO:0009987	red	cellular process
+31912	31915	GO:0065007	red	biological regulation
+31953	31962	GO:0008152	formation	metabolic process
+32052	32055	GO:0023046	red	signaling process
+32052	32055	GO:0050896	red	response to stimulus
+32052	32055	GO:0009987	red	cellular process
+32052	32055	GO:0065007	red	biological regulation
+32083	32097	GO:0032502	bone formation	developmental process
+32088	32097	GO:0008152	formation	metabolic process
+32266	32268	GO:0065007	to	biological regulation
+32266	32268	GO:0009987	to	cellular process
+32528	32530	GO:0065007	to	biological regulation
+32528	32530	GO:0009987	to	cellular process
+32607	32610	GO:0023046	red	signaling process
+32607	32610	GO:0050896	red	response to stimulus
+32607	32610	GO:0009987	red	cellular process
+32607	32610	GO:0065007	red	biological regulation
+32745	32759	GO:0032502	bone formation	developmental process
+32750	32759	GO:0008152	formation	metabolic process
+33118	33120	GO:0065007	to	biological regulation
+33118	33120	GO:0009987	to	cellular process
+33130	33156	GO:0009987	osteoblast differentiation	cellular process
+33130	33156	GO:0032502	osteoblast differentiation	developmental process
+33291	33293	GO:0065007	To	biological regulation
+33291	33293	GO:0009987	To	cellular process
+33311	33337	GO:0009987	osteoblast differentiation	cellular process
+33311	33337	GO:0032502	osteoblast differentiation	developmental process
+33418	33433	GO:0008152	gene expression	metabolic process
+33538	33544	GO:0060089	type I	molecular transducer activity
+33538	33544	GO:0003824	type I	catalytic activity
+33545	33553	GO:0044421	collagen	extraccellular region part
+33674	33679	GO:0005623	cells	cell
+33748	33750	GO:0065007	to	biological regulation
+33748	33750	GO:0009987	to	cellular process
+33793	33798	GO:0005623	cells	cell
+33818	33824	GO:0060089	type I	molecular transducer activity
+33818	33824	GO:0003824	type I	catalytic activity
+33825	33833	GO:0044421	collagen	extraccellular region part
+33855	33857	GO:0065007	to	biological regulation
+33855	33857	GO:0009987	to	cellular process
+34024	34026	GO:0065007	to	biological regulation
+34024	34026	GO:0009987	to	cellular process
+34061	34066	GO:0005623	cells	cell
+34129	34134	GO:0005623	cells	cell
+34142	34144	GO:0065007	to	biological regulation
+34142	34144	GO:0009987	to	cellular process
+34161	34163	GO:0065007	to	biological regulation
+34161	34163	GO:0009987	to	cellular process
+34303	34319	GO:0032502	limb development	developmental process
+34509	34511	GO:0065007	to	biological regulation
+34509	34511	GO:0009987	to	cellular process
+34589	34603	GO:0032502	chondrogenesis	developmental process
+34803	34815	GO:0032502	osteogenesis	developmental process
+34822	34831	GO:0023052	Signaling	signaling
+34844	34853	GO:0008152	Formation	metabolic process
+34885	34894	GO:0023052	signaling	signaling
+35005	35007	GO:0065007	to	biological regulation
+35005	35007	GO:0009987	to	cellular process
+35089	35091	GO:0065007	to	biological regulation
+35089	35091	GO:0009987	to	cellular process
+35210	35219	GO:0023052	signaling	signaling
+35220	35222	GO:0065007	to	biological regulation
+35220	35222	GO:0009987	to	cellular process
+35405	35407	GO:0065007	to	biological regulation
+35405	35407	GO:0009987	to	cellular process
+35534	35536	GO:0065007	to	biological regulation
+35534	35536	GO:0009987	to	cellular process
+35621	35630	GO:0023052	signaling	signaling
+36086	36095	GO:0023052	signaling	signaling
+36086	36095	GO:0023052	signaling	signaling
+36164	36166	GO:0065007	to	biological regulation
+36164	36166	GO:0009987	to	cellular process
+36264	36266	GO:0065007	to	biological regulation
+36264	36266	GO:0009987	to	cellular process
+36358	36360	GO:0065007	to	biological regulation
+36358	36360	GO:0009987	to	cellular process
+36623	36630	GO:0003824	protein	catalytic activity
+36907	36916	GO:0023052	signaling	signaling
+37014	37023	GO:0023052	signaling	signaling
+37070	37084	GO:0032502	chondrogenesis	developmental process
+37120	37129	GO:0023052	signaling	signaling
+37178	37187	GO:0023052	signaling	signaling
+37178	37187	GO:0023052	signaling	signaling
+37643	37645	GO:0065007	to	biological regulation
+37643	37645	GO:0009987	to	cellular process
+37796	37805	GO:0023052	signaling	signaling
+38292	38306	GO:0032502	chondrogenesis	developmental process
+39425	39427	GO:0065007	to	biological regulation
+39425	39427	GO:0009987	to	cellular process
+39726	39728	GO:0065007	to	biological regulation
+39726	39728	GO:0009987	to	cellular process
+39916	39918	GO:0065007	to	biological regulation
+39916	39918	GO:0009987	to	cellular process
+39937	39939	GO:0065007	to	biological regulation
+39937	39939	GO:0009987	to	cellular process
+39965	39967	GO:0065007	to	biological regulation
+39965	39967	GO:0009987	to	cellular process
+40078	40080	GO:0065007	to	biological regulation
+40078	40080	GO:0009987	to	cellular process
+40329	40338	GO:0023052	signaling	signaling
+40355	40364	GO:0016265	apoptosis	death
+40355	40364	GO:0009987	apoptosis	cellular process
+40484	40486	GO:0065007	to	biological regulation
+40484	40486	GO:0009987	to	cellular process
+40538	40560	GO:0065007	induction of apoptosis	biological regulation
+40551	40560	GO:0016265	apoptosis	death
+40551	40560	GO:0009987	apoptosis	cellular process
+40652	40661	GO:0023052	signaling	signaling
+40684	40688	GO:0005623	cell	cell
+40684	40694	GO:0016265	cell death	death
+40684	40694	GO:0009987	cell death	cellular process
+40689	40694	GO:0016265	death	death
+40695	40697	GO:0065007	to	biological regulation
+40695	40697	GO:0009987	to	cellular process
+40912	40921	GO:0016265	apoptosis	death
+40912	40921	GO:0009987	apoptosis	cellular process
+41006	41015	GO:0023052	Signaling	signaling
+41109	41118	GO:0023052	signaling	signaling
+41136	41146	GO:0003824	initiating	catalytic activity
+41227	41241	GO:0032502	chondrogenesis	developmental process
+41573	41575	GO:0065007	to	biological regulation
+41573	41575	GO:0009987	to	cellular process
+41613	41640	GO:0032502	chondrocyte differentiation	developmental process
+41613	41640	GO:0009987	chondrocyte differentiation	cellular process
+41713	41722	GO:0023052	signaling	signaling
+41726	41740	GO:0032502	chondrogenesis	developmental process
+41838	41844	GO:0060089	type I	molecular transducer activity
+41838	41844	GO:0003824	type I	catalytic activity
+41867	41886	GO:0009987	signal transduction	cellular process
+41867	41886	GO:0023046	signal transduction	signaling process
+41867	41886	GO:0050896	signal transduction	response to stimulus
+41867	41886	GO:0065007	signal transduction	biological regulation
+41867	41886	GO:0023052	signal transduction	signaling
+41874	41886	GO:0051704	transduction	multi-organism process
+41956	41958	GO:0065007	to	biological regulation
+41956	41958	GO:0009987	to	cellular process
+42004	42013	GO:0016265	apoptosis	death
+42004	42013	GO:0009987	apoptosis	cellular process
+42114	42116	GO:0065007	to	biological regulation
+42114	42116	GO:0009987	to	cellular process
+42153	42155	GO:0065007	to	biological regulation
+42153	42155	GO:0009987	to	cellular process
+42221	42228	GO:0009987	reduced	cellular process
+42221	42228	GO:0008152	reduced	metabolic process
+42221	42228	GO:0005215	reduced	transporter activity
+42221	42228	GO:0051234	reduced	establishment of localization
+42289	42291	GO:0065007	to	biological regulation
+42289	42291	GO:0009987	to	cellular process
+42292	42299	GO:0009987	reduced	cellular process
+42292	42299	GO:0008152	reduced	metabolic process
+42292	42299	GO:0005215	reduced	transporter activity
+42292	42299	GO:0051234	reduced	establishment of localization
+42330	42339	GO:0016265	apoptosis	death
+42330	42339	GO:0009987	apoptosis	cellular process
+42626	42638	GO:0032502	osteogenesis	developmental process
+42676	42690	GO:0032502	bone formation	developmental process
+42681	42690	GO:0008152	formation	metabolic process
+42955	42957	GO:0065007	to	biological regulation
+42955	42957	GO:0009987	to	cellular process
+43107	43112	GO:0005623	cells	cell
+43122	43124	GO:0065007	to	biological regulation
+43122	43124	GO:0009987	to	cellular process
+43192	43197	GO:0005623	cells	cell
+43207	43209	GO:0065007	to	biological regulation
+43207	43209	GO:0009987	to	cellular process
+43307	43332	GO:0032502	endochondral ossification	developmental process
+43320	43332	GO:0032502	ossification	developmental process
+43340	43342	GO:0065007	to	biological regulation
+43340	43342	GO:0009987	to	cellular process
+43358	43373	GO:0008152	gene expression	metabolic process
+43752	43761	GO:0023052	signaling	signaling
+43835	43847	GO:0032502	osteogenesis	developmental process
+44091	44105	GO:0032502	bone formation	developmental process
+44096	44105	GO:0008152	formation	metabolic process
+44266	44272	GO:0060089	type I	molecular transducer activity
+44266	44272	GO:0003824	type I	catalytic activity
+44300	44307	GO:0065007	type II	biological regulation
+44300	44307	GO:0003824	type II	catalytic activity
+44300	44307	GO:0060089	type II	molecular transducer activity
+44300	44307	GO:0008152	type II	metabolic process
+44445	44451	GO:0009987	direct	cellular process
+44445	44451	GO:0008152	direct	metabolic process
+44456	44471	GO:0009987	phosphorylation	cellular process
+44456	44471	GO:0008152	phosphorylation	metabolic process
+44500	44502	GO:0065007	to	biological regulation
+44500	44502	GO:0009987	to	cellular process
+44626	44631	GO:0005623	cells	cell
+44667	44669	GO:0065007	to	biological regulation
+44667	44669	GO:0009987	to	cellular process
+44782	44784	GO:0065007	to	biological regulation
+44782	44784	GO:0009987	to	cellular process
+44808	44810	GO:0065007	to	biological regulation
+44808	44810	GO:0009987	to	cellular process
+44826	44835	GO:0023052	signaling	signaling
+44826	44844	GO:0023052	signaling pathways	signaling
+44971	44997	GO:0009987	osteoblast differentiation	cellular process
+44971	44997	GO:0032502	osteoblast differentiation	developmental process
+45123	45137	GO:0032502	bone formation	developmental process
+45128	45137	GO:0008152	formation	metabolic process
+45173	45182	GO:0023052	signaling	signaling
+45482	45496	GO:0032502	chondrogenesis	developmental process
+45566	45580	GO:0032502	bone formation	developmental process
+45571	45580	GO:0008152	formation	metabolic process
+45633	45647	GO:0032502	chondrogenesis	developmental process
+45819	45822	GO:0023046	red	signaling process
+45819	45822	GO:0050896	red	response to stimulus
+45819	45822	GO:0009987	red	cellular process
+45819	45822	GO:0065007	red	biological regulation
+45826	45828	GO:0065007	to	biological regulation
+45826	45828	GO:0009987	to	cellular process
+45826	45828	GO:0065007	to	biological regulation
+45826	45828	GO:0009987	to	cellular process
+45826	45828	GO:0065007	to	biological regulation
+45826	45828	GO:0009987	to	cellular process
+45926	45928	GO:0065007	to	biological regulation
+45926	45928	GO:0009987	to	cellular process
+46388	46390	GO:0065007	to	biological regulation
+46388	46390	GO:0009987	to	cellular process
+46715	46717	GO:0065007	to	biological regulation
+46715	46717	GO:0009987	to	cellular process
+47644	47653	GO:0009987	embryonic	cellular process
+47644	47653	GO:0065007	embryonic	biological regulation
+47906	47908	GO:0065007	to	biological regulation
+47906	47908	GO:0009987	to	cellular process
+48140	48142	GO:0065007	to	biological regulation
+48140	48142	GO:0009987	to	cellular process
+48546	48556	GO:0043226	chromosome	organelle
+48546	48556	GO:0044422	chromosome	organelle part
+48546	48556	GO:0044464	chromosome	cell part
+48558	48568	GO:0044464	Chromosome	cell part
+48558	48568	GO:0043226	Chromosome	organelle
+48558	48568	GO:0044422	Chromosome	organelle part
+48573	48575	GO:0065007	To	biological regulation
+48573	48575	GO:0009987	To	cellular process
+49016	49026	GO:0043226	chromosome	organelle
+49016	49026	GO:0044422	chromosome	organelle part
+49016	49026	GO:0044464	chromosome	cell part
+49155	49157	GO:0065007	to	biological regulation
+49155	49157	GO:0009987	to	cellular process
+49333	49343	GO:0043226	chromosome	organelle
+49333	49343	GO:0044422	chromosome	organelle part
+49333	49343	GO:0044464	chromosome	cell part
+49565	49570	GO:0016265	death	death
+49602	49609	GO:0008152	ethanol	metabolic process
+49602	49609	GO:0009987	ethanol	cellular process
+49650	49652	GO:0065007	to	biological regulation
+49650	49652	GO:0009987	to	cellular process
+49697	49704	GO:0032502	embryos	developmental process
+49816	49819	GO:0023046	red	signaling process
+49816	49819	GO:0050896	red	response to stimulus
+49816	49819	GO:0009987	red	cellular process
+49816	49819	GO:0065007	red	biological regulation
+49869	49876	GO:0008152	ethanol	metabolic process
+49869	49876	GO:0009987	ethanol	cellular process
+50266	50271	GO:0005623	cells	cell
+50362	50369	GO:0032502	embryos	developmental process
+50387	50389	GO:0065007	to	biological regulation
+50387	50389	GO:0009987	to	cellular process
+50477	50484	GO:0032502	Embryos	developmental process
+50645	50652	GO:0032502	embryos	developmental process
+51115	51122	GO:0008152	ethanol	metabolic process
+51115	51122	GO:0009987	ethanol	cellular process
+51589	51596	GO:0008152	ethanol	metabolic process
+51589	51596	GO:0009987	ethanol	cellular process
+51904	51911	GO:0008152	ethanol	metabolic process
+51904	51911	GO:0009987	ethanol	cellular process
+53014	53016	GO:0065007	To	biological regulation
+53014	53016	GO:0009987	To	cellular process
+53255	53261	GO:0060089	type I	molecular transducer activity
+53255	53261	GO:0003824	type I	catalytic activity
+53262	53270	GO:0044421	collagen	extraccellular region part
+53739	53746	GO:0032502	embryos	developmental process
+54086	54093	GO:0032502	embryos	developmental process
+54086	54093	GO:0032502	embryos	developmental process
+54341	54350	GO:0009987	embryonic	cellular process
+54341	54350	GO:0065007	embryonic	biological regulation
+54398	54405	GO:0032502	embryos	developmental process
+54436	54443	GO:0032502	embryos	developmental process
+54492	54499	GO:0032502	embryos	developmental process
+54689	54696	GO:0032502	embryos	developmental process
+54880	54889	GO:0009987	embryonic	cellular process
+54880	54889	GO:0065007	embryonic	biological regulation
+55612	55614	GO:0065007	to	biological regulation
+55612	55614	GO:0009987	to	cellular process
+55612	55614	GO:0065007	to	biological regulation
+55612	55614	GO:0009987	to	cellular process
+56171	56183	GO:0032502	Osteogenesis	developmental process
+56645	56647	GO:0065007	to	biological regulation
+56645	56647	GO:0009987	to	cellular process
+56819	56821	GO:0065007	to	biological regulation
+56819	56821	GO:0009987	to	cellular process
+56819	56821	GO:0065007	to	biological regulation
+56819	56821	GO:0009987	to	cellular process
+56946	56952	GO:0050896	memory	response to stimulus
+56946	56952	GO:0032501	memory	multicellular organismal process
+57002	57004	GO:0065007	to	biological regulation
+57002	57004	GO:0009987	to	cellular process
+57079	57081	GO:0065007	to	biological regulation
+57079	57081	GO:0009987	to	cellular process
+57196	57203	GO:0003824	protein	catalytic activity
+57209	57218	GO:0009987	embryonic	cellular process
+57209	57218	GO:0065007	embryonic	biological regulation
+57241	57247	GO:0040007	growth	growth
+57663	57670	GO:0032502	embryos	developmental process
+57753	57759	GO:0032502	embryo	developmental process
+57995	58002	GO:0032502	embryos	developmental process
+58028	58031	GO:0023046	red	signaling process
+58028	58031	GO:0050896	red	response to stimulus
+58028	58031	GO:0009987	red	cellular process
+58028	58031	GO:0065007	red	biological regulation
+58086	58092	GO:0032502	embryo	developmental process
+58327	58330	GO:0023046	red	signaling process
+58327	58330	GO:0050896	red	response to stimulus
+58327	58330	GO:0009987	red	cellular process
+58327	58330	GO:0065007	red	biological regulation
+58629	58632	GO:0023046	red	signaling process
+58629	58632	GO:0050896	red	response to stimulus
+58629	58632	GO:0009987	red	cellular process
+58629	58632	GO:0065007	red	biological regulation
+58686	58689	GO:0023046	red	signaling process
+58686	58689	GO:0050896	red	response to stimulus
+58686	58689	GO:0009987	red	cellular process
+58686	58689	GO:0065007	red	biological regulation
+58722	58724	GO:0065007	to	biological regulation
+58722	58724	GO:0009987	to	cellular process
+58843	58852	GO:0023052	Signaling	signaling
+59258	59265	GO:0032502	embryos	developmental process
+59447	59452	GO:0005623	cells	cell
+59643	59650	GO:0032502	embryos	developmental process
+59917	59924	GO:0032502	embryos	developmental process
+60087	60094	GO:0032502	embryos	developmental process
+60134	60141	GO:0032502	embryos	developmental process
+60254	60263	GO:0009987	embryonic	cellular process
+60254	60263	GO:0065007	embryonic	biological regulation
+60393	60402	GO:0009987	embryonic	cellular process
+60393	60402	GO:0065007	embryonic	biological regulation
+60419	60422	GO:0023046	red	signaling process
+60419	60422	GO:0050896	red	response to stimulus
+60419	60422	GO:0009987	red	cellular process
+60419	60422	GO:0065007	red	biological regulation
+60531	60545	GO:0032502	Chondrogenesis	developmental process
+60656	60663	GO:0032502	embryos	developmental process
+60713	60719	GO:0032502	embryo	developmental process
+60753	60759	GO:0032502	embryo	developmental process
+60957	60964	GO:0032502	embryos	developmental process
+60972	60975	GO:0023046	red	signaling process
+60972	60975	GO:0050896	red	response to stimulus
+60972	60975	GO:0009987	red	cellular process
+60972	60975	GO:0065007	red	biological regulation
+61120	61127	GO:0032502	embryos	developmental process
+61287	61294	GO:0032502	embryos	developmental process
+61477	61489	GO:0032502	Osteogenesis	developmental process
+61510	61519	GO:0065007	Embryonic	biological regulation
+61510	61519	GO:0009987	Embryonic	cellular process
+61580	61587	GO:0032502	embryos	developmental process
+61659	61665	GO:0032502	embryo	developmental process
+61723	61729	GO:0032502	embryo	developmental process
+61813	61816	GO:0023046	red	signaling process
+61813	61816	GO:0050896	red	response to stimulus
+61813	61816	GO:0009987	red	cellular process
+61813	61816	GO:0065007	red	biological regulation
+61959	61965	GO:0032502	embryo	developmental process
+62010	62016	GO:0032502	embryo	developmental process
+62066	62073	GO:0032502	embryos	developmental process
+62162	62165	GO:0023046	red	signaling process
+62162	62165	GO:0050896	red	response to stimulus
+62162	62165	GO:0009987	red	cellular process
+62162	62165	GO:0065007	red	biological regulation
+62221	62227	GO:0032502	embryo	developmental process
+62299	62305	GO:0032502	embryo	developmental process
+62768	62771	GO:0065007	Red	biological regulation
+62768	62771	GO:0009987	Red	cellular process
+62768	62771	GO:0050896	Red	response to stimulus
+62768	62771	GO:0023046	Red	signaling process
+62846	62849	GO:0023046	red	signaling process
+62846	62849	GO:0050896	red	response to stimulus
+62846	62849	GO:0009987	red	cellular process
+62846	62849	GO:0065007	red	biological regulation
+63077	63079	GO:0065007	to	biological regulation
+63077	63079	GO:0009987	to	cellular process
+63152	63161	GO:0008152	Formation	metabolic process
+63425	63427	GO:0065007	to	biological regulation
+63425	63427	GO:0009987	to	cellular process
+63439	63444	GO:0005623	cells	cell
+63514	63519	GO:0005623	cells	cell
+63520	63522	GO:0065007	to	biological regulation
+63520	63522	GO:0009987	to	cellular process
+63575	63578	GO:0065007	Red	biological regulation
+63575	63578	GO:0009987	Red	cellular process
+63575	63578	GO:0050896	Red	response to stimulus
+63575	63578	GO:0023046	Red	signaling process
+63619	63631	GO:0032502	ossification	developmental process
+63683	63686	GO:0023046	red	signaling process
+63683	63686	GO:0050896	red	response to stimulus
+63683	63686	GO:0009987	red	cellular process
+63683	63686	GO:0065007	red	biological regulation
+63979	63993	GO:0032502	bone formation	developmental process
+63984	63993	GO:0008152	formation	metabolic process
+64031	64046	GO:0065007	bone resorption	biological regulation
+64142	64147	GO:0005623	cells	cell
+64212	64215	GO:0065007	Red	biological regulation
+64212	64215	GO:0009987	Red	cellular process
+64212	64215	GO:0050896	Red	response to stimulus
+64212	64215	GO:0023046	Red	signaling process
+64504	64507	GO:0023046	red	signaling process
+64504	64507	GO:0050896	red	response to stimulus
+64504	64507	GO:0009987	red	cellular process
+64504	64507	GO:0065007	red	biological regulation
+64589	64599	GO:0022414	Maturation	reproductive process
+65588	65590	GO:0065007	to	biological regulation
+65588	65590	GO:0009987	to	cellular process
+65675	65677	GO:0065007	to	biological regulation
+65675	65677	GO:0009987	to	cellular process

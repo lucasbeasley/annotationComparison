@@ -1,469 +1,469 @@
 StartIndex	EndIndex	GO:ID	Term	OntologyTerm
 14	16	GO:0065007	to	biological regulation
 14	16	GO:0009987	to	cellular process
-1015	1025	GO:0044464	Chromosome	cell part
-1015	1025	GO:0043226	Chromosome	organelle
-1015	1025	GO:0044422	Chromosome	organelle part
-1084	1086	GO:0065007	to	biological regulation
-1084	1086	GO:0009987	to	cellular process
-1107	1109	GO:0065007	to	biological regulation
-1107	1109	GO:0009987	to	cellular process
-1117	1119	GO:0065007	to	biological regulation
-1117	1119	GO:0009987	to	cellular process
-1669	1673	GO:0005623	cell	cell
-1669	1681	GO:0043226	cell nucleus	organelle
-1669	1681	GO:0044464	cell nucleus	cell part
-1712	1719	GO:0043226	nucleus	organelle
-1712	1719	GO:0044464	nucleus	cell part
-1768	1770	GO:0065007	to	biological regulation
-1768	1770	GO:0009987	to	cellular process
-1768	1770	GO:0065007	to	biological regulation
-1768	1770	GO:0009987	to	cellular process
-1978	1990	GO:0051704	pathogenesis	multi-organism process
-2189	2191	GO:0065007	to	biological regulation
-2189	2191	GO:0009987	to	cellular process
-2614	2626	GO:0044464	Y chromosome	cell part
-2614	2626	GO:0043226	Y chromosome	organelle
-2616	2626	GO:0043226	chromosome	organelle
-2616	2626	GO:0044422	chromosome	organelle part
-2616	2626	GO:0044464	chromosome	cell part
-2629	2631	GO:0065007	to	biological regulation
-2629	2631	GO:0009987	to	cellular process
-3036	3048	GO:0051704	pathogenesis	multi-organism process
-3116	3118	GO:0065007	to	biological regulation
-3116	3118	GO:0009987	to	cellular process
-3127	3137	GO:0043226	chromosome	organelle
-3127	3137	GO:0044422	chromosome	organelle part
-3127	3137	GO:0044464	chromosome	cell part
-3337	3347	GO:0044464	Chromosome	cell part
-3337	3347	GO:0043226	Chromosome	organelle
-3337	3347	GO:0044422	Chromosome	organelle part
-3535	3537	GO:0065007	to	biological regulation
-3535	3537	GO:0009987	to	cellular process
-3679	3681	GO:0065007	to	biological regulation
-3679	3681	GO:0009987	to	cellular process
-3787	3794	GO:0003824	protein	catalytic activity
-3864	3872	GO:0003824	proteins	catalytic activity
-3920	3922	GO:0065007	to	biological regulation
-3920	3922	GO:0009987	to	cellular process
-4111	4113	GO:0065007	to	biological regulation
-4111	4113	GO:0009987	to	cellular process
-4294	4296	GO:0065007	to	biological regulation
-4294	4296	GO:0009987	to	cellular process
-4322	4324	GO:0065007	to	biological regulation
-4322	4324	GO:0009987	to	cellular process
-4927	4929	GO:0065007	To	biological regulation
-4927	4929	GO:0009987	To	cellular process
-5214	5216	GO:0065007	to	biological regulation
-5214	5216	GO:0009987	to	cellular process
-5298	5300	GO:0065007	to	biological regulation
-5298	5300	GO:0009987	to	cellular process
-5500	5510	GO:0044464	Chromosome	cell part
-5500	5510	GO:0043226	Chromosome	organelle
-5500	5510	GO:0044422	Chromosome	organelle part
-6152	6161	GO:0009987	embryonic	cellular process
-6152	6161	GO:0065007	embryonic	biological regulation
-6167	6172	GO:0005623	cells	cell
-6277	6279	GO:0065007	to	biological regulation
-6277	6279	GO:0009987	to	cellular process
-6340	6350	GO:0044464	Chromosome	cell part
-6340	6350	GO:0043226	Chromosome	organelle
-6340	6350	GO:0044422	Chromosome	organelle part
-6496	6505	GO:0009987	embryonic	cellular process
-6496	6505	GO:0065007	embryonic	biological regulation
-6511	6516	GO:0005623	cells	cell
-6533	6535	GO:0065007	to	biological regulation
-6533	6535	GO:0009987	to	cellular process
-7012	7014	GO:0065007	To	biological regulation
-7012	7014	GO:0009987	To	cellular process
-7227	7229	GO:0065007	to	biological regulation
-7227	7229	GO:0009987	to	cellular process
-7227	7229	GO:0065007	to	biological regulation
-7227	7229	GO:0009987	to	cellular process
-8671	8680	GO:0044464	autosomes	cell part
-8671	8680	GO:0043226	autosomes	organelle
-8903	8905	GO:0065007	to	biological regulation
-8903	8905	GO:0009987	to	cellular process
-9047	9057	GO:0044464	Chromosome	cell part
-9047	9057	GO:0043226	Chromosome	organelle
-9047	9057	GO:0044422	Chromosome	organelle part
-9124	9126	GO:0065007	to	biological regulation
-9124	9126	GO:0009987	to	cellular process
-9202	9213	GO:0044464	Chromosomes	cell part
-9202	9213	GO:0044422	Chromosomes	organelle part
-9202	9213	GO:0043226	Chromosomes	organelle
-9376	9386	GO:0044464	Chromosome	cell part
-9376	9386	GO:0043226	Chromosome	organelle
-9376	9386	GO:0044422	Chromosome	organelle part
-9402	9404	GO:0065007	to	biological regulation
-9402	9404	GO:0009987	to	cellular process
-9629	9631	GO:0065007	to	biological regulation
-9629	9631	GO:0009987	to	cellular process
-9636	9645	GO:0009987	telomeric	cellular process
-9636	9645	GO:0016043	telomeric	cellular component organization
-9636	9652	GO:0044422	telomeric region	organelle part
-9636	9652	GO:0051234	telomeric region	establishment of localization
-9636	9652	GO:0051179	telomeric region	localization
-9636	9652	GO:0009987	telomeric region	cellular process
-9636	9652	GO:0016043	telomeric region	cellular component organization
-9636	9652	GO:0044464	telomeric region	cell part
-9656	9666	GO:0044464	Chromosome	cell part
-9656	9666	GO:0043226	Chromosome	organelle
-9656	9666	GO:0044422	Chromosome	organelle part
-9812	9814	GO:0065007	to	biological regulation
-9812	9814	GO:0009987	to	cellular process
-9833	9843	GO:0044464	Chromosome	cell part
-9833	9843	GO:0043226	Chromosome	organelle
-9833	9843	GO:0044422	Chromosome	organelle part
-10371	10381	GO:0044464	Chromosome	cell part
-10371	10381	GO:0043226	Chromosome	organelle
-10371	10381	GO:0044422	Chromosome	organelle part
-10471	10473	GO:0065007	to	biological regulation
-10471	10473	GO:0009987	to	cellular process
-11051	11053	GO:0065007	to	biological regulation
-11051	11053	GO:0009987	to	cellular process
-11240	11242	GO:0065007	to	biological regulation
-11240	11242	GO:0009987	to	cellular process
-11365	11372	GO:0003824	protein	catalytic activity
-11385	11387	GO:0065007	to	biological regulation
-11385	11387	GO:0009987	to	cellular process
-11556	11558	GO:0065007	to	biological regulation
-11556	11558	GO:0009987	to	cellular process
-11574	11576	GO:0065007	to	biological regulation
-11574	11576	GO:0009987	to	cellular process
-11750	11760	GO:0044464	Chromosome	cell part
-11750	11760	GO:0043226	Chromosome	organelle
-11750	11760	GO:0044422	Chromosome	organelle part
-11895	11897	GO:0065007	to	biological regulation
-11895	11897	GO:0009987	to	cellular process
-11933	11935	GO:0065007	to	biological regulation
-11933	11935	GO:0009987	to	cellular process
-12466	12476	GO:0044464	Chromosome	cell part
-12466	12476	GO:0043226	Chromosome	organelle
-12466	12476	GO:0044422	Chromosome	organelle part
-12622	12632	GO:0044464	Chromosome	cell part
-12622	12632	GO:0043226	Chromosome	organelle
-12622	12632	GO:0044422	Chromosome	organelle part
-12686	12688	GO:0065007	to	biological regulation
-12686	12688	GO:0009987	to	cellular process
-12709	12711	GO:0065007	to	biological regulation
-12709	12711	GO:0009987	to	cellular process
-12828	12830	GO:0065007	to	biological regulation
-12828	12830	GO:0009987	to	cellular process
-12880	12890	GO:0044464	Chromosome	cell part
-12880	12890	GO:0043226	Chromosome	organelle
-12880	12890	GO:0044422	Chromosome	organelle part
-13012	13022	GO:0044464	Chromosome	cell part
-13012	13022	GO:0043226	Chromosome	organelle
-13012	13022	GO:0044422	Chromosome	organelle part
-13399	13409	GO:0044464	Chromosome	cell part
-13399	13409	GO:0043226	Chromosome	organelle
-13399	13409	GO:0044422	Chromosome	organelle part
-13503	13512	GO:0009987	telomeric	cellular process
-13503	13512	GO:0016043	telomeric	cellular component organization
-13503	13519	GO:0044422	telomeric region	organelle part
-13503	13519	GO:0051234	telomeric region	establishment of localization
-13503	13519	GO:0051179	telomeric region	localization
-13503	13519	GO:0009987	telomeric region	cellular process
-13503	13519	GO:0016043	telomeric region	cellular component organization
-13503	13519	GO:0044464	telomeric region	cell part
-13523	13533	GO:0044464	Chromosome	cell part
-13523	13533	GO:0043226	Chromosome	organelle
-13523	13533	GO:0044422	Chromosome	organelle part
-13572	13574	GO:0065007	to	biological regulation
-13572	13574	GO:0009987	to	cellular process
-13818	13828	GO:0044464	Chromosome	cell part
-13818	13828	GO:0043226	Chromosome	organelle
-13818	13828	GO:0044422	Chromosome	organelle part
-13966	13976	GO:0043226	chromosome	organelle
-13966	13976	GO:0044422	chromosome	organelle part
-13966	13976	GO:0044464	chromosome	cell part
-13977	13979	GO:0065007	to	biological regulation
-13977	13979	GO:0009987	to	cellular process
-14086	14096	GO:0044464	Chromosome	cell part
-14086	14096	GO:0043226	Chromosome	organelle
-14086	14096	GO:0044422	Chromosome	organelle part
-14174	14176	GO:0065007	to	biological regulation
-14174	14176	GO:0009987	to	cellular process
-14323	14333	GO:0044464	Chromosome	cell part
-14323	14333	GO:0043226	Chromosome	organelle
-14323	14333	GO:0044422	Chromosome	organelle part
-14379	14381	GO:0065007	to	biological regulation
-14379	14381	GO:0009987	to	cellular process
-14432	14434	GO:0065007	to	biological regulation
-14432	14434	GO:0009987	to	cellular process
-14512	14514	GO:0065007	to	biological regulation
-14512	14514	GO:0009987	to	cellular process
-15458	15468	GO:0044464	Chromosome	cell part
-15458	15468	GO:0043226	Chromosome	organelle
-15458	15468	GO:0044422	Chromosome	organelle part
-15505	15507	GO:0065007	to	biological regulation
-15505	15507	GO:0009987	to	cellular process
-15528	15530	GO:0065007	to	biological regulation
-15528	15530	GO:0009987	to	cellular process
-15538	15540	GO:0065007	to	biological regulation
-15538	15540	GO:0009987	to	cellular process
-15551	15553	GO:0065007	to	biological regulation
-15551	15553	GO:0009987	to	cellular process
-15551	15553	GO:0065007	to	biological regulation
-15551	15553	GO:0009987	to	cellular process
-16475	16485	GO:0044464	Chromosome	cell part
-16475	16485	GO:0043226	Chromosome	organelle
-16475	16485	GO:0044422	Chromosome	organelle part
-16621	16631	GO:0044464	Chromosome	cell part
-16621	16631	GO:0043226	Chromosome	organelle
-16621	16631	GO:0044422	Chromosome	organelle part
-16867	16869	GO:0065007	to	biological regulation
-16867	16869	GO:0009987	to	cellular process
-16888	16890	GO:0065007	to	biological regulation
-16888	16890	GO:0009987	to	cellular process
-17028	17038	GO:0044464	Chromosome	cell part
-17028	17038	GO:0043226	Chromosome	organelle
-17028	17038	GO:0044422	Chromosome	organelle part
-17142	17151	GO:0009987	embryonic	cellular process
-17142	17151	GO:0065007	embryonic	biological regulation
-17157	17162	GO:0005623	cells	cell
-17186	17188	GO:0065007	to	biological regulation
-17186	17188	GO:0009987	to	cellular process
-17297	17299	GO:0065007	to	biological regulation
-17297	17299	GO:0009987	to	cellular process
-17317	17319	GO:0065007	to	biological regulation
-17317	17319	GO:0009987	to	cellular process
-17347	17349	GO:0065007	to	biological regulation
-17347	17349	GO:0009987	to	cellular process
-17365	17367	GO:0065007	to	biological regulation
-17365	17367	GO:0009987	to	cellular process
-17401	17403	GO:0065007	to	biological regulation
-17401	17403	GO:0009987	to	cellular process
-17545	17547	GO:0065007	to	biological regulation
-17545	17547	GO:0009987	to	cellular process
-17601	17603	GO:0065007	to	biological regulation
-17601	17603	GO:0009987	to	cellular process
-17758	17760	GO:0065007	to	biological regulation
-17758	17760	GO:0009987	to	cellular process
-17818	17820	GO:0065007	to	biological regulation
-17818	17820	GO:0009987	to	cellular process
-17818	17820	GO:0065007	to	biological regulation
-17818	17820	GO:0009987	to	cellular process
-20016	20026	GO:0044464	Chromosome	cell part
-20016	20026	GO:0043226	Chromosome	organelle
-20016	20026	GO:0044422	Chromosome	organelle part
-20049	20051	GO:0065007	to	biological regulation
-20049	20051	GO:0009987	to	cellular process
-20049	20051	GO:0065007	to	biological regulation
-20049	20051	GO:0009987	to	cellular process
-20318	20328	GO:0044464	Chromosome	cell part
-20318	20328	GO:0043226	Chromosome	organelle
-20318	20328	GO:0044422	Chromosome	organelle part
-20373	20383	GO:0044464	Chromosome	cell part
-20373	20383	GO:0043226	Chromosome	organelle
-20373	20383	GO:0044422	Chromosome	organelle part
-20386	20388	GO:0065007	to	biological regulation
-20386	20388	GO:0009987	to	cellular process
-20485	20495	GO:0044464	Chromosome	cell part
-20485	20495	GO:0043226	Chromosome	organelle
-20485	20495	GO:0044422	Chromosome	organelle part
-20593	20595	GO:0065007	to	biological regulation
-20593	20595	GO:0009987	to	cellular process
-20609	20619	GO:0044464	Chromosome	cell part
-20609	20619	GO:0043226	Chromosome	organelle
-20609	20619	GO:0044422	Chromosome	organelle part
-20628	20630	GO:0065007	to	biological regulation
-20628	20630	GO:0009987	to	cellular process
-20736	20746	GO:0044464	Chromosome	cell part
-20736	20746	GO:0043226	Chromosome	organelle
-20736	20746	GO:0044422	Chromosome	organelle part
-20816	20818	GO:0065007	to	biological regulation
-20816	20818	GO:0009987	to	cellular process
-20987	20989	GO:0065007	to	biological regulation
-20987	20989	GO:0009987	to	cellular process
-21399	21409	GO:0044464	Chromosome	cell part
-21399	21409	GO:0043226	Chromosome	organelle
-21399	21409	GO:0044422	Chromosome	organelle part
-21558	21567	GO:0009987	telomeric	cellular process
-21558	21567	GO:0016043	telomeric	cellular component organization
-21568	21578	GO:0044464	Chromosome	cell part
-21568	21578	GO:0043226	Chromosome	organelle
-21568	21578	GO:0044422	Chromosome	organelle part
-21822	21832	GO:0044464	Chromosome	cell part
-21822	21832	GO:0043226	Chromosome	organelle
-21822	21832	GO:0044422	Chromosome	organelle part
-21850	21852	GO:0065007	to	biological regulation
-21850	21852	GO:0009987	to	cellular process
-21871	21881	GO:0044464	Chromosome	cell part
-21871	21881	GO:0043226	Chromosome	organelle
-21871	21881	GO:0044422	Chromosome	organelle part
-22005	22007	GO:0065007	to	biological regulation
-22005	22007	GO:0009987	to	cellular process
-22081	22083	GO:0065007	to	biological regulation
-22081	22083	GO:0009987	to	cellular process
-22089	22098	GO:0044422	chromatin	organelle part
-22089	22098	GO:0044464	chromatin	cell part
-22114	22119	GO:0005623	cells	cell
-22222	22224	GO:0065007	to	biological regulation
-22222	22224	GO:0009987	to	cellular process
-22233	22242	GO:0044422	chromatin	organelle part
-22233	22242	GO:0044464	chromatin	cell part
-22257	22262	GO:0005623	cells	cell
-22624	22633	GO:0044422	chromatin	organelle part
-22624	22633	GO:0044464	chromatin	cell part
-22647	22649	GO:0065007	to	biological regulation
-22647	22649	GO:0009987	to	cellular process
-22654	22666	GO:0051704	pathogenesis	multi-organism process
-23199	23201	GO:0065007	to	biological regulation
-23199	23201	GO:0009987	to	cellular process
-23362	23372	GO:0044464	Chromosome	cell part
-23362	23372	GO:0043226	Chromosome	organelle
-23362	23372	GO:0044422	Chromosome	organelle part
-23415	23417	GO:0065007	to	biological regulation
-23415	23417	GO:0009987	to	cellular process
-23641	23650	GO:0009987	telomeric	cellular process
-23641	23650	GO:0016043	telomeric	cellular component organization
-23641	23657	GO:0044422	telomeric region	organelle part
-23641	23657	GO:0051234	telomeric region	establishment of localization
-23641	23657	GO:0051179	telomeric region	localization
-23641	23657	GO:0009987	telomeric region	cellular process
-23641	23657	GO:0016043	telomeric region	cellular component organization
-23641	23657	GO:0044464	telomeric region	cell part
-23661	23671	GO:0044464	Chromosome	cell part
-23661	23671	GO:0043226	Chromosome	organelle
-23661	23671	GO:0044422	Chromosome	organelle part
-23909	23911	GO:0065007	to	biological regulation
-23909	23911	GO:0009987	to	cellular process
-23974	23976	GO:0065007	to	biological regulation
-23974	23976	GO:0009987	to	cellular process
-24038	24040	GO:0065007	to	biological regulation
-24038	24040	GO:0009987	to	cellular process
-24090	24100	GO:0044464	Chromosome	cell part
-24090	24100	GO:0043226	Chromosome	organelle
-24090	24100	GO:0044422	Chromosome	organelle part
-24129	24131	GO:0065007	to	biological regulation
-24129	24131	GO:0009987	to	cellular process
-24221	24231	GO:0044464	Chromosome	cell part
-24221	24231	GO:0043226	Chromosome	organelle
-24221	24231	GO:0044422	Chromosome	organelle part
-24254	24256	GO:0065007	to	biological regulation
-24254	24256	GO:0009987	to	cellular process
-24326	24328	GO:0065007	to	biological regulation
-24326	24328	GO:0009987	to	cellular process
-24903	24912	GO:0009987	embryonic	cellular process
-24903	24912	GO:0065007	embryonic	biological regulation
-24918	24923	GO:0005623	cells	cell
-24945	24947	GO:0065007	to	biological regulation
-24945	24947	GO:0009987	to	cellular process
-25169	25171	GO:0065007	to	biological regulation
-25169	25171	GO:0009987	to	cellular process
-25279	25289	GO:0044464	Chromosome	cell part
-25279	25289	GO:0043226	Chromosome	organelle
-25279	25289	GO:0044422	Chromosome	organelle part
-25885	25892	GO:0003824	protein	catalytic activity
-25909	25916	GO:0003824	protein	catalytic activity
-25933	25935	GO:0065007	to	biological regulation
-25933	25935	GO:0009987	to	cellular process
-25957	25959	GO:0065007	to	biological regulation
-25957	25959	GO:0009987	to	cellular process
-26172	26179	GO:0009987	reduced	cellular process
-26172	26179	GO:0008152	reduced	metabolic process
-26172	26179	GO:0005215	reduced	transporter activity
-26172	26179	GO:0051234	reduced	establishment of localization
-26206	26213	GO:0003824	protein	catalytic activity
-26232	26234	GO:0065007	to	biological regulation
-26232	26234	GO:0009987	to	cellular process
-26232	26234	GO:0065007	to	biological regulation
-26232	26234	GO:0009987	to	cellular process
-26385	26395	GO:0044464	Chromosome	cell part
-26385	26395	GO:0043226	Chromosome	organelle
-26385	26395	GO:0044422	Chromosome	organelle part
-26575	26577	GO:0065007	to	biological regulation
-26575	26577	GO:0009987	to	cellular process
-26841	26853	GO:0051704	pathogenesis	multi-organism process
-27060	27062	GO:0065007	to	biological regulation
-27060	27062	GO:0009987	to	cellular process
-27110	27112	GO:0065007	to	biological regulation
-27110	27112	GO:0009987	to	cellular process
-27261	27263	GO:0065007	to	biological regulation
-27261	27263	GO:0009987	to	cellular process
-27599	27601	GO:0065007	to	biological regulation
-27599	27601	GO:0009987	to	cellular process
-28359	28369	GO:0044464	Chromosome	cell part
-28359	28369	GO:0043226	Chromosome	organelle
-28359	28369	GO:0044422	Chromosome	organelle part
-28539	28541	GO:0065007	to	biological regulation
-28539	28541	GO:0009987	to	cellular process
-28614	28616	GO:0065007	to	biological regulation
-28614	28616	GO:0009987	to	cellular process
-28731	28733	GO:0065007	to	biological regulation
-28731	28733	GO:0009987	to	cellular process
-29390	29395	GO:0005623	cells	cell
-29639	29641	GO:0065007	to	biological regulation
-29639	29641	GO:0009987	to	cellular process
-29656	29658	GO:0065007	to	biological regulation
-29656	29658	GO:0009987	to	cellular process
-29871	29873	GO:0065007	to	biological regulation
-29871	29873	GO:0009987	to	cellular process
-29871	29873	GO:0065007	to	biological regulation
-29871	29873	GO:0009987	to	cellular process
-31823	31832	GO:0044464	autosomes	cell part
-31823	31832	GO:0043226	autosomes	organelle
-32370	32372	GO:0065007	to	biological regulation
-32370	32372	GO:0009987	to	cellular process
-33075	33077	GO:0065007	to	biological regulation
-33075	33077	GO:0009987	to	cellular process
-33541	33549	GO:0044421	antibody	extraccellular region part
-33541	33549	GO:0032991	antibody	macromolecular complex
-33568	33576	GO:0044421	antibody	extraccellular region part
-33568	33576	GO:0032991	antibody	macromolecular complex
-33853	33863	GO:0044464	Chromosome	cell part
-33853	33863	GO:0043226	Chromosome	organelle
-33853	33863	GO:0044422	Chromosome	organelle part
-34081	34083	GO:0065007	to	biological regulation
-34081	34083	GO:0009987	to	cellular process
-34314	34324	GO:0044464	Chromosome	cell part
-34314	34324	GO:0043226	Chromosome	organelle
-34314	34324	GO:0044422	Chromosome	organelle part
-34637	34639	GO:0065007	to	biological regulation
-34637	34639	GO:0009987	to	cellular process
-34846	34856	GO:0044464	Chromosome	cell part
-34846	34856	GO:0043226	Chromosome	organelle
-34846	34856	GO:0044422	Chromosome	organelle part
-34976	34978	GO:0065007	to	biological regulation
-34976	34978	GO:0009987	to	cellular process
-35365	35375	GO:0044464	Chromosome	cell part
-35365	35375	GO:0043226	Chromosome	organelle
-35365	35375	GO:0044422	Chromosome	organelle part
-35492	35494	GO:0065007	to	biological regulation
-35492	35494	GO:0009987	to	cellular process
-35788	35790	GO:0065007	to	biological regulation
-35788	35790	GO:0009987	to	cellular process
-36172	36182	GO:0044464	Chromosome	cell part
-36172	36182	GO:0043226	Chromosome	organelle
-36172	36182	GO:0044422	Chromosome	organelle part
-36336	36338	GO:0065007	to	biological regulation
-36336	36338	GO:0009987	to	cellular process
-36561	36571	GO:0044464	Chromosome	cell part
-36561	36571	GO:0043226	Chromosome	organelle
-36561	36571	GO:0044422	Chromosome	organelle part
-36737	36739	GO:0065007	to	biological regulation
-36737	36739	GO:0009987	to	cellular process
-37057	37059	GO:0065007	to	biological regulation
-37057	37059	GO:0009987	to	cellular process
-37320	37322	GO:0065007	to	biological regulation
-37320	37322	GO:0009987	to	cellular process
-37473	37475	GO:0065007	to	biological regulation
-37473	37475	GO:0009987	to	cellular process
-37646	37648	GO:0065007	to	biological regulation
-37646	37648	GO:0009987	to	cellular process
-38051	38061	GO:0044464	Chromosome	cell part
-38051	38061	GO:0043226	Chromosome	organelle
-38051	38061	GO:0044422	Chromosome	organelle part
-38282	38284	GO:0065007	to	biological regulation
-38282	38284	GO:0009987	to	cellular process
+1019	1029	GO:0044464	Chromosome	cell part
+1019	1029	GO:0043226	Chromosome	organelle
+1019	1029	GO:0044422	Chromosome	organelle part
+1088	1090	GO:0065007	to	biological regulation
+1088	1090	GO:0009987	to	cellular process
+1111	1113	GO:0065007	to	biological regulation
+1111	1113	GO:0009987	to	cellular process
+1121	1123	GO:0065007	to	biological regulation
+1121	1123	GO:0009987	to	cellular process
+1677	1681	GO:0005623	cell	cell
+1677	1689	GO:0043226	cell nucleus	organelle
+1677	1689	GO:0044464	cell nucleus	cell part
+1720	1727	GO:0043226	nucleus	organelle
+1720	1727	GO:0044464	nucleus	cell part
+1776	1778	GO:0065007	to	biological regulation
+1776	1778	GO:0009987	to	cellular process
+1776	1778	GO:0065007	to	biological regulation
+1776	1778	GO:0009987	to	cellular process
+1986	1998	GO:0051704	pathogenesis	multi-organism process
+2197	2199	GO:0065007	to	biological regulation
+2197	2199	GO:0009987	to	cellular process
+2624	2636	GO:0044464	Y chromosome	cell part
+2624	2636	GO:0043226	Y chromosome	organelle
+2626	2636	GO:0043226	chromosome	organelle
+2626	2636	GO:0044422	chromosome	organelle part
+2626	2636	GO:0044464	chromosome	cell part
+2639	2641	GO:0065007	to	biological regulation
+2639	2641	GO:0009987	to	cellular process
+3046	3058	GO:0051704	pathogenesis	multi-organism process
+3126	3128	GO:0065007	to	biological regulation
+3126	3128	GO:0009987	to	cellular process
+3137	3147	GO:0043226	chromosome	organelle
+3137	3147	GO:0044422	chromosome	organelle part
+3137	3147	GO:0044464	chromosome	cell part
+3347	3357	GO:0044464	Chromosome	cell part
+3347	3357	GO:0043226	Chromosome	organelle
+3347	3357	GO:0044422	Chromosome	organelle part
+3547	3549	GO:0065007	to	biological regulation
+3547	3549	GO:0009987	to	cellular process
+3691	3693	GO:0065007	to	biological regulation
+3691	3693	GO:0009987	to	cellular process
+3799	3806	GO:0003824	protein	catalytic activity
+3876	3884	GO:0003824	proteins	catalytic activity
+3932	3934	GO:0065007	to	biological regulation
+3932	3934	GO:0009987	to	cellular process
+4123	4125	GO:0065007	to	biological regulation
+4123	4125	GO:0009987	to	cellular process
+4306	4308	GO:0065007	to	biological regulation
+4306	4308	GO:0009987	to	cellular process
+4334	4336	GO:0065007	to	biological regulation
+4334	4336	GO:0009987	to	cellular process
+4939	4941	GO:0065007	To	biological regulation
+4939	4941	GO:0009987	To	cellular process
+5226	5228	GO:0065007	to	biological regulation
+5226	5228	GO:0009987	to	cellular process
+5310	5312	GO:0065007	to	biological regulation
+5310	5312	GO:0009987	to	cellular process
+5512	5522	GO:0044464	Chromosome	cell part
+5512	5522	GO:0043226	Chromosome	organelle
+5512	5522	GO:0044422	Chromosome	organelle part
+6164	6173	GO:0009987	embryonic	cellular process
+6164	6173	GO:0065007	embryonic	biological regulation
+6179	6184	GO:0005623	cells	cell
+6291	6293	GO:0065007	to	biological regulation
+6291	6293	GO:0009987	to	cellular process
+6354	6364	GO:0044464	Chromosome	cell part
+6354	6364	GO:0043226	Chromosome	organelle
+6354	6364	GO:0044422	Chromosome	organelle part
+6510	6519	GO:0009987	embryonic	cellular process
+6510	6519	GO:0065007	embryonic	biological regulation
+6525	6530	GO:0005623	cells	cell
+6547	6549	GO:0065007	to	biological regulation
+6547	6549	GO:0009987	to	cellular process
+7032	7034	GO:0065007	To	biological regulation
+7032	7034	GO:0009987	To	cellular process
+7247	7249	GO:0065007	to	biological regulation
+7247	7249	GO:0009987	to	cellular process
+7247	7249	GO:0065007	to	biological regulation
+7247	7249	GO:0009987	to	cellular process
+8695	8704	GO:0044464	autosomes	cell part
+8695	8704	GO:0043226	autosomes	organelle
+8927	8929	GO:0065007	to	biological regulation
+8927	8929	GO:0009987	to	cellular process
+9071	9081	GO:0044464	Chromosome	cell part
+9071	9081	GO:0043226	Chromosome	organelle
+9071	9081	GO:0044422	Chromosome	organelle part
+9148	9150	GO:0065007	to	biological regulation
+9148	9150	GO:0009987	to	cellular process
+9226	9237	GO:0044464	Chromosomes	cell part
+9226	9237	GO:0044422	Chromosomes	organelle part
+9226	9237	GO:0043226	Chromosomes	organelle
+9402	9412	GO:0044464	Chromosome	cell part
+9402	9412	GO:0043226	Chromosome	organelle
+9402	9412	GO:0044422	Chromosome	organelle part
+9428	9430	GO:0065007	to	biological regulation
+9428	9430	GO:0009987	to	cellular process
+9655	9657	GO:0065007	to	biological regulation
+9655	9657	GO:0009987	to	cellular process
+9662	9671	GO:0009987	telomeric	cellular process
+9662	9671	GO:0016043	telomeric	cellular component organization
+9662	9678	GO:0044422	telomeric region	organelle part
+9662	9678	GO:0051234	telomeric region	establishment of localization
+9662	9678	GO:0051179	telomeric region	localization
+9662	9678	GO:0009987	telomeric region	cellular process
+9662	9678	GO:0016043	telomeric region	cellular component organization
+9662	9678	GO:0044464	telomeric region	cell part
+9682	9692	GO:0044464	Chromosome	cell part
+9682	9692	GO:0043226	Chromosome	organelle
+9682	9692	GO:0044422	Chromosome	organelle part
+9838	9840	GO:0065007	to	biological regulation
+9838	9840	GO:0009987	to	cellular process
+9859	9869	GO:0044464	Chromosome	cell part
+9859	9869	GO:0043226	Chromosome	organelle
+9859	9869	GO:0044422	Chromosome	organelle part
+10399	10409	GO:0044464	Chromosome	cell part
+10399	10409	GO:0043226	Chromosome	organelle
+10399	10409	GO:0044422	Chromosome	organelle part
+10499	10501	GO:0065007	to	biological regulation
+10499	10501	GO:0009987	to	cellular process
+11079	11081	GO:0065007	to	biological regulation
+11079	11081	GO:0009987	to	cellular process
+11268	11270	GO:0065007	to	biological regulation
+11268	11270	GO:0009987	to	cellular process
+11393	11400	GO:0003824	protein	catalytic activity
+11413	11415	GO:0065007	to	biological regulation
+11413	11415	GO:0009987	to	cellular process
+11584	11586	GO:0065007	to	biological regulation
+11584	11586	GO:0009987	to	cellular process
+11602	11604	GO:0065007	to	biological regulation
+11602	11604	GO:0009987	to	cellular process
+11780	11790	GO:0044464	Chromosome	cell part
+11780	11790	GO:0043226	Chromosome	organelle
+11780	11790	GO:0044422	Chromosome	organelle part
+11925	11927	GO:0065007	to	biological regulation
+11925	11927	GO:0009987	to	cellular process
+11963	11965	GO:0065007	to	biological regulation
+11963	11965	GO:0009987	to	cellular process
+12496	12506	GO:0044464	Chromosome	cell part
+12496	12506	GO:0043226	Chromosome	organelle
+12496	12506	GO:0044422	Chromosome	organelle part
+12652	12662	GO:0044464	Chromosome	cell part
+12652	12662	GO:0043226	Chromosome	organelle
+12652	12662	GO:0044422	Chromosome	organelle part
+12716	12718	GO:0065007	to	biological regulation
+12716	12718	GO:0009987	to	cellular process
+12741	12743	GO:0065007	to	biological regulation
+12741	12743	GO:0009987	to	cellular process
+12860	12862	GO:0065007	to	biological regulation
+12860	12862	GO:0009987	to	cellular process
+12912	12922	GO:0044464	Chromosome	cell part
+12912	12922	GO:0043226	Chromosome	organelle
+12912	12922	GO:0044422	Chromosome	organelle part
+13044	13054	GO:0044464	Chromosome	cell part
+13044	13054	GO:0043226	Chromosome	organelle
+13044	13054	GO:0044422	Chromosome	organelle part
+13433	13443	GO:0044464	Chromosome	cell part
+13433	13443	GO:0043226	Chromosome	organelle
+13433	13443	GO:0044422	Chromosome	organelle part
+13539	13548	GO:0009987	telomeric	cellular process
+13539	13548	GO:0016043	telomeric	cellular component organization
+13539	13555	GO:0044422	telomeric region	organelle part
+13539	13555	GO:0051234	telomeric region	establishment of localization
+13539	13555	GO:0051179	telomeric region	localization
+13539	13555	GO:0009987	telomeric region	cellular process
+13539	13555	GO:0016043	telomeric region	cellular component organization
+13539	13555	GO:0044464	telomeric region	cell part
+13559	13569	GO:0044464	Chromosome	cell part
+13559	13569	GO:0043226	Chromosome	organelle
+13559	13569	GO:0044422	Chromosome	organelle part
+13608	13610	GO:0065007	to	biological regulation
+13608	13610	GO:0009987	to	cellular process
+13854	13864	GO:0044464	Chromosome	cell part
+13854	13864	GO:0043226	Chromosome	organelle
+13854	13864	GO:0044422	Chromosome	organelle part
+14002	14012	GO:0043226	chromosome	organelle
+14002	14012	GO:0044422	chromosome	organelle part
+14002	14012	GO:0044464	chromosome	cell part
+14013	14015	GO:0065007	to	biological regulation
+14013	14015	GO:0009987	to	cellular process
+14122	14132	GO:0044464	Chromosome	cell part
+14122	14132	GO:0043226	Chromosome	organelle
+14122	14132	GO:0044422	Chromosome	organelle part
+14210	14212	GO:0065007	to	biological regulation
+14210	14212	GO:0009987	to	cellular process
+14361	14371	GO:0044464	Chromosome	cell part
+14361	14371	GO:0043226	Chromosome	organelle
+14361	14371	GO:0044422	Chromosome	organelle part
+14417	14419	GO:0065007	to	biological regulation
+14417	14419	GO:0009987	to	cellular process
+14470	14472	GO:0065007	to	biological regulation
+14470	14472	GO:0009987	to	cellular process
+14550	14552	GO:0065007	to	biological regulation
+14550	14552	GO:0009987	to	cellular process
+15496	15506	GO:0044464	Chromosome	cell part
+15496	15506	GO:0043226	Chromosome	organelle
+15496	15506	GO:0044422	Chromosome	organelle part
+15543	15545	GO:0065007	to	biological regulation
+15543	15545	GO:0009987	to	cellular process
+15566	15568	GO:0065007	to	biological regulation
+15566	15568	GO:0009987	to	cellular process
+15576	15578	GO:0065007	to	biological regulation
+15576	15578	GO:0009987	to	cellular process
+15589	15591	GO:0065007	to	biological regulation
+15589	15591	GO:0009987	to	cellular process
+15589	15591	GO:0065007	to	biological regulation
+15589	15591	GO:0009987	to	cellular process
+16517	16527	GO:0044464	Chromosome	cell part
+16517	16527	GO:0043226	Chromosome	organelle
+16517	16527	GO:0044422	Chromosome	organelle part
+16663	16673	GO:0044464	Chromosome	cell part
+16663	16673	GO:0043226	Chromosome	organelle
+16663	16673	GO:0044422	Chromosome	organelle part
+16909	16911	GO:0065007	to	biological regulation
+16909	16911	GO:0009987	to	cellular process
+16930	16932	GO:0065007	to	biological regulation
+16930	16932	GO:0009987	to	cellular process
+17070	17080	GO:0044464	Chromosome	cell part
+17070	17080	GO:0043226	Chromosome	organelle
+17070	17080	GO:0044422	Chromosome	organelle part
+17184	17193	GO:0009987	embryonic	cellular process
+17184	17193	GO:0065007	embryonic	biological regulation
+17199	17204	GO:0005623	cells	cell
+17228	17230	GO:0065007	to	biological regulation
+17228	17230	GO:0009987	to	cellular process
+17339	17341	GO:0065007	to	biological regulation
+17339	17341	GO:0009987	to	cellular process
+17359	17361	GO:0065007	to	biological regulation
+17359	17361	GO:0009987	to	cellular process
+17389	17391	GO:0065007	to	biological regulation
+17389	17391	GO:0009987	to	cellular process
+17407	17409	GO:0065007	to	biological regulation
+17407	17409	GO:0009987	to	cellular process
+17443	17445	GO:0065007	to	biological regulation
+17443	17445	GO:0009987	to	cellular process
+17589	17591	GO:0065007	to	biological regulation
+17589	17591	GO:0009987	to	cellular process
+17645	17647	GO:0065007	to	biological regulation
+17645	17647	GO:0009987	to	cellular process
+17802	17804	GO:0065007	to	biological regulation
+17802	17804	GO:0009987	to	cellular process
+17862	17864	GO:0065007	to	biological regulation
+17862	17864	GO:0009987	to	cellular process
+17862	17864	GO:0065007	to	biological regulation
+17862	17864	GO:0009987	to	cellular process
+20064	20074	GO:0044464	Chromosome	cell part
+20064	20074	GO:0043226	Chromosome	organelle
+20064	20074	GO:0044422	Chromosome	organelle part
+20097	20099	GO:0065007	to	biological regulation
+20097	20099	GO:0009987	to	cellular process
+20097	20099	GO:0065007	to	biological regulation
+20097	20099	GO:0009987	to	cellular process
+20366	20376	GO:0044464	Chromosome	cell part
+20366	20376	GO:0043226	Chromosome	organelle
+20366	20376	GO:0044422	Chromosome	organelle part
+20421	20431	GO:0044464	Chromosome	cell part
+20421	20431	GO:0043226	Chromosome	organelle
+20421	20431	GO:0044422	Chromosome	organelle part
+20434	20436	GO:0065007	to	biological regulation
+20434	20436	GO:0009987	to	cellular process
+20533	20543	GO:0044464	Chromosome	cell part
+20533	20543	GO:0043226	Chromosome	organelle
+20533	20543	GO:0044422	Chromosome	organelle part
+20641	20643	GO:0065007	to	biological regulation
+20641	20643	GO:0009987	to	cellular process
+20657	20667	GO:0044464	Chromosome	cell part
+20657	20667	GO:0043226	Chromosome	organelle
+20657	20667	GO:0044422	Chromosome	organelle part
+20676	20678	GO:0065007	to	biological regulation
+20676	20678	GO:0009987	to	cellular process
+20784	20794	GO:0044464	Chromosome	cell part
+20784	20794	GO:0043226	Chromosome	organelle
+20784	20794	GO:0044422	Chromosome	organelle part
+20864	20866	GO:0065007	to	biological regulation
+20864	20866	GO:0009987	to	cellular process
+21037	21039	GO:0065007	to	biological regulation
+21037	21039	GO:0009987	to	cellular process
+21449	21459	GO:0044464	Chromosome	cell part
+21449	21459	GO:0043226	Chromosome	organelle
+21449	21459	GO:0044422	Chromosome	organelle part
+21610	21619	GO:0009987	telomeric	cellular process
+21610	21619	GO:0016043	telomeric	cellular component organization
+21620	21630	GO:0044464	Chromosome	cell part
+21620	21630	GO:0043226	Chromosome	organelle
+21620	21630	GO:0044422	Chromosome	organelle part
+21874	21884	GO:0044464	Chromosome	cell part
+21874	21884	GO:0043226	Chromosome	organelle
+21874	21884	GO:0044422	Chromosome	organelle part
+21902	21904	GO:0065007	to	biological regulation
+21902	21904	GO:0009987	to	cellular process
+21923	21933	GO:0044464	Chromosome	cell part
+21923	21933	GO:0043226	Chromosome	organelle
+21923	21933	GO:0044422	Chromosome	organelle part
+22059	22061	GO:0065007	to	biological regulation
+22059	22061	GO:0009987	to	cellular process
+22135	22137	GO:0065007	to	biological regulation
+22135	22137	GO:0009987	to	cellular process
+22143	22152	GO:0044422	chromatin	organelle part
+22143	22152	GO:0044464	chromatin	cell part
+22168	22173	GO:0005623	cells	cell
+22276	22278	GO:0065007	to	biological regulation
+22276	22278	GO:0009987	to	cellular process
+22287	22296	GO:0044422	chromatin	organelle part
+22287	22296	GO:0044464	chromatin	cell part
+22311	22316	GO:0005623	cells	cell
+22678	22687	GO:0044422	chromatin	organelle part
+22678	22687	GO:0044464	chromatin	cell part
+22701	22703	GO:0065007	to	biological regulation
+22701	22703	GO:0009987	to	cellular process
+22708	22720	GO:0051704	pathogenesis	multi-organism process
+23253	23255	GO:0065007	to	biological regulation
+23253	23255	GO:0009987	to	cellular process
+23416	23426	GO:0044464	Chromosome	cell part
+23416	23426	GO:0043226	Chromosome	organelle
+23416	23426	GO:0044422	Chromosome	organelle part
+23469	23471	GO:0065007	to	biological regulation
+23469	23471	GO:0009987	to	cellular process
+23695	23704	GO:0009987	telomeric	cellular process
+23695	23704	GO:0016043	telomeric	cellular component organization
+23695	23711	GO:0044422	telomeric region	organelle part
+23695	23711	GO:0051234	telomeric region	establishment of localization
+23695	23711	GO:0051179	telomeric region	localization
+23695	23711	GO:0009987	telomeric region	cellular process
+23695	23711	GO:0016043	telomeric region	cellular component organization
+23695	23711	GO:0044464	telomeric region	cell part
+23715	23725	GO:0044464	Chromosome	cell part
+23715	23725	GO:0043226	Chromosome	organelle
+23715	23725	GO:0044422	Chromosome	organelle part
+23965	23967	GO:0065007	to	biological regulation
+23965	23967	GO:0009987	to	cellular process
+24030	24032	GO:0065007	to	biological regulation
+24030	24032	GO:0009987	to	cellular process
+24094	24096	GO:0065007	to	biological regulation
+24094	24096	GO:0009987	to	cellular process
+24146	24156	GO:0044464	Chromosome	cell part
+24146	24156	GO:0043226	Chromosome	organelle
+24146	24156	GO:0044422	Chromosome	organelle part
+24185	24187	GO:0065007	to	biological regulation
+24185	24187	GO:0009987	to	cellular process
+24277	24287	GO:0044464	Chromosome	cell part
+24277	24287	GO:0043226	Chromosome	organelle
+24277	24287	GO:0044422	Chromosome	organelle part
+24310	24312	GO:0065007	to	biological regulation
+24310	24312	GO:0009987	to	cellular process
+24382	24384	GO:0065007	to	biological regulation
+24382	24384	GO:0009987	to	cellular process
+24959	24968	GO:0009987	embryonic	cellular process
+24959	24968	GO:0065007	embryonic	biological regulation
+24974	24979	GO:0005623	cells	cell
+25001	25003	GO:0065007	to	biological regulation
+25001	25003	GO:0009987	to	cellular process
+25225	25227	GO:0065007	to	biological regulation
+25225	25227	GO:0009987	to	cellular process
+25335	25345	GO:0044464	Chromosome	cell part
+25335	25345	GO:0043226	Chromosome	organelle
+25335	25345	GO:0044422	Chromosome	organelle part
+25943	25950	GO:0003824	protein	catalytic activity
+25967	25974	GO:0003824	protein	catalytic activity
+25991	25993	GO:0065007	to	biological regulation
+25991	25993	GO:0009987	to	cellular process
+26015	26017	GO:0065007	to	biological regulation
+26015	26017	GO:0009987	to	cellular process
+26230	26237	GO:0009987	reduced	cellular process
+26230	26237	GO:0008152	reduced	metabolic process
+26230	26237	GO:0005215	reduced	transporter activity
+26230	26237	GO:0051234	reduced	establishment of localization
+26264	26271	GO:0003824	protein	catalytic activity
+26290	26292	GO:0065007	to	biological regulation
+26290	26292	GO:0009987	to	cellular process
+26290	26292	GO:0065007	to	biological regulation
+26290	26292	GO:0009987	to	cellular process
+26443	26453	GO:0044464	Chromosome	cell part
+26443	26453	GO:0043226	Chromosome	organelle
+26443	26453	GO:0044422	Chromosome	organelle part
+26633	26635	GO:0065007	to	biological regulation
+26633	26635	GO:0009987	to	cellular process
+26899	26911	GO:0051704	pathogenesis	multi-organism process
+27120	27122	GO:0065007	to	biological regulation
+27120	27122	GO:0009987	to	cellular process
+27170	27172	GO:0065007	to	biological regulation
+27170	27172	GO:0009987	to	cellular process
+27329	27331	GO:0065007	to	biological regulation
+27329	27331	GO:0009987	to	cellular process
+27667	27669	GO:0065007	to	biological regulation
+27667	27669	GO:0009987	to	cellular process
+28427	28437	GO:0044464	Chromosome	cell part
+28427	28437	GO:0043226	Chromosome	organelle
+28427	28437	GO:0044422	Chromosome	organelle part
+28607	28609	GO:0065007	to	biological regulation
+28607	28609	GO:0009987	to	cellular process
+28682	28684	GO:0065007	to	biological regulation
+28682	28684	GO:0009987	to	cellular process
+28799	28801	GO:0065007	to	biological regulation
+28799	28801	GO:0009987	to	cellular process
+29462	29467	GO:0005623	cells	cell
+29711	29713	GO:0065007	to	biological regulation
+29711	29713	GO:0009987	to	cellular process
+29728	29730	GO:0065007	to	biological regulation
+29728	29730	GO:0009987	to	cellular process
+29943	29945	GO:0065007	to	biological regulation
+29943	29945	GO:0009987	to	cellular process
+29943	29945	GO:0065007	to	biological regulation
+29943	29945	GO:0009987	to	cellular process
+31907	31916	GO:0044464	autosomes	cell part
+31907	31916	GO:0043226	autosomes	organelle
+32458	32460	GO:0065007	to	biological regulation
+32458	32460	GO:0009987	to	cellular process
+33169	33171	GO:0065007	to	biological regulation
+33169	33171	GO:0009987	to	cellular process
+33643	33651	GO:0044421	antibody	extraccellular region part
+33643	33651	GO:0032991	antibody	macromolecular complex
+33672	33680	GO:0044421	antibody	extraccellular region part
+33672	33680	GO:0032991	antibody	macromolecular complex
+33979	33989	GO:0044464	Chromosome	cell part
+33979	33989	GO:0043226	Chromosome	organelle
+33979	33989	GO:0044422	Chromosome	organelle part
+34209	34211	GO:0065007	to	biological regulation
+34209	34211	GO:0009987	to	cellular process
+34446	34456	GO:0044464	Chromosome	cell part
+34446	34456	GO:0043226	Chromosome	organelle
+34446	34456	GO:0044422	Chromosome	organelle part
+34771	34773	GO:0065007	to	biological regulation
+34771	34773	GO:0009987	to	cellular process
+34984	34994	GO:0044464	Chromosome	cell part
+34984	34994	GO:0043226	Chromosome	organelle
+34984	34994	GO:0044422	Chromosome	organelle part
+35116	35118	GO:0065007	to	biological regulation
+35116	35118	GO:0009987	to	cellular process
+35509	35519	GO:0044464	Chromosome	cell part
+35509	35519	GO:0043226	Chromosome	organelle
+35509	35519	GO:0044422	Chromosome	organelle part
+35638	35640	GO:0065007	to	biological regulation
+35638	35640	GO:0009987	to	cellular process
+35938	35940	GO:0065007	to	biological regulation
+35938	35940	GO:0009987	to	cellular process
+36326	36336	GO:0044464	Chromosome	cell part
+36326	36336	GO:0043226	Chromosome	organelle
+36326	36336	GO:0044422	Chromosome	organelle part
+36492	36494	GO:0065007	to	biological regulation
+36492	36494	GO:0009987	to	cellular process
+36721	36731	GO:0044464	Chromosome	cell part
+36721	36731	GO:0043226	Chromosome	organelle
+36721	36731	GO:0044422	Chromosome	organelle part
+36899	36901	GO:0065007	to	biological regulation
+36899	36901	GO:0009987	to	cellular process
+37223	37225	GO:0065007	to	biological regulation
+37223	37225	GO:0009987	to	cellular process
+37488	37490	GO:0065007	to	biological regulation
+37488	37490	GO:0009987	to	cellular process
+37643	37645	GO:0065007	to	biological regulation
+37643	37645	GO:0009987	to	cellular process
+37818	37820	GO:0065007	to	biological regulation
+37818	37820	GO:0009987	to	cellular process
+38233	38243	GO:0044464	Chromosome	cell part
+38233	38243	GO:0043226	Chromosome	organelle
+38233	38243	GO:0044422	Chromosome	organelle part
 38466	38468	GO:0065007	to	biological regulation
 38466	38468	GO:0009987	to	cellular process
-38710	38715	GO:0016265	death	death
-39322	39332	GO:0044464	Chromosome	cell part
-39322	39332	GO:0043226	Chromosome	organelle
-39322	39332	GO:0044422	Chromosome	organelle part
-39404	39415	GO:0044464	Chromosomes	cell part
-39404	39415	GO:0044422	Chromosomes	organelle part
-39404	39415	GO:0043226	Chromosomes	organelle
+38654	38656	GO:0065007	to	biological regulation
+38654	38656	GO:0009987	to	cellular process
+38900	38905	GO:0016265	death	death
+39530	39540	GO:0044464	Chromosome	cell part
+39530	39540	GO:0043226	Chromosome	organelle
+39530	39540	GO:0044422	Chromosome	organelle part
+39614	39625	GO:0044464	Chromosomes	cell part
+39614	39625	GO:0044422	Chromosomes	organelle part
+39614	39625	GO:0043226	Chromosomes	organelle

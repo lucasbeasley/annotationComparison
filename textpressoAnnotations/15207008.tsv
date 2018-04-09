@@ -1,751 +1,751 @@
 StartIndex	EndIndex	GO:ID	Term	OntologyTerm
-212	214	GO:0065007	to	biological regulation
-212	214	GO:0009987	to	cellular process
-212	214	GO:0065007	to	biological regulation
-212	214	GO:0009987	to	cellular process
-503	511	GO:0003824	proteins	catalytic activity
-521	523	GO:0065007	to	biological regulation
-521	523	GO:0009987	to	cellular process
-594	596	GO:0065007	to	biological regulation
-594	596	GO:0009987	to	cellular process
-763	771	GO:0003824	proteins	catalytic activity
-772	774	GO:0065007	to	biological regulation
-772	774	GO:0009987	to	cellular process
-793	801	GO:0003824	proteins	catalytic activity
-935	943	GO:0003824	proteins	catalytic activity
-993	995	GO:0065007	to	biological regulation
-993	995	GO:0009987	to	cellular process
-1056	1058	GO:0065007	to	biological regulation
-1056	1058	GO:0009987	to	cellular process
-1187	1193	GO:0009987	direct	cellular process
-1187	1193	GO:0008152	direct	metabolic process
-1194	1201	GO:0005488	binding	binding
-1217	1219	GO:0065007	to	biological regulation
-1217	1219	GO:0009987	to	cellular process
-1249	1252	GO:0060089	RXR	molecular transducer activity
-1312	1319	GO:0003824	protein	catalytic activity
-1337	1348	GO:0044422	centrosomal	organelle part
-1337	1348	GO:0044464	centrosomal	cell part
-1337	1348	GO:0032991	centrosomal	macromolecular complex
-1349	1356	GO:0065007	mitotic	biological regulation
-1357	1364	GO:0044422	spindle	organelle part
-1357	1364	GO:0043226	spindle	organelle
-1357	1364	GO:0044464	spindle	cell part
-1380	1388	GO:0003824	proteins	catalytic activity
-1409	1411	GO:0065007	to	biological regulation
-1409	1411	GO:0009987	to	cellular process
-1434	1441	GO:0003824	protein	catalytic activity
-1434	1453	GO:0009987	protein translation	cellular process
-1434	1453	GO:0008152	protein translation	metabolic process
-1442	1453	GO:0008152	translation	metabolic process
-1442	1453	GO:0009987	translation	cellular process
-1455	1469	GO:0008152	RNA processing	metabolic process
-1455	1469	GO:0009987	RNA processing	cellular process
-1474	1487	GO:0009987	transcription	cellular process
-1474	1487	GO:0008152	transcription	metabolic process
-1518	1526	GO:0005488	bridging	binding
-1527	1535	GO:0003824	proteins	catalytic activity
-1573	1581	GO:0003824	proteins	catalytic activity
-1612	1614	GO:0065007	to	biological regulation
-1612	1614	GO:0009987	to	cellular process
-1685	1693	GO:0003824	proteins	catalytic activity
-1733	1746	GO:0009987	transcription	cellular process
-1733	1746	GO:0008152	transcription	metabolic process
-1801	1809	GO:0003824	proteins	catalytic activity
-1885	1895	GO:0044464	centrosome	cell part
-1885	1895	GO:0043226	centrosome	organelle
-1885	1895	GO:0044422	centrosome	organelle part
-1896	1898	GO:0065007	to	biological regulation
-1896	1898	GO:0009987	to	cellular process
-1959	1968	GO:0044422	chromatin	organelle part
-1959	1968	GO:0044464	chromatin	cell part
-1959	1979	GO:0009987	chromatin remodeling	cellular process
-1959	1979	GO:0016043	chromatin remodeling	cellular component organization
-2038	2042	GO:0005623	cell	cell
-2537	2539	GO:0065007	to	biological regulation
-2537	2539	GO:0009987	to	cellular process
-2569	2571	GO:0065007	to	biological regulation
-2569	2571	GO:0009987	to	cellular process
-2608	2610	GO:0065007	to	biological regulation
-2608	2610	GO:0009987	to	cellular process
-2835	2850	GO:0044421	other organisms	extraccellular region part
-2994	2996	GO:0065007	to	biological regulation
-2994	2996	GO:0009987	to	cellular process
-3066	3073	GO:0003824	protein	catalytic activity
-3232	3242	GO:0043226	chromosome	organelle
-3232	3242	GO:0044422	chromosome	organelle part
-3232	3242	GO:0044464	chromosome	cell part
-3325	3327	GO:0065007	to	biological regulation
-3325	3327	GO:0009987	to	cellular process
-3368	3379	GO:0044464	chromosomes	cell part
-3368	3379	GO:0044422	chromosomes	organelle part
-3368	3379	GO:0043226	chromosomes	organelle
-3413	3415	GO:0065007	to	biological regulation
-3413	3415	GO:0009987	to	cellular process
-3431	3435	GO:0060089	FGFR	molecular transducer activity
-3431	3435	GO:0003824	FGFR	catalytic activity
-3474	3476	GO:0065007	to	biological regulation
-3474	3476	GO:0009987	to	cellular process
-3644	3648	GO:0060089	FGFR	molecular transducer activity
-3644	3648	GO:0003824	FGFR	catalytic activity
-3694	3696	GO:0065007	to	biological regulation
-3694	3696	GO:0009987	to	cellular process
-3833	3835	GO:0065007	to	biological regulation
-3833	3835	GO:0009987	to	cellular process
-3876	3878	GO:0065007	to	biological regulation
-3876	3878	GO:0009987	to	cellular process
-3879	3883	GO:0060089	FGFR	molecular transducer activity
-3879	3883	GO:0003824	FGFR	catalytic activity
-4010	4014	GO:0060089	FGFR	molecular transducer activity
-4010	4014	GO:0003824	FGFR	catalytic activity
-4144	4146	GO:0065007	To	biological regulation
-4144	4146	GO:0009987	To	cellular process
-4618	4633	GO:0044421	other organisms	extraccellular region part
-4751	4753	GO:0065007	to	biological regulation
-4751	4753	GO:0009987	to	cellular process
-4841	4843	GO:0065007	to	biological regulation
-4841	4843	GO:0009987	to	cellular process
-5108	5110	GO:0065007	to	biological regulation
-5108	5110	GO:0009987	to	cellular process
-5606	5608	GO:0065007	to	biological regulation
-5606	5608	GO:0009987	to	cellular process
-5609	5611	GO:0065007	to	biological regulation
-5609	5611	GO:0009987	to	cellular process
-5749	5751	GO:0065007	to	biological regulation
-5749	5751	GO:0009987	to	cellular process
-6294	6302	GO:0003824	proteins	catalytic activity
-6450	6458	GO:0003824	proteins	catalytic activity
-6567	6575	GO:0003824	proteins	catalytic activity
-6620	6622	GO:0065007	to	biological regulation
-6620	6622	GO:0009987	to	cellular process
-6657	6665	GO:0003824	proteins	catalytic activity
+218	220	GO:0065007	to	biological regulation
+218	220	GO:0009987	to	cellular process
+218	220	GO:0065007	to	biological regulation
+218	220	GO:0009987	to	cellular process
+509	517	GO:0003824	proteins	catalytic activity
+527	529	GO:0065007	to	biological regulation
+527	529	GO:0009987	to	cellular process
+604	606	GO:0065007	to	biological regulation
+604	606	GO:0009987	to	cellular process
+773	781	GO:0003824	proteins	catalytic activity
+782	784	GO:0065007	to	biological regulation
+782	784	GO:0009987	to	cellular process
+803	811	GO:0003824	proteins	catalytic activity
+945	953	GO:0003824	proteins	catalytic activity
+1003	1005	GO:0065007	to	biological regulation
+1003	1005	GO:0009987	to	cellular process
+1066	1068	GO:0065007	to	biological regulation
+1066	1068	GO:0009987	to	cellular process
+1197	1203	GO:0009987	direct	cellular process
+1197	1203	GO:0008152	direct	metabolic process
+1204	1211	GO:0005488	binding	binding
+1227	1229	GO:0065007	to	biological regulation
+1227	1229	GO:0009987	to	cellular process
+1259	1262	GO:0060089	RXR	molecular transducer activity
+1326	1333	GO:0003824	protein	catalytic activity
+1351	1362	GO:0044422	centrosomal	organelle part
+1351	1362	GO:0044464	centrosomal	cell part
+1351	1362	GO:0032991	centrosomal	macromolecular complex
+1363	1370	GO:0065007	mitotic	biological regulation
+1371	1378	GO:0044422	spindle	organelle part
+1371	1378	GO:0043226	spindle	organelle
+1371	1378	GO:0044464	spindle	cell part
+1394	1402	GO:0003824	proteins	catalytic activity
+1423	1425	GO:0065007	to	biological regulation
+1423	1425	GO:0009987	to	cellular process
+1448	1455	GO:0003824	protein	catalytic activity
+1448	1467	GO:0009987	protein translation	cellular process
+1448	1467	GO:0008152	protein translation	metabolic process
+1456	1467	GO:0008152	translation	metabolic process
+1456	1467	GO:0009987	translation	cellular process
+1469	1483	GO:0008152	RNA processing	metabolic process
+1469	1483	GO:0009987	RNA processing	cellular process
+1488	1501	GO:0009987	transcription	cellular process
+1488	1501	GO:0008152	transcription	metabolic process
+1532	1540	GO:0005488	bridging	binding
+1541	1549	GO:0003824	proteins	catalytic activity
+1587	1595	GO:0003824	proteins	catalytic activity
+1626	1628	GO:0065007	to	biological regulation
+1626	1628	GO:0009987	to	cellular process
+1699	1707	GO:0003824	proteins	catalytic activity
+1747	1760	GO:0009987	transcription	cellular process
+1747	1760	GO:0008152	transcription	metabolic process
+1815	1823	GO:0003824	proteins	catalytic activity
+1899	1909	GO:0044464	centrosome	cell part
+1899	1909	GO:0043226	centrosome	organelle
+1899	1909	GO:0044422	centrosome	organelle part
+1910	1912	GO:0065007	to	biological regulation
+1910	1912	GO:0009987	to	cellular process
+1973	1982	GO:0044422	chromatin	organelle part
+1973	1982	GO:0044464	chromatin	cell part
+1973	1993	GO:0009987	chromatin remodeling	cellular process
+1973	1993	GO:0016043	chromatin remodeling	cellular component organization
+2052	2056	GO:0005623	cell	cell
+2555	2557	GO:0065007	to	biological regulation
+2555	2557	GO:0009987	to	cellular process
+2587	2589	GO:0065007	to	biological regulation
+2587	2589	GO:0009987	to	cellular process
+2626	2628	GO:0065007	to	biological regulation
+2626	2628	GO:0009987	to	cellular process
+2853	2868	GO:0044421	other organisms	extraccellular region part
+3012	3014	GO:0065007	to	biological regulation
+3012	3014	GO:0009987	to	cellular process
+3084	3091	GO:0003824	protein	catalytic activity
+3252	3262	GO:0043226	chromosome	organelle
+3252	3262	GO:0044422	chromosome	organelle part
+3252	3262	GO:0044464	chromosome	cell part
+3345	3347	GO:0065007	to	biological regulation
+3345	3347	GO:0009987	to	cellular process
+3388	3399	GO:0044464	chromosomes	cell part
+3388	3399	GO:0044422	chromosomes	organelle part
+3388	3399	GO:0043226	chromosomes	organelle
+3433	3435	GO:0065007	to	biological regulation
+3433	3435	GO:0009987	to	cellular process
+3451	3455	GO:0060089	FGFR	molecular transducer activity
+3451	3455	GO:0003824	FGFR	catalytic activity
+3494	3496	GO:0065007	to	biological regulation
+3494	3496	GO:0009987	to	cellular process
+3664	3668	GO:0060089	FGFR	molecular transducer activity
+3664	3668	GO:0003824	FGFR	catalytic activity
+3714	3716	GO:0065007	to	biological regulation
+3714	3716	GO:0009987	to	cellular process
+3853	3855	GO:0065007	to	biological regulation
+3853	3855	GO:0009987	to	cellular process
+3896	3898	GO:0065007	to	biological regulation
+3896	3898	GO:0009987	to	cellular process
+3899	3903	GO:0060089	FGFR	molecular transducer activity
+3899	3903	GO:0003824	FGFR	catalytic activity
+4030	4034	GO:0060089	FGFR	molecular transducer activity
+4030	4034	GO:0003824	FGFR	catalytic activity
+4164	4166	GO:0065007	To	biological regulation
+4164	4166	GO:0009987	To	cellular process
+4638	4653	GO:0044421	other organisms	extraccellular region part
+4771	4773	GO:0065007	to	biological regulation
+4771	4773	GO:0009987	to	cellular process
+4861	4863	GO:0065007	to	biological regulation
+4861	4863	GO:0009987	to	cellular process
+5134	5136	GO:0065007	to	biological regulation
+5134	5136	GO:0009987	to	cellular process
+5632	5634	GO:0065007	to	biological regulation
+5632	5634	GO:0009987	to	cellular process
+5635	5637	GO:0065007	to	biological regulation
+5635	5637	GO:0009987	to	cellular process
+5775	5777	GO:0065007	to	biological regulation
+5775	5777	GO:0009987	to	cellular process
+6324	6332	GO:0003824	proteins	catalytic activity
+6480	6488	GO:0003824	proteins	catalytic activity
+6597	6605	GO:0003824	proteins	catalytic activity
+6650	6652	GO:0065007	to	biological regulation
+6650	6652	GO:0009987	to	cellular process
 6687	6695	GO:0003824	proteins	catalytic activity
-7018	7020	GO:0065007	to	biological regulation
-7018	7020	GO:0009987	to	cellular process
-7018	7020	GO:0065007	to	biological regulation
-7018	7020	GO:0009987	to	cellular process
-7103	7105	GO:0065007	to	biological regulation
-7103	7105	GO:0009987	to	cellular process
-7335	7337	GO:0065007	to	biological regulation
-7335	7337	GO:0009987	to	cellular process
-7423	7425	GO:0065007	to	biological regulation
-7423	7425	GO:0009987	to	cellular process
-7497	7499	GO:0065007	to	biological regulation
-7497	7499	GO:0009987	to	cellular process
-7697	7699	GO:0065007	to	biological regulation
-7697	7699	GO:0009987	to	cellular process
-8049	8056	GO:0003824	protein	catalytic activity
-8264	8266	GO:0065007	to	biological regulation
-8264	8266	GO:0009987	to	cellular process
-8597	8601	GO:0005623	cell	cell
-8705	8707	GO:0065007	to	biological regulation
-8705	8707	GO:0009987	to	cellular process
-8802	8804	GO:0065007	to	biological regulation
-8802	8804	GO:0009987	to	cellular process
-9341	9351	GO:0043226	chromosome	organelle
-9341	9351	GO:0044422	chromosome	organelle part
-9341	9351	GO:0044464	chromosome	cell part
-9384	9386	GO:0065007	to	biological regulation
-9384	9386	GO:0009987	to	cellular process
-9734	9745	GO:0009987	centromeric	cellular process
-9734	9752	GO:0044422	centromeric region	organelle part
-9734	9752	GO:0051179	centromeric region	localization
-9734	9752	GO:0009987	centromeric region	cellular process
-9734	9752	GO:0044464	centromeric region	cell part
-9762	9772	GO:0043226	chromosome	organelle
-9762	9772	GO:0044422	chromosome	organelle part
-9762	9772	GO:0044464	chromosome	cell part
-9821	9823	GO:0065007	to	biological regulation
-9821	9823	GO:0009987	to	cellular process
-9907	9909	GO:0065007	to	biological regulation
-9907	9909	GO:0009987	to	cellular process
-10106	10108	GO:0065007	to	biological regulation
-10106	10108	GO:0009987	to	cellular process
-10106	10108	GO:0065007	to	biological regulation
-10106	10108	GO:0009987	to	cellular process
-10120	10122	GO:0065007	to	biological regulation
-10120	10122	GO:0009987	to	cellular process
-10120	10122	GO:0065007	to	biological regulation
-10120	10122	GO:0009987	to	cellular process
-10655	10657	GO:0065007	to	biological regulation
-10655	10657	GO:0009987	to	cellular process
-10683	10685	GO:0065007	to	biological regulation
-10683	10685	GO:0009987	to	cellular process
-11096	11098	GO:0065007	To	biological regulation
-11096	11098	GO:0009987	To	cellular process
-11132	11134	GO:0065007	to	biological regulation
-11132	11134	GO:0009987	to	cellular process
-11330	11338	GO:0003824	proteins	catalytic activity
-11580	11582	GO:0065007	to	biological regulation
-11580	11582	GO:0009987	to	cellular process
-11914	11916	GO:0065007	to	biological regulation
-11914	11916	GO:0009987	to	cellular process
-12200	12202	GO:0065007	to	biological regulation
-12200	12202	GO:0009987	to	cellular process
-12271	12273	GO:0065007	to	biological regulation
-12271	12273	GO:0009987	to	cellular process
-12590	12592	GO:0065007	to	biological regulation
-12590	12592	GO:0009987	to	cellular process
-13245	13247	GO:0065007	to	biological regulation
-13245	13247	GO:0009987	to	cellular process
-13501	13513	GO:0051179	localization	localization
-13527	13534	GO:0003824	protein	catalytic activity
-13542	13552	GO:0044464	centrosome	cell part
-13542	13552	GO:0043226	centrosome	organelle
-13542	13552	GO:0044422	centrosome	organelle part
-13662	13664	GO:0065007	to	biological regulation
-13662	13664	GO:0009987	to	cellular process
-13780	13782	GO:0065007	to	biological regulation
-13780	13782	GO:0009987	to	cellular process
-13977	13979	GO:0065007	to	biological regulation
-13977	13979	GO:0009987	to	cellular process
-14352	14360	GO:0003824	proteins	catalytic activity
-14465	14473	GO:0003824	proteins	catalytic activity
-14519	14525	GO:0009987	direct	cellular process
-14519	14525	GO:0008152	direct	metabolic process
-14656	14660	GO:0060089	FGFR	molecular transducer activity
-14656	14660	GO:0003824	FGFR	catalytic activity
-14793	14797	GO:0060089	FGFR	molecular transducer activity
-14793	14797	GO:0003824	FGFR	catalytic activity
-15161	15163	GO:0065007	to	biological regulation
-15161	15163	GO:0009987	to	cellular process
-15174	15184	GO:0043226	chromosome	organelle
-15174	15184	GO:0044422	chromosome	organelle part
-15174	15184	GO:0044464	chromosome	cell part
-15209	15219	GO:0043226	chromosome	organelle
-15209	15219	GO:0044422	chromosome	organelle part
-15209	15219	GO:0044464	chromosome	cell part
-15238	15240	GO:0065007	to	biological regulation
-15238	15240	GO:0009987	to	cellular process
-15387	15389	GO:0065007	to	biological regulation
-15387	15389	GO:0009987	to	cellular process
-15492	15494	GO:0065007	to	biological regulation
-15492	15494	GO:0009987	to	cellular process
-15774	15784	GO:0043226	chromosome	organelle
-15774	15784	GO:0044422	chromosome	organelle part
-15774	15784	GO:0044464	chromosome	cell part
-15880	15890	GO:0043226	chromosome	organelle
-15880	15890	GO:0044422	chromosome	organelle part
-15880	15890	GO:0044464	chromosome	cell part
-15880	15891	GO:0044464	chromosomes	cell part
-15880	15891	GO:0044422	chromosomes	organelle part
-15880	15891	GO:0043226	chromosomes	organelle
-16226	16230	GO:0060089	FGFR	molecular transducer activity
-16226	16230	GO:0003824	FGFR	catalytic activity
-16376	16386	GO:0043226	chromosome	organelle
-16376	16386	GO:0044422	chromosome	organelle part
-16376	16386	GO:0044464	chromosome	cell part
-16404	16406	GO:0065007	to	biological regulation
-16404	16406	GO:0009987	to	cellular process
-16867	16869	GO:0065007	to	biological regulation
-16867	16869	GO:0009987	to	cellular process
-16922	16924	GO:0065007	to	biological regulation
-16922	16924	GO:0009987	to	cellular process
-17096	17098	GO:0065007	to	biological regulation
-17096	17098	GO:0009987	to	cellular process
-17252	17254	GO:0065007	to	biological regulation
-17252	17254	GO:0009987	to	cellular process
-17729	17731	GO:0065007	to	biological regulation
-17729	17731	GO:0009987	to	cellular process
-17853	17855	GO:0065007	to	biological regulation
-17853	17855	GO:0009987	to	cellular process
-17871	17881	GO:0043226	chromosome	organelle
-17871	17881	GO:0044422	chromosome	organelle part
-17871	17881	GO:0044464	chromosome	cell part
-18092	18094	GO:0065007	to	biological regulation
-18092	18094	GO:0009987	to	cellular process
-18399	18409	GO:0043226	chromosome	organelle
-18399	18409	GO:0044422	chromosome	organelle part
-18399	18409	GO:0044464	chromosome	cell part
-18756	18758	GO:0065007	to	biological regulation
-18756	18758	GO:0009987	to	cellular process
-18783	18785	GO:0065007	to	biological regulation
-18783	18785	GO:0009987	to	cellular process
-18891	18901	GO:0043226	chromosome	organelle
-18891	18901	GO:0044422	chromosome	organelle part
-18891	18901	GO:0044464	chromosome	cell part
-19294	19296	GO:0065007	to	biological regulation
-19294	19296	GO:0009987	to	cellular process
-19494	19498	GO:0060089	FGFR	molecular transducer activity
-19494	19498	GO:0003824	FGFR	catalytic activity
-19840	19842	GO:0065007	to	biological regulation
-19840	19842	GO:0009987	to	cellular process
-19907	19916	GO:0008152	formation	metabolic process
-20056	20058	GO:0065007	to	biological regulation
-20056	20058	GO:0009987	to	cellular process
-20056	20058	GO:0065007	to	biological regulation
-20056	20058	GO:0009987	to	cellular process
-20289	20293	GO:0060089	FGFR	molecular transducer activity
-20289	20293	GO:0003824	FGFR	catalytic activity
-20742	20751	GO:0008152	Formation	metabolic process
-21051	21061	GO:0043226	chromosome	organelle
-21051	21061	GO:0044422	chromosome	organelle part
-21051	21061	GO:0044464	chromosome	cell part
-21321	21331	GO:0043226	chromosome	organelle
-21321	21331	GO:0044422	chromosome	organelle part
-21321	21331	GO:0044464	chromosome	cell part
-21512	21514	GO:0065007	to	biological regulation
-21512	21514	GO:0009987	to	cellular process
-21520	21527	GO:0003824	protein	catalytic activity
-21554	21562	GO:0003824	proteins	catalytic activity
-21615	21617	GO:0065007	to	biological regulation
-21615	21617	GO:0009987	to	cellular process
-21745	21747	GO:0065007	to	biological regulation
-21745	21747	GO:0009987	to	cellular process
-21973	21975	GO:0065007	to	biological regulation
-21973	21975	GO:0009987	to	cellular process
-22135	22137	GO:0065007	to	biological regulation
-22135	22137	GO:0009987	to	cellular process
-22309	22311	GO:0065007	to	biological regulation
-22309	22311	GO:0009987	to	cellular process
-22346	22354	GO:0003824	proteins	catalytic activity
-22518	22520	GO:0065007	to	biological regulation
-22518	22520	GO:0009987	to	cellular process
-22592	22600	GO:0003824	proteins	catalytic activity
-22730	22737	GO:0003824	protein	catalytic activity
-22773	22780	GO:0003824	protein	catalytic activity
-22827	22834	GO:0003824	protein	catalytic activity
-22947	22949	GO:0065007	to	biological regulation
-22947	22949	GO:0009987	to	cellular process
-23568	23575	GO:0005488	binding	binding
-23591	23600	GO:0044422	chromatin	organelle part
-23591	23600	GO:0044464	chromatin	cell part
-23591	23611	GO:0009987	chromatin remodeling	cellular process
-23591	23611	GO:0016043	chromatin remodeling	cellular component organization
-23591	23619	GO:0032991	chromatin remodeling complex	macromolecular complex
-23591	23619	GO:0044464	chromatin remodeling complex	cell part
-23591	23619	GO:0044422	chromatin remodeling complex	organelle part
-23667	23675	GO:0003824	proteins	catalytic activity
-23806	23813	GO:0003824	protein	catalytic activity
-23815	23817	GO:0065007	to	biological regulation
-23815	23817	GO:0009987	to	cellular process
-23853	23860	GO:0003824	protein	catalytic activity
-24308	24316	GO:0003824	proteins	catalytic activity
-25032	25041	GO:0008152	synthesis	metabolic process
-25254	25261	GO:0003824	protein	catalytic activity
-25281	25288	GO:0003824	protein	catalytic activity
-25662	25664	GO:0065007	to	biological regulation
-25662	25664	GO:0009987	to	cellular process
-26742	26749	GO:0005488	binding	binding
-26810	26822	GO:0051179	localization	localization
-26835	26842	GO:0005488	binding	binding
-26957	26959	GO:0065007	to	biological regulation
-26957	26959	GO:0009987	to	cellular process
-26964	26973	GO:0044464	cytoplasm	cell part
+6717	6725	GO:0003824	proteins	catalytic activity
+7050	7052	GO:0065007	to	biological regulation
+7050	7052	GO:0009987	to	cellular process
+7050	7052	GO:0065007	to	biological regulation
+7050	7052	GO:0009987	to	cellular process
+7135	7137	GO:0065007	to	biological regulation
+7135	7137	GO:0009987	to	cellular process
+7367	7369	GO:0065007	to	biological regulation
+7367	7369	GO:0009987	to	cellular process
+7455	7457	GO:0065007	to	biological regulation
+7455	7457	GO:0009987	to	cellular process
+7529	7531	GO:0065007	to	biological regulation
+7529	7531	GO:0009987	to	cellular process
+7729	7731	GO:0065007	to	biological regulation
+7729	7731	GO:0009987	to	cellular process
+8081	8088	GO:0003824	protein	catalytic activity
+8296	8298	GO:0065007	to	biological regulation
+8296	8298	GO:0009987	to	cellular process
+8629	8633	GO:0005623	cell	cell
+8737	8739	GO:0065007	to	biological regulation
+8737	8739	GO:0009987	to	cellular process
+8834	8836	GO:0065007	to	biological regulation
+8834	8836	GO:0009987	to	cellular process
+9375	9385	GO:0043226	chromosome	organelle
+9375	9385	GO:0044422	chromosome	organelle part
+9375	9385	GO:0044464	chromosome	cell part
+9418	9420	GO:0065007	to	biological regulation
+9418	9420	GO:0009987	to	cellular process
+9768	9779	GO:0009987	centromeric	cellular process
+9768	9786	GO:0044422	centromeric region	organelle part
+9768	9786	GO:0051179	centromeric region	localization
+9768	9786	GO:0009987	centromeric region	cellular process
+9768	9786	GO:0044464	centromeric region	cell part
+9796	9806	GO:0043226	chromosome	organelle
+9796	9806	GO:0044422	chromosome	organelle part
+9796	9806	GO:0044464	chromosome	cell part
+9855	9857	GO:0065007	to	biological regulation
+9855	9857	GO:0009987	to	cellular process
+9941	9943	GO:0065007	to	biological regulation
+9941	9943	GO:0009987	to	cellular process
+10144	10146	GO:0065007	to	biological regulation
+10144	10146	GO:0009987	to	cellular process
+10144	10146	GO:0065007	to	biological regulation
+10144	10146	GO:0009987	to	cellular process
+10158	10160	GO:0065007	to	biological regulation
+10158	10160	GO:0009987	to	cellular process
+10158	10160	GO:0065007	to	biological regulation
+10158	10160	GO:0009987	to	cellular process
+10693	10695	GO:0065007	to	biological regulation
+10693	10695	GO:0009987	to	cellular process
+10721	10723	GO:0065007	to	biological regulation
+10721	10723	GO:0009987	to	cellular process
+11134	11136	GO:0065007	To	biological regulation
+11134	11136	GO:0009987	To	cellular process
+11170	11172	GO:0065007	to	biological regulation
+11170	11172	GO:0009987	to	cellular process
+11368	11376	GO:0003824	proteins	catalytic activity
+11618	11620	GO:0065007	to	biological regulation
+11618	11620	GO:0009987	to	cellular process
+11952	11954	GO:0065007	to	biological regulation
+11952	11954	GO:0009987	to	cellular process
+12238	12240	GO:0065007	to	biological regulation
+12238	12240	GO:0009987	to	cellular process
+12309	12311	GO:0065007	to	biological regulation
+12309	12311	GO:0009987	to	cellular process
+12628	12630	GO:0065007	to	biological regulation
+12628	12630	GO:0009987	to	cellular process
+13287	13289	GO:0065007	to	biological regulation
+13287	13289	GO:0009987	to	cellular process
+13543	13555	GO:0051179	localization	localization
+13569	13576	GO:0003824	protein	catalytic activity
+13584	13594	GO:0044464	centrosome	cell part
+13584	13594	GO:0043226	centrosome	organelle
+13584	13594	GO:0044422	centrosome	organelle part
+13704	13706	GO:0065007	to	biological regulation
+13704	13706	GO:0009987	to	cellular process
+13822	13824	GO:0065007	to	biological regulation
+13822	13824	GO:0009987	to	cellular process
+14019	14021	GO:0065007	to	biological regulation
+14019	14021	GO:0009987	to	cellular process
+14394	14402	GO:0003824	proteins	catalytic activity
+14507	14515	GO:0003824	proteins	catalytic activity
+14561	14567	GO:0009987	direct	cellular process
+14561	14567	GO:0008152	direct	metabolic process
+14702	14706	GO:0060089	FGFR	molecular transducer activity
+14702	14706	GO:0003824	FGFR	catalytic activity
+14839	14843	GO:0060089	FGFR	molecular transducer activity
+14839	14843	GO:0003824	FGFR	catalytic activity
+15207	15209	GO:0065007	to	biological regulation
+15207	15209	GO:0009987	to	cellular process
+15220	15230	GO:0043226	chromosome	organelle
+15220	15230	GO:0044422	chromosome	organelle part
+15220	15230	GO:0044464	chromosome	cell part
+15255	15265	GO:0043226	chromosome	organelle
+15255	15265	GO:0044422	chromosome	organelle part
+15255	15265	GO:0044464	chromosome	cell part
+15284	15286	GO:0065007	to	biological regulation
+15284	15286	GO:0009987	to	cellular process
+15433	15435	GO:0065007	to	biological regulation
+15433	15435	GO:0009987	to	cellular process
+15538	15540	GO:0065007	to	biological regulation
+15538	15540	GO:0009987	to	cellular process
+15820	15830	GO:0043226	chromosome	organelle
+15820	15830	GO:0044422	chromosome	organelle part
+15820	15830	GO:0044464	chromosome	cell part
+15926	15936	GO:0043226	chromosome	organelle
+15926	15936	GO:0044422	chromosome	organelle part
+15926	15936	GO:0044464	chromosome	cell part
+15926	15937	GO:0044464	chromosomes	cell part
+15926	15937	GO:0044422	chromosomes	organelle part
+15926	15937	GO:0043226	chromosomes	organelle
+16276	16280	GO:0060089	FGFR	molecular transducer activity
+16276	16280	GO:0003824	FGFR	catalytic activity
+16426	16436	GO:0043226	chromosome	organelle
+16426	16436	GO:0044422	chromosome	organelle part
+16426	16436	GO:0044464	chromosome	cell part
+16454	16456	GO:0065007	to	biological regulation
+16454	16456	GO:0009987	to	cellular process
+16919	16921	GO:0065007	to	biological regulation
+16919	16921	GO:0009987	to	cellular process
+16974	16976	GO:0065007	to	biological regulation
+16974	16976	GO:0009987	to	cellular process
+17148	17150	GO:0065007	to	biological regulation
+17148	17150	GO:0009987	to	cellular process
+17304	17306	GO:0065007	to	biological regulation
+17304	17306	GO:0009987	to	cellular process
+17781	17783	GO:0065007	to	biological regulation
+17781	17783	GO:0009987	to	cellular process
+17905	17907	GO:0065007	to	biological regulation
+17905	17907	GO:0009987	to	cellular process
+17923	17933	GO:0043226	chromosome	organelle
+17923	17933	GO:0044422	chromosome	organelle part
+17923	17933	GO:0044464	chromosome	cell part
+18144	18146	GO:0065007	to	biological regulation
+18144	18146	GO:0009987	to	cellular process
+18453	18463	GO:0043226	chromosome	organelle
+18453	18463	GO:0044422	chromosome	organelle part
+18453	18463	GO:0044464	chromosome	cell part
+18810	18812	GO:0065007	to	biological regulation
+18810	18812	GO:0009987	to	cellular process
+18837	18839	GO:0065007	to	biological regulation
+18837	18839	GO:0009987	to	cellular process
+18945	18955	GO:0043226	chromosome	organelle
+18945	18955	GO:0044422	chromosome	organelle part
+18945	18955	GO:0044464	chromosome	cell part
+19350	19352	GO:0065007	to	biological regulation
+19350	19352	GO:0009987	to	cellular process
+19550	19554	GO:0060089	FGFR	molecular transducer activity
+19550	19554	GO:0003824	FGFR	catalytic activity
+19896	19898	GO:0065007	to	biological regulation
+19896	19898	GO:0009987	to	cellular process
+19963	19972	GO:0008152	formation	metabolic process
+20112	20114	GO:0065007	to	biological regulation
+20112	20114	GO:0009987	to	cellular process
+20112	20114	GO:0065007	to	biological regulation
+20112	20114	GO:0009987	to	cellular process
+20345	20349	GO:0060089	FGFR	molecular transducer activity
+20345	20349	GO:0003824	FGFR	catalytic activity
+20802	20811	GO:0008152	Formation	metabolic process
+21111	21121	GO:0043226	chromosome	organelle
+21111	21121	GO:0044422	chromosome	organelle part
+21111	21121	GO:0044464	chromosome	cell part
+21381	21391	GO:0043226	chromosome	organelle
+21381	21391	GO:0044422	chromosome	organelle part
+21381	21391	GO:0044464	chromosome	cell part
+21576	21578	GO:0065007	to	biological regulation
+21576	21578	GO:0009987	to	cellular process
+21584	21591	GO:0003824	protein	catalytic activity
+21618	21626	GO:0003824	proteins	catalytic activity
+21679	21681	GO:0065007	to	biological regulation
+21679	21681	GO:0009987	to	cellular process
+21809	21811	GO:0065007	to	biological regulation
+21809	21811	GO:0009987	to	cellular process
+22041	22043	GO:0065007	to	biological regulation
+22041	22043	GO:0009987	to	cellular process
+22203	22205	GO:0065007	to	biological regulation
+22203	22205	GO:0009987	to	cellular process
+22377	22379	GO:0065007	to	biological regulation
+22377	22379	GO:0009987	to	cellular process
+22414	22422	GO:0003824	proteins	catalytic activity
+22586	22588	GO:0065007	to	biological regulation
+22586	22588	GO:0009987	to	cellular process
+22662	22670	GO:0003824	proteins	catalytic activity
+22800	22807	GO:0003824	protein	catalytic activity
+22843	22850	GO:0003824	protein	catalytic activity
+22897	22904	GO:0003824	protein	catalytic activity
+23017	23019	GO:0065007	to	biological regulation
+23017	23019	GO:0009987	to	cellular process
+23638	23645	GO:0005488	binding	binding
+23661	23670	GO:0044422	chromatin	organelle part
+23661	23670	GO:0044464	chromatin	cell part
+23661	23681	GO:0009987	chromatin remodeling	cellular process
+23661	23681	GO:0016043	chromatin remodeling	cellular component organization
+23661	23689	GO:0032991	chromatin remodeling complex	macromolecular complex
+23661	23689	GO:0044464	chromatin remodeling complex	cell part
+23661	23689	GO:0044422	chromatin remodeling complex	organelle part
+23739	23747	GO:0003824	proteins	catalytic activity
+23878	23885	GO:0003824	protein	catalytic activity
+23887	23889	GO:0065007	to	biological regulation
+23887	23889	GO:0009987	to	cellular process
+23925	23932	GO:0003824	protein	catalytic activity
+24380	24388	GO:0003824	proteins	catalytic activity
+25104	25113	GO:0008152	synthesis	metabolic process
+25326	25333	GO:0003824	protein	catalytic activity
+25353	25360	GO:0003824	protein	catalytic activity
+25738	25740	GO:0065007	to	biological regulation
+25738	25740	GO:0009987	to	cellular process
+26820	26827	GO:0005488	binding	binding
+26888	26900	GO:0051179	localization	localization
+26913	26920	GO:0005488	binding	binding
 27035	27037	GO:0065007	to	biological regulation
 27035	27037	GO:0009987	to	cellular process
-27095	27109	GO:0008152	RNA processing	metabolic process
-27095	27109	GO:0009987	RNA processing	cellular process
-27127	27134	GO:0043226	nucleus	organelle
-27127	27134	GO:0044464	nucleus	cell part
-27193	27197	GO:0005623	cell	cell
-27236	27250	GO:0008152	RNA metabolism	metabolic process
-27236	27250	GO:0009987	RNA metabolism	cellular process
-27240	27250	GO:0008152	metabolism	metabolic process
-27770	27772	GO:0065007	to	biological regulation
-27770	27772	GO:0009987	to	cellular process
-27904	27906	GO:0065007	to	biological regulation
-27904	27906	GO:0009987	to	cellular process
-27934	27941	GO:0005488	binding	binding
-28094	28106	GO:0051179	localization	localization
-28124	28131	GO:0005488	binding	binding
-28239	28241	GO:0065007	to	biological regulation
-28239	28241	GO:0009987	to	cellular process
-28239	28241	GO:0065007	to	biological regulation
-28239	28241	GO:0009987	to	cellular process
-28284	28294	GO:0044464	centrosome	cell part
-28284	28294	GO:0043226	centrosome	organelle
-28284	28294	GO:0044422	centrosome	organelle part
-28644	28651	GO:0003824	protein	catalytic activity
-28644	28651	GO:0003824	protein	catalytic activity
-28664	28671	GO:0003824	protein	catalytic activity
-28935	28942	GO:0065007	mitotic	biological regulation
-28943	28950	GO:0044422	spindle	organelle part
-28943	28950	GO:0043226	spindle	organelle
-28943	28950	GO:0044464	spindle	cell part
-28955	28966	GO:0044422	centrosomal	organelle part
-28955	28966	GO:0044464	centrosomal	cell part
-28955	28966	GO:0032991	centrosomal	macromolecular complex
-29149	29157	GO:0003824	proteins	catalytic activity
-29200	29208	GO:0003824	proteins	catalytic activity
-29218	29220	GO:0065007	to	biological regulation
-29218	29220	GO:0009987	to	cellular process
-29266	29277	GO:0032991	microtubule	macromolecular complex
-29266	29277	GO:0044464	microtubule	cell part
-29266	29277	GO:0044422	microtubule	organelle part
-29278	29289	GO:0044422	centrosomal	organelle part
-29278	29289	GO:0044464	centrosomal	cell part
-29278	29289	GO:0032991	centrosomal	macromolecular complex
-29290	29298	GO:0003824	proteins	catalytic activity
-29475	29483	GO:0003824	proteins	catalytic activity
-29484	29486	GO:0065007	to	biological regulation
-29484	29486	GO:0009987	to	cellular process
-29491	29501	GO:0044464	centrosome	cell part
-29491	29501	GO:0043226	centrosome	organelle
-29491	29501	GO:0044422	centrosome	organelle part
-29559	29569	GO:0044464	centrosome	cell part
-29559	29569	GO:0043226	centrosome	organelle
-29559	29569	GO:0044422	centrosome	organelle part
-29574	29581	GO:0065007	mitotic	biological regulation
-29582	29589	GO:0044422	spindle	organelle part
-29582	29589	GO:0043226	spindle	organelle
-29582	29589	GO:0044464	spindle	cell part
-29600	29602	GO:0065007	to	biological regulation
-29600	29602	GO:0009987	to	cellular process
-29709	29717	GO:0003824	proteins	catalytic activity
-29747	29749	GO:0065007	to	biological regulation
-29747	29749	GO:0009987	to	cellular process
-30049	30061	GO:0051179	localization	localization
-30085	30093	GO:0003824	proteins	catalytic activity
-30101	30111	GO:0009987	interphase	cellular process
-30112	30119	GO:0043226	nucleus	organelle
-30112	30119	GO:0044464	nucleus	cell part
-30210	30220	GO:0044464	centrosome	cell part
-30210	30220	GO:0043226	centrosome	organelle
-30210	30220	GO:0044422	centrosome	organelle part
-30225	30236	GO:0032991	microtubule	macromolecular complex
-30225	30236	GO:0044464	microtubule	cell part
-30225	30236	GO:0044422	microtubule	organelle part
-30225	30245	GO:0009987	microtubule dynamics	cellular process
-30225	30245	GO:0016043	microtubule dynamics	cellular component organization
-30300	30302	GO:0065007	to	biological regulation
-30300	30302	GO:0009987	to	cellular process
-30303	30305	GO:0065007	to	biological regulation
-30303	30305	GO:0009987	to	cellular process
-30686	30694	GO:0003824	proteins	catalytic activity
-30708	30710	GO:0065007	to	biological regulation
-30708	30710	GO:0009987	to	cellular process
-30733	30745	GO:0043226	cytoskeleton	organelle
-30733	30745	GO:0044464	cytoskeleton	cell part
-30750	30761	GO:0032991	microtubule	macromolecular complex
-30750	30761	GO:0044464	microtubule	cell part
-30750	30761	GO:0044422	microtubule	organelle part
-30782	30784	GO:0065007	to	biological regulation
-30782	30784	GO:0009987	to	cellular process
-30803	30811	GO:0043226	ribosome	organelle
-30803	30811	GO:0032991	ribosome	macromolecular complex
-30803	30811	GO:0044464	ribosome	cell part
-30837	30846	GO:0044422	chromatin	organelle part
-30837	30846	GO:0044464	chromatin	cell part
-30837	30857	GO:0009987	chromatin remodeling	cellular process
-30837	30857	GO:0016043	chromatin remodeling	cellular component organization
-30956	30958	GO:0065007	to	biological regulation
-30956	30958	GO:0009987	to	cellular process
-30959	30972	GO:0009987	transcription	cellular process
-30959	30972	GO:0008152	transcription	metabolic process
-31152	31160	GO:0003824	proteins	catalytic activity
-31166	31177	GO:0005488	RNA binding	binding
-31170	31177	GO:0005488	binding	binding
-31178	31185	GO:0003824	protein	catalytic activity
-31262	31271	GO:0044422	chromatin	organelle part
-31262	31271	GO:0044464	chromatin	cell part
-31262	31282	GO:0009987	chromatin remodeling	cellular process
-31262	31282	GO:0016043	chromatin remodeling	cellular component organization
-31262	31290	GO:0032991	chromatin remodeling complex	macromolecular complex
-31262	31290	GO:0044464	chromatin remodeling complex	cell part
-31262	31290	GO:0044422	chromatin remodeling complex	organelle part
-31349	31356	GO:0003824	protein	catalytic activity
-31394	31404	GO:0050896	DNA repair	response to stimulus
-31394	31404	GO:0009987	DNA repair	cellular process
-31394	31404	GO:0008152	DNA repair	metabolic process
-31417	31423	GO:0009987	direct	cellular process
-31417	31423	GO:0008152	direct	metabolic process
-31542	31550	GO:0003824	proteins	catalytic activity
-31658	31664	GO:0009987	direct	cellular process
-31658	31664	GO:0008152	direct	metabolic process
-31775	31783	GO:0003824	proteins	catalytic activity
-32011	32013	GO:0065007	to	biological regulation
-32011	32013	GO:0009987	to	cellular process
-32052	32054	GO:0065007	to	biological regulation
-32052	32054	GO:0009987	to	cellular process
-32055	32064	GO:0044422	chromatin	organelle part
-32055	32064	GO:0044464	chromatin	cell part
-32055	32075	GO:0009987	chromatin remodeling	cellular process
-32055	32075	GO:0016043	chromatin remodeling	cellular component organization
-32055	32085	GO:0044464	chromatin remodeling complexes	cell part
-32055	32085	GO:0032991	chromatin remodeling complexes	macromolecular complex
-32055	32085	GO:0044422	chromatin remodeling complexes	organelle part
-32173	32185	GO:0008152	RNA splicing	metabolic process
-32173	32185	GO:0009987	RNA splicing	cellular process
-32187	32196	GO:0051234	transport	establishment of localization
-32364	32367	GO:0060089	RXR	molecular transducer activity
-32670	32672	GO:0065007	to	biological regulation
-32670	32672	GO:0009987	to	cellular process
-33222	33230	GO:0003824	proteins	catalytic activity
-33405	33412	GO:0003824	protein	catalytic activity
-33437	33450	GO:0009987	transcription	cellular process
-33437	33450	GO:0008152	transcription	metabolic process
-33469	33471	GO:0065007	to	biological regulation
-33469	33471	GO:0009987	to	cellular process
-33504	33512	GO:0003824	proteins	catalytic activity
-33540	33548	GO:0003824	proteins	catalytic activity
-33567	33569	GO:0065007	to	biological regulation
-33567	33569	GO:0009987	to	cellular process
-33579	33586	GO:0003824	protein	catalytic activity
-33785	33787	GO:0065007	to	biological regulation
-33785	33787	GO:0009987	to	cellular process
-33788	33797	GO:0003824	glutamine	catalytic activity
-33803	33816	GO:0009987	transcription	cellular process
-33803	33816	GO:0008152	transcription	metabolic process
-33852	33859	GO:0005488	binding	binding
-33953	33961	GO:0003824	proteins	catalytic activity
-34078	34080	GO:0065007	to	biological regulation
-34078	34080	GO:0009987	to	cellular process
-34218	34226	GO:0003824	proteins	catalytic activity
-34277	34285	GO:0003824	proteins	catalytic activity
-34300	34310	GO:0044464	centrosome	cell part
-34300	34310	GO:0043226	centrosome	organelle
-34300	34310	GO:0044422	centrosome	organelle part
-34311	34318	GO:0065007	mitotic	biological regulation
-34319	34326	GO:0044422	spindle	organelle part
-34319	34326	GO:0043226	spindle	organelle
-34319	34326	GO:0044464	spindle	cell part
-34344	34352	GO:0003824	proteins	catalytic activity
-34405	34418	GO:0009987	transcription	cellular process
-34405	34418	GO:0008152	transcription	metabolic process
-34434	34448	GO:0008152	RNA processing	metabolic process
-34434	34448	GO:0009987	RNA processing	cellular process
-34453	34464	GO:0008152	translation	metabolic process
-34453	34464	GO:0009987	translation	cellular process
-34509	34517	GO:0003824	proteins	catalytic activity
-34532	34534	GO:0065007	to	biological regulation
-34532	34534	GO:0009987	to	cellular process
-34565	34567	GO:0065007	to	biological regulation
-34565	34567	GO:0009987	to	cellular process
-34620	34627	GO:0003824	protein	catalytic activity
-34620	34635	GO:0032991	protein complex	macromolecular complex
-34711	34721	GO:0044464	centrosome	cell part
-34711	34721	GO:0043226	centrosome	organelle
-34711	34721	GO:0044422	centrosome	organelle part
-34742	34749	GO:0065007	mitotic	biological regulation
-34742	34766	GO:0009987	mitotic spindle assembly	cellular process
-34742	34766	GO:0016043	mitotic spindle assembly	cellular component organization
-34750	34757	GO:0044422	spindle	organelle part
-34750	34757	GO:0043226	spindle	organelle
-34750	34757	GO:0044464	spindle	cell part
-34750	34766	GO:0016043	spindle assembly	cellular component organization
-34750	34766	GO:0009987	spindle assembly	cellular process
-34778	34780	GO:0065007	to	biological regulation
-34778	34780	GO:0009987	to	cellular process
-34882	34889	GO:0003824	protein	catalytic activity
-34908	34914	GO:0009987	direct	cellular process
-34908	34914	GO:0008152	direct	metabolic process
-34986	34993	GO:0009987	mitosis	cellular process
-34986	34993	GO:0016043	mitosis	cellular component organization
-35035	35041	GO:0044464	Kinase	cell part
-35035	35041	GO:0032991	Kinase	macromolecular complex
-35096	35103	GO:0003824	protein	catalytic activity
-35363	35370	GO:0003824	protein	catalytic activity
-35386	35393	GO:0005488	binding	binding
-35413	35420	GO:0003824	protein	catalytic activity
-35492	35503	GO:0008152	translation	metabolic process
-35492	35503	GO:0009987	translation	cellular process
-35519	35525	GO:0032502	oocyte	developmental process
-35519	35525	GO:0022414	oocyte	reproductive process
-35596	35598	GO:0065007	to	biological regulation
-35596	35598	GO:0009987	to	cellular process
-35665	35673	GO:0003824	proteins	catalytic activity
-35747	35749	GO:0065007	to	biological regulation
-35747	35749	GO:0009987	to	cellular process
-35908	35920	GO:0008152	RNA splicing	metabolic process
-35908	35920	GO:0009987	RNA splicing	cellular process
-35925	35934	GO:0051234	transport	establishment of localization
-35950	35952	GO:0065007	To	biological regulation
-35950	35952	GO:0009987	To	cellular process
-36009	36017	GO:0003824	proteins	catalytic activity
-36078	36080	GO:0065007	to	biological regulation
-36078	36080	GO:0009987	to	cellular process
-36090	36098	GO:0003824	proteins	catalytic activity
-36109	36111	GO:0065007	to	biological regulation
-36109	36111	GO:0009987	to	cellular process
-36127	36135	GO:0003824	proteins	catalytic activity
-36231	36233	GO:0065007	to	biological regulation
-36231	36233	GO:0009987	to	cellular process
-36352	36359	GO:0003824	protein	catalytic activity
-36507	36510	GO:0060089	RXR	molecular transducer activity
-36628	36635	GO:0005488	binding	binding
-36636	36643	GO:0003824	protein	catalytic activity
-36726	36733	GO:0003824	protein	catalytic activity
-36737	36739	GO:0065007	to	biological regulation
-36737	36739	GO:0009987	to	cellular process
-36742	36744	GO:0065007	to	biological regulation
-36742	36744	GO:0009987	to	cellular process
-36873	36881	GO:0003824	proteins	catalytic activity
-36947	36949	GO:0065007	to	biological regulation
-36947	36949	GO:0009987	to	cellular process
-36969	36971	GO:0065007	to	biological regulation
-36969	36971	GO:0009987	to	cellular process
-37111	37118	GO:0003824	protein	catalytic activity
-37173	37179	GO:0009987	direct	cellular process
-37173	37179	GO:0008152	direct	metabolic process
-37206	37219	GO:0009987	transcription	cellular process
-37206	37219	GO:0008152	transcription	metabolic process
-37368	37377	GO:0044422	chromatin	organelle part
-37368	37377	GO:0044464	chromatin	cell part
-37368	37388	GO:0009987	chromatin remodeling	cellular process
-37368	37388	GO:0016043	chromatin remodeling	cellular component organization
-37368	37396	GO:0032991	chromatin remodeling complex	macromolecular complex
-37368	37396	GO:0044464	chromatin remodeling complex	cell part
-37368	37396	GO:0044422	chromatin remodeling complex	organelle part
-37537	37543	GO:0009987	direct	cellular process
-37537	37543	GO:0008152	direct	metabolic process
-37595	37597	GO:0065007	to	biological regulation
-37595	37597	GO:0009987	to	cellular process
-37655	37662	GO:0003824	protein	catalytic activity
-37745	37747	GO:0065007	to	biological regulation
-37745	37747	GO:0009987	to	cellular process
-37748	37754	GO:0009987	direct	cellular process
-37748	37754	GO:0008152	direct	metabolic process
-37816	37824	GO:0005488	bridging	binding
-37825	37832	GO:0003824	protein	catalytic activity
-37882	37889	GO:0003824	protein	catalytic activity
-38061	38069	GO:0005488	bridging	binding
-38070	38077	GO:0003824	protein	catalytic activity
-38271	38273	GO:0065007	to	biological regulation
-38271	38273	GO:0009987	to	cellular process
-38584	38591	GO:0003824	protein	catalytic activity
-38596	38598	GO:0065007	to	biological regulation
-38596	38598	GO:0009987	to	cellular process
-39059	39070	GO:0044422	centrosomal	organelle part
-39059	39070	GO:0044464	centrosomal	cell part
-39059	39070	GO:0032991	centrosomal	macromolecular complex
-39071	39078	GO:0065007	mitotic	biological regulation
-39079	39086	GO:0044422	spindle	organelle part
-39079	39086	GO:0043226	spindle	organelle
-39079	39086	GO:0044464	spindle	cell part
-39227	39235	GO:0003824	proteins	catalytic activity
-39262	39264	GO:0065007	to	biological regulation
-39262	39264	GO:0009987	to	cellular process
-39279	39287	GO:0005488	bridging	binding
-39288	39296	GO:0003824	proteins	catalytic activity
-39338	39345	GO:0003824	protein	catalytic activity
-39338	39355	GO:0032991	protein complexes	macromolecular complex
-39387	39394	GO:0003824	protein	catalytic activity
-39387	39406	GO:0009987	protein translation	cellular process
-39387	39406	GO:0008152	protein translation	metabolic process
-39395	39406	GO:0008152	translation	metabolic process
-39395	39406	GO:0009987	translation	cellular process
-39408	39422	GO:0008152	RNA processing	metabolic process
-39408	39422	GO:0009987	RNA processing	cellular process
-39427	39440	GO:0009987	transcription	cellular process
-39427	39440	GO:0008152	transcription	metabolic process
-39592	39600	GO:0003824	proteins	catalytic activity
-39627	39629	GO:0065007	to	biological regulation
-39627	39629	GO:0009987	to	cellular process
-39718	39726	GO:0003824	proteins	catalytic activity
-39772	39780	GO:0003824	proteins	catalytic activity
-39785	39798	GO:0009987	transcription	cellular process
-39785	39798	GO:0008152	transcription	metabolic process
-39928	39935	GO:0003824	protein	catalytic activity
-40024	40043	GO:0050896	response to hypoxia	response to stimulus
-40033	40035	GO:0065007	to	biological regulation
-40033	40035	GO:0009987	to	cellular process
-40114	40116	GO:0065007	to	biological regulation
-40114	40116	GO:0009987	to	cellular process
-40135	40148	GO:0009987	transcription	cellular process
-40135	40148	GO:0008152	transcription	metabolic process
-40152	40154	GO:0065007	to	biological regulation
-40152	40154	GO:0009987	to	cellular process
-40299	40305	GO:0009987	direct	cellular process
-40299	40305	GO:0008152	direct	metabolic process
-40324	40332	GO:0003824	proteins	catalytic activity
-40356	40365	GO:0044422	chromatin	organelle part
-40356	40365	GO:0044464	chromatin	cell part
-40356	40376	GO:0009987	chromatin remodeling	cellular process
-40356	40376	GO:0016043	chromatin remodeling	cellular component organization
-40423	40431	GO:0003824	proteins	catalytic activity
-40556	40561	GO:0005623	cells	cell
-40591	40593	GO:0065007	to	biological regulation
-40591	40593	GO:0009987	to	cellular process
-40705	40719	GO:0008152	RNA processing	metabolic process
-40705	40719	GO:0009987	RNA processing	cellular process
-40834	40836	GO:0065007	to	biological regulation
-40834	40836	GO:0009987	to	cellular process
-40908	40915	GO:0005488	binding	binding
-40950	40957	GO:0003824	protein	catalytic activity
-40950	40967	GO:0032991	protein complexes	macromolecular complex
-41054	41056	GO:0065007	to	biological regulation
-41054	41056	GO:0009987	to	cellular process
-41257	41264	GO:0003824	protein	catalytic activity
-41294	41296	GO:0065007	to	biological regulation
-41294	41296	GO:0009987	to	cellular process
-41355	41368	GO:0009987	transcription	cellular process
-41355	41368	GO:0008152	transcription	metabolic process
-41392	41395	GO:0060089	RXR	molecular transducer activity
-41516	41523	GO:0003824	protein	catalytic activity
-41579	41581	GO:0065007	to	biological regulation
-41579	41581	GO:0009987	to	cellular process
-41824	41826	GO:0065007	to	biological regulation
-41824	41826	GO:0009987	to	cellular process
-41947	41949	GO:0065007	to	biological regulation
-41947	41949	GO:0009987	to	cellular process
-42079	42081	GO:0065007	to	biological regulation
-42079	42081	GO:0009987	to	cellular process
-42239	42247	GO:0003824	proteins	catalytic activity
-42396	42398	GO:0065007	to	biological regulation
-42396	42398	GO:0009987	to	cellular process
-42431	42433	GO:0065007	to	biological regulation
-42431	42433	GO:0009987	to	cellular process
-42510	42512	GO:0065007	to	biological regulation
-42510	42512	GO:0009987	to	cellular process
-42604	42606	GO:0065007	to	biological regulation
-42604	42606	GO:0009987	to	cellular process
-43097	43099	GO:0065007	to	biological regulation
-43097	43099	GO:0009987	to	cellular process
-44186	44207	GO:0008152	Reverse transcription	metabolic process
-44186	44207	GO:0009987	Reverse transcription	cellular process
-44194	44207	GO:0009987	transcription	cellular process
-44194	44207	GO:0008152	transcription	metabolic process
-44314	44322	GO:0005488	template	binding
-44345	44354	GO:0008152	synthesis	metabolic process
-44465	44470	GO:0005623	cells	cell
-44885	44887	GO:0065007	to	biological regulation
-44885	44887	GO:0009987	to	cellular process
-44885	44887	GO:0065007	to	biological regulation
-44885	44887	GO:0009987	to	cellular process
-45735	45743	GO:0003824	proteins	catalytic activity
-45776	45783	GO:0003824	protein	catalytic activity
-46548	46555	GO:0003824	protein	catalytic activity
-46569	46581	GO:0009987	translations	cellular process
-46569	46581	GO:0008152	translations	metabolic process
-47472	47479	GO:0003824	protein	catalytic activity
-47552	47554	GO:0065007	to	biological regulation
-47552	47554	GO:0009987	to	cellular process
-47724	47732	GO:0003824	proteins	catalytic activity
-47936	47938	GO:0065007	To	biological regulation
-47936	47938	GO:0009987	To	cellular process
-48361	48369	GO:0003824	proteins	catalytic activity
-48456	48461	GO:0005623	Cells	cell
-48610	48615	GO:0005623	cells	cell
-48914	48921	GO:0003824	protein	catalytic activity
-48947	48954	GO:0003824	coupled	catalytic activity
-48955	48968	GO:0009987	transcription	cellular process
-48955	48968	GO:0008152	transcription	metabolic process
-48969	48980	GO:0008152	translation	metabolic process
-48969	48980	GO:0009987	translation	cellular process
-49049	49051	GO:0065007	to	biological regulation
-49049	49051	GO:0009987	to	cellular process
-49117	49124	GO:0003824	protein	catalytic activity
-49368	49376	GO:0003824	proteins	catalytic activity
-49484	49491	GO:0009987	reduced	cellular process
-49484	49491	GO:0008152	reduced	metabolic process
-49484	49491	GO:0005215	reduced	transporter activity
-49484	49491	GO:0051234	reduced	establishment of localization
-49510	49518	GO:0003824	proteins	catalytic activity
-49626	49633	GO:0003824	protein	catalytic activity
-50305	50315	GO:0043226	chromosome	organelle
-50305	50315	GO:0044422	chromosome	organelle part
-50305	50315	GO:0044464	chromosome	cell part
-50363	50371	GO:0044464	telomere	cell part
-50363	50371	GO:0044422	telomere	organelle part
-50396	50406	GO:0043226	chromosome	organelle
-50396	50406	GO:0044422	chromosome	organelle part
-50396	50406	GO:0044464	chromosome	cell part
-50527	50537	GO:0043226	chromosome	organelle
-50527	50537	GO:0044422	chromosome	organelle part
-50527	50537	GO:0044464	chromosome	cell part
-50527	50537	GO:0043226	chromosome	organelle
-50527	50537	GO:0044422	chromosome	organelle part
-50527	50537	GO:0044464	chromosome	cell part
-51283	51285	GO:0065007	to	biological regulation
-51283	51285	GO:0009987	to	cellular process
+27042	27051	GO:0044464	cytoplasm	cell part
+27113	27115	GO:0065007	to	biological regulation
+27113	27115	GO:0009987	to	cellular process
+27173	27187	GO:0008152	RNA processing	metabolic process
+27173	27187	GO:0009987	RNA processing	cellular process
+27205	27212	GO:0043226	nucleus	organelle
+27205	27212	GO:0044464	nucleus	cell part
+27271	27275	GO:0005623	cell	cell
+27314	27328	GO:0008152	RNA metabolism	metabolic process
+27314	27328	GO:0009987	RNA metabolism	cellular process
+27318	27328	GO:0008152	metabolism	metabolic process
+27852	27854	GO:0065007	to	biological regulation
+27852	27854	GO:0009987	to	cellular process
+27986	27988	GO:0065007	to	biological regulation
+27986	27988	GO:0009987	to	cellular process
+28016	28023	GO:0005488	binding	binding
+28176	28188	GO:0051179	localization	localization
+28206	28213	GO:0005488	binding	binding
+28321	28323	GO:0065007	to	biological regulation
+28321	28323	GO:0009987	to	cellular process
+28321	28323	GO:0065007	to	biological regulation
+28321	28323	GO:0009987	to	cellular process
+28366	28376	GO:0044464	centrosome	cell part
+28366	28376	GO:0043226	centrosome	organelle
+28366	28376	GO:0044422	centrosome	organelle part
+28728	28735	GO:0003824	protein	catalytic activity
+28728	28735	GO:0003824	protein	catalytic activity
+28750	28757	GO:0003824	protein	catalytic activity
+29021	29028	GO:0065007	mitotic	biological regulation
+29029	29036	GO:0044422	spindle	organelle part
+29029	29036	GO:0043226	spindle	organelle
+29029	29036	GO:0044464	spindle	cell part
+29041	29052	GO:0044422	centrosomal	organelle part
+29041	29052	GO:0044464	centrosomal	cell part
+29041	29052	GO:0032991	centrosomal	macromolecular complex
+29235	29243	GO:0003824	proteins	catalytic activity
+29286	29294	GO:0003824	proteins	catalytic activity
+29304	29306	GO:0065007	to	biological regulation
+29304	29306	GO:0009987	to	cellular process
+29352	29363	GO:0032991	microtubule	macromolecular complex
+29352	29363	GO:0044464	microtubule	cell part
+29352	29363	GO:0044422	microtubule	organelle part
+29364	29375	GO:0044422	centrosomal	organelle part
+29364	29375	GO:0044464	centrosomal	cell part
+29364	29375	GO:0032991	centrosomal	macromolecular complex
+29376	29384	GO:0003824	proteins	catalytic activity
+29561	29569	GO:0003824	proteins	catalytic activity
+29570	29572	GO:0065007	to	biological regulation
+29570	29572	GO:0009987	to	cellular process
+29577	29587	GO:0044464	centrosome	cell part
+29577	29587	GO:0043226	centrosome	organelle
+29577	29587	GO:0044422	centrosome	organelle part
+29645	29655	GO:0044464	centrosome	cell part
+29645	29655	GO:0043226	centrosome	organelle
+29645	29655	GO:0044422	centrosome	organelle part
+29660	29667	GO:0065007	mitotic	biological regulation
+29668	29675	GO:0044422	spindle	organelle part
+29668	29675	GO:0043226	spindle	organelle
+29668	29675	GO:0044464	spindle	cell part
+29686	29688	GO:0065007	to	biological regulation
+29686	29688	GO:0009987	to	cellular process
+29795	29803	GO:0003824	proteins	catalytic activity
+29833	29835	GO:0065007	to	biological regulation
+29833	29835	GO:0009987	to	cellular process
+30137	30149	GO:0051179	localization	localization
+30173	30181	GO:0003824	proteins	catalytic activity
+30189	30199	GO:0009987	interphase	cellular process
+30200	30207	GO:0043226	nucleus	organelle
+30200	30207	GO:0044464	nucleus	cell part
+30298	30308	GO:0044464	centrosome	cell part
+30298	30308	GO:0043226	centrosome	organelle
+30298	30308	GO:0044422	centrosome	organelle part
+30313	30324	GO:0032991	microtubule	macromolecular complex
+30313	30324	GO:0044464	microtubule	cell part
+30313	30324	GO:0044422	microtubule	organelle part
+30313	30333	GO:0009987	microtubule dynamics	cellular process
+30313	30333	GO:0016043	microtubule dynamics	cellular component organization
+30388	30390	GO:0065007	to	biological regulation
+30388	30390	GO:0009987	to	cellular process
+30391	30393	GO:0065007	to	biological regulation
+30391	30393	GO:0009987	to	cellular process
+30774	30782	GO:0003824	proteins	catalytic activity
+30796	30798	GO:0065007	to	biological regulation
+30796	30798	GO:0009987	to	cellular process
+30821	30833	GO:0043226	cytoskeleton	organelle
+30821	30833	GO:0044464	cytoskeleton	cell part
+30838	30849	GO:0032991	microtubule	macromolecular complex
+30838	30849	GO:0044464	microtubule	cell part
+30838	30849	GO:0044422	microtubule	organelle part
+30870	30872	GO:0065007	to	biological regulation
+30870	30872	GO:0009987	to	cellular process
+30891	30899	GO:0043226	ribosome	organelle
+30891	30899	GO:0032991	ribosome	macromolecular complex
+30891	30899	GO:0044464	ribosome	cell part
+30925	30934	GO:0044422	chromatin	organelle part
+30925	30934	GO:0044464	chromatin	cell part
+30925	30945	GO:0009987	chromatin remodeling	cellular process
+30925	30945	GO:0016043	chromatin remodeling	cellular component organization
+31044	31046	GO:0065007	to	biological regulation
+31044	31046	GO:0009987	to	cellular process
+31047	31060	GO:0009987	transcription	cellular process
+31047	31060	GO:0008152	transcription	metabolic process
+31240	31248	GO:0003824	proteins	catalytic activity
+31254	31265	GO:0005488	RNA binding	binding
+31258	31265	GO:0005488	binding	binding
+31266	31273	GO:0003824	protein	catalytic activity
+31350	31359	GO:0044422	chromatin	organelle part
+31350	31359	GO:0044464	chromatin	cell part
+31350	31370	GO:0009987	chromatin remodeling	cellular process
+31350	31370	GO:0016043	chromatin remodeling	cellular component organization
+31350	31378	GO:0032991	chromatin remodeling complex	macromolecular complex
+31350	31378	GO:0044464	chromatin remodeling complex	cell part
+31350	31378	GO:0044422	chromatin remodeling complex	organelle part
+31437	31444	GO:0003824	protein	catalytic activity
+31482	31492	GO:0050896	DNA repair	response to stimulus
+31482	31492	GO:0009987	DNA repair	cellular process
+31482	31492	GO:0008152	DNA repair	metabolic process
+31505	31511	GO:0009987	direct	cellular process
+31505	31511	GO:0008152	direct	metabolic process
+31630	31638	GO:0003824	proteins	catalytic activity
+31746	31752	GO:0009987	direct	cellular process
+31746	31752	GO:0008152	direct	metabolic process
+31867	31875	GO:0003824	proteins	catalytic activity
+32103	32105	GO:0065007	to	biological regulation
+32103	32105	GO:0009987	to	cellular process
+32144	32146	GO:0065007	to	biological regulation
+32144	32146	GO:0009987	to	cellular process
+32147	32156	GO:0044422	chromatin	organelle part
+32147	32156	GO:0044464	chromatin	cell part
+32147	32167	GO:0009987	chromatin remodeling	cellular process
+32147	32167	GO:0016043	chromatin remodeling	cellular component organization
+32147	32177	GO:0044464	chromatin remodeling complexes	cell part
+32147	32177	GO:0032991	chromatin remodeling complexes	macromolecular complex
+32147	32177	GO:0044422	chromatin remodeling complexes	organelle part
+32265	32277	GO:0008152	RNA splicing	metabolic process
+32265	32277	GO:0009987	RNA splicing	cellular process
+32279	32288	GO:0051234	transport	establishment of localization
+32456	32459	GO:0060089	RXR	molecular transducer activity
+32762	32764	GO:0065007	to	biological regulation
+32762	32764	GO:0009987	to	cellular process
+33316	33324	GO:0003824	proteins	catalytic activity
+33499	33506	GO:0003824	protein	catalytic activity
+33531	33544	GO:0009987	transcription	cellular process
+33531	33544	GO:0008152	transcription	metabolic process
+33563	33565	GO:0065007	to	biological regulation
+33563	33565	GO:0009987	to	cellular process
+33598	33606	GO:0003824	proteins	catalytic activity
+33634	33642	GO:0003824	proteins	catalytic activity
+33661	33663	GO:0065007	to	biological regulation
+33661	33663	GO:0009987	to	cellular process
+33673	33680	GO:0003824	protein	catalytic activity
+33879	33881	GO:0065007	to	biological regulation
+33879	33881	GO:0009987	to	cellular process
+33882	33891	GO:0003824	glutamine	catalytic activity
+33897	33910	GO:0009987	transcription	cellular process
+33897	33910	GO:0008152	transcription	metabolic process
+33946	33953	GO:0005488	binding	binding
+34049	34057	GO:0003824	proteins	catalytic activity
+34176	34178	GO:0065007	to	biological regulation
+34176	34178	GO:0009987	to	cellular process
+34316	34324	GO:0003824	proteins	catalytic activity
+34375	34383	GO:0003824	proteins	catalytic activity
+34398	34408	GO:0044464	centrosome	cell part
+34398	34408	GO:0043226	centrosome	organelle
+34398	34408	GO:0044422	centrosome	organelle part
+34409	34416	GO:0065007	mitotic	biological regulation
+34417	34424	GO:0044422	spindle	organelle part
+34417	34424	GO:0043226	spindle	organelle
+34417	34424	GO:0044464	spindle	cell part
+34442	34450	GO:0003824	proteins	catalytic activity
+34503	34516	GO:0009987	transcription	cellular process
+34503	34516	GO:0008152	transcription	metabolic process
+34532	34546	GO:0008152	RNA processing	metabolic process
+34532	34546	GO:0009987	RNA processing	cellular process
+34551	34562	GO:0008152	translation	metabolic process
+34551	34562	GO:0009987	translation	cellular process
+34607	34615	GO:0003824	proteins	catalytic activity
+34630	34632	GO:0065007	to	biological regulation
+34630	34632	GO:0009987	to	cellular process
+34663	34665	GO:0065007	to	biological regulation
+34663	34665	GO:0009987	to	cellular process
+34718	34725	GO:0003824	protein	catalytic activity
+34718	34733	GO:0032991	protein complex	macromolecular complex
+34811	34821	GO:0044464	centrosome	cell part
+34811	34821	GO:0043226	centrosome	organelle
+34811	34821	GO:0044422	centrosome	organelle part
+34842	34849	GO:0065007	mitotic	biological regulation
+34842	34866	GO:0009987	mitotic spindle assembly	cellular process
+34842	34866	GO:0016043	mitotic spindle assembly	cellular component organization
+34850	34857	GO:0044422	spindle	organelle part
+34850	34857	GO:0043226	spindle	organelle
+34850	34857	GO:0044464	spindle	cell part
+34850	34866	GO:0016043	spindle assembly	cellular component organization
+34850	34866	GO:0009987	spindle assembly	cellular process
+34878	34880	GO:0065007	to	biological regulation
+34878	34880	GO:0009987	to	cellular process
+34982	34989	GO:0003824	protein	catalytic activity
+35008	35014	GO:0009987	direct	cellular process
+35008	35014	GO:0008152	direct	metabolic process
+35086	35093	GO:0009987	mitosis	cellular process
+35086	35093	GO:0016043	mitosis	cellular component organization
+35135	35141	GO:0044464	Kinase	cell part
+35135	35141	GO:0032991	Kinase	macromolecular complex
+35196	35203	GO:0003824	protein	catalytic activity
+35463	35470	GO:0003824	protein	catalytic activity
+35486	35493	GO:0005488	binding	binding
+35513	35520	GO:0003824	protein	catalytic activity
+35592	35603	GO:0008152	translation	metabolic process
+35592	35603	GO:0009987	translation	cellular process
+35619	35625	GO:0032502	oocyte	developmental process
+35619	35625	GO:0022414	oocyte	reproductive process
+35696	35698	GO:0065007	to	biological regulation
+35696	35698	GO:0009987	to	cellular process
+35765	35773	GO:0003824	proteins	catalytic activity
+35847	35849	GO:0065007	to	biological regulation
+35847	35849	GO:0009987	to	cellular process
+36008	36020	GO:0008152	RNA splicing	metabolic process
+36008	36020	GO:0009987	RNA splicing	cellular process
+36025	36034	GO:0051234	transport	establishment of localization
+36052	36054	GO:0065007	To	biological regulation
+36052	36054	GO:0009987	To	cellular process
+36111	36119	GO:0003824	proteins	catalytic activity
+36180	36182	GO:0065007	to	biological regulation
+36180	36182	GO:0009987	to	cellular process
+36192	36200	GO:0003824	proteins	catalytic activity
+36211	36213	GO:0065007	to	biological regulation
+36211	36213	GO:0009987	to	cellular process
+36229	36237	GO:0003824	proteins	catalytic activity
+36333	36335	GO:0065007	to	biological regulation
+36333	36335	GO:0009987	to	cellular process
+36454	36461	GO:0003824	protein	catalytic activity
+36609	36612	GO:0060089	RXR	molecular transducer activity
+36730	36737	GO:0005488	binding	binding
+36738	36745	GO:0003824	protein	catalytic activity
+36828	36835	GO:0003824	protein	catalytic activity
+36839	36841	GO:0065007	to	biological regulation
+36839	36841	GO:0009987	to	cellular process
+36844	36846	GO:0065007	to	biological regulation
+36844	36846	GO:0009987	to	cellular process
+36975	36983	GO:0003824	proteins	catalytic activity
+37049	37051	GO:0065007	to	biological regulation
+37049	37051	GO:0009987	to	cellular process
+37071	37073	GO:0065007	to	biological regulation
+37071	37073	GO:0009987	to	cellular process
+37213	37220	GO:0003824	protein	catalytic activity
+37275	37281	GO:0009987	direct	cellular process
+37275	37281	GO:0008152	direct	metabolic process
+37308	37321	GO:0009987	transcription	cellular process
+37308	37321	GO:0008152	transcription	metabolic process
+37470	37479	GO:0044422	chromatin	organelle part
+37470	37479	GO:0044464	chromatin	cell part
+37470	37490	GO:0009987	chromatin remodeling	cellular process
+37470	37490	GO:0016043	chromatin remodeling	cellular component organization
+37470	37498	GO:0032991	chromatin remodeling complex	macromolecular complex
+37470	37498	GO:0044464	chromatin remodeling complex	cell part
+37470	37498	GO:0044422	chromatin remodeling complex	organelle part
+37639	37645	GO:0009987	direct	cellular process
+37639	37645	GO:0008152	direct	metabolic process
+37697	37699	GO:0065007	to	biological regulation
+37697	37699	GO:0009987	to	cellular process
+37757	37764	GO:0003824	protein	catalytic activity
+37847	37849	GO:0065007	to	biological regulation
+37847	37849	GO:0009987	to	cellular process
+37850	37856	GO:0009987	direct	cellular process
+37850	37856	GO:0008152	direct	metabolic process
+37918	37926	GO:0005488	bridging	binding
+37927	37934	GO:0003824	protein	catalytic activity
+37984	37991	GO:0003824	protein	catalytic activity
+38163	38171	GO:0005488	bridging	binding
+38172	38179	GO:0003824	protein	catalytic activity
+38373	38375	GO:0065007	to	biological regulation
+38373	38375	GO:0009987	to	cellular process
+38690	38697	GO:0003824	protein	catalytic activity
+38702	38704	GO:0065007	to	biological regulation
+38702	38704	GO:0009987	to	cellular process
+39171	39182	GO:0044422	centrosomal	organelle part
+39171	39182	GO:0044464	centrosomal	cell part
+39171	39182	GO:0032991	centrosomal	macromolecular complex
+39183	39190	GO:0065007	mitotic	biological regulation
+39191	39198	GO:0044422	spindle	organelle part
+39191	39198	GO:0043226	spindle	organelle
+39191	39198	GO:0044464	spindle	cell part
+39339	39347	GO:0003824	proteins	catalytic activity
+39374	39376	GO:0065007	to	biological regulation
+39374	39376	GO:0009987	to	cellular process
+39391	39399	GO:0005488	bridging	binding
+39400	39408	GO:0003824	proteins	catalytic activity
+39450	39457	GO:0003824	protein	catalytic activity
+39450	39467	GO:0032991	protein complexes	macromolecular complex
+39499	39506	GO:0003824	protein	catalytic activity
+39499	39518	GO:0009987	protein translation	cellular process
+39499	39518	GO:0008152	protein translation	metabolic process
+39507	39518	GO:0008152	translation	metabolic process
+39507	39518	GO:0009987	translation	cellular process
+39520	39534	GO:0008152	RNA processing	metabolic process
+39520	39534	GO:0009987	RNA processing	cellular process
+39539	39552	GO:0009987	transcription	cellular process
+39539	39552	GO:0008152	transcription	metabolic process
+39704	39712	GO:0003824	proteins	catalytic activity
+39739	39741	GO:0065007	to	biological regulation
+39739	39741	GO:0009987	to	cellular process
+39830	39838	GO:0003824	proteins	catalytic activity
+39884	39892	GO:0003824	proteins	catalytic activity
+39897	39910	GO:0009987	transcription	cellular process
+39897	39910	GO:0008152	transcription	metabolic process
+40040	40047	GO:0003824	protein	catalytic activity
+40136	40155	GO:0050896	response to hypoxia	response to stimulus
+40145	40147	GO:0065007	to	biological regulation
+40145	40147	GO:0009987	to	cellular process
+40226	40228	GO:0065007	to	biological regulation
+40226	40228	GO:0009987	to	cellular process
+40247	40260	GO:0009987	transcription	cellular process
+40247	40260	GO:0008152	transcription	metabolic process
+40264	40266	GO:0065007	to	biological regulation
+40264	40266	GO:0009987	to	cellular process
+40411	40417	GO:0009987	direct	cellular process
+40411	40417	GO:0008152	direct	metabolic process
+40436	40444	GO:0003824	proteins	catalytic activity
+40468	40477	GO:0044422	chromatin	organelle part
+40468	40477	GO:0044464	chromatin	cell part
+40468	40488	GO:0009987	chromatin remodeling	cellular process
+40468	40488	GO:0016043	chromatin remodeling	cellular component organization
+40535	40543	GO:0003824	proteins	catalytic activity
+40668	40673	GO:0005623	cells	cell
+40703	40705	GO:0065007	to	biological regulation
+40703	40705	GO:0009987	to	cellular process
+40817	40831	GO:0008152	RNA processing	metabolic process
+40817	40831	GO:0009987	RNA processing	cellular process
+40946	40948	GO:0065007	to	biological regulation
+40946	40948	GO:0009987	to	cellular process
+41020	41027	GO:0005488	binding	binding
+41062	41069	GO:0003824	protein	catalytic activity
+41062	41079	GO:0032991	protein complexes	macromolecular complex
+41166	41168	GO:0065007	to	biological regulation
+41166	41168	GO:0009987	to	cellular process
+41369	41376	GO:0003824	protein	catalytic activity
+41406	41408	GO:0065007	to	biological regulation
+41406	41408	GO:0009987	to	cellular process
+41467	41480	GO:0009987	transcription	cellular process
+41467	41480	GO:0008152	transcription	metabolic process
+41504	41507	GO:0060089	RXR	molecular transducer activity
+41628	41635	GO:0003824	protein	catalytic activity
+41691	41693	GO:0065007	to	biological regulation
+41691	41693	GO:0009987	to	cellular process
+41942	41944	GO:0065007	to	biological regulation
+41942	41944	GO:0009987	to	cellular process
+42065	42067	GO:0065007	to	biological regulation
+42065	42067	GO:0009987	to	cellular process
+42197	42199	GO:0065007	to	biological regulation
+42197	42199	GO:0009987	to	cellular process
+42357	42365	GO:0003824	proteins	catalytic activity
+42514	42516	GO:0065007	to	biological regulation
+42514	42516	GO:0009987	to	cellular process
+42549	42551	GO:0065007	to	biological regulation
+42549	42551	GO:0009987	to	cellular process
+42628	42630	GO:0065007	to	biological regulation
+42628	42630	GO:0009987	to	cellular process
+42722	42724	GO:0065007	to	biological regulation
+42722	42724	GO:0009987	to	cellular process
+43219	43221	GO:0065007	to	biological regulation
+43219	43221	GO:0009987	to	cellular process
+44308	44329	GO:0008152	Reverse transcription	metabolic process
+44308	44329	GO:0009987	Reverse transcription	cellular process
+44316	44329	GO:0009987	transcription	cellular process
+44316	44329	GO:0008152	transcription	metabolic process
+44436	44444	GO:0005488	template	binding
+44467	44476	GO:0008152	synthesis	metabolic process
+44587	44592	GO:0005623	cells	cell
+45011	45013	GO:0065007	to	biological regulation
+45011	45013	GO:0009987	to	cellular process
+45011	45013	GO:0065007	to	biological regulation
+45011	45013	GO:0009987	to	cellular process
+45865	45873	GO:0003824	proteins	catalytic activity
+45906	45913	GO:0003824	protein	catalytic activity
+46678	46685	GO:0003824	protein	catalytic activity
+46699	46711	GO:0009987	translations	cellular process
+46699	46711	GO:0008152	translations	metabolic process
+47604	47611	GO:0003824	protein	catalytic activity
+47684	47686	GO:0065007	to	biological regulation
+47684	47686	GO:0009987	to	cellular process
+47856	47864	GO:0003824	proteins	catalytic activity
+48068	48070	GO:0065007	To	biological regulation
+48068	48070	GO:0009987	To	cellular process
+48497	48505	GO:0003824	proteins	catalytic activity
+48592	48597	GO:0005623	Cells	cell
+48746	48751	GO:0005623	cells	cell
+49050	49057	GO:0003824	protein	catalytic activity
+49083	49090	GO:0003824	coupled	catalytic activity
+49091	49104	GO:0009987	transcription	cellular process
+49091	49104	GO:0008152	transcription	metabolic process
+49105	49116	GO:0008152	translation	metabolic process
+49105	49116	GO:0009987	translation	cellular process
+49185	49187	GO:0065007	to	biological regulation
+49185	49187	GO:0009987	to	cellular process
+49253	49260	GO:0003824	protein	catalytic activity
+49504	49512	GO:0003824	proteins	catalytic activity
+49620	49627	GO:0009987	reduced	cellular process
+49620	49627	GO:0008152	reduced	metabolic process
+49620	49627	GO:0005215	reduced	transporter activity
+49620	49627	GO:0051234	reduced	establishment of localization
+49646	49654	GO:0003824	proteins	catalytic activity
+49762	49769	GO:0003824	protein	catalytic activity
+50451	50461	GO:0043226	chromosome	organelle
+50451	50461	GO:0044422	chromosome	organelle part
+50451	50461	GO:0044464	chromosome	cell part
+50509	50517	GO:0044464	telomere	cell part
+50509	50517	GO:0044422	telomere	organelle part
+50542	50552	GO:0043226	chromosome	organelle
+50542	50552	GO:0044422	chromosome	organelle part
+50542	50552	GO:0044464	chromosome	cell part
+50675	50685	GO:0043226	chromosome	organelle
+50675	50685	GO:0044422	chromosome	organelle part
+50675	50685	GO:0044464	chromosome	cell part
+50675	50685	GO:0043226	chromosome	organelle
+50675	50685	GO:0044422	chromosome	organelle part
+50675	50685	GO:0044464	chromosome	cell part
+51445	51447	GO:0065007	to	biological regulation
+51445	51447	GO:0009987	to	cellular process

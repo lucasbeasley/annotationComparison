@@ -1,323 +1,323 @@
 StartIndex	EndIndex	GO:ID	Term	OntologyTerm
 13	21	GO:0003824	proteins	catalytic activity
 13	20	GO:0003824	protein	catalytic activity
-412	420	GO:0003824	proteins	catalytic activity
-464	472	GO:0003824	proteins	catalytic activity
-538	540	GO:0065007	to	biological regulation
-538	540	GO:0009987	to	cellular process
-611	618	GO:0003824	protein	catalytic activity
-675	677	GO:0065007	to	biological regulation
-675	677	GO:0009987	to	cellular process
-703	711	GO:0003824	proteins	catalytic activity
-846	854	GO:0003824	proteins	catalytic activity
-876	897	GO:0044464	post-synaptic density	cell part
-876	897	GO:0044456	post-synaptic density	synapse part
-876	897	GO:0044422	post-synaptic density	organelle part
-904	911	GO:0003824	protein	catalytic activity
-971	978	GO:0003824	protein	catalytic activity
-1082	1089	GO:0009987	reduced	cellular process
-1082	1089	GO:0008152	reduced	metabolic process
-1082	1089	GO:0005215	reduced	transporter activity
-1082	1089	GO:0051234	reduced	establishment of localization
-1327	1329	GO:0065007	to	biological regulation
-1327	1329	GO:0009987	to	cellular process
-1477	1484	GO:0003824	protein	catalytic activity
-2149	2166	GO:0032502	brain development	developmental process
-2279	2288	GO:0008152	formation	metabolic process
-2339	2343	GO:0044464	axon	cell part
-2339	2352	GO:0009987	axon guidance	cellular process
-2377	2384	GO:0065007	neurons	biological regulation
-2377	2384	GO:0016265	neurons	death
-2377	2384	GO:0009987	neurons	cellular process
-2390	2394	GO:0016265	glia	death
-2390	2394	GO:0009987	glia	cellular process
-2403	2421	GO:0009987	neuronal migration	cellular process
-2403	2421	GO:0040011	neuronal migration	locomotion
-2501	2518	GO:0032502	brain development	developmental process
-3031	3039	GO:0003824	proteins	catalytic activity
-3165	3167	GO:0065007	to	biological regulation
-3165	3167	GO:0009987	to	cellular process
-3238	3245	GO:0003824	proline	catalytic activity
-3400	3402	GO:0065007	to	biological regulation
-3400	3402	GO:0009987	to	cellular process
-3452	3459	GO:0003824	protein	catalytic activity
-3748	3771	GO:0032502	developmental processes	developmental process
-4167	4171	GO:0005623	cell	cell
-4428	4430	GO:0065007	to	biological regulation
-4428	4430	GO:0009987	to	cellular process
-4523	4536	GO:0009987	transcription	cellular process
-4523	4536	GO:0008152	transcription	metabolic process
-4614	4622	GO:0003824	proteins	catalytic activity
-4623	4625	GO:0065007	to	biological regulation
-4623	4625	GO:0009987	to	cellular process
-4746	4759	GO:0009987	transcription	cellular process
-4746	4759	GO:0008152	transcription	metabolic process
-4768	4770	GO:0065007	To	biological regulation
-4768	4770	GO:0009987	To	cellular process
-5011	5019	GO:0003824	proteins	catalytic activity
-5191	5199	GO:0003824	proteins	catalytic activity
-5307	5309	GO:0065007	to	biological regulation
-5307	5309	GO:0009987	to	cellular process
-5382	5389	GO:0003824	protein	catalytic activity
-5518	5526	GO:0003824	proteins	catalytic activity
-5593	5601	GO:0003824	proteins	catalytic activity
-5824	5831	GO:0003824	protein	catalytic activity
-6101	6103	GO:0065007	to	biological regulation
-6101	6103	GO:0009987	to	cellular process
-6794	6801	GO:0003824	protein	catalytic activity
-6834	6836	GO:0065007	to	biological regulation
-6834	6836	GO:0009987	to	cellular process
-7142	7144	GO:0065007	to	biological regulation
-7142	7144	GO:0009987	to	cellular process
-7258	7260	GO:0065007	to	biological regulation
-7258	7260	GO:0009987	to	cellular process
-7258	7260	GO:0065007	to	biological regulation
-7258	7260	GO:0009987	to	cellular process
-7266	7268	GO:0065007	to	biological regulation
-7266	7268	GO:0009987	to	cellular process
-7721	7723	GO:0065007	to	biological regulation
-7721	7723	GO:0009987	to	cellular process
-8262	8273	GO:0005488	DNA binding	binding
-8266	8273	GO:0005488	binding	binding
-8291	8293	GO:0065007	to	biological regulation
-8291	8293	GO:0009987	to	cellular process
-8422	8429	GO:0003824	protein	catalytic activity
-9019	9026	GO:0003824	protein	catalytic activity
-9458	9479	GO:0044464	post-synaptic density	cell part
-9458	9479	GO:0044456	post-synaptic density	synapse part
-9458	9479	GO:0044422	post-synaptic density	organelle part
-9486	9494	GO:0003824	proteins	catalytic activity
-9533	9540	GO:0003824	protein	catalytic activity
-9533	9550	GO:0032991	protein complexes	macromolecular complex
-9604	9617	GO:0044464	intracellular	cell part
-9604	9617	GO:0051179	intracellular	localization
-9604	9617	GO:0009987	intracellular	cellular process
-9633	9641	GO:0003824	proteins	catalytic activity
-9646	9656	GO:0043226	organelles	organelle
-9660	9667	GO:0065007	neurons	biological regulation
-9660	9667	GO:0016265	neurons	death
-9660	9667	GO:0009987	neurons	cellular process
-9720	9727	GO:0003824	protein	catalytic activity
-9720	9728	GO:0003824	proteins	catalytic activity
-9948	9950	GO:0065007	To	biological regulation
-9948	9950	GO:0009987	To	cellular process
-10491	10493	GO:0065007	to	biological regulation
-10491	10493	GO:0009987	to	cellular process
-11243	11251	GO:0003824	proteins	catalytic activity
-11401	11409	GO:0003824	proteins	catalytic activity
-11481	11489	GO:0003824	proteins	catalytic activity
-11770	11772	GO:0065007	to	biological regulation
-11770	11772	GO:0009987	to	cellular process
-11835	11837	GO:0065007	to	biological regulation
-11835	11837	GO:0009987	to	cellular process
-12099	12101	GO:0065007	to	biological regulation
-12099	12101	GO:0009987	to	cellular process
-12664	12670	GO:0040007	growth	growth
-12953	12955	GO:0065007	to	biological regulation
-12953	12955	GO:0009987	to	cellular process
-12997	12999	GO:0065007	to	biological regulation
-12997	12999	GO:0009987	to	cellular process
-12997	12999	GO:0065007	to	biological regulation
-12997	12999	GO:0009987	to	cellular process
-15151	15160	GO:0003824	glutamine	catalytic activity
-15161	15163	GO:0065007	to	biological regulation
-15161	15163	GO:0009987	to	cellular process
-15543	15545	GO:0065007	to	biological regulation
-15543	15545	GO:0009987	to	cellular process
-15652	15659	GO:0003824	protein	catalytic activity
-15863	15872	GO:0032501	cognition	multicellular organismal process
-16222	16224	GO:0065007	to	biological regulation
-16222	16224	GO:0009987	to	cellular process
-16296	16303	GO:0003824	protein	catalytic activity
-16376	16378	GO:0065007	to	biological regulation
-16376	16378	GO:0009987	to	cellular process
-16812	16819	GO:0003824	protein	catalytic activity
-17107	17114	GO:0009987	reduced	cellular process
-17107	17114	GO:0008152	reduced	metabolic process
-17107	17114	GO:0005215	reduced	transporter activity
-17107	17114	GO:0051234	reduced	establishment of localization
-17485	17492	GO:0003824	protein	catalytic activity
-17687	17695	GO:0003824	proteins	catalytic activity
-18141	18143	GO:0065007	to	biological regulation
-18141	18143	GO:0009987	to	cellular process
-18478	18485	GO:0065007	neurons	biological regulation
-18478	18485	GO:0016265	neurons	death
-18478	18485	GO:0009987	neurons	cellular process
-18505	18507	GO:0065007	to	biological regulation
-18505	18507	GO:0009987	to	cellular process
-18508	18514	GO:0060089	type I	molecular transducer activity
-18508	18514	GO:0003824	type I	catalytic activity
-18515	18547	GO:0023046	metabotropic glutamate receptors	signaling process
-18515	18547	GO:0023052	metabotropic glutamate receptors	signaling
-18515	18547	GO:0065007	metabotropic glutamate receptors	biological regulation
-18563	18578	GO:0003824	phospholipase C	catalytic activity
-18579	18581	GO:0065007	to	biological regulation
-18579	18581	GO:0009987	to	cellular process
-18626	18639	GO:0044464	intracellular	cell part
-18626	18639	GO:0051179	intracellular	localization
-18626	18639	GO:0009987	intracellular	cellular process
-18640	18648	GO:0043226	vesicles	organelle
-18700	18708	GO:0003824	proteins	catalytic activity
-18789	18799	GO:0023052	signalling	signaling
-18897	18905	GO:0003824	proteins	catalytic activity
-18924	18932	GO:0003824	proteins	catalytic activity
-18962	18966	GO:0044464	axon	cell part
-18962	18975	GO:0009987	axon guidance	cellular process
-18983	19000	GO:0032502	brain development	developmental process
-19032	19045	GO:0044464	intracellular	cell part
-19032	19045	GO:0051179	intracellular	localization
-19032	19045	GO:0009987	intracellular	cellular process
-19032	19055	GO:0051234	intracellular transport	establishment of localization
-19046	19055	GO:0051234	transport	establishment of localization
-19056	19063	GO:0003824	protein	catalytic activity
-19056	19073	GO:0032991	protein complexes	macromolecular complex
-19202	19210	GO:0003824	proteins	catalytic activity
-19212	19222	GO:0043226	organelles	organelle
-19227	19235	GO:0043226	vesicles	organelle
-19239	19246	GO:0065007	neurons	biological regulation
-19239	19246	GO:0016265	neurons	death
-19239	19246	GO:0009987	neurons	cellular process
-19311	19313	GO:0065007	to	biological regulation
-19311	19313	GO:0009987	to	cellular process
-19331	19339	GO:0003824	proteins	catalytic activity
-19385	19392	GO:0003824	protein	catalytic activity
-19424	19432	GO:0003824	synthase	catalytic activity
-19487	19494	GO:0003824	protein	catalytic activity
-19599	19606	GO:0003824	protein	catalytic activity
-19742	19750	GO:0003824	proteins	catalytic activity
-19790	19797	GO:0003824	protein	catalytic activity
-19823	19825	GO:0065007	to	biological regulation
-19823	19825	GO:0009987	to	cellular process
-19972	19983	GO:0008152	degradation	metabolic process
-20138	20140	GO:0065007	to	biological regulation
-20138	20140	GO:0009987	to	cellular process
-20252	20262	GO:0023052	signalling	signaling
-20281	20296	GO:0008152	gene expression	metabolic process
-20348	20355	GO:0005488	binding	binding
-20356	20358	GO:0065007	to	biological regulation
-20356	20358	GO:0009987	to	cellular process
-20422	20430	GO:0003824	proteins	catalytic activity
-20504	20506	GO:0065007	to	biological regulation
-20504	20506	GO:0009987	to	cellular process
-20596	20605	GO:0051234	transport	establishment of localization
-20631	20649	GO:0044464	actin cytoskeleton	cell part
-20631	20649	GO:0043226	actin cytoskeleton	organelle
-20637	20649	GO:0043226	cytoskeleton	organelle
-20637	20649	GO:0044464	cytoskeleton	cell part
-20678	20687	GO:0051234	transport	establishment of localization
-20698	20709	GO:0032991	microtubule	macromolecular complex
-20698	20709	GO:0044464	microtubule	cell part
-20698	20709	GO:0044422	microtubule	organelle part
-20743	20750	GO:0043226	nucleus	organelle
-20743	20750	GO:0044464	nucleus	cell part
-20787	20794	GO:0003824	protein	catalytic activity
-20787	20806	GO:0008152	protein degradation	metabolic process
-20795	20806	GO:0008152	degradation	metabolic process
-20840	20847	GO:0003824	protein	catalytic activity
-20887	20900	GO:0009987	transcription	cellular process
-20887	20900	GO:0008152	transcription	metabolic process
-20918	20939	GO:0044464	post-synaptic density	cell part
-20918	20939	GO:0044456	post-synaptic density	synapse part
-20918	20939	GO:0044422	post-synaptic density	organelle part
-21000	21007	GO:0045202	synapse	synapse
-21016	21023	GO:0043226	nucleus	organelle
-21016	21023	GO:0044464	nucleus	cell part
-21063	21070	GO:0003824	protein	catalytic activity
-21144	21146	GO:0065007	to	biological regulation
-21144	21146	GO:0009987	to	cellular process
-21546	21554	GO:0003824	proteins	catalytic activity
-21627	21636	GO:0044464	cytoplasm	cell part
-21845	21853	GO:0003824	proteins	catalytic activity
-22634	22643	GO:0003824	glutamine	catalytic activity
-22644	22646	GO:0065007	to	biological regulation
-22644	22646	GO:0009987	to	cellular process
-22814	22821	GO:0009987	reduced	cellular process
-22814	22821	GO:0008152	reduced	metabolic process
-22814	22821	GO:0005215	reduced	transporter activity
-22814	22821	GO:0051234	reduced	establishment of localization
-22946	22948	GO:0065007	to	biological regulation
-22946	22948	GO:0009987	to	cellular process
-22955	22966	GO:0008152	translation	metabolic process
-22955	22966	GO:0009987	translation	cellular process
-23016	23024	GO:0003824	proteins	catalytic activity
-23073	23075	GO:0065007	to	biological regulation
-23073	23075	GO:0009987	to	cellular process
-23130	23137	GO:0003824	protein	catalytic activity
-23680	23682	GO:0065007	to	biological regulation
-23680	23682	GO:0009987	to	cellular process
-23771	23779	GO:0003824	proteins	catalytic activity
-23771	23778	GO:0003824	protein	catalytic activity
-23834	23851	GO:0009987	nonsense-mediated	cellular process
-23834	23851	GO:0008152	nonsense-mediated	metabolic process
-23834	23857	GO:0009987	nonsense-mediated decay	cellular process
-23834	23857	GO:0008152	nonsense-mediated decay	metabolic process
-24244	24254	GO:0023052	signalling	signaling
-24259	24268	GO:0051234	transport	establishment of localization
-24770	24780	GO:0023052	signalling	signaling
-24792	24794	GO:0065007	to	biological regulation
-24792	24794	GO:0009987	to	cellular process
-24816	24831	GO:0008152	gene expression	metabolic process
-24835	24842	GO:0065007	neurons	biological regulation
-24835	24842	GO:0016265	neurons	death
-24835	24842	GO:0009987	neurons	cellular process
-25194	25201	GO:0003824	Protein	catalytic activity
-25240	25242	GO:0065007	to	biological regulation
-25240	25242	GO:0009987	to	cellular process
-25488	25495	GO:0003824	protein	catalytic activity
-25635	25637	GO:0065007	to	biological regulation
-25635	25637	GO:0009987	to	cellular process
-25762	25769	GO:0003824	protein	catalytic activity
-25776	25778	GO:0065007	to	biological regulation
-25776	25778	GO:0009987	to	cellular process
-25794	25805	GO:0005488	DNA binding	binding
-25798	25805	GO:0005488	binding	binding
-25897	25904	GO:0003824	protein	catalytic activity
-26338	26340	GO:0065007	to	biological regulation
-26338	26340	GO:0009987	to	cellular process
-26338	26340	GO:0065007	to	biological regulation
-26338	26340	GO:0009987	to	cellular process
-27116	27119	GO:0032991	TCC	macromolecular complex
-27116	27119	GO:0044464	TCC	cell part
-27192	27194	GO:0065007	to	biological regulation
-27192	27194	GO:0009987	to	cellular process
-27478	27486	GO:0003824	proteins	catalytic activity
-27493	27495	GO:0065007	to	biological regulation
-27493	27495	GO:0009987	to	cellular process
-27493	27495	GO:0065007	to	biological regulation
-27493	27495	GO:0009987	to	cellular process
-27677	27684	GO:0003824	protein	catalytic activity
-27691	27693	GO:0065007	to	biological regulation
-27691	27693	GO:0009987	to	cellular process
-27703	27714	GO:0005488	DNA binding	binding
-27707	27714	GO:0005488	binding	binding
-27755	27762	GO:0003824	protein	catalytic activity
-27769	27771	GO:0065007	to	biological regulation
-27769	27771	GO:0009987	to	cellular process
-27866	27872	GO:0040007	growth	growth
-27866	27872	GO:0040007	growth	growth
-27934	27940	GO:0040007	growth	growth
-28081	28083	GO:0065007	to	biological regulation
-28081	28083	GO:0009987	to	cellular process
-28109	28111	GO:0065007	to	biological regulation
-28109	28111	GO:0009987	to	cellular process
-28243	28245	GO:0065007	to	biological regulation
-28243	28245	GO:0009987	to	cellular process
-28390	28395	GO:0005623	cells	cell
-28557	28559	GO:0065007	to	biological regulation
-28557	28559	GO:0009987	to	cellular process
-28772	28774	GO:0065007	to	biological regulation
-28772	28774	GO:0009987	to	cellular process
-28899	28904	GO:0005623	cells	cell
-29072	29074	GO:0065007	To	biological regulation
-29072	29074	GO:0009987	To	cellular process
-29461	29463	GO:0065007	to	biological regulation
-29461	29463	GO:0009987	to	cellular process
-29555	29557	GO:0065007	To	biological regulation
-29555	29557	GO:0009987	To	cellular process
-29777	29779	GO:0065007	to	biological regulation
-29777	29779	GO:0009987	to	cellular process
-29947	29950	GO:0032991	TCC	macromolecular complex
-29947	29950	GO:0044464	TCC	cell part
-30797	30818	GO:0044464	post-synaptic density	cell part
-30797	30818	GO:0044456	post-synaptic density	synapse part
-30797	30818	GO:0044422	post-synaptic density	organelle part
+418	426	GO:0003824	proteins	catalytic activity
+470	478	GO:0003824	proteins	catalytic activity
+548	550	GO:0065007	to	biological regulation
+548	550	GO:0009987	to	cellular process
+621	628	GO:0003824	protein	catalytic activity
+685	687	GO:0065007	to	biological regulation
+685	687	GO:0009987	to	cellular process
+713	721	GO:0003824	proteins	catalytic activity
+856	864	GO:0003824	proteins	catalytic activity
+886	907	GO:0044464	post-synaptic density	cell part
+886	907	GO:0044456	post-synaptic density	synapse part
+886	907	GO:0044422	post-synaptic density	organelle part
+914	921	GO:0003824	protein	catalytic activity
+981	988	GO:0003824	protein	catalytic activity
+1092	1099	GO:0009987	reduced	cellular process
+1092	1099	GO:0008152	reduced	metabolic process
+1092	1099	GO:0005215	reduced	transporter activity
+1092	1099	GO:0051234	reduced	establishment of localization
+1341	1343	GO:0065007	to	biological regulation
+1341	1343	GO:0009987	to	cellular process
+1491	1498	GO:0003824	protein	catalytic activity
+2167	2184	GO:0032502	brain development	developmental process
+2297	2306	GO:0008152	formation	metabolic process
+2357	2361	GO:0044464	axon	cell part
+2357	2370	GO:0009987	axon guidance	cellular process
+2395	2402	GO:0065007	neurons	biological regulation
+2395	2402	GO:0016265	neurons	death
+2395	2402	GO:0009987	neurons	cellular process
+2408	2412	GO:0016265	glia	death
+2408	2412	GO:0009987	glia	cellular process
+2421	2439	GO:0009987	neuronal migration	cellular process
+2421	2439	GO:0040011	neuronal migration	locomotion
+2521	2538	GO:0032502	brain development	developmental process
+3053	3061	GO:0003824	proteins	catalytic activity
+3187	3189	GO:0065007	to	biological regulation
+3187	3189	GO:0009987	to	cellular process
+3260	3267	GO:0003824	proline	catalytic activity
+3422	3424	GO:0065007	to	biological regulation
+3422	3424	GO:0009987	to	cellular process
+3474	3481	GO:0003824	protein	catalytic activity
+3772	3795	GO:0032502	developmental processes	developmental process
+4191	4195	GO:0005623	cell	cell
+4452	4454	GO:0065007	to	biological regulation
+4452	4454	GO:0009987	to	cellular process
+4549	4562	GO:0009987	transcription	cellular process
+4549	4562	GO:0008152	transcription	metabolic process
+4640	4648	GO:0003824	proteins	catalytic activity
+4649	4651	GO:0065007	to	biological regulation
+4649	4651	GO:0009987	to	cellular process
+4772	4785	GO:0009987	transcription	cellular process
+4772	4785	GO:0008152	transcription	metabolic process
+4794	4796	GO:0065007	To	biological regulation
+4794	4796	GO:0009987	To	cellular process
+5037	5045	GO:0003824	proteins	catalytic activity
+5219	5227	GO:0003824	proteins	catalytic activity
+5335	5337	GO:0065007	to	biological regulation
+5335	5337	GO:0009987	to	cellular process
+5410	5417	GO:0003824	protein	catalytic activity
+5546	5554	GO:0003824	proteins	catalytic activity
+5621	5629	GO:0003824	proteins	catalytic activity
+5858	5865	GO:0003824	protein	catalytic activity
+6135	6137	GO:0065007	to	biological regulation
+6135	6137	GO:0009987	to	cellular process
+6834	6841	GO:0003824	protein	catalytic activity
+6874	6876	GO:0065007	to	biological regulation
+6874	6876	GO:0009987	to	cellular process
+7182	7184	GO:0065007	to	biological regulation
+7182	7184	GO:0009987	to	cellular process
+7298	7300	GO:0065007	to	biological regulation
+7298	7300	GO:0009987	to	cellular process
+7298	7300	GO:0065007	to	biological regulation
+7298	7300	GO:0009987	to	cellular process
+7306	7308	GO:0065007	to	biological regulation
+7306	7308	GO:0009987	to	cellular process
+7761	7763	GO:0065007	to	biological regulation
+7761	7763	GO:0009987	to	cellular process
+8306	8317	GO:0005488	DNA binding	binding
+8310	8317	GO:0005488	binding	binding
+8335	8337	GO:0065007	to	biological regulation
+8335	8337	GO:0009987	to	cellular process
+8466	8473	GO:0003824	protein	catalytic activity
+9065	9072	GO:0003824	protein	catalytic activity
+9506	9527	GO:0044464	post-synaptic density	cell part
+9506	9527	GO:0044456	post-synaptic density	synapse part
+9506	9527	GO:0044422	post-synaptic density	organelle part
+9534	9542	GO:0003824	proteins	catalytic activity
+9581	9588	GO:0003824	protein	catalytic activity
+9581	9598	GO:0032991	protein complexes	macromolecular complex
+9652	9665	GO:0044464	intracellular	cell part
+9652	9665	GO:0051179	intracellular	localization
+9652	9665	GO:0009987	intracellular	cellular process
+9681	9689	GO:0003824	proteins	catalytic activity
+9694	9704	GO:0043226	organelles	organelle
+9708	9715	GO:0065007	neurons	biological regulation
+9708	9715	GO:0016265	neurons	death
+9708	9715	GO:0009987	neurons	cellular process
+9768	9775	GO:0003824	protein	catalytic activity
+9768	9776	GO:0003824	proteins	catalytic activity
+10000	10002	GO:0065007	To	biological regulation
+10000	10002	GO:0009987	To	cellular process
+10543	10545	GO:0065007	to	biological regulation
+10543	10545	GO:0009987	to	cellular process
+11301	11309	GO:0003824	proteins	catalytic activity
+11463	11471	GO:0003824	proteins	catalytic activity
+11543	11551	GO:0003824	proteins	catalytic activity
+11832	11834	GO:0065007	to	biological regulation
+11832	11834	GO:0009987	to	cellular process
+11897	11899	GO:0065007	to	biological regulation
+11897	11899	GO:0009987	to	cellular process
+12161	12163	GO:0065007	to	biological regulation
+12161	12163	GO:0009987	to	cellular process
+12728	12734	GO:0040007	growth	growth
+13017	13019	GO:0065007	to	biological regulation
+13017	13019	GO:0009987	to	cellular process
+13061	13063	GO:0065007	to	biological regulation
+13061	13063	GO:0009987	to	cellular process
+13061	13063	GO:0065007	to	biological regulation
+13061	13063	GO:0009987	to	cellular process
+15225	15234	GO:0003824	glutamine	catalytic activity
+15235	15237	GO:0065007	to	biological regulation
+15235	15237	GO:0009987	to	cellular process
+15619	15621	GO:0065007	to	biological regulation
+15619	15621	GO:0009987	to	cellular process
+15728	15735	GO:0003824	protein	catalytic activity
+15939	15948	GO:0032501	cognition	multicellular organismal process
+16300	16302	GO:0065007	to	biological regulation
+16300	16302	GO:0009987	to	cellular process
+16374	16381	GO:0003824	protein	catalytic activity
+16454	16456	GO:0065007	to	biological regulation
+16454	16456	GO:0009987	to	cellular process
+16892	16899	GO:0003824	protein	catalytic activity
+17187	17194	GO:0009987	reduced	cellular process
+17187	17194	GO:0008152	reduced	metabolic process
+17187	17194	GO:0005215	reduced	transporter activity
+17187	17194	GO:0051234	reduced	establishment of localization
+17571	17578	GO:0003824	protein	catalytic activity
+17773	17781	GO:0003824	proteins	catalytic activity
+18227	18229	GO:0065007	to	biological regulation
+18227	18229	GO:0009987	to	cellular process
+18566	18573	GO:0065007	neurons	biological regulation
+18566	18573	GO:0016265	neurons	death
+18566	18573	GO:0009987	neurons	cellular process
+18593	18595	GO:0065007	to	biological regulation
+18593	18595	GO:0009987	to	cellular process
+18596	18602	GO:0060089	type I	molecular transducer activity
+18596	18602	GO:0003824	type I	catalytic activity
+18603	18635	GO:0023046	metabotropic glutamate receptors	signaling process
+18603	18635	GO:0023052	metabotropic glutamate receptors	signaling
+18603	18635	GO:0065007	metabotropic glutamate receptors	biological regulation
+18651	18666	GO:0003824	phospholipase C	catalytic activity
+18667	18669	GO:0065007	to	biological regulation
+18667	18669	GO:0009987	to	cellular process
+18714	18727	GO:0044464	intracellular	cell part
+18714	18727	GO:0051179	intracellular	localization
+18714	18727	GO:0009987	intracellular	cellular process
+18728	18736	GO:0043226	vesicles	organelle
+18788	18796	GO:0003824	proteins	catalytic activity
+18877	18887	GO:0023052	signalling	signaling
+18985	18993	GO:0003824	proteins	catalytic activity
+19012	19020	GO:0003824	proteins	catalytic activity
+19050	19054	GO:0044464	axon	cell part
+19050	19063	GO:0009987	axon guidance	cellular process
+19071	19088	GO:0032502	brain development	developmental process
+19122	19135	GO:0044464	intracellular	cell part
+19122	19135	GO:0051179	intracellular	localization
+19122	19135	GO:0009987	intracellular	cellular process
+19122	19145	GO:0051234	intracellular transport	establishment of localization
+19136	19145	GO:0051234	transport	establishment of localization
+19146	19153	GO:0003824	protein	catalytic activity
+19146	19163	GO:0032991	protein complexes	macromolecular complex
+19292	19300	GO:0003824	proteins	catalytic activity
+19302	19312	GO:0043226	organelles	organelle
+19317	19325	GO:0043226	vesicles	organelle
+19329	19336	GO:0065007	neurons	biological regulation
+19329	19336	GO:0016265	neurons	death
+19329	19336	GO:0009987	neurons	cellular process
+19401	19403	GO:0065007	to	biological regulation
+19401	19403	GO:0009987	to	cellular process
+19421	19429	GO:0003824	proteins	catalytic activity
+19475	19482	GO:0003824	protein	catalytic activity
+19514	19522	GO:0003824	synthase	catalytic activity
+19579	19586	GO:0003824	protein	catalytic activity
+19691	19698	GO:0003824	protein	catalytic activity
+19834	19842	GO:0003824	proteins	catalytic activity
+19882	19889	GO:0003824	protein	catalytic activity
+19915	19917	GO:0065007	to	biological regulation
+19915	19917	GO:0009987	to	cellular process
+20064	20075	GO:0008152	degradation	metabolic process
+20232	20234	GO:0065007	to	biological regulation
+20232	20234	GO:0009987	to	cellular process
+20346	20356	GO:0023052	signalling	signaling
+20375	20390	GO:0008152	gene expression	metabolic process
+20442	20449	GO:0005488	binding	binding
+20450	20452	GO:0065007	to	biological regulation
+20450	20452	GO:0009987	to	cellular process
+20516	20524	GO:0003824	proteins	catalytic activity
+20598	20600	GO:0065007	to	biological regulation
+20598	20600	GO:0009987	to	cellular process
+20690	20699	GO:0051234	transport	establishment of localization
+20725	20743	GO:0044464	actin cytoskeleton	cell part
+20725	20743	GO:0043226	actin cytoskeleton	organelle
+20731	20743	GO:0043226	cytoskeleton	organelle
+20731	20743	GO:0044464	cytoskeleton	cell part
+20772	20781	GO:0051234	transport	establishment of localization
+20792	20803	GO:0032991	microtubule	macromolecular complex
+20792	20803	GO:0044464	microtubule	cell part
+20792	20803	GO:0044422	microtubule	organelle part
+20837	20844	GO:0043226	nucleus	organelle
+20837	20844	GO:0044464	nucleus	cell part
+20881	20888	GO:0003824	protein	catalytic activity
+20881	20900	GO:0008152	protein degradation	metabolic process
+20889	20900	GO:0008152	degradation	metabolic process
+20934	20941	GO:0003824	protein	catalytic activity
+20983	20996	GO:0009987	transcription	cellular process
+20983	20996	GO:0008152	transcription	metabolic process
+21014	21035	GO:0044464	post-synaptic density	cell part
+21014	21035	GO:0044456	post-synaptic density	synapse part
+21014	21035	GO:0044422	post-synaptic density	organelle part
+21096	21103	GO:0045202	synapse	synapse
+21112	21119	GO:0043226	nucleus	organelle
+21112	21119	GO:0044464	nucleus	cell part
+21159	21166	GO:0003824	protein	catalytic activity
+21240	21242	GO:0065007	to	biological regulation
+21240	21242	GO:0009987	to	cellular process
+21644	21652	GO:0003824	proteins	catalytic activity
+21725	21734	GO:0044464	cytoplasm	cell part
+21943	21951	GO:0003824	proteins	catalytic activity
+22734	22743	GO:0003824	glutamine	catalytic activity
+22744	22746	GO:0065007	to	biological regulation
+22744	22746	GO:0009987	to	cellular process
+22914	22921	GO:0009987	reduced	cellular process
+22914	22921	GO:0008152	reduced	metabolic process
+22914	22921	GO:0005215	reduced	transporter activity
+22914	22921	GO:0051234	reduced	establishment of localization
+23046	23048	GO:0065007	to	biological regulation
+23046	23048	GO:0009987	to	cellular process
+23055	23066	GO:0008152	translation	metabolic process
+23055	23066	GO:0009987	translation	cellular process
+23116	23124	GO:0003824	proteins	catalytic activity
+23173	23175	GO:0065007	to	biological regulation
+23173	23175	GO:0009987	to	cellular process
+23230	23237	GO:0003824	protein	catalytic activity
+23784	23786	GO:0065007	to	biological regulation
+23784	23786	GO:0009987	to	cellular process
+23875	23883	GO:0003824	proteins	catalytic activity
+23875	23882	GO:0003824	protein	catalytic activity
+23938	23955	GO:0009987	nonsense-mediated	cellular process
+23938	23955	GO:0008152	nonsense-mediated	metabolic process
+23938	23961	GO:0009987	nonsense-mediated decay	cellular process
+23938	23961	GO:0008152	nonsense-mediated decay	metabolic process
+24348	24358	GO:0023052	signalling	signaling
+24363	24372	GO:0051234	transport	establishment of localization
+24878	24888	GO:0023052	signalling	signaling
+24900	24902	GO:0065007	to	biological regulation
+24900	24902	GO:0009987	to	cellular process
+24924	24939	GO:0008152	gene expression	metabolic process
+24943	24950	GO:0065007	neurons	biological regulation
+24943	24950	GO:0016265	neurons	death
+24943	24950	GO:0009987	neurons	cellular process
+25308	25315	GO:0003824	Protein	catalytic activity
+25354	25356	GO:0065007	to	biological regulation
+25354	25356	GO:0009987	to	cellular process
+25606	25613	GO:0003824	protein	catalytic activity
+25753	25755	GO:0065007	to	biological regulation
+25753	25755	GO:0009987	to	cellular process
+25880	25887	GO:0003824	protein	catalytic activity
+25894	25896	GO:0065007	to	biological regulation
+25894	25896	GO:0009987	to	cellular process
+25912	25923	GO:0005488	DNA binding	binding
+25916	25923	GO:0005488	binding	binding
+26015	26022	GO:0003824	protein	catalytic activity
+26456	26458	GO:0065007	to	biological regulation
+26456	26458	GO:0009987	to	cellular process
+26456	26458	GO:0065007	to	biological regulation
+26456	26458	GO:0009987	to	cellular process
+27238	27241	GO:0032991	TCC	macromolecular complex
+27238	27241	GO:0044464	TCC	cell part
+27314	27316	GO:0065007	to	biological regulation
+27314	27316	GO:0009987	to	cellular process
+27604	27612	GO:0003824	proteins	catalytic activity
+27619	27621	GO:0065007	to	biological regulation
+27619	27621	GO:0009987	to	cellular process
+27619	27621	GO:0065007	to	biological regulation
+27619	27621	GO:0009987	to	cellular process
+27803	27810	GO:0003824	protein	catalytic activity
+27817	27819	GO:0065007	to	biological regulation
+27817	27819	GO:0009987	to	cellular process
+27829	27840	GO:0005488	DNA binding	binding
+27833	27840	GO:0005488	binding	binding
+27881	27888	GO:0003824	protein	catalytic activity
+27895	27897	GO:0065007	to	biological regulation
+27895	27897	GO:0009987	to	cellular process
+27992	27998	GO:0040007	growth	growth
+27992	27998	GO:0040007	growth	growth
+28060	28066	GO:0040007	growth	growth
+28207	28209	GO:0065007	to	biological regulation
+28207	28209	GO:0009987	to	cellular process
+28235	28237	GO:0065007	to	biological regulation
+28235	28237	GO:0009987	to	cellular process
+28369	28371	GO:0065007	to	biological regulation
+28369	28371	GO:0009987	to	cellular process
+28518	28523	GO:0005623	cells	cell
+28685	28687	GO:0065007	to	biological regulation
+28685	28687	GO:0009987	to	cellular process
+28900	28902	GO:0065007	to	biological regulation
+28900	28902	GO:0009987	to	cellular process
+29031	29036	GO:0005623	cells	cell
+29206	29208	GO:0065007	To	biological regulation
+29206	29208	GO:0009987	To	cellular process
+29595	29597	GO:0065007	to	biological regulation
+29595	29597	GO:0009987	to	cellular process
+29693	29695	GO:0065007	To	biological regulation
+29693	29695	GO:0009987	To	cellular process
+29915	29917	GO:0065007	to	biological regulation
+29915	29917	GO:0009987	to	cellular process
+30085	30088	GO:0032991	TCC	macromolecular complex
+30085	30088	GO:0044464	TCC	cell part
+30939	30960	GO:0044464	post-synaptic density	cell part
+30939	30960	GO:0044456	post-synaptic density	synapse part
+30939	30960	GO:0044422	post-synaptic density	organelle part

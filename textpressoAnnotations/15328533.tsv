@@ -1,361 +1,361 @@
 StartIndex	EndIndex	GO:ID	Term	OntologyTerm
-169	182	GO:0044422	mitochondrial	organelle part
-169	182	GO:0032991	mitochondrial	macromolecular complex
-169	182	GO:0044464	mitochondrial	cell part
-228	243	GO:0008152	gene expression	metabolic process
-257	270	GO:0009987	transcription	cellular process
-257	270	GO:0008152	transcription	metabolic process
-311	317	GO:0009987	direct	cellular process
-311	317	GO:0008152	direct	metabolic process
-407	409	GO:0065007	to	biological regulation
-407	409	GO:0009987	to	cellular process
-521	531	GO:0043226	peroxisome	organelle
-521	531	GO:0044464	peroxisome	cell part
-541	543	GO:0065007	to	biological regulation
-541	543	GO:0009987	to	cellular process
-646	652	GO:0060089	type I	molecular transducer activity
-646	652	GO:0003824	type I	catalytic activity
-733	739	GO:0060089	type I	molecular transducer activity
-733	739	GO:0003824	type I	catalytic activity
-746	761	GO:0008152	gene expression	metabolic process
-844	846	GO:0065007	to	biological regulation
-844	846	GO:0009987	to	cellular process
-1140	1146	GO:0060089	type I	molecular transducer activity
-1140	1146	GO:0003824	type I	catalytic activity
-1167	1174	GO:0065007	type II	biological regulation
-1167	1174	GO:0003824	type II	catalytic activity
-1167	1174	GO:0060089	type II	molecular transducer activity
-1167	1174	GO:0008152	type II	metabolic process
-1244	1246	GO:0065007	to	biological regulation
-1244	1246	GO:0009987	to	cellular process
-1260	1270	GO:0008152	metabolism	metabolic process
-1291	1293	GO:0065007	to	biological regulation
-1291	1293	GO:0009987	to	cellular process
-1303	1309	GO:0005488	Type I	binding
-1303	1309	GO:0060089	Type I	molecular transducer activity
-1303	1309	GO:0003824	Type I	catalytic activity
-1354	1374	GO:0009987	oxidative metabolism	cellular process
-1354	1374	GO:0008152	oxidative metabolism	metabolic process
-1364	1374	GO:0008152	metabolism	metabolic process
-1449	1452	GO:0003824	ATP	catalytic activity
-1486	1493	GO:0003824	Type II	catalytic activity
-1486	1493	GO:0060089	Type II	molecular transducer activity
-1486	1493	GO:0065007	Type II	biological regulation
-1486	1493	GO:0005488	Type II	binding
-1486	1493	GO:0008152	Type II	metabolic process
-1587	1600	GO:0044422	mitochondrial	organelle part
-1587	1600	GO:0032991	mitochondrial	macromolecular complex
-1587	1600	GO:0044464	mitochondrial	cell part
-1651	1661	GO:0008152	metabolism	metabolic process
-1708	1710	GO:0065007	to	biological regulation
-1708	1710	GO:0009987	to	cellular process
-1769	1775	GO:0060089	type I	molecular transducer activity
-1769	1775	GO:0003824	type I	catalytic activity
-1844	1846	GO:0065007	to	biological regulation
-1844	1846	GO:0009987	to	cellular process
-1996	1998	GO:0065007	to	biological regulation
-1996	1998	GO:0009987	to	cellular process
-2186	2192	GO:0060089	type I	molecular transducer activity
-2186	2192	GO:0003824	type I	catalytic activity
-2195	2197	GO:0065007	to	biological regulation
-2195	2197	GO:0009987	to	cellular process
-2248	2255	GO:0005215	calcium	transporter activity
-2248	2265	GO:0023052	calcium signaling	signaling
-2248	2265	GO:0065007	calcium signaling	biological regulation
-2248	2265	GO:0023046	calcium signaling	signaling process
-2256	2265	GO:0023052	signaling	signaling
-2256	2273	GO:0023052	signaling pathway	signaling
-2363	2373	GO:0043226	Peroxisome	organelle
-2363	2373	GO:0044464	Peroxisome	cell part
-2383	2385	GO:0065007	to	biological regulation
-2383	2385	GO:0009987	to	cellular process
-2402	2404	GO:0065007	to	biological regulation
-2402	2404	GO:0009987	to	cellular process
-2833	2839	GO:0060089	type I	molecular transducer activity
-2833	2839	GO:0003824	type I	catalytic activity
-2920	2922	GO:0065007	to	biological regulation
-2920	2922	GO:0009987	to	cellular process
-2928	2935	GO:0009987	reduced	cellular process
-2928	2935	GO:0008152	reduced	metabolic process
-2928	2935	GO:0005215	reduced	transporter activity
-2928	2935	GO:0051234	reduced	establishment of localization
-3017	3023	GO:0060089	type I	molecular transducer activity
-3017	3023	GO:0003824	type I	catalytic activity
-3112	3118	GO:0008152	type 2	metabolic process
-3112	3118	GO:0065007	type 2	biological regulation
-3251	3253	GO:0065007	to	biological regulation
-3251	3253	GO:0009987	to	cellular process
-3282	3289	GO:0009987	reduced	cellular process
-3282	3289	GO:0008152	reduced	metabolic process
-3282	3289	GO:0005215	reduced	transporter activity
-3282	3289	GO:0051234	reduced	establishment of localization
-3381	3391	GO:0043226	peroxisome	organelle
-3381	3391	GO:0044464	peroxisome	cell part
-3444	3457	GO:0009987	transcription	cellular process
-3444	3457	GO:0008152	transcription	metabolic process
-3466	3468	GO:0065007	to	biological regulation
-3466	3468	GO:0009987	to	cellular process
-3809	3818	GO:0008152	formation	metabolic process
-3833	3839	GO:0060089	type I	molecular transducer activity
-3833	3839	GO:0003824	type I	catalytic activity
-4010	4012	GO:0065007	to	biological regulation
-4010	4012	GO:0009987	to	cellular process
-4302	4308	GO:0060089	type I	molecular transducer activity
-4302	4308	GO:0003824	type I	catalytic activity
-4334	4336	GO:0065007	to	biological regulation
-4334	4336	GO:0009987	to	cellular process
-4337	4343	GO:0060089	type I	molecular transducer activity
-4337	4343	GO:0003824	type I	catalytic activity
-4399	4406	GO:0065007	type II	biological regulation
-4399	4406	GO:0003824	type II	catalytic activity
-4399	4406	GO:0060089	type II	molecular transducer activity
-4399	4406	GO:0008152	type II	metabolic process
-4597	4604	GO:0003824	protein	catalytic activity
-4623	4625	GO:0065007	To	biological regulation
-4623	4625	GO:0009987	To	cellular process
-4716	4729	GO:0044422	mitochondrial	organelle part
-4716	4729	GO:0032991	mitochondrial	macromolecular complex
-4716	4729	GO:0044464	mitochondrial	cell part
-4843	4845	GO:0065007	to	biological regulation
-4843	4845	GO:0009987	to	cellular process
-5259	5261	GO:0065007	to	biological regulation
-5259	5261	GO:0009987	to	cellular process
-5359	5366	GO:0003824	protein	catalytic activity
-5399	5401	GO:0065007	to	biological regulation
-5399	5401	GO:0009987	to	cellular process
-5505	5512	GO:0003824	protein	catalytic activity
-5663	5665	GO:0065007	to	biological regulation
-5663	5665	GO:0009987	to	cellular process
-5666	5672	GO:0060089	type I	molecular transducer activity
-5666	5672	GO:0003824	type I	catalytic activity
-5764	5770	GO:0005488	Type I	binding
-5764	5770	GO:0060089	Type I	molecular transducer activity
-5764	5770	GO:0003824	Type I	catalytic activity
-5812	5819	GO:0065007	type II	biological regulation
-5812	5819	GO:0003824	type II	catalytic activity
-5812	5819	GO:0060089	type II	molecular transducer activity
-5812	5819	GO:0008152	type II	metabolic process
-5843	5846	GO:0023046	red	signaling process
-5843	5846	GO:0050896	red	response to stimulus
-5843	5846	GO:0009987	red	cellular process
-5843	5846	GO:0065007	red	biological regulation
-5904	5911	GO:0003824	protein	catalytic activity
-6077	6083	GO:0060089	type I	molecular transducer activity
-6077	6083	GO:0003824	type I	catalytic activity
-6292	6298	GO:0060089	type I	molecular transducer activity
-6292	6298	GO:0003824	type I	catalytic activity
-6378	6391	GO:0044422	mitochondrial	organelle part
-6378	6391	GO:0032991	mitochondrial	macromolecular complex
-6378	6391	GO:0044464	mitochondrial	cell part
-6473	6475	GO:0065007	to	biological regulation
-6473	6475	GO:0009987	to	cellular process
-6487	6500	GO:0044422	mitochondrial	organelle part
-6487	6500	GO:0032991	mitochondrial	macromolecular complex
-6487	6500	GO:0044464	mitochondrial	cell part
-6516	6533	GO:0008152	electron transfer	metabolic process
-6516	6533	GO:0009987	electron transfer	cellular process
-6535	6545	GO:0003824	cytochrome	catalytic activity
-6535	6545	GO:0003824	cytochrome	catalytic activity
-6565	6572	GO:0003824	oxidase	catalytic activity
-6691	6693	GO:0065007	to	biological regulation
-6691	6693	GO:0009987	to	cellular process
-6697	6703	GO:0009987	direct	cellular process
-6697	6703	GO:0008152	direct	metabolic process
-6809	6822	GO:0044422	mitochondrial	organelle part
-6809	6822	GO:0032991	mitochondrial	macromolecular complex
-6809	6822	GO:0044464	mitochondrial	cell part
-6983	6996	GO:0044422	mitochondrial	organelle part
-6983	6996	GO:0032991	mitochondrial	macromolecular complex
-6983	6996	GO:0044464	mitochondrial	cell part
-7058	7071	GO:0044464	Mitochondrial	cell part
-7058	7071	GO:0032991	Mitochondrial	macromolecular complex
-7058	7071	GO:0044422	Mitochondrial	organelle part
-7204	7217	GO:0044422	mitochondrial	organelle part
-7204	7217	GO:0032991	mitochondrial	macromolecular complex
-7204	7217	GO:0044464	mitochondrial	cell part
-7398	7404	GO:0060089	type I	molecular transducer activity
-7398	7404	GO:0003824	type I	catalytic activity
-7411	7419	GO:0003824	proteins	catalytic activity
-7443	7453	GO:0003824	cytochrome	catalytic activity
-7539	7546	GO:0003824	protein	catalytic activity
-7568	7574	GO:0060089	type I	molecular transducer activity
-7568	7574	GO:0003824	type I	catalytic activity
-7677	7684	GO:0003824	protein	catalytic activity
-7706	7713	GO:0065007	type II	biological regulation
-7706	7713	GO:0003824	type II	catalytic activity
-7706	7713	GO:0060089	type II	molecular transducer activity
-7706	7713	GO:0008152	type II	metabolic process
-8075	8083	GO:0003824	proteins	catalytic activity
-8085	8098	GO:0044422	mitochondrial	organelle part
-8085	8098	GO:0032991	mitochondrial	macromolecular complex
-8085	8098	GO:0044464	mitochondrial	cell part
-8258	8264	GO:0060089	type I	molecular transducer activity
-8258	8264	GO:0003824	type I	catalytic activity
-8564	8566	GO:0065007	To	biological regulation
-8564	8566	GO:0009987	To	cellular process
-9277	9281	GO:0005623	cell	cell
-9327	9329	GO:0065007	to	biological regulation
-9327	9329	GO:0009987	to	cellular process
-9782	9788	GO:0060089	type I	molecular transducer activity
-9782	9788	GO:0003824	type I	catalytic activity
-9888	9895	GO:0009987	reduced	cellular process
-9888	9895	GO:0008152	reduced	metabolic process
-9888	9895	GO:0005215	reduced	transporter activity
-9888	9895	GO:0051234	reduced	establishment of localization
-9940	9942	GO:0065007	to	biological regulation
-9940	9942	GO:0009987	to	cellular process
-10276	10282	GO:0060089	type I	molecular transducer activity
-10276	10282	GO:0003824	type I	catalytic activity
-10352	10354	GO:0065007	to	biological regulation
-10352	10354	GO:0009987	to	cellular process
-10398	10404	GO:0060089	type I	molecular transducer activity
-10398	10404	GO:0003824	type I	catalytic activity
-10470	10472	GO:0065007	to	biological regulation
-10470	10472	GO:0009987	to	cellular process
-10470	10472	GO:0065007	to	biological regulation
-10470	10472	GO:0009987	to	cellular process
-10627	10629	GO:0065007	to	biological regulation
-10627	10629	GO:0009987	to	cellular process
-10627	10629	GO:0065007	to	biological regulation
-10627	10629	GO:0009987	to	cellular process
-12276	12289	GO:0044422	mitochondrial	organelle part
-12276	12289	GO:0032991	mitochondrial	macromolecular complex
-12276	12289	GO:0044464	mitochondrial	cell part
-12332	12338	GO:0060089	type I	molecular transducer activity
-12332	12338	GO:0003824	type I	catalytic activity
-12777	12783	GO:0060089	type I	molecular transducer activity
-12777	12783	GO:0003824	type I	catalytic activity
-12802	12804	GO:0065007	to	biological regulation
-12802	12804	GO:0009987	to	cellular process
-13010	13021	GO:0032502	innervation	developmental process
-13025	13027	GO:0065007	to	biological regulation
-13025	13027	GO:0009987	to	cellular process
-13109	13131	GO:0032501	physiological response	multicellular organismal process
-13109	13131	GO:0050896	physiological response	response to stimulus
-13272	13274	GO:0065007	To	biological regulation
-13272	13274	GO:0009987	To	cellular process
-13360	13362	GO:0065007	to	biological regulation
-13360	13362	GO:0009987	to	cellular process
-13641	13654	GO:0009987	transcription	cellular process
-13641	13654	GO:0008152	transcription	metabolic process
-13658	13660	GO:0065007	to	biological regulation
-13658	13660	GO:0009987	to	cellular process
-13698	13700	GO:0065007	to	biological regulation
-13698	13700	GO:0009987	to	cellular process
-13781	13783	GO:0065007	to	biological regulation
-13781	13783	GO:0009987	to	cellular process
-13809	13815	GO:0009987	direct	cellular process
-13809	13815	GO:0008152	direct	metabolic process
-13958	13960	GO:0065007	to	biological regulation
-13958	13960	GO:0009987	to	cellular process
-13958	13960	GO:0065007	to	biological regulation
-13958	13960	GO:0009987	to	cellular process
-15031	15040	GO:0023052	signaling	signaling
-15141	15143	GO:0065007	to	biological regulation
-15141	15143	GO:0009987	to	cellular process
-15175	15177	GO:0065007	to	biological regulation
-15175	15177	GO:0009987	to	cellular process
-15255	15257	GO:0065007	to	biological regulation
-15255	15257	GO:0009987	to	cellular process
-15346	15364	GO:0009987	glucose metabolism	cellular process
-15346	15364	GO:0008152	glucose metabolism	metabolic process
-15354	15364	GO:0008152	metabolism	metabolic process
-15430	15432	GO:0065007	to	biological regulation
-15430	15432	GO:0009987	to	cellular process
-15644	15662	GO:0009987	glucose metabolism	cellular process
-15644	15662	GO:0008152	glucose metabolism	metabolic process
-15652	15662	GO:0008152	metabolism	metabolic process
-15776	15778	GO:0065007	to	biological regulation
-15776	15778	GO:0009987	to	cellular process
-15810	15812	GO:0065007	to	biological regulation
-15810	15812	GO:0009987	to	cellular process
-15826	15839	GO:0044422	mitochondrial	organelle part
-15826	15839	GO:0032991	mitochondrial	macromolecular complex
-15826	15839	GO:0044464	mitochondrial	cell part
-15908	15910	GO:0065007	to	biological regulation
-15908	15910	GO:0009987	to	cellular process
-15921	15934	GO:0044422	mitochondrial	organelle part
-15921	15934	GO:0032991	mitochondrial	macromolecular complex
-15921	15934	GO:0044464	mitochondrial	cell part
-16056	16061	GO:0032502	aging	developmental process
-16152	16154	GO:0065007	to	biological regulation
-16152	16154	GO:0009987	to	cellular process
-16511	16513	GO:0065007	to	biological regulation
-16511	16513	GO:0009987	to	cellular process
-16744	16748	GO:0051234	poly _ORB_ A	establishment of localization
-16744	16748	GO:0003824	poly _ORB_ A	catalytic activity
-16744	16748	GO:0032991	poly _ORB_ A	macromolecular complex
-16744	16748	GO:0005488	poly _ORB_ A	binding
-16744	16748	GO:0044464	poly _ORB_ A	cell part
-17511	17526	GO:0008152	Gene expression	metabolic process
-17692	17702	GO:0044421	Antibodies	extraccellular region part
-17692	17702	GO:0032991	Antibodies	macromolecular complex
-17801	17808	GO:0003824	protein	catalytic activity
-17848	17856	GO:0003824	proteins	catalytic activity
-17909	17911	GO:0065007	to	biological regulation
-17909	17911	GO:0009987	to	cellular process
-17962	17964	GO:0065007	to	biological regulation
-17962	17964	GO:0009987	to	cellular process
-17968	17970	GO:0065007	to	biological regulation
-17968	17970	GO:0009987	to	cellular process
-18318	18331	GO:0044422	mitochondrial	organelle part
-18318	18331	GO:0032991	mitochondrial	macromolecular complex
-18318	18331	GO:0044464	mitochondrial	cell part
-18478	18490	GO:0044464	mitochondria	cell part
-18478	18490	GO:0043226	mitochondria	organelle
-18528	18541	GO:0044464	Mitochondrial	cell part
-18528	18541	GO:0032991	Mitochondrial	macromolecular complex
-18528	18541	GO:0044422	Mitochondrial	organelle part
-18767	18769	GO:0065007	to	biological regulation
-18767	18769	GO:0009987	to	cellular process
-20403	20413	GO:0003824	cytochrome	catalytic activity
-20416	20423	GO:0003824	oxidase	catalytic activity
-20479	20489	GO:0043226	Peroxisome	organelle
-20479	20489	GO:0044464	Peroxisome	cell part
-20549	20559	GO:0043226	peroxisome	organelle
-20549	20559	GO:0044464	peroxisome	cell part
-20608	20615	GO:0003824	protein	catalytic activity
-20896	20904	GO:0003824	proteins	catalytic activity
-20997	21005	GO:0044421	antibody	extraccellular region part
-20997	21005	GO:0032991	antibody	macromolecular complex
-21249	21257	GO:0003824	proteins	catalytic activity
-21396	21406	GO:0044421	antibodies	extraccellular region part
-21396	21406	GO:0032991	antibodies	macromolecular complex
-21475	21483	GO:0044421	antibody	extraccellular region part
-21475	21483	GO:0032991	antibody	macromolecular complex
-21537	21543	GO:0005488	Type I	binding
-21537	21543	GO:0060089	Type I	molecular transducer activity
-21537	21543	GO:0003824	Type I	catalytic activity
-21694	21701	GO:0065007	type II	biological regulation
-21694	21701	GO:0003824	type II	catalytic activity
-21694	21701	GO:0060089	type II	molecular transducer activity
-21694	21701	GO:0008152	type II	metabolic process
-21720	21726	GO:0005488	Type I	binding
-21720	21726	GO:0060089	Type I	molecular transducer activity
-21720	21726	GO:0003824	Type I	catalytic activity
-21810	21816	GO:0005488	Type I	binding
-21810	21816	GO:0060089	Type I	molecular transducer activity
-21810	21816	GO:0003824	Type I	catalytic activity
-21837	21850	GO:0044464	Mitochondrial	cell part
-21837	21850	GO:0032991	Mitochondrial	macromolecular complex
-21837	21850	GO:0044422	Mitochondrial	organelle part
-22167	22169	GO:0065007	to	biological regulation
-22167	22169	GO:0009987	to	cellular process
-22200	22213	GO:0044422	mitochondrial	organelle part
-22200	22213	GO:0032991	mitochondrial	macromolecular complex
-22200	22213	GO:0044464	mitochondrial	cell part
-22390	22403	GO:0044422	mitochondrial	organelle part
-22390	22403	GO:0032991	mitochondrial	macromolecular complex
-22390	22403	GO:0044464	mitochondrial	cell part
-22390	22403	GO:0044422	mitochondrial	organelle part
-22390	22403	GO:0032991	mitochondrial	macromolecular complex
-22390	22403	GO:0044464	mitochondrial	cell part
-22480	22493	GO:0044422	mitochondrial	organelle part
-22480	22493	GO:0032991	mitochondrial	macromolecular complex
-22480	22493	GO:0044464	mitochondrial	cell part
-22600	22602	GO:0065007	to	biological regulation
-22600	22602	GO:0009987	to	cellular process
-22659	22661	GO:0065007	to	biological regulation
-22659	22661	GO:0009987	to	cellular process
-22659	22661	GO:0065007	to	biological regulation
-22659	22661	GO:0009987	to	cellular process
+173	186	GO:0044422	mitochondrial	organelle part
+173	186	GO:0032991	mitochondrial	macromolecular complex
+173	186	GO:0044464	mitochondrial	cell part
+232	247	GO:0008152	gene expression	metabolic process
+261	274	GO:0009987	transcription	cellular process
+261	274	GO:0008152	transcription	metabolic process
+315	321	GO:0009987	direct	cellular process
+315	321	GO:0008152	direct	metabolic process
+411	413	GO:0065007	to	biological regulation
+411	413	GO:0009987	to	cellular process
+525	535	GO:0043226	peroxisome	organelle
+525	535	GO:0044464	peroxisome	cell part
+545	547	GO:0065007	to	biological regulation
+545	547	GO:0009987	to	cellular process
+650	656	GO:0060089	type I	molecular transducer activity
+650	656	GO:0003824	type I	catalytic activity
+737	743	GO:0060089	type I	molecular transducer activity
+737	743	GO:0003824	type I	catalytic activity
+750	765	GO:0008152	gene expression	metabolic process
+848	850	GO:0065007	to	biological regulation
+848	850	GO:0009987	to	cellular process
+1148	1154	GO:0060089	type I	molecular transducer activity
+1148	1154	GO:0003824	type I	catalytic activity
+1175	1182	GO:0065007	type II	biological regulation
+1175	1182	GO:0003824	type II	catalytic activity
+1175	1182	GO:0060089	type II	molecular transducer activity
+1175	1182	GO:0008152	type II	metabolic process
+1252	1254	GO:0065007	to	biological regulation
+1252	1254	GO:0009987	to	cellular process
+1268	1278	GO:0008152	metabolism	metabolic process
+1299	1301	GO:0065007	to	biological regulation
+1299	1301	GO:0009987	to	cellular process
+1311	1317	GO:0005488	Type I	binding
+1311	1317	GO:0060089	Type I	molecular transducer activity
+1311	1317	GO:0003824	Type I	catalytic activity
+1362	1382	GO:0009987	oxidative metabolism	cellular process
+1362	1382	GO:0008152	oxidative metabolism	metabolic process
+1372	1382	GO:0008152	metabolism	metabolic process
+1457	1460	GO:0003824	ATP	catalytic activity
+1494	1501	GO:0003824	Type II	catalytic activity
+1494	1501	GO:0060089	Type II	molecular transducer activity
+1494	1501	GO:0065007	Type II	biological regulation
+1494	1501	GO:0005488	Type II	binding
+1494	1501	GO:0008152	Type II	metabolic process
+1595	1608	GO:0044422	mitochondrial	organelle part
+1595	1608	GO:0032991	mitochondrial	macromolecular complex
+1595	1608	GO:0044464	mitochondrial	cell part
+1659	1669	GO:0008152	metabolism	metabolic process
+1716	1718	GO:0065007	to	biological regulation
+1716	1718	GO:0009987	to	cellular process
+1777	1783	GO:0060089	type I	molecular transducer activity
+1777	1783	GO:0003824	type I	catalytic activity
+1852	1854	GO:0065007	to	biological regulation
+1852	1854	GO:0009987	to	cellular process
+2004	2006	GO:0065007	to	biological regulation
+2004	2006	GO:0009987	to	cellular process
+2194	2200	GO:0060089	type I	molecular transducer activity
+2194	2200	GO:0003824	type I	catalytic activity
+2203	2205	GO:0065007	to	biological regulation
+2203	2205	GO:0009987	to	cellular process
+2256	2263	GO:0005215	calcium	transporter activity
+2256	2273	GO:0023052	calcium signaling	signaling
+2256	2273	GO:0065007	calcium signaling	biological regulation
+2256	2273	GO:0023046	calcium signaling	signaling process
+2264	2273	GO:0023052	signaling	signaling
+2264	2281	GO:0023052	signaling pathway	signaling
+2371	2381	GO:0043226	Peroxisome	organelle
+2371	2381	GO:0044464	Peroxisome	cell part
+2391	2393	GO:0065007	to	biological regulation
+2391	2393	GO:0009987	to	cellular process
+2410	2412	GO:0065007	to	biological regulation
+2410	2412	GO:0009987	to	cellular process
+2843	2849	GO:0060089	type I	molecular transducer activity
+2843	2849	GO:0003824	type I	catalytic activity
+2930	2932	GO:0065007	to	biological regulation
+2930	2932	GO:0009987	to	cellular process
+2938	2945	GO:0009987	reduced	cellular process
+2938	2945	GO:0008152	reduced	metabolic process
+2938	2945	GO:0005215	reduced	transporter activity
+2938	2945	GO:0051234	reduced	establishment of localization
+3027	3033	GO:0060089	type I	molecular transducer activity
+3027	3033	GO:0003824	type I	catalytic activity
+3122	3128	GO:0008152	type 2	metabolic process
+3122	3128	GO:0065007	type 2	biological regulation
+3261	3263	GO:0065007	to	biological regulation
+3261	3263	GO:0009987	to	cellular process
+3292	3299	GO:0009987	reduced	cellular process
+3292	3299	GO:0008152	reduced	metabolic process
+3292	3299	GO:0005215	reduced	transporter activity
+3292	3299	GO:0051234	reduced	establishment of localization
+3393	3403	GO:0043226	peroxisome	organelle
+3393	3403	GO:0044464	peroxisome	cell part
+3456	3469	GO:0009987	transcription	cellular process
+3456	3469	GO:0008152	transcription	metabolic process
+3478	3480	GO:0065007	to	biological regulation
+3478	3480	GO:0009987	to	cellular process
+3821	3830	GO:0008152	formation	metabolic process
+3845	3851	GO:0060089	type I	molecular transducer activity
+3845	3851	GO:0003824	type I	catalytic activity
+4026	4028	GO:0065007	to	biological regulation
+4026	4028	GO:0009987	to	cellular process
+4320	4326	GO:0060089	type I	molecular transducer activity
+4320	4326	GO:0003824	type I	catalytic activity
+4352	4354	GO:0065007	to	biological regulation
+4352	4354	GO:0009987	to	cellular process
+4355	4361	GO:0060089	type I	molecular transducer activity
+4355	4361	GO:0003824	type I	catalytic activity
+4417	4424	GO:0065007	type II	biological regulation
+4417	4424	GO:0003824	type II	catalytic activity
+4417	4424	GO:0060089	type II	molecular transducer activity
+4417	4424	GO:0008152	type II	metabolic process
+4615	4622	GO:0003824	protein	catalytic activity
+4643	4645	GO:0065007	To	biological regulation
+4643	4645	GO:0009987	To	cellular process
+4736	4749	GO:0044422	mitochondrial	organelle part
+4736	4749	GO:0032991	mitochondrial	macromolecular complex
+4736	4749	GO:0044464	mitochondrial	cell part
+4863	4865	GO:0065007	to	biological regulation
+4863	4865	GO:0009987	to	cellular process
+5279	5281	GO:0065007	to	biological regulation
+5279	5281	GO:0009987	to	cellular process
+5379	5386	GO:0003824	protein	catalytic activity
+5419	5421	GO:0065007	to	biological regulation
+5419	5421	GO:0009987	to	cellular process
+5525	5532	GO:0003824	protein	catalytic activity
+5683	5685	GO:0065007	to	biological regulation
+5683	5685	GO:0009987	to	cellular process
+5686	5692	GO:0060089	type I	molecular transducer activity
+5686	5692	GO:0003824	type I	catalytic activity
+5786	5792	GO:0005488	Type I	binding
+5786	5792	GO:0060089	Type I	molecular transducer activity
+5786	5792	GO:0003824	Type I	catalytic activity
+5834	5841	GO:0065007	type II	biological regulation
+5834	5841	GO:0003824	type II	catalytic activity
+5834	5841	GO:0060089	type II	molecular transducer activity
+5834	5841	GO:0008152	type II	metabolic process
+5865	5868	GO:0023046	red	signaling process
+5865	5868	GO:0050896	red	response to stimulus
+5865	5868	GO:0009987	red	cellular process
+5865	5868	GO:0065007	red	biological regulation
+5926	5933	GO:0003824	protein	catalytic activity
+6099	6105	GO:0060089	type I	molecular transducer activity
+6099	6105	GO:0003824	type I	catalytic activity
+6314	6320	GO:0060089	type I	molecular transducer activity
+6314	6320	GO:0003824	type I	catalytic activity
+6400	6413	GO:0044422	mitochondrial	organelle part
+6400	6413	GO:0032991	mitochondrial	macromolecular complex
+6400	6413	GO:0044464	mitochondrial	cell part
+6495	6497	GO:0065007	to	biological regulation
+6495	6497	GO:0009987	to	cellular process
+6509	6522	GO:0044422	mitochondrial	organelle part
+6509	6522	GO:0032991	mitochondrial	macromolecular complex
+6509	6522	GO:0044464	mitochondrial	cell part
+6538	6555	GO:0008152	electron transfer	metabolic process
+6538	6555	GO:0009987	electron transfer	cellular process
+6557	6567	GO:0003824	cytochrome	catalytic activity
+6557	6567	GO:0003824	cytochrome	catalytic activity
+6587	6594	GO:0003824	oxidase	catalytic activity
+6713	6715	GO:0065007	to	biological regulation
+6713	6715	GO:0009987	to	cellular process
+6719	6725	GO:0009987	direct	cellular process
+6719	6725	GO:0008152	direct	metabolic process
+6831	6844	GO:0044422	mitochondrial	organelle part
+6831	6844	GO:0032991	mitochondrial	macromolecular complex
+6831	6844	GO:0044464	mitochondrial	cell part
+7005	7018	GO:0044422	mitochondrial	organelle part
+7005	7018	GO:0032991	mitochondrial	macromolecular complex
+7005	7018	GO:0044464	mitochondrial	cell part
+7080	7093	GO:0044464	Mitochondrial	cell part
+7080	7093	GO:0032991	Mitochondrial	macromolecular complex
+7080	7093	GO:0044422	Mitochondrial	organelle part
+7226	7239	GO:0044422	mitochondrial	organelle part
+7226	7239	GO:0032991	mitochondrial	macromolecular complex
+7226	7239	GO:0044464	mitochondrial	cell part
+7420	7426	GO:0060089	type I	molecular transducer activity
+7420	7426	GO:0003824	type I	catalytic activity
+7433	7441	GO:0003824	proteins	catalytic activity
+7465	7475	GO:0003824	cytochrome	catalytic activity
+7561	7568	GO:0003824	protein	catalytic activity
+7590	7596	GO:0060089	type I	molecular transducer activity
+7590	7596	GO:0003824	type I	catalytic activity
+7699	7706	GO:0003824	protein	catalytic activity
+7728	7735	GO:0065007	type II	biological regulation
+7728	7735	GO:0003824	type II	catalytic activity
+7728	7735	GO:0060089	type II	molecular transducer activity
+7728	7735	GO:0008152	type II	metabolic process
+8097	8105	GO:0003824	proteins	catalytic activity
+8107	8120	GO:0044422	mitochondrial	organelle part
+8107	8120	GO:0032991	mitochondrial	macromolecular complex
+8107	8120	GO:0044464	mitochondrial	cell part
+8280	8286	GO:0060089	type I	molecular transducer activity
+8280	8286	GO:0003824	type I	catalytic activity
+8590	8592	GO:0065007	To	biological regulation
+8590	8592	GO:0009987	To	cellular process
+9303	9307	GO:0005623	cell	cell
+9353	9355	GO:0065007	to	biological regulation
+9353	9355	GO:0009987	to	cellular process
+9808	9814	GO:0060089	type I	molecular transducer activity
+9808	9814	GO:0003824	type I	catalytic activity
+9914	9921	GO:0009987	reduced	cellular process
+9914	9921	GO:0008152	reduced	metabolic process
+9914	9921	GO:0005215	reduced	transporter activity
+9914	9921	GO:0051234	reduced	establishment of localization
+9966	9968	GO:0065007	to	biological regulation
+9966	9968	GO:0009987	to	cellular process
+10306	10312	GO:0060089	type I	molecular transducer activity
+10306	10312	GO:0003824	type I	catalytic activity
+10382	10384	GO:0065007	to	biological regulation
+10382	10384	GO:0009987	to	cellular process
+10428	10434	GO:0060089	type I	molecular transducer activity
+10428	10434	GO:0003824	type I	catalytic activity
+10500	10502	GO:0065007	to	biological regulation
+10500	10502	GO:0009987	to	cellular process
+10500	10502	GO:0065007	to	biological regulation
+10500	10502	GO:0009987	to	cellular process
+10657	10659	GO:0065007	to	biological regulation
+10657	10659	GO:0009987	to	cellular process
+10657	10659	GO:0065007	to	biological regulation
+10657	10659	GO:0009987	to	cellular process
+12310	12323	GO:0044422	mitochondrial	organelle part
+12310	12323	GO:0032991	mitochondrial	macromolecular complex
+12310	12323	GO:0044464	mitochondrial	cell part
+12366	12372	GO:0060089	type I	molecular transducer activity
+12366	12372	GO:0003824	type I	catalytic activity
+12811	12817	GO:0060089	type I	molecular transducer activity
+12811	12817	GO:0003824	type I	catalytic activity
+12836	12838	GO:0065007	to	biological regulation
+12836	12838	GO:0009987	to	cellular process
+13044	13055	GO:0032502	innervation	developmental process
+13059	13061	GO:0065007	to	biological regulation
+13059	13061	GO:0009987	to	cellular process
+13143	13165	GO:0032501	physiological response	multicellular organismal process
+13143	13165	GO:0050896	physiological response	response to stimulus
+13306	13308	GO:0065007	To	biological regulation
+13306	13308	GO:0009987	To	cellular process
+13394	13396	GO:0065007	to	biological regulation
+13394	13396	GO:0009987	to	cellular process
+13677	13690	GO:0009987	transcription	cellular process
+13677	13690	GO:0008152	transcription	metabolic process
+13694	13696	GO:0065007	to	biological regulation
+13694	13696	GO:0009987	to	cellular process
+13734	13736	GO:0065007	to	biological regulation
+13734	13736	GO:0009987	to	cellular process
+13817	13819	GO:0065007	to	biological regulation
+13817	13819	GO:0009987	to	cellular process
+13845	13851	GO:0009987	direct	cellular process
+13845	13851	GO:0008152	direct	metabolic process
+13994	13996	GO:0065007	to	biological regulation
+13994	13996	GO:0009987	to	cellular process
+13994	13996	GO:0065007	to	biological regulation
+13994	13996	GO:0009987	to	cellular process
+15067	15076	GO:0023052	signaling	signaling
+15177	15179	GO:0065007	to	biological regulation
+15177	15179	GO:0009987	to	cellular process
+15211	15213	GO:0065007	to	biological regulation
+15211	15213	GO:0009987	to	cellular process
+15291	15293	GO:0065007	to	biological regulation
+15291	15293	GO:0009987	to	cellular process
+15384	15402	GO:0009987	glucose metabolism	cellular process
+15384	15402	GO:0008152	glucose metabolism	metabolic process
+15392	15402	GO:0008152	metabolism	metabolic process
+15468	15470	GO:0065007	to	biological regulation
+15468	15470	GO:0009987	to	cellular process
+15682	15700	GO:0009987	glucose metabolism	cellular process
+15682	15700	GO:0008152	glucose metabolism	metabolic process
+15690	15700	GO:0008152	metabolism	metabolic process
+15814	15816	GO:0065007	to	biological regulation
+15814	15816	GO:0009987	to	cellular process
+15848	15850	GO:0065007	to	biological regulation
+15848	15850	GO:0009987	to	cellular process
+15864	15877	GO:0044422	mitochondrial	organelle part
+15864	15877	GO:0032991	mitochondrial	macromolecular complex
+15864	15877	GO:0044464	mitochondrial	cell part
+15946	15948	GO:0065007	to	biological regulation
+15946	15948	GO:0009987	to	cellular process
+15959	15972	GO:0044422	mitochondrial	organelle part
+15959	15972	GO:0032991	mitochondrial	macromolecular complex
+15959	15972	GO:0044464	mitochondrial	cell part
+16094	16099	GO:0032502	aging	developmental process
+16190	16192	GO:0065007	to	biological regulation
+16190	16192	GO:0009987	to	cellular process
+16557	16559	GO:0065007	to	biological regulation
+16557	16559	GO:0009987	to	cellular process
+16790	16794	GO:0051234	poly _ORB_ A	establishment of localization
+16790	16794	GO:0003824	poly _ORB_ A	catalytic activity
+16790	16794	GO:0032991	poly _ORB_ A	macromolecular complex
+16790	16794	GO:0005488	poly _ORB_ A	binding
+16790	16794	GO:0044464	poly _ORB_ A	cell part
+17559	17574	GO:0008152	Gene expression	metabolic process
+17742	17752	GO:0044421	Antibodies	extraccellular region part
+17742	17752	GO:0032991	Antibodies	macromolecular complex
+17851	17858	GO:0003824	protein	catalytic activity
+17898	17906	GO:0003824	proteins	catalytic activity
+17961	17963	GO:0065007	to	biological regulation
+17961	17963	GO:0009987	to	cellular process
+18014	18016	GO:0065007	to	biological regulation
+18014	18016	GO:0009987	to	cellular process
+18020	18022	GO:0065007	to	biological regulation
+18020	18022	GO:0009987	to	cellular process
+18372	18385	GO:0044422	mitochondrial	organelle part
+18372	18385	GO:0032991	mitochondrial	macromolecular complex
+18372	18385	GO:0044464	mitochondrial	cell part
+18534	18546	GO:0044464	mitochondria	cell part
+18534	18546	GO:0043226	mitochondria	organelle
+18584	18597	GO:0044464	Mitochondrial	cell part
+18584	18597	GO:0032991	Mitochondrial	macromolecular complex
+18584	18597	GO:0044422	Mitochondrial	organelle part
+18827	18829	GO:0065007	to	biological regulation
+18827	18829	GO:0009987	to	cellular process
+20493	20503	GO:0003824	cytochrome	catalytic activity
+20506	20513	GO:0003824	oxidase	catalytic activity
+20573	20583	GO:0043226	Peroxisome	organelle
+20573	20583	GO:0044464	Peroxisome	cell part
+20645	20655	GO:0043226	peroxisome	organelle
+20645	20655	GO:0044464	peroxisome	cell part
+20706	20713	GO:0003824	protein	catalytic activity
+21004	21012	GO:0003824	proteins	catalytic activity
+21105	21113	GO:0044421	antibody	extraccellular region part
+21105	21113	GO:0032991	antibody	macromolecular complex
+21361	21369	GO:0003824	proteins	catalytic activity
+21508	21518	GO:0044421	antibodies	extraccellular region part
+21508	21518	GO:0032991	antibodies	macromolecular complex
+21587	21595	GO:0044421	antibody	extraccellular region part
+21587	21595	GO:0032991	antibody	macromolecular complex
+21653	21659	GO:0005488	Type I	binding
+21653	21659	GO:0060089	Type I	molecular transducer activity
+21653	21659	GO:0003824	Type I	catalytic activity
+21814	21821	GO:0065007	type II	biological regulation
+21814	21821	GO:0003824	type II	catalytic activity
+21814	21821	GO:0060089	type II	molecular transducer activity
+21814	21821	GO:0008152	type II	metabolic process
+21840	21846	GO:0005488	Type I	binding
+21840	21846	GO:0060089	Type I	molecular transducer activity
+21840	21846	GO:0003824	Type I	catalytic activity
+21934	21940	GO:0005488	Type I	binding
+21934	21940	GO:0060089	Type I	molecular transducer activity
+21934	21940	GO:0003824	Type I	catalytic activity
+21961	21974	GO:0044464	Mitochondrial	cell part
+21961	21974	GO:0032991	Mitochondrial	macromolecular complex
+21961	21974	GO:0044422	Mitochondrial	organelle part
+22295	22297	GO:0065007	to	biological regulation
+22295	22297	GO:0009987	to	cellular process
+22328	22341	GO:0044422	mitochondrial	organelle part
+22328	22341	GO:0032991	mitochondrial	macromolecular complex
+22328	22341	GO:0044464	mitochondrial	cell part
+22520	22533	GO:0044422	mitochondrial	organelle part
+22520	22533	GO:0032991	mitochondrial	macromolecular complex
+22520	22533	GO:0044464	mitochondrial	cell part
+22520	22533	GO:0044422	mitochondrial	organelle part
+22520	22533	GO:0032991	mitochondrial	macromolecular complex
+22520	22533	GO:0044464	mitochondrial	cell part
+22610	22623	GO:0044422	mitochondrial	organelle part
+22610	22623	GO:0032991	mitochondrial	macromolecular complex
+22610	22623	GO:0044464	mitochondrial	cell part
+22732	22734	GO:0065007	to	biological regulation
+22732	22734	GO:0009987	to	cellular process
+22791	22793	GO:0065007	to	biological regulation
+22791	22793	GO:0009987	to	cellular process
+22791	22793	GO:0065007	to	biological regulation
+22791	22793	GO:0009987	to	cellular process

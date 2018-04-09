@@ -1,6 +1,7 @@
 //Java imports
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.PrintWriter;
 import java.util.*;
 
 //ELK imports
@@ -15,10 +16,10 @@ import org.semanticweb.owlapi.model.*;
 import org.semanticweb.owlapi.reasoner.*;
 
 /**
- * Lucas Beasley
- * 10/30/17
- * Compares annotations from various tools against manually annotated papers in the CRAFT corpus, then computes the
- * average Jaccard values for each paper.
+ * Created by:      Lucas Beasley
+ * Date:            10/30/17
+ * Purpose:         Compares annotations from various tools against manually annotated papers in the CRAFT corpus,
+ *                  then computes the average Jaccard values for each paper.
  */
 public class averageJaccard {
     private OWLOntology go_ontology;
@@ -26,6 +27,9 @@ public class averageJaccard {
     private OWLReasoner reasoner;
     private String go_prefix;
 
+    /***
+     * An Annotation contains each individual annotation in a paper for a tool.
+     */
     public class Annotation{
         private String term = "";           //term in paper
         private String id = "";             //GO:ID for ontology term
@@ -46,18 +50,17 @@ public class averageJaccard {
         private int getEndIndex(){ return this.endIndex; }
     }
 
+    /***
+     * A PartialMatch contains the GO:IDs for a partial match (annotation with same indices, but different GO:ID), as
+     */
     public class PartialMatch{
         private String craftID = "";            //GO:ID CRAFT returned
         private String toolID = "";             //GO:ID tool returned
-        private int startIndex = 0;             //starting index for tagged term
-        private int endIndex = 0;               //ending index for tagged term
 
         //constructor
-        public PartialMatch(String cid, String tid, int start, int end){
+        public PartialMatch(String cid, String tid){
             this.craftID = cid;
             this.toolID = tid;
-            this.startIndex = start;
-            this.endIndex = end;
         }
 
         //getters/setters
@@ -97,7 +100,8 @@ public class averageJaccard {
         File ontology = new File("go.owl");
 
         //Pull all annotations into maps
-        Map<String, List<Annotation>> craft_annos = avgj.mapMerge(avgj.pullCRAFTAnnos(craft_cc), avgj.pullCRAFTAnnos(craft_bpmf));
+        Map<String, List<Annotation>> craft_annos = avgj.mergeMaps(avgj.pullCRAFTAnnos(craft_cc),
+                                                    avgj.pullCRAFTAnnos(craft_bpmf));
         Map<String, List<Annotation>> ncbo_annos = avgj.pullAnnos(ncbo);
         Map<String, List<Annotation>> textpresso_annos = avgj.pullAnnos(textpresso);
 
@@ -108,9 +112,29 @@ public class averageJaccard {
         //Setup the ontology
         avgj.setupOntology(ontology);
 
-        //Calculate mean Jaccard values for each paper
-        Map<String, Double> ncbo_avg_jaccard = avgj.calculateAverageJaccards(ncbo_counts);
-        Map<String, Double> textpresso_avg_jaccard = avgj.calculateAverageJaccards(textpresso_counts);
+        //Calculate Jaccard values for each paper
+        Map<String, double[]> ncbo_jaccards = avgj.calculateJaccards(ncbo_counts);
+        Map<String, double[]> textpresso_jaccards = avgj.calculateJaccards(textpresso_counts);
+
+        //Calculate mean of Jaccard values and their standard deviation for each paper
+        Map<String, Double> ncbo_avg_jaccard = avgj.calculateMean(ncbo_jaccards);
+        Map<String, Double> textpresso_avg_jaccard = avgj.calculateMean(textpresso_jaccards);
+
+        //Write average Jaccards to files
+        File ncbo_output = new File("output/ncbo_avg");
+        File textpresso_output = new File("output/textpresso_avg");
+        avgj.writeOut(ncbo_avg_jaccard, ncbo_output);
+        avgj.writeOut(textpresso_avg_jaccard,textpresso_output);
+
+        //Calculate average mean Jaccard value and average 2nd standard error of the mean for each tool
+        double[] ncbo_avg_mean_and_dev = avgj.calculateAvgAndDevForTool(ncbo_avg_jaccard);
+        double[] textpresso_avg_mean_and_dev = avgj.calculateAvgAndDevForTool(textpresso_avg_jaccard);
+
+        //Write overall average Jaccard and 2nd standard error of the mean for each tool to a file
+        File tools_output = new File("output/tool_avgs");
+        avgj.writeOut(ncbo_avg_mean_and_dev, textpresso_avg_mean_and_dev, tools_output);
+
+
         boolean bool = true;
     }
 
@@ -203,7 +227,7 @@ public class averageJaccard {
                         }
                     }
                 }
-                Collections.sort(annotations, Comparator.comparing(Annotation::getEndIndex));
+                annotations.sort(Comparator.comparing(Annotation::getEndIndex));
                 craftAnnos.put(filename, annotations);
             }catch (FileNotFoundException ex){
                 System.out.println("Error: File not found. File: " + file);
@@ -213,12 +237,12 @@ public class averageJaccard {
     }
 
     /***
-     * mapMerge merges the lists of two maps together (used for CRAFT annotations)
+     * mergeMaps merges the lists of two maps together (used for CRAFT annotations)
      * @param map1 - map of CRAFT go_cc annotations
      * @param map2 - map of CRAFT go_bpmf annotations
      * @return merged mapping of all CRAFT annotations
      */
-    private Map<String, List<Annotation>> mapMerge(Map<String, List<Annotation>> map1,
+    private Map<String, List<Annotation>> mergeMaps(Map<String, List<Annotation>> map1,
                                                           Map<String, List<Annotation>> map2){
         List<Annotation> list1, list2;
 
@@ -229,7 +253,7 @@ public class averageJaccard {
                 list1 = map1.get(key);
                 list2 = map2.get(key);
                 list1.addAll(list2);
-                Collections.sort(list1, Comparator.comparing(Annotation::getEndIndex));
+                list1.sort(Comparator.comparing(Annotation::getEndIndex));
                 map1.replace(key, list1);
             }
             //if map1 does not have the same key, then add key/value pair to map1
@@ -318,16 +342,19 @@ public class averageJaccard {
     private Map<String, CountsAndPartials> compareAnnotations(Map<String, List<Annotation>> craft,
                                                                        Map<String,List<Annotation>> tool){
         Map<String, CountsAndPartials> countsperpaper = new HashMap<>();
-        CountsAndPartials counts;
         PartialMatch pm;
-        List<PartialMatch> partialMatchList;
         List<Annotation> craftannos, toolannos;
+        /*
+        Counts for total number of exact matches for a tool, total number of partial matches for a tool,
+        total number of newly created annotations for a tool, total number of annotations for the CRAFT Corpus.
+         */
+        int total_exacts = 0, total_partials = 0, total_news = 0, craft_annotations = 0;
 
         //pull craft keys and lists
         for(String key: craft.keySet()){
             craftannos = craft.get(key);
-            counts = new CountsAndPartials();
-            partialMatchList = new ArrayList<>();
+            CountsAndPartials counts = new CountsAndPartials();
+            List<PartialMatch> partialMatchList = new ArrayList<>();
             //check if tool contains key
             if(tool.containsKey(key)){
                 //pull list of annos and check against craft
@@ -342,7 +369,7 @@ public class averageJaccard {
                             }
                             else{
                                 //tagged term at indices, but incorrect GO:ID
-                                pm = new PartialMatch(a.getID(), b.getID(), a.getStartIndex(), a.getEndIndex());
+                                pm = new PartialMatch(a.getID(), b.getID());
                                 counts.setPartials(counts.getPartials()+1); //up the count for partial match
                                 partialMatchList.add(pm); //add new partial match
                             }
@@ -352,6 +379,12 @@ public class averageJaccard {
                 //total new annotations that the tool created
                 counts.setNewAnnotations(toolannos.size() - (counts.getExacts() + counts.getPartials()));
                 counts.setMatches(partialMatchList);
+                //get counts for tool and CRAFT
+                total_exacts += counts.getExacts();
+                total_partials += counts.getPartials();
+                total_news += counts.getNewAnnotations();
+                craft_annotations += craftannos.size();
+                //add counts/partial matches to map
                 countsperpaper.put(key, counts);
             }
         }
@@ -364,73 +397,78 @@ public class averageJaccard {
      * @param toolcounts - map containing the filename and the list of partial matches (GO:IDs)
      * @return map containing the filename and the average Jaccard value
      */
-    private Map<String, Double> calculateAverageJaccards(Map<String, CountsAndPartials> toolcounts){
-        Map<String, Double> averagejaccards = new HashMap<>();
+    private Map<String, double[]> calculateJaccards(Map<String, CountsAndPartials> toolcounts){
+        Map<String, double[]> alljaccards = new HashMap<>();
+        CountsAndPartials counts;
         double[] jaccards;
-        double mean, sum;
         List<PartialMatch> partialMatches;
-        List<String> all, inbetween;
+        Set<String> all, inbetween;
         String craftID, toolID;
-        int arrIndex;
+        int arrIndex, total_exacts;
 
         //go through files and retrieve partial matches
         for(String key: toolcounts.keySet()){
-            partialMatches = toolcounts.get(key).getMatches();
-            jaccards = new double[partialMatches.size()];
+            counts = toolcounts.get(key);
+            partialMatches = counts.getMatches();
+            total_exacts = counts.getExacts();
+            jaccards = new double[partialMatches.size() + total_exacts];
             arrIndex = 0;
-            sum = 0;
-            all = new ArrayList<>();
-            inbetween = new ArrayList<>();
-            if(partialMatches.size() != 0) {
-                //calculate Jaccard similarities for CRAFT vs. tool
-                for (PartialMatch pm : partialMatches) {
-                    craftID = pm.getCraftID();
-                    craftID = craftID.replace(":", "_");
-                    toolID = pm.getToolID();
-                    toolID = toolID.replace(":", "_");
+            all = new HashSet<>();
+            inbetween = new HashSet<>();
+            if(partialMatches.size() != 0 || total_exacts != 0) {
+                if(partialMatches.size() != 0) {
+                    //calculate Jaccard similarities for CRAFT vs. tool
+                    for (PartialMatch pm : partialMatches) {
+                        craftID = pm.getCraftID();
+                        craftID = craftID.replace(":", "_");
+                        toolID = pm.getToolID();
+                        toolID = toolID.replace(":", "_");
 
-                    //get superclasses for craftID
-                    Set<OWLClass> craftsupersOWL = getSupers(craftID);
-                    Set<String> craftsupers = new HashSet<>();
-                    for (OWLClass owlClass : craftsupersOWL) {
-                        craftsupers.add(owlClass.getIRI().getShortForm());
+                        //get superclasses for craftID
+                        Set<OWLClass> craftsupersOWL = getSupers(craftID);
+                        Set<String> craftsupers = new HashSet<>();
+                        for (OWLClass owlClass : craftsupersOWL) {
+                            craftsupers.add(owlClass.getIRI().getShortForm());
+                        }
+
+                        //get superclasses for toolID
+                        Set<OWLClass> toolsupersOWL = getSupers(toolID);
+                        Set<String> toolsupers = new HashSet<>();
+                        for (OWLClass owlClass : toolsupersOWL) {
+                            toolsupers.add(owlClass.getIRI().getShortForm());
+                        }
+
+                        //retrieve the intersection and union of the sets of superclasses
+                        Set<String> intersection = Sets.intersection(craftsupers, toolsupers);
+                        Set<String> union = Sets.union(craftsupers, toolsupers);
+//                        if (key.equals("15492776")) {
+//                            boolean bool = true;
+//                        }
+                        //remove root from sets and add originating IDs into union set
+                        all.addAll(union);
+                        all.remove("Thing");
+                        all.add(craftID);
+                        all.add(toolID);
+                        inbetween.addAll(intersection);
+                        inbetween.remove("Thing");
+                        //                    System.out.println("Union: " + all);
+                        //                    System.out.println("Intersection: " + inbetween);
+                        //calculate jaccard values
+                        jaccards[arrIndex] = (double) (inbetween.size()) / (double) (all.size());
+
+                        //increase the index for jaccards
+                        arrIndex++;
                     }
-
-                    //get superclasses for toolID
-                    Set<OWLClass> toolsupersOWL = getSupers(toolID);
-                    Set<String> toolsupers = new HashSet<>();
-                    for (OWLClass owlClass : toolsupersOWL) {
-                        toolsupers.add(owlClass.getIRI().getShortForm());
-                    }
-
-                    //retrieve the intersection and union of the sets of superclasses
-                    Set<String> intersection = Sets.intersection(craftsupers, toolsupers);
-                    Set<String> union = Sets.union(craftsupers, toolsupers);
-                    //remove root from set
-                    all.addAll(union);
-                    all.remove("Thing");
-                    inbetween.addAll(intersection);
-                    inbetween.remove("Thing");
-//                    System.out.println("Union: " + all);
-//                    System.out.println("Intersection: " + inbetween);
-                    //calculate jaccard values
-                    jaccards[arrIndex] = (double)(inbetween.size()) / (double)(all.size());
-
-                    //increase the index for jaccards
+                }
+                //add in exact matches; assign 1.0 jaccard values
+                for(int i = 0; i < total_exacts; i++){
+                    jaccards[arrIndex] = 1.0;
                     arrIndex++;
                 }
-                //calculate mean of jaccards
-                for (int i = 0; i < jaccards.length; i++) {
-                    sum += jaccards[i];
-                }
-                mean = sum/jaccards.length;
-                //if the average is 0, then GO:ID has probably been removed/updated; don't add to map
-                if(mean != 0.0) {
-                    averagejaccards.put(key, mean);
-                }
+                alljaccards.put(key, jaccards);
             }
         }
-        return averagejaccards;
+        return alljaccards;
     }
 
     /***
@@ -463,6 +501,125 @@ public class averageJaccard {
             LogManager.getLogger("org.semanticweb.elk").setLevel(Level.ERROR);
         }catch(OWLOntologyCreationException ex){
             System.out.println("Error: Cannot create ontology from " + ontology);
+        }
+    }
+
+    /***
+     * calculateMeanAndDeviation takes the Jaccard values for each paper and calculates the average
+     * Jaccard value for each paper and the 2nd standard error of the mean.
+     * @param tool_jaccards - map containing the Jaccard values for each file
+     * @return map containing the mean Jaccard value and the 2nd standard error of the mean
+     */
+    private Map<String, Double> calculateMean(Map<String, double[]> tool_jaccards){
+        Map<String, Double> toolmeans = new HashMap<>();
+        double[] jaccards;
+        double sum, mean;
+
+        for(String key: tool_jaccards.keySet()){
+            jaccards = tool_jaccards.get(key);
+            sum = 0.0;
+
+            //calculate mean of jaccards
+            for (double val: jaccards) {
+                sum += val;
+            }
+            mean = sum/jaccards.length;
+            //if the average is 0, then GO:ID has probably been removed/updated; flag value with -1
+            if(mean == 0.0) {
+                mean = -1.0;
+            }
+
+            //round mean to two decimal places
+            mean = Math.round(mean*100.0);
+            mean = mean/100.0;
+
+            toolmeans.put(key, mean);
+        }
+        return toolmeans;
+    }
+
+    /***
+     * calculateAveragesForTool calculates the average mean Jaccard value and average deviation value for a tool.
+     * @param tool_means- map from one tool containing all of the average Jaccard values for the files and all
+     *                          of the deviations of the average Jaccard values
+     * @return array containing the average mean Jaccard value and the average deviation for a tool
+     */
+    private double[] calculateAvgAndDevForTool(Map<String, Double> tool_means){
+        double[] avgdevtoolvalues = new double[2];
+        double mean = 0.0, meancounter = 0.0, temp = 0.0, stddev, twostandard;
+
+        for(String key: tool_means.keySet()){
+            Double val = tool_means.get(key);
+
+            //if vals[x] is not a flag value (-1), count into mean
+            if(!(val < 0.0)){
+                mean += val;
+                meancounter++;
+            }
+        }
+
+        //get average mean
+        mean = mean/meancounter;
+
+        //calculate standard deviation
+        for(String key: tool_means.keySet()){
+            Double val = tool_means.get(key);
+            temp += (val - mean)*(val - mean);
+        }
+
+        temp = temp/(tool_means.size()-1);
+        stddev = Math.sqrt(temp);
+
+        //calculate 2 standard errors of mean: 2*(std(jaccards)/sqrt(jaccards.length))
+        twostandard = (2*(stddev/(Math.sqrt(tool_means.size()))));
+
+        //round each value to two decimal places
+        mean = Math.round(mean*100.0);
+        mean = mean/100.0;
+        twostandard = Math.round(twostandard*100.0);
+        twostandard = twostandard/100.0;
+
+        avgdevtoolvalues[0] = mean;
+        avgdevtoolvalues[1] = twostandard;
+
+        return avgdevtoolvalues;
+    }
+
+    /***
+     * writeOut writes the average Jaccard value and the 2nd standard error of the mean for each paper to a new
+     * tab-separated file.
+     * @param toolavgjaccard - map containing the average Jaccard value and the 2nd standard error of the mean for
+     *                       each file
+     * @param filename - output file name
+     */
+    private void writeOut(Map<String, Double> toolavgjaccard, File filename){
+        try(PrintWriter writer = new PrintWriter(filename)){
+            writer.println("Filename\tAverageJaccard");
+            for(String key: toolavgjaccard.keySet()){
+                Double value = toolavgjaccard.get(key);
+                //only write out to file if there are no flagged values (-1)
+                if(value != -1.0){
+                    writer.println(key + "\t" + value);
+                }
+            }
+        }catch(FileNotFoundException ex){
+            System.out.println("Error: Could not write to file " + filename);
+        }
+    }
+
+    /***
+     * writeOut writes out the average mean and deviation for each tool to a file.
+     * @param ncbovalues - average mean and deviation for NCBO
+     * @param textpressovalues - average mean and deviation for Textpresso
+     * @param filename - name of output file
+     */
+    private void writeOut(double[] ncbovalues, double[] textpressovalues, File filename){
+        try(PrintWriter writer = new PrintWriter(filename)){
+            writer.println("Tool\tAverageJaccard\tAverageDeviation");
+            writer.println("NCBO\t" + ncbovalues[0] + "\t" + ncbovalues[1]);
+            writer.println("Textpresso\t" + textpressovalues[0] + "\t" + textpressovalues[1]);
+        }catch(FileNotFoundException ex){
+            System.out.println("Error: Could not write to file " + filename);
         }
     }
 }

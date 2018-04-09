@@ -1,563 +1,563 @@
 StartIndex	EndIndex	GO:ID	Term	OntologyTerm
 67	75	GO:0050896	learning	response to stimulus
 67	75	GO:0032501	learning	multicellular organismal process
-141	150	GO:0023052	signaling	signaling
-297	299	GO:0065007	to	biological regulation
-297	299	GO:0009987	to	cellular process
-394	403	GO:0050896	behaviors	response to stimulus
-437	446	GO:0023052	signaling	signaling
-565	574	GO:0050896	behaviors	response to stimulus
-670	672	GO:0065007	To	biological regulation
-670	672	GO:0009987	To	cellular process
-721	730	GO:0023052	signaling	signaling
-743	745	GO:0065007	to	biological regulation
-743	745	GO:0009987	to	cellular process
-771	779	GO:0050896	learning	response to stimulus
-771	779	GO:0032501	learning	multicellular organismal process
-856	858	GO:0065007	to	biological regulation
-856	858	GO:0009987	to	cellular process
-861	863	GO:0065007	to	biological regulation
-861	863	GO:0009987	to	cellular process
-861	863	GO:0065007	to	biological regulation
-861	863	GO:0009987	to	cellular process
-892	894	GO:0065007	to	biological regulation
-892	894	GO:0009987	to	cellular process
-1096	1104	GO:0050896	learning	response to stimulus
-1096	1104	GO:0032501	learning	multicellular organismal process
-1172	1174	GO:0065007	to	biological regulation
-1172	1174	GO:0009987	to	cellular process
-1207	1209	GO:0065007	to	biological regulation
-1207	1209	GO:0009987	to	cellular process
-1327	1329	GO:0065007	to	biological regulation
-1327	1329	GO:0009987	to	cellular process
-1390	1392	GO:0065007	to	biological regulation
-1390	1392	GO:0009987	to	cellular process
-1452	1454	GO:0065007	to	biological regulation
-1452	1454	GO:0009987	to	cellular process
-1526	1528	GO:0065007	to	biological regulation
-1526	1528	GO:0009987	to	cellular process
-1974	1983	GO:0032501	olfaction	multicellular organismal process
-2016	2018	GO:0065007	to	biological regulation
-2016	2018	GO:0009987	to	cellular process
-2113	2115	GO:0065007	to	biological regulation
-2113	2115	GO:0009987	to	cellular process
-2132	2134	GO:0065007	to	biological regulation
-2132	2134	GO:0009987	to	cellular process
-2291	2300	GO:0023052	signaling	signaling
-2391	2399	GO:0050896	learning	response to stimulus
-2391	2399	GO:0032501	learning	multicellular organismal process
-2506	2526	GO:0032501	associative learning	multicellular organismal process
-2506	2526	GO:0050896	associative learning	response to stimulus
-2518	2526	GO:0050896	learning	response to stimulus
-2518	2526	GO:0032501	learning	multicellular organismal process
-2543	2545	GO:0065007	to	biological regulation
-2543	2545	GO:0009987	to	cellular process
-2854	2876	GO:0032501	physiological response	multicellular organismal process
-2854	2876	GO:0050896	physiological response	response to stimulus
-2972	2974	GO:0065007	to	biological regulation
-2972	2974	GO:0009987	to	cellular process
-3119	3127	GO:0050896	behavior	response to stimulus
-3277	3297	GO:0032501	associative learning	multicellular organismal process
-3277	3297	GO:0050896	associative learning	response to stimulus
-3289	3297	GO:0050896	learning	response to stimulus
-3289	3297	GO:0032501	learning	multicellular organismal process
-3395	3397	GO:0065007	to	biological regulation
-3395	3397	GO:0009987	to	cellular process
-3564	3584	GO:0032501	associative learning	multicellular organismal process
-3564	3584	GO:0050896	associative learning	response to stimulus
-3576	3584	GO:0050896	learning	response to stimulus
-3576	3584	GO:0032501	learning	multicellular organismal process
-3770	3779	GO:0023052	signaling	signaling
-3802	3820	GO:0023046	dopamine receptors	signaling process
-3802	3820	GO:0023052	dopamine receptors	signaling
-3802	3820	GO:0065007	dopamine receptors	biological regulation
-3802	3819	GO:0065007	dopamine receptor	biological regulation
-3802	3819	GO:0023052	dopamine receptor	signaling
-3802	3819	GO:0023046	dopamine receptor	signaling process
-4039	4048	GO:0008152	formation	metabolic process
-4080	4089	GO:0023052	signaling	signaling
-4151	4168	GO:0060089	G-protein coupled	molecular transducer activity
-4151	4168	GO:0005488	G-protein coupled	binding
-4161	4168	GO:0003824	coupled	catalytic activity
-4174	4176	GO:0065007	to	biological regulation
-4174	4176	GO:0009987	to	cellular process
-4304	4321	GO:0065007	dopamine receptor	biological regulation
-4304	4321	GO:0023052	dopamine receptor	signaling
-4304	4321	GO:0023046	dopamine receptor	signaling process
-4410	4412	GO:0065007	to	biological regulation
-4410	4412	GO:0009987	to	cellular process
-4507	4524	GO:0065007	dopamine receptor	biological regulation
-4507	4524	GO:0023052	dopamine receptor	signaling
-4507	4524	GO:0023046	dopamine receptor	signaling process
-4555	4575	GO:0032501	associative learning	multicellular organismal process
-4555	4575	GO:0050896	associative learning	response to stimulus
-4567	4575	GO:0050896	learning	response to stimulus
-4567	4575	GO:0032501	learning	multicellular organismal process
-4699	4708	GO:0050896	behaviors	response to stimulus
-4882	4891	GO:0023052	signaling	signaling
-5007	5027	GO:0032501	associative learning	multicellular organismal process
-5007	5027	GO:0050896	associative learning	response to stimulus
-5019	5027	GO:0050896	learning	response to stimulus
-5019	5027	GO:0032501	learning	multicellular organismal process
-5074	5083	GO:0023052	signaling	signaling
-5106	5126	GO:0032501	associative learning	multicellular organismal process
-5106	5126	GO:0050896	associative learning	response to stimulus
-5118	5126	GO:0050896	learning	response to stimulus
-5118	5126	GO:0032501	learning	multicellular organismal process
-5197	5206	GO:0023052	signaling	signaling
-5241	5261	GO:0032501	associative learning	multicellular organismal process
-5241	5261	GO:0050896	associative learning	response to stimulus
-5253	5261	GO:0050896	learning	response to stimulus
-5253	5261	GO:0032501	learning	multicellular organismal process
-5349	5369	GO:0032501	associative learning	multicellular organismal process
-5349	5369	GO:0050896	associative learning	response to stimulus
-5361	5369	GO:0050896	learning	response to stimulus
-5361	5369	GO:0032501	learning	multicellular organismal process
-5526	5543	GO:0065007	dopamine receptor	biological regulation
-5526	5543	GO:0023052	dopamine receptor	signaling
-5526	5543	GO:0023046	dopamine receptor	signaling process
-5586	5594	GO:0050896	learning	response to stimulus
-5586	5594	GO:0032501	learning	multicellular organismal process
-5624	5632	GO:0050896	behavior	response to stimulus
-5659	5661	GO:0065007	to	biological regulation
-5659	5661	GO:0009987	to	cellular process
-5715	5735	GO:0032501	associative learning	multicellular organismal process
-5715	5735	GO:0050896	associative learning	response to stimulus
-5727	5735	GO:0050896	learning	response to stimulus
-5727	5735	GO:0032501	learning	multicellular organismal process
-5754	5756	GO:0065007	to	biological regulation
-5754	5756	GO:0009987	to	cellular process
-5837	5839	GO:0065007	to	biological regulation
-5837	5839	GO:0009987	to	cellular process
-5942	5950	GO:0050896	learning	response to stimulus
-5942	5950	GO:0032501	learning	multicellular organismal process
-6002	6004	GO:0065007	to	biological regulation
-6002	6004	GO:0009987	to	cellular process
-6045	6047	GO:0065007	to	biological regulation
-6045	6047	GO:0009987	to	cellular process
-6121	6130	GO:0023052	signaling	signaling
-6212	6220	GO:0050896	learning	response to stimulus
-6212	6220	GO:0032501	learning	multicellular organismal process
-6278	6280	GO:0065007	to	biological regulation
-6278	6280	GO:0009987	to	cellular process
-6351	6360	GO:0023052	signaling	signaling
-6373	6381	GO:0050896	learning	response to stimulus
-6373	6381	GO:0032501	learning	multicellular organismal process
-6418	6426	GO:0050896	learning	response to stimulus
-6418	6426	GO:0032501	learning	multicellular organismal process
-6464	6466	GO:0065007	to	biological regulation
-6464	6466	GO:0009987	to	cellular process
-6503	6505	GO:0065007	to	biological regulation
-6503	6505	GO:0009987	to	cellular process
-6531	6551	GO:0032501	associative learning	multicellular organismal process
-6531	6551	GO:0050896	associative learning	response to stimulus
-6543	6551	GO:0050896	learning	response to stimulus
-6543	6551	GO:0032501	learning	multicellular organismal process
-6622	6630	GO:0050896	learning	response to stimulus
-6622	6630	GO:0032501	learning	multicellular organismal process
-6667	6675	GO:0050896	learning	response to stimulus
-6667	6675	GO:0032501	learning	multicellular organismal process
-6821	6823	GO:0065007	to	biological regulation
-6821	6823	GO:0009987	to	cellular process
-6924	6932	GO:0050896	learning	response to stimulus
-6924	6932	GO:0032501	learning	multicellular organismal process
-7062	7064	GO:0065007	to	biological regulation
-7062	7064	GO:0009987	to	cellular process
-7229	7237	GO:0050896	behavior	response to stimulus
-7336	7345	GO:0023052	signaling	signaling
-7385	7393	GO:0050896	learning	response to stimulus
-7385	7393	GO:0032501	learning	multicellular organismal process
-7415	7417	GO:0065007	to	biological regulation
-7415	7417	GO:0009987	to	cellular process
-7440	7442	GO:0065007	to	biological regulation
-7440	7442	GO:0009987	to	cellular process
-7503	7512	GO:0023052	signaling	signaling
-7513	7515	GO:0065007	to	biological regulation
-7513	7515	GO:0009987	to	cellular process
-7553	7561	GO:0050896	learning	response to stimulus
-7553	7561	GO:0032501	learning	multicellular organismal process
-7677	7679	GO:0065007	to	biological regulation
-7677	7679	GO:0009987	to	cellular process
-7747	7755	GO:0050896	learning	response to stimulus
-7747	7755	GO:0032501	learning	multicellular organismal process
-7803	7821	GO:0032501	sensory processing	multicellular organismal process
-7836	7844	GO:0050896	learning	response to stimulus
-7836	7844	GO:0032501	learning	multicellular organismal process
-7896	7905	GO:0023052	signaling	signaling
-7935	7937	GO:0065007	to	biological regulation
-7935	7937	GO:0009987	to	cellular process
-7935	7937	GO:0065007	to	biological regulation
-7935	7937	GO:0009987	to	cellular process
-8187	8196	GO:0050896	behaviors	response to stimulus
-8269	8271	GO:0065007	to	biological regulation
-8269	8271	GO:0009987	to	cellular process
-8383	8385	GO:0065007	to	biological regulation
-8383	8385	GO:0009987	to	cellular process
-8383	8385	GO:0065007	to	biological regulation
-8383	8385	GO:0009987	to	cellular process
-8383	8385	GO:0065007	to	biological regulation
-8383	8385	GO:0009987	to	cellular process
-8395	8397	GO:0065007	to	biological regulation
-8395	8397	GO:0009987	to	cellular process
-8405	8407	GO:0065007	to	biological regulation
-8405	8407	GO:0009987	to	cellular process
-8486	8488	GO:0065007	to	biological regulation
-8486	8488	GO:0009987	to	cellular process
-8486	8488	GO:0065007	to	biological regulation
-8486	8488	GO:0009987	to	cellular process
-9013	9015	GO:0065007	To	biological regulation
-9013	9015	GO:0009987	To	cellular process
-9227	9229	GO:0065007	to	biological regulation
-9227	9229	GO:0009987	to	cellular process
-9227	9229	GO:0065007	to	biological regulation
-9227	9229	GO:0009987	to	cellular process
-9523	9531	GO:0050896	behavior	response to stimulus
-9637	9639	GO:0065007	to	biological regulation
-9637	9639	GO:0009987	to	cellular process
-9671	9679	GO:0050896	learning	response to stimulus
-9671	9679	GO:0032501	learning	multicellular organismal process
-10022	10024	GO:0065007	to	biological regulation
-10022	10024	GO:0009987	to	cellular process
-10600	10602	GO:0065007	to	biological regulation
-10600	10602	GO:0009987	to	cellular process
-10706	10708	GO:0065007	to	biological regulation
-10706	10708	GO:0009987	to	cellular process
-10769	10771	GO:0065007	to	biological regulation
-10769	10771	GO:0009987	to	cellular process
-10769	10771	GO:0065007	to	biological regulation
-10769	10771	GO:0009987	to	cellular process
-11727	11736	GO:0023052	signaling	signaling
-11737	11739	GO:0065007	to	biological regulation
-11737	11739	GO:0009987	to	cellular process
-11787	11795	GO:0050896	learning	response to stimulus
-11787	11795	GO:0032501	learning	multicellular organismal process
-11848	11856	GO:0050896	learning	response to stimulus
-11848	11856	GO:0032501	learning	multicellular organismal process
-11857	11859	GO:0065007	to	biological regulation
-11857	11859	GO:0009987	to	cellular process
-11925	11933	GO:0050896	behavior	response to stimulus
-11992	11994	GO:0065007	to	biological regulation
-11992	11994	GO:0009987	to	cellular process
-12098	12100	GO:0065007	to	biological regulation
-12098	12100	GO:0009987	to	cellular process
-12217	12226	GO:0023052	signaling	signaling
-12239	12241	GO:0065007	to	biological regulation
-12239	12241	GO:0009987	to	cellular process
-12296	12298	GO:0065007	to	biological regulation
-12296	12298	GO:0009987	to	cellular process
-12360	12362	GO:0065007	to	biological regulation
-12360	12362	GO:0009987	to	cellular process
-12448	12457	GO:0023052	signaling	signaling
-12521	12529	GO:0050896	learning	response to stimulus
-12521	12529	GO:0032501	learning	multicellular organismal process
-12530	12532	GO:0065007	to	biological regulation
-12530	12532	GO:0009987	to	cellular process
-12589	12598	GO:0023052	signaling	signaling
-12640	12642	GO:0065007	to	biological regulation
-12640	12642	GO:0009987	to	cellular process
-12695	12697	GO:0065007	to	biological regulation
-12695	12697	GO:0009987	to	cellular process
-12954	12962	GO:0050896	learning	response to stimulus
-12954	12962	GO:0032501	learning	multicellular organismal process
-12990	12992	GO:0065007	to	biological regulation
-12990	12992	GO:0009987	to	cellular process
-13320	13340	GO:0032501	associative learning	multicellular organismal process
-13320	13340	GO:0050896	associative learning	response to stimulus
-13332	13340	GO:0050896	learning	response to stimulus
-13332	13340	GO:0032501	learning	multicellular organismal process
-13430	13450	GO:0032501	associative learning	multicellular organismal process
-13430	13450	GO:0050896	associative learning	response to stimulus
-13442	13450	GO:0050896	learning	response to stimulus
-13442	13450	GO:0032501	learning	multicellular organismal process
-13552	13560	GO:0050896	learning	response to stimulus
-13552	13560	GO:0032501	learning	multicellular organismal process
-13589	13598	GO:0050896	behaviors	response to stimulus
-13762	13782	GO:0032501	associative learning	multicellular organismal process
-13762	13782	GO:0050896	associative learning	response to stimulus
-13774	13782	GO:0050896	learning	response to stimulus
-13774	13782	GO:0032501	learning	multicellular organismal process
-13855	13863	GO:0050896	learning	response to stimulus
-13855	13863	GO:0032501	learning	multicellular organismal process
-13968	13970	GO:0065007	to	biological regulation
-13968	13970	GO:0009987	to	cellular process
-14127	14136	GO:0023052	signaling	signaling
-14163	14165	GO:0065007	to	biological regulation
-14163	14165	GO:0009987	to	cellular process
-14209	14218	GO:0023052	signaling	signaling
-14247	14255	GO:0050896	learning	response to stimulus
-14247	14255	GO:0032501	learning	multicellular organismal process
-14358	14368	GO:0040011	locomotion	locomotion
-14373	14381	GO:0050896	learning	response to stimulus
-14373	14381	GO:0032501	learning	multicellular organismal process
-14462	14471	GO:0023052	signaling	signaling
-14510	14518	GO:0050896	learning	response to stimulus
-14510	14518	GO:0032501	learning	multicellular organismal process
-14566	14568	GO:0065007	to	biological regulation
-14566	14568	GO:0009987	to	cellular process
-14782	14802	GO:0032501	associative learning	multicellular organismal process
-14782	14802	GO:0050896	associative learning	response to stimulus
-14794	14802	GO:0050896	learning	response to stimulus
-14794	14802	GO:0032501	learning	multicellular organismal process
-14947	14955	GO:0050896	behavior	response to stimulus
-15016	15024	GO:0050896	learning	response to stimulus
-15016	15024	GO:0032501	learning	multicellular organismal process
-15103	15123	GO:0032501	associative learning	multicellular organismal process
-15103	15123	GO:0050896	associative learning	response to stimulus
-15115	15123	GO:0050896	learning	response to stimulus
-15115	15123	GO:0032501	learning	multicellular organismal process
-15150	15158	GO:0050896	behavior	response to stimulus
-15317	15319	GO:0065007	to	biological regulation
-15317	15319	GO:0009987	to	cellular process
-15342	15344	GO:0065007	to	biological regulation
-15342	15344	GO:0009987	to	cellular process
-15352	15354	GO:0065007	to	biological regulation
-15352	15354	GO:0009987	to	cellular process
-15486	15506	GO:0032501	associative learning	multicellular organismal process
-15486	15506	GO:0050896	associative learning	response to stimulus
-15498	15506	GO:0050896	learning	response to stimulus
-15498	15506	GO:0032501	learning	multicellular organismal process
-15602	15604	GO:0065007	to	biological regulation
-15602	15604	GO:0009987	to	cellular process
-15729	15746	GO:0065007	dopamine receptor	biological regulation
-15729	15746	GO:0023052	dopamine receptor	signaling
-15729	15746	GO:0023046	dopamine receptor	signaling process
-15882	15884	GO:0065007	to	biological regulation
-15882	15884	GO:0009987	to	cellular process
-15966	15968	GO:0065007	to	biological regulation
-15966	15968	GO:0009987	to	cellular process
-16096	16098	GO:0065007	to	biological regulation
-16096	16098	GO:0009987	to	cellular process
-16398	16406	GO:0050896	behavior	response to stimulus
-16522	16531	GO:0023052	signaling	signaling
-16535	16555	GO:0032501	associative learning	multicellular organismal process
-16535	16555	GO:0050896	associative learning	response to stimulus
-16547	16555	GO:0050896	learning	response to stimulus
-16547	16555	GO:0032501	learning	multicellular organismal process
-16709	16711	GO:0065007	to	biological regulation
-16709	16711	GO:0009987	to	cellular process
-16788	16790	GO:0065007	to	biological regulation
-16788	16790	GO:0009987	to	cellular process
-16804	16806	GO:0065007	to	biological regulation
-16804	16806	GO:0009987	to	cellular process
-16899	16901	GO:0065007	to	biological regulation
-16899	16901	GO:0009987	to	cellular process
-17081	17094	GO:0023052	glutamatergic	signaling
-17081	17094	GO:0065007	glutamatergic	biological regulation
-17081	17094	GO:0009987	glutamatergic	cellular process
-17104	17109	GO:0044464	axons	cell part
-17118	17120	GO:0065007	to	biological regulation
-17118	17120	GO:0009987	to	cellular process
-17196	17201	GO:0005623	cells	cell
-17364	17376	GO:0051704	transduction	multi-organism process
-17385	17387	GO:0065007	to	biological regulation
-17385	17387	GO:0009987	to	cellular process
-17603	17611	GO:0050896	learning	response to stimulus
-17603	17611	GO:0032501	learning	multicellular organismal process
-17668	17677	GO:0023052	signaling	signaling
-17792	17794	GO:0065007	to	biological regulation
-17792	17794	GO:0009987	to	cellular process
-17823	17831	GO:0050896	learning	response to stimulus
-17823	17831	GO:0032501	learning	multicellular organismal process
-18013	18015	GO:0065007	to	biological regulation
-18013	18015	GO:0009987	to	cellular process
-18123	18131	GO:0050896	behavior	response to stimulus
-18302	18304	GO:0065007	to	biological regulation
-18302	18304	GO:0009987	to	cellular process
-18444	18452	GO:0050896	learning	response to stimulus
-18444	18452	GO:0032501	learning	multicellular organismal process
-18539	18541	GO:0065007	to	biological regulation
-18539	18541	GO:0009987	to	cellular process
-18757	18759	GO:0065007	to	biological regulation
-18757	18759	GO:0009987	to	cellular process
-18830	18832	GO:0065007	to	biological regulation
-18830	18832	GO:0009987	to	cellular process
-18950	18959	GO:0023052	signaling	signaling
-19133	19138	GO:0005623	cells	cell
-19202	19222	GO:0032501	associative learning	multicellular organismal process
-19202	19222	GO:0050896	associative learning	response to stimulus
-19214	19222	GO:0050896	learning	response to stimulus
-19214	19222	GO:0032501	learning	multicellular organismal process
-19269	19281	GO:0009987	dopaminergic	cellular process
-19269	19281	GO:0065007	dopaminergic	biological regulation
-19269	19281	GO:0023052	dopaminergic	signaling
-19282	19287	GO:0005623	cells	cell
-19411	19423	GO:0009987	dopaminergic	cellular process
-19411	19423	GO:0065007	dopaminergic	biological regulation
-19411	19423	GO:0023052	dopaminergic	signaling
-19424	19428	GO:0005623	cell	cell
-19424	19439	GO:0009987	cell activation	cellular process
-19452	19454	GO:0065007	to	biological regulation
-19452	19454	GO:0009987	to	cellular process
-19494	19496	GO:0065007	to	biological regulation
-19494	19496	GO:0009987	to	cellular process
-19524	19526	GO:0065007	To	biological regulation
-19524	19526	GO:0009987	To	cellular process
-19632	19634	GO:0065007	to	biological regulation
-19632	19634	GO:0009987	to	cellular process
-19632	19634	GO:0065007	to	biological regulation
-19632	19634	GO:0009987	to	cellular process
-19767	19776	GO:0023052	signaling	signaling
-20405	20407	GO:0065007	to	biological regulation
-20405	20407	GO:0009987	to	cellular process
-20455	20464	GO:0023052	signaling	signaling
-20503	20511	GO:0050896	behavior	response to stimulus
-20684	20691	GO:0005488	binding	binding
-20708	20716	GO:0050896	behavior	response to stimulus
-20859	20867	GO:0050896	learning	response to stimulus
-20859	20867	GO:0032501	learning	multicellular organismal process
-20972	20981	GO:0023052	signaling	signaling
-21010	21018	GO:0050896	learning	response to stimulus
-21010	21018	GO:0032501	learning	multicellular organismal process
-21055	21063	GO:0050896	learning	response to stimulus
-21055	21063	GO:0032501	learning	multicellular organismal process
-21097	21105	GO:0050896	behavior	response to stimulus
-21146	21155	GO:0023052	signaling	signaling
-21415	21417	GO:0065007	to	biological regulation
-21415	21417	GO:0009987	to	cellular process
-21498	21518	GO:0032501	associative learning	multicellular organismal process
-21498	21518	GO:0050896	associative learning	response to stimulus
-21510	21518	GO:0050896	learning	response to stimulus
-21510	21518	GO:0032501	learning	multicellular organismal process
-21584	21592	GO:0050896	learning	response to stimulus
-21584	21592	GO:0032501	learning	multicellular organismal process
-21641	21650	GO:0023052	signaling	signaling
-21695	21715	GO:0032501	associative learning	multicellular organismal process
-21695	21715	GO:0050896	associative learning	response to stimulus
-21707	21715	GO:0050896	learning	response to stimulus
-21707	21715	GO:0032501	learning	multicellular organismal process
-21726	21734	GO:0045202	synapses	synapse
-21841	21843	GO:0065007	to	biological regulation
-21841	21843	GO:0009987	to	cellular process
-21882	21884	GO:0065007	to	biological regulation
-21882	21884	GO:0009987	to	cellular process
-22003	22012	GO:0023052	signaling	signaling
-22142	22144	GO:0065007	to	biological regulation
-22142	22144	GO:0009987	to	cellular process
-22272	22274	GO:0065007	to	biological regulation
-22272	22274	GO:0009987	to	cellular process
-22289	22298	GO:0050896	behaviors	response to stimulus
-22340	22342	GO:0065007	to	biological regulation
-22340	22342	GO:0009987	to	cellular process
-22540	22548	GO:0050896	learning	response to stimulus
-22540	22548	GO:0032501	learning	multicellular organismal process
-22790	22792	GO:0065007	to	biological regulation
-22790	22792	GO:0009987	to	cellular process
-22810	22812	GO:0065007	to	biological regulation
-22810	22812	GO:0009987	to	cellular process
-23516	23524	GO:0050896	behavior	response to stimulus
-23610	23618	GO:0050896	behavior	response to stimulus
-23636	23638	GO:0065007	To	biological regulation
-23636	23638	GO:0009987	To	cellular process
-23695	23697	GO:0065007	to	biological regulation
-23695	23697	GO:0009987	to	cellular process
-23754	23756	GO:0065007	to	biological regulation
-23754	23756	GO:0009987	to	cellular process
-23867	23869	GO:0065007	to	biological regulation
-23867	23869	GO:0009987	to	cellular process
-23924	23926	GO:0065007	to	biological regulation
-23924	23926	GO:0009987	to	cellular process
-24028	24030	GO:0065007	to	biological regulation
-24028	24030	GO:0009987	to	cellular process
-24130	24132	GO:0065007	to	biological regulation
-24130	24132	GO:0009987	to	cellular process
-24150	24152	GO:0065007	to	biological regulation
-24150	24152	GO:0009987	to	cellular process
+147	156	GO:0023052	signaling	signaling
+303	305	GO:0065007	to	biological regulation
+303	305	GO:0009987	to	cellular process
+400	409	GO:0050896	behaviors	response to stimulus
+443	452	GO:0023052	signaling	signaling
+571	580	GO:0050896	behaviors	response to stimulus
+676	678	GO:0065007	To	biological regulation
+676	678	GO:0009987	To	cellular process
+727	736	GO:0023052	signaling	signaling
+749	751	GO:0065007	to	biological regulation
+749	751	GO:0009987	to	cellular process
+777	785	GO:0050896	learning	response to stimulus
+777	785	GO:0032501	learning	multicellular organismal process
+862	864	GO:0065007	to	biological regulation
+862	864	GO:0009987	to	cellular process
+867	869	GO:0065007	to	biological regulation
+867	869	GO:0009987	to	cellular process
+867	869	GO:0065007	to	biological regulation
+867	869	GO:0009987	to	cellular process
+898	900	GO:0065007	to	biological regulation
+898	900	GO:0009987	to	cellular process
+1102	1110	GO:0050896	learning	response to stimulus
+1102	1110	GO:0032501	learning	multicellular organismal process
+1182	1184	GO:0065007	to	biological regulation
+1182	1184	GO:0009987	to	cellular process
+1217	1219	GO:0065007	to	biological regulation
+1217	1219	GO:0009987	to	cellular process
+1337	1339	GO:0065007	to	biological regulation
+1337	1339	GO:0009987	to	cellular process
+1400	1402	GO:0065007	to	biological regulation
+1400	1402	GO:0009987	to	cellular process
+1462	1464	GO:0065007	to	biological regulation
+1462	1464	GO:0009987	to	cellular process
+1536	1538	GO:0065007	to	biological regulation
+1536	1538	GO:0009987	to	cellular process
+1988	1997	GO:0032501	olfaction	multicellular organismal process
+2030	2032	GO:0065007	to	biological regulation
+2030	2032	GO:0009987	to	cellular process
+2127	2129	GO:0065007	to	biological regulation
+2127	2129	GO:0009987	to	cellular process
+2146	2148	GO:0065007	to	biological regulation
+2146	2148	GO:0009987	to	cellular process
+2305	2314	GO:0023052	signaling	signaling
+2405	2413	GO:0050896	learning	response to stimulus
+2405	2413	GO:0032501	learning	multicellular organismal process
+2524	2544	GO:0032501	associative learning	multicellular organismal process
+2524	2544	GO:0050896	associative learning	response to stimulus
+2536	2544	GO:0050896	learning	response to stimulus
+2536	2544	GO:0032501	learning	multicellular organismal process
+2561	2563	GO:0065007	to	biological regulation
+2561	2563	GO:0009987	to	cellular process
+2872	2894	GO:0032501	physiological response	multicellular organismal process
+2872	2894	GO:0050896	physiological response	response to stimulus
+2990	2992	GO:0065007	to	biological regulation
+2990	2992	GO:0009987	to	cellular process
+3137	3145	GO:0050896	behavior	response to stimulus
+3295	3315	GO:0032501	associative learning	multicellular organismal process
+3295	3315	GO:0050896	associative learning	response to stimulus
+3307	3315	GO:0050896	learning	response to stimulus
+3307	3315	GO:0032501	learning	multicellular organismal process
+3413	3415	GO:0065007	to	biological regulation
+3413	3415	GO:0009987	to	cellular process
+3582	3602	GO:0032501	associative learning	multicellular organismal process
+3582	3602	GO:0050896	associative learning	response to stimulus
+3594	3602	GO:0050896	learning	response to stimulus
+3594	3602	GO:0032501	learning	multicellular organismal process
+3788	3797	GO:0023052	signaling	signaling
+3820	3838	GO:0023046	dopamine receptors	signaling process
+3820	3838	GO:0023052	dopamine receptors	signaling
+3820	3838	GO:0065007	dopamine receptors	biological regulation
+3820	3837	GO:0065007	dopamine receptor	biological regulation
+3820	3837	GO:0023052	dopamine receptor	signaling
+3820	3837	GO:0023046	dopamine receptor	signaling process
+4057	4066	GO:0008152	formation	metabolic process
+4100	4109	GO:0023052	signaling	signaling
+4171	4188	GO:0060089	G-protein coupled	molecular transducer activity
+4171	4188	GO:0005488	G-protein coupled	binding
+4181	4188	GO:0003824	coupled	catalytic activity
+4194	4196	GO:0065007	to	biological regulation
+4194	4196	GO:0009987	to	cellular process
+4324	4341	GO:0065007	dopamine receptor	biological regulation
+4324	4341	GO:0023052	dopamine receptor	signaling
+4324	4341	GO:0023046	dopamine receptor	signaling process
+4430	4432	GO:0065007	to	biological regulation
+4430	4432	GO:0009987	to	cellular process
+4527	4544	GO:0065007	dopamine receptor	biological regulation
+4527	4544	GO:0023052	dopamine receptor	signaling
+4527	4544	GO:0023046	dopamine receptor	signaling process
+4575	4595	GO:0032501	associative learning	multicellular organismal process
+4575	4595	GO:0050896	associative learning	response to stimulus
+4587	4595	GO:0050896	learning	response to stimulus
+4587	4595	GO:0032501	learning	multicellular organismal process
+4719	4728	GO:0050896	behaviors	response to stimulus
+4902	4911	GO:0023052	signaling	signaling
+5027	5047	GO:0032501	associative learning	multicellular organismal process
+5027	5047	GO:0050896	associative learning	response to stimulus
+5039	5047	GO:0050896	learning	response to stimulus
+5039	5047	GO:0032501	learning	multicellular organismal process
+5094	5103	GO:0023052	signaling	signaling
+5126	5146	GO:0032501	associative learning	multicellular organismal process
+5126	5146	GO:0050896	associative learning	response to stimulus
+5138	5146	GO:0050896	learning	response to stimulus
+5138	5146	GO:0032501	learning	multicellular organismal process
+5217	5226	GO:0023052	signaling	signaling
+5261	5281	GO:0032501	associative learning	multicellular organismal process
+5261	5281	GO:0050896	associative learning	response to stimulus
+5273	5281	GO:0050896	learning	response to stimulus
+5273	5281	GO:0032501	learning	multicellular organismal process
+5371	5391	GO:0032501	associative learning	multicellular organismal process
+5371	5391	GO:0050896	associative learning	response to stimulus
+5383	5391	GO:0050896	learning	response to stimulus
+5383	5391	GO:0032501	learning	multicellular organismal process
+5548	5565	GO:0065007	dopamine receptor	biological regulation
+5548	5565	GO:0023052	dopamine receptor	signaling
+5548	5565	GO:0023046	dopamine receptor	signaling process
+5608	5616	GO:0050896	learning	response to stimulus
+5608	5616	GO:0032501	learning	multicellular organismal process
+5646	5654	GO:0050896	behavior	response to stimulus
+5681	5683	GO:0065007	to	biological regulation
+5681	5683	GO:0009987	to	cellular process
+5737	5757	GO:0032501	associative learning	multicellular organismal process
+5737	5757	GO:0050896	associative learning	response to stimulus
+5749	5757	GO:0050896	learning	response to stimulus
+5749	5757	GO:0032501	learning	multicellular organismal process
+5776	5778	GO:0065007	to	biological regulation
+5776	5778	GO:0009987	to	cellular process
+5859	5861	GO:0065007	to	biological regulation
+5859	5861	GO:0009987	to	cellular process
+5964	5972	GO:0050896	learning	response to stimulus
+5964	5972	GO:0032501	learning	multicellular organismal process
+6024	6026	GO:0065007	to	biological regulation
+6024	6026	GO:0009987	to	cellular process
+6067	6069	GO:0065007	to	biological regulation
+6067	6069	GO:0009987	to	cellular process
+6143	6152	GO:0023052	signaling	signaling
+6234	6242	GO:0050896	learning	response to stimulus
+6234	6242	GO:0032501	learning	multicellular organismal process
+6300	6302	GO:0065007	to	biological regulation
+6300	6302	GO:0009987	to	cellular process
+6375	6384	GO:0023052	signaling	signaling
+6397	6405	GO:0050896	learning	response to stimulus
+6397	6405	GO:0032501	learning	multicellular organismal process
+6442	6450	GO:0050896	learning	response to stimulus
+6442	6450	GO:0032501	learning	multicellular organismal process
+6488	6490	GO:0065007	to	biological regulation
+6488	6490	GO:0009987	to	cellular process
+6527	6529	GO:0065007	to	biological regulation
+6527	6529	GO:0009987	to	cellular process
+6555	6575	GO:0032501	associative learning	multicellular organismal process
+6555	6575	GO:0050896	associative learning	response to stimulus
+6567	6575	GO:0050896	learning	response to stimulus
+6567	6575	GO:0032501	learning	multicellular organismal process
+6646	6654	GO:0050896	learning	response to stimulus
+6646	6654	GO:0032501	learning	multicellular organismal process
+6691	6699	GO:0050896	learning	response to stimulus
+6691	6699	GO:0032501	learning	multicellular organismal process
+6845	6847	GO:0065007	to	biological regulation
+6845	6847	GO:0009987	to	cellular process
+6948	6956	GO:0050896	learning	response to stimulus
+6948	6956	GO:0032501	learning	multicellular organismal process
+7086	7088	GO:0065007	to	biological regulation
+7086	7088	GO:0009987	to	cellular process
+7253	7261	GO:0050896	behavior	response to stimulus
+7360	7369	GO:0023052	signaling	signaling
+7409	7417	GO:0050896	learning	response to stimulus
+7409	7417	GO:0032501	learning	multicellular organismal process
+7439	7441	GO:0065007	to	biological regulation
+7439	7441	GO:0009987	to	cellular process
+7466	7468	GO:0065007	to	biological regulation
+7466	7468	GO:0009987	to	cellular process
+7529	7538	GO:0023052	signaling	signaling
+7539	7541	GO:0065007	to	biological regulation
+7539	7541	GO:0009987	to	cellular process
+7579	7587	GO:0050896	learning	response to stimulus
+7579	7587	GO:0032501	learning	multicellular organismal process
+7703	7705	GO:0065007	to	biological regulation
+7703	7705	GO:0009987	to	cellular process
+7773	7781	GO:0050896	learning	response to stimulus
+7773	7781	GO:0032501	learning	multicellular organismal process
+7829	7847	GO:0032501	sensory processing	multicellular organismal process
+7862	7870	GO:0050896	learning	response to stimulus
+7862	7870	GO:0032501	learning	multicellular organismal process
+7922	7931	GO:0023052	signaling	signaling
+7961	7963	GO:0065007	to	biological regulation
+7961	7963	GO:0009987	to	cellular process
+7961	7963	GO:0065007	to	biological regulation
+7961	7963	GO:0009987	to	cellular process
+8217	8226	GO:0050896	behaviors	response to stimulus
+8301	8303	GO:0065007	to	biological regulation
+8301	8303	GO:0009987	to	cellular process
+8415	8417	GO:0065007	to	biological regulation
+8415	8417	GO:0009987	to	cellular process
+8415	8417	GO:0065007	to	biological regulation
+8415	8417	GO:0009987	to	cellular process
+8415	8417	GO:0065007	to	biological regulation
+8415	8417	GO:0009987	to	cellular process
+8427	8429	GO:0065007	to	biological regulation
+8427	8429	GO:0009987	to	cellular process
+8437	8439	GO:0065007	to	biological regulation
+8437	8439	GO:0009987	to	cellular process
+8518	8520	GO:0065007	to	biological regulation
+8518	8520	GO:0009987	to	cellular process
+8518	8520	GO:0065007	to	biological regulation
+8518	8520	GO:0009987	to	cellular process
+9049	9051	GO:0065007	To	biological regulation
+9049	9051	GO:0009987	To	cellular process
+9263	9265	GO:0065007	to	biological regulation
+9263	9265	GO:0009987	to	cellular process
+9263	9265	GO:0065007	to	biological regulation
+9263	9265	GO:0009987	to	cellular process
+9561	9569	GO:0050896	behavior	response to stimulus
+9677	9679	GO:0065007	to	biological regulation
+9677	9679	GO:0009987	to	cellular process
+9711	9719	GO:0050896	learning	response to stimulus
+9711	9719	GO:0032501	learning	multicellular organismal process
+10062	10064	GO:0065007	to	biological regulation
+10062	10064	GO:0009987	to	cellular process
+10640	10642	GO:0065007	to	biological regulation
+10640	10642	GO:0009987	to	cellular process
+10746	10748	GO:0065007	to	biological regulation
+10746	10748	GO:0009987	to	cellular process
+10809	10811	GO:0065007	to	biological regulation
+10809	10811	GO:0009987	to	cellular process
+10809	10811	GO:0065007	to	biological regulation
+10809	10811	GO:0009987	to	cellular process
+11771	11780	GO:0023052	signaling	signaling
+11781	11783	GO:0065007	to	biological regulation
+11781	11783	GO:0009987	to	cellular process
+11831	11839	GO:0050896	learning	response to stimulus
+11831	11839	GO:0032501	learning	multicellular organismal process
+11892	11900	GO:0050896	learning	response to stimulus
+11892	11900	GO:0032501	learning	multicellular organismal process
+11901	11903	GO:0065007	to	biological regulation
+11901	11903	GO:0009987	to	cellular process
+11969	11977	GO:0050896	behavior	response to stimulus
+12036	12038	GO:0065007	to	biological regulation
+12036	12038	GO:0009987	to	cellular process
+12142	12144	GO:0065007	to	biological regulation
+12142	12144	GO:0009987	to	cellular process
+12261	12270	GO:0023052	signaling	signaling
+12283	12285	GO:0065007	to	biological regulation
+12283	12285	GO:0009987	to	cellular process
+12340	12342	GO:0065007	to	biological regulation
+12340	12342	GO:0009987	to	cellular process
+12404	12406	GO:0065007	to	biological regulation
+12404	12406	GO:0009987	to	cellular process
+12492	12501	GO:0023052	signaling	signaling
+12565	12573	GO:0050896	learning	response to stimulus
+12565	12573	GO:0032501	learning	multicellular organismal process
+12574	12576	GO:0065007	to	biological regulation
+12574	12576	GO:0009987	to	cellular process
+12635	12644	GO:0023052	signaling	signaling
+12686	12688	GO:0065007	to	biological regulation
+12686	12688	GO:0009987	to	cellular process
+12741	12743	GO:0065007	to	biological regulation
+12741	12743	GO:0009987	to	cellular process
+13000	13008	GO:0050896	learning	response to stimulus
+13000	13008	GO:0032501	learning	multicellular organismal process
+13036	13038	GO:0065007	to	biological regulation
+13036	13038	GO:0009987	to	cellular process
+13368	13388	GO:0032501	associative learning	multicellular organismal process
+13368	13388	GO:0050896	associative learning	response to stimulus
+13380	13388	GO:0050896	learning	response to stimulus
+13380	13388	GO:0032501	learning	multicellular organismal process
+13478	13498	GO:0032501	associative learning	multicellular organismal process
+13478	13498	GO:0050896	associative learning	response to stimulus
+13490	13498	GO:0050896	learning	response to stimulus
+13490	13498	GO:0032501	learning	multicellular organismal process
+13600	13608	GO:0050896	learning	response to stimulus
+13600	13608	GO:0032501	learning	multicellular organismal process
+13637	13646	GO:0050896	behaviors	response to stimulus
+13810	13830	GO:0032501	associative learning	multicellular organismal process
+13810	13830	GO:0050896	associative learning	response to stimulus
+13822	13830	GO:0050896	learning	response to stimulus
+13822	13830	GO:0032501	learning	multicellular organismal process
+13903	13911	GO:0050896	learning	response to stimulus
+13903	13911	GO:0032501	learning	multicellular organismal process
+14016	14018	GO:0065007	to	biological regulation
+14016	14018	GO:0009987	to	cellular process
+14175	14184	GO:0023052	signaling	signaling
+14211	14213	GO:0065007	to	biological regulation
+14211	14213	GO:0009987	to	cellular process
+14257	14266	GO:0023052	signaling	signaling
+14295	14303	GO:0050896	learning	response to stimulus
+14295	14303	GO:0032501	learning	multicellular organismal process
+14406	14416	GO:0040011	locomotion	locomotion
+14421	14429	GO:0050896	learning	response to stimulus
+14421	14429	GO:0032501	learning	multicellular organismal process
+14512	14521	GO:0023052	signaling	signaling
+14560	14568	GO:0050896	learning	response to stimulus
+14560	14568	GO:0032501	learning	multicellular organismal process
+14616	14618	GO:0065007	to	biological regulation
+14616	14618	GO:0009987	to	cellular process
+14832	14852	GO:0032501	associative learning	multicellular organismal process
+14832	14852	GO:0050896	associative learning	response to stimulus
+14844	14852	GO:0050896	learning	response to stimulus
+14844	14852	GO:0032501	learning	multicellular organismal process
+14997	15005	GO:0050896	behavior	response to stimulus
+15066	15074	GO:0050896	learning	response to stimulus
+15066	15074	GO:0032501	learning	multicellular organismal process
+15153	15173	GO:0032501	associative learning	multicellular organismal process
+15153	15173	GO:0050896	associative learning	response to stimulus
+15165	15173	GO:0050896	learning	response to stimulus
+15165	15173	GO:0032501	learning	multicellular organismal process
+15200	15208	GO:0050896	behavior	response to stimulus
+15367	15369	GO:0065007	to	biological regulation
+15367	15369	GO:0009987	to	cellular process
+15392	15394	GO:0065007	to	biological regulation
+15392	15394	GO:0009987	to	cellular process
+15402	15404	GO:0065007	to	biological regulation
+15402	15404	GO:0009987	to	cellular process
+15536	15556	GO:0032501	associative learning	multicellular organismal process
+15536	15556	GO:0050896	associative learning	response to stimulus
+15548	15556	GO:0050896	learning	response to stimulus
+15548	15556	GO:0032501	learning	multicellular organismal process
+15652	15654	GO:0065007	to	biological regulation
+15652	15654	GO:0009987	to	cellular process
+15779	15796	GO:0065007	dopamine receptor	biological regulation
+15779	15796	GO:0023052	dopamine receptor	signaling
+15779	15796	GO:0023046	dopamine receptor	signaling process
+15932	15934	GO:0065007	to	biological regulation
+15932	15934	GO:0009987	to	cellular process
+16016	16018	GO:0065007	to	biological regulation
+16016	16018	GO:0009987	to	cellular process
+16146	16148	GO:0065007	to	biological regulation
+16146	16148	GO:0009987	to	cellular process
+16448	16456	GO:0050896	behavior	response to stimulus
+16572	16581	GO:0023052	signaling	signaling
+16585	16605	GO:0032501	associative learning	multicellular organismal process
+16585	16605	GO:0050896	associative learning	response to stimulus
+16597	16605	GO:0050896	learning	response to stimulus
+16597	16605	GO:0032501	learning	multicellular organismal process
+16761	16763	GO:0065007	to	biological regulation
+16761	16763	GO:0009987	to	cellular process
+16840	16842	GO:0065007	to	biological regulation
+16840	16842	GO:0009987	to	cellular process
+16856	16858	GO:0065007	to	biological regulation
+16856	16858	GO:0009987	to	cellular process
+16951	16953	GO:0065007	to	biological regulation
+16951	16953	GO:0009987	to	cellular process
+17133	17146	GO:0023052	glutamatergic	signaling
+17133	17146	GO:0065007	glutamatergic	biological regulation
+17133	17146	GO:0009987	glutamatergic	cellular process
+17156	17161	GO:0044464	axons	cell part
+17170	17172	GO:0065007	to	biological regulation
+17170	17172	GO:0009987	to	cellular process
+17248	17253	GO:0005623	cells	cell
+17416	17428	GO:0051704	transduction	multi-organism process
+17437	17439	GO:0065007	to	biological regulation
+17437	17439	GO:0009987	to	cellular process
+17657	17665	GO:0050896	learning	response to stimulus
+17657	17665	GO:0032501	learning	multicellular organismal process
+17722	17731	GO:0023052	signaling	signaling
+17848	17850	GO:0065007	to	biological regulation
+17848	17850	GO:0009987	to	cellular process
+17879	17887	GO:0050896	learning	response to stimulus
+17879	17887	GO:0032501	learning	multicellular organismal process
+18069	18071	GO:0065007	to	biological regulation
+18069	18071	GO:0009987	to	cellular process
+18179	18187	GO:0050896	behavior	response to stimulus
+18358	18360	GO:0065007	to	biological regulation
+18358	18360	GO:0009987	to	cellular process
+18500	18508	GO:0050896	learning	response to stimulus
+18500	18508	GO:0032501	learning	multicellular organismal process
+18595	18597	GO:0065007	to	biological regulation
+18595	18597	GO:0009987	to	cellular process
+18813	18815	GO:0065007	to	biological regulation
+18813	18815	GO:0009987	to	cellular process
+18886	18888	GO:0065007	to	biological regulation
+18886	18888	GO:0009987	to	cellular process
+19006	19015	GO:0023052	signaling	signaling
+19191	19196	GO:0005623	cells	cell
+19260	19280	GO:0032501	associative learning	multicellular organismal process
+19260	19280	GO:0050896	associative learning	response to stimulus
+19272	19280	GO:0050896	learning	response to stimulus
+19272	19280	GO:0032501	learning	multicellular organismal process
+19327	19339	GO:0009987	dopaminergic	cellular process
+19327	19339	GO:0065007	dopaminergic	biological regulation
+19327	19339	GO:0023052	dopaminergic	signaling
+19340	19345	GO:0005623	cells	cell
+19469	19481	GO:0009987	dopaminergic	cellular process
+19469	19481	GO:0065007	dopaminergic	biological regulation
+19469	19481	GO:0023052	dopaminergic	signaling
+19482	19486	GO:0005623	cell	cell
+19482	19497	GO:0009987	cell activation	cellular process
+19510	19512	GO:0065007	to	biological regulation
+19510	19512	GO:0009987	to	cellular process
+19552	19554	GO:0065007	to	biological regulation
+19552	19554	GO:0009987	to	cellular process
+19582	19584	GO:0065007	To	biological regulation
+19582	19584	GO:0009987	To	cellular process
+19690	19692	GO:0065007	to	biological regulation
+19690	19692	GO:0009987	to	cellular process
+19690	19692	GO:0065007	to	biological regulation
+19690	19692	GO:0009987	to	cellular process
+19825	19834	GO:0023052	signaling	signaling
+20465	20467	GO:0065007	to	biological regulation
+20465	20467	GO:0009987	to	cellular process
+20515	20524	GO:0023052	signaling	signaling
+20563	20571	GO:0050896	behavior	response to stimulus
+20744	20751	GO:0005488	binding	binding
+20768	20776	GO:0050896	behavior	response to stimulus
+20919	20927	GO:0050896	learning	response to stimulus
+20919	20927	GO:0032501	learning	multicellular organismal process
+21032	21041	GO:0023052	signaling	signaling
+21070	21078	GO:0050896	learning	response to stimulus
+21070	21078	GO:0032501	learning	multicellular organismal process
+21115	21123	GO:0050896	learning	response to stimulus
+21115	21123	GO:0032501	learning	multicellular organismal process
+21157	21165	GO:0050896	behavior	response to stimulus
+21210	21219	GO:0023052	signaling	signaling
+21479	21481	GO:0065007	to	biological regulation
+21479	21481	GO:0009987	to	cellular process
+21562	21582	GO:0032501	associative learning	multicellular organismal process
+21562	21582	GO:0050896	associative learning	response to stimulus
+21574	21582	GO:0050896	learning	response to stimulus
+21574	21582	GO:0032501	learning	multicellular organismal process
+21648	21656	GO:0050896	learning	response to stimulus
+21648	21656	GO:0032501	learning	multicellular organismal process
+21705	21714	GO:0023052	signaling	signaling
+21759	21779	GO:0032501	associative learning	multicellular organismal process
+21759	21779	GO:0050896	associative learning	response to stimulus
+21771	21779	GO:0050896	learning	response to stimulus
+21771	21779	GO:0032501	learning	multicellular organismal process
+21790	21798	GO:0045202	synapses	synapse
+21905	21907	GO:0065007	to	biological regulation
+21905	21907	GO:0009987	to	cellular process
+21946	21948	GO:0065007	to	biological regulation
+21946	21948	GO:0009987	to	cellular process
+22067	22076	GO:0023052	signaling	signaling
+22206	22208	GO:0065007	to	biological regulation
+22206	22208	GO:0009987	to	cellular process
+22336	22338	GO:0065007	to	biological regulation
+22336	22338	GO:0009987	to	cellular process
+22353	22362	GO:0050896	behaviors	response to stimulus
+22404	22406	GO:0065007	to	biological regulation
+22404	22406	GO:0009987	to	cellular process
+22604	22612	GO:0050896	learning	response to stimulus
+22604	22612	GO:0032501	learning	multicellular organismal process
+22860	22862	GO:0065007	to	biological regulation
+22860	22862	GO:0009987	to	cellular process
+22880	22882	GO:0065007	to	biological regulation
+22880	22882	GO:0009987	to	cellular process
+23592	23600	GO:0050896	behavior	response to stimulus
+23686	23694	GO:0050896	behavior	response to stimulus
+23712	23714	GO:0065007	To	biological regulation
+23712	23714	GO:0009987	To	cellular process
+23771	23773	GO:0065007	to	biological regulation
+23771	23773	GO:0009987	to	cellular process
+23830	23832	GO:0065007	to	biological regulation
+23830	23832	GO:0009987	to	cellular process
+23943	23945	GO:0065007	to	biological regulation
+23943	23945	GO:0009987	to	cellular process
+24000	24002	GO:0065007	to	biological regulation
+24000	24002	GO:0009987	to	cellular process
+24104	24106	GO:0065007	to	biological regulation
+24104	24106	GO:0009987	to	cellular process
+24206	24208	GO:0065007	to	biological regulation
+24206	24208	GO:0009987	to	cellular process
 24226	24228	GO:0065007	to	biological regulation
 24226	24228	GO:0009987	to	cellular process
-24282	24284	GO:0065007	to	biological regulation
-24282	24284	GO:0009987	to	cellular process
-24294	24296	GO:0065007	to	biological regulation
-24294	24296	GO:0009987	to	cellular process
-24362	24364	GO:0065007	to	biological regulation
-24362	24364	GO:0009987	to	cellular process
-24461	24463	GO:0065007	to	biological regulation
-24461	24463	GO:0009987	to	cellular process
-24560	24562	GO:0065007	to	biological regulation
-24560	24562	GO:0009987	to	cellular process
-24560	24562	GO:0065007	to	biological regulation
-24560	24562	GO:0009987	to	cellular process
-24653	24655	GO:0065007	to	biological regulation
-24653	24655	GO:0009987	to	cellular process
-24653	24655	GO:0065007	to	biological regulation
-24653	24655	GO:0009987	to	cellular process
-24737	24739	GO:0065007	to	biological regulation
-24737	24739	GO:0009987	to	cellular process
-25084	25086	GO:0065007	to	biological regulation
-25084	25086	GO:0009987	to	cellular process
-25947	25955	GO:0050896	behavior	response to stimulus
-26066	26068	GO:0065007	to	biological regulation
-26066	26068	GO:0009987	to	cellular process
-26187	26189	GO:0065007	to	biological regulation
-26187	26189	GO:0009987	to	cellular process
-26409	26417	GO:0050896	learning	response to stimulus
-26409	26417	GO:0032501	learning	multicellular organismal process
-26484	26486	GO:0065007	to	biological regulation
-26484	26486	GO:0009987	to	cellular process
-26496	26504	GO:0050896	learning	response to stimulus
-26496	26504	GO:0032501	learning	multicellular organismal process
-26505	26513	GO:0050896	behavior	response to stimulus
-26719	26721	GO:0065007	to	biological regulation
-26719	26721	GO:0009987	to	cellular process
-26719	26721	GO:0065007	to	biological regulation
-26719	26721	GO:0009987	to	cellular process
-26740	26742	GO:0065007	to	biological regulation
-26740	26742	GO:0009987	to	cellular process
-26911	26919	GO:0050896	learning	response to stimulus
-26911	26919	GO:0032501	learning	multicellular organismal process
-26945	26947	GO:0065007	to	biological regulation
-26945	26947	GO:0009987	to	cellular process
-26998	27000	GO:0065007	to	biological regulation
-26998	27000	GO:0009987	to	cellular process
-27224	27226	GO:0065007	to	biological regulation
-27224	27226	GO:0009987	to	cellular process
-27357	27365	GO:0050896	learning	response to stimulus
-27357	27365	GO:0032501	learning	multicellular organismal process
-27474	27482	GO:0050896	learning	response to stimulus
-27474	27482	GO:0032501	learning	multicellular organismal process
-27692	27694	GO:0065007	to	biological regulation
-27692	27694	GO:0009987	to	cellular process
-27692	27694	GO:0065007	to	biological regulation
-27692	27694	GO:0009987	to	cellular process
-27715	27717	GO:0065007	to	biological regulation
-27715	27717	GO:0009987	to	cellular process
-27889	27897	GO:0050896	learning	response to stimulus
-27889	27897	GO:0032501	learning	multicellular organismal process
-28418	28426	GO:0050896	behavior	response to stimulus
-28435	28437	GO:0065007	to	biological regulation
-28435	28437	GO:0009987	to	cellular process
-28485	28487	GO:0065007	to	biological regulation
-28485	28487	GO:0009987	to	cellular process
-28572	28574	GO:0065007	to	biological regulation
-28572	28574	GO:0009987	to	cellular process
-28790	28792	GO:0065007	to	biological regulation
-28790	28792	GO:0009987	to	cellular process
-28911	28919	GO:0050896	behavior	response to stimulus
-28970	28978	GO:0050896	learning	response to stimulus
-28970	28978	GO:0032501	learning	multicellular organismal process
-29007	29016	GO:0050896	behaviors	response to stimulus
-29055	29064	GO:0023052	signaling	signaling
-29077	29079	GO:0065007	to	biological regulation
-29077	29079	GO:0009987	to	cellular process
-29119	29139	GO:0032501	associative learning	multicellular organismal process
-29119	29139	GO:0050896	associative learning	response to stimulus
-29131	29139	GO:0050896	learning	response to stimulus
-29131	29139	GO:0032501	learning	multicellular organismal process
-29428	29436	GO:0050896	behavior	response to stimulus
-29453	29461	GO:0050896	learning	response to stimulus
-29453	29461	GO:0032501	learning	multicellular organismal process
-29525	29527	GO:0065007	to	biological regulation
-29525	29527	GO:0009987	to	cellular process
-29553	29561	GO:0050896	learning	response to stimulus
-29553	29561	GO:0032501	learning	multicellular organismal process
-29664	29672	GO:0050896	learning	response to stimulus
-29664	29672	GO:0032501	learning	multicellular organismal process
-30161	30163	GO:0065007	to	biological regulation
-30161	30163	GO:0009987	to	cellular process
-30379	30387	GO:0050896	learning	response to stimulus
-30379	30387	GO:0032501	learning	multicellular organismal process
-30455	30457	GO:0065007	to	biological regulation
-30455	30457	GO:0009987	to	cellular process
-30455	30457	GO:0065007	to	biological regulation
-30455	30457	GO:0009987	to	cellular process
-30477	30479	GO:0065007	to	biological regulation
-30477	30479	GO:0009987	to	cellular process
+24302	24304	GO:0065007	to	biological regulation
+24302	24304	GO:0009987	to	cellular process
+24358	24360	GO:0065007	to	biological regulation
+24358	24360	GO:0009987	to	cellular process
+24370	24372	GO:0065007	to	biological regulation
+24370	24372	GO:0009987	to	cellular process
+24438	24440	GO:0065007	to	biological regulation
+24438	24440	GO:0009987	to	cellular process
+24537	24539	GO:0065007	to	biological regulation
+24537	24539	GO:0009987	to	cellular process
+24636	24638	GO:0065007	to	biological regulation
+24636	24638	GO:0009987	to	cellular process
+24636	24638	GO:0065007	to	biological regulation
+24636	24638	GO:0009987	to	cellular process
+24729	24731	GO:0065007	to	biological regulation
+24729	24731	GO:0009987	to	cellular process
+24729	24731	GO:0065007	to	biological regulation
+24729	24731	GO:0009987	to	cellular process
+24815	24817	GO:0065007	to	biological regulation
+24815	24817	GO:0009987	to	cellular process
+25162	25164	GO:0065007	to	biological regulation
+25162	25164	GO:0009987	to	cellular process
+26025	26033	GO:0050896	behavior	response to stimulus
+26144	26146	GO:0065007	to	biological regulation
+26144	26146	GO:0009987	to	cellular process
+26265	26267	GO:0065007	to	biological regulation
+26265	26267	GO:0009987	to	cellular process
+26489	26497	GO:0050896	learning	response to stimulus
+26489	26497	GO:0032501	learning	multicellular organismal process
+26566	26568	GO:0065007	to	biological regulation
+26566	26568	GO:0009987	to	cellular process
+26578	26586	GO:0050896	learning	response to stimulus
+26578	26586	GO:0032501	learning	multicellular organismal process
+26587	26595	GO:0050896	behavior	response to stimulus
+26801	26803	GO:0065007	to	biological regulation
+26801	26803	GO:0009987	to	cellular process
+26801	26803	GO:0065007	to	biological regulation
+26801	26803	GO:0009987	to	cellular process
+26822	26824	GO:0065007	to	biological regulation
+26822	26824	GO:0009987	to	cellular process
+26993	27001	GO:0050896	learning	response to stimulus
+26993	27001	GO:0032501	learning	multicellular organismal process
+27031	27033	GO:0065007	to	biological regulation
+27031	27033	GO:0009987	to	cellular process
+27084	27086	GO:0065007	to	biological regulation
+27084	27086	GO:0009987	to	cellular process
+27310	27312	GO:0065007	to	biological regulation
+27310	27312	GO:0009987	to	cellular process
+27443	27451	GO:0050896	learning	response to stimulus
+27443	27451	GO:0032501	learning	multicellular organismal process
+27560	27568	GO:0050896	learning	response to stimulus
+27560	27568	GO:0032501	learning	multicellular organismal process
+27778	27780	GO:0065007	to	biological regulation
+27778	27780	GO:0009987	to	cellular process
+27778	27780	GO:0065007	to	biological regulation
+27778	27780	GO:0009987	to	cellular process
+27801	27803	GO:0065007	to	biological regulation
+27801	27803	GO:0009987	to	cellular process
+27975	27983	GO:0050896	learning	response to stimulus
+27975	27983	GO:0032501	learning	multicellular organismal process
+28518	28526	GO:0050896	behavior	response to stimulus
+28535	28537	GO:0065007	to	biological regulation
+28535	28537	GO:0009987	to	cellular process
+28585	28587	GO:0065007	to	biological regulation
+28585	28587	GO:0009987	to	cellular process
+28672	28674	GO:0065007	to	biological regulation
+28672	28674	GO:0009987	to	cellular process
+28894	28896	GO:0065007	to	biological regulation
+28894	28896	GO:0009987	to	cellular process
+29015	29023	GO:0050896	behavior	response to stimulus
+29074	29082	GO:0050896	learning	response to stimulus
+29074	29082	GO:0032501	learning	multicellular organismal process
+29111	29120	GO:0050896	behaviors	response to stimulus
+29163	29172	GO:0023052	signaling	signaling
+29185	29187	GO:0065007	to	biological regulation
+29185	29187	GO:0009987	to	cellular process
+29227	29247	GO:0032501	associative learning	multicellular organismal process
+29227	29247	GO:0050896	associative learning	response to stimulus
+29239	29247	GO:0050896	learning	response to stimulus
+29239	29247	GO:0032501	learning	multicellular organismal process
+29540	29548	GO:0050896	behavior	response to stimulus
+29565	29573	GO:0050896	learning	response to stimulus
+29565	29573	GO:0032501	learning	multicellular organismal process
+29637	29639	GO:0065007	to	biological regulation
+29637	29639	GO:0009987	to	cellular process
+29665	29673	GO:0050896	learning	response to stimulus
+29665	29673	GO:0032501	learning	multicellular organismal process
+29780	29788	GO:0050896	learning	response to stimulus
+29780	29788	GO:0032501	learning	multicellular organismal process
+30281	30283	GO:0065007	to	biological regulation
+30281	30283	GO:0009987	to	cellular process
+30499	30507	GO:0050896	learning	response to stimulus
+30499	30507	GO:0032501	learning	multicellular organismal process
+30575	30577	GO:0065007	to	biological regulation
+30575	30577	GO:0009987	to	cellular process
+30575	30577	GO:0065007	to	biological regulation
+30575	30577	GO:0009987	to	cellular process
+30597	30599	GO:0065007	to	biological regulation
+30597	30599	GO:0009987	to	cellular process

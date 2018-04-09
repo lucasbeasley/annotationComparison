@@ -3,486 +3,486 @@ StartIndex	EndIndex	GO:ID	Term	OntologyTerm
 39	41	GO:0009987	to	cellular process
 42	52	GO:0065007	hemostasis	biological regulation
 42	52	GO:0032501	hemostasis	multicellular organismal process
-316	318	GO:0065007	to	biological regulation
-316	318	GO:0009987	to	cellular process
-454	456	GO:0065007	to	biological regulation
-454	456	GO:0009987	to	cellular process
-481	491	GO:0065007	hemostasis	biological regulation
-481	491	GO:0032501	hemostasis	multicellular organismal process
-525	527	GO:0065007	to	biological regulation
-525	527	GO:0009987	to	cellular process
-552	562	GO:0065007	hemostasis	biological regulation
-552	562	GO:0032501	hemostasis	multicellular organismal process
-636	647	GO:0044464	chromosomes	cell part
-636	647	GO:0044422	chromosomes	organelle part
-636	647	GO:0043226	chromosomes	organelle
-753	763	GO:0065007	hemostasis	biological regulation
-753	763	GO:0032501	hemostasis	multicellular organismal process
-848	850	GO:0065007	to	biological regulation
-848	850	GO:0009987	to	cellular process
-989	999	GO:0065007	hemostasis	biological regulation
-989	999	GO:0032501	hemostasis	multicellular organismal process
-1080	1090	GO:0043226	chromosome	organelle
-1080	1090	GO:0044422	chromosome	organelle part
-1080	1090	GO:0044464	chromosome	cell part
-1117	1128	GO:0044464	chromosomes	cell part
-1117	1128	GO:0044422	chromosomes	organelle part
-1117	1128	GO:0043226	chromosomes	organelle
-1182	1184	GO:0065007	to	biological regulation
-1182	1184	GO:0009987	to	cellular process
-1288	1290	GO:0065007	to	biological regulation
-1288	1290	GO:0009987	to	cellular process
-1425	1427	GO:0065007	to	biological regulation
-1425	1427	GO:0009987	to	cellular process
-1443	1454	GO:0032501	Coagulation	multicellular organismal process
-1504	1512	GO:0044421	collagen	extraccellular region part
-1565	1575	GO:0043226	chromosome	organelle
-1565	1575	GO:0044422	chromosome	organelle part
-1565	1575	GO:0044464	chromosome	cell part
-1708	1710	GO:0065007	to	biological regulation
-1708	1710	GO:0009987	to	cellular process
-1742	1753	GO:0044464	chromosomes	cell part
-1742	1753	GO:0044422	chromosomes	organelle part
-1742	1753	GO:0043226	chromosomes	organelle
-1791	1793	GO:0065007	to	biological regulation
-1791	1793	GO:0009987	to	cellular process
-1828	1838	GO:0043226	chromosome	organelle
-1828	1838	GO:0044422	chromosome	organelle part
-1828	1838	GO:0044464	chromosome	cell part
-1928	1930	GO:0065007	to	biological regulation
-1928	1930	GO:0009987	to	cellular process
-2119	2129	GO:0043226	chromosome	organelle
-2119	2129	GO:0044422	chromosome	organelle part
-2119	2129	GO:0044464	chromosome	cell part
-2202	2204	GO:0065007	to	biological regulation
-2202	2204	GO:0009987	to	cellular process
-2325	2327	GO:0065007	to	biological regulation
-2325	2327	GO:0009987	to	cellular process
-2791	2800	GO:0008152	formation	metabolic process
-2945	2947	GO:0065007	to	biological regulation
-2945	2947	GO:0009987	to	cellular process
-3183	3194	GO:0032501	coagulation	multicellular organismal process
-3280	3289	GO:0003824	reductase	catalytic activity
-3316	3324	GO:0003824	synthase	catalytic activity
-3413	3415	GO:0065007	to	biological regulation
-3413	3415	GO:0009987	to	cellular process
-3548	3550	GO:0065007	to	biological regulation
-3548	3550	GO:0009987	to	cellular process
-3607	3609	GO:0065007	to	biological regulation
-3607	3609	GO:0009987	to	cellular process
-3673	3675	GO:0065007	to	biological regulation
-3673	3675	GO:0009987	to	cellular process
-3688	3690	GO:0065007	to	biological regulation
-3688	3690	GO:0009987	to	cellular process
-3837	3846	GO:0008152	formation	metabolic process
-3883	3885	GO:0065007	to	biological regulation
-3883	3885	GO:0009987	to	cellular process
-3883	3885	GO:0065007	to	biological regulation
-3883	3885	GO:0009987	to	cellular process
-4041	4043	GO:0065007	to	biological regulation
-4041	4043	GO:0009987	to	cellular process
-4124	4126	GO:0065007	to	biological regulation
-4124	4126	GO:0009987	to	cellular process
-4539	4548	GO:0008152	formation	metabolic process
-4608	4628	GO:0022610	platelet aggregation	biological adhesion
-4608	4628	GO:0009987	platelet aggregation	cellular process
-4630	4641	GO:0032501	coagulation	multicellular organismal process
-4913	4923	GO:0043226	chromosome	organelle
-4913	4923	GO:0044422	chromosome	organelle part
-4913	4923	GO:0044464	chromosome	cell part
-5013	5015	GO:0065007	to	biological regulation
-5013	5015	GO:0009987	to	cellular process
-5205	5215	GO:0043226	chromosome	organelle
-5205	5215	GO:0044422	chromosome	organelle part
-5205	5215	GO:0044464	chromosome	cell part
-5370	5372	GO:0065007	to	biological regulation
-5370	5372	GO:0009987	to	cellular process
-5412	5414	GO:0065007	to	biological regulation
-5412	5414	GO:0009987	to	cellular process
-5483	5493	GO:0043226	chromosome	organelle
-5483	5493	GO:0044422	chromosome	organelle part
-5483	5493	GO:0044464	chromosome	cell part
-5518	5528	GO:0043226	chromosome	organelle
-5518	5528	GO:0044422	chromosome	organelle part
-5518	5528	GO:0044464	chromosome	cell part
-5674	5684	GO:0043226	chromosome	organelle
-5674	5684	GO:0044422	chromosome	organelle part
-5674	5684	GO:0044464	chromosome	cell part
-5724	5726	GO:0065007	to	biological regulation
-5724	5726	GO:0009987	to	cellular process
-6014	6022	GO:0050896	behavior	response to stimulus
-6221	6223	GO:0065007	to	biological regulation
-6221	6223	GO:0009987	to	cellular process
-6376	6387	GO:0032501	coagulation	multicellular organismal process
-6392	6404	GO:0065007	fibrinolysis	biological regulation
-6536	6538	GO:0065007	to	biological regulation
-6536	6538	GO:0009987	to	cellular process
-6539	6550	GO:0032501	coagulation	multicellular organismal process
-6554	6574	GO:0022610	platelet aggregation	biological adhesion
-6554	6574	GO:0009987	platelet aggregation	cellular process
-6798	6800	GO:0065007	to	biological regulation
-6798	6800	GO:0009987	to	cellular process
-6861	6863	GO:0065007	to	biological regulation
-6861	6863	GO:0009987	to	cellular process
-8000	8007	GO:0003824	protein	catalytic activity
-8257	8259	GO:0065007	To	biological regulation
-8257	8259	GO:0009987	To	cellular process
-8278	8287	GO:0008152	formation	metabolic process
-8749	8751	GO:0065007	to	biological regulation
-8749	8751	GO:0009987	to	cellular process
-8867	8869	GO:0065007	to	biological regulation
-8867	8869	GO:0009987	to	cellular process
-9053	9055	GO:0065007	to	biological regulation
-9053	9055	GO:0009987	to	cellular process
-9558	9560	GO:0065007	to	biological regulation
-9558	9560	GO:0009987	to	cellular process
-9832	9843	GO:0032501	Coagulation	multicellular organismal process
-9866	9876	GO:0044421	fibrinogen	extraccellular region part
-9866	9876	GO:0032991	fibrinogen	macromolecular complex
-10211	10222	GO:0032501	Coagulation	multicellular organismal process
-10295	10297	GO:0065007	to	biological regulation
-10295	10297	GO:0009987	to	cellular process
-10457	10465	GO:0044421	antibody	extraccellular region part
-10457	10465	GO:0032991	antibody	macromolecular complex
-10636	10647	GO:0008152	degradation	metabolic process
-10859	10867	GO:0044421	antibody	extraccellular region part
-10859	10867	GO:0032991	antibody	macromolecular complex
-10913	10923	GO:0044421	fibrinogen	extraccellular region part
-10913	10923	GO:0032991	fibrinogen	macromolecular complex
-10949	10959	GO:0044421	antibodies	extraccellular region part
-10949	10959	GO:0032991	antibodies	macromolecular complex
-10981	10991	GO:0044421	fibrinogen	extraccellular region part
-10981	10991	GO:0032991	fibrinogen	macromolecular complex
-11233	11241	GO:0044421	collagen	extraccellular region part
-12102	12104	GO:0065007	to	biological regulation
-12102	12104	GO:0009987	to	cellular process
-12193	12202	GO:0008152	formation	metabolic process
-12234	12236	GO:0065007	to	biological regulation
-12234	12236	GO:0009987	to	cellular process
-12322	12324	GO:0065007	to	biological regulation
-12322	12324	GO:0009987	to	cellular process
-13092	13094	GO:0065007	to	biological regulation
-13092	13094	GO:0009987	to	cellular process
-13494	13496	GO:0065007	to	biological regulation
-13494	13496	GO:0009987	to	cellular process
-13546	13548	GO:0065007	to	biological regulation
-13546	13548	GO:0009987	to	cellular process
-13785	13788	GO:0065007	Red	biological regulation
-13785	13788	GO:0009987	Red	cellular process
-13785	13788	GO:0050896	Red	response to stimulus
-13785	13788	GO:0023046	Red	signaling process
-13845	13847	GO:0065007	to	biological regulation
-13845	13847	GO:0009987	to	cellular process
-14151	14153	GO:0065007	to	biological regulation
-14151	14153	GO:0009987	to	cellular process
-14318	14320	GO:0065007	to	biological regulation
-14318	14320	GO:0009987	to	cellular process
-14322	14324	GO:0065007	to	biological regulation
-14322	14324	GO:0009987	to	cellular process
-14631	14641	GO:0065007	hemostasis	biological regulation
-14631	14641	GO:0032501	hemostasis	multicellular organismal process
-14741	14761	GO:0022610	platelet aggregation	biological adhesion
-14741	14761	GO:0009987	platelet aggregation	cellular process
-14916	14918	GO:0065007	to	biological regulation
-14916	14918	GO:0009987	to	cellular process
-15023	15025	GO:0065007	to	biological regulation
-15023	15025	GO:0009987	to	cellular process
-15105	15107	GO:0065007	to	biological regulation
-15105	15107	GO:0009987	to	cellular process
-15129	15131	GO:0065007	to	biological regulation
-15129	15131	GO:0009987	to	cellular process
-15292	15312	GO:0022610	platelet aggregation	biological adhesion
-15292	15312	GO:0009987	platelet aggregation	cellular process
-15510	15512	GO:0065007	To	biological regulation
-15510	15512	GO:0009987	To	cellular process
-15510	15512	GO:0065007	To	biological regulation
-15510	15512	GO:0009987	To	cellular process
-15919	15921	GO:0065007	to	biological regulation
-15919	15921	GO:0009987	to	cellular process
-16509	16516	GO:0009987	reduced	cellular process
-16509	16516	GO:0008152	reduced	metabolic process
-16509	16516	GO:0005215	reduced	transporter activity
-16509	16516	GO:0051234	reduced	establishment of localization
-16846	16863	GO:0032501	blood coagulation	multicellular organismal process
-16846	16863	GO:0065007	blood coagulation	biological regulation
-16852	16863	GO:0032501	coagulation	multicellular organismal process
-16887	16889	GO:0065007	To	biological regulation
-16887	16889	GO:0009987	To	cellular process
-16918	16929	GO:0032501	coagulation	multicellular organismal process
-16951	16953	GO:0065007	to	biological regulation
-16951	16953	GO:0009987	to	cellular process
-17119	17130	GO:0032501	coagulation	multicellular organismal process
-17218	17235	GO:0065007	intrinsic pathway	biological regulation
-17218	17235	GO:0032501	intrinsic pathway	multicellular organismal process
-17254	17256	GO:0065007	to	biological regulation
-17254	17256	GO:0009987	to	cellular process
-17413	17422	GO:0008152	formation	metabolic process
-17575	17586	GO:0032501	coagulation	multicellular organismal process
-17645	17656	GO:0032501	Coagulation	multicellular organismal process
-18010	18012	GO:0065007	to	biological regulation
-18010	18012	GO:0009987	to	cellular process
-18106	18116	GO:0044421	fibrinogen	extraccellular region part
-18106	18116	GO:0032991	fibrinogen	macromolecular complex
-18149	18151	GO:0065007	To	biological regulation
-18149	18151	GO:0009987	To	cellular process
-18181	18188	GO:0003824	protein	catalytic activity
-18284	18286	GO:0065007	to	biological regulation
-18284	18286	GO:0009987	to	cellular process
-18309	18316	GO:0009987	reduced	cellular process
-18309	18316	GO:0008152	reduced	metabolic process
-18309	18316	GO:0005215	reduced	transporter activity
-18309	18316	GO:0051234	reduced	establishment of localization
-18517	18525	GO:0003824	reducing	catalytic activity
-19606	19614	GO:0044421	collagen	extraccellular region part
-19682	19691	GO:0008152	formation	metabolic process
-19693	19701	GO:0044421	Collagen	extraccellular region part
-19805	19813	GO:0044421	collagen	extraccellular region part
-19866	19874	GO:0044421	Collagen	extraccellular region part
-19947	19949	GO:0065007	to	biological regulation
-19947	19949	GO:0009987	to	cellular process
-20007	20015	GO:0044421	collagen	extraccellular region part
-20007	20015	GO:0044421	collagen	extraccellular region part
-20007	20015	GO:0044421	collagen	extraccellular region part
-20725	20736	GO:0044464	chromosomes	cell part
-20725	20736	GO:0044422	chromosomes	organelle part
-20725	20736	GO:0043226	chromosomes	organelle
-20834	20844	GO:0065007	hemostasis	biological regulation
-20834	20844	GO:0032501	hemostasis	multicellular organismal process
-21083	21085	GO:0065007	to	biological regulation
-21083	21085	GO:0009987	to	cellular process
-21293	21295	GO:0065007	to	biological regulation
-21293	21295	GO:0009987	to	cellular process
-21435	21437	GO:0065007	to	biological regulation
-21435	21437	GO:0009987	to	cellular process
-21468	21470	GO:0065007	to	biological regulation
-21468	21470	GO:0009987	to	cellular process
-21596	21598	GO:0065007	to	biological regulation
-21596	21598	GO:0009987	to	cellular process
-22115	22117	GO:0065007	to	biological regulation
-22115	22117	GO:0009987	to	cellular process
-22292	22294	GO:0065007	to	biological regulation
-22292	22294	GO:0009987	to	cellular process
-22358	22360	GO:0065007	to	biological regulation
-22358	22360	GO:0009987	to	cellular process
-22822	22833	GO:0044464	chromosomes	cell part
-22822	22833	GO:0044422	chromosomes	organelle part
-22822	22833	GO:0043226	chromosomes	organelle
-22914	22916	GO:0065007	to	biological regulation
-22914	22916	GO:0009987	to	cellular process
-22960	22971	GO:0044464	chromosomes	cell part
-22960	22971	GO:0044422	chromosomes	organelle part
-22960	22971	GO:0043226	chromosomes	organelle
-22989	22991	GO:0065007	to	biological regulation
-22989	22991	GO:0009987	to	cellular process
-23256	23267	GO:0044464	chromosomes	cell part
-23256	23267	GO:0044422	chromosomes	organelle part
-23256	23267	GO:0043226	chromosomes	organelle
-23445	23447	GO:0065007	to	biological regulation
-23445	23447	GO:0009987	to	cellular process
-23649	23660	GO:0044464	chromosomes	cell part
-23649	23660	GO:0044422	chromosomes	organelle part
-23649	23660	GO:0043226	chromosomes	organelle
-23841	23851	GO:0044421	fibrinogen	extraccellular region part
-23841	23851	GO:0032991	fibrinogen	macromolecular complex
-23866	23868	GO:0065007	to	biological regulation
-23866	23868	GO:0009987	to	cellular process
-23866	23868	GO:0065007	to	biological regulation
-23866	23868	GO:0009987	to	cellular process
-23987	23989	GO:0065007	to	biological regulation
-23987	23989	GO:0009987	to	cellular process
-24061	24063	GO:0065007	to	biological regulation
-24061	24063	GO:0009987	to	cellular process
-24230	24237	GO:0009987	reduced	cellular process
-24230	24237	GO:0008152	reduced	metabolic process
-24230	24237	GO:0005215	reduced	transporter activity
-24230	24237	GO:0051234	reduced	establishment of localization
-24396	24398	GO:0065007	to	biological regulation
-24396	24398	GO:0009987	to	cellular process
-24658	24665	GO:0009987	reduced	cellular process
-24658	24665	GO:0008152	reduced	metabolic process
-24658	24665	GO:0005215	reduced	transporter activity
-24658	24665	GO:0051234	reduced	establishment of localization
-24694	24696	GO:0065007	to	biological regulation
-24694	24696	GO:0009987	to	cellular process
-24710	24717	GO:0009987	reduced	cellular process
-24710	24717	GO:0008152	reduced	metabolic process
-24710	24717	GO:0005215	reduced	transporter activity
-24710	24717	GO:0051234	reduced	establishment of localization
-24757	24759	GO:0065007	to	biological regulation
-24757	24759	GO:0009987	to	cellular process
-24757	24759	GO:0065007	to	biological regulation
-24757	24759	GO:0009987	to	cellular process
-24981	24988	GO:0009987	reduced	cellular process
-24981	24988	GO:0008152	reduced	metabolic process
-24981	24988	GO:0005215	reduced	transporter activity
-24981	24988	GO:0051234	reduced	establishment of localization
-25096	25098	GO:0065007	to	biological regulation
-25096	25098	GO:0009987	to	cellular process
-25509	25520	GO:0044464	chromosomes	cell part
-25509	25520	GO:0044422	chromosomes	organelle part
-25509	25520	GO:0043226	chromosomes	organelle
-25694	25696	GO:0065007	to	biological regulation
-25694	25696	GO:0009987	to	cellular process
-25851	25860	GO:0008152	formation	metabolic process
-26106	26108	GO:0065007	to	biological regulation
-26106	26108	GO:0009987	to	cellular process
-26562	26572	GO:0043226	chromosome	organelle
-26562	26572	GO:0044422	chromosome	organelle part
-26562	26572	GO:0044464	chromosome	cell part
-26806	26817	GO:0044464	chromosomes	cell part
-26806	26817	GO:0044422	chromosomes	organelle part
-26806	26817	GO:0043226	chromosomes	organelle
-26991	26993	GO:0065007	to	biological regulation
-26991	26993	GO:0009987	to	cellular process
-26991	26993	GO:0065007	to	biological regulation
-26991	26993	GO:0009987	to	cellular process
-27254	27256	GO:0065007	to	biological regulation
-27254	27256	GO:0009987	to	cellular process
-27683	27690	GO:0009987	reduced	cellular process
-27683	27690	GO:0008152	reduced	metabolic process
-27683	27690	GO:0005215	reduced	transporter activity
-27683	27690	GO:0051234	reduced	establishment of localization
-27873	27884	GO:0032501	coagulation	multicellular organismal process
-27942	27953	GO:0044464	chromosomes	cell part
-27942	27953	GO:0044422	chromosomes	organelle part
-27942	27953	GO:0043226	chromosomes	organelle
-27992	27994	GO:0065007	to	biological regulation
-27992	27994	GO:0009987	to	cellular process
-28068	28079	GO:0044464	chromosomes	cell part
-28068	28079	GO:0044422	chromosomes	organelle part
-28068	28079	GO:0043226	chromosomes	organelle
-28117	28128	GO:0044464	chromosomes	cell part
-28117	28128	GO:0044422	chromosomes	organelle part
-28117	28128	GO:0043226	chromosomes	organelle
-28154	28156	GO:0065007	to	biological regulation
-28154	28156	GO:0009987	to	cellular process
-28413	28424	GO:0044464	chromosomes	cell part
-28413	28424	GO:0044422	chromosomes	organelle part
-28413	28424	GO:0043226	chromosomes	organelle
-28472	28474	GO:0065007	to	biological regulation
-28472	28474	GO:0009987	to	cellular process
-28569	28580	GO:0044464	chromosomes	cell part
-28569	28580	GO:0044422	chromosomes	organelle part
-28569	28580	GO:0043226	chromosomes	organelle
-28676	28678	GO:0065007	to	biological regulation
-28676	28678	GO:0009987	to	cellular process
-28882	28891	GO:0008152	formation	metabolic process
-28956	28958	GO:0065007	to	biological regulation
-28956	28958	GO:0009987	to	cellular process
-29252	29254	GO:0065007	to	biological regulation
-29252	29254	GO:0009987	to	cellular process
-29342	29344	GO:0065007	to	biological regulation
-29342	29344	GO:0009987	to	cellular process
-29642	29653	GO:0032501	coagulation	multicellular organismal process
-29755	29764	GO:0008152	formation	metabolic process
-29774	29781	GO:0009987	reduced	cellular process
-29774	29781	GO:0008152	reduced	metabolic process
-29774	29781	GO:0005215	reduced	transporter activity
-29774	29781	GO:0051234	reduced	establishment of localization
-29952	29954	GO:0065007	to	biological regulation
-29952	29954	GO:0009987	to	cellular process
-29974	29983	GO:0008152	formation	metabolic process
-30042	30044	GO:0065007	to	biological regulation
-30042	30044	GO:0009987	to	cellular process
-30115	30126	GO:0032501	coagulation	multicellular organismal process
-30127	30135	GO:0003824	proteins	catalytic activity
-30222	30224	GO:0065007	to	biological regulation
-30222	30224	GO:0009987	to	cellular process
-30258	30260	GO:0065007	to	biological regulation
-30258	30260	GO:0009987	to	cellular process
-30261	30268	GO:0009987	reduced	cellular process
-30261	30268	GO:0008152	reduced	metabolic process
-30261	30268	GO:0005215	reduced	transporter activity
-30261	30268	GO:0051234	reduced	establishment of localization
-30352	30363	GO:0032501	coagulation	multicellular organismal process
-30638	30647	GO:0008152	formation	metabolic process
-30870	30877	GO:0009987	reduced	cellular process
-30870	30877	GO:0008152	reduced	metabolic process
-30870	30877	GO:0005215	reduced	transporter activity
-30870	30877	GO:0051234	reduced	establishment of localization
-30878	30898	GO:0022610	platelet aggregation	biological adhesion
-30878	30898	GO:0009987	platelet aggregation	cellular process
-31076	31078	GO:0065007	to	biological regulation
-31076	31078	GO:0009987	to	cellular process
-31103	31112	GO:0008152	formation	metabolic process
-31233	31244	GO:0032501	coagulation	multicellular organismal process
-31408	31410	GO:0065007	to	biological regulation
-31408	31410	GO:0009987	to	cellular process
-31570	31572	GO:0065007	to	biological regulation
-31570	31572	GO:0009987	to	cellular process
-31859	31861	GO:0065007	to	biological regulation
-31859	31861	GO:0009987	to	cellular process
-31968	31975	GO:0009987	reduced	cellular process
-31968	31975	GO:0008152	reduced	metabolic process
-31968	31975	GO:0005215	reduced	transporter activity
-31968	31975	GO:0051234	reduced	establishment of localization
-31985	31987	GO:0065007	to	biological regulation
-31985	31987	GO:0009987	to	cellular process
-32630	32632	GO:0065007	to	biological regulation
-32630	32632	GO:0009987	to	cellular process
-32777	32784	GO:0009987	reduced	cellular process
-32777	32784	GO:0008152	reduced	metabolic process
-32777	32784	GO:0005215	reduced	transporter activity
-32777	32784	GO:0051234	reduced	establishment of localization
-32814	32816	GO:0065007	to	biological regulation
-32814	32816	GO:0009987	to	cellular process
-32882	32889	GO:0009987	reduced	cellular process
-32882	32889	GO:0008152	reduced	metabolic process
-32882	32889	GO:0005215	reduced	transporter activity
-32882	32889	GO:0051234	reduced	establishment of localization
-33063	33071	GO:0044421	collagen	extraccellular region part
-33145	33155	GO:0008152	metabolism	metabolic process
-33159	33167	GO:0044421	collagen	extraccellular region part
-33171	33184	GO:0005576	extracellular	extracellular region
-33171	33191	GO:0044421	extracellular matrix	extraccellular region part
-33192	33200	GO:0003824	proteins	catalytic activity
-33216	33218	GO:0065007	to	biological regulation
-33216	33218	GO:0009987	to	cellular process
-33248	33255	GO:0009987	reduced	cellular process
-33248	33255	GO:0008152	reduced	metabolic process
-33248	33255	GO:0005215	reduced	transporter activity
-33248	33255	GO:0051234	reduced	establishment of localization
-33386	33397	GO:0044464	chromosomes	cell part
-33386	33397	GO:0044422	chromosomes	organelle part
-33386	33397	GO:0043226	chromosomes	organelle
-33472	33474	GO:0065007	to	biological regulation
-33472	33474	GO:0009987	to	cellular process
-33640	33647	GO:0009987	reduced	cellular process
-33640	33647	GO:0008152	reduced	metabolic process
-33640	33647	GO:0005215	reduced	transporter activity
-33640	33647	GO:0051234	reduced	establishment of localization
-33703	33705	GO:0065007	to	biological regulation
-33703	33705	GO:0009987	to	cellular process
-33967	33969	GO:0065007	to	biological regulation
-33967	33969	GO:0009987	to	cellular process
-34213	34223	GO:0043226	chromosome	organelle
-34213	34223	GO:0044422	chromosome	organelle part
-34213	34223	GO:0044464	chromosome	cell part
-34360	34362	GO:0065007	to	biological regulation
-34360	34362	GO:0009987	to	cellular process
-34467	34475	GO:0003824	proteins	catalytic activity
-34491	34501	GO:0043226	chromosome	organelle
-34491	34501	GO:0044422	chromosome	organelle part
-34491	34501	GO:0044464	chromosome	cell part
-34517	34519	GO:0065007	to	biological regulation
-34517	34519	GO:0009987	to	cellular process
-34673	34675	GO:0065007	to	biological regulation
-34673	34675	GO:0009987	to	cellular process
-34965	34974	GO:0008152	formation	metabolic process
-35095	35103	GO:0044421	collagen	extraccellular region part
-35122	35133	GO:0044464	chromosomes	cell part
-35122	35133	GO:0044422	chromosomes	organelle part
-35122	35133	GO:0043226	chromosomes	organelle
-35391	35393	GO:0065007	to	biological regulation
-35391	35393	GO:0009987	to	cellular process
-35536	35538	GO:0065007	to	biological regulation
-35536	35538	GO:0009987	to	cellular process
-35593	35595	GO:0065007	to	biological regulation
-35593	35595	GO:0009987	to	cellular process
-35653	35666	GO:0005576	extracellular	extracellular region
-35653	35673	GO:0044421	extracellular matrix	extraccellular region part
-35904	35914	GO:0043226	chromosome	organelle
-35904	35914	GO:0044422	chromosome	organelle part
-35904	35914	GO:0044464	chromosome	cell part
-36597	36605	GO:0044421	collagen	extraccellular region part
-36729	36737	GO:0044421	collagen	extraccellular region part
+322	324	GO:0065007	to	biological regulation
+322	324	GO:0009987	to	cellular process
+460	462	GO:0065007	to	biological regulation
+460	462	GO:0009987	to	cellular process
+487	497	GO:0065007	hemostasis	biological regulation
+487	497	GO:0032501	hemostasis	multicellular organismal process
+531	533	GO:0065007	to	biological regulation
+531	533	GO:0009987	to	cellular process
+558	568	GO:0065007	hemostasis	biological regulation
+558	568	GO:0032501	hemostasis	multicellular organismal process
+642	653	GO:0044464	chromosomes	cell part
+642	653	GO:0044422	chromosomes	organelle part
+642	653	GO:0043226	chromosomes	organelle
+763	773	GO:0065007	hemostasis	biological regulation
+763	773	GO:0032501	hemostasis	multicellular organismal process
+858	860	GO:0065007	to	biological regulation
+858	860	GO:0009987	to	cellular process
+999	1009	GO:0065007	hemostasis	biological regulation
+999	1009	GO:0032501	hemostasis	multicellular organismal process
+1090	1100	GO:0043226	chromosome	organelle
+1090	1100	GO:0044422	chromosome	organelle part
+1090	1100	GO:0044464	chromosome	cell part
+1127	1138	GO:0044464	chromosomes	cell part
+1127	1138	GO:0044422	chromosomes	organelle part
+1127	1138	GO:0043226	chromosomes	organelle
+1192	1194	GO:0065007	to	biological regulation
+1192	1194	GO:0009987	to	cellular process
+1302	1304	GO:0065007	to	biological regulation
+1302	1304	GO:0009987	to	cellular process
+1439	1441	GO:0065007	to	biological regulation
+1439	1441	GO:0009987	to	cellular process
+1457	1468	GO:0032501	Coagulation	multicellular organismal process
+1518	1526	GO:0044421	collagen	extraccellular region part
+1579	1589	GO:0043226	chromosome	organelle
+1579	1589	GO:0044422	chromosome	organelle part
+1579	1589	GO:0044464	chromosome	cell part
+1722	1724	GO:0065007	to	biological regulation
+1722	1724	GO:0009987	to	cellular process
+1756	1767	GO:0044464	chromosomes	cell part
+1756	1767	GO:0044422	chromosomes	organelle part
+1756	1767	GO:0043226	chromosomes	organelle
+1805	1807	GO:0065007	to	biological regulation
+1805	1807	GO:0009987	to	cellular process
+1842	1852	GO:0043226	chromosome	organelle
+1842	1852	GO:0044422	chromosome	organelle part
+1842	1852	GO:0044464	chromosome	cell part
+1942	1944	GO:0065007	to	biological regulation
+1942	1944	GO:0009987	to	cellular process
+2137	2147	GO:0043226	chromosome	organelle
+2137	2147	GO:0044422	chromosome	organelle part
+2137	2147	GO:0044464	chromosome	cell part
+2220	2222	GO:0065007	to	biological regulation
+2220	2222	GO:0009987	to	cellular process
+2343	2345	GO:0065007	to	biological regulation
+2343	2345	GO:0009987	to	cellular process
+2813	2822	GO:0008152	formation	metabolic process
+2967	2969	GO:0065007	to	biological regulation
+2967	2969	GO:0009987	to	cellular process
+3205	3216	GO:0032501	coagulation	multicellular organismal process
+3302	3311	GO:0003824	reductase	catalytic activity
+3338	3346	GO:0003824	synthase	catalytic activity
+3435	3437	GO:0065007	to	biological regulation
+3435	3437	GO:0009987	to	cellular process
+3570	3572	GO:0065007	to	biological regulation
+3570	3572	GO:0009987	to	cellular process
+3629	3631	GO:0065007	to	biological regulation
+3629	3631	GO:0009987	to	cellular process
+3695	3697	GO:0065007	to	biological regulation
+3695	3697	GO:0009987	to	cellular process
+3710	3712	GO:0065007	to	biological regulation
+3710	3712	GO:0009987	to	cellular process
+3859	3868	GO:0008152	formation	metabolic process
+3905	3907	GO:0065007	to	biological regulation
+3905	3907	GO:0009987	to	cellular process
+3905	3907	GO:0065007	to	biological regulation
+3905	3907	GO:0009987	to	cellular process
+4065	4067	GO:0065007	to	biological regulation
+4065	4067	GO:0009987	to	cellular process
+4148	4150	GO:0065007	to	biological regulation
+4148	4150	GO:0009987	to	cellular process
+4563	4572	GO:0008152	formation	metabolic process
+4632	4652	GO:0022610	platelet aggregation	biological adhesion
+4632	4652	GO:0009987	platelet aggregation	cellular process
+4654	4665	GO:0032501	coagulation	multicellular organismal process
+4937	4947	GO:0043226	chromosome	organelle
+4937	4947	GO:0044422	chromosome	organelle part
+4937	4947	GO:0044464	chromosome	cell part
+5041	5043	GO:0065007	to	biological regulation
+5041	5043	GO:0009987	to	cellular process
+5237	5247	GO:0043226	chromosome	organelle
+5237	5247	GO:0044422	chromosome	organelle part
+5237	5247	GO:0044464	chromosome	cell part
+5402	5404	GO:0065007	to	biological regulation
+5402	5404	GO:0009987	to	cellular process
+5444	5446	GO:0065007	to	biological regulation
+5444	5446	GO:0009987	to	cellular process
+5515	5525	GO:0043226	chromosome	organelle
+5515	5525	GO:0044422	chromosome	organelle part
+5515	5525	GO:0044464	chromosome	cell part
+5550	5560	GO:0043226	chromosome	organelle
+5550	5560	GO:0044422	chromosome	organelle part
+5550	5560	GO:0044464	chromosome	cell part
+5706	5716	GO:0043226	chromosome	organelle
+5706	5716	GO:0044422	chromosome	organelle part
+5706	5716	GO:0044464	chromosome	cell part
+5756	5758	GO:0065007	to	biological regulation
+5756	5758	GO:0009987	to	cellular process
+6046	6054	GO:0050896	behavior	response to stimulus
+6255	6257	GO:0065007	to	biological regulation
+6255	6257	GO:0009987	to	cellular process
+6410	6421	GO:0032501	coagulation	multicellular organismal process
+6426	6438	GO:0065007	fibrinolysis	biological regulation
+6570	6572	GO:0065007	to	biological regulation
+6570	6572	GO:0009987	to	cellular process
+6573	6584	GO:0032501	coagulation	multicellular organismal process
+6588	6608	GO:0022610	platelet aggregation	biological adhesion
+6588	6608	GO:0009987	platelet aggregation	cellular process
+6832	6834	GO:0065007	to	biological regulation
+6832	6834	GO:0009987	to	cellular process
+6895	6897	GO:0065007	to	biological regulation
+6895	6897	GO:0009987	to	cellular process
+8040	8047	GO:0003824	protein	catalytic activity
+8301	8303	GO:0065007	To	biological regulation
+8301	8303	GO:0009987	To	cellular process
+8322	8331	GO:0008152	formation	metabolic process
+8793	8795	GO:0065007	to	biological regulation
+8793	8795	GO:0009987	to	cellular process
+8911	8913	GO:0065007	to	biological regulation
+8911	8913	GO:0009987	to	cellular process
+9097	9099	GO:0065007	to	biological regulation
+9097	9099	GO:0009987	to	cellular process
+9606	9608	GO:0065007	to	biological regulation
+9606	9608	GO:0009987	to	cellular process
+9882	9893	GO:0032501	Coagulation	multicellular organismal process
+9916	9926	GO:0044421	fibrinogen	extraccellular region part
+9916	9926	GO:0032991	fibrinogen	macromolecular complex
+10263	10274	GO:0032501	Coagulation	multicellular organismal process
+10347	10349	GO:0065007	to	biological regulation
+10347	10349	GO:0009987	to	cellular process
+10509	10517	GO:0044421	antibody	extraccellular region part
+10509	10517	GO:0032991	antibody	macromolecular complex
+10688	10699	GO:0008152	degradation	metabolic process
+10911	10919	GO:0044421	antibody	extraccellular region part
+10911	10919	GO:0032991	antibody	macromolecular complex
+10965	10975	GO:0044421	fibrinogen	extraccellular region part
+10965	10975	GO:0032991	fibrinogen	macromolecular complex
+11001	11011	GO:0044421	antibodies	extraccellular region part
+11001	11011	GO:0032991	antibodies	macromolecular complex
+11033	11043	GO:0044421	fibrinogen	extraccellular region part
+11033	11043	GO:0032991	fibrinogen	macromolecular complex
+11289	11297	GO:0044421	collagen	extraccellular region part
+12162	12164	GO:0065007	to	biological regulation
+12162	12164	GO:0009987	to	cellular process
+12257	12266	GO:0008152	formation	metabolic process
+12300	12302	GO:0065007	to	biological regulation
+12300	12302	GO:0009987	to	cellular process
+12388	12390	GO:0065007	to	biological regulation
+12388	12390	GO:0009987	to	cellular process
+13158	13160	GO:0065007	to	biological regulation
+13158	13160	GO:0009987	to	cellular process
+13560	13562	GO:0065007	to	biological regulation
+13560	13562	GO:0009987	to	cellular process
+13612	13614	GO:0065007	to	biological regulation
+13612	13614	GO:0009987	to	cellular process
+13855	13858	GO:0065007	Red	biological regulation
+13855	13858	GO:0009987	Red	cellular process
+13855	13858	GO:0050896	Red	response to stimulus
+13855	13858	GO:0023046	Red	signaling process
+13915	13917	GO:0065007	to	biological regulation
+13915	13917	GO:0009987	to	cellular process
+14225	14227	GO:0065007	to	biological regulation
+14225	14227	GO:0009987	to	cellular process
+14392	14394	GO:0065007	to	biological regulation
+14392	14394	GO:0009987	to	cellular process
+14396	14398	GO:0065007	to	biological regulation
+14396	14398	GO:0009987	to	cellular process
+14705	14715	GO:0065007	hemostasis	biological regulation
+14705	14715	GO:0032501	hemostasis	multicellular organismal process
+14815	14835	GO:0022610	platelet aggregation	biological adhesion
+14815	14835	GO:0009987	platelet aggregation	cellular process
+14990	14992	GO:0065007	to	biological regulation
+14990	14992	GO:0009987	to	cellular process
+15097	15099	GO:0065007	to	biological regulation
+15097	15099	GO:0009987	to	cellular process
+15179	15181	GO:0065007	to	biological regulation
+15179	15181	GO:0009987	to	cellular process
+15203	15205	GO:0065007	to	biological regulation
+15203	15205	GO:0009987	to	cellular process
+15366	15386	GO:0022610	platelet aggregation	biological adhesion
+15366	15386	GO:0009987	platelet aggregation	cellular process
+15588	15590	GO:0065007	To	biological regulation
+15588	15590	GO:0009987	To	cellular process
+15588	15590	GO:0065007	To	biological regulation
+15588	15590	GO:0009987	To	cellular process
+15999	16001	GO:0065007	to	biological regulation
+15999	16001	GO:0009987	to	cellular process
+16589	16596	GO:0009987	reduced	cellular process
+16589	16596	GO:0008152	reduced	metabolic process
+16589	16596	GO:0005215	reduced	transporter activity
+16589	16596	GO:0051234	reduced	establishment of localization
+16928	16945	GO:0032501	blood coagulation	multicellular organismal process
+16928	16945	GO:0065007	blood coagulation	biological regulation
+16934	16945	GO:0032501	coagulation	multicellular organismal process
+16971	16973	GO:0065007	To	biological regulation
+16971	16973	GO:0009987	To	cellular process
+17002	17013	GO:0032501	coagulation	multicellular organismal process
+17035	17037	GO:0065007	to	biological regulation
+17035	17037	GO:0009987	to	cellular process
+17203	17214	GO:0032501	coagulation	multicellular organismal process
+17302	17319	GO:0065007	intrinsic pathway	biological regulation
+17302	17319	GO:0032501	intrinsic pathway	multicellular organismal process
+17338	17340	GO:0065007	to	biological regulation
+17338	17340	GO:0009987	to	cellular process
+17497	17506	GO:0008152	formation	metabolic process
+17659	17670	GO:0032501	coagulation	multicellular organismal process
+17733	17744	GO:0032501	Coagulation	multicellular organismal process
+18104	18106	GO:0065007	to	biological regulation
+18104	18106	GO:0009987	to	cellular process
+18200	18210	GO:0044421	fibrinogen	extraccellular region part
+18200	18210	GO:0032991	fibrinogen	macromolecular complex
+18243	18245	GO:0065007	To	biological regulation
+18243	18245	GO:0009987	To	cellular process
+18275	18282	GO:0003824	protein	catalytic activity
+18378	18380	GO:0065007	to	biological regulation
+18378	18380	GO:0009987	to	cellular process
+18403	18410	GO:0009987	reduced	cellular process
+18403	18410	GO:0008152	reduced	metabolic process
+18403	18410	GO:0005215	reduced	transporter activity
+18403	18410	GO:0051234	reduced	establishment of localization
+18611	18619	GO:0003824	reducing	catalytic activity
+19704	19712	GO:0044421	collagen	extraccellular region part
+19780	19789	GO:0008152	formation	metabolic process
+19791	19799	GO:0044421	Collagen	extraccellular region part
+19903	19911	GO:0044421	collagen	extraccellular region part
+19964	19972	GO:0044421	Collagen	extraccellular region part
+20045	20047	GO:0065007	to	biological regulation
+20045	20047	GO:0009987	to	cellular process
+20109	20117	GO:0044421	collagen	extraccellular region part
+20109	20117	GO:0044421	collagen	extraccellular region part
+20109	20117	GO:0044421	collagen	extraccellular region part
+20829	20840	GO:0044464	chromosomes	cell part
+20829	20840	GO:0044422	chromosomes	organelle part
+20829	20840	GO:0043226	chromosomes	organelle
+20940	20950	GO:0065007	hemostasis	biological regulation
+20940	20950	GO:0032501	hemostasis	multicellular organismal process
+21189	21191	GO:0065007	to	biological regulation
+21189	21191	GO:0009987	to	cellular process
+21399	21401	GO:0065007	to	biological regulation
+21399	21401	GO:0009987	to	cellular process
+21541	21543	GO:0065007	to	biological regulation
+21541	21543	GO:0009987	to	cellular process
+21574	21576	GO:0065007	to	biological regulation
+21574	21576	GO:0009987	to	cellular process
+21702	21704	GO:0065007	to	biological regulation
+21702	21704	GO:0009987	to	cellular process
+22225	22227	GO:0065007	to	biological regulation
+22225	22227	GO:0009987	to	cellular process
+22404	22406	GO:0065007	to	biological regulation
+22404	22406	GO:0009987	to	cellular process
+22470	22472	GO:0065007	to	biological regulation
+22470	22472	GO:0009987	to	cellular process
+22934	22945	GO:0044464	chromosomes	cell part
+22934	22945	GO:0044422	chromosomes	organelle part
+22934	22945	GO:0043226	chromosomes	organelle
+23026	23028	GO:0065007	to	biological regulation
+23026	23028	GO:0009987	to	cellular process
+23072	23083	GO:0044464	chromosomes	cell part
+23072	23083	GO:0044422	chromosomes	organelle part
+23072	23083	GO:0043226	chromosomes	organelle
+23101	23103	GO:0065007	to	biological regulation
+23101	23103	GO:0009987	to	cellular process
+23372	23383	GO:0044464	chromosomes	cell part
+23372	23383	GO:0044422	chromosomes	organelle part
+23372	23383	GO:0043226	chromosomes	organelle
+23561	23563	GO:0065007	to	biological regulation
+23561	23563	GO:0009987	to	cellular process
+23769	23780	GO:0044464	chromosomes	cell part
+23769	23780	GO:0044422	chromosomes	organelle part
+23769	23780	GO:0043226	chromosomes	organelle
+23961	23971	GO:0044421	fibrinogen	extraccellular region part
+23961	23971	GO:0032991	fibrinogen	macromolecular complex
+23986	23988	GO:0065007	to	biological regulation
+23986	23988	GO:0009987	to	cellular process
+23986	23988	GO:0065007	to	biological regulation
+23986	23988	GO:0009987	to	cellular process
+24107	24109	GO:0065007	to	biological regulation
+24107	24109	GO:0009987	to	cellular process
+24181	24183	GO:0065007	to	biological regulation
+24181	24183	GO:0009987	to	cellular process
+24350	24357	GO:0009987	reduced	cellular process
+24350	24357	GO:0008152	reduced	metabolic process
+24350	24357	GO:0005215	reduced	transporter activity
+24350	24357	GO:0051234	reduced	establishment of localization
+24516	24518	GO:0065007	to	biological regulation
+24516	24518	GO:0009987	to	cellular process
+24780	24787	GO:0009987	reduced	cellular process
+24780	24787	GO:0008152	reduced	metabolic process
+24780	24787	GO:0005215	reduced	transporter activity
+24780	24787	GO:0051234	reduced	establishment of localization
+24816	24818	GO:0065007	to	biological regulation
+24816	24818	GO:0009987	to	cellular process
+24832	24839	GO:0009987	reduced	cellular process
+24832	24839	GO:0008152	reduced	metabolic process
+24832	24839	GO:0005215	reduced	transporter activity
+24832	24839	GO:0051234	reduced	establishment of localization
+24879	24881	GO:0065007	to	biological regulation
+24879	24881	GO:0009987	to	cellular process
+24879	24881	GO:0065007	to	biological regulation
+24879	24881	GO:0009987	to	cellular process
+25103	25110	GO:0009987	reduced	cellular process
+25103	25110	GO:0008152	reduced	metabolic process
+25103	25110	GO:0005215	reduced	transporter activity
+25103	25110	GO:0051234	reduced	establishment of localization
+25218	25220	GO:0065007	to	biological regulation
+25218	25220	GO:0009987	to	cellular process
+25635	25646	GO:0044464	chromosomes	cell part
+25635	25646	GO:0044422	chromosomes	organelle part
+25635	25646	GO:0043226	chromosomes	organelle
+25820	25822	GO:0065007	to	biological regulation
+25820	25822	GO:0009987	to	cellular process
+25979	25988	GO:0008152	formation	metabolic process
+26236	26238	GO:0065007	to	biological regulation
+26236	26238	GO:0009987	to	cellular process
+26692	26702	GO:0043226	chromosome	organelle
+26692	26702	GO:0044422	chromosome	organelle part
+26692	26702	GO:0044464	chromosome	cell part
+26940	26951	GO:0044464	chromosomes	cell part
+26940	26951	GO:0044422	chromosomes	organelle part
+26940	26951	GO:0043226	chromosomes	organelle
+27125	27127	GO:0065007	to	biological regulation
+27125	27127	GO:0009987	to	cellular process
+27125	27127	GO:0065007	to	biological regulation
+27125	27127	GO:0009987	to	cellular process
+27392	27394	GO:0065007	to	biological regulation
+27392	27394	GO:0009987	to	cellular process
+27821	27828	GO:0009987	reduced	cellular process
+27821	27828	GO:0008152	reduced	metabolic process
+27821	27828	GO:0005215	reduced	transporter activity
+27821	27828	GO:0051234	reduced	establishment of localization
+28011	28022	GO:0032501	coagulation	multicellular organismal process
+28080	28091	GO:0044464	chromosomes	cell part
+28080	28091	GO:0044422	chromosomes	organelle part
+28080	28091	GO:0043226	chromosomes	organelle
+28130	28132	GO:0065007	to	biological regulation
+28130	28132	GO:0009987	to	cellular process
+28206	28217	GO:0044464	chromosomes	cell part
+28206	28217	GO:0044422	chromosomes	organelle part
+28206	28217	GO:0043226	chromosomes	organelle
+28255	28266	GO:0044464	chromosomes	cell part
+28255	28266	GO:0044422	chromosomes	organelle part
+28255	28266	GO:0043226	chromosomes	organelle
+28292	28294	GO:0065007	to	biological regulation
+28292	28294	GO:0009987	to	cellular process
+28551	28562	GO:0044464	chromosomes	cell part
+28551	28562	GO:0044422	chromosomes	organelle part
+28551	28562	GO:0043226	chromosomes	organelle
+28610	28612	GO:0065007	to	biological regulation
+28610	28612	GO:0009987	to	cellular process
+28707	28718	GO:0044464	chromosomes	cell part
+28707	28718	GO:0044422	chromosomes	organelle part
+28707	28718	GO:0043226	chromosomes	organelle
+28816	28818	GO:0065007	to	biological regulation
+28816	28818	GO:0009987	to	cellular process
+29022	29031	GO:0008152	formation	metabolic process
+29096	29098	GO:0065007	to	biological regulation
+29096	29098	GO:0009987	to	cellular process
+29392	29394	GO:0065007	to	biological regulation
+29392	29394	GO:0009987	to	cellular process
+29482	29484	GO:0065007	to	biological regulation
+29482	29484	GO:0009987	to	cellular process
+29782	29793	GO:0032501	coagulation	multicellular organismal process
+29895	29904	GO:0008152	formation	metabolic process
+29914	29921	GO:0009987	reduced	cellular process
+29914	29921	GO:0008152	reduced	metabolic process
+29914	29921	GO:0005215	reduced	transporter activity
+29914	29921	GO:0051234	reduced	establishment of localization
+30092	30094	GO:0065007	to	biological regulation
+30092	30094	GO:0009987	to	cellular process
+30114	30123	GO:0008152	formation	metabolic process
+30184	30186	GO:0065007	to	biological regulation
+30184	30186	GO:0009987	to	cellular process
+30257	30268	GO:0032501	coagulation	multicellular organismal process
+30269	30277	GO:0003824	proteins	catalytic activity
+30364	30366	GO:0065007	to	biological regulation
+30364	30366	GO:0009987	to	cellular process
+30400	30402	GO:0065007	to	biological regulation
+30400	30402	GO:0009987	to	cellular process
+30403	30410	GO:0009987	reduced	cellular process
+30403	30410	GO:0008152	reduced	metabolic process
+30403	30410	GO:0005215	reduced	transporter activity
+30403	30410	GO:0051234	reduced	establishment of localization
+30494	30505	GO:0032501	coagulation	multicellular organismal process
+30780	30789	GO:0008152	formation	metabolic process
+31012	31019	GO:0009987	reduced	cellular process
+31012	31019	GO:0008152	reduced	metabolic process
+31012	31019	GO:0005215	reduced	transporter activity
+31012	31019	GO:0051234	reduced	establishment of localization
+31020	31040	GO:0022610	platelet aggregation	biological adhesion
+31020	31040	GO:0009987	platelet aggregation	cellular process
+31218	31220	GO:0065007	to	biological regulation
+31218	31220	GO:0009987	to	cellular process
+31245	31254	GO:0008152	formation	metabolic process
+31375	31386	GO:0032501	coagulation	multicellular organismal process
+31552	31554	GO:0065007	to	biological regulation
+31552	31554	GO:0009987	to	cellular process
+31714	31716	GO:0065007	to	biological regulation
+31714	31716	GO:0009987	to	cellular process
+32003	32005	GO:0065007	to	biological regulation
+32003	32005	GO:0009987	to	cellular process
+32112	32119	GO:0009987	reduced	cellular process
+32112	32119	GO:0008152	reduced	metabolic process
+32112	32119	GO:0005215	reduced	transporter activity
+32112	32119	GO:0051234	reduced	establishment of localization
+32129	32131	GO:0065007	to	biological regulation
+32129	32131	GO:0009987	to	cellular process
+32776	32778	GO:0065007	to	biological regulation
+32776	32778	GO:0009987	to	cellular process
+32923	32930	GO:0009987	reduced	cellular process
+32923	32930	GO:0008152	reduced	metabolic process
+32923	32930	GO:0005215	reduced	transporter activity
+32923	32930	GO:0051234	reduced	establishment of localization
+32960	32962	GO:0065007	to	biological regulation
+32960	32962	GO:0009987	to	cellular process
+33028	33035	GO:0009987	reduced	cellular process
+33028	33035	GO:0008152	reduced	metabolic process
+33028	33035	GO:0005215	reduced	transporter activity
+33028	33035	GO:0051234	reduced	establishment of localization
+33209	33217	GO:0044421	collagen	extraccellular region part
+33291	33301	GO:0008152	metabolism	metabolic process
+33305	33313	GO:0044421	collagen	extraccellular region part
+33317	33330	GO:0005576	extracellular	extracellular region
+33317	33337	GO:0044421	extracellular matrix	extraccellular region part
+33338	33346	GO:0003824	proteins	catalytic activity
+33362	33364	GO:0065007	to	biological regulation
+33362	33364	GO:0009987	to	cellular process
+33394	33401	GO:0009987	reduced	cellular process
+33394	33401	GO:0008152	reduced	metabolic process
+33394	33401	GO:0005215	reduced	transporter activity
+33394	33401	GO:0051234	reduced	establishment of localization
+33534	33545	GO:0044464	chromosomes	cell part
+33534	33545	GO:0044422	chromosomes	organelle part
+33534	33545	GO:0043226	chromosomes	organelle
+33620	33622	GO:0065007	to	biological regulation
+33620	33622	GO:0009987	to	cellular process
+33788	33795	GO:0009987	reduced	cellular process
+33788	33795	GO:0008152	reduced	metabolic process
+33788	33795	GO:0005215	reduced	transporter activity
+33788	33795	GO:0051234	reduced	establishment of localization
+33851	33853	GO:0065007	to	biological regulation
+33851	33853	GO:0009987	to	cellular process
+34115	34117	GO:0065007	to	biological regulation
+34115	34117	GO:0009987	to	cellular process
+34361	34371	GO:0043226	chromosome	organelle
+34361	34371	GO:0044422	chromosome	organelle part
+34361	34371	GO:0044464	chromosome	cell part
+34508	34510	GO:0065007	to	biological regulation
+34508	34510	GO:0009987	to	cellular process
+34615	34623	GO:0003824	proteins	catalytic activity
+34639	34649	GO:0043226	chromosome	organelle
+34639	34649	GO:0044422	chromosome	organelle part
+34639	34649	GO:0044464	chromosome	cell part
+34665	34667	GO:0065007	to	biological regulation
+34665	34667	GO:0009987	to	cellular process
+34821	34823	GO:0065007	to	biological regulation
+34821	34823	GO:0009987	to	cellular process
+35115	35124	GO:0008152	formation	metabolic process
+35245	35253	GO:0044421	collagen	extraccellular region part
+35272	35283	GO:0044464	chromosomes	cell part
+35272	35283	GO:0044422	chromosomes	organelle part
+35272	35283	GO:0043226	chromosomes	organelle
+35545	35547	GO:0065007	to	biological regulation
+35545	35547	GO:0009987	to	cellular process
+35690	35692	GO:0065007	to	biological regulation
+35690	35692	GO:0009987	to	cellular process
+35747	35749	GO:0065007	to	biological regulation
+35747	35749	GO:0009987	to	cellular process
+35807	35820	GO:0005576	extracellular	extracellular region
+35807	35827	GO:0044421	extracellular matrix	extraccellular region part
+36064	36074	GO:0043226	chromosome	organelle
+36064	36074	GO:0044422	chromosome	organelle part
+36064	36074	GO:0044464	chromosome	cell part
+36785	36793	GO:0044421	collagen	extraccellular region part
+36917	36925	GO:0044421	collagen	extraccellular region part

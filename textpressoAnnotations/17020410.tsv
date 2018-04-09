@@ -1,529 +1,529 @@
 StartIndex	EndIndex	GO:ID	Term	OntologyTerm
-234	236	GO:0065007	to	biological regulation
-234	236	GO:0009987	to	cellular process
-503	505	GO:0065007	to	biological regulation
-503	505	GO:0009987	to	cellular process
-503	505	GO:0065007	to	biological regulation
-503	505	GO:0009987	to	cellular process
-687	697	GO:0050896	DNA repair	response to stimulus
-687	697	GO:0009987	DNA repair	cellular process
-687	697	GO:0008152	DNA repair	metabolic process
-708	721	GO:0009987	transcription	cellular process
-708	721	GO:0008152	transcription	metabolic process
-775	777	GO:0050896	UV	response to stimulus
-775	777	GO:0065007	UV	biological regulation
-775	777	GO:0009987	UV	cellular process
-775	777	GO:0023046	UV	signaling process
-816	818	GO:0065007	to	biological regulation
-816	818	GO:0009987	to	cellular process
-929	931	GO:0065007	to	biological regulation
-929	931	GO:0009987	to	cellular process
-1045	1047	GO:0065007	to	biological regulation
-1045	1047	GO:0009987	to	cellular process
-1116	1129	GO:0009987	transcription	cellular process
-1116	1129	GO:0008152	transcription	metabolic process
-1465	1467	GO:0065007	to	biological regulation
-1465	1467	GO:0009987	to	cellular process
-1547	1549	GO:0065007	to	biological regulation
-1547	1549	GO:0009987	to	cellular process
-1724	1726	GO:0065007	to	biological regulation
-1724	1726	GO:0009987	to	cellular process
-1724	1726	GO:0065007	to	biological regulation
-1724	1726	GO:0009987	to	cellular process
-1724	1726	GO:0065007	to	biological regulation
-1724	1726	GO:0009987	to	cellular process
-1743	1745	GO:0065007	to	biological regulation
-1743	1745	GO:0009987	to	cellular process
-2196	2215	GO:0003824	uridylyltransferase	catalytic activity
-2460	2462	GO:0065007	to	biological regulation
-2460	2462	GO:0009987	to	cellular process
-2969	2982	GO:0009987	transcription	cellular process
-2969	2982	GO:0008152	transcription	metabolic process
-2983	2993	GO:0050896	DNA repair	response to stimulus
-2983	2993	GO:0009987	DNA repair	cellular process
-2983	2993	GO:0008152	DNA repair	metabolic process
-3111	3124	GO:0009987	transcription	cellular process
-3111	3124	GO:0008152	transcription	metabolic process
-3111	3135	GO:0016043	transcription initiation	cellular component organization
-3194	3197	GO:0009987	NER	cellular process
-3194	3197	GO:0008152	NER	metabolic process
-3194	3197	GO:0050896	NER	response to stimulus
-3472	3484	GO:0043473	pigmentation	pigmentation
-3591	3597	GO:0040007	growth	growth
-3751	3757	GO:0040007	growth	growth
-4016	4029	GO:0009987	transcription	cellular process
-4016	4029	GO:0008152	transcription	metabolic process
-4049	4053	GO:0005623	cell	cell
-4542	4544	GO:0065007	to	biological regulation
-4542	4544	GO:0009987	to	cellular process
-4826	4828	GO:0065007	to	biological regulation
-4826	4828	GO:0009987	to	cellular process
-5006	5008	GO:0065007	to	biological regulation
-5006	5008	GO:0009987	to	cellular process
-5093	5095	GO:0065007	to	biological regulation
-5093	5095	GO:0009987	to	cellular process
-5422	5428	GO:0032502	ageing	developmental process
-5459	5469	GO:0050896	DNA repair	response to stimulus
-5459	5469	GO:0009987	DNA repair	cellular process
-5459	5469	GO:0008152	DNA repair	metabolic process
-5484	5486	GO:0050896	UV	response to stimulus
-5484	5486	GO:0065007	UV	biological regulation
-5484	5486	GO:0009987	UV	cellular process
-5484	5486	GO:0023046	UV	signaling process
-5804	5813	GO:0009987	embryonic	cellular process
-5804	5813	GO:0065007	embryonic	biological regulation
-5819	5824	GO:0005623	cells	cell
-5872	5879	GO:0009987	reduced	cellular process
-5872	5879	GO:0008152	reduced	metabolic process
-5872	5879	GO:0005215	reduced	transporter activity
-5872	5879	GO:0051234	reduced	establishment of localization
-5910	5912	GO:0065007	to	biological regulation
-5910	5912	GO:0009987	to	cellular process
-6089	6096	GO:0003824	protein	catalytic activity
-6180	6182	GO:0065007	to	biological regulation
-6180	6182	GO:0009987	to	cellular process
-6301	6310	GO:0009987	embryonic	cellular process
-6301	6310	GO:0065007	embryonic	biological regulation
-6336	6343	GO:0032502	embryos	developmental process
-6504	6506	GO:0065007	to	biological regulation
-6504	6506	GO:0009987	to	cellular process
-6507	6514	GO:0009987	reduced	cellular process
-6507	6514	GO:0008152	reduced	metabolic process
-6507	6514	GO:0005215	reduced	transporter activity
-6507	6514	GO:0051234	reduced	establishment of localization
-6554	6561	GO:0003824	protein	catalytic activity
-6616	6618	GO:0065007	to	biological regulation
-6616	6618	GO:0009987	to	cellular process
-6730	6743	GO:0032502	embryogenesis	developmental process
-7082	7084	GO:0065007	to	biological regulation
-7082	7084	GO:0009987	to	cellular process
-7573	7575	GO:0065007	to	biological regulation
-7573	7575	GO:0009987	to	cellular process
-8430	8439	GO:0009987	embryonic	cellular process
-8430	8439	GO:0065007	embryonic	biological regulation
-8445	8449	GO:0005623	cell	cell
-8873	8882	GO:0009987	embryonic	cellular process
-8873	8882	GO:0065007	embryonic	biological regulation
-8888	8892	GO:0005623	cell	cell
-9531	9538	GO:0032502	Embryos	developmental process
-9631	9633	GO:0065007	To	biological regulation
-9631	9633	GO:0009987	To	cellular process
-9690	9692	GO:0065007	to	biological regulation
-9690	9692	GO:0009987	to	cellular process
-9690	9692	GO:0065007	to	biological regulation
-9690	9692	GO:0009987	to	cellular process
-9717	9719	GO:0065007	to	biological regulation
-9717	9719	GO:0009987	to	cellular process
-10069	10076	GO:0009987	reduced	cellular process
-10069	10076	GO:0008152	reduced	metabolic process
-10069	10076	GO:0005215	reduced	transporter activity
-10069	10076	GO:0051234	reduced	establishment of localization
-10190	10192	GO:0065007	to	biological regulation
-10190	10192	GO:0009987	to	cellular process
-10251	10261	GO:0044421	antibodies	extraccellular region part
-10251	10261	GO:0032991	antibodies	macromolecular complex
-10280	10282	GO:0065007	to	biological regulation
-10280	10282	GO:0009987	to	cellular process
-10397	10399	GO:0065007	to	biological regulation
-10397	10399	GO:0009987	to	cellular process
-10437	10444	GO:0003824	protein	catalytic activity
-10480	10487	GO:0009987	reduced	cellular process
-10480	10487	GO:0008152	reduced	metabolic process
-10480	10487	GO:0005215	reduced	transporter activity
-10480	10487	GO:0051234	reduced	establishment of localization
-10604	10606	GO:0065007	to	biological regulation
-10604	10606	GO:0009987	to	cellular process
-10880	10890	GO:0032501	hair cycle	multicellular organismal process
-11050	11060	GO:0032501	hair cycle	multicellular organismal process
-11596	11598	GO:0065007	to	biological regulation
-11596	11598	GO:0009987	to	cellular process
-11757	11759	GO:0065007	to	biological regulation
-11757	11759	GO:0009987	to	cellular process
-12986	12991	GO:0005623	cells	cell
-13819	13826	GO:0009987	reduced	cellular process
-13819	13826	GO:0008152	reduced	metabolic process
-13819	13826	GO:0005215	reduced	transporter activity
-13819	13826	GO:0051234	reduced	establishment of localization
-14003	14005	GO:0065007	to	biological regulation
-14003	14005	GO:0009987	to	cellular process
-14505	14507	GO:0065007	to	biological regulation
-14505	14507	GO:0009987	to	cellular process
-14952	14958	GO:0032502	Ageing	developmental process
-15445	15447	GO:0065007	to	biological regulation
-15445	15447	GO:0009987	to	cellular process
-15883	15888	GO:0005623	Cells	cell
-15888	15890	GO:0065007	To	biological regulation
-15888	15890	GO:0009987	To	cellular process
-15973	15975	GO:0065007	to	biological regulation
-15973	15975	GO:0009987	to	cellular process
-15991	15993	GO:0065007	to	biological regulation
-15991	15993	GO:0009987	to	cellular process
-16310	16317	GO:0009987	reduced	cellular process
-16310	16317	GO:0008152	reduced	metabolic process
-16310	16317	GO:0005215	reduced	transporter activity
-16310	16317	GO:0051234	reduced	establishment of localization
-16551	16558	GO:0009987	reduced	cellular process
-16551	16558	GO:0008152	reduced	metabolic process
-16551	16558	GO:0005215	reduced	transporter activity
-16551	16558	GO:0051234	reduced	establishment of localization
-16586	16588	GO:0065007	to	biological regulation
-16586	16588	GO:0009987	to	cellular process
-16676	16678	GO:0065007	to	biological regulation
-16676	16678	GO:0009987	to	cellular process
-16730	16732	GO:0065007	to	biological regulation
-16730	16732	GO:0009987	to	cellular process
-16898	16907	GO:0008152	synthesis	metabolic process
-16914	16916	GO:0050896	UV	response to stimulus
-16914	16916	GO:0065007	UV	biological regulation
-16914	16916	GO:0009987	UV	cellular process
-16914	16916	GO:0023046	UV	signaling process
-16951	16964	GO:0009987	RNA synthesis	cellular process
-16951	16964	GO:0008152	RNA synthesis	metabolic process
-16955	16964	GO:0008152	synthesis	metabolic process
-16971	16973	GO:0050896	UV	response to stimulus
-16971	16973	GO:0065007	UV	biological regulation
-16971	16973	GO:0009987	UV	cellular process
-16971	16973	GO:0023046	UV	signaling process
-16987	16989	GO:0050896	UV	response to stimulus
-16987	16989	GO:0065007	UV	biological regulation
-16987	16989	GO:0009987	UV	cellular process
-16987	16989	GO:0023046	UV	signaling process
-17033	17036	GO:0009987	NER	cellular process
-17033	17036	GO:0008152	NER	metabolic process
-17033	17036	GO:0050896	NER	response to stimulus
-17050	17056	GO:0065007	global	biological regulation
-17050	17067	GO:0050896	global genome NER	response to stimulus
-17050	17067	GO:0009987	global genome NER	cellular process
-17050	17067	GO:0008152	global genome NER	metabolic process
-17064	17067	GO:0009987	NER	cellular process
-17064	17067	GO:0008152	NER	metabolic process
-17064	17067	GO:0050896	NER	response to stimulus
-17072	17097	GO:0050896	transcription-coupled NER	response to stimulus
-17072	17097	GO:0009987	transcription-coupled NER	cellular process
-17072	17097	GO:0008152	transcription-coupled NER	metabolic process
-17094	17097	GO:0009987	NER	cellular process
-17094	17097	GO:0008152	NER	metabolic process
-17094	17097	GO:0050896	NER	response to stimulus
-17109	17112	GO:0009987	NER	cellular process
-17109	17112	GO:0008152	NER	metabolic process
-17109	17112	GO:0050896	NER	response to stimulus
-17160	17174	GO:0050896	response to UV	response to stimulus
-17169	17171	GO:0065007	to	biological regulation
-17169	17171	GO:0009987	to	cellular process
-17172	17174	GO:0050896	UV	response to stimulus
-17172	17174	GO:0065007	UV	biological regulation
-17172	17174	GO:0009987	UV	cellular process
-17172	17174	GO:0023046	UV	signaling process
-17219	17221	GO:0065007	to	biological regulation
-17219	17221	GO:0009987	to	cellular process
-17419	17421	GO:0050896	UV	response to stimulus
-17419	17421	GO:0065007	UV	biological regulation
-17419	17421	GO:0009987	UV	cellular process
-17419	17421	GO:0023046	UV	signaling process
-17621	17626	GO:0005623	cells	cell
-17667	17669	GO:0065007	to	biological regulation
-17667	17669	GO:0009987	to	cellular process
-17716	17721	GO:0005623	cells	cell
-17732	17734	GO:0065007	to	biological regulation
-17732	17734	GO:0009987	to	cellular process
-17756	17761	GO:0005623	cells	cell
-17763	17765	GO:0050896	UV	response to stimulus
-17763	17765	GO:0065007	UV	biological regulation
-17763	17765	GO:0009987	UV	cellular process
-17763	17765	GO:0023046	UV	signaling process
-17867	17872	GO:0005623	cells	cell
-17877	17879	GO:0065007	to	biological regulation
-17877	17879	GO:0009987	to	cellular process
-17941	17950	GO:0009987	embryonic	cellular process
-17941	17950	GO:0065007	embryonic	biological regulation
-17990	17992	GO:0065007	to	biological regulation
-17990	17992	GO:0009987	to	cellular process
-17998	18000	GO:0050896	UV	response to stimulus
-17998	18000	GO:0065007	UV	biological regulation
-17998	18000	GO:0009987	UV	cellular process
-17998	18000	GO:0023046	UV	signaling process
-18147	18152	GO:0005623	cells	cell
-18163	18165	GO:0065007	to	biological regulation
-18163	18165	GO:0009987	to	cellular process
-18186	18188	GO:0065007	to	biological regulation
-18186	18188	GO:0009987	to	cellular process
-18189	18191	GO:0050896	UV	response to stimulus
-18189	18191	GO:0065007	UV	biological regulation
-18189	18191	GO:0009987	UV	cellular process
-18189	18191	GO:0023046	UV	signaling process
-18208	18213	GO:0005623	cells	cell
-18364	18369	GO:0005623	cells	cell
-18399	18401	GO:0050896	UV	response to stimulus
-18399	18401	GO:0065007	UV	biological regulation
-18399	18401	GO:0009987	UV	cellular process
-18399	18401	GO:0023046	UV	signaling process
-18523	18526	GO:0009987	NER	cellular process
-18523	18526	GO:0008152	NER	metabolic process
-18523	18526	GO:0050896	NER	response to stimulus
-18548	18550	GO:0065007	to	biological regulation
-18548	18550	GO:0009987	to	cellular process
-18561	18566	GO:0005623	cells	cell
-18595	18600	GO:0005623	cells	cell
-18802	18805	GO:0009987	NER	cellular process
-18802	18805	GO:0008152	NER	metabolic process
-18802	18805	GO:0050896	NER	response to stimulus
-18959	18961	GO:0050896	UV	response to stimulus
-18959	18961	GO:0065007	UV	biological regulation
-18959	18961	GO:0009987	UV	cellular process
-18959	18961	GO:0023046	UV	signaling process
-18977	18982	GO:0005623	cells	cell
-19034	19036	GO:0050896	UV	response to stimulus
-19034	19036	GO:0065007	UV	biological regulation
-19034	19036	GO:0009987	UV	cellular process
-19034	19036	GO:0023046	UV	signaling process
-19217	19219	GO:0050896	UV	response to stimulus
-19217	19219	GO:0065007	UV	biological regulation
-19217	19219	GO:0009987	UV	cellular process
-19217	19219	GO:0023046	UV	signaling process
-19398	19403	GO:0005623	cells	cell
-19571	19575	GO:0005623	cell	cell
-19698	19704	GO:0065007	global	biological regulation
-19829	19833	GO:0005623	cell	cell
-20031	20059	GO:0008152	transcription-coupled repair	metabolic process
-20031	20059	GO:0009987	transcription-coupled repair	cellular process
-20031	20059	GO:0050896	transcription-coupled repair	response to stimulus
-20191	20195	GO:0005623	cell	cell
-20341	20344	GO:0009987	NER	cellular process
-20341	20344	GO:0008152	NER	metabolic process
-20341	20344	GO:0050896	NER	response to stimulus
-20559	20562	GO:0044464	RPA	cell part
-20559	20562	GO:0032991	RPA	macromolecular complex
-20559	20562	GO:0044422	RPA	organelle part
-20594	20597	GO:0009987	NER	cellular process
-20594	20597	GO:0008152	NER	metabolic process
-20594	20597	GO:0050896	NER	response to stimulus
-20789	20791	GO:0065007	to	biological regulation
-20789	20791	GO:0009987	to	cellular process
-20852	20854	GO:0065007	to	biological regulation
-20852	20854	GO:0009987	to	cellular process
-21046	21051	GO:0005623	cells	cell
-21199	21203	GO:0005623	cell	cell
-21238	21243	GO:0005623	cells	cell
-21285	21290	GO:0005623	cells	cell
-21329	21334	GO:0005623	cells	cell
-21362	21367	GO:0005623	cells	cell
-21417	21422	GO:0005623	cells	cell
-21455	21460	GO:0005623	cells	cell
-21508	21513	GO:0005623	cells	cell
-21607	21611	GO:0005623	cell	cell
-21669	21674	GO:0005623	cells	cell
-21844	21848	GO:0005623	cell	cell
-22117	22122	GO:0005623	cells	cell
-22163	22165	GO:0065007	to	biological regulation
-22163	22165	GO:0009987	to	cellular process
-22207	22209	GO:0065007	to	biological regulation
-22207	22209	GO:0009987	to	cellular process
-22319	22326	GO:0009987	reduced	cellular process
-22319	22326	GO:0008152	reduced	metabolic process
-22319	22326	GO:0005215	reduced	transporter activity
-22319	22326	GO:0051234	reduced	establishment of localization
-22409	22411	GO:0065007	to	biological regulation
-22409	22411	GO:0009987	to	cellular process
-22445	22452	GO:0003824	protein	catalytic activity
-22465	22472	GO:0009987	reduced	cellular process
-22465	22472	GO:0008152	reduced	metabolic process
-22465	22472	GO:0005215	reduced	transporter activity
-22465	22472	GO:0051234	reduced	establishment of localization
-22662	22664	GO:0065007	to	biological regulation
-22662	22664	GO:0009987	to	cellular process
-22722	22727	GO:0005623	cells	cell
-22825	22827	GO:0065007	to	biological regulation
-22825	22827	GO:0009987	to	cellular process
-22831	22833	GO:0065007	to	biological regulation
-22831	22833	GO:0009987	to	cellular process
-22897	22902	GO:0005623	cells	cell
-22942	22944	GO:0050896	UV	response to stimulus
-22942	22944	GO:0065007	UV	biological regulation
-22942	22944	GO:0009987	UV	cellular process
-22942	22944	GO:0023046	UV	signaling process
-22988	22993	GO:0005623	cells	cell
-23049	23051	GO:0065007	to	biological regulation
-23049	23051	GO:0009987	to	cellular process
-23284	23291	GO:0003824	protein	catalytic activity
-23303	23305	GO:0065007	to	biological regulation
-23303	23305	GO:0009987	to	cellular process
-23309	23311	GO:0065007	to	biological regulation
-23309	23311	GO:0009987	to	cellular process
-23337	23339	GO:0065007	to	biological regulation
-23337	23339	GO:0009987	to	cellular process
-23871	23876	GO:0005623	cells	cell
-24022	24024	GO:0065007	to	biological regulation
-24022	24024	GO:0009987	to	cellular process
-24173	24175	GO:0065007	to	biological regulation
-24173	24175	GO:0009987	to	cellular process
-24198	24200	GO:0065007	to	biological regulation
-24198	24200	GO:0009987	to	cellular process
-24366	24368	GO:0065007	to	biological regulation
-24366	24368	GO:0009987	to	cellular process
-24421	24423	GO:0065007	to	biological regulation
-24421	24423	GO:0009987	to	cellular process
-24617	24619	GO:0065007	to	biological regulation
-24617	24619	GO:0009987	to	cellular process
-24794	24796	GO:0065007	to	biological regulation
-24794	24796	GO:0009987	to	cellular process
-24990	24998	GO:0003824	proteins	catalytic activity
-25089	25091	GO:0065007	to	biological regulation
-25089	25091	GO:0009987	to	cellular process
-25260	25262	GO:0065007	to	biological regulation
-25260	25262	GO:0009987	to	cellular process
-25297	25299	GO:0065007	to	biological regulation
-25297	25299	GO:0009987	to	cellular process
-25517	25519	GO:0065007	to	biological regulation
-25517	25519	GO:0009987	to	cellular process
-25731	25733	GO:0065007	to	biological regulation
-25731	25733	GO:0009987	to	cellular process
-25762	25775	GO:0008152	Transcription	metabolic process
-25762	25775	GO:0009987	Transcription	cellular process
-25926	25928	GO:0065007	to	biological regulation
-25926	25928	GO:0009987	to	cellular process
-26028	26037	GO:0009987	embryonic	cellular process
-26028	26037	GO:0065007	embryonic	biological regulation
-26107	26112	GO:0005623	cells	cell
-26248	26261	GO:0009987	transcription	cellular process
-26248	26261	GO:0008152	transcription	metabolic process
-26355	26364	GO:0009987	embryonic	cellular process
-26355	26364	GO:0065007	embryonic	biological regulation
-26423	26432	GO:0009987	embryonic	cellular process
-26423	26432	GO:0065007	embryonic	biological regulation
-26556	26558	GO:0065007	to	biological regulation
-26556	26558	GO:0009987	to	cellular process
-26640	26642	GO:0065007	to	biological regulation
-26640	26642	GO:0009987	to	cellular process
-26755	26757	GO:0065007	to	biological regulation
-26755	26757	GO:0009987	to	cellular process
-26924	26929	GO:0005623	cells	cell
-27031	27033	GO:0065007	to	biological regulation
-27031	27033	GO:0009987	to	cellular process
-27163	27165	GO:0065007	to	biological regulation
-27163	27165	GO:0009987	to	cellular process
-27221	27223	GO:0065007	to	biological regulation
-27221	27223	GO:0009987	to	cellular process
-27224	27233	GO:0009987	embryonic	cellular process
-27224	27233	GO:0065007	embryonic	biological regulation
-27414	27423	GO:0009987	embryonic	cellular process
-27414	27423	GO:0065007	embryonic	biological regulation
-27414	27435	GO:0032502	embryonic development	developmental process
-27558	27563	GO:0005623	cells	cell
-27620	27622	GO:0050896	UV	response to stimulus
-27620	27622	GO:0065007	UV	biological regulation
-27620	27622	GO:0009987	UV	cellular process
-27620	27622	GO:0023046	UV	signaling process
-27674	27676	GO:0050896	UV	response to stimulus
-27674	27676	GO:0065007	UV	biological regulation
-27674	27676	GO:0009987	UV	cellular process
-27674	27676	GO:0023046	UV	signaling process
-28248	28256	GO:0003824	proteins	catalytic activity
-28543	28547	GO:0005623	cell	cell
-28624	28626	GO:0065007	to	biological regulation
-28624	28626	GO:0009987	to	cellular process
-28638	28641	GO:0009987	NER	cellular process
-28638	28641	GO:0008152	NER	metabolic process
-28638	28641	GO:0050896	NER	response to stimulus
-28765	28768	GO:0009987	NER	cellular process
-28765	28768	GO:0008152	NER	metabolic process
-28765	28768	GO:0050896	NER	response to stimulus
-28805	28807	GO:0065007	to	biological regulation
-28805	28807	GO:0009987	to	cellular process
-28925	28927	GO:0065007	to	biological regulation
-28925	28927	GO:0009987	to	cellular process
-29108	29114	GO:0065007	global	biological regulation
-29133	29161	GO:0008152	transcription-coupled repair	metabolic process
-29133	29161	GO:0009987	transcription-coupled repair	cellular process
-29133	29161	GO:0050896	transcription-coupled repair	response to stimulus
-29256	29264	GO:0003824	proteins	catalytic activity
-29358	29371	GO:0009987	transcription	cellular process
-29358	29371	GO:0008152	transcription	metabolic process
-29406	29408	GO:0065007	to	biological regulation
-29406	29408	GO:0009987	to	cellular process
-29434	29436	GO:0065007	to	biological regulation
-29434	29436	GO:0009987	to	cellular process
-29610	29612	GO:0065007	to	biological regulation
-29610	29612	GO:0009987	to	cellular process
-29627	29640	GO:0009987	transcription	cellular process
-29627	29640	GO:0008152	transcription	metabolic process
-29980	29982	GO:0065007	to	biological regulation
-29980	29982	GO:0009987	to	cellular process
-30220	30222	GO:0065007	to	biological regulation
-30220	30222	GO:0009987	to	cellular process
-30302	30304	GO:0065007	to	biological regulation
-30302	30304	GO:0009987	to	cellular process
-30519	30521	GO:0065007	to	biological regulation
-30519	30521	GO:0009987	to	cellular process
-30519	30521	GO:0065007	to	biological regulation
-30519	30521	GO:0009987	to	cellular process
-30842	30844	GO:0065007	to	biological regulation
-30842	30844	GO:0009987	to	cellular process
-31092	31094	GO:0065007	to	biological regulation
-31092	31094	GO:0009987	to	cellular process
-31092	31094	GO:0065007	to	biological regulation
-31092	31094	GO:0009987	to	cellular process
-31092	31094	GO:0065007	to	biological regulation
-31092	31094	GO:0009987	to	cellular process
-31129	31131	GO:0065007	to	biological regulation
-31129	31131	GO:0009987	to	cellular process
-31951	31958	GO:0003824	protein	catalytic activity
-32029	32031	GO:0065007	to	biological regulation
-32029	32031	GO:0009987	to	cellular process
-32277	32282	GO:0005623	cells	cell
-32429	32431	GO:0065007	to	biological regulation
-32429	32431	GO:0009987	to	cellular process
-32621	32623	GO:0065007	to	biological regulation
-32621	32623	GO:0009987	to	cellular process
-32687	32689	GO:0065007	to	biological regulation
-32687	32689	GO:0009987	to	cellular process
-32741	32743	GO:0065007	to	biological regulation
-32741	32743	GO:0009987	to	cellular process
-33155	33157	GO:0065007	to	biological regulation
-33155	33157	GO:0009987	to	cellular process
-33155	33157	GO:0065007	to	biological regulation
-33155	33157	GO:0009987	to	cellular process
-33960	33969	GO:0009987	embryonic	cellular process
-33960	33969	GO:0065007	embryonic	biological regulation
-34007	34009	GO:0065007	to	biological regulation
-34007	34009	GO:0009987	to	cellular process
-34036	34038	GO:0065007	to	biological regulation
-34036	34038	GO:0009987	to	cellular process
-34087	34089	GO:0065007	to	biological regulation
-34087	34089	GO:0009987	to	cellular process
-34676	34678	GO:0050896	UV	response to stimulus
-34676	34678	GO:0065007	UV	biological regulation
-34676	34678	GO:0009987	UV	cellular process
-34676	34678	GO:0023046	UV	signaling process
-34676	34678	GO:0050896	UV	response to stimulus
-34676	34678	GO:0065007	UV	biological regulation
-34676	34678	GO:0009987	UV	cellular process
-34676	34678	GO:0023046	UV	signaling process
-34966	34970	GO:0005623	cell	cell
-35052	35057	GO:0005623	cells	cell
-35172	35174	GO:0065007	to	biological regulation
-35172	35174	GO:0009987	to	cellular process
-35214	35218	GO:0005623	cell	cell
-35547	35556	GO:0009987	embryonic	cellular process
-35547	35556	GO:0065007	embryonic	biological regulation
-35598	35602	GO:0005623	cell	cell
-35649	35654	GO:0005623	cells	cell
-35674	35678	GO:0005623	cell	cell
-35819	35821	GO:0065007	to	biological regulation
-35819	35821	GO:0009987	to	cellular process
-35943	35945	GO:0065007	to	biological regulation
-35943	35945	GO:0009987	to	cellular process
-36876	36885	GO:0009987	embryonic	cellular process
-36876	36885	GO:0065007	embryonic	biological regulation
-36911	36914	GO:0009987	NER	cellular process
-36911	36914	GO:0008152	NER	metabolic process
-36911	36914	GO:0050896	NER	response to stimulus
-36989	37002	GO:0009987	transcription	cellular process
-36989	37002	GO:0008152	transcription	metabolic process
-37003	37013	GO:0050896	DNA repair	response to stimulus
-37003	37013	GO:0009987	DNA repair	cellular process
-37003	37013	GO:0008152	DNA repair	metabolic process
-37070	37083	GO:0009987	RNA synthesis	cellular process
-37070	37083	GO:0008152	RNA synthesis	metabolic process
-37074	37083	GO:0008152	synthesis	metabolic process
-37138	37147	GO:0008152	synthesis	metabolic process
-37569	37573	GO:0005623	Cell	cell
+238	240	GO:0065007	to	biological regulation
+238	240	GO:0009987	to	cellular process
+507	509	GO:0065007	to	biological regulation
+507	509	GO:0009987	to	cellular process
+507	509	GO:0065007	to	biological regulation
+507	509	GO:0009987	to	cellular process
+691	701	GO:0050896	DNA repair	response to stimulus
+691	701	GO:0009987	DNA repair	cellular process
+691	701	GO:0008152	DNA repair	metabolic process
+712	725	GO:0009987	transcription	cellular process
+712	725	GO:0008152	transcription	metabolic process
+779	781	GO:0050896	UV	response to stimulus
+779	781	GO:0065007	UV	biological regulation
+779	781	GO:0009987	UV	cellular process
+779	781	GO:0023046	UV	signaling process
+820	822	GO:0065007	to	biological regulation
+820	822	GO:0009987	to	cellular process
+933	935	GO:0065007	to	biological regulation
+933	935	GO:0009987	to	cellular process
+1049	1051	GO:0065007	to	biological regulation
+1049	1051	GO:0009987	to	cellular process
+1120	1133	GO:0009987	transcription	cellular process
+1120	1133	GO:0008152	transcription	metabolic process
+1469	1471	GO:0065007	to	biological regulation
+1469	1471	GO:0009987	to	cellular process
+1551	1553	GO:0065007	to	biological regulation
+1551	1553	GO:0009987	to	cellular process
+1732	1734	GO:0065007	to	biological regulation
+1732	1734	GO:0009987	to	cellular process
+1732	1734	GO:0065007	to	biological regulation
+1732	1734	GO:0009987	to	cellular process
+1732	1734	GO:0065007	to	biological regulation
+1732	1734	GO:0009987	to	cellular process
+1751	1753	GO:0065007	to	biological regulation
+1751	1753	GO:0009987	to	cellular process
+2204	2223	GO:0003824	uridylyltransferase	catalytic activity
+2470	2472	GO:0065007	to	biological regulation
+2470	2472	GO:0009987	to	cellular process
+2981	2994	GO:0009987	transcription	cellular process
+2981	2994	GO:0008152	transcription	metabolic process
+2995	3005	GO:0050896	DNA repair	response to stimulus
+2995	3005	GO:0009987	DNA repair	cellular process
+2995	3005	GO:0008152	DNA repair	metabolic process
+3123	3136	GO:0009987	transcription	cellular process
+3123	3136	GO:0008152	transcription	metabolic process
+3123	3147	GO:0016043	transcription initiation	cellular component organization
+3206	3209	GO:0009987	NER	cellular process
+3206	3209	GO:0008152	NER	metabolic process
+3206	3209	GO:0050896	NER	response to stimulus
+3484	3496	GO:0043473	pigmentation	pigmentation
+3603	3609	GO:0040007	growth	growth
+3763	3769	GO:0040007	growth	growth
+4028	4041	GO:0009987	transcription	cellular process
+4028	4041	GO:0008152	transcription	metabolic process
+4061	4065	GO:0005623	cell	cell
+4556	4558	GO:0065007	to	biological regulation
+4556	4558	GO:0009987	to	cellular process
+4840	4842	GO:0065007	to	biological regulation
+4840	4842	GO:0009987	to	cellular process
+5020	5022	GO:0065007	to	biological regulation
+5020	5022	GO:0009987	to	cellular process
+5107	5109	GO:0065007	to	biological regulation
+5107	5109	GO:0009987	to	cellular process
+5438	5444	GO:0032502	ageing	developmental process
+5475	5485	GO:0050896	DNA repair	response to stimulus
+5475	5485	GO:0009987	DNA repair	cellular process
+5475	5485	GO:0008152	DNA repair	metabolic process
+5500	5502	GO:0050896	UV	response to stimulus
+5500	5502	GO:0065007	UV	biological regulation
+5500	5502	GO:0009987	UV	cellular process
+5500	5502	GO:0023046	UV	signaling process
+5826	5835	GO:0009987	embryonic	cellular process
+5826	5835	GO:0065007	embryonic	biological regulation
+5841	5846	GO:0005623	cells	cell
+5894	5901	GO:0009987	reduced	cellular process
+5894	5901	GO:0008152	reduced	metabolic process
+5894	5901	GO:0005215	reduced	transporter activity
+5894	5901	GO:0051234	reduced	establishment of localization
+5932	5934	GO:0065007	to	biological regulation
+5932	5934	GO:0009987	to	cellular process
+6111	6118	GO:0003824	protein	catalytic activity
+6202	6204	GO:0065007	to	biological regulation
+6202	6204	GO:0009987	to	cellular process
+6323	6332	GO:0009987	embryonic	cellular process
+6323	6332	GO:0065007	embryonic	biological regulation
+6358	6365	GO:0032502	embryos	developmental process
+6526	6528	GO:0065007	to	biological regulation
+6526	6528	GO:0009987	to	cellular process
+6529	6536	GO:0009987	reduced	cellular process
+6529	6536	GO:0008152	reduced	metabolic process
+6529	6536	GO:0005215	reduced	transporter activity
+6529	6536	GO:0051234	reduced	establishment of localization
+6576	6583	GO:0003824	protein	catalytic activity
+6638	6640	GO:0065007	to	biological regulation
+6638	6640	GO:0009987	to	cellular process
+6752	6765	GO:0032502	embryogenesis	developmental process
+7104	7106	GO:0065007	to	biological regulation
+7104	7106	GO:0009987	to	cellular process
+7601	7603	GO:0065007	to	biological regulation
+7601	7603	GO:0009987	to	cellular process
+8460	8469	GO:0009987	embryonic	cellular process
+8460	8469	GO:0065007	embryonic	biological regulation
+8475	8479	GO:0005623	cell	cell
+8907	8916	GO:0009987	embryonic	cellular process
+8907	8916	GO:0065007	embryonic	biological regulation
+8922	8926	GO:0005623	cell	cell
+9571	9578	GO:0032502	Embryos	developmental process
+9675	9677	GO:0065007	To	biological regulation
+9675	9677	GO:0009987	To	cellular process
+9734	9736	GO:0065007	to	biological regulation
+9734	9736	GO:0009987	to	cellular process
+9734	9736	GO:0065007	to	biological regulation
+9734	9736	GO:0009987	to	cellular process
+9761	9763	GO:0065007	to	biological regulation
+9761	9763	GO:0009987	to	cellular process
+10113	10120	GO:0009987	reduced	cellular process
+10113	10120	GO:0008152	reduced	metabolic process
+10113	10120	GO:0005215	reduced	transporter activity
+10113	10120	GO:0051234	reduced	establishment of localization
+10234	10236	GO:0065007	to	biological regulation
+10234	10236	GO:0009987	to	cellular process
+10295	10305	GO:0044421	antibodies	extraccellular region part
+10295	10305	GO:0032991	antibodies	macromolecular complex
+10324	10326	GO:0065007	to	biological regulation
+10324	10326	GO:0009987	to	cellular process
+10441	10443	GO:0065007	to	biological regulation
+10441	10443	GO:0009987	to	cellular process
+10481	10488	GO:0003824	protein	catalytic activity
+10526	10533	GO:0009987	reduced	cellular process
+10526	10533	GO:0008152	reduced	metabolic process
+10526	10533	GO:0005215	reduced	transporter activity
+10526	10533	GO:0051234	reduced	establishment of localization
+10650	10652	GO:0065007	to	biological regulation
+10650	10652	GO:0009987	to	cellular process
+10926	10936	GO:0032501	hair cycle	multicellular organismal process
+11096	11106	GO:0032501	hair cycle	multicellular organismal process
+11642	11644	GO:0065007	to	biological regulation
+11642	11644	GO:0009987	to	cellular process
+11809	11811	GO:0065007	to	biological regulation
+11809	11811	GO:0009987	to	cellular process
+13048	13053	GO:0005623	cells	cell
+13885	13892	GO:0009987	reduced	cellular process
+13885	13892	GO:0008152	reduced	metabolic process
+13885	13892	GO:0005215	reduced	transporter activity
+13885	13892	GO:0051234	reduced	establishment of localization
+14069	14071	GO:0065007	to	biological regulation
+14069	14071	GO:0009987	to	cellular process
+14571	14573	GO:0065007	to	biological regulation
+14571	14573	GO:0009987	to	cellular process
+15026	15032	GO:0032502	Ageing	developmental process
+15521	15523	GO:0065007	to	biological regulation
+15521	15523	GO:0009987	to	cellular process
+15965	15970	GO:0005623	Cells	cell
+15972	15974	GO:0065007	To	biological regulation
+15972	15974	GO:0009987	To	cellular process
+16057	16059	GO:0065007	to	biological regulation
+16057	16059	GO:0009987	to	cellular process
+16075	16077	GO:0065007	to	biological regulation
+16075	16077	GO:0009987	to	cellular process
+16394	16401	GO:0009987	reduced	cellular process
+16394	16401	GO:0008152	reduced	metabolic process
+16394	16401	GO:0005215	reduced	transporter activity
+16394	16401	GO:0051234	reduced	establishment of localization
+16635	16642	GO:0009987	reduced	cellular process
+16635	16642	GO:0008152	reduced	metabolic process
+16635	16642	GO:0005215	reduced	transporter activity
+16635	16642	GO:0051234	reduced	establishment of localization
+16670	16672	GO:0065007	to	biological regulation
+16670	16672	GO:0009987	to	cellular process
+16760	16762	GO:0065007	to	biological regulation
+16760	16762	GO:0009987	to	cellular process
+16814	16816	GO:0065007	to	biological regulation
+16814	16816	GO:0009987	to	cellular process
+16986	16995	GO:0008152	synthesis	metabolic process
+17002	17004	GO:0050896	UV	response to stimulus
+17002	17004	GO:0065007	UV	biological regulation
+17002	17004	GO:0009987	UV	cellular process
+17002	17004	GO:0023046	UV	signaling process
+17039	17052	GO:0009987	RNA synthesis	cellular process
+17039	17052	GO:0008152	RNA synthesis	metabolic process
+17043	17052	GO:0008152	synthesis	metabolic process
+17059	17061	GO:0050896	UV	response to stimulus
+17059	17061	GO:0065007	UV	biological regulation
+17059	17061	GO:0009987	UV	cellular process
+17059	17061	GO:0023046	UV	signaling process
+17075	17077	GO:0050896	UV	response to stimulus
+17075	17077	GO:0065007	UV	biological regulation
+17075	17077	GO:0009987	UV	cellular process
+17075	17077	GO:0023046	UV	signaling process
+17121	17124	GO:0009987	NER	cellular process
+17121	17124	GO:0008152	NER	metabolic process
+17121	17124	GO:0050896	NER	response to stimulus
+17138	17144	GO:0065007	global	biological regulation
+17138	17155	GO:0050896	global genome NER	response to stimulus
+17138	17155	GO:0009987	global genome NER	cellular process
+17138	17155	GO:0008152	global genome NER	metabolic process
+17152	17155	GO:0009987	NER	cellular process
+17152	17155	GO:0008152	NER	metabolic process
+17152	17155	GO:0050896	NER	response to stimulus
+17160	17185	GO:0050896	transcription-coupled NER	response to stimulus
+17160	17185	GO:0009987	transcription-coupled NER	cellular process
+17160	17185	GO:0008152	transcription-coupled NER	metabolic process
+17182	17185	GO:0009987	NER	cellular process
+17182	17185	GO:0008152	NER	metabolic process
+17182	17185	GO:0050896	NER	response to stimulus
+17197	17200	GO:0009987	NER	cellular process
+17197	17200	GO:0008152	NER	metabolic process
+17197	17200	GO:0050896	NER	response to stimulus
+17248	17262	GO:0050896	response to UV	response to stimulus
+17257	17259	GO:0065007	to	biological regulation
+17257	17259	GO:0009987	to	cellular process
+17260	17262	GO:0050896	UV	response to stimulus
+17260	17262	GO:0065007	UV	biological regulation
+17260	17262	GO:0009987	UV	cellular process
+17260	17262	GO:0023046	UV	signaling process
+17307	17309	GO:0065007	to	biological regulation
+17307	17309	GO:0009987	to	cellular process
+17507	17509	GO:0050896	UV	response to stimulus
+17507	17509	GO:0065007	UV	biological regulation
+17507	17509	GO:0009987	UV	cellular process
+17507	17509	GO:0023046	UV	signaling process
+17709	17714	GO:0005623	cells	cell
+17755	17757	GO:0065007	to	biological regulation
+17755	17757	GO:0009987	to	cellular process
+17804	17809	GO:0005623	cells	cell
+17820	17822	GO:0065007	to	biological regulation
+17820	17822	GO:0009987	to	cellular process
+17844	17849	GO:0005623	cells	cell
+17851	17853	GO:0050896	UV	response to stimulus
+17851	17853	GO:0065007	UV	biological regulation
+17851	17853	GO:0009987	UV	cellular process
+17851	17853	GO:0023046	UV	signaling process
+17955	17960	GO:0005623	cells	cell
+17965	17967	GO:0065007	to	biological regulation
+17965	17967	GO:0009987	to	cellular process
+18029	18038	GO:0009987	embryonic	cellular process
+18029	18038	GO:0065007	embryonic	biological regulation
+18078	18080	GO:0065007	to	biological regulation
+18078	18080	GO:0009987	to	cellular process
+18086	18088	GO:0050896	UV	response to stimulus
+18086	18088	GO:0065007	UV	biological regulation
+18086	18088	GO:0009987	UV	cellular process
+18086	18088	GO:0023046	UV	signaling process
+18235	18240	GO:0005623	cells	cell
+18251	18253	GO:0065007	to	biological regulation
+18251	18253	GO:0009987	to	cellular process
+18274	18276	GO:0065007	to	biological regulation
+18274	18276	GO:0009987	to	cellular process
+18277	18279	GO:0050896	UV	response to stimulus
+18277	18279	GO:0065007	UV	biological regulation
+18277	18279	GO:0009987	UV	cellular process
+18277	18279	GO:0023046	UV	signaling process
+18296	18301	GO:0005623	cells	cell
+18452	18457	GO:0005623	cells	cell
+18487	18489	GO:0050896	UV	response to stimulus
+18487	18489	GO:0065007	UV	biological regulation
+18487	18489	GO:0009987	UV	cellular process
+18487	18489	GO:0023046	UV	signaling process
+18611	18614	GO:0009987	NER	cellular process
+18611	18614	GO:0008152	NER	metabolic process
+18611	18614	GO:0050896	NER	response to stimulus
+18636	18638	GO:0065007	to	biological regulation
+18636	18638	GO:0009987	to	cellular process
+18649	18654	GO:0005623	cells	cell
+18683	18688	GO:0005623	cells	cell
+18890	18893	GO:0009987	NER	cellular process
+18890	18893	GO:0008152	NER	metabolic process
+18890	18893	GO:0050896	NER	response to stimulus
+19047	19049	GO:0050896	UV	response to stimulus
+19047	19049	GO:0065007	UV	biological regulation
+19047	19049	GO:0009987	UV	cellular process
+19047	19049	GO:0023046	UV	signaling process
+19065	19070	GO:0005623	cells	cell
+19122	19124	GO:0050896	UV	response to stimulus
+19122	19124	GO:0065007	UV	biological regulation
+19122	19124	GO:0009987	UV	cellular process
+19122	19124	GO:0023046	UV	signaling process
+19311	19313	GO:0050896	UV	response to stimulus
+19311	19313	GO:0065007	UV	biological regulation
+19311	19313	GO:0009987	UV	cellular process
+19311	19313	GO:0023046	UV	signaling process
+19492	19497	GO:0005623	cells	cell
+19665	19669	GO:0005623	cell	cell
+19794	19800	GO:0065007	global	biological regulation
+19925	19929	GO:0005623	cell	cell
+20129	20157	GO:0008152	transcription-coupled repair	metabolic process
+20129	20157	GO:0009987	transcription-coupled repair	cellular process
+20129	20157	GO:0050896	transcription-coupled repair	response to stimulus
+20289	20293	GO:0005623	cell	cell
+20441	20444	GO:0009987	NER	cellular process
+20441	20444	GO:0008152	NER	metabolic process
+20441	20444	GO:0050896	NER	response to stimulus
+20659	20662	GO:0044464	RPA	cell part
+20659	20662	GO:0032991	RPA	macromolecular complex
+20659	20662	GO:0044422	RPA	organelle part
+20694	20697	GO:0009987	NER	cellular process
+20694	20697	GO:0008152	NER	metabolic process
+20694	20697	GO:0050896	NER	response to stimulus
+20889	20891	GO:0065007	to	biological regulation
+20889	20891	GO:0009987	to	cellular process
+20952	20954	GO:0065007	to	biological regulation
+20952	20954	GO:0009987	to	cellular process
+21148	21153	GO:0005623	cells	cell
+21301	21305	GO:0005623	cell	cell
+21340	21345	GO:0005623	cells	cell
+21387	21392	GO:0005623	cells	cell
+21431	21436	GO:0005623	cells	cell
+21464	21469	GO:0005623	cells	cell
+21519	21524	GO:0005623	cells	cell
+21557	21562	GO:0005623	cells	cell
+21610	21615	GO:0005623	cells	cell
+21711	21715	GO:0005623	cell	cell
+21773	21778	GO:0005623	cells	cell
+21948	21952	GO:0005623	cell	cell
+22223	22228	GO:0005623	cells	cell
+22269	22271	GO:0065007	to	biological regulation
+22269	22271	GO:0009987	to	cellular process
+22313	22315	GO:0065007	to	biological regulation
+22313	22315	GO:0009987	to	cellular process
+22425	22432	GO:0009987	reduced	cellular process
+22425	22432	GO:0008152	reduced	metabolic process
+22425	22432	GO:0005215	reduced	transporter activity
+22425	22432	GO:0051234	reduced	establishment of localization
+22515	22517	GO:0065007	to	biological regulation
+22515	22517	GO:0009987	to	cellular process
+22551	22558	GO:0003824	protein	catalytic activity
+22571	22578	GO:0009987	reduced	cellular process
+22571	22578	GO:0008152	reduced	metabolic process
+22571	22578	GO:0005215	reduced	transporter activity
+22571	22578	GO:0051234	reduced	establishment of localization
+22768	22770	GO:0065007	to	biological regulation
+22768	22770	GO:0009987	to	cellular process
+22828	22833	GO:0005623	cells	cell
+22931	22933	GO:0065007	to	biological regulation
+22931	22933	GO:0009987	to	cellular process
+22937	22939	GO:0065007	to	biological regulation
+22937	22939	GO:0009987	to	cellular process
+23003	23008	GO:0005623	cells	cell
+23048	23050	GO:0050896	UV	response to stimulus
+23048	23050	GO:0065007	UV	biological regulation
+23048	23050	GO:0009987	UV	cellular process
+23048	23050	GO:0023046	UV	signaling process
+23094	23099	GO:0005623	cells	cell
+23155	23157	GO:0065007	to	biological regulation
+23155	23157	GO:0009987	to	cellular process
+23392	23399	GO:0003824	protein	catalytic activity
+23411	23413	GO:0065007	to	biological regulation
+23411	23413	GO:0009987	to	cellular process
+23417	23419	GO:0065007	to	biological regulation
+23417	23419	GO:0009987	to	cellular process
+23445	23447	GO:0065007	to	biological regulation
+23445	23447	GO:0009987	to	cellular process
+23979	23984	GO:0005623	cells	cell
+24136	24138	GO:0065007	to	biological regulation
+24136	24138	GO:0009987	to	cellular process
+24287	24289	GO:0065007	to	biological regulation
+24287	24289	GO:0009987	to	cellular process
+24312	24314	GO:0065007	to	biological regulation
+24312	24314	GO:0009987	to	cellular process
+24480	24482	GO:0065007	to	biological regulation
+24480	24482	GO:0009987	to	cellular process
+24535	24537	GO:0065007	to	biological regulation
+24535	24537	GO:0009987	to	cellular process
+24733	24735	GO:0065007	to	biological regulation
+24733	24735	GO:0009987	to	cellular process
+24910	24912	GO:0065007	to	biological regulation
+24910	24912	GO:0009987	to	cellular process
+25106	25114	GO:0003824	proteins	catalytic activity
+25207	25209	GO:0065007	to	biological regulation
+25207	25209	GO:0009987	to	cellular process
+25378	25380	GO:0065007	to	biological regulation
+25378	25380	GO:0009987	to	cellular process
+25415	25417	GO:0065007	to	biological regulation
+25415	25417	GO:0009987	to	cellular process
+25637	25639	GO:0065007	to	biological regulation
+25637	25639	GO:0009987	to	cellular process
+25851	25853	GO:0065007	to	biological regulation
+25851	25853	GO:0009987	to	cellular process
+25884	25897	GO:0008152	Transcription	metabolic process
+25884	25897	GO:0009987	Transcription	cellular process
+26050	26052	GO:0065007	to	biological regulation
+26050	26052	GO:0009987	to	cellular process
+26152	26161	GO:0009987	embryonic	cellular process
+26152	26161	GO:0065007	embryonic	biological regulation
+26231	26236	GO:0005623	cells	cell
+26372	26385	GO:0009987	transcription	cellular process
+26372	26385	GO:0008152	transcription	metabolic process
+26479	26488	GO:0009987	embryonic	cellular process
+26479	26488	GO:0065007	embryonic	biological regulation
+26547	26556	GO:0009987	embryonic	cellular process
+26547	26556	GO:0065007	embryonic	biological regulation
+26680	26682	GO:0065007	to	biological regulation
+26680	26682	GO:0009987	to	cellular process
+26764	26766	GO:0065007	to	biological regulation
+26764	26766	GO:0009987	to	cellular process
+26881	26883	GO:0065007	to	biological regulation
+26881	26883	GO:0009987	to	cellular process
+27050	27055	GO:0005623	cells	cell
+27157	27159	GO:0065007	to	biological regulation
+27157	27159	GO:0009987	to	cellular process
+27289	27291	GO:0065007	to	biological regulation
+27289	27291	GO:0009987	to	cellular process
+27347	27349	GO:0065007	to	biological regulation
+27347	27349	GO:0009987	to	cellular process
+27350	27359	GO:0009987	embryonic	cellular process
+27350	27359	GO:0065007	embryonic	biological regulation
+27540	27549	GO:0009987	embryonic	cellular process
+27540	27549	GO:0065007	embryonic	biological regulation
+27540	27561	GO:0032502	embryonic development	developmental process
+27684	27689	GO:0005623	cells	cell
+27748	27750	GO:0050896	UV	response to stimulus
+27748	27750	GO:0065007	UV	biological regulation
+27748	27750	GO:0009987	UV	cellular process
+27748	27750	GO:0023046	UV	signaling process
+27802	27804	GO:0050896	UV	response to stimulus
+27802	27804	GO:0065007	UV	biological regulation
+27802	27804	GO:0009987	UV	cellular process
+27802	27804	GO:0023046	UV	signaling process
+28380	28388	GO:0003824	proteins	catalytic activity
+28675	28679	GO:0005623	cell	cell
+28756	28758	GO:0065007	to	biological regulation
+28756	28758	GO:0009987	to	cellular process
+28770	28773	GO:0009987	NER	cellular process
+28770	28773	GO:0008152	NER	metabolic process
+28770	28773	GO:0050896	NER	response to stimulus
+28897	28900	GO:0009987	NER	cellular process
+28897	28900	GO:0008152	NER	metabolic process
+28897	28900	GO:0050896	NER	response to stimulus
+28937	28939	GO:0065007	to	biological regulation
+28937	28939	GO:0009987	to	cellular process
+29057	29059	GO:0065007	to	biological regulation
+29057	29059	GO:0009987	to	cellular process
+29240	29246	GO:0065007	global	biological regulation
+29265	29293	GO:0008152	transcription-coupled repair	metabolic process
+29265	29293	GO:0009987	transcription-coupled repair	cellular process
+29265	29293	GO:0050896	transcription-coupled repair	response to stimulus
+29392	29400	GO:0003824	proteins	catalytic activity
+29494	29507	GO:0009987	transcription	cellular process
+29494	29507	GO:0008152	transcription	metabolic process
+29542	29544	GO:0065007	to	biological regulation
+29542	29544	GO:0009987	to	cellular process
+29570	29572	GO:0065007	to	biological regulation
+29570	29572	GO:0009987	to	cellular process
+29746	29748	GO:0065007	to	biological regulation
+29746	29748	GO:0009987	to	cellular process
+29763	29776	GO:0009987	transcription	cellular process
+29763	29776	GO:0008152	transcription	metabolic process
+30118	30120	GO:0065007	to	biological regulation
+30118	30120	GO:0009987	to	cellular process
+30358	30360	GO:0065007	to	biological regulation
+30358	30360	GO:0009987	to	cellular process
+30440	30442	GO:0065007	to	biological regulation
+30440	30442	GO:0009987	to	cellular process
+30657	30659	GO:0065007	to	biological regulation
+30657	30659	GO:0009987	to	cellular process
+30657	30659	GO:0065007	to	biological regulation
+30657	30659	GO:0009987	to	cellular process
+30980	30982	GO:0065007	to	biological regulation
+30980	30982	GO:0009987	to	cellular process
+31230	31232	GO:0065007	to	biological regulation
+31230	31232	GO:0009987	to	cellular process
+31230	31232	GO:0065007	to	biological regulation
+31230	31232	GO:0009987	to	cellular process
+31230	31232	GO:0065007	to	biological regulation
+31230	31232	GO:0009987	to	cellular process
+31267	31269	GO:0065007	to	biological regulation
+31267	31269	GO:0009987	to	cellular process
+32095	32102	GO:0003824	protein	catalytic activity
+32175	32177	GO:0065007	to	biological regulation
+32175	32177	GO:0009987	to	cellular process
+32425	32430	GO:0005623	cells	cell
+32577	32579	GO:0065007	to	biological regulation
+32577	32579	GO:0009987	to	cellular process
+32769	32771	GO:0065007	to	biological regulation
+32769	32771	GO:0009987	to	cellular process
+32835	32837	GO:0065007	to	biological regulation
+32835	32837	GO:0009987	to	cellular process
+32889	32891	GO:0065007	to	biological regulation
+32889	32891	GO:0009987	to	cellular process
+33303	33305	GO:0065007	to	biological regulation
+33303	33305	GO:0009987	to	cellular process
+33303	33305	GO:0065007	to	biological regulation
+33303	33305	GO:0009987	to	cellular process
+34114	34123	GO:0009987	embryonic	cellular process
+34114	34123	GO:0065007	embryonic	biological regulation
+34161	34163	GO:0065007	to	biological regulation
+34161	34163	GO:0009987	to	cellular process
+34190	34192	GO:0065007	to	biological regulation
+34190	34192	GO:0009987	to	cellular process
+34241	34243	GO:0065007	to	biological regulation
+34241	34243	GO:0009987	to	cellular process
+34832	34834	GO:0050896	UV	response to stimulus
+34832	34834	GO:0065007	UV	biological regulation
+34832	34834	GO:0009987	UV	cellular process
+34832	34834	GO:0023046	UV	signaling process
+34832	34834	GO:0050896	UV	response to stimulus
+34832	34834	GO:0065007	UV	biological regulation
+34832	34834	GO:0009987	UV	cellular process
+34832	34834	GO:0023046	UV	signaling process
+35124	35128	GO:0005623	cell	cell
+35210	35215	GO:0005623	cells	cell
+35330	35332	GO:0065007	to	biological regulation
+35330	35332	GO:0009987	to	cellular process
+35372	35376	GO:0005623	cell	cell
+35709	35718	GO:0009987	embryonic	cellular process
+35709	35718	GO:0065007	embryonic	biological regulation
+35760	35764	GO:0005623	cell	cell
+35811	35816	GO:0005623	cells	cell
+35836	35840	GO:0005623	cell	cell
+35985	35987	GO:0065007	to	biological regulation
+35985	35987	GO:0009987	to	cellular process
+36109	36111	GO:0065007	to	biological regulation
+36109	36111	GO:0009987	to	cellular process
+37054	37063	GO:0009987	embryonic	cellular process
+37054	37063	GO:0065007	embryonic	biological regulation
+37093	37096	GO:0009987	NER	cellular process
+37093	37096	GO:0008152	NER	metabolic process
+37093	37096	GO:0050896	NER	response to stimulus
+37175	37188	GO:0009987	transcription	cellular process
+37175	37188	GO:0008152	transcription	metabolic process
+37189	37199	GO:0050896	DNA repair	response to stimulus
+37189	37199	GO:0009987	DNA repair	cellular process
+37189	37199	GO:0008152	DNA repair	metabolic process
+37260	37273	GO:0009987	RNA synthesis	cellular process
+37260	37273	GO:0008152	RNA synthesis	metabolic process
+37264	37273	GO:0008152	synthesis	metabolic process
+37330	37339	GO:0008152	synthesis	metabolic process
+37777	37781	GO:0005623	Cell	cell

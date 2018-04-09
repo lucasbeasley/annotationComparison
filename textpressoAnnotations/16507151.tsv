@@ -1,234 +1,234 @@
 StartIndex	EndIndex	GO:ID	Term	OntologyTerm
-159	161	GO:0065007	to	biological regulation
-159	161	GO:0009987	to	cellular process
-997	1007	GO:0043226	chromosome	organelle
-997	1007	GO:0044422	chromosome	organelle part
-997	1007	GO:0044464	chromosome	cell part
-997	1007	GO:0043226	chromosome	organelle
-997	1007	GO:0044422	chromosome	organelle part
-997	1007	GO:0044464	chromosome	cell part
-1323	1331	GO:0044421	collagen	extraccellular region part
-1323	1339	GO:0044421	collagen type II	extraccellular region part
-1332	1339	GO:0065007	type II	biological regulation
-1332	1339	GO:0003824	type II	catalytic activity
-1332	1339	GO:0060089	type II	molecular transducer activity
-1332	1339	GO:0008152	type II	metabolic process
-1340	1348	GO:0044421	antibody	extraccellular region part
-1340	1348	GO:0032991	antibody	macromolecular complex
-1374	1384	GO:0043226	chromosome	organelle
-1374	1384	GO:0044422	chromosome	organelle part
-1374	1384	GO:0044464	chromosome	cell part
-1592	1594	GO:0065007	to	biological regulation
-1592	1594	GO:0009987	to	cellular process
-2112	2119	GO:0009987	reduced	cellular process
-2112	2119	GO:0008152	reduced	metabolic process
-2112	2119	GO:0005215	reduced	transporter activity
-2112	2119	GO:0051234	reduced	establishment of localization
-2295	2297	GO:0065007	to	biological regulation
-2295	2297	GO:0009987	to	cellular process
-2399	2401	GO:0065007	to	biological regulation
-2399	2401	GO:0009987	to	cellular process
-3514	3516	GO:0065007	To	biological regulation
-3514	3516	GO:0009987	To	cellular process
-3546	3548	GO:0065007	to	biological regulation
-3546	3548	GO:0009987	to	cellular process
-3546	3548	GO:0065007	to	biological regulation
-3546	3548	GO:0009987	to	cellular process
-3608	3610	GO:0065007	to	biological regulation
-3608	3610	GO:0009987	to	cellular process
-3775	3777	GO:0065007	to	biological regulation
-3775	3777	GO:0009987	to	cellular process
-5078	5084	GO:0032502	embryo	developmental process
-5108	5120	GO:0000003	reproduction	reproduction
-5343	5349	GO:0051704	mating	multi-organism process
-5343	5349	GO:0022414	mating	reproductive process
-5401	5403	GO:0065007	to	biological regulation
-5401	5403	GO:0009987	to	cellular process
-5447	5453	GO:0051704	mating	multi-organism process
-5447	5453	GO:0022414	mating	reproductive process
-5480	5482	GO:0065007	to	biological regulation
-5480	5482	GO:0009987	to	cellular process
-5559	5565	GO:0051704	mating	multi-organism process
-5559	5565	GO:0022414	mating	reproductive process
-5632	5634	GO:0065007	to	biological regulation
-5632	5634	GO:0009987	to	cellular process
-5682	5684	GO:0065007	To	biological regulation
-5682	5684	GO:0009987	To	cellular process
-5776	5784	GO:0044421	collagen	extraccellular region part
-5776	5792	GO:0044421	collagen type II	extraccellular region part
-5785	5792	GO:0065007	type II	biological regulation
-5785	5792	GO:0003824	type II	catalytic activity
-5785	5792	GO:0060089	type II	molecular transducer activity
-5785	5792	GO:0008152	type II	metabolic process
-5903	5905	GO:0065007	to	biological regulation
-5903	5905	GO:0009987	to	cellular process
-6077	6079	GO:0065007	to	biological regulation
-6077	6079	GO:0009987	to	cellular process
-6331	6333	GO:0065007	to	biological regulation
-6331	6333	GO:0009987	to	cellular process
-7310	7321	GO:0044464	chromosomes	cell part
-7310	7321	GO:0044422	chromosomes	organelle part
-7310	7321	GO:0043226	chromosomes	organelle
-7337	7349	GO:0044464	Y chromosome	cell part
-7337	7349	GO:0043226	Y chromosome	organelle
-7339	7349	GO:0043226	chromosome	organelle
-7339	7349	GO:0044422	chromosome	organelle part
-7339	7349	GO:0044464	chromosome	cell part
-7444	7446	GO:0065007	to	biological regulation
-7444	7446	GO:0009987	to	cellular process
-7546	7548	GO:0065007	to	biological regulation
-7546	7548	GO:0009987	to	cellular process
-7784	7786	GO:0065007	to	biological regulation
-7784	7786	GO:0009987	to	cellular process
-8151	8153	GO:0065007	to	biological regulation
-8151	8153	GO:0009987	to	cellular process
-8176	8178	GO:0065007	to	biological regulation
-8176	8178	GO:0009987	to	cellular process
-8308	8310	GO:0065007	to	biological regulation
-8308	8310	GO:0009987	to	cellular process
-8608	8610	GO:0065007	to	biological regulation
-8608	8610	GO:0009987	to	cellular process
-9116	9124	GO:0044421	antibody	extraccellular region part
-9116	9124	GO:0032991	antibody	macromolecular complex
-9219	9226	GO:0003824	coupled	catalytic activity
-9227	9229	GO:0065007	to	biological regulation
-9227	9229	GO:0009987	to	cellular process
-9424	9434	GO:0044421	antibodies	extraccellular region part
-9424	9434	GO:0032991	antibodies	macromolecular complex
-10473	10475	GO:0065007	to	biological regulation
-10473	10475	GO:0009987	to	cellular process
-10761	10763	GO:0065007	to	biological regulation
-10761	10763	GO:0009987	to	cellular process
-10817	10819	GO:0065007	to	biological regulation
-10817	10819	GO:0009987	to	cellular process
-10987	10989	GO:0065007	to	biological regulation
-10987	10989	GO:0009987	to	cellular process
-11623	11633	GO:0043226	chromosome	organelle
-11623	11633	GO:0044422	chromosome	organelle part
-11623	11633	GO:0044464	chromosome	cell part
-11956	11966	GO:0043226	chromosome	organelle
-11956	11966	GO:0044422	chromosome	organelle part
-11956	11966	GO:0044464	chromosome	cell part
-12030	12038	GO:0044421	antibody	extraccellular region part
-12030	12038	GO:0032991	antibody	macromolecular complex
-12063	12073	GO:0043226	chromosome	organelle
-12063	12073	GO:0044422	chromosome	organelle part
-12063	12073	GO:0044464	chromosome	cell part
-12494	12506	GO:0000003	reproduction	reproduction
-12748	12750	GO:0065007	to	biological regulation
-12748	12750	GO:0009987	to	cellular process
-12826	12828	GO:0065007	to	biological regulation
-12826	12828	GO:0009987	to	cellular process
-12853	12855	GO:0065007	to	biological regulation
-12853	12855	GO:0009987	to	cellular process
-12864	12866	GO:0065007	to	biological regulation
-12864	12866	GO:0009987	to	cellular process
-12946	12948	GO:0065007	to	biological regulation
-12946	12948	GO:0009987	to	cellular process
-13083	13085	GO:0065007	to	biological regulation
-13083	13085	GO:0009987	to	cellular process
-13176	13178	GO:0065007	to	biological regulation
-13176	13178	GO:0009987	to	cellular process
-14523	14534	GO:0044464	chromosomes	cell part
-14523	14534	GO:0044422	chromosomes	organelle part
-14523	14534	GO:0043226	chromosomes	organelle
-14586	14596	GO:0043226	chromosome	organelle
-14586	14596	GO:0044422	chromosome	organelle part
-14586	14596	GO:0044464	chromosome	cell part
-14657	14667	GO:0043226	chromosome	organelle
-14657	14667	GO:0044422	chromosome	organelle part
-14657	14667	GO:0044464	chromosome	cell part
-14771	14773	GO:0065007	to	biological regulation
-14771	14773	GO:0009987	to	cellular process
-14771	14773	GO:0065007	to	biological regulation
-14771	14773	GO:0009987	to	cellular process
-14805	14815	GO:0043226	chromosome	organelle
-14805	14815	GO:0044422	chromosome	organelle part
-14805	14815	GO:0044464	chromosome	cell part
-15131	15133	GO:0065007	to	biological regulation
-15131	15133	GO:0009987	to	cellular process
-15349	15357	GO:0044421	antibody	extraccellular region part
-15349	15357	GO:0032991	antibody	macromolecular complex
-15349	15368	GO:0002376	antibody production	immune system process
-15381	15391	GO:0043226	chromosome	organelle
-15381	15391	GO:0044422	chromosome	organelle part
-15381	15391	GO:0044464	chromosome	cell part
-15574	15584	GO:0043226	chromosome	organelle
-15574	15584	GO:0044422	chromosome	organelle part
-15574	15584	GO:0044464	chromosome	cell part
-15663	15673	GO:0043226	chromosome	organelle
-15663	15673	GO:0044422	chromosome	organelle part
-15663	15673	GO:0044464	chromosome	cell part
-15742	15752	GO:0043226	chromosome	organelle
-15742	15752	GO:0044422	chromosome	organelle part
-15742	15752	GO:0044464	chromosome	cell part
-15811	15813	GO:0065007	to	biological regulation
-15811	15813	GO:0009987	to	cellular process
-15876	15886	GO:0043226	chromosome	organelle
-15876	15886	GO:0044422	chromosome	organelle part
-15876	15886	GO:0044464	chromosome	cell part
-15993	16003	GO:0043226	chromosome	organelle
-15993	16003	GO:0044422	chromosome	organelle part
-15993	16003	GO:0044464	chromosome	cell part
-16016	16018	GO:0065007	to	biological regulation
-16016	16018	GO:0009987	to	cellular process
-16217	16227	GO:0043226	chromosome	organelle
-16217	16227	GO:0044422	chromosome	organelle part
-16217	16227	GO:0044464	chromosome	cell part
-16336	16346	GO:0043226	chromosome	organelle
-16336	16346	GO:0044422	chromosome	organelle part
-16336	16346	GO:0044464	chromosome	cell part
-16410	16420	GO:0043226	chromosome	organelle
-16410	16420	GO:0044422	chromosome	organelle part
-16410	16420	GO:0044464	chromosome	cell part
-16548	16558	GO:0043226	chromosome	organelle
-16548	16558	GO:0044422	chromosome	organelle part
-16548	16558	GO:0044464	chromosome	cell part
-16835	16845	GO:0043226	chromosome	organelle
-16835	16845	GO:0044422	chromosome	organelle part
-16835	16845	GO:0044464	chromosome	cell part
-17062	17064	GO:0065007	to	biological regulation
-17062	17064	GO:0009987	to	cellular process
-17306	17308	GO:0065007	to	biological regulation
-17306	17308	GO:0009987	to	cellular process
-17592	17602	GO:0043226	chromosome	organelle
-17592	17602	GO:0044422	chromosome	organelle part
-17592	17602	GO:0044464	chromosome	cell part
-17621	17631	GO:0043226	chromosome	organelle
-17621	17631	GO:0044422	chromosome	organelle part
-17621	17631	GO:0044464	chromosome	cell part
-17650	17660	GO:0043226	chromosome	organelle
-17650	17660	GO:0044422	chromosome	organelle part
-17650	17660	GO:0044464	chromosome	cell part
-17787	17795	GO:0044421	collagen	extraccellular region part
-17787	17803	GO:0044421	collagen type II	extraccellular region part
-17830	17837	GO:0065007	type II	biological regulation
-17830	17837	GO:0003824	type II	catalytic activity
-17830	17837	GO:0060089	type II	molecular transducer activity
-17830	17837	GO:0008152	type II	metabolic process
-17883	17885	GO:0065007	to	biological regulation
-17883	17885	GO:0009987	to	cellular process
-18778	18789	GO:0044464	chromosomes	cell part
-18778	18789	GO:0044422	chromosomes	organelle part
-18778	18789	GO:0043226	chromosomes	organelle
-18808	18816	GO:0044421	collagen	extraccellular region part
-18808	18824	GO:0044421	collagen type II	extraccellular region part
-18817	18824	GO:0065007	type II	biological regulation
-18817	18824	GO:0003824	type II	catalytic activity
-18817	18824	GO:0060089	type II	molecular transducer activity
-18817	18824	GO:0008152	type II	metabolic process
-18831	18839	GO:0044421	antibody	extraccellular region part
-18831	18839	GO:0032991	antibody	macromolecular complex
-18866	18876	GO:0043226	chromosome	organelle
-18866	18876	GO:0044422	chromosome	organelle part
-18866	18876	GO:0044464	chromosome	cell part
-18930	18932	GO:0065007	to	biological regulation
-18930	18932	GO:0009987	to	cellular process
-18930	18932	GO:0065007	to	biological regulation
-18930	18932	GO:0009987	to	cellular process
-19103	19110	GO:0065007	type II	biological regulation
-19103	19110	GO:0003824	type II	catalytic activity
-19103	19110	GO:0060089	type II	molecular transducer activity
-19103	19110	GO:0008152	type II	metabolic process
-19905	19907	GO:0065007	to	biological regulation
-19905	19907	GO:0009987	to	cellular process
+163	165	GO:0065007	to	biological regulation
+163	165	GO:0009987	to	cellular process
+1001	1011	GO:0043226	chromosome	organelle
+1001	1011	GO:0044422	chromosome	organelle part
+1001	1011	GO:0044464	chromosome	cell part
+1001	1011	GO:0043226	chromosome	organelle
+1001	1011	GO:0044422	chromosome	organelle part
+1001	1011	GO:0044464	chromosome	cell part
+1327	1335	GO:0044421	collagen	extraccellular region part
+1327	1343	GO:0044421	collagen type II	extraccellular region part
+1336	1343	GO:0065007	type II	biological regulation
+1336	1343	GO:0003824	type II	catalytic activity
+1336	1343	GO:0060089	type II	molecular transducer activity
+1336	1343	GO:0008152	type II	metabolic process
+1344	1352	GO:0044421	antibody	extraccellular region part
+1344	1352	GO:0032991	antibody	macromolecular complex
+1378	1388	GO:0043226	chromosome	organelle
+1378	1388	GO:0044422	chromosome	organelle part
+1378	1388	GO:0044464	chromosome	cell part
+1600	1602	GO:0065007	to	biological regulation
+1600	1602	GO:0009987	to	cellular process
+2120	2127	GO:0009987	reduced	cellular process
+2120	2127	GO:0008152	reduced	metabolic process
+2120	2127	GO:0005215	reduced	transporter activity
+2120	2127	GO:0051234	reduced	establishment of localization
+2303	2305	GO:0065007	to	biological regulation
+2303	2305	GO:0009987	to	cellular process
+2409	2411	GO:0065007	to	biological regulation
+2409	2411	GO:0009987	to	cellular process
+3524	3526	GO:0065007	To	biological regulation
+3524	3526	GO:0009987	To	cellular process
+3556	3558	GO:0065007	to	biological regulation
+3556	3558	GO:0009987	to	cellular process
+3556	3558	GO:0065007	to	biological regulation
+3556	3558	GO:0009987	to	cellular process
+3618	3620	GO:0065007	to	biological regulation
+3618	3620	GO:0009987	to	cellular process
+3785	3787	GO:0065007	to	biological regulation
+3785	3787	GO:0009987	to	cellular process
+5096	5102	GO:0032502	embryo	developmental process
+5126	5138	GO:0000003	reproduction	reproduction
+5365	5371	GO:0051704	mating	multi-organism process
+5365	5371	GO:0022414	mating	reproductive process
+5423	5425	GO:0065007	to	biological regulation
+5423	5425	GO:0009987	to	cellular process
+5469	5475	GO:0051704	mating	multi-organism process
+5469	5475	GO:0022414	mating	reproductive process
+5502	5504	GO:0065007	to	biological regulation
+5502	5504	GO:0009987	to	cellular process
+5581	5587	GO:0051704	mating	multi-organism process
+5581	5587	GO:0022414	mating	reproductive process
+5654	5656	GO:0065007	to	biological regulation
+5654	5656	GO:0009987	to	cellular process
+5708	5710	GO:0065007	To	biological regulation
+5708	5710	GO:0009987	To	cellular process
+5802	5810	GO:0044421	collagen	extraccellular region part
+5802	5818	GO:0044421	collagen type II	extraccellular region part
+5811	5818	GO:0065007	type II	biological regulation
+5811	5818	GO:0003824	type II	catalytic activity
+5811	5818	GO:0060089	type II	molecular transducer activity
+5811	5818	GO:0008152	type II	metabolic process
+5929	5931	GO:0065007	to	biological regulation
+5929	5931	GO:0009987	to	cellular process
+6103	6105	GO:0065007	to	biological regulation
+6103	6105	GO:0009987	to	cellular process
+6357	6359	GO:0065007	to	biological regulation
+6357	6359	GO:0009987	to	cellular process
+7340	7351	GO:0044464	chromosomes	cell part
+7340	7351	GO:0044422	chromosomes	organelle part
+7340	7351	GO:0043226	chromosomes	organelle
+7367	7379	GO:0044464	Y chromosome	cell part
+7367	7379	GO:0043226	Y chromosome	organelle
+7369	7379	GO:0043226	chromosome	organelle
+7369	7379	GO:0044422	chromosome	organelle part
+7369	7379	GO:0044464	chromosome	cell part
+7474	7476	GO:0065007	to	biological regulation
+7474	7476	GO:0009987	to	cellular process
+7576	7578	GO:0065007	to	biological regulation
+7576	7578	GO:0009987	to	cellular process
+7814	7816	GO:0065007	to	biological regulation
+7814	7816	GO:0009987	to	cellular process
+8181	8183	GO:0065007	to	biological regulation
+8181	8183	GO:0009987	to	cellular process
+8206	8208	GO:0065007	to	biological regulation
+8206	8208	GO:0009987	to	cellular process
+8340	8342	GO:0065007	to	biological regulation
+8340	8342	GO:0009987	to	cellular process
+8640	8642	GO:0065007	to	biological regulation
+8640	8642	GO:0009987	to	cellular process
+9152	9160	GO:0044421	antibody	extraccellular region part
+9152	9160	GO:0032991	antibody	macromolecular complex
+9255	9262	GO:0003824	coupled	catalytic activity
+9263	9265	GO:0065007	to	biological regulation
+9263	9265	GO:0009987	to	cellular process
+9460	9470	GO:0044421	antibodies	extraccellular region part
+9460	9470	GO:0032991	antibodies	macromolecular complex
+10521	10523	GO:0065007	to	biological regulation
+10521	10523	GO:0009987	to	cellular process
+10811	10813	GO:0065007	to	biological regulation
+10811	10813	GO:0009987	to	cellular process
+10867	10869	GO:0065007	to	biological regulation
+10867	10869	GO:0009987	to	cellular process
+11037	11039	GO:0065007	to	biological regulation
+11037	11039	GO:0009987	to	cellular process
+11679	11689	GO:0043226	chromosome	organelle
+11679	11689	GO:0044422	chromosome	organelle part
+11679	11689	GO:0044464	chromosome	cell part
+12012	12022	GO:0043226	chromosome	organelle
+12012	12022	GO:0044422	chromosome	organelle part
+12012	12022	GO:0044464	chromosome	cell part
+12086	12094	GO:0044421	antibody	extraccellular region part
+12086	12094	GO:0032991	antibody	macromolecular complex
+12119	12129	GO:0043226	chromosome	organelle
+12119	12129	GO:0044422	chromosome	organelle part
+12119	12129	GO:0044464	chromosome	cell part
+12554	12566	GO:0000003	reproduction	reproduction
+12808	12810	GO:0065007	to	biological regulation
+12808	12810	GO:0009987	to	cellular process
+12886	12888	GO:0065007	to	biological regulation
+12886	12888	GO:0009987	to	cellular process
+12913	12915	GO:0065007	to	biological regulation
+12913	12915	GO:0009987	to	cellular process
+12924	12926	GO:0065007	to	biological regulation
+12924	12926	GO:0009987	to	cellular process
+13006	13008	GO:0065007	to	biological regulation
+13006	13008	GO:0009987	to	cellular process
+13143	13145	GO:0065007	to	biological regulation
+13143	13145	GO:0009987	to	cellular process
+13236	13238	GO:0065007	to	biological regulation
+13236	13238	GO:0009987	to	cellular process
+14587	14598	GO:0044464	chromosomes	cell part
+14587	14598	GO:0044422	chromosomes	organelle part
+14587	14598	GO:0043226	chromosomes	organelle
+14650	14660	GO:0043226	chromosome	organelle
+14650	14660	GO:0044422	chromosome	organelle part
+14650	14660	GO:0044464	chromosome	cell part
+14721	14731	GO:0043226	chromosome	organelle
+14721	14731	GO:0044422	chromosome	organelle part
+14721	14731	GO:0044464	chromosome	cell part
+14835	14837	GO:0065007	to	biological regulation
+14835	14837	GO:0009987	to	cellular process
+14835	14837	GO:0065007	to	biological regulation
+14835	14837	GO:0009987	to	cellular process
+14869	14879	GO:0043226	chromosome	organelle
+14869	14879	GO:0044422	chromosome	organelle part
+14869	14879	GO:0044464	chromosome	cell part
+15195	15197	GO:0065007	to	biological regulation
+15195	15197	GO:0009987	to	cellular process
+15413	15421	GO:0044421	antibody	extraccellular region part
+15413	15421	GO:0032991	antibody	macromolecular complex
+15413	15432	GO:0002376	antibody production	immune system process
+15445	15455	GO:0043226	chromosome	organelle
+15445	15455	GO:0044422	chromosome	organelle part
+15445	15455	GO:0044464	chromosome	cell part
+15638	15648	GO:0043226	chromosome	organelle
+15638	15648	GO:0044422	chromosome	organelle part
+15638	15648	GO:0044464	chromosome	cell part
+15729	15739	GO:0043226	chromosome	organelle
+15729	15739	GO:0044422	chromosome	organelle part
+15729	15739	GO:0044464	chromosome	cell part
+15808	15818	GO:0043226	chromosome	organelle
+15808	15818	GO:0044422	chromosome	organelle part
+15808	15818	GO:0044464	chromosome	cell part
+15877	15879	GO:0065007	to	biological regulation
+15877	15879	GO:0009987	to	cellular process
+15942	15952	GO:0043226	chromosome	organelle
+15942	15952	GO:0044422	chromosome	organelle part
+15942	15952	GO:0044464	chromosome	cell part
+16059	16069	GO:0043226	chromosome	organelle
+16059	16069	GO:0044422	chromosome	organelle part
+16059	16069	GO:0044464	chromosome	cell part
+16082	16084	GO:0065007	to	biological regulation
+16082	16084	GO:0009987	to	cellular process
+16283	16293	GO:0043226	chromosome	organelle
+16283	16293	GO:0044422	chromosome	organelle part
+16283	16293	GO:0044464	chromosome	cell part
+16404	16414	GO:0043226	chromosome	organelle
+16404	16414	GO:0044422	chromosome	organelle part
+16404	16414	GO:0044464	chromosome	cell part
+16478	16488	GO:0043226	chromosome	organelle
+16478	16488	GO:0044422	chromosome	organelle part
+16478	16488	GO:0044464	chromosome	cell part
+16616	16626	GO:0043226	chromosome	organelle
+16616	16626	GO:0044422	chromosome	organelle part
+16616	16626	GO:0044464	chromosome	cell part
+16905	16915	GO:0043226	chromosome	organelle
+16905	16915	GO:0044422	chromosome	organelle part
+16905	16915	GO:0044464	chromosome	cell part
+17132	17134	GO:0065007	to	biological regulation
+17132	17134	GO:0009987	to	cellular process
+17376	17378	GO:0065007	to	biological regulation
+17376	17378	GO:0009987	to	cellular process
+17666	17676	GO:0043226	chromosome	organelle
+17666	17676	GO:0044422	chromosome	organelle part
+17666	17676	GO:0044464	chromosome	cell part
+17695	17705	GO:0043226	chromosome	organelle
+17695	17705	GO:0044422	chromosome	organelle part
+17695	17705	GO:0044464	chromosome	cell part
+17724	17734	GO:0043226	chromosome	organelle
+17724	17734	GO:0044422	chromosome	organelle part
+17724	17734	GO:0044464	chromosome	cell part
+17865	17873	GO:0044421	collagen	extraccellular region part
+17865	17881	GO:0044421	collagen type II	extraccellular region part
+17908	17915	GO:0065007	type II	biological regulation
+17908	17915	GO:0003824	type II	catalytic activity
+17908	17915	GO:0060089	type II	molecular transducer activity
+17908	17915	GO:0008152	type II	metabolic process
+17961	17963	GO:0065007	to	biological regulation
+17961	17963	GO:0009987	to	cellular process
+18878	18889	GO:0044464	chromosomes	cell part
+18878	18889	GO:0044422	chromosomes	organelle part
+18878	18889	GO:0043226	chromosomes	organelle
+18908	18916	GO:0044421	collagen	extraccellular region part
+18908	18924	GO:0044421	collagen type II	extraccellular region part
+18917	18924	GO:0065007	type II	biological regulation
+18917	18924	GO:0003824	type II	catalytic activity
+18917	18924	GO:0060089	type II	molecular transducer activity
+18917	18924	GO:0008152	type II	metabolic process
+18931	18939	GO:0044421	antibody	extraccellular region part
+18931	18939	GO:0032991	antibody	macromolecular complex
+18966	18976	GO:0043226	chromosome	organelle
+18966	18976	GO:0044422	chromosome	organelle part
+18966	18976	GO:0044464	chromosome	cell part
+19030	19032	GO:0065007	to	biological regulation
+19030	19032	GO:0009987	to	cellular process
+19030	19032	GO:0065007	to	biological regulation
+19030	19032	GO:0009987	to	cellular process
+19207	19214	GO:0065007	type II	biological regulation
+19207	19214	GO:0003824	type II	catalytic activity
+19207	19214	GO:0060089	type II	molecular transducer activity
+19207	19214	GO:0008152	type II	metabolic process
+20027	20029	GO:0065007	to	biological regulation
+20027	20029	GO:0009987	to	cellular process
