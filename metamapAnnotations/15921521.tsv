@@ -1,0 +1,220 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+0	84	GO:0007567	potential genetic modifiers of the cystic fibrosis intestinal inflammatory phenotype	parturition	Birth	C0005615
+0	84	GO:0000003	potential genetic modifiers of the cystic fibrosis intestinal inflammatory phenotype	reproduction	Reproduction	C0035150
+94	104	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+190	261	GO:0005260	in the cystic fibrosis transmembrane conductance regulator (cftr) gene,	cystic-fibrosis membrane-conductance-regulating protein activity		C2262295
+316	348	GO:0007567	the influence of modifier genes.	parturition	Birth	C0005615
+316	348	GO:0000003	the influence of modifier genes.	reproduction	Reproduction	C0035150
+434	465	GO:0070701	by excessive mucus accumulation	mucus layer		C2753459
+570	627	GO:0007567	strongly dependent on the genetic background of the mice.	parturition	Birth	C0005615
+570	627	GO:0000003	strongly dependent on the genetic background of the mice.	reproduction	Reproduction	C0035150
+720	732	GO:0006954	Inflammation	Inflammation		C0021368
+906	943	GO:0007567	cf mice on a mixed genetic background	parturition	Birth	C0005615
+906	943	GO:0000003	cf mice on a mixed genetic background	reproduction	Reproduction	C0035150
+1206	1218	GO:0006954	Inflammation	Inflammation		C0021368
+1254	1271	GO:0007567	for marker genes,	parturition	Birth	C0005615
+1254	1271	GO:0000003	for marker genes,	reproduction	Reproduction	C0035150
+1316	1368	GO:0070701	reduced mucus accumulation in the intestinal crypts.	mucus layer		C2753459
+2047	2081	GO:0007567	in specific genes in these regions	parturition	Birth	C0005615
+2047	2081	GO:0000003	in specific genes in these regions	reproduction	Reproduction	C0035150
+2097	2178	GO:0007567	important new information about genetic modifiers of the cf intestinal phenotype.	parturition	Birth	C0005615
+2097	2178	GO:0000003	important new information about genetic modifiers of the cf intestinal phenotype.	reproduction	Reproduction	C0035150
+2236	2306	GO:0005260	in the cystic fibrosis transmembrane conductance regulator (cftr) gene	cystic-fibrosis membrane-conductance-regulating protein activity		C2262295
+2919	2930	GO:0007567	other genes	parturition	Birth	C0005615
+2919	2930	GO:0000003	other genes	reproduction	Reproduction	C0035150
+3062	3071	GO:0007586	digestion	digestion	Digestion	C0012238
+3232	3262	GO:1902698	neutralization of gastric acid	acidogenesis		C3823112
+3232	3262	GO:1902705	neutralization of gastric acid	acidogenesis		C3823112
+3232	3262	GO:1902706	neutralization of gastric acid	acidogenesis		C3823112
+3232	3262	GO:1902699	neutralization of gastric acid	acidogenesis		C3823112
+3326	3335	GO:0007586	digestion	digestion	Digestion	C0012238
+3563	3617	GO:0070701	also excessive mucus accumulation in the cf intestine,	mucus layer		C2753459
+3636	3648	GO:0006954	Inflammation	Inflammation		C0021368
+3665	3670	GO:0070701	mucus	mucus layer		C2753459
+3894	3906	GO:0006954	Inflammation	Inflammation		C0021368
+3999	4015	GO:0007567	in the cftr gene	parturition	Birth	C0005615
+3999	4015	GO:0000003	in the cftr gene	reproduction	Reproduction	C0035150
+4060	4089	GO:0007567	in individual genetic makeup.	parturition	Birth	C0005615
+4060	4089	GO:0000003	in individual genetic makeup.	reproduction	Reproduction	C0035150
+4170	4189	GO:0007567	some modifier genes	parturition	Birth	C0005615
+4170	4189	GO:0000003	some modifier genes	reproduction	Reproduction	C0035150
+4272	4313	GO:0007567	cf mice on different genetic backgrounds,	parturition	Birth	C0005615
+4272	4313	GO:0000003	cf mice on different genetic backgrounds,	reproduction	Reproduction	C0035150
+4314	4344	GO:0098687	a region on mouse chromosome 7	chromosome region	Region of chromosome	C1953345
+4507	4573	GO:0098687	marker haplotypes of the syntenic region of human chromosome 19q13	chromosome region	Region of chromosome	C1953345
+4722	4734	GO:0006954	Inflammation	Inflammation		C0021368
+4762	4766	GO:0005623	cell	cell	Cells	C0007634
+5450	5489	GO:0007567	future identification of specific genes	parturition	Birth	C0005615
+5450	5489	GO:0000003	future identification of specific genes	reproduction	Reproduction	C0035150
+6427	6455	GO:0007567	effect of genetic background	parturition	Birth	C0005615
+6427	6455	GO:0000003	effect of genetic background	reproduction	Reproduction	C0035150
+7070	7082	GO:0006954	Inflammation	Inflammation		C0021368
+7133	7161	GO:0007567	the mixed genetic background	parturition	Birth	C0005615
+7133	7161	GO:0000003	the mixed genetic background	reproduction	Reproduction	C0035150
+7171	7211	GO:0010467	expression of inflammatory marker genes,	gene expression	Gene Expression	C0017262
+7263	7278	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+7280	7313	GO:0010467	expression of the following genes	gene expression	Gene Expression	C0017262
+7344	7389	GO:0007567	cf mice on the different genetic backgrounds.	parturition	Birth	C0005615
+7344	7389	GO:0000003	cf mice on the different genetic backgrounds.	reproduction	Reproduction	C0035150
+7395	7399	GO:0005623	cell	cell	Cells	C0007634
+7422	7459	GO:0060374	a marker of differentiated mast cells	mast cell differentiation		C2610521
+7454	7458	GO:0005623	cell	cell	Cells	C0007634
+7672	7685	GO:0007567	the same gene	parturition	Birth	C0005615
+7672	7685	GO:0000003	the same gene	reproduction	Reproduction	C0035150
+7733	7737	GO:0005623	cell	cell	Cells	C0007634
+7864	7876	GO:0006954	Inflammation	Inflammation		C0021368
+7886	7917	GO:0030097	hematopoietic cell transcript 1	hematopoiesis	Hematopoiesis	C0018951
+7953	7971	GO:0008283	cell proliferation	cell proliferation	Cell Proliferation	C0596290
+8081	8100	GO:0007567	an acute phase gene	parturition	Birth	C0005615
+8081	8100	GO:0000003	an acute phase gene	reproduction	Reproduction	C0035150
+8141	8145	GO:0005623	cell	cell	Cells	C0007634
+8184	8218	GO:0007165	suppressor of cytokine signaling 3	signal transduction	Signal Transduction	C0037083
+8184	8218	GO:0023052	suppressor of cytokine signaling 3	biological signaling		C3537152
+8236	8261	GO:0007567	an anti-inflammatory gene	parturition	Birth	C0005615
+8236	8261	GO:0000003	an anti-inflammatory gene	reproduction	Reproduction	C0035150
+8286	8289	GO:0004713	JAK	JAK	JAK activity	C1150611
+8452	8464	GO:0009986	cell surface	cell surface	Cell surface	C0699040
+9794	9822	GO:0007567	effect of genetic background	parturition	Birth	C0005615
+9794	9822	GO:0000003	effect of genetic background	reproduction	Reproduction	C0035150
+9839	9854	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+9884	9905	GO:0006351	rna expression levels	transcription	Transcription, Genetic	C0040649
+9961	9983	GO:0007567	gene-specific primers.	parturition	Birth	C0005615
+9961	9983	GO:0000003	gene-specific primers.	reproduction	Reproduction	C0035150
+10273	10322	GO:0007567	no significant differences for any of the 6 genes	parturition	Birth	C0005615
+10273	10322	GO:0000003	no significant differences for any of the 6 genes	reproduction	Reproduction	C0035150
+10496	10510	GO:0007567	for each gene.	parturition	Birth	C0005615
+10496	10510	GO:0000003	for each gene.	reproduction	Reproduction	C0035150
+10566	10581	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+10795	10829	GO:0070701	less intestinal mucus accumulation	mucus layer		C2753459
+10908	10933	GO:0070701	the accumulation of mucus	mucus layer		C2753459
+11081	11103	GO:1902698	periodic acid schiff's	acidogenesis		C3823112
+11081	11103	GO:1902705	periodic acid schiff's	acidogenesis		C3823112
+11081	11103	GO:1902706	periodic acid schiff's	acidogenesis		C3823112
+11081	11103	GO:1902699	periodic acid schiff's	acidogenesis		C3823112
+11246	11275	GO:0007567	the mixed genetic backgrounds	parturition	Birth	C0005615
+11246	11275	GO:0000003	the mixed genetic backgrounds	reproduction	Reproduction	C0035150
+11338	11362	GO:0000407	traces of pas-reactivity	pre-autophagosomal structure		C1820373
+11481	11485	GO:0005623	cell	cell	Cells	C0007634
+11573	11601	GO:0007567	on the b6 genetic background	parturition	Birth	C0005615
+11573	11601	GO:0000003	on the b6 genetic background	reproduction	Reproduction	C0035150
+11635	11665	GO:0000407	filled with pas-reactive mucus	pre-autophagosomal structure		C1820373
+11713	11749	GO:0070701	less mucus accumulation than cf mice	mucus layer		C2753459
+11784	11803	GO:0070701	the amount of mucus	mucus layer		C2753459
+11924	11941	GO:0070701	accumulated mucus	mucus layer		C2753459
+12009	12033	GO:0070701	more mucus in the crypts	mucus layer		C2753459
+12062	12089	GO:0070701	moderate mucus accumulation	mucus layer		C2753459
+12192	12205	GO:0070701	little mucus,	mucus layer		C2753459
+12214	12225	GO:0070701	some mucus,	mucus layer		C2753459
+12238	12264	GO:0070701	moderate amounts of mucus.	mucus layer		C2753459
+12358	12381	GO:0070701	less mucus accumulation	mucus layer		C2753459
+12499	12544	GO:0007567	cf mice on the different genetic backgrounds.	parturition	Birth	C0005615
+12499	12544	GO:0000003	cf mice on the different genetic backgrounds.	reproduction	Reproduction	C0035150
+12578	12594	GO:0000407	stained with pas	pre-autophagosomal structure		C1820373
+13009	13039	GO:0000407	filled with pas-reactive mucus	pre-autophagosomal structure		C1820373
+13310	13328	GO:0070701	mucus accumulation	mucus layer		C2753459
+13470	13516	GO:0007567	whatever the nature of the genetic differences	parturition	Birth	C0005615
+13470	13516	GO:0000003	whatever the nature of the genetic differences	reproduction	Reproduction	C0035150
+13579	13600	GO:0070701	accumulation of mucus	mucus layer		C2753459
+13699	13714	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+13756	13813	GO:0010467	mrna expression of the intestinal goblet cell mucin gene,	gene expression	Gene Expression	C0017262
+14127	14174	GO:0070701	despite the increased mucus accumulation in cf,	mucus layer		C2753459
+14357	14381	GO:0070701	less mucus accumulation,	mucus layer		C2753459
+14415	14430	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+16024	16071	GO:0070701	less mucus accumulation in the small intestine,	mucus layer		C2753459
+16533	16561	GO:0007567	effect of genetic background	parturition	Birth	C0005615
+16533	16561	GO:0000003	effect of genetic background	reproduction	Reproduction	C0035150
+17251	17295	GO:0007567	129 alleles to the mixed genetic background,	parturition	Birth	C0005615
+17251	17295	GO:0000003	129 alleles to the mixed genetic background,	reproduction	Reproduction	C0035150
+17769	17779	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+17797	17835	GO:0007567	probably due to the targeted cftr gene	parturition	Birth	C0005615
+17797	17835	GO:0000003	probably due to the targeted cftr gene	reproduction	Reproduction	C0035150
+18052	18078	GO:0098687	on the chromosomal regions	chromosome region	Region of chromosome	C1953345
+18535	18568	GO:0007567	from the two genetic backgrounds.	parturition	Birth	C0005615
+18535	18568	GO:0000003	from the two genetic backgrounds.	reproduction	Reproduction	C0035150
+18947	18980	GO:0007567	genes within 75% of this interval	parturition	Birth	C0005615
+18947	18980	GO:0000003	genes within 75% of this interval	reproduction	Reproduction	C0035150
+19168	19211	GO:0098687	are in the regions of the three chromosomes	chromosome region	Region of chromosome	C1953345
+19260	19317	GO:0007567	several potassium channel genes in the identified regions	parturition	Birth	C0005615
+19260	19317	GO:0000003	several potassium channel genes in the identified regions	reproduction	Reproduction	C0035150
+19364	19379	GO:0042044	fluid transport	fluid transport		C1159569
+19479	19493	GO:0007567	all gene names	parturition	Birth	C0005615
+19479	19493	GO:0000003	all gene names	reproduction	Reproduction	C0035150
+19543	19555	GO:0006954	Inflammation	Inflammation		C0021368
+19653	19665	GO:0006954	Inflammation	Inflammation		C0021368
+19684	19697	GO:0007567	several genes	parturition	Birth	C0005615
+19684	19697	GO:0000003	several genes	reproduction	Reproduction	C0035150
+19710	19722	GO:0006954	Inflammation	Inflammation		C0021368
+19882	19899	GO:0042110	T cell activation	T cell activation	T-Cell Activation	C1155065
+19915	19923	GO:0008337	selectin	selectin	selectin activity	C1325391
+19915	19923	GO:0030246	selectin	selectin	selectin activity	C1325391
+19994	19998	GO:0005623	cell	cell	Cells	C0007634
+20066	20078	GO:0009986	cell surface	cell surface	Cell surface	C0699040
+20159	20182	GO:0007567	the chemokine gene xcl1	parturition	Birth	C0005615
+20159	20182	GO:0000003	the chemokine gene xcl1	reproduction	Reproduction	C0035150
+20225	20229	GO:0005623	cell	cell	Cells	C0007634
+20270	20284	GO:0003823	immunoglobulin	immunoglobulin	immunoglobulin activity	C1621846
+20544	20548	GO:0005623	cell	cell	Cells	C0007634
+20733	20737	GO:0005623	cell	cell	Cells	C0007634
+20765	20790	GO:0060374	mast cell differentiation	mast cell differentiation		C2610521
+20826	20861	GO:0042571	involved in antibody-responsiveness	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+20907	20911	GO:0005623	cell	cell	Cells	C0007634
+20933	20942	GO:0005618	cell wall	cell wall	Cell Wall	C0007623
+21170	21177	GO:0007567	6 genes	parturition	Birth	C0005615
+21170	21177	GO:0000003	6 genes	reproduction	Reproduction	C0035150
+21204	21260	GO:0035556	important components of intracellular signaling pathways	intracellular signal transduction pathway		C2755994
+21552	21563	GO:0035264	body growth	body growth	Body growth	C0231256
+21601	21642	GO:0035264	postnatal body weight growth 5 at chr.10,	body growth	Body growth	C0231256
+21670	21705	GO:0007567	numerous genes in the three regions	parturition	Birth	C0005615
+21670	21705	GO:0000003	numerous genes in the three regions	reproduction	Reproduction	C0035150
+21777	21825	GO:0045087	characterized by an innate type immune response,	innate immunity	Immunity, Innate	C0020969
+21849	21853	GO:0005623	cell	cell	Cells	C0007634
+21872	21881	GO:0007567	the genes	parturition	Birth	C0005615
+21872	21881	GO:0000003	the genes	reproduction	Reproduction	C0035150
+21900	21904	GO:0005623	cell	cell	Cells	C0007634
+21931	21944	GO:0007567	the kitl gene	parturition	Birth	C0005615
+21931	21944	GO:0000003	the kitl gene	reproduction	Reproduction	C0035150
+21948	21990	GO:0060374	crucial for differentiation of mast cells,	mast cell differentiation		C2610521
+22032	22065	GO:0048468	much fewer mature mast cells than	cell development	Cell development	C0815089
+22159	22167	GO:0008337	selectin	selectin	selectin activity	C1325391
+22159	22167	GO:0030246	selectin	selectin	selectin activity	C1325391
+22218	22259	GO:0072672	required for extravasation of neutrophils	neutrophil extravasation		C3156749
+22260	22306	GO:0008015	from the circulation into the inflamed tissue.	blood circulation	Blood Circulation	C0005775
+22316	22331	GO:0006955	immune response	immune response	Immune response	C0301872
+22342	22380	GO:0070701	relate to excessive mucus accumulation	mucus layer		C2753459
+22408	22425	GO:0070701	unclear why mucus	mucus layer		C2753459
+22483	22516	GO:0007589	be due to reduced fluid secretion	body fluid secretion		C2263233
+22521	22580	GO:1902698	a more acidic environment in the lumina of affected organs.	acidogenesis		C3823112
+22521	22580	GO:1902705	a more acidic environment in the lumina of affected organs.	acidogenesis		C3823112
+22521	22580	GO:1902706	a more acidic environment in the lumina of affected organs.	acidogenesis		C3823112
+22521	22580	GO:1902699	a more acidic environment in the lumina of affected organs.	acidogenesis		C3823112
+22599	22640	GO:0070701	also evidence for hypersecretion of mucus	mucus layer		C2753459
+22711	22715	GO:0005623	cell	cell	Cells	C0007634
+22810	22825	GO:0070254	mucus secretion	mucus secretion		C2610947
+23111	23123	GO:0006954	Inflammation	Inflammation		C0021368
+23186	23190	GO:0005623	cell	cell	Cells	C0007634
+23195	23210	GO:0070254	mucus secretion	mucus secretion		C2610947
+23212	23247	GO:0007567	the genes in the identified regions	parturition	Birth	C0005615
+23212	23247	GO:0000003	the genes in the identified regions	reproduction	Reproduction	C0035150
+23275	23279	GO:0005623	cell	cell	Cells	C0007634
+23284	23310	GO:0030223	neutrophil differentiation	neutrophil differentiation		C1159958
+23315	23323	GO:0007610	behavior	behavior	Behavior	C0004927
+23487	23515	GO:0010467	expression of specific genes	gene expression	Gene Expression	C0017262
+23600	23651	GO:0007567	cftr null mice on two different genetic backgrounds	parturition	Birth	C0005615
+23600	23651	GO:0000003	cftr null mice on two different genetic backgrounds	reproduction	Reproduction	C0035150
+23954	23993	GO:0007567	a targeted mutation of the gastrin gene	parturition	Birth	C0005615
+23954	23993	GO:0000003	a targeted mutation of the gastrin gene	reproduction	Reproduction	C0035150
+24274	24283	GO:0007601	see below	vision	Vision	C0042789
+25040	25081	GO:0009405	kept in a specific pathogen-free facility	pathogenesis	Pathogenesis	C0699748
+25184	25216	GO:0007567	genetic background determination	parturition	Birth	C0005615
+25184	25216	GO:0000003	genetic background determination	reproduction	Reproduction	C0035150
+25720	25728	GO:0030849	autosome	autosome	Autosome	C0596142
+25747	25762	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+25901	25929	GO:0010467	expression of specific genes	gene expression	Gene Expression	C0017262
+26016	26052	GO:0010467	expression of this housekeeping gene	gene expression	Gene Expression	C0017262
+26548	26583	GO:1902698	stained with periodic acid schiff's	acidogenesis		C3823112
+26548	26583	GO:1902705	stained with periodic acid schiff's	acidogenesis		C3823112
+26548	26583	GO:1902706	stained with periodic acid schiff's	acidogenesis		C3823112
+26548	26583	GO:1902699	stained with periodic acid schiff's	acidogenesis		C3823112
+26623	26638	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+27085	27088	GO:0097194	rcd	apoptosis	Apoptosis	C0162638
+27085	27088	GO:0006915	rcd	apoptosis	Apoptosis	C0162638

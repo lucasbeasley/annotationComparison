@@ -1,0 +1,204 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+0	31	GO:0050789	regulation of muscle fiber type	regulation of biological process	Regulation of biological process	C1327622
+130	142	GO:0030484	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+130	142	GO:0043292	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+177	189	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+236	251	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+262	285	GO:0000988	no transcription factor	transcription factor activity		C1148759
+262	285	GO:0001070	no transcription factor	transcription factor activity		C1148759
+262	285	GO:0001071	no transcription factor	transcription factor activity		C1148759
+262	285	GO:0003700	no transcription factor	transcription factor activity		C1148759
+529	539	GO:0005777	peroxisome	peroxisome		C0752063
+669	681	GO:0030484	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+669	681	GO:0043292	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+766	781	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+875	908	GO:0044237	with improved metabolic profiles,	cellular metabolic process	Metabolic Process, Cellular	C1524026
+1122	1134	GO:0030484	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+1122	1134	GO:0043292	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+1199	1215	GO:0006096	(glycolytic/fast	glycolysis	Glycolysis	C0017952
+1284	1294	GO:0008152	metabolism	metabolism	Metabolism	C0025519
+1345	1357	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+1378	1421	GO:0009060	oxidative metabolism for energy production,	respiration	Cell Respiration	C0282636
+1378	1421	GO:0045333	oxidative metabolism for energy production,	respiration	Cell Respiration	C0282636
+1611	1623	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+1611	1653	GO:0000001	the lowest levels of mitochondrial content	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+1656	1685	GO:0006096	rely on glycolytic metabolism	glycolysis	Glycolysis	C0017952
+2159	2170	GO:1990343	; hood 2001	heterochromatin domain		C3714912
+2192	2204	GO:0030484	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+2192	2204	GO:0043292	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+2272	2289	GO:0019722	calcium signaling	calcium signaling	Calcium Signaling	C0600431
+2312	2324	GO:0033192	calcineurin,	calcineurin activity	Calcineurin activity	C1149946
+2362	2375	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+2555	2591	GO:0000988	the targeted transcriptional factors	transcription factor activity		C1148759
+2555	2591	GO:0001070	the targeted transcriptional factors	transcription factor activity		C1148759
+2555	2591	GO:0001071	the targeted transcriptional factors	transcription factor activity		C1148759
+2555	2591	GO:0003700	the targeted transcriptional factors	transcription factor activity		C1148759
+2631	2661	GO:0006936	the fiber-specific contractile	muscle contraction	Muscle Contraction	C0026820
+2666	2681	GO:0044237	metabolic genes	cellular metabolic process	Metabolic Process, Cellular	C1524026
+2708	2720	GO:0030484	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+2708	2720	GO:0043292	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+3000	3020	GO:0006096	glycolytic capacity,	glycolysis	Glycolysis	C0017952
+3417	3427	GO:0005777	peroxisome	peroxisome		C0752063
+3484	3497	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+3573	3625	GO:0006635	associated with long-chain fatty-acid beta-oxidation	fatty acid beta-oxidation		C1158368
+3668	3724	GO:0005777	the predominant ppar isoform present in skeletal muscle,	peroxisome		C0752063
+3798	3841	GO:0000988	ppardelta as the first transcription factor	transcription factor activity		C1148759
+3798	3841	GO:0001070	ppardelta as the first transcription factor	transcription factor activity		C1148759
+3798	3841	GO:0001071	ppardelta as the first transcription factor	transcription factor activity		C1148759
+3798	3841	GO:0003700	ppardelta as the first transcription factor	transcription factor activity		C1148759
+3856	3905	GO:0009058	the formation of functional type i muscle fibers,	anabolism	Anabolism	C0220781
+4072	4084	GO:0030484	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+4072	4084	GO:0043292	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+4124	4136	GO:0030484	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+4124	4136	GO:0043292	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+4325	4337	GO:0030484	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+4325	4337	GO:0043292	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+4775	4787	GO:0030484	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+4775	4787	GO:0043292	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+4803	4815	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+4879	4919	GO:0043038	the 78-amino-acid vp16 activation domain	amino acid activation	Activation of Amino Acids	C0002511
+5298	5310	GO:0030484	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+5298	5310	GO:0043292	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+5799	5808	GO:0007601	see below	vision	Vision	C0042789
+5948	5978	GO:0000785	mixed muscle by its red color,	chromatin	chromatin location	C1325550
+6070	6082	GO:0030484	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+6070	6082	GO:0043292	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+6302	6314	GO:0030484	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+6302	6314	GO:0043292	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+6503	6515	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+6503	6525	GO:0000001	mitochondrial content,	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+6612	6658	GO:0044429	mitochondrial components for electron transfer	mitochondrial subcomponent	Part of mitochondrion	C1179844
+6660	6672	GO:0009461	cytochrome c	cytochrome c	cytochrome c activity	C1153524
+6660	6672	GO:0045155	cytochrome c	cytochrome c	cytochrome c activity	C1153524
+6677	6689	GO:0009461	cytochrome c	cytochrome c	cytochrome c activity	C1153524
+6677	6689	GO:0045155	cytochrome c	cytochrome c	cytochrome c activity	C1153524
+6719	6752	GO:0006635	fatty-acid beta-oxidation enzymes	fatty acid beta-oxidation		C1158368
+6921	6933	GO:0030484	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+6921	6933	GO:0043292	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+6945	6957	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+7119	7139	GO:0000262	mitochondrial genome	mitochondrial genome	Genome, Mitochondrial	C1819716
+7194	7211	GO:0000262	mitochondrial dna	mitochondrial DNA location		C1819717
+7340	7352	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+7410	7422	GO:0030484	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+7410	7422	GO:0043292	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+7579	7591	GO:0009461	cytochrome c	cytochrome c	cytochrome c activity	C1153524
+7579	7591	GO:0045155	cytochrome c	cytochrome c	cytochrome c activity	C1153524
+7986	8007	GO:0007567	similar target genes.	parturition	Birth	C0005615
+7986	8007	GO:0000003	similar target genes.	reproduction	Reproduction	C0035150
+8186	8228	GO:0007567	genes for slow fiber contractile proteins,	parturition	Birth	C0005615
+8229	8241	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+8374	8386	GO:0030484	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+8374	8386	GO:0043292	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+8480	8492	GO:0030484	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+8480	8492	GO:0043292	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+9436	9440	GO:0005623	cell	cell	Cells	C0007634
+9910	9940	GO:0007567	a sustained induction of genes	parturition	Birth	C0005615
+9910	9940	GO:0000003	a sustained induction of genes	reproduction	Reproduction	C0035150
+9952	9964	GO:0030484	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+9952	9964	GO:0043292	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+10170	10182	GO:0030484	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+10170	10182	GO:0043292	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+11175	11178	GO:0007601	see	vision	Vision	C0042789
+11636	11648	GO:0030484	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+11636	11648	GO:0043292	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+11705	11717	GO:0030484	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+11705	11717	GO:0043292	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+12199	12212	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+12236	12248	GO:0030484	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+12236	12248	GO:0043292	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+12483	12495	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+12513	12573	GO:0043292	production of specialized type i fiber contractile proteins-	contractile fiber		C1752744
+12597	12609	GO:0030484	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+12597	12609	GO:0043292	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+12704	12708	GO:0007601	seen	vision	Vision	C0042789
+12861	12873	GO:0030484	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+12861	12873	GO:0043292	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+12995	13007	GO:0030484	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+12995	13007	GO:0043292	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+13141	13153	GO:0030484	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+13141	13153	GO:0043292	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+13221	13232	GO:0060384	innervation	innervation	innervation aspect	C1619351
+13261	13292	GO:0044237	peripheral metabolic adaptation	cellular metabolic process	Metabolic Process, Cellular	C1524026
+13303	13343	GO:0015074	a new integrated physiological response.	DNA integration	DNA Integration	C1158478
+13550	13579	GO:0000988	other transcriptional factor.	transcription factor activity		C1148759
+13550	13579	GO:0001070	other transcriptional factor.	transcription factor activity		C1148759
+13550	13579	GO:0001071	other transcriptional factor.	transcription factor activity		C1148759
+13550	13579	GO:0003700	other transcriptional factor.	transcription factor activity		C1148759
+13680	13699	GO:0033192	either calcineurin,	calcineurin activity	Calcineurin activity	C1149946
+13866	13879	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+14049	14061	GO:0030484	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+14049	14061	GO:0043292	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+14786	14837	GO:1902698	substantial increases in fatty-acid internalization	acidogenesis		C3823112
+14786	14837	GO:1902705	substantial increases in fatty-acid internalization	acidogenesis		C3823112
+14786	14837	GO:1902706	substantial increases in fatty-acid internalization	acidogenesis		C3823112
+14786	14837	GO:1902699	substantial increases in fatty-acid internalization	acidogenesis		C3823112
+14851	14862	GO:1902698	fatty acids	acidogenesis		C3823112
+14851	14862	GO:1902705	fatty acids	acidogenesis		C3823112
+14851	14862	GO:1902706	fatty acids	acidogenesis		C3823112
+14851	14862	GO:1902699	fatty acids	acidogenesis		C3823112
+15273	15323	GO:0007165	activated by a distal upstream signaling component	signal transduction	Signal Transduction	C0037083
+15273	15323	GO:0023052	activated by a distal upstream signaling component	biological signaling		C3537152
+15495	15507	GO:0030484	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+15495	15507	GO:0043292	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+15599	15620	GO:1902698	whole-body fatty-acid	acidogenesis		C3823112
+15599	15620	GO:1902705	whole-body fatty-acid	acidogenesis		C3823112
+15599	15620	GO:1902706	whole-body fatty-acid	acidogenesis		C3823112
+15599	15620	GO:1902699	whole-body fatty-acid	acidogenesis		C3823112
+15625	15643	GO:0006006	glucose metabolism	glucose metabolism		C0596620
+15905	15949	GO:0045014	any beneficial effects on glucose metabolism	negative regulation of transcription by glucose		C1158774
+16113	16125	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+16113	16156	GO:0000001	be due to reduction of mitochondrial number	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+16212	16224	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+16351	16356	GO:0007568	aging	aging	Aging	C0001811
+16463	16475	GO:0030484	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+16463	16475	GO:0043292	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+16511	16531	GO:0002524	insulin sensitivity,	hypersensitivity	Hypersensitivity	C0020517
+16756	16771	GO:2000144	transactivation	transactivation	Trans-Activation, Genetic	C0040624
+16779	16803	GO:1902698	(78 amino acid residues,	acidogenesis		C3823112
+16779	16803	GO:1902705	(78 amino acid residues,	acidogenesis		C3823112
+16779	16803	GO:1902706	(78 amino acid residues,	acidogenesis		C3823112
+16779	16803	GO:1902699	(78 amino acid residues,	acidogenesis		C3823112
+17836	17851	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+18019	18029	GO:0042571	antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+18625	18637	GO:0030484	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+18625	18637	GO:0043292	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+18649	18676	GO:0000262	mitochondrial dna isolation	mitochondrial DNA location		C1819717
+18678	18690	GO:0030484	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+18678	18690	GO:0043292	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+18811	18823	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+18861	18878	GO:0000262	mitochondrial dna	mitochondrial DNA location		C1819717
+20407	20411	GO:0005623	cell	cell	Cells	C0007634
+20490	20493	GO:0006898	rme	receptor-mediated endocytosis	Receptor Mediated Endocytosis	C0597361
+20639	20650	GO:0032502	development	development	Biologic Development	C0678723
+20776	20788	GO:0009461	cytochrome c	cytochrome c	cytochrome c activity	C1153524
+20776	20788	GO:0045155	cytochrome c	cytochrome c	cytochrome c activity	C1153524
+20798	20845	GO:0004095	mcpt1 - muscle carnitine palmitoyltransferase-1	carnitine palmitoyltransferase I	carnitine palmitoyltransferase I activity	C2258044
+20860	20870	GO:0005777	peroxisome	peroxisome		C0752063
+20936	20946	GO:0005777	peroxisome	peroxisome		C0752063
+21316	21319	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+21382	21418	GO:0042571	probed with anti-ppardelta antibody.	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+21548	21551	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+21683	21686	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+21796	21829	GO:0042571	probed with indicated antibodies.	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+21863	21909	GO:0042571	cross-reacted with the anti-ppardelta antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+22234	22239	GO:0007567	genes	parturition	Birth	C0005615
+22234	22239	GO:0000003	genes	reproduction	Reproduction	C0035150
+22279	22291	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+22323	22326	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+22452	22495	GO:0007567	the fold increase of induction of each gene	parturition	Birth	C0005615
+22452	22495	GO:0000003	the fold increase of induction of each gene	reproduction	Reproduction	C0035150
+22533	22536	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+22648	22668	GO:0000262	mitochondrial genome	mitochondrial genome	Genome, Mitochondrial	C1819716
+22834	22857	GO:0000262	total mitochondrial dna	mitochondrial DNA location		C1819717
+22904	22947	GO:0000262	the relative abundance of mitochondrial dna	mitochondrial DNA location		C1819717
+23025	23037	GO:0030484	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+23025	23037	GO:0043292	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+23050	23075	GO:0044429	mitochondrial components.	mitochondrial subcomponent	Part of mitochondrion	C1179844
+23105	23108	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+23255	23258	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+23255	23267	GO:0043739	(10 mug/lane	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+24790	24806	GO:0000003	reproductive fat	reproduction	Reproduction	C0035150
+25723	25726	GO:0006898	rme	receptor-mediated endocytosis	Receptor Mediated Endocytosis	C0597361
+25723	25726	GO:0006898	rme	receptor-mediated endocytosis	Receptor Mediated Endocytosis	C0597361
+25723	25726	GO:0006898	rme	receptor-mediated endocytosis	Receptor Mediated Endocytosis	C0597361
+26081	26112	GO:0050789	regulation of muscle fiber type	regulation of biological process	Regulation of biological process	C1327622

@@ -1,0 +1,433 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+36	75	GO:0043588	required for normal development of skin	skin development		C1655760
+102	118	GO:0008181	tumor suppressor	tumor suppressor	tumor suppressor activity	C1325410
+102	118	GO:0051726	tumor suppressor	tumor suppressor	tumor suppressor activity	C1325410
+176	197	GO:0016055	Wnt signaling pathway	Wnt signaling pathway	Wnt Signaling Pathway	C1520113
+218	229	GO:0032502	development	development	Biologic Development	C0678723
+234	248	GO:0007048	tumorigenesis.	oncogenesis	Neoplastic Cell Transformation	C0007621
+339	368	GO:0009790	leads to embryonic lethality.	embryo development	Embryonic Development	C0013936
+402	413	GO:0032502	development	development	Biologic Development	C0678723
+460	504	GO:0007618	mated with a strain carrying cre recombinase	mating		C1260875
+588	592	GO:0005623	cell	cell	Cells	C0007634
+743	749	GO:0040007	growth	growth	Growth	C0018270
+881	887	GO:0040007	growth	growth	Growth	C0018270
+947	962	GO:0009289	hair follicles,	pilus	Bacterial Fimbria	C0031921
+963	969	GO:0097187	teeth,	dentinogenesis	Dentinogenesis	C0011435
+1024	1034	GO:0036074	metaplasia	metaplasia	Metaplasia	C0025568
+1109	1146	GO:0042640	the aberrant growth of hair follicles	hair growth	Hair growth	C0232407
+1240	1252	GO:0007567	the apc gene	parturition	Birth	C0005615
+1240	1252	GO:0000003	the apc gene	reproduction	Reproduction	C0035150
+1256	1282	GO:0009790	crucial in embryonic cells	embryo development	Embryonic Development	C0013936
+1305	1309	GO:0005623	cell	cell	Cells	C0007634
+1339	1397	GO:0060485	epithelial-mesenchymal interactions for their development.	mesenchyme development		C2752709
+1575	1603	GO:0007567	linked to a genetic mutation	parturition	Birth	C0005615
+1575	1603	GO:0000003	linked to a genetic mutation	reproduction	Reproduction	C0035150
+1611	1627	GO:0008181	tumor suppressor	tumor suppressor	tumor suppressor activity	C1325410
+1611	1627	GO:0051726	tumor suppressor	tumor suppressor	tumor suppressor activity	C1325410
+1737	1794	GO:0043473	congenital hypertrophy of the retinal pigment epithelium,	pigmentation	Pigmentation	C0031911
+1995	2006	GO:0032502	development	development	Biologic Development	C0678723
+2102	2110	GO:0007567	the gene	parturition	Birth	C0005615
+2102	2110	GO:0000003	the gene	reproduction	Reproduction	C0035150
+2160	2174	GO:0007618	mated with k14	mating		C1260875
+2381	2387	GO:0040007	growth	growth	Growth	C0018270
+2438	2449	GO:0032502	development	development	Biologic Development	C0678723
+2538	2543	GO:0097187	teeth	dentinogenesis	Dentinogenesis	C0011435
+2604	2615	GO:0032502	development	development	Biologic Development	C0678723
+2787	2808	GO:0016055	Wnt signaling pathway	Wnt signaling pathway	Wnt Signaling Pathway	C1520113
+2883	2921	GO:0050789	alterations in beta-catenin regulation	regulation of biological process	Regulation of biological process	C1327622
+3011	3018	GO:0005829	cytosol	cytosol	Cytoplasmic matrix	C1383501
+3075	3089	GO:0005634	to the nucleus	cell nucleus	Cell Nucleus	C0007610
+3125	3150	GO:0007048	leading to tumorigenesis.	oncogenesis	Neoplastic Cell Transformation	C0007621
+3196	3200	GO:0005623	cell	cell	Cells	C0007634
+3276	3326	GO:0008574	kinesin superfamily-associated protein 3 (kifap3),	kinesin activity		C1622129
+3341	3352	GO:0005874	microtubule	microtubule	Microtubules	C0026046
+3477	3481	GO:0005623	cell	cell	Cells	C0007634
+3531	3557	GO:0005856	cytoskeletal organization,	cytoskeleton	Cytoskeleton	C0010853
+3558	3591	GO:0050789	regulation of plakoglobin levels,	regulation of biological process	Regulation of biological process	C1327622
+3592	3620	GO:0051726	regulation of the cell cycle	cell cycle regulation	Cell Cycle Control	C1155872
+3625	3634	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+3625	3634	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+3651	3680	GO:0098722	asymmetric stem cell division	asymmetric stem cell division	Asymmetric Stem Cell Division	C3178900
+3686	3714	GO:0030010	control of cell polarization	establishment of cell polarity		C1156002
+3732	3748	GO:0008181	tumor suppressor	tumor suppressor	tumor suppressor activity	C1325410
+3732	3748	GO:0051726	tumor suppressor	tumor suppressor	tumor suppressor activity	C1325410
+3755	3779	GO:0043025	somatic mutations in apc	neuron cell body	Cell body of neuron	C0599444
+3850	3894	GO:0030849	autosomal dominant germline mutations in apc	autosome	Autosome	C0596142
+4297	4354	GO:0043473	congenital hypertrophy of the retinal pigment epithelium,	pigmentation	Pigmentation	C0031911
+4459	4485	GO:0007567	the importance of apc gene	parturition	Birth	C0005615
+4459	4485	GO:0000003	the importance of apc gene	reproduction	Reproduction	C0035150
+4641	4662	GO:0032502	developmental process	developmental process	Developmental process	C1511806
+4696	4741	GO:0023051	the importance of regulation of wnt signaling	regulation of signaling		C2756011
+4745	4772	GO:0009880	embryonic pattern formation	embryonic pattern formation	Embryonic Pattern Formation	C1160140
+4777	4790	GO:0009653	morphogenesis	morphogenesis	Morphogenesis	C0026559
+4843	4854	GO:0032502	development	development	Biologic Development	C0678723
+4843	4857	GO:0032502	in development	development	Biologic Development	C0678723
+5266	5279	GO:0009790	mouse embryos	embryo development	Embryonic Development	C0013936
+5289	5328	GO:0007567	homozygous for the genetic modification	parturition	Birth	C0005615
+5289	5328	GO:0000003	homozygous for the genetic modification	reproduction	Reproduction	C0035150
+5329	5354	GO:0009790	die during embryogenesis,	embryo development	Embryonic Development	C0013936
+5400	5412	GO:0007369	gastrulation	gastrulation	Gastrulation	C0259902
+5476	5487	GO:0032502	development	development	Biologic Development	C0678723
+5594	5598	GO:0007618	mate	mating		C1260875
+5694	5698	GO:0005623	cell	cell	Cells	C0007634
+5736	5779	GO:0042697	in different stages of life systematically,	menopause	Menopause	C0025320
+5885	5929	GO:0007618	mated with a strain carrying cre recombinase	mating		C1260875
+6013	6017	GO:0005623	cell	cell	Cells	C0007634
+6137	6148	GO:0032502	development	development	Biologic Development	C0678723
+6237	6251	GO:0009289	hair follicle,	pilus	Bacterial Fimbria	C0031921
+6252	6258	GO:0097187	teeth,	dentinogenesis	Dentinogenesis	C0011435
+6371	6375	GO:0005623	cell	cell	Cells	C0007634
+6376	6415	GO:0009790	fates during the embryonic development,	embryo development	Embryonic Development	C0013936
+6442	6491	GO:0050789	tissue-specific regulation of beta-catenin levels	regulation of biological process	Regulation of biological process	C1327622
+6628	6650	GO:0043588	in development of skin	skin development		C1655760
+6716	6754	GO:0007567	a conditional mutation of the apc gene	parturition	Birth	C0005615
+6716	6754	GO:0000003	a conditional mutation of the apc gene	reproduction	Reproduction	C0035150
+6779	6804	GO:0009790	embryonic stem (es) cells	embryo development	Embryonic Development	C0013936
+6952	7001	GO:0004618	pgk-neomycin selection cassette by recombineering	phosphoglycerate kinase activity		C1150521
+7064	7087	GO:0004618	a pgk-neomycin cassette	phosphoglycerate kinase activity		C1150521
+7113	7126	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+7141	7184	GO:0007567	as apc in intron 14 of the endogenous gene.	parturition	Birth	C0005615
+7141	7184	GO:0000003	as apc in intron 14 of the endogenous gene.	reproduction	Reproduction	C0035150
+7225	7253	GO:0006310	unidirectional recombination	DNA recombination	Recombination, Genetic	C0034865
+7317	7350	GO:0009790	generated from two independent es	embryo development	Embryonic Development	C0013936
+7573	7598	GO:0004618	the pgk-neomycin cassette	phosphoglycerate kinase activity		C1150521
+8556	8598	GO:0007567	abnormal function of the apc gene product.	parturition	Birth	C0005615
+8556	8598	GO:0000003	abnormal function of the apc gene product.	reproduction	Reproduction	C0035150
+9015	9026	GO:0032502	development	development	Biologic Development	C0678723
+9097	9110	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+9115	9133	GO:0006412	translation assay,	protein biosynthesis	Protein Biosynthesis	C0597295
+10001	10029	GO:0007567	born in the mendelian ratio,	parturition	Birth	C0005615
+10106	10156	GO:0007567	no adverse effect on the function of the apc gene.	parturition	Birth	C0005615
+10106	10156	GO:0000003	no adverse effect on the function of the apc gene.	reproduction	Reproduction	C0035150
+10199	10205	GO:0040007	growth	growth	Growth	C0018270
+10277	10281	GO:0005623	cell	cell	Cells	C0007634
+10317	10321	GO:0005623	cell	cell	Cells	C0007634
+10863	10867	GO:0005623	cell	cell	Cells	C0007634
+10929	10933	GO:0005623	cell	cell	Cells	C0007634
+10956	10985	GO:0043588	its appendages in mature skin	skin development		C1655760
+11015	11043	GO:0009790	active in embryonic ectoderm	embryo development	Embryonic Development	C0013936
+11044	11108	GO:0009790	as early as the single layered ectodermal stage of embryonic day	embryo development	Embryonic Development	C0013936
+11189	11193	GO:0005623	cell	cell	Cells	C0007634
+11453	11457	GO:0007567	born	parturition	Birth	C0005615
+11665	11689	GO:0007567	three litters from birth	parturition	Birth	C0005615
+11777	11812	GO:0007567	born from three litters, of which 7	parturition	Birth	C0005615
+11907	11944	GO:0007567	born in the expected mendelian ratio.	parturition	Birth	C0005615
+12045	12061	GO:0007567	3 d after birth,	parturition	Birth	C0005615
+12327	12355	GO:0009790	the ability of whole embryos	embryo development	Embryonic Development	C0013936
+12627	12651	GO:0009790	at these embryonic ages,	embryo development	Embryonic Development	C0013936
+12783	12795	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+12938	12947	GO:0043473	pigmented	pigmentation	Pigmentation	C0031911
+13059	13070	GO:0007567	after birth	parturition	Birth	C0005615
+13126	13147	GO:0042640	growth of pelage hair	hair growth	Hair growth	C0232407
+13301	13327	GO:0009289	a smooth thin coat of hair	pilus	Bacterial Fimbria	C0031921
+13578	13604	GO:0009289	short, shaggy pelage hairs	pilus	Bacterial Fimbria	C0031921
+13625	13636	GO:0032502	development	development	Biologic Development	C0678723
+13822	13832	GO:0007601	their eyes	vision	Vision	C0042789
+14434	14445	GO:0042640	hair growth	hair growth	Hair growth	C0232407
+14702	14706	GO:0007567	born	parturition	Birth	C0005615
+14932	14954	GO:0007567	the genetic background	parturition	Birth	C0005615
+14932	14954	GO:0000003	the genetic background	reproduction	Reproduction	C0035150
+15843	15903	GO:0006310	the molecular effects of the k14-cre-mediated recombination,	DNA recombination	Recombination, Genetic	C0034865
+16638	16669	GO:0006310	that cre-mediated recombination	DNA recombination	Recombination, Genetic	C0034865
+16638	16669	GO:0006310	that cre-mediated recombination	DNA recombination	Recombination, Genetic	C0034865
+17487	17535	GO:0009289	aberrant hair follicles throughout the epidermis	pilus	Bacterial Fimbria	C0031921
+17577	17621	GO:0009289	abnormal hair development in the ka mutants,	pilus	Bacterial Fimbria	C0031921
+17625	17634	GO:0007610	conducted	behavior	Behavior	C0004927
+17698	17715	GO:0009289	the hair follicle	pilus	Bacterial Fimbria	C0031921
+17829	17837	GO:0009289	the hair	pilus	Bacterial Fimbria	C0031921
+17957	17994	GO:0009289	the inner layers of the hair follicle	pilus	Bacterial Fimbria	C0031921
+18052	18100	GO:0070451	three concentric layers of hair-producing cells.	cell hair		C2678510
+18101	18133	GO:0009289	at the base of the hair follicle	pilus	Bacterial Fimbria	C0031921
+18137	18172	GO:0009844	the germinative hair follicle bulb,	germination	Germination	C0242735
+18219	18223	GO:0005623	cell	cell	Cells	C0007634
+18303	18317	GO:0009418	the hair shaft	pilus shaft		C1167055
+18342	18348	GO:0042640	anagen	anagen		C1819703
+18386	18430	GO:0009289	hair follicles of phenotypically normal mice	pilus	Bacterial Fimbria	C0031921
+18655	18659	GO:0007601	seen	vision	Vision	C0042789
+19142	19168	GO:0009289	some of the hair follicles	pilus	Bacterial Fimbria	C0031921
+19444	19472	GO:0007165	important for wnt signaling.	signal transduction	Signal Transduction	C0037083
+19444	19472	GO:0023052	important for wnt signaling.	biological signaling		C3537152
+19587	19629	GO:0005915	a member of the adherens junction complex,	zonula adherens	Zonula Adherens	C0230613
+19587	19629	GO:0005912	a member of the adherens junction complex,	adherens junction	Adherens Junction	C0887872
+19634	19668	GO:0009289	found in the ors of hair follicles	pilus	Bacterial Fimbria	C0031921
+20095	20119	GO:0048468	terminal differentiation	terminal differentiation		C2752630
+20241	20284	GO:0009289	inner layer of the ors of the hair follicle	pilus	Bacterial Fimbria	C0031921
+20363	20403	GO:0009289	disorganized structure of hair follicles	pilus	Bacterial Fimbria	C0031921
+20416	20431	GO:0051179	k6 localization	establishment and maintenance of localization		C1744691
+20532	20536	GO:0007601	seen	vision	Vision	C0042789
+20686	20690	GO:0005623	cell	cell	Cells	C0007634
+20745	20782	GO:0009844	or in germinative hair follicle bulbs	germination	Germination	C0242735
+20898	20902	GO:0005623	cell	cell	Cells	C0007634
+20904	20945	GO:0009289	in bulbs at the base of the hair follicle	pilus	Bacterial Fimbria	C0031921
+20989	20996	GO:0007114	budding	cell budding	Cell budding	C1155616
+20997	21044	GO:0009289	out from the ors of the existing hair follicles	pilus	Bacterial Fimbria	C0031921
+21066	21082	GO:0007114	each budding tip	cell budding	Cell budding	C1155616
+21087	21153	GO:0070451	becoming like a hair follicle bulb containing proliferating cells.	cell hair		C2678510
+21314	21356	GO:0009289	the exact locations of hair follicle bulbs	pilus	Bacterial Fimbria	C0031921
+21506	21514	GO:0016020	membrane	membrane	Membrane	C0596901
+21557	21610	GO:0051674	cells with strong cytosolic beta-catenin localization	localization of cell		C1660153
+21701	21705	GO:0005623	cell	cell	Cells	C0007634
+21748	21752	GO:0005623	cell	cell	Cells	C0007634
+21866	21873	GO:0005829	cytosol	cytosol	Cytoplasmic matrix	C1383501
+22007	22011	GO:0005623	cell	cell	Cells	C0007634
+22050	22054	GO:0005623	cell	cell	Cells	C0007634
+22089	22116	GO:0031069	hair follicle morphogenesis	hair follicle morphogenesis		C1523544
+22204	22227	GO:0009289	expressed in hair bulbs	pilus	Bacterial Fimbria	C0031921
+22228	22245	GO:0009790	in embryonic skin	embryo development	Embryonic Development	C0013936
+22271	22298	GO:0031069	hair follicle morphogenesis	hair follicle morphogenesis		C1523544
+22319	22353	GO:0009790	as e14.5 in mutant embryonic skin,	embryo development	Embryonic Development	C0013936
+22441	22464	GO:0009790	that of control embryos	embryo development	Embryonic Development	C0013936
+22523	22534	GO:0032502	development	development	Biologic Development	C0678723
+22536	22564	GO:0009289	control mouse hair follicles	pilus	Bacterial Fimbria	C0031921
+22628	22651	GO:0009790	those of mutant embryos	embryo development	Embryonic Development	C0013936
+22729	22765	GO:0007114	the size of each "budding" follicle,	cell budding	Cell budding	C1155616
+22916	22965	GO:0009289	the aberrant initiation of multiple hair placodes	pilus	Bacterial Fimbria	C0031921
+22979	23006	GO:0031069	hair follicle morphogenesis	hair follicle morphogenesis		C1523544
+23071	23111	GO:0009790	of e15.5 mutant embryos for beta-catenin	embryo development	Embryonic Development	C0013936
+23172	23182	GO:0009790	in embryos	embryo development	Embryonic Development	C0013936
+23204	23252	GO:0009297	the formation of regular arrays of hair placodes	pilus assembly		C1155942
+23253	23281	GO:0009790	in the normal embryonic skin	embryo development	Embryonic Development	C0013936
+23369	23391	GO:0009289	abnormal hair placodes	pilus	Bacterial Fimbria	C0031921
+23397	23431	GO:0009790	initiated in mutant embryonic skin	embryo development	Embryonic Development	C0013936
+23446	23468	GO:0009289	aberrant hair placodes	pilus	Bacterial Fimbria	C0031921
+23562	23590	GO:0009790	those of the control embryos	embryo development	Embryonic Development	C0013936
+23667	23686	GO:0009289	where hair placodes	pilus	Bacterial Fimbria	C0031921
+23765	23786	GO:0009289	spaced hair placodes,	pilus	Bacterial Fimbria	C0031921
+23849	23893	GO:0009289	hair placodes in the absence of the apc gene	pilus	Bacterial Fimbria	C0031921
+23952	23976	GO:0048468	terminal differentiation	terminal differentiation		C2752630
+24026	24077	GO:0009790	initiation of embryonic hair follicle morphogenesis	embryo development	Embryonic Development	C0013936
+24137	24164	GO:0031069	hair follicle morphogenesis	hair follicle morphogenesis		C1523544
+24261	24302	GO:0009289	similar to the biology of hair follicles,	pilus	Bacterial Fimbria	C0031921
+24344	24389	GO:0048736	the development of other epidermal appendages	appendage development		C1658112
+24441	24461	GO:0009058	for their formation.	anabolism	Anabolism	C0220781
+24526	24543	GO:0042476	tooth development	odontogenesis	Odontogenesis	C0028877
+24626	24702	GO:0030061	oral epithelium into the underlying cranial neural crest-derived mesenchyme,	mitochondrial cristae	Mitochondrial cristae	C0230844
+24714	24727	GO:0097187	a tooth germ.	dentinogenesis	Dentinogenesis	C0011435
+24837	24873	GO:0009058	the formation of multiple tooth buds	anabolism	Anabolism	C0220781
+24892	24912	GO:0097187	these aberrant teeth	dentinogenesis	Dentinogenesis	C0011435
+25086	25094	GO:0016020	membrane	membrane	Membrane	C0596901
+25246	25250	GO:0005623	cell	cell	Cells	C0007634
+25271	25278	GO:0005829	cytosol	cytosol	Cytoplasmic matrix	C1383501
+25369	25401	GO:0097187	initiation of ectopic tooth buds	dentinogenesis	Dentinogenesis	C0011435
+25474	25503	GO:0097187	adjacent to the primary teeth	dentinogenesis	Dentinogenesis	C0011435
+25660	25670	GO:0036074	metaplasia	metaplasia	Metaplasia	C0025568
+25713	25740	GO:0031069	hair follicle morphogenesis	hair follicle morphogenesis		C1523544
+25922	25974	GO:0001945	the primary lymphoid organ for thymocyte development	lymph vessel development		C1622375
+26594	26601	GO:0009877	nodules	nodulation		C1160630
+27299	27308	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+27383	27387	GO:0005623	cell	cell	Cells	C0007634
+27484	27488	GO:0005623	cell	cell	Cells	C0007634
+27608	27648	GO:0030216	detected in differentiated keratinocytes	keratinocyte differentiation		C1159909
+28678	28682	GO:0005623	cell	cell	Cells	C0007634
+28780	28784	GO:0005623	cell	cell	Cells	C0007634
+28839	28870	GO:0043336	the rest of the medullary cells	site-specific telomere resolvase activity		C1622890
+28960	28979	GO:0051179	localization of k14	establishment and maintenance of localization		C1744691
+28984	29006	GO:0009986	limited to a few cells	cell surface	Cell surface	C0699040
+29031	29062	GO:0051179	overlapped with k8 localization	establishment and maintenance of localization		C1744691
+29391	29395	GO:0005623	cell	cell	Cells	C0007634
+29610	29614	GO:0005623	cell	cell	Cells	C0007634
+29637	29641	GO:0005623	cell	cell	Cells	C0007634
+29712	29716	GO:0005623	cell	cell	Cells	C0007634
+29755	29764	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+30167	30171	GO:0005623	cell	cell	Cells	C0007634
+30385	30436	GO:0030154	varying degrees of differentiation-specific markers	cell differentiation	Cell Differentiation process	C0007589
+30720	30724	GO:0005623	cell	cell	Cells	C0007634
+30735	30781	GO:0043588	somewhat similar to the pattern of mature skin	skin development		C1655760
+30871	30875	GO:0005623	cell	cell	Cells	C0007634
+30878	30905	GO:0090398	and at this age fewer cells	cellular senescence	Cellular Senescence	C0007581
+31007	31043	GO:0051179	nuclear localization of beta-catenin	establishment and maintenance of localization		C1744691
+31078	31082	GO:0005623	cell	cell	Cells	C0007634
+31124	31128	GO:0005623	cell	cell	Cells	C0007634
+31428	31432	GO:0005623	cell	cell	Cells	C0007634
+31625	31658	GO:0030216	differentiation to keratinocytes,	keratinocyte differentiation		C1159909
+31684	31694	GO:0036074	metaplasia	metaplasia	Metaplasia	C0025568
+31827	31841	GO:0032502	for maturation	development	Biologic Development	C0678723
+31910	31931	GO:0016055	Wnt signaling pathway	Wnt signaling pathway	Wnt Signaling Pathway	C1520113
+31957	31968	GO:0032502	development	development	Biologic Development	C0678723
+31973	31987	GO:0007048	tumorigenesis.	oncogenesis	Neoplastic Cell Transformation	C0007621
+32434	32491	GO:0043473	congenital hypertrophy of the retinal pigment epithelium,	pigmentation	Pigmentation	C0031911
+32691	32713	GO:0009790	the homozygous embryos	embryo development	Embryonic Development	C0013936
+32725	32737	GO:0007369	gastrulation	gastrulation	Gastrulation	C0259902
+32876	32899	GO:0009790	the embryonic lethality	embryo development	Embryonic Development	C0013936
+33257	33316	GO:0016458	the phenotypic consequences of inactivation of the apc gene	gene silencing	Gene Silencing	C0598496
+33320	33324	GO:0005623	cell	cell	Cells	C0007634
+33488	33513	GO:0009289	they also exhibited hair,	pilus	Bacterial Fimbria	C0031921
+33514	33520	GO:0097187	tooth,	dentinogenesis	Dentinogenesis	C0011435
+33553	33580	GO:0031069	hair follicle morphogenesis	hair follicle morphogenesis		C1523544
+33600	33625	GO:0001942	hair follicle development	hair follicle development		C1622381
+33909	33930	GO:0016055	Wnt signaling pathway	Wnt signaling pathway	Wnt Signaling Pathway	C1520113
+34002	34062	GO:0007165	experimental activation of epithelial beta-catenin signaling	signal transduction	Signal Transduction	C0037083
+34002	34062	GO:0023052	experimental activation of epithelial beta-catenin signaling	biological signaling		C3537152
+34258	34299	GO:0023051	down-regulation of beta-catenin signaling	regulation of signaling		C2756011
+34520	34550	GO:0009790	apc loss in embryonic ectoderm	embryo development	Embryonic Development	C0013936
+34610	34642	GO:0009289	abnormal hair placode initiation	pilus	Bacterial Fimbria	C0031921
+34656	34669	GO:0009653	morphogenesis	morphogenesis	Morphogenesis	C0026559
+34699	34751	GO:0042476	as well as in the development of multiple tooth buds	odontogenesis	Odontogenesis	C0028877
+34800	34855	GO:0007601	seen in activation of epithelial beta-catenin signaling	vision	Vision	C0042789
+34856	34881	GO:0009058	during placode formation,	anabolism	Anabolism	C0220781
+34909	34960	GO:0009790	in specification of embryonic ectodermal stem cells	embryo development	Embryonic Development	C0013936
+34972	34988	GO:0009289	a hair follicle.	pilus	Bacterial Fimbria	C0031921
+35011	35046	GO:0050789	in down-regulation of beta-catenin,	regulation of biological process	Regulation of biological process	C1327622
+35119	35173	GO:0060788	in ectodermal cells during the hair placode formation,	ectodermal placode formation		C2753016
+35209	35215	GO:0040007	growth	growth	Growth	C0018270
+35216	35251	GO:0009790	throughout the embryonic epidermis,	embryo development	Embryonic Development	C0013936
+35772	35793	GO:0005769	short, curly whiskers	early endosome	Early endosome	C0887883
+35794	35813	GO:0007601	seen in k14-lef1but	vision	Vision	C0042789
+35896	35968	GO:0009289	a disorganized hair coat beginning with the emergence of neonatal hairs,	pilus	Bacterial Fimbria	C0031921
+36049	36086	GO:0009790	embryonic hair follicle morphogenesis	embryo development	Embryonic Development	C0013936
+36528	36576	GO:0015074	to do with the integration site of the transgene	DNA integration	DNA Integration	C1158478
+36598	36639	GO:0015074	depending on the location of integration,	DNA integration	DNA Integration	C1158478
+36644	36657	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+36787	36803	GO:0009790	in embryogenesis	embryo development	Embryonic Development	C0013936
+36937	36963	GO:0006310	cre-mediated recombination	DNA recombination	Recombination, Genetic	C0034865
+36967	37012	GO:0007601	seen in e13.5 skin of k14-cre transgenic mice	vision	Vision	C0042789
+37041	37084	GO:0007567	k14-cre-mediated truncation of the apc gene	parturition	Birth	C0005615
+37041	37084	GO:0000003	k14-cre-mediated truncation of the apc gene	reproduction	Reproduction	C0035150
+37121	37179	GO:0009289	in time for the second wave of hair follicle morphgenesis.	pilus	Bacterial Fimbria	C0031921
+37311	37315	GO:0005623	cell	cell	Cells	C0007634
+37338	37364	GO:0009289	the ors of hair follicles,	pilus	Bacterial Fimbria	C0031921
+37476	37480	GO:0005623	cell	cell	Cells	C0007634
+37629	37633	GO:0005623	cell	cell	Cells	C0007634
+37657	37661	GO:0005623	cell	cell	Cells	C0007634
+37779	37822	GO:0009289	the entire epithelium of the hair follicle.	pilus	Bacterial Fimbria	C0031921
+37880	37884	GO:0005623	cell	cell	Cells	C0007634
+38021	38079	GO:0030154	k6-positive differentiated cells in postnatal mutant skin.	cell differentiation	Cell Differentiation process	C0007589
+38266	38289	GO:0001709	cell fate determination	cell fate determination		C1160037
+38319	38323	GO:0005623	cell	cell	Cells	C0007634
+38442	38484	GO:0050789	other than down-regulation of beta-catenin	regulation of biological process	Regulation of biological process	C1327622
+38695	38722	GO:0031069	hair follicle morphogenesis	hair follicle morphogenesis		C1523544
+38754	38786	GO:0009058	formation of multiple tooth buds	anabolism	Anabolism	C0220781
+38793	38813	GO:0009289	like hair follicles,	pilus	Bacterial Fimbria	C0031921
+38927	38960	GO:0097187	similar to the ectopic tooth buds	dentinogenesis	Dentinogenesis	C0011435
+39032	39049	GO:0007567	present at birth,	parturition	Birth	C0005615
+39084	39137	GO:0009790	during the initiation of embryonic tooth development,	embryo development	Embryonic Development	C0013936
+39183	39217	GO:0009790	in e15.5 embryonic oral epithelium	embryo development	Embryonic Development	C0013936
+39271	39290	GO:0097187	multiple tooth buds	dentinogenesis	Dentinogenesis	C0011435
+39339	39350	GO:0097187	these teeth	dentinogenesis	Dentinogenesis	C0011435
+39410	39442	GO:0097187	this unusual severe tooth defect	dentinogenesis	Dentinogenesis	C0011435
+39975	40006	GO:0097187	caused by the absence of teeth.	dentinogenesis	Dentinogenesis	C0011435
+40110	40141	GO:0097187	starvation due to lack of teeth	dentinogenesis	Dentinogenesis	C0011435
+40220	40236	GO:0097187	absence of teeth	dentinogenesis	Dentinogenesis	C0011435
+40383	40394	GO:0032502	development	development	Biologic Development	C0678723
+40441	40470	GO:0097187	excess of tooth bud formation	dentinogenesis	Dentinogenesis	C0011435
+40478	40505	GO:0042476	proper development of teeth	odontogenesis	Odontogenesis	C0028877
+40652	40668	GO:0097187	tooth phenotypes	dentinogenesis	Dentinogenesis	C0011435
+40700	40713	GO:0048513	organogenesis	organogenesis	Organogenesis	C0242290
+40818	40828	GO:0036074	metaplasia	metaplasia	Metaplasia	C0025568
+40829	40878	GO:0009058	leading to the formation of numerous pyogranuloma	anabolism	Anabolism	C0220781
+40917	40942	GO:0033077	for thymocyte maturation,	T cell differentiation in thymus	T-Cell Differentiation in the Thymus	C1515432
+42083	42087	GO:0005623	cell	cell	Cells	C0007634
+42151	42155	GO:0005623	cell	cell	Cells	C0007634
+42288	42329	GO:0030154	that initial differentiation to medullary	cell differentiation	Cell Differentiation process	C0007589
+42460	42464	GO:0005623	cell	cell	Cells	C0007634
+42531	42535	GO:0005623	cell	cell	Cells	C0007634
+42621	42625	GO:0005623	cell	cell	Cells	C0007634
+42740	42744	GO:0005623	cell	cell	Cells	C0007634
+42753	42773	GO:0051179	nuclear localization	establishment and maintenance of localization		C1744691
+42786	42790	GO:0005623	cell	cell	Cells	C0007634
+42846	42850	GO:0005623	cell	cell	Cells	C0007634
+42973	42977	GO:0005623	cell	cell	Cells	C0007634
+43127	43163	GO:0051179	nuclear localization of beta-catenin	establishment and maintenance of localization		C1744691
+43198	43202	GO:0005623	cell	cell	Cells	C0007634
+43204	43237	GO:0030154	differentiated into keratinocytes	cell differentiation	Cell Differentiation process	C0007589
+43291	43295	GO:0005623	cell	cell	Cells	C0007634
+43352	43390	GO:0030216	differentiation of these keratinocytes	keratinocyte differentiation		C1159909
+43858	43862	GO:0005623	cell	cell	Cells	C0007634
+43882	43923	GO:0030154	proper differentiation to either cortical	cell differentiation	Cell Differentiation process	C0007589
+43952	43995	GO:0033077	essential for normal thymocyte development.	T cell differentiation in thymus	T-Cell Differentiation in the Thymus	C1515432
+44220	44241	GO:0048538	in thymic development	thymus development		C1655797
+44471	44489	GO:0048538	thymus development	thymus development		C1655797
+44603	44617	GO:0097187	impacted teeth	dentinogenesis	Dentinogenesis	C0011435
+44679	44695	GO:0007601	seen in patients	vision	Vision	C0042789
+44983	44994	GO:0032502	development	development	Biologic Development	C0678723
+45247	45262	GO:0009790	embryonic cells	embryo development	Embryonic Development	C0013936
+45270	45320	GO:0043589	aberrant morphogenesis in various skin appendages,	skin morphogenesis		C1624576
+45331	45345	GO:0009289	hair follicles	pilus	Bacterial Fimbria	C0031921
+45350	45356	GO:0097187	teeth,	dentinogenesis	Dentinogenesis	C0011435
+45411	45427	GO:0007567	genetic evidence	parturition	Birth	C0005615
+45411	45427	GO:0000003	genetic evidence	reproduction	Reproduction	C0035150
+45454	45493	GO:0001558	essential for regulation of proper cell	regulation of cell growth	Cell Growth Regulation	C0596286
+45888	45898	GO:0007610	conducted.	behavior	Behavior	C0004927
+46095	46124	GO:0007567	into intron14 of the apc gene	parturition	Birth	C0005615
+46095	46124	GO:0000003	into intron14 of the apc gene	reproduction	Reproduction	C0035150
+46163	46167	GO:0005623	cell	cell	Cells	C0007634
+46255	46259	GO:0005623	cell	cell	Cells	C0007634
+46266	46270	GO:0005623	cell	cell	Cells	C0007634
+46322	46362	GO:0007567	screened by long-range gene-specific pcr	parturition	Birth	C0005615
+46322	46362	GO:0000003	screened by long-range gene-specific pcr	reproduction	Reproduction	C0035150
+46697	46701	GO:0005623	cell	cell	Cells	C0007634
+46925	46962	GO:0006310	the correct homologous recombination.	DNA recombination	Recombination, Genetic	C0034865
+47069	47098	GO:0006310	by frt-mediated recombination	DNA recombination	Recombination, Genetic	C0034865
+47416	47435	GO:0009790	cre in early embryo	embryo development	Embryonic Development	C0013936
+48100	48136	GO:0098025	genomic dna from tips of mouse tails	tail tip	Structure of tip of tail	C1980004
+49270	49300	GO:0009790	freshly isolated e18.5 embryos	embryo development	Embryonic Development	C0013936
+49293	49300	GO:0009790	embryos	embryo development	Embryonic Development	C0013936
+50284	50327	GO:0006310	analysis for tissue-specific recombination.	DNA recombination	Recombination, Genetic	C0034865
+50329	50393	GO:0006310	genotype/tissue-specific recombination of the conditional allele	DNA recombination	Recombination, Genetic	C0034865
+51205	51208	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+51988	52030	GO:0019013	submitted to rodent histopathological core	nucleocapsid	viral nucleocapsid location	C1167518
+52465	52498	GO:0042571	incubated with primary antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+52488	52498	GO:0042571	antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+52568	52580	GO:0009293	transduction	transduction		C1160185
+52846	52879	GO:0042571	biotinylated secondary antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+52998	53038	GO:0005020	followed by the vectastain elite abc kit	stem cell factor receptor activity		C1150635
+53928	53969	GO:0009790	skin permeability assay of e18.5 embryos.	embryo development	Embryonic Development	C0013936
+53961	53968	GO:0009790	embryos	embryo development	Embryonic Development	C0013936
+54072	54093	GO:0033561	skin barrier function	skin barrier function		C2246986
+54107	54119	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+54148	54180	GO:0009790	in the forehead of mutant embryo	embryo development	Embryonic Development	C0013936
+54668	54672	GO:0005623	cell	cell	Cells	C0007634
+54815	54846	GO:0007567	accession numbers for the genes	parturition	Birth	C0005615
+54815	54846	GO:0000003	accession numbers for the genes	reproduction	Reproduction	C0035150
+54851	54864	GO:0007567	gene products	parturition	Birth	C0005615
+54851	54864	GO:0000003	gene products	reproduction	Reproduction	C0035150
+54897	54907	GO:1990266	(nm_007462	neutrophil migration	Neutrophil migration, function	C0312860
+54923	54933	GO:1990266	(nm_007614	neutrophil migration	Neutrophil migration, function	C0312860
+54943	54953	GO:1990266	(nm_004655	neutrophil migration	Neutrophil migration, function	C0312860
+54968	54978	GO:1990266	(nm_002230	neutrophil migration	Neutrophil migration, function	C0312860
+54986	54996	GO:1990266	(nm_015320	neutrophil migration	Neutrophil migration, function	C0312860
+54999	55039	GO:0008574	kinesin superfamily-associated protein 3	kinesin activity		C1622129
+55040	55050	GO:1990266	(nm_014970	neutrophil migration	Neutrophil migration, function	C0312860
+55057	55067	GO:1990266	(nm_012325	neutrophil migration	Neutrophil migration, function	C0312860
+55125	55135	GO:1990266	(nm_010703	neutrophil migration	Neutrophil migration, function	C0312860
+55143	55153	GO:1990266	(nm_010051	neutrophil migration	Neutrophil migration, function	C0312860
+55159	55169	GO:1990266	(nm_008473	neutrophil migration	Neutrophil migration, function	C0312860
+55175	55185	GO:1990266	(nm_027011	neutrophil migration	Neutrophil migration, function	C0312860
+55191	55201	GO:1990266	(nm_008476	neutrophil migration	Neutrophil migration, function	C0312860
+55207	55217	GO:1990266	(nm_031170	neutrophil migration	Neutrophil migration, function	C0312860
+55224	55234	GO:1990266	(nm_016958	neutrophil migration	Neutrophil migration, function	C0312860
+55248	55258	GO:1990266	(nm_008412	neutrophil migration	Neutrophil migration, function	C0312860
+55270	55280	GO:1990266	(nm_008508	neutrophil migration	Neutrophil migration, function	C0312860
+55291	55301	GO:1990266	(nm_009170	neutrophil migration	Neutrophil migration, function	C0312860
+55382	55399	GO:0009790	e - embryonic day	embryo development	Embryonic Development	C0013936
+55401	55420	GO:0009790	es - embryonic stem	embryo development	Embryonic Development	C0013936
+55605	55609	GO:0005623	cell	cell	Cells	C0007634
+55721	55746	GO:0007567	15 of the mouse apc gene,	parturition	Birth	C0005615
+55721	55746	GO:0000003	15 of the mouse apc gene,	reproduction	Reproduction	C0035150
+55849	55874	GO:0004618	the pgk-neomycin cassette	phosphoglycerate kinase activity		C1150521
+56223	56255	GO:0006310	upon cre-mediated recombination,	DNA recombination	Recombination, Genetic	C0034865
+56646	56684	GO:0031672	a 10-kb band for the wild-type allele,	A band		C0230715
+57262	57268	GO:0040007	growth	growth	Growth	C0018270
+57713	57741	GO:0009289	note sparseness of hair coat	pilus	Bacterial Fimbria	C0031921
+58042	58048	GO:0040007	growth	growth	Growth	C0018270
+58114	58120	GO:0040007	growth	growth	Growth	C0018270
+58506	58517	GO:0032502	development	development	Biologic Development	C0678723
+58552	58558	GO:0097187	teeth.	dentinogenesis	Dentinogenesis	C0011435
+59207	59212	GO:0097187	teeth	dentinogenesis	Dentinogenesis	C0011435
+59462	59475	GO:0009653	morphogenesis	morphogenesis	Morphogenesis	C0026559
+59477	59526	GO:0009058	characterized by formation of irregularly spaced,	anabolism	Anabolism	C0220781
+59527	59555	GO:0009289	nonpolarized hair follicles,	pilus	Bacterial Fimbria	C0031921
+59641	59663	GO:0009289	confined to hair bulb-	pilus	Bacterial Fimbria	C0031921
+59876	59883	GO:0005829	cytosol	cytosol	Cytoplasmic matrix	C1383501
+59935	59939	GO:0005623	cell	cell	Cells	C0007634
+60166	60180	GO:0009790	embryonic skin	embryo development	Embryonic Development	C0013936
+60471	60482	GO:0009790	h) embryos.	embryo development	Embryonic Development	C0013936
+60483	60528	GO:0009289	aberrant initiation of multiple hair placodes	pilus	Bacterial Fimbria	C0031921
+60594	60611	GO:0007389	pattern formation	pattern formation	Pattern Formation	C1160421
+60594	60620	GO:0003002	aberrant pattern formation	pattern formation	pattern formation during regionalization	C2828365
+60621	60680	GO:0009297	formed ectopic hair placodes in normally hairless foot pads	pilus assembly		C1155942
+61290	61306	GO:0009291	from the matings	unidirectional conjugation		C1160186
+61290	61306	GO:0007618	from the matings	mating		C1260875
+61290	61306	GO:0000747	from the matings	conjugation with cellular fusion		C1748461
+61290	61306	GO:1990277	from the matings	parasexual conjugation with cellular fusion		C3812685
+61496	61528	GO:0006983	10.1371/journal.pgen.0020146.eor	ER-overload response		C1155303

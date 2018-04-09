@@ -1,0 +1,245 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+0	11	GO:0003677	DNA binding	DNA binding	dna binding	C1148673
+16	59	GO:0004386	helicase actions of mouse mcm4/6/7 helicase	helicase activity		C1149627
+118	148	GO:0006271	elongation of dna replication.	DNA strand elongation involved in DNA replication		C1155654
+190	241	GO:0016887	atpase activities of the mammalian mcm4/6/7 complex	adenosinetriphosphatase activity		C1148926
+353	369	GO:0004386	helicase actions	helicase activity		C1149627
+839	844	GO:0005488	binds	binding	Binding 	C1167622
+1092	1111	GO:0000732	strand displacement	strand displacement		C1158517
+1336	1388	GO:0000496	difficulties in unwinding stably base-paired duplex.	base pairing	Base Pairing	C0600436
+1464	1524	GO:0006260	substrate preference of the eukaryotic replicative helicase.	DNA replication	DNA Replication	C0598312
+1696	1714	GO:0000166	nucleotide binding	nucleotide binding		C1148916
+1716	1727	GO:0003677	DNA binding	DNA binding	dna binding	C1148673
+1732	1746	GO:0006200	ATP hydrolysis	ATP hydrolysis	ATP Hydrolysis	C1510699
+1750	1786	GO:0032508	required for unwinding of duplex dna	DNA duplex unwinding		C1819424
+2393	2413	GO:0097373	the mcm4/6/7 complex	MCM core complex		C3546515
+2453	2474	GO:0003678	DNA helicase activity	DNA helicase activity		C1148735
+2559	2576	GO:0004386	helicase activity	helicase activity		C1149627
+2613	2630	GO:0004386	helicase activity	helicase activity		C1149627
+2759	2768	GO:0000785	chromatin	chromatin	chromatin location	C1325550
+2800	2852	GO:0007567	genetic characterization in saccharomyces cerevisiae	parturition	Birth	C0005615
+2800	2852	GO:0000003	genetic characterization in saccharomyces cerevisiae	reproduction	Reproduction	C0035150
+2959	2984	GO:0006260	as a replicative helicase	DNA replication	DNA Replication	C0598312
+3077	3101	GO:0097373	mouse mcm4/6/7 complexes	MCM core complex		C3546515
+3216	3221	GO:0005488	binds	binding	Binding 	C1167622
+3405	3419	GO:0006200	ATP hydrolysis	ATP hydrolysis	ATP Hydrolysis	C1510699
+3589	3639	GO:0006260	a crucial role in selection of replication origins	DNA replication	DNA Replication	C0598312
+3704	3742	GO:0004386	the mode of action of the mcm helicase	helicase activity		C1149627
+3778	3805	GO:0006260	function at the replication	DNA replication	DNA Replication	C0598312
+3829	3838	GO:0007610	conducted	behavior	Behavior	C0004927
+3839	3875	GO:0004386	detailed analyses of helicase action	helicase activity		C1149627
+3880	3891	GO:0003677	DNA binding	DNA binding	dna binding	C1148673
+4261	4297	GO:0005488	binds to single-stranded dna region,	binding	Binding 	C1167622
+4551	4611	GO:0006260	required for completion of replication of the entire genome.	DNA replication	DNA Replication	C0598312
+4684	4693	GO:0003887	sequenase	sequenase	sequenase activity	C2257064
+4810	4817	GO:0004530	dnase i	deoxyribonuclease I activity		C1148702
+4826	4841	GO:0003887	Klenow fragment	Klenow fragment	Klenow fragment - genetic function	C2257063
+4908	4917	GO:0042571	(antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+4961	4975	GO:0016887	SV40 T-antigen	SV40 T-antigen		C2243368
+5022	5026	GO:0005623	cell	cell	Cells	C0007634
+5171	5174	GO:0060292	ltd	long term synaptic depression	Long-Term Synaptic Depression	C1136140
+5323	5361	GO:0097373	purification of mouse mcm4/6/7 complex	MCM core complex		C3546515
+5498	5502	GO:0005623	cell	cell	Cells	C0007634
+5584	5588	GO:0005623	cell	cell	Cells	C0007634
+5684	5688	GO:0005623	cell	cell	Cells	C0007634
+5855	5889	GO:0097373	the recombinant mcm4/6/7 complexes	MCM core complex		C3546515
+6730	6777	GO:0007567	the t-rich strand of the lamin b2 origin region	parturition	Birth	C0005615
+6730	6777	GO:0000003	the t-rich strand of the lamin b2 origin region	reproduction	Reproduction	C0035150
+7791	7800	GO:0003887	sequenase	sequenase	sequenase activity	C2257064
+8018	8073	GO:0097373	incubated with indicated amount of the mcm4/6/7 complex	MCM core complex		C3546515
+8215	8218	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+8930	8933	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+9205	9235	GO:0007610	conducted at room temperature.	behavior	Behavior	C0004927
+9546	9549	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+10030	10061	GO:0004530	the indicated amount of dnase i	deoxyribonuclease I activity		C1148702
+10054	10061	GO:0004530	dnase i	deoxyribonuclease I activity		C1148702
+10282	10285	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+10337	10344	GO:0005488	binding	binding	Binding 	C1167622
+10522	10530	GO:0000910	cleavage	cytokinesis	Cytokinesis	C0010813
+11018	11034	GO:0097373	mcm4/6/7 complex	MCM core complex		C3546515
+11102	11107	GO:0005488	binds	binding	Binding 	C1167622
+11273	11280	GO:0005488	binding	binding	Binding 	C1167622
+11312	11321	GO:0007610	conducted	behavior	Behavior	C0004927
+11443	11467	GO:0003677	binding to substrate dna	DNA binding	dna binding	C1148673
+11504	11543	GO:0004530	at an optimum concentration of dnase i,	deoxyribonuclease I activity		C1148702
+11544	11560	GO:0000910	strong cleavages	cytokinesis	Cytokinesis	C0010813
+11643	11659	GO:0000910	weaker cleavages	cytokinesis	Cytokinesis	C0010813
+11713	11774	GO:0004530	consistent with preference of dnase i to double-stranded dna.	deoxyribonuclease I activity		C1148702
+12225	12236	GO:0042555	MCM complex	MCM complex		C1167124
+12271	12278	GO:0005488	binding	binding	Binding 	C1167622
+12492	12530	GO:0000496	as well as on several base-pair duplex	base pairing	Base Pairing	C0600436
+12704	12742	GO:0005488	bind to a replication bubble substrate	binding	Binding 	C1167622
+12798	12801	GO:0007601	see	vision	Vision	C0042789
+12844	12858	GO:0016887	SV40 T-antigen	SV40 T-antigen		C2243368
+12898	12907	GO:0007610	conducted	behavior	Behavior	C0004927
+12908	12943	GO:0098025	also on a t-tailed y-fork structure	tail structure	virus tail structure	C3537459
+13098	13105	GO:0005488	binding	binding	Binding 	C1167622
+13118	13127	GO:0007586	digestion	digestion	Digestion	C0012238
+13310	13326	GO:0005657	replication fork	replication fork		C1167117
+13329	13377	GO:0009058	formation of double hexameric mcm4/6/7 complexes	anabolism	Anabolism	C0220781
+13390	13427	GO:0004386	helicase actions on bubble substrates	helicase activity		C1149627
+13729	13740	GO:0042555	MCM complex	MCM complex		C1167124
+13988	14041	GO:0009058	the minimum requirement for double-hexamer formation,	anabolism	Anabolism	C0220781
+14219	14226	GO:0005488	binding	binding	Binding 	C1167622
+14231	14262	GO:0004386	helicase activities of mcm4/6/7	helicase activity		C1149627
+14415	14433	GO:0009058	complex formation.	anabolism	Anabolism	C0220781
+14486	14497	GO:0003677	DNA binding	DNA binding	dna binding	C1148673
+14611	14632	GO:0003678	DNA helicase activity	DNA helicase activity		C1148735
+15309	15325	GO:0097373	mcm4/6/7 complex	MCM core complex		C3546515
+15339	15356	GO:0004386	helicase activity	helicase activity		C1149627
+15662	15701	GO:0004386	required for efficient helicase actions	helicase activity		C1149627
+15806	15827	GO:0097373	the mcm4/6/7 complex,	MCM core complex		C3546515
+15994	16040	GO:0032508	required for efficient unwinding of bubble dna	DNA duplex unwinding		C1819424
+16064	16071	GO:0005488	binding	binding	Binding 	C1167622
+16624	16669	GO:0007610	conducted with increasing amount of mcm4/6/7.	behavior	Behavior	C0004927
+16778	16796	GO:0005488	bind to bub66/t-g-	binding	Binding 	C1167622
+17475	17482	GO:0005488	binding	binding	Binding 	C1167622
+17487	17515	GO:0004386	helicase actions of mcm4/6/7	helicase activity		C1149627
+17617	17657	GO:0004386	helicase actions with forked substrates,	helicase activity		C1149627
+17874	17889	GO:0005488	bound to a-fork	binding	Binding 	C1167622
+17874	17889	GO:0005488	bound to a-fork	binding	Binding 	C1167622
+18036	18041	GO:0005488	bound	binding	Binding 	C1167622
+18277	18292	GO:0005488	bound to a-fork	binding	Binding 	C1167622
+18399	18419	GO:0097373	the mcm4/6/7 complex	MCM core complex		C3546515
+18737	18764	GO:0004386	absence of helicase actions	helicase activity		C1149627
+18876	18907	GO:0016887	the atpase activity of mcm4/6/7	adenosinetriphosphatase activity		C1148926
+18986	19012	GO:0005488	binds at the fork junction	binding	Binding 	C1167622
+19193	19213	GO:0097373	the mcm4/6/7 complex	MCM core complex		C3546515
+19214	19242	GO:0005488	binds to single-stranded dna	binding	Binding 	C1167622
+19501	19528	GO:0007114	budding yeast mcm complexes	cell budding	Cell budding	C1155616
+19750	19763	GO:0005488	binds to dt-,	binding	Binding 	C1167622
+19931	19957	GO:0005488	binds to 50mer oligo-dt, -	binding	Binding 	C1167622
+20346	20350	GO:0005488	bind	binding	Binding 	C1167622
+20561	20581	GO:0004386	the helicase action.	helicase activity		C1149627
+20804	20821	GO:0004386	helicase activity	helicase activity		C1149627
+20941	20958	GO:0004386	helicase activity	helicase activity		C1149627
+21345	21362	GO:0004386	helicase activity	helicase activity		C1149627
+21484	21501	GO:0004386	helicase activity	helicase activity		C1149627
+22183	22216	GO:0097373	displaced by the mcm4/6/7 complex	MCM core complex		C3546515
+22773	22808	GO:0007567	due sequences from the c-myc origin	parturition	Birth	C0005615
+22773	22808	GO:0000003	due sequences from the c-myc origin	reproduction	Reproduction	C0035150
+22916	22954	GO:0007567	derived from the human lamin b2 origin	parturition	Birth	C0005615
+22916	22954	GO:0000003	derived from the human lamin b2 origin	reproduction	Reproduction	C0035150
+23152	23217	GO:0006260	other natural replication origins with different thymine contents	DNA replication	DNA Replication	C0598312
+23375	23397	GO:0032508	(dna unwinding element	DNA duplex unwinding		C1819424
+23399	23431	GO:0007567	region of the human c-myc origin	parturition	Birth	C0005615
+23399	23431	GO:0000003	region of the human c-myc origin	reproduction	Reproduction	C0035150
+23672	23698	GO:0007567	region of the c-myc origin	parturition	Birth	C0005615
+23672	23698	GO:0000003	region of the c-myc origin	reproduction	Reproduction	C0035150
+23924	23959	GO:0007567	the sequences from the c-myc origin	parturition	Birth	C0005615
+23924	23959	GO:0000003	the sequences from the c-myc origin	reproduction	Reproduction	C0035150
+24317	24329	GO:0005488	bound to all	binding	Binding 	C1167622
+24499	24510	GO:0003677	DNA binding	DNA binding	dna binding	C1148673
+24656	24667	GO:0005488	bind to mcm	binding	Binding 	C1167622
+24708	24733	GO:0032508	dna unwinding by mcm4/6/7	DNA duplex unwinding		C1819424
+24977	25025	GO:0032508	required for processive unwinding of duplex dna.	DNA duplex unwinding		C1819424
+25180	25218	GO:0098025	a series of t-tailed y-fork structures	tail structure	virus tail structure	C3537459
+25383	25415	GO:0005488	bound to these y-fork substrates	binding	Binding 	C1167622
+25498	25529	GO:0005488	binds to single-stranded tails.	binding	Binding 	C1167622
+25641	25655	GO:0016887	SV40 T-antigen	SV40 T-antigen		C2243368
+26885	26938	GO:0097373	observed at a high concentration of mcm4/6/7 complex.	MCM core complex		C3546515
+27301	27349	GO:0000496	thermodynamically stable gc-base-paired segment.	base pairing	Base Pairing	C0600436
+27496	27538	GO:0000496	the thermal stability of the i:c base pair	base pairing	Base Pairing	C0600436
+27542	27578	GO:0000496	lower than that of the g:c base pair	base pairing	Base Pairing	C0600436
+27633	27662	GO:0000496	even lower than a:t base pair	base pairing	Base Pairing	C0600436
+28116	28129	GO:0000496	at base pair,	base pairing	Base Pairing	C0600436
+28258	28274	GO:0005657	replication fork	replication fork		C1167117
+28329	28356	GO:0006260	at the replication origins.	DNA replication	DNA Replication	C0598312
+28391	28416	GO:0006260	the replicative helicases	DNA replication	DNA Replication	C0598312
+28501	28554	GO:0006270	the molecular basis of initiation of dna replication.	DNA replication initiation	Replication Initiation	C1155650
+28586	28643	GO:0006260	a major component of the eukaryotic replicative helicase.	DNA replication	DNA Replication	C0598312
+28668	28677	GO:0007610	conducted	behavior	Behavior	C0004927
+28699	28706	GO:0005488	binding	binding	Binding 	C1167622
+28711	28745	GO:0004386	helicase actions of mouse mcm4/6/7	helicase activity		C1149627
+28819	28826	GO:0005488	binding	binding	Binding 	C1167622
+28886	28915	GO:0006270	initiation of dna replication	DNA replication initiation	Replication Initiation	C1155650
+28919	28966	GO:0032508	associated with localized melting of duplex dna	DNA duplex unwinding		C1819424
+28967	28992	GO:0006260	near replication origins.	DNA replication	DNA Replication	C0598312
+29019	29035	GO:0005657	replication fork	replication fork		C1167117
+29085	29092	GO:0005488	binding	binding	Binding 	C1167622
+29450	29470	GO:0097373	the mcm4/6/7 complex	MCM core complex		C3546515
+29626	29658	GO:0004386	that helicase action of mcm4/6/7	helicase activity		C1149627
+29857	29871	GO:0016887	SV40 T-antigen	SV40 T-antigen		C2243368
+30256	30276	GO:0097373	one mcm4/6/7 complex	MCM core complex		C3546515
+30351	30355	GO:0005488	bind	binding	Binding 	C1167622
+30447	30450	GO:0007601	see	vision	Vision	C0042789
+30721	30728	GO:0005488	binding	binding	Binding 	C1167622
+30733	30762	GO:0004386	helicase actions of t-antigen	helicase activity		C1149627
+30982	31058	GO:0016887	much similarity to the recently solved structure of the sv40 large t-antigen	SV40 T-antigen		C2243368
+31217	31228	GO:0003677	DNA binding	DNA binding	dna binding	C1148673
+31259	31284	GO:0005488	binds to those substrates	binding	Binding 	C1167622
+31395	31422	GO:0032508	unwinding of the duplex dna	DNA duplex unwinding		C1819424
+31517	31545	GO:0004386	shown by its helicase action	helicase activity		C1149627
+31732	31792	GO:0036292	annealing oligonucleotide on a circular single-stranded dna.	DNA annealing		C0920681
+32039	32044	GO:0005488	binds	binding	Binding 	C1167622
+32317	32346	GO:0006260	near the replication origins,	DNA replication	DNA Replication	C0598312
+32384	32453	GO:0006270	a role in selection of initiation sites of mammalian dna replication,	DNA replication initiation	Replication Initiation	C1155650
+32506	32536	GO:0006260	from human replication origins	DNA replication	DNA Replication	C0598312
+32586	32599	GO:0007567	c-myc origins	parturition	Birth	C0005615
+32586	32599	GO:0000003	c-myc origins	reproduction	Reproduction	C0035150
+32713	32739	GO:0006270	DNA replication initiation	DNA replication initiation	Replication Initiation	C1155650
+32879	32896	GO:0004386	helicase activity	helicase activity		C1149627
+32984	33001	GO:0004386	helicase activity	helicase activity		C1149627
+33346	33377	GO:0004386	inhibitory for helicase action.	helicase activity		C1149627
+33422	33429	GO:0005488	binding	binding	Binding 	C1167622
+33949	33990	GO:0050789	differential regulation of site selection	regulation of biological process	Regulation of biological process	C1327622
+33991	34024	GO:0006270	for initiation of dna replication	DNA replication initiation	Replication Initiation	C1155650
+34032	34043	GO:0032502	development	development	Biologic Development	C0678723
+34058	34062	GO:0005623	cell	cell	Cells	C0007634
+34081	34147	GO:0006270	the variability in initiation potential of each replication origin	DNA replication initiation	Replication Initiation	C1155650
+34185	34189	GO:0005623	cell	cell	Cells	C0007634
+34397	34441	GO:0032508	also for processive unwinding of duplex dna.	DNA duplex unwinding		C1819424
+34543	34560	GO:0004386	helicase activity	helicase activity		C1149627
+34706	34720	GO:0016887	SV40 T-antigen	SV40 T-antigen		C2243368
+35201	35235	GO:0004386	the difference of helicase actions	helicase activity		C1149627
+35531	35558	GO:0000496	at base pairs in the duplex	base pairing	Base Pairing	C0600436
+35956	35968	GO:0000496	at base pair	base pairing	Base Pairing	C0600436
+36029	36065	GO:0000496	the thermostability of gc base pairs	base pairing	Base Pairing	C0600436
+36069	36112	GO:0004386	inhibitory for helicase action of mcm4/6/7.	helicase activity		C1149627
+36247	36302	GO:0006260	a key component of the eukaryotic replicative helicase.	DNA replication	DNA Replication	C0598312
+36303	36342	GO:0006270	prior to initiation of dna replication,	DNA replication initiation	Replication Initiation	C1155650
+36417	36431	GO:0007567	origin region,	parturition	Birth	C0005615
+36417	36431	GO:0000003	origin region,	reproduction	Reproduction	C0035150
+36449	36483	GO:0032508	concurrent unwinding of duplex dna	DNA duplex unwinding		C1819424
+36519	36566	GO:0007567	associated with the origins of dna replication.	parturition	Birth	C0005615
+36872	36913	GO:0033202	these double hexameric helicase complexes	DNA helicase complex		C2246608
+36959	36974	GO:0007567	at the origins.	parturition	Birth	C0005615
+36959	36974	GO:0000003	at the origins.	reproduction	Reproduction	C0035150
+37002	37024	GO:0032508	melting of duplex dna,	DNA duplex unwinding		C1819424
+37053	37060	GO:0005488	binding	binding	Binding 	C1167622
+37106	37115	GO:0000785	chromatin	chromatin	chromatin location	C1325550
+37170	37183	GO:0003918	topoisomerase	topoisomerase	topoisomerase activity	C2257142
+37170	37183	GO:0003917	topoisomerase	topoisomerase	topoisomerase activity	C2257142
+37321	37336	GO:0016310	phosphorylation	phosphorylation	Phosphorylation	C0031715
+37421	37438	GO:0004386	helicase activity	helicase activity		C1149627
+37599	37615	GO:0005657	replication fork	replication fork		C1167117
+37631	37658	GO:0097373	more than mcm4/6/7 complex.	MCM core complex		C3546515
+37659	37723	GO:0006268	during the processive unwinding of duplex dna replication forks,	DNA unwinding during replication		C1155658
+38553	38612	GO:0005515	nuclease protection analyses of binding of mcm4/6/7 protein	protein binding	Protein Binding	C0033618
+38898	38928	GO:0004530	treated with 0.11 u of dnase i	deoxyribonuclease I activity		C1148702
+39131	39162	GO:0004530	treated with 0.037 u of dnase i	deoxyribonuclease I activity		C1148702
+39703	39710	GO:0005488	binding	binding	Binding 	C1167622
+39933	39940	GO:0005488	binding	binding	Binding 	C1167622
+39945	39979	GO:0004386	helicase actions of mouse mcm4/6/7	helicase activity		C1149627
+40588	40605	GO:0004386	helicase activity	helicase activity		C1149627
+40990	41021	GO:0097373	100 ng of the mcm4/6/7 complex,	MCM core complex		C3546515
+41061	41084	GO:0007610	conducted with mcm4/6/7	behavior	Behavior	C0004927
+41224	41235	GO:0003677	DNA binding	DNA binding	dna binding	C1148673
+41240	41268	GO:0004386	helicase actions of mcm4/6/7	helicase activity		C1149627
+41323	41346	GO:0007610	conducted with mcm4/6/7	behavior	Behavior	C0004927
+41441	41472	GO:0007610	conducted on various substrates	behavior	Behavior	C0004927
+41596	41619	GO:1990266	pria helicase at 10 nm.	neutrophil migration	Neutrophil migration, function	C0312860
+42067	42078	GO:0003677	DNA binding	DNA binding	dna binding	C1148673
+42083	42111	GO:0004386	helicase actions of mcm4/6/7	helicase activity		C1149627
+42148	42159	GO:0003677	dna-binding	DNA binding	dna binding	C1148673
+42449	42480	GO:0097373	100 ng of the mcm4/6/7 complex,	MCM core complex		C3546515
+42449	42480	GO:0097373	100 ng of the mcm4/6/7 complex,	MCM core complex		C3546515
+43381	43417	GO:0007567	derived from the human c-myc origin.	parturition	Birth	C0005615
+43381	43417	GO:0000003	derived from the human c-myc origin.	reproduction	Reproduction	C0035150
+43459	43468	GO:0007610	conducted	behavior	Behavior	C0004927
+43725	43736	GO:0003677	DNA binding	DNA binding	dna binding	C1148673
+43859	43890	GO:0097373	100 ng of the mcm4/6/7 complex,	MCM core complex		C3546515
+43985	44025	GO:0004386	segments on helicase action of mcm4/6/7.	helicase activity		C1149627
+44026	44037	GO:0003677	DNA binding	DNA binding	dna binding	C1148673
+44068	44103	GO:0004386	activities of the mcm4/6/7 helicase	helicase activity		C1149627
+44445	44459	GO:0016887	SV40 T-antigen	SV40 T-antigen		C2243368

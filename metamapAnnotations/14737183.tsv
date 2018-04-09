@@ -1,0 +1,467 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+113	166	GO:0000785	skin color differences along their dorsoventral axis.	chromatin	chromatin location	C1325550
+232	244	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+366	405	GO:0010468	those under control of the agouti gene.	regulation of gene expression	Gene Expression Regulation	C0017263
+471	513	GO:0009289	a sharp boundary between dorsal black hair	pilus	Bacterial Fimbria	C0031921
+518	537	GO:0009289	yellow ventral hair	pilus	Bacterial Fimbria	C0031921
+567	579	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+704	737	GO:0007567	the first exon of the tbx15 gene,	parturition	Birth	C0005615
+704	737	GO:0000003	the first exon of the tbx15 gene,	reproduction	Reproduction	C0035150
+738	789	GO:0009790	whose embryonic expression in developing mesenchyme	embryo development	Embryonic Development	C0013936
+790	816	GO:0043473	correlates with pigmentary	pigmentation	Pigmentation	C0031911
+987	1022	GO:0009790	early embryonic expression of tbx15	embryo development	Embryonic Development	C0013936
+1151	1166	GO:0009790	in both embryos	embryo development	Embryonic Development	C0013936
+1317	1329	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+1387	1423	GO:0009790	early embryonic expression of tbx15.	embryo development	Embryonic Development	C0013936
+1472	1484	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+1549	1553	GO:0005623	cell	cell	Cells	C0007634
+1620	1649	GO:0009790	embryonic expression of tbx15	embryo development	Embryonic Development	C0013936
+1803	1837	GO:0007567	a novel role for t-box gene action	parturition	Birth	C0005615
+1803	1837	GO:0000003	a novel role for t-box gene action	reproduction	Reproduction	C0035150
+1838	1863	GO:0009790	in embryonic development,	embryo development	Embryonic Development	C0013936
+2123	2134	GO:0032502	development	development	Biologic Development	C0678723
+2300	2354	GO:0007165	use of a relatively small number of signaling pathways	signal transduction	Signal Transduction	C0037083
+2649	2682	GO:0043473	variation in pigment distribution	pigmentation	Pigmentation	C0031911
+2775	2791	GO:0043473	pigment patterns	pigmentation	Pigmentation	C0031911
+3005	3020	GO:0000785	color variation	chromatin	chromatin location	C1325550
+3105	3139	GO:0043473	a large number of pigment patterns	pigmentation	Pigmentation	C0031911
+3269	3284	GO:0000785	color variation	chromatin	chromatin location	C1325550
+3386	3412	GO:0043473	many pigmentary components	pigmentation	Pigmentation	C0031911
+3468	3472	GO:0005623	cell	cell	Cells	C0007634
+3614	3626	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+3628	3642	GO:0009790	in the embryo,	embryo development	Embryonic Development	C0013936
+3705	3726	GO:0030061	from the neural crest	mitochondrial cristae	Mitochondrial cristae	C0230844
+3748	3777	GO:0033059	distribution of pigment cells	cellular pigmentation		C2246453
+3823	3845	GO:0009289	within hair follicles,	pilus	Bacterial Fimbria	C0031921
+3846	3863	GO:0038001	paracrine signals	paracrine signaling	Paracrine Communication	C0525011
+3872	3891	GO:0043473	the type of pigment	pigmentation	Pigmentation	C0031911
+3961	3971	GO:0042633	hair cycle	hair cycle		C1327461
+4048	4063	GO:0048770	pigment granule	pigment granule		C1820200
+4134	4138	GO:0005623	cell	cell	Cells	C0007634
+4184	4188	GO:0005623	cell	cell	Cells	C0007634
+4337	4349	GO:0043473	pigment-type	pigmentation	Pigmentation	C0031911
+4365	4375	GO:0042470	melanosome	melanosome	Melanosomes	C0025213
+4490	4549	GO:0000785	one of the most obvious aspects of regional color variation	chromatin	chromatin location	C1325550
+4629	4659	GO:0000785	apparent in the color of skin,	chromatin	chromatin location	C1325550
+4681	4686	GO:0009289	hair,	pilus	Bacterial Fimbria	C0031921
+4840	4882	GO:0009289	this dorsoventral difference in hair color	pilus	Bacterial Fimbria	C0031921
+4915	4933	GO:0043473	in pigment type as	pigmentation	Pigmentation	C0031911
+4934	4984	GO:0007567	determined by allelic variation of the agouti gene	parturition	Birth	C0005615
+4934	4984	GO:0000003	determined by allelic variation of the agouti gene	reproduction	Reproduction	C0035150
+5028	5060	GO:0032940	secreted by dermal papilla cells	secretion by cell	Cell secretion	C1327616
+5061	5086	GO:0009289	within each hair follicle	pilus	Bacterial Fimbria	C0031921
+5359	5369	GO:0042633	hair cycle	hair cycle		C1327461
+5854	5867	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+5916	5926	GO:0042633	hair cycle	hair cycle		C1327461
+6019	6030	GO:0042640	hair growth	hair growth	Hair growth	C0232407
+6122	6133	GO:0042640	hair growth	hair growth	Hair growth	C0232407
+6341	6359	GO:0009289	black dorsal hairs	pilus	Bacterial Fimbria	C0031921
+6364	6402	GO:0009289	cream-colored to yellow ventral hairs,	pilus	Bacterial Fimbria	C0031921
+6583	6606	GO:0009790	from embryonic day 10.5	embryo development	Embryonic Development	C0013936
+6649	6677	GO:0050931	pigment cell differentiation	pigment cell differentiation		C1326095
+6810	6835	GO:0009790	established in the embryo	embryo development	Embryonic Development	C0013936
+6862	6874	GO:0007567	after birth.	parturition	Birth	C0005615
+6908	6937	GO:0000785	ventral color compartments in	chromatin	chromatin location	C1325550
+7043	7083	GO:0009653	morphogenetic differences between dorsal	morphogenesis	Morphogenesis	C0026559
+7124	7162	GO:0043473	more elements than the type of pigment	pigmentation	Pigmentation	C0031911
+7163	7197	GO:0009289	made by hair follicle melanocytes.	pilus	Bacterial Fimbria	C0031921
+7237	7266	GO:0007567	at least two distinct origins	parturition	Birth	C0005615
+7237	7266	GO:0000003	at least two distinct origins	reproduction	Reproduction	C0035150
+7489	7500	GO:0032502	development	development	Biologic Development	C0678723
+8178	8194	GO:0030154	differentiation,	cell differentiation	Cell Differentiation process	C0007589
+8195	8218	GO:0046148	pigment-type synthesis,	pigment biosynthetic process		C1157717
+8223	8234	GO:0009289	hair length	pilus	Bacterial Fimbria	C0031921
+8408	8462	GO:0000785	a dorsal-to-ventral transformation of flank coat color	chromatin	chromatin location	C1325550
+8554	8569	GO:0007567	gene targeting,	parturition	Birth	C0005615
+8554	8569	GO:0000003	gene targeting,	reproduction	Reproduction	C0035150
+8659	8687	GO:0000988	a t-box transcription factor	transcription factor activity		C1148759
+8659	8687	GO:0001070	a t-box transcription factor	transcription factor activity		C1148759
+8659	8687	GO:0001071	a t-box transcription factor	transcription factor activity		C1148759
+8659	8687	GO:0003700	a t-box transcription factor	transcription factor activity		C1148759
+8794	8814	GO:0009790	embryonic expression	embryo development	Embryonic Development	C0013936
+8947	8951	GO:0005623	cell	cell	Cells	C0007634
+9278	9312	GO:0009289	besides the obvious change in hair	pilus	Bacterial Fimbria	C0031921
+9413	9451	GO:0009289	additional differences in hair length,	pilus	Bacterial Fimbria	C0031921
+9452	9478	GO:0009289	distribution of hair type,	pilus	Bacterial Fimbria	C0031921
+9540	9552	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+9600	9638	GO:0050931	differentiated state of pigment cells,	pigment cell differentiation		C1326095
+9650	9669	GO:0043473	the type of pigment	pigmentation	Pigmentation	C0031911
+9719	9749	GO:0009289	in particular, ventral hair of	pilus	Bacterial Fimbria	C0031921
+10012	10056	GO:0009289	semiquantitative measurements of hair length	pilus	Bacterial Fimbria	C0031921
+10163	10194	GO:0043473	ventral pigment compartments in	pigmentation	Pigmentation	C0031911
+10243	10261	GO:0009289	in both hair color	pilus	Bacterial Fimbria	C0031921
+10266	10277	GO:0009289	hair length	pilus	Bacterial Fimbria	C0031921
+10362	10378	GO:0009289	flank hairs from	pilus	Bacterial Fimbria	C0031921
+10488	10525	GO:0009419	from the tip to the base of the hair.	pilus tip		C1167056
+10560	10575	GO:0009289	for hair length	pilus	Bacterial Fimbria	C0031921
+10614	10626	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+10672	10689	GO:0042633	hair-cycle timing	hair cycle		C1327461
+10726	10762	GO:0009289	measurements of absolute hair length	pilus	Bacterial Fimbria	C0031921
+10860	10896	GO:0009289	measurements of relative hair length	pilus	Bacterial Fimbria	C0031921
+11070	11099	GO:0009289	that variation of hair length	pilus	Bacterial Fimbria	C0031921
+11175	11185	GO:0042633	hair cycle	hair cycle		C1327461
+11188	11220	GO:0009289	with a transition in hair length	pilus	Bacterial Fimbria	C0031921
+11253	11283	GO:0043473	the pigment-type transition in	pigmentation	Pigmentation	C0031911
+11413	11434	GO:0009289	dorsal hair follicles	pilus	Bacterial Fimbria	C0031921
+11460	11498	GO:0009289	developed than ventral hair follicles,	pilus	Bacterial Fimbria	C0031921
+11682	11720	GO:0009289	the proportion of different hair types	pilus	Bacterial Fimbria	C0031921
+11812	11860	GO:0009289	a small decrease in the ratio of undercoat hairs	pilus	Bacterial Fimbria	C0031921
+11855	11860	GO:0009289	hairs	pilus	Bacterial Fimbria	C0031921
+11910	11921	GO:0009289	guard hairs	pilus	Bacterial Fimbria	C0031921
+11980	12030	GO:0009289	no consistent difference in hair-type distribution	pilus	Bacterial Fimbria	C0031921
+12106	12118	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+12145	12183	GO:0043473	attributed to pigment-type differences	pigmentation	Pigmentation	C0031911
+12314	12327	GO:0009289	ventral hairs	pilus	Bacterial Fimbria	C0031921
+12341	12372	GO:0009289	less melanin than dorsal hairs,	pilus	Bacterial Fimbria	C0031921
+12447	12500	GO:0004503	dopa staining as an indicator of tyrosinase activity,	monophenol monooxygenase activity		C1151118
+12801	12838	GO:0004503	downregulation of tyrosinase activity	monophenol monooxygenase activity		C1151118
+12858	12893	GO:0009289	melanin content of individual hairs	pilus	Bacterial Fimbria	C0031921
+12921	12956	GO:0033059	both by the number of pigment cells	cellular pigmentation		C2246453
+13003	13065	GO:0009289	dorsoventral differences in hair pigment content of ae/ae mice	pilus	Bacterial Fimbria	C0031921
+13094	13104	GO:0042633	hair cycle	hair cycle		C1327461
+13122	13144	GO:0009289	similar to hair length	pilus	Bacterial Fimbria	C0031921
+13249	13286	GO:0046148	differences in pigment-type synthesis	pigment biosynthetic process		C1157717
+13319	13346	GO:0009289	differences in hair length,	pilus	Bacterial Fimbria	C0031921
+13542	13552	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+13879	13898	GO:0007601	widely spaced eyes,	vision	Vision	C0042789
+14162	14186	GO:0043473	pigment pattern in a way	pigmentation	Pigmentation	C0031911
+14247	14270	GO:0007567	on a genetic background	parturition	Birth	C0005615
+14247	14270	GO:0000003	on a genetic background	reproduction	Reproduction	C0035150
+14296	14310	GO:0009289	the belly hair	pilus	Bacterial Fimbria	C0031921
+14317	14344	GO:0009289	lighter than the back hair,	pilus	Bacterial Fimbria	C0031921
+14345	14359	GO:0009289	the belly hair	pilus	Bacterial Fimbria	C0031921
+14430	14470	GO:0043473	an abnormal dorsoventral pigment pattern	pigmentation	Pigmentation	C0031911
+14673	14701	GO:0009289	short hairs with a gray base	pilus	Bacterial Fimbria	C0031921
+14943	14958	GO:0009289	yellow hairs of	pilus	Bacterial Fimbria	C0031921
+15896	15956	GO:0043473	other dorsoventral skin characteristics besides pigment-type	pigmentation	Pigmentation	C0031911
+15980	16006	GO:0009289	its effects on hair length	pilus	Bacterial Fimbria	C0031921
+16011	16023	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+16080	16115	GO:0009289	consistent reduction in hair length	pilus	Bacterial Fimbria	C0031921
+16217	16236	GO:0009289	reduced hair length	pilus	Bacterial Fimbria	C0031921
+16386	16409	GO:0000785	no coat-color phenotype	chromatin	chromatin location	C1325550
+16521	16533	GO:0007567	after birth,	parturition	Birth	C0005615
+16642	16685	GO:0030061	melanoblast migration from the neural crest	mitochondrial cristae	Mitochondrial cristae	C0230844
+16746	16772	GO:0030318	melanocyte differentiation	melanocyte differentiation		C1159929
+16777	16795	GO:0046148	pigment synthesis.	pigment biosynthetic process		C1157717
+17174	17190	GO:0043588	skin development	skin development		C1655760
+17360	17386	GO:0030318	melanocyte differentiation	melanocyte differentiation		C1159929
+17388	17423	GO:0009058	by promoting pheomelanin synthesis,	anabolism	Anabolism	C0220781
+17468	17479	GO:0042640	hair growth	hair growth	Hair growth	C0232407
+17524	17532	GO:0007567	the gene	parturition	Birth	C0005615
+17524	17532	GO:0000003	the gene	reproduction	Reproduction	C0035150
+17874	17884	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+18158	18169	GO:0032502	development	development	Biologic Development	C0678723
+18262	18289	GO:0007567	that contained eight genes,	parturition	Birth	C0005615
+18262	18289	GO:0000003	that contained eight genes,	reproduction	Reproduction	C0035150
+18468	18519	GO:0009790	its embryonic expression in the craniofacial region	embryo development	Embryonic Development	C0013936
+18743	18756	GO:0007567	the same gene	parturition	Birth	C0005615
+18743	18756	GO:0000003	the same gene	reproduction	Reproduction	C0035150
+19157	19209	GO:0043631	to 148 kb downstream of the polyadenylation sequence	RNA polyadenylation	Polyadenylation	C0949765
+19411	19421	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+19470	19496	GO:1902698	534 of the 602 amino acids	acidogenesis		C3823112
+19470	19496	GO:1902705	534 of the 602 amino acids	acidogenesis		C3823112
+19470	19496	GO:1902706	534 of the 602 amino acids	acidogenesis		C3823112
+19470	19496	GO:1902699	534 of the 602 amino acids	acidogenesis		C3823112
+19525	19553	GO:0003677	the t-box dna-binding domain	DNA binding	dna binding	C1148673
+19719	19730	GO:0007567	other genes	parturition	Birth	C0005615
+19719	19730	GO:0000003	other genes	reproduction	Reproduction	C0035150
+19902	19944	GO:0007567	by gene targeting in embryonic stem cells.	parturition	Birth	C0005615
+20218	20242	GO:0009289	hair-color distribution,	pilus	Bacterial Fimbria	C0031921
+20531	20543	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+20623	20626	GO:0007601	see	vision	Vision	C0042789
+20674	20688	GO:0043473	the pigmentary	pigmentation	Pigmentation	C0031911
+21237	21243	GO:0043198	trunk,	dendritic shaft		C1523842
+21472	21522	GO:0009790	the exact nature of the embryonic flank expression	embryo development	Embryonic Development	C0013936
+21642	21653	GO:0032502	development	development	Biologic Development	C0678723
+22080	22123	GO:0030261	most strongly in the condensed upper dermis	chromosome condensation	Chromosome Condensation	C1155631
+22128	22171	GO:0009289	developing dermal sheaths of hair follicles	pilus	Bacterial Fimbria	C0031921
+22235	22239	GO:0005623	cell	cell	Cells	C0007634
+22286	22301	GO:0043473	on pigment-type	pigmentation	Pigmentation	C0031911
+22335	22346	GO:0042640	hair growth	hair growth	Hair growth	C0232407
+23078	23110	GO:0009790	more dorsally in deh/deh embryos	embryo development	Embryonic Development	C0013936
+23292	23296	GO:0005623	cell	cell	Cells	C0007634
+23327	23339	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+23402	23485	GO:0007567	by dorsal extension of agouti expression after birth, patterned expression of tbx15	parturition	Birth	C0005615
+23644	23686	GO:0009790	relationship of embryonic tbx15 expression	embryo development	Embryonic Development	C0013936
+23709	23721	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+23831	23860	GO:0009790	in the embryonic dorsal flank	embryo development	Embryonic Development	C0013936
+23928	23975	GO:0046148	at least with respect to pigment-type synthesis	pigment biosynthetic process		C1157717
+24074	24139	GO:0009790	out transplantation experiments in which pieces of embryonic skin	embryo development	Embryonic Development	C0013936
+24206	24224	GO:0009790	the embryonic skin	embryo development	Embryonic Development	C0013936
+24263	24292	GO:0009289	rise to different hair colors	pilus	Bacterial Fimbria	C0031921
+24461	24471	GO:0009790	at embryos	embryo development	Embryonic Development	C0013936
+24496	24508	GO:0009289	yellow hair,	pilus	Bacterial Fimbria	C0031921
+24608	24650	GO:0006310	dermal-epidermal recombination experiments	DNA recombination	Recombination, Genetic	C0034865
+24713	24745	GO:0009790	carried by the embryonic dermis.	embryo development	Embryonic Development	C0013936
+24792	24811	GO:0009790	embryonic skin from	embryo development	Embryonic Development	C0013936
+24815	24844	GO:0009790	a embryos into dorsal, flank,	embryo development	Embryonic Development	C0013936
+24941	24982	GO:0009289	yellow hair after testis transplantation,	pilus	Bacterial Fimbria	C0031921
+25005	25020	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+25467	25516	GO:0009790	the earliest time at which embryonic ventral skin	embryo development	Embryonic Development	C0013936
+25536	25540	GO:0009289	hair	pilus	Bacterial Fimbria	C0031921
+25588	25607	GO:0009289	that produced hair,	pilus	Bacterial Fimbria	C0031921
+25626	25645	GO:0009289	rise to yellow hair	pilus	Bacterial Fimbria	C0031921
+25676	25694	GO:0009289	rise to black hair	pilus	Bacterial Fimbria	C0031921
+25739	25769	GO:0009289	rise to a patch of yellow hair	pilus	Bacterial Fimbria	C0031921
+25770	25810	GO:0009289	juxtaposed against a patch of black hair	pilus	Bacterial Fimbria	C0031921
+25909	25921	GO:0009289	yellow hair.	pilus	Bacterial Fimbria	C0031921
+25975	25988	GO:0009289	yellow hairs.	pilus	Bacterial Fimbria	C0031921
+26046	26049	GO:0007601	see	vision	Vision	C0042789
+26143	26153	GO:0007567	both genes	parturition	Birth	C0005615
+26143	26153	GO:0000003	both genes	reproduction	Reproduction	C0035150
+26155	26158	GO:0007601	see	vision	Vision	C0042789
+26208	26220	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+26401	26417	GO:0043588	skin development	skin development		C1655760
+26504	26553	GO:0043473	relationship of the dorsoventral pigment boundary	pigmentation	Pigmentation	C0031911
+26654	26691	GO:0009790	the boundary between embryonic dorsum	embryo development	Embryonic Development	C0013936
+26696	26711	GO:0009790	embryonic flank	embryo development	Embryonic Development	C0013936
+26715	26762	GO:0009790	a characteristic feature in vertebrate embryos.	embryo development	Embryonic Development	C0013936
+26766	26770	GO:0005623	cell	cell	Cells	C0007634
+27158	27183	GO:0009790	out in mammalian embryos,	embryo development	Embryonic Development	C0013936
+27401	27413	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+27461	27464	GO:0007601	see	vision	Vision	C0042789
+27526	27538	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+27755	27775	GO:0009790	midgestation embryos	embryo development	Embryonic Development	C0013936
+27818	27845	GO:0007567	the r26r lacz reporter gene	parturition	Birth	C0005615
+27818	27845	GO:0000003	the r26r lacz reporter gene	reproduction	Reproduction	C0035150
+27914	27955	GO:0043198	not somite-derived mesoderm of the trunk.	dendritic shaft		C1523842
+28498	28510	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+28498	28523	GO:0043473	the pigmentation boundary	pigmentation	Pigmentation	C0031911
+28716	28719	GO:0007601	see	vision	Vision	C0042789
+28848	28860	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+29383	29394	GO:0032502	development	development	Biologic Development	C0678723
+29425	29437	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+29602	29607	GO:0007567	genes	parturition	Birth	C0005615
+29602	29607	GO:0000003	genes	reproduction	Reproduction	C0035150
+29656	29681	GO:0001942	hair follicle development	hair follicle development		C1622381
+29696	29718	GO:0007567	the only gene of which	parturition	Birth	C0005615
+29696	29718	GO:0000003	the only gene of which	reproduction	Reproduction	C0035150
+29745	29777	GO:0009289	the pattern of hair pigmentation	pilus	Bacterial Fimbria	C0031921
+29841	29866	GO:0009289	yellow hair in the trunk,	pilus	Bacterial Fimbria	C0031921
+29933	29955	GO:0043198	in the trunk at least,	dendritic shaft		C1523842
+30276	30299	GO:0007567	contiguous gene effect.	parturition	Birth	C0005615
+30276	30299	GO:0000003	contiguous gene effect.	reproduction	Reproduction	C0035150
+30354	30365	GO:0007567	other genes	parturition	Birth	C0005615
+30354	30365	GO:0000003	other genes	reproduction	Reproduction	C0035150
+30771	30796	GO:0043473	with regard to pigmentary	pigmentation	Pigmentation	C0031911
+30801	30824	GO:0009289	hair length patterning.	pilus	Bacterial Fimbria	C0031921
+30948	30964	GO:0060173	limb development	limb development	Limb Development	C1517884
+31029	31063	GO:0007567	a novel role for t-box gene action	parturition	Birth	C0005615
+31029	31063	GO:0000003	a novel role for t-box gene action	reproduction	Reproduction	C0035150
+31064	31088	GO:0009790	in embryonic development	embryo development	Embryonic Development	C0013936
+31479	31494	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+31499	31503	GO:0005623	cell	cell	Cells	C0007634
+31557	31586	GO:0009790	agouti mrna in both embryonic	embryo development	Embryonic Development	C0013936
+31745	31759	GO:0009289	on hair length	pilus	Bacterial Fimbria	C0031921
+32034	32050	GO:0043473	for pigment-type	pigmentation	Pigmentation	C0031911
+32065	32080	GO:0043473	pigment content	pigmentation	Pigmentation	C0031911
+32134	32137	GO:0007601	see	vision	Vision	C0042789
+32230	32250	GO:0009289	hair pigment content	pilus	Bacterial Fimbria	C0031921
+32343	32363	GO:0007567	genetic backgrounds,	parturition	Birth	C0005615
+32343	32363	GO:0000003	genetic backgrounds,	reproduction	Reproduction	C0035150
+32450	32490	GO:0009289	dorsoventral transitions of hair length,	pilus	Bacterial Fimbria	C0031921
+32491	32507	GO:0043473	pigment content,	pigmentation	Pigmentation	C0031911
+32656	32668	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+32878	32889	GO:0009289	yellow hair	pilus	Bacterial Fimbria	C0031921
+32923	32969	GO:0003677	named for the presence of a dna-binding domain	DNA binding	dna binding	C1148673
+32976	33014	GO:0007567	identified in the mouse brachyury gene	parturition	Birth	C0005615
+32976	33014	GO:0000003	identified in the mouse brachyury gene	reproduction	Reproduction	C0035150
+33057	33079	GO:0007567	t box-containing genes	parturition	Birth	C0005615
+33057	33079	GO:0000003	t box-containing genes	reproduction	Reproduction	C0035150
+33104	33115	GO:0032502	development	development	Biologic Development	C0678723
+33349	33375	GO:0007567	a single gene in amphioxus	parturition	Birth	C0005615
+33349	33375	GO:0000003	a single gene in amphioxus	reproduction	Reproduction	C0035150
+33476	33491	GO:0007567	the three genes	parturition	Birth	C0005615
+33476	33491	GO:0000003	the three genes	reproduction	Reproduction	C0035150
+33653	33669	GO:0007567	all three genes,	parturition	Birth	C0005615
+33653	33669	GO:0000003	all three genes,	reproduction	Reproduction	C0035150
+33843	33871	GO:0007567	an ancestral gene for tbx15,	parturition	Birth	C0005615
+33843	33871	GO:0000003	an ancestral gene for tbx15,	reproduction	Reproduction	C0035150
+33917	33941	GO:1904888	craniofacial development	craniofacial development		C4232533
+34018	34053	GO:0060173	developmental functions in the limb	limb development	Limb Development	C1517884
+34058	34102	GO:0043198	the trunk during early vertebrate evolution.	dendritic shaft		C1523842
+34146	34185	GO:0009790	reported in embryonic flank mesenchyme,	embryo development	Embryonic Development	C0013936
+34263	34302	GO:0043198	the dorsoventral identity of the trunk.	dendritic shaft		C1523842
+34667	34701	GO:0009790	in periocular embryonic mesenchyme	embryo development	Embryonic Development	C0013936
+34793	34801	GO:0007601	the eye,	vision	Vision	C0042789
+35012	35022	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+35115	35157	GO:0033736	a weak positive lod score to chromosome 1p	L-lysine 6-oxidase activity		C2247199
+35191	35238	GO:0030849	described as a rare autosomal-dominant syndrome	autosome	Autosome	C0596142
+35726	35767	GO:0030849	an unmapped autosomal recessive condition	autosome	Autosome	C0596142
+35968	35988	GO:0001501	skeletal development	skeletal development		C1160401
+36027	36059	GO:0007567	the aristaless-related gene alx3	parturition	Birth	C0005615
+36027	36059	GO:0000003	the aristaless-related gene alx3	reproduction	Reproduction	C0035150
+36366	36377	GO:0032502	development	development	Biologic Development	C0678723
+36469	36490	GO:0043473	in pigment patterning	pigmentation	Pigmentation	C0031911
+36576	36600	GO:0009790	expressed in the embryo,	embryo development	Embryonic Development	C0013936
+36675	36724	GO:0009790	an expanded domain of embryonic agouti expression	embryo development	Embryonic Development	C0013936
+36847	36870	GO:0007567	among other t-box genes	parturition	Birth	C0005615
+36847	36870	GO:0000003	among other t-box genes	reproduction	Reproduction	C0035150
+36877	36888	GO:0032502	development	development	Biologic Development	C0678723
+37066	37070	GO:0005623	cell	cell	Cells	C0007634
+37118	37162	GO:0016049	proliferative expansion of a cell population	cell growth		C0007595
+37501	37548	GO:0009790	that embryonic cells in dorsolateral mesenchyme	embryo development	Embryonic Development	C0013936
+37609	37613	GO:0005623	cell	cell	Cells	C0007634
+37645	37697	GO:0016049	followed by compensatory expansion of ventral cells.	cell growth		C0007595
+37698	37702	GO:0005623	cell	cell	Cells	C0007634
+37836	37875	GO:0009289	according to hair color in deh/deh mice	pilus	Bacterial Fimbria	C0031921
+38006	38009	GO:0007601	see	vision	Vision	C0042789
+38022	38046	GO:0009790	in embryonic mesenchyme,	embryo development	Embryonic Development	C0013936
+38159	38172	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+38526	38554	GO:0007567	genes in addition to agouti,	parturition	Birth	C0005615
+38526	38554	GO:0000003	genes in addition to agouti,	reproduction	Reproduction	C0035150
+38561	38572	GO:0009289	hair length	pilus	Bacterial Fimbria	C0031921
+38748	38790	GO:0009790	expressed in ventral embryonic mesenchyme,	embryo development	Embryonic Development	C0013936
+38818	38831	GO:0009289	hair-follicle	pilus	Bacterial Fimbria	C0031921
+38852	38876	GO:1904888	craniofacial development	craniofacial development		C4232533
+39075	39093	GO:0009790	in deh/deh embryos	embryo development	Embryonic Development	C0013936
+39202	39237	GO:0009289	regional distribution of hair color	pilus	Bacterial Fimbria	C0031921
+39291	39301	GO:0009289	black hair	pilus	Bacterial Fimbria	C0031921
+39309	39337	GO:0009289	rise to yellow hair instead.	pilus	Bacterial Fimbria	C0031921
+39347	39396	GO:0007389	neither normal patterns of pigment-type synthesis	pattern formation	Pattern Formation	C1160421
+39468	39479	GO:0032502	development	development	Biologic Development	C0678723
+39766	39800	GO:0009289	distribution of hair-color regions	pilus	Bacterial Fimbria	C0031921
+39839	39851	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+39912	39947	GO:0046148	unrelated to pigment-type synthesis	pigment biosynthetic process		C1157717
+40069	40106	GO:0033059	of pigment cells in ventral epidermis	cellular pigmentation		C2246453
+40188	40225	GO:0043198	control of dorsoventral trunk pattern	dendritic shaft		C1523842
+40314	40347	GO:0000988	a lim domain transcription factor	transcription factor activity		C1148759
+40314	40347	GO:0001070	a lim domain transcription factor	transcription factor activity		C1148759
+40314	40347	GO:0001071	a lim domain transcription factor	transcription factor activity		C1148759
+40314	40347	GO:0003700	a lim domain transcription factor	transcription factor activity		C1148759
+40561	40565	GO:0005623	cell	cell	Cells	C0007634
+40651	40655	GO:0005623	cell	cell	Cells	C0007634
+41153	41160	GO:0031430	midline	midline	midline cell component	C1660780
+41332	41367	GO:0009289	patterns of hair-color distribution	pilus	Bacterial Fimbria	C0031921
+41580	41598	GO:0043198	apply to the trunk	dendritic shaft		C1523842
+41900	41936	GO:0043198	dorsoventral patterning in the trunk	dendritic shaft		C1523842
+42041	42088	GO:0043198	a diffusible signal from dorsal trunk ectoderm,	dendritic shaft		C1523842
+42140	42167	GO:0043198	in dorsal trunk mesenchyme,	dendritic shaft		C1523842
+42191	42232	GO:0031254	dorsal positional identity of those cells	cell trailing edge		C1621432
+42284	42309	GO:0070285	pigment-cell development,	pigment cell development		C2610977
+42314	42325	GO:0042640	hair growth	hair growth	Hair growth	C0232407
+42462	42474	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+42604	42635	GO:0043198	in trunk ectoderm as coincident	dendritic shaft		C1523842
+43153	43166	GO:0043198	in the trunk,	dendritic shaft		C1523842
+43332	43344	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+43551	43563	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+43813	43824	GO:0032502	development	development	Biologic Development	C0678723
+43998	44010	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+44194	44207	GO:0001756	somitogenesis	somitogenesis		C1326539
+44217	44228	GO:0032502	development	development	Biologic Development	C0678723
+44393	44397	GO:0005623	cell	cell	Cells	C0007634
+44406	44409	GO:0007601	see	vision	Vision	C0042789
+44540	44552	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+44797	44801	GO:0005623	cell	cell	Cells	C0007634
+45047	45073	GO:0046148	in pigment-type synthesis,	pigment biosynthetic process		C1157717
+45089	45093	GO:0005623	cell	cell	Cells	C0007634
+45164	45176	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+45231	45270	GO:0009289	more complicated patterns of hair type,	pilus	Bacterial Fimbria	C0031921
+45419	45430	GO:0032502	development	development	Biologic Development	C0678723
+45619	45631	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+45654	45688	GO:0000785	reminiscent of coat-color patterns	chromatin	chromatin location	C1325550
+46162	46174	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+46217	46246	GO:0050789	alterations in the regulation	regulation of biological process	Regulation of biological process	C1327622
+46328	46341	GO:0000785	on coat color	chromatin	chromatin location	C1325550
+46346	46390	GO:0007567	only apparent in certain genetic backgrounds	parturition	Birth	C0005615
+46346	46390	GO:0000003	only apparent in certain genetic backgrounds	reproduction	Reproduction	C0035150
+46455	46467	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+46626	46648	GO:0043473	the pigmentary system.	pigmentation	Pigmentation	C0031911
+47615	47633	GO:0009291	for timed matings,	unidirectional conjugation		C1160186
+47615	47633	GO:0007618	for timed matings,	mating		C1260875
+47615	47633	GO:0000747	for timed matings,	conjugation with cellular fusion		C1748461
+47615	47633	GO:1990277	for timed matings,	parasexual conjugation with cellular fusion		C3812685
+47692	47708	GO:0007567	the day of birth	parturition	Birth	C0005615
+47758	47789	GO:0009289	for measurements of hair length	pilus	Bacterial Fimbria	C0031921
+47794	47800	GO:0000785	color,	chromatin	chromatin location	C1325550
+47894	47901	GO:0031430	midline	midline	midline cell component	C1660780
+48029	48051	GO:0009289	hair length boundaries	pilus	Bacterial Fimbria	C0031921
+48363	48412	GO:0009289	dorsoventral variation in hair-type distribution,	pilus	Bacterial Fimbria	C0031921
+48413	48434	GO:0009289	several hundred hairs	pilus	Bacterial Fimbria	C0031921
+48888	48907	GO:0009289	most hair follicles	pilus	Bacterial Fimbria	C0031921
+49624	49634	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+49764	49787	GO:0007567	further genetic mapping	parturition	Birth	C0005615
+49764	49787	GO:0000003	further genetic mapping	reproduction	Reproduction	C0035150
+50734	50745	GO:0007567	eight genes	parturition	Birth	C0005615
+50734	50745	GO:0000003	eight genes	reproduction	Reproduction	C0035150
+50894	50909	GO:0007567	; a t-box gene,	parturition	Birth	C0005615
+50894	50909	GO:0000003	; a t-box gene,	reproduction	Reproduction	C0035150
+50921	50934	GO:0007567	a novel gene,	parturition	Birth	C0005615
+50921	50934	GO:0000003	a novel gene,	reproduction	Reproduction	C0035150
+51616	51626	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+51667	51677	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+51680	51694	GO:0007567	gene targeting	parturition	Birth	C0005615
+51680	51694	GO:0000003	gene targeting	reproduction	Reproduction	C0035150
+51964	51977	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+52407	52414	GO:0009790	embryos	embryo development	Embryonic Development	C0013936
+52489	52502	GO:0009790	embryos e13.5	embryo development	Embryonic Development	C0013936
+52957	52987	GO:0009790	embryonic skin transplantation	embryo development	Embryonic Development	C0013936
+53010	53029	GO:0009790	f1 embryos at e12.5	embryo development	Embryonic Development	C0013936
+53079	53093	GO:0009790	embryonic skin	embryo development	Embryonic Development	C0013936
+53547	53554	GO:0042603	capsule	capsule	Microbial anatomical capsule structure	C1325531
+53569	53604	GO:0009790	a piece of dissected embryonic skin	embryo development	Embryonic Development	C0013936
+53798	53816	GO:0009289	the resulting hair	pilus	Bacterial Fimbria	C0031921
+54024	54058	GO:0043198	the somitic mesoderm of the trunk,	dendritic shaft		C1523842
+54129	54151	GO:0007567	the r26r reporter gene	parturition	Birth	C0005615
+54129	54151	GO:0000003	the r26r reporter gene	reproduction	Reproduction	C0035150
+54308	54315	GO:0031430	midline	midline	midline cell component	C1660780
+54332	54359	GO:0004565	beta-galactosidase activity	beta-galactosidase activity		C1150053
+54699	54711	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+54913	54924	GO:0007567	agouti gene	parturition	Birth	C0005615
+54913	54924	GO:0000003	agouti gene	reproduction	Reproduction	C0035150
+55062	55072	GO:1990266	(nm_145224	neutrophil migration	Neutrophil migration, function	C0312860
+55416	55440	GO:0007567	about the origin of deh,	parturition	Birth	C0005615
+55416	55440	GO:0000003	about the origin of deh,	reproduction	Reproduction	C0035150
+55762	55774	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+56121	56131	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+56180	56206	GO:0009790	e10.5 - embryonic day 10.5	embryo development	Embryonic Development	C0013936
+56303	56324	GO:0007567	tbx15 - t-box gene 15	parturition	Birth	C0005615
+56303	56324	GO:0000003	tbx15 - t-box gene 15	reproduction	Reproduction	C0035150
+56462	56503	GO:0009289	similar patterns of hair-length variation	pilus	Bacterial Fimbria	C0031921
+56595	56624	GO:0009289	the transition in hair length	pilus	Bacterial Fimbria	C0031921
+56629	56637	GO:0000785	color in	chromatin	chromatin location	C1325550
+56678	56706	GO:0009289	proportional hair length for	pilus	Bacterial Fimbria	C0031921
+56691	56702	GO:0009289	hair length	pilus	Bacterial Fimbria	C0031921
+56905	56931	GO:0009289	proportion of zigzag hairs	pilus	Bacterial Fimbria	C0031921
+57097	57113	GO:0043588	skin development	skin development		C1655760
+57166	57205	GO:0009289	(g) differences in hair melanin content	pilus	Bacterial Fimbria	C0031921
+57525	57537	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+57613	57641	GO:0009289	a thin stripe of yellow hair	pilus	Bacterial Fimbria	C0031921
+57661	57713	GO:0009289	the dorsal black hairs from the ventral cream hairs.	pilus	Bacterial Fimbria	C0031921
+57802	57817	GO:0009289	the black hairs	pilus	Bacterial Fimbria	C0031921
+58476	58488	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+58533	58591	GO:0009289	hair length in a representative pair of 1.5-mo-old deh/deh	pilus	Bacterial Fimbria	C0031921
+58813	58820	GO:0007567	genetic	parturition	Birth	C0005615
+58813	58820	GO:0000003	genetic	reproduction	Reproduction	C0035150
+59169	59185	GO:0051321	in 2340 meioses.	meiotic cell cycle		C1657605
+59349	59379	GO:0007567	constructed by gene targeting.	parturition	Birth	C0005615
+59349	59379	GO:0000003	constructed by gene targeting.	reproduction	Reproduction	C0035150
+59620	59640	GO:0009289	hair-color patterns,	pilus	Bacterial Fimbria	C0031921
+59743	59754	GO:0032502	development	development	Biologic Development	C0678723
+60541	60570	GO:0009790	embryonic expression of tbx15	embryo development	Embryonic Development	C0013936
+60786	60800	GO:0007567	for both genes	parturition	Birth	C0005615
+60786	60800	GO:0000003	for both genes	reproduction	Reproduction	C0035150
+61170	61185	GO:0009790	deh/deh embryos	embryo development	Embryonic Development	C0013936
+61684	61739	GO:0009790	embryonic establishment of dorsoventral skin patterning	embryo development	Embryonic Development	C0013936
+61802	61817	GO:0009790	a e12.5 embryos	embryo development	Embryonic Development	C0013936
+61898	61922	GO:0009289	hair color of the grafts	pilus	Bacterial Fimbria	C0031921
+61948	61980	GO:0009790	grafts of ventral embryonic skin	embryo development	Embryonic Development	C0013936
+61998	62011	GO:0009289	yellow hairs,	pilus	Bacterial Fimbria	C0031921
+62012	62033	GO:0009790	dorsal embryonic skin	embryo development	Embryonic Development	C0013936
+62051	62063	GO:0009289	black hairs,	pilus	Bacterial Fimbria	C0031921
+62068	62088	GO:0009790	flank embryonic skin	embryo development	Embryonic Development	C0013936
+62130	62162	GO:0009289	yellow hairs in distinct regions	pilus	Bacterial Fimbria	C0031921
+62230	62249	GO:0009790	the embryonic flank	embryo development	Embryonic Development	C0013936
+62323	62339	GO:0009289	= 1 mm for hairs	pilus	Bacterial Fimbria	C0031921
+62436	62448	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+62581	62588	GO:0031430	midline	midline	midline cell component	C1660780
+63024	63036	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+63090	63102	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+63369	63430	GO:0010467	the boundary between the expression domains of the two genes.	gene expression	Gene Expression	C0017262
+63491	63503	GO:0043198	in the trunk	dendritic shaft		C1523842
+63542	63554	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+63771	63774	GO:0007601	see	vision	Vision	C0042789
+63801	63833	GO:0009289	reduced hair melanocyte activity	pilus	Bacterial Fimbria	C0031921
+63880	63901	GO:0000785	lead to a cream color	chromatin	chromatin location	C1325550
+64393	64457	GO:0043198	that distinct dorsoventral compartments in ectoderm of the trunk	dendritic shaft		C1523842
+64535	64561	GO:0043198	in dorsal trunk mesenchyme	dendritic shaft		C1523842

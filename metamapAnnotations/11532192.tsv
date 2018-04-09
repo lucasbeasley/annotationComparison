@@ -1,0 +1,136 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+112	139	GO:0007567	known about genetic factors	parturition	Birth	C0005615
+112	139	GO:0000003	known about genetic factors	reproduction	Reproduction	C0035150
+411	459	GO:0007567	the effects of specific candidate gene mutations	parturition	Birth	C0005615
+411	459	GO:0000003	the effects of specific candidate gene mutations	reproduction	Reproduction	C0035150
+612	617	GO:0007568	aging	aging	Aging	C0001811
+690	715	GO:0007623	a diurnal rhythm with iop	circadian rhythm	Circadian Rhythms	C0008810
+769	833	GO:0007567	homozygosity for a null allele of the carbonic anhydrase ii gene	parturition	Birth	C0005615
+769	833	GO:0000003	homozygosity for a null allele of the carbonic anhydrase ii gene	reproduction	Reproduction	C0035150
+895	922	GO:0007567	in the leptin receptor gene	parturition	Birth	C0005615
+895	922	GO:0000003	in the leptin receptor gene	reproduction	Reproduction	C0035150
+1064	1110	GO:0043473	higher iops than their pigmented counterparts.	pigmentation	Pigmentation	C0031911
+1245	1290	GO:0007567	likely due to interstrain genetic differences	parturition	Birth	C0005615
+1245	1290	GO:0000003	likely due to interstrain genetic differences	reproduction	Reproduction	C0035150
+1336	1358	GO:0050789	the regulation of iop.	regulation of biological process	Regulation of biological process	C1327622
+1470	1518	GO:0007567	mutations in two of the assessed candidate genes	parturition	Birth	C0005615
+1470	1518	GO:0000003	mutations in two of the assessed candidate genes	reproduction	Reproduction	C0035150
+1653	1683	GO:0050789	the genetics of iop regulation	regulation of biological process	Regulation of biological process	C1327622
+1878	1888	GO:0008219	cell death	cell death	Cell Death	C0007587
+2053	2072	GO:0007567	a genetic component	parturition	Birth	C0005615
+2053	2072	GO:0000003	a genetic component	reproduction	Reproduction	C0035150
+2109	2151	GO:0098687	focused on identifying chromosomal regions	chromosome region	Region of chromosome	C1953345
+2156	2161	GO:0007567	genes	parturition	Birth	C0005615
+2156	2161	GO:0000003	genes	reproduction	Reproduction	C0035150
+2305	2322	GO:0007567	identifying genes	parturition	Birth	C0005615
+2305	2322	GO:0000003	identifying genes	reproduction	Reproduction	C0035150
+2502	2514	GO:0009405	pathogenesis	pathogenesis	Pathogenesis	C0699748
+2704	2717	GO:0007567	of many genes	parturition	Birth	C0005615
+2704	2717	GO:0000003	of many genes	reproduction	Reproduction	C0035150
+2884	2925	GO:0007567	extremely helpful in characterizing genes	parturition	Birth	C0005615
+2884	2925	GO:0000003	extremely helpful in characterizing genes	reproduction	Reproduction	C0035150
+3428	3472	GO:0007601	that in our hands careful ocular cannulation	vision	Vision	C0042789
+4852	4908	GO:0007601	histological analysis of the eyes of all studied strains	vision	Vision	C0042789
+4910	4913	GO:0007601	see	vision	Vision	C0042789
+5748	5774	GO:0043473	pigment filled macrophages	pigmentation	Pigmentation	C0031911
+5801	5805	GO:0005623	cell	cell	Cells	C0007634
+5945	5949	GO:0005623	cell	cell	Cells	C0007634
+6207	6246	GO:0007601	ocular abnormalities in various strains	vision	Vision	C0042789
+6401	6405	GO:0007601	eyes	vision	Vision	C0042789
+7327	7355	GO:0007567	used for genetic experiments	parturition	Birth	C0005615
+7327	7355	GO:0000003	used for genetic experiments	reproduction	Reproduction	C0035150
+10211	10214	GO:0007601	see	vision	Vision	C0042789
+10211	10214	GO:0007601	see	vision	Vision	C0042789
+14388	14412	GO:0007623	diurnal variation in iop	circadian rhythm	Circadian Rhythms	C0008810
+16849	16879	GO:0007567	mutations in the myocilin gene	parturition	Birth	C0005615
+16849	16879	GO:0000003	mutations in the myocilin gene	reproduction	Reproduction	C0035150
+16925	16965	GO:0007567	allelic variation in the mouse myoc gene	parturition	Birth	C0005615
+16925	16965	GO:0000003	allelic variation in the mouse myoc gene	reproduction	Reproduction	C0035150
+17016	17052	GO:0007567	the gene in an assortment of strains	parturition	Birth	C0005615
+17016	17052	GO:0000003	the gene in an assortment of strains	reproduction	Reproduction	C0035150
+17778	17781	GO:0007601	see	vision	Vision	C0042789
+18025	18044	GO:0007567	genetic alterations	parturition	Birth	C0005615
+18025	18044	GO:0000003	genetic alterations	reproduction	Reproduction	C0035150
+18054	18066	GO:0000806	Y chromosome	Y chromosome	Y Chromosome	C0043381
+18072	18084	GO:0000806	Y chromosome	Y chromosome	Y Chromosome	C0043381
+18183	18195	GO:0000806	Y chromosome	Y chromosome	Y Chromosome	C0043381
+18271	18296	GO:0034023	the iops of pure b6 males	5	carboxyamino	C2247561
+18342	18354	GO:0000806	Y chromosome	Y chromosome	Y Chromosome	C0043381
+18486	18517	GO:0007567	effects of genetic alterations.	parturition	Birth	C0005615
+18486	18517	GO:0000003	effects of genetic alterations.	reproduction	Reproduction	C0035150
+18663	18675	GO:0000806	Y chromosome	Y chromosome	Y Chromosome	C0043381
+18685	18698	GO:0000806	the 129 y chr	Y chromosome	Y Chromosome	C0043381
+19741	19772	GO:0007567	mutant alleles of the car2 gene	parturition	Birth	C0005615
+19741	19772	GO:0000003	mutant alleles of the car2 gene	reproduction	Reproduction	C0035150
+19883	19904	GO:0007567	genetic perturbations	parturition	Birth	C0005615
+19883	19904	GO:0000003	genetic perturbations	reproduction	Reproduction	C0035150
+20457	20466	GO:0043473	pigmented	pigmentation	Pigmentation	C0031911
+20574	20621	GO:0043473	arose on the otherwise pigmented b6 background.	pigmentation	Pigmentation	C0031911
+20714	20751	GO:0043473	compared to wild type, pigmented mice	pigmentation	Pigmentation	C0031911
+20905	20937	GO:0043473	in contrast to pigmented b6 mice	pigmentation	Pigmentation	C0031911
+21758	21786	GO:0007567	amenable to genetic analyses	parturition	Birth	C0005615
+21758	21786	GO:0000003	amenable to genetic analyses	reproduction	Reproduction	C0035150
+22020	22049	GO:0007567	the use of genetic approaches	parturition	Birth	C0005615
+22020	22049	GO:0000003	the use of genetic approaches	reproduction	Reproduction	C0035150
+22062	22067	GO:0007567	genes	parturition	Birth	C0005615
+22062	22067	GO:0000003	genes	reproduction	Reproduction	C0035150
+22332	22351	GO:0098687	chromosomal regions	chromosome region	Region of chromosome	C1953345
+22544	22555	GO:0006280	mutagenesis	mutagenesis	Mutagenesis Process	C0079866
+22622	22646	GO:0007567	the association of genes	parturition	Birth	C0005615
+22622	22646	GO:0000003	the association of genes	reproduction	Reproduction	C0035150
+25836	25851	GO:0017144	drug metabolism	drug metabolism		C0683140
+26111	26126	GO:0009315	drug resistance	drug resistance	Drug resistance	C0013203
+26111	26126	GO:0042493	drug resistance	drug resistance	Drug resistance	C0013203
+26347	26357	GO:0042310	vasospasm,	vasoconstriction	Vascular constriction 	C0042396
+26358	26395	GO:0042592	aberrant autoregulation of blood flow	homeostasis	Homeostasis	C0019868
+29143	29164	GO:0007567	genetic perturbations	parturition	Birth	C0005615
+29143	29164	GO:0000003	genetic perturbations	reproduction	Reproduction	C0035150
+29837	29861	GO:0007623	diurnal variation in iop	circadian rhythm	Circadian Rhythms	C0008810
+29947	29965	GO:0007623	the diurnal rhythm	circadian rhythm	Circadian Rhythms	C0008810
+30936	30955	GO:0020010	cone photoreceptors	conoid		C1166649
+30968	30972	GO:0005623	cell	cell	Cells	C0007634
+31078	31115	GO:0050789	circadian regulation of wheel running	regulation of biological process	Regulation of biological process	C1327622
+31174	31179	GO:0020010	cones	conoid		C1166649
+31362	31427	GO:0007623	the characteristics of the diurnal rhythm of intraocular pressure	circadian rhythm	Circadian Rhythms	C0008810
+31620	31642	GO:0007623	diurnal rhythms of iop	circadian rhythm	Circadian Rhythms	C0008810
+31718	31739	GO:0009058	bicarbonate formation	anabolism	Anabolism	C0220781
+32015	32043	GO:0007567	a genetic deficiency of caii	parturition	Birth	C0005615
+32015	32043	GO:0000003	a genetic deficiency of caii	reproduction	Reproduction	C0035150
+32078	32094	GO:0007567	in the car2 gene	parturition	Birth	C0005615
+32078	32094	GO:0000003	in the car2 gene	reproduction	Reproduction	C0035150
+32693	32744	GO:0043473	the first enzyme of the pigment production pathway.	pigmentation	Pigmentation	C0031911
+32791	32819	GO:0007601	various ocular consequences.	vision	Vision	C0042789
+32895	32899	GO:0030424	axon	axon	Axon	C0004461
+33072	33091	GO:0004503	tyrosinase activity	monophenol monooxygenase activity		C1151118
+33101	33154	GO:0043473	to otherwise genetically identical pigmented b6 mice.	pigmentation	Pigmentation	C0031911
+33235	33260	GO:0043473	detected in the pigmented	pigmentation	Pigmentation	C0031911
+33382	33403	GO:0007601	mice with albino eyes	vision	Vision	C0042789
+33442	33469	GO:0007601	pink eye dilution mutations	vision	Vision	C0042789
+33475	33498	GO:0007623	altered diurnal rhythms	circadian rhythm	Circadian Rhythms	C0008810
+33499	33525	GO:0043473	compared to pigmented mice	pigmentation	Pigmentation	C0031911
+33585	33610	GO:0007623	the diurnal rhythm of iop	circadian rhythm	Circadian Rhythms	C0008810
+33642	33676	GO:0007567	depending upon genetic background,	parturition	Birth	C0005615
+33642	33676	GO:0000003	depending upon genetic background,	reproduction	Reproduction	C0035150
+33766	33781	GO:0007623	diurnal rhythms	circadian rhythm	Circadian Rhythms	C0008810
+34016	34055	GO:0007623	the nature of the diurnal rhythm of iop	circadian rhythm	Circadian Rhythms	C0008810
+34245	34268	GO:0007623	a diurnal rhythm of iop	circadian rhythm	Circadian Rhythms	C0008810
+34564	34602	GO:0007567	large scale genetic studies of factors	parturition	Birth	C0005615
+34564	34602	GO:0000003	large scale genetic studies of factors	reproduction	Reproduction	C0035150
+34844	34857	GO:0007601	in ophthalmic	vision	Vision	C0042789
+34862	34868	GO:0007601	vision	vision	Vision	C0042789
+35320	35325	GO:0007568	aging	aging	Aging	C0001811
+35758	35790	GO:0009405	monitored for specific pathogens	pathogenesis	Pathogenesis	C0699748
+35849	35876	GO:0007601	see  for specific pathogens	vision	Vision	C0042789
+36658	36663	GO:0007568	aging	aging	Aging	C0001811
+37348	37367	GO:0007601	ocular cannulation,	vision	Vision	C0042789
+38307	38354	GO:0007601	eyes from at least 2 mice of the listed strains	vision	Vision	C0042789
+38390	38429	GO:1902698	fekete's acid-alcohol-formalin fixative	acidogenesis		C3823112
+38390	38429	GO:1902705	fekete's acid-alcohol-formalin fixative	acidogenesis		C3823112
+38390	38429	GO:1902706	fekete's acid-alcohol-formalin fixative	acidogenesis		C3823112
+38390	38429	GO:1902699	fekete's acid-alcohol-formalin fixative	acidogenesis		C3823112
+38651	38670	GO:0007601	the eyes of cba/caj	vision	Vision	C0042789
+38926	38949	GO:0007601	most ocular structures.	vision	Vision	C0042789
+38979	39023	GO:0007567	the proximal promoter of the mouse myoc gene	parturition	Birth	C0005615
+38979	39023	GO:0000003	the proximal promoter of the mouse myoc gene	reproduction	Reproduction	C0035150
+39901	39911	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+40420	40433	GO:0019013	core services	nucleocapsid	viral nucleocapsid location	C1167518

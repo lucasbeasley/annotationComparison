@@ -1,0 +1,431 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+5	14	GO:0007565	gestation	gestation	Pregnancy	C0032961
+128	152	GO:0006695	cholesterol biosynthesis	cholesterol biosynthesis		C0599474
+156	202	GO:0009790	important for mammalian embryonic development.	embryo development	Embryonic Development	C0013936
+342	371	GO:0007567	die within 24 hours of birth.	parturition	Birth	C0005615
+508	519	GO:0032502	development	development	Biologic Development	C0678723
+635	651	GO:0030324	lung development	lung development		C1160389
+679	685	GO:0040007	growth	growth	Growth	C0018270
+729	758	GO:0009790	observed in dhcr7-/- embryos.	embryo development	Embryonic Development	C0013936
+854	880	GO:0009790	noted in dhcr7-/- embryos,	embryo development	Embryonic Development	C0013936
+903	931	GO:0060441	lung branching morphogenesis	epithelial tube branching involved in lung morphogenesis		C2610591
+1015	1026	GO:0032502	development	development	Biologic Development	C0678723
+1031	1062	GO:0009790	visible in all dhcr7-/- embryos	embryo development	Embryonic Development	C0013936
+1083	1137	GO:0003904	impaired pre-alveolar development of varying severity,	photoreactivating enzyme activity		C2257086
+1148	1166	GO:0008283	cell proliferation	cell proliferation	Cell Proliferation	C0596290
+1168	1227	GO:0030855	delayed differentiation of type i alveolar epithelial cells	epithelial cell differentiation		C1326057
+1239	1267	GO:0001568	delayed vascular development	blood vessel development		C1160250
+1304	1335	GO:0060510	differentiation of type ii aecs	Type II pneumocyte differentiation		C2752736
+1304	1335	GO:0060510	differentiation of type ii aecs	granular pneumocyte differentiation		C2752737
+1547	1628	GO:0051179	no significant differences of the spatial-temporal localization of sonic hedgehog	establishment and maintenance of localization		C1744691
+1788	1810	GO:0009790	from dhcr7-/- embryos.	embryo development	Embryonic Development	C0013936
+2002	2016	GO:0035003	alveolar sacs,	subapical complex location		C1325744
+2002	2016	GO:0071173	alveolar sacs,	spindle assembly checkpoint		C2754376
+2017	2057	GO:0030154	a delayed differentiation of type i aecs	cell differentiation	Cell Differentiation process	C0007589
+2099	2108	GO:0007565	gestation	gestation	Pregnancy	C0032961
+2155	2171	GO:0030324	lung development	lung development		C1160389
+2391	2399	GO:0016020	membrane	membrane	Membrane	C0596901
+2448	2452	GO:0005623	cell	cell	Cells	C0007634
+2706	2714	GO:0016020	membrane	membrane	Membrane	C0596901
+3032	3086	GO:0009790	pathophysiological for abnormal embryonic development.	embryo development	Embryonic Development	C0013936
+3301	3325	GO:0006695	cholesterol biosynthesis	cholesterol biosynthesis		C0599474
+3411	3435	GO:0006695	cholesterol biosynthesis	cholesterol biosynthesis		C0599474
+3582	3613	GO:0007567	genetic disruption of the dhcr7	parturition	Birth	C0005615
+3582	3613	GO:0000003	genetic disruption of the dhcr7	reproduction	Reproduction	C0035150
+3664	3704	GO:0007567	homozygous for the dhcr7 gene disruption	parturition	Birth	C0005615
+3664	3704	GO:0000003	homozygous for the dhcr7 gene disruption	reproduction	Reproduction	C0035150
+3833	3855	GO:0009790	no embryonic lethality	embryo development	Embryonic Development	C0013936
+3909	3920	GO:0032502	development	development	Biologic Development	C0678723
+3958	3970	GO:0007567	after birth.	parturition	Birth	C0005615
+4037	4077	GO:0007567	part of exon 5 of the murine dhcr7 gene,	parturition	Birth	C0005615
+4037	4077	GO:0000003	part of exon 5 of the murine dhcr7 gene,	reproduction	Reproduction	C0035150
+4192	4208	GO:0030324	lung development	lung development		C1160389
+4264	4283	GO:0007585	lethargic breathing	respiration	respiratory gaseous exchange in organisms	C1160636
+4651	4683	GO:0030324	developmental lung abnormalities	lung development		C1160389
+4840	4860	GO:0060438	tracheal development	trachea development		C2610588
+4963	4991	GO:0007567	until at the moment of birth	parturition	Birth	C0005615
+5020	5031	GO:0032502	development	development	Biologic Development	C0678723
+5036	5046	GO:0032502	maturation	development	Biologic Development	C0678723
+5069	5085	GO:0030324	lung development	lung development		C1160389
+5121	5159	GO:0001763	branching morphogenesis of epithelium,	morphogenesis of a branching structure		C1622374
+5173	5184	GO:0032502	development	development	Biologic Development	C0678723
+5195	5209	GO:0001570	vasculogenesis	vasculogenesis		C1123009
+5211	5236	GO:0030154	cellular differentiation,	cell differentiation	Cell Differentiation process	C0007589
+5237	5259	GO:0032502	biochemical maturation	development	Biologic Development	C0678723
+5273	5279	GO:0040007	growth	growth	Growth	C0018270
+5302	5318	GO:0030324	lung development	lung development		C1160389
+5593	5632	GO:0009790	diverse roles in embryonic development,	embryo development	Embryonic Development	C0013936
+5652	5696	GO:0032502	necessary for maturation of these morphogens	development	Biologic Development	C0678723
+5731	5748	GO:0007165	signaling cascade	signaling cascade		C2611812
+5790	5806	GO:0030324	lung development	lung development		C1160389
+5869	5917	GO:0001763	associated with loss of branching morphogenesis,	morphogenesis of a branching structure		C1622374
+5922	5985	GO:0060487	preserved proximal-to-distal differentiation of lung epithelium	lung epithelial cell differentiation		C2752711
+6200	6204	GO:0005623	cell	cell	Cells	C0007634
+6246	6282	GO:0007567	less than 24 h after birth, probably	parturition	Birth	C0005615
+6353	6377	GO:0006695	cholesterol biosynthesis	cholesterol biosynthesis		C0599474
+6415	6456	GO:0007224	led to a disturbance of the shh signaling	Sonic hedgehog signaling pathway		C3158056
+6457	6484	GO:0009790	with abnormal embryogenesis	embryo development	Embryonic Development	C0013936
+6599	6603	GO:0005623	cell	cell	Cells	C0007634
+6653	6689	GO:1990401	lung development in dhcr7-/- embryos	embryonic lung development		C3896163
+6690	6710	GO:0007567	from e10.5 to birth.	parturition	Birth	C0005615
+6807	6835	GO:0060441	lung branching morphogenesis	epithelial tube branching involved in lung morphogenesis		C2610591
+6843	6852	GO:0007565	gestation	gestation	Pregnancy	C0032961
+6888	6913	GO:0060430	lung saccular development	lung saccular development		C2610580
+6988	7017	GO:0001568	delayed vascular development.	blood vessel development		C1160250
+7018	7070	GO:0060510	differentiation of type ii alveolar epithelial cells	Type II pneumocyte differentiation		C2752736
+7018	7070	GO:0060510	differentiation of type ii alveolar epithelial cells	granular pneumocyte differentiation		C2752737
+7098	7128	GO:0030855	differentiation of type i aecs	epithelial cell differentiation		C1326057
+7214	7223	GO:0007565	gestation	gestation	Pregnancy	C0032961
+7281	7321	GO:0030855	with delayed type i aecs differentiation	epithelial cell differentiation		C1326057
+7326	7356	GO:0001568	immature vascular development.	blood vessel development		C1160250
+7475	7487	GO:0009405	pathogenesis	pathogenesis	Pathogenesis	C0699748
+7521	7541	GO:0009790	in dhcr7-/- embryos.	embryo development	Embryonic Development	C0013936
+7572	7589	GO:0007165	signaling cascade	signaling cascade		C2611812
+7572	7627	GO:0007224	patterns of expression of shh signaling cascade members	Shh signaling pathway		C3158055
+7665	7676	GO:0035264	body growth	body growth	Body growth	C0231256
+7713	7732	GO:0009790	in dhcr7-/- embryos	embryo development	Embryonic Development	C0013936
+7753	7790	GO:0007567	born in the expected mendelian ratios	parturition	Birth	C0005615
+7861	7886	GO:0007567	most within 14 h of birth	parturition	Birth	C0005615
+7893	7902	GO:0007567	at birth,	parturition	Birth	C0005615
+8113	8156	GO:0007585	the breathing frequency in p0 dhcr7-/- pups	respiration	respiratory gaseous exchange in organisms	C1160636
+8306	8319	GO:0007585	the breathing	respiration	respiratory gaseous exchange in organisms	C1160636
+8413	8422	GO:0007565	gestation	gestation	Pregnancy	C0032961
+8463	8470	GO:0009790	embryos	embryo development	Embryonic Development	C0013936
+8529	8538	GO:0007565	gestation	gestation	Pregnancy	C0032961
+8654	8672	GO:0009790	in control embryos	embryo development	Embryonic Development	C0013936
+8760	8780	GO:0009790	heterozygous embryos	embryo development	Embryonic Development	C0013936
+8823	8839	GO:0009790	knockout embryos	embryo development	Embryonic Development	C0013936
+8847	8895	GO:0035264	comparable body length growth until e14.5~e16.5,	body growth	Body growth	C0231256
+9118	9144	GO:0035264	body length growth curves.	body growth	Body growth	C0231256
+9145	9163	GO:0035264	body length growth	body growth	Body growth	C0231256
+9168	9177	GO:0007565	gestation	gestation	Pregnancy	C0032961
+9198	9213	GO:0009790	control embryos	embryo development	Embryonic Development	C0013936
+9247	9267	GO:0009790	heterozygous embryos	embryo development	Embryonic Development	C0013936
+9348	9364	GO:0009790	knockout embryos	embryo development	Embryonic Development	C0013936
+9401	9407	GO:0040007	growth	growth	Growth	C0018270
+9494	9514	GO:0009790	in dhcr7-/- embryos.	embryo development	Embryonic Development	C0013936
+9925	9956	GO:0009790	dhcr7-/- embryos at late stages	embryo development	Embryonic Development	C0013936
+10010	10021	GO:0032502	development	development	Biologic Development	C0678723
+10263	10297	GO:0009790	a representative figure of embryos	embryo development	Embryonic Development	C0013936
+10323	10331	GO:0007567	at birth	parturition	Birth	C0005615
+10386	10415	GO:0009790	lung weights of mouse embryos	embryo development	Embryonic Development	C0013936
+10496	10511	GO:0009790	embryonic size,	embryo development	Embryonic Development	C0013936
+10563	10574	GO:0032502	development	development	Biologic Development	C0678723
+10660	10677	GO:0009790	embryos at e10.5,	embryo development	Embryonic Development	C0013936
+10960	10974	GO:0007567	prior to birth	parturition	Birth	C0005615
+10996	11005	GO:0000917	septation	septation		C1748481
+11068	11089	GO:0035003	less distal sac space	subapical complex location		C1325744
+11068	11089	GO:0071173	less distal sac space	spindle assembly checkpoint		C2754376
+11438	11451	GO:0048513	organogenesis	organogenesis	Organogenesis	C0242290
+11569	11597	GO:0007601	seen on external examination	vision	Vision	C0042789
+11598	11606	GO:0007567	at birth	parturition	Birth	C0005615
+11721	11738	GO:0009790	knockout embryos.	embryo development	Embryonic Development	C0013936
+11823	11828	GO:0007567	birth	parturition	Birth	C0005615
+11914	11925	GO:0032502	development	development	Biologic Development	C0678723
+12118	12157	GO:0007567	observed at birth of the knockout pups,	parturition	Birth	C0005615
+12510	12537	GO:0009790	lungs from knockout embryos	embryo development	Embryonic Development	C0013936
+12692	12749	GO:0009058	normal progression with formation of sac-like structures,	anabolism	Anabolism	C0220781
+12814	12845	GO:0009790	in lungs from knockout embryos,	embryo development	Embryonic Development	C0013936
+13076	13117	GO:0035003	the proportion of terminal sac space area	subapical complex location		C1325744
+13076	13117	GO:0071173	the proportion of terminal sac space area	spindle assembly checkpoint		C2754376
+13273	13282	GO:0000917	septation	septation		C1748481
+13378	13399	GO:0007601	seen in dhcr7-/- pups	vision	Vision	C0042789
+13400	13409	GO:0007567	at birth.	parturition	Birth	C0005615
+13452	13480	GO:0009790	at various embryonic stages.	embryo development	Embryonic Development	C0013936
+13556	13565	GO:0007565	gestation	gestation	Pregnancy	C0032961
+13777	13784	GO:0009790	embryos	embryo development	Embryonic Development	C0013936
+13839	13847	GO:0009790	embryos.	embryo development	Embryonic Development	C0013936
+14058	14067	GO:0000917	septation	septation		C1748481
+14290	14301	GO:0003904	pre-alveoli	photoreactivating enzyme activity		C2257086
+14344	14348	GO:0007601	seen	vision	Vision	C0042789
+14353	14383	GO:0009790	sections from knockout embryos	embryo development	Embryonic Development	C0013936
+14419	14430	GO:0032502	development	development	Biologic Development	C0678723
+14454	14463	GO:0007567	at birth,	parturition	Birth	C0005615
+14506	14515	GO:0000917	septation	septation		C1748481
+14641	14652	GO:0003904	pre-alveoli	photoreactivating enzyme activity		C2257086
+14680	14726	GO:0035003	the morphometric analyses of lung terminal sac	subapical complex location		C1325744
+14680	14726	GO:0071173	the morphometric analyses of lung terminal sac	spindle assembly checkpoint		C2754376
+14754	14763	GO:0007565	gestation	gestation	Pregnancy	C0032961
+14774	14823	GO:0035003	a significant reduction in the terminal sac space	subapical complex location		C1325744
+14774	14823	GO:0071173	a significant reduction in the terminal sac space	spindle assembly checkpoint		C2754376
+14905	14923	GO:0008283	cell proliferation	cell proliferation	Cell Proliferation	C0596290
+14984	15008	GO:0006695	cholesterol biosynthesis	cholesterol biosynthesis		C0599474
+15034	15052	GO:0008283	cell proliferation	cell proliferation	Cell Proliferation	C0596290
+15065	15075	GO:0008219	cell death	cell death	Cell Death	C0007587
+15077	15095	GO:0008283	cell proliferation	cell proliferation	Cell Proliferation	C0596290
+15237	15246	GO:0007565	gestation	gestation	Pregnancy	C0032961
+15380	15426	GO:0009790	visualized in distal lungs of knockout embryos	embryo development	Embryonic Development	C0013936
+15435	15444	GO:0007565	gestation	gestation	Pregnancy	C0032961
+15643	15656	GO:0051301	cell division	cell division	Cell division	C0007590
+15864	15868	GO:0005623	cell	cell	Cells	C0007634
+15993	16002	GO:0007565	gestation	gestation	Pregnancy	C0032961
+16013	16040	GO:0051301	cell proliferation/division	cell division	Cell division	C0007590
+16045	16073	GO:0009790	impaired in knockout embryos	embryo development	Embryonic Development	C0013936
+16094	16104	GO:0008219	cell death	cell death	Cell Death	C0007587
+16135	16153	GO:0008283	cell proliferation	cell proliferation	Cell Proliferation	C0596290
+16155	16168	GO:0051301	cell division	cell division	Cell division	C0007590
+16173	16183	GO:0008219	cell death	cell death	Cell Death	C0007587
+16185	16203	GO:0008283	cell proliferation	cell proliferation	Cell Proliferation	C0596290
+16262	16275	GO:0051301	cell division	cell division	Cell division	C0007590
+16309	16319	GO:0008219	cell death	cell death	Cell Death	C0007587
+16411	16420	GO:0007565	gestation	gestation	Pregnancy	C0032961
+16458	16462	GO:0005623	cell	cell	Cells	C0007634
+16644	16648	GO:0005623	cell	cell	Cells	C0007634
+16825	16855	GO:0009790	attenuated in knockout embryos	embryo development	Embryonic Development	C0013936
+17163	17167	GO:0005623	cell	cell	Cells	C0007634
+17260	17264	GO:0005623	cell	cell	Cells	C0007634
+17756	17789	GO:0009790	in the lungs of wild type embryos	embryo development	Embryonic Development	C0013936
+17845	17899	GO:0009790	cholesterol content in the lungs of dhcr7 null embryos	embryo development	Embryonic Development	C0013936
+17960	17969	GO:0007565	gestation	gestation	Pregnancy	C0032961
+18114	18136	GO:0007567	total sterols at birth	parturition	Birth	C0005615
+18220	18223	GO:0007601	see	vision	Vision	C0042789
+18256	18291	GO:0009790	sterol analyses of embryonic lungs.	embryo development	Embryonic Development	C0013936
+18451	18459	GO:0009790	embryos.	embryo development	Embryonic Development	C0013936
+18780	18789	GO:0007565	gestation	gestation	Pregnancy	C0032961
+18818	18856	GO:0042446	required for steroid hormone synthesis	hormone biosynthetic process		C0596715
+19086	19116	GO:0030324	necessary for lung maturation,	lung development		C1160389
+19128	19141	GO:0009058	the synthesis	anabolism	Anabolism	C0220781
+19241	19262	GO:0007567	within 12 h of birth.	parturition	Birth	C0005615
+19914	19948	GO:0009790	dhcr7 null embryos at either e18.5	embryo development	Embryonic Development	C0013936
+19961	19970	GO:0007565	gestation	gestation	Pregnancy	C0032961
+20388	20396	GO:0009790	embryos.	embryo development	Embryonic Development	C0013936
+20652	20688	GO:0030154	normal type ii aecs differentiation.	cell differentiation	Cell Differentiation process	C0007589
+21100	21160	GO:0030855	abnormal differentiation of type i alveolar epithelial cells	epithelial cell differentiation		C1326057
+21179	21215	GO:0009790	the distal lung of wild type embryos	embryo development	Embryonic Development	C0013936
+21350	21389	GO:0009058	the formation of these typical saccules	anabolism	Anabolism	C0220781
+21538	21542	GO:0005623	cell	cell	Cells	C0007634
+21624	21681	GO:0030154	consistent with disruption of type i aecs differentiation	cell differentiation	Cell Differentiation process	C0007589
+21745	21753	GO:0016020	membrane	membrane	Membrane	C0596901
+22038	22057	GO:0007567	gene family member,	parturition	Birth	C0005615
+22038	22057	GO:0000003	gene family member,	reproduction	Reproduction	C0035150
+22061	22100	GO:0009790	expressed by embryonic epithelial cells	embryo development	Embryonic Development	C0013936
+22375	22403	GO:0009790	in knockout embryonic lungs,	embryo development	Embryonic Development	C0013936
+22461	22465	GO:0005623	cell	cell	Cells	C0007634
+22497	22535	GO:0030154	a delay in type i aecs differentiation	cell differentiation	Cell Differentiation process	C0007589
+22570	22618	GO:0030154	characterization of type i aecs differentiation.	cell differentiation	Cell Differentiation process	C0007589
+22741	22745	GO:0005623	cell	cell	Cells	C0007634
+22866	22870	GO:0005623	cell	cell	Cells	C0007634
+23007	23011	GO:0005623	cell	cell	Cells	C0007634
+23089	23093	GO:0005623	cell	cell	Cells	C0007634
+23342	23346	GO:0005623	cell	cell	Cells	C0007634
+23391	23395	GO:0005623	cell	cell	Cells	C0007634
+23512	23516	GO:0005623	cell	cell	Cells	C0007634
+23654	23658	GO:0005623	cell	cell	Cells	C0007634
+23671	23700	GO:0042571	stained by megalin antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+23770	23774	GO:0005623	cell	cell	Cells	C0007634
+23874	23920	GO:0001568	delayed vascular development in dhcr7-/- lungs	blood vessel development		C1160250
+23960	23984	GO:0001568	blood vessel development	blood vessel development		C1160250
+23989	24017	GO:0030324	lung structural development.	lung development		C1160389
+24027	24043	GO:0030324	lung development	lung development		C1160389
+24074	24085	GO:0032502	development	development	Biologic Development	C0678723
+24089	24149	GO:0009058	essential for the formation of mature alveolar gas-exchange,	anabolism	Anabolism	C0220781
+24251	24260	GO:0007565	gestation	gestation	Pregnancy	C0032961
+24438	24462	GO:0001568	blood vessel development	blood vessel development		C1160250
+24553	24566	GO:0007155	cell adhesion	cell adhesion	Cell Adhesion	C0007577
+24782	24835	GO:0030154	present in the terminally differentiated type i aecs,	cell differentiation	Cell Differentiation process	C0007589
+25196	25220	GO:0001568	the vascular development	blood vessel development		C1160250
+25396	25405	GO:0000917	septation	septation		C1748481
+25565	25586	GO:0009790	from dhcr7-/- embryos	embryo development	Embryonic Development	C0013936
+25700	25704	GO:0005623	cell	cell	Cells	C0007634
+25836	25840	GO:0005623	cell	cell	Cells	C0007634
+25906	25931	GO:0007155	pecam-1 staining at e20.5	cell adhesion	Cell Adhesion	C0007577
+25942	26012	GO:0001568	the delayed lung vascular development at these late gestational stages	blood vessel development		C1160250
+26013	26039	GO:0009790	in dhcr7 deficient embryos	embryo development	Embryonic Development	C0013936
+26224	26235	GO:0032502	development	development	Biologic Development	C0678723
+26849	26879	GO:0009790	from knockout embryos at e17.5	embryo development	Embryonic Development	C0013936
+26885	26914	GO:0009790	similar to wild-type embryos,	embryo development	Embryonic Development	C0013936
+27199	27203	GO:0005623	cell	cell	Cells	C0007634
+27270	27290	GO:0001568	vascular development	blood vessel development		C1160250
+27512	27516	GO:0005623	cell	cell	Cells	C0007634
+27653	27662	GO:0007165	signaling	signal transduction	Signal Transduction	C0037083
+27653	27662	GO:0023052	signaling	biological signaling		C3537152
+27663	27691	GO:0009790	altered in dhcr7-/- embryos?	embryo development	Embryonic Development	C0013936
+27700	27741	GO:0009790	critical for normal embryonic development	embryo development	Embryonic Development	C0013936
+27844	27897	GO:0007165	a necessary step for its regulated signaling function	signal transduction	Signal Transduction	C0037083
+27844	27897	GO:0023052	a necessary step for its regulated signaling function	biological signaling		C3537152
+27927	27951	GO:0006695	cholesterol biosynthesis	cholesterol biosynthesis		C0599474
+28029	28040	GO:0032502	development	development	Biologic Development	C0678723
+28233	28256	GO:0042571	shh-n peptide antibody.	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+28322	28326	GO:0005623	cell	cell	Cells	C0007634
+28552	28567	GO:0009790	control embryos	embryo development	Embryonic Development	C0013936
+28635	28644	GO:0007565	gestation	gestation	Pregnancy	C0032961
+28660	28668	GO:0007567	to birth	parturition	Birth	C0005615
+28915	28924	GO:0007565	gestation	gestation	Pregnancy	C0032961
+29021	29049	GO:0042571	an antibody to shh n-peptide	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+29061	29070	GO:0007565	gestation	gestation	Pregnancy	C0032961
+29239	29247	GO:0009790	embryos.	embryo development	Embryonic Development	C0013936
+29430	29434	GO:0005623	cell	cell	Cells	C0007634
+29540	29544	GO:0005623	cell	cell	Cells	C0007634
+29656	29660	GO:0005623	cell	cell	Cells	C0007634
+29676	29708	GO:0007610	mainly in the conducting airways	behavior	Behavior	C0004927
+29844	29853	GO:0007565	gestation	gestation	Pregnancy	C0032961
+30005	30022	GO:0009790	knockout embryos.	embryo development	Embryonic Development	C0013936
+30057	30061	GO:0005623	cell	cell	Cells	C0007634
+30233	30264	GO:0007224	shh signaling in these embryos,	Shh signaling pathway		C3158055
+30383	30410	GO:0007224	regulated by shh signaling.	Shh signaling pathway		C3158055
+30462	30471	GO:0007565	gestation	gestation	Pregnancy	C0032961
+30531	30547	GO:0009790	knockout embryos	embryo development	Embryonic Development	C0013936
+30687	30691	GO:0005623	cell	cell	Cells	C0007634
+30731	30748	GO:0007165	signaling cascade	signaling cascade		C2611812
+30831	30846	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+30847	30876	GO:0007224	in response to shh signaling.	Shh signaling pathway		C3158055
+31085	31094	GO:0007565	gestation	gestation	Pregnancy	C0032961
+31302	31315	GO:0007601	seen with shh	vision	Vision	C0042789
+31404	31411	GO:0009790	embryos	embryo development	Embryonic Development	C0013936
+31457	31499	GO:0043687	shh protein processing in dhcr7-/- embryos	post-translational protein modification	Post-Translational Protein Processing	C0033666
+31534	31570	GO:0007224	some of the shh signaling components	Shh signaling pathway		C3158055
+31586	31613	GO:0009790	normal in dhcr7-/- embryos,	embryo development	Embryonic Development	C0013936
+31739	31743	GO:0005623	cell	cell	Cells	C0007634
+32155	32159	GO:0005623	cell	cell	Cells	C0007634
+32328	32346	GO:0030258	lipid modification	lipid modification		C1158406
+32429	32455	GO:0009790	dhcr7-/- embryos at e11.5,	embryo development	Embryonic Development	C0013936
+32456	32462	GO:0031672	A band	A band		C0230715
+32749	32769	GO:0009790	in knockout embryos.	embryo development	Embryonic Development	C0013936
+32872	32898	GO:0009790	from the knockout embryos,	embryo development	Embryonic Development	C0013936
+32963	33007	GO:0009790	shh protein autoprocessing in mouse embryos.	embryo development	Embryonic Development	C0013936
+33108	33125	GO:0009790	embryos at e11.5,	embryo development	Embryonic Development	C0013936
+33134	33138	GO:0005623	cell	cell	Cells	C0007634
+33195	33231	GO:0042571	probed with anti-shh-n19 antibodies.	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+33285	33289	GO:0005623	cell	cell	Cells	C0007634
+33295	33315	GO:0009790	75 mu g from embryos	embryo development	Embryonic Development	C0013936
+33500	33504	GO:0005623	cell	cell	Cells	C0007634
+33564	33568	GO:0005623	cell	cell	Cells	C0007634
+33580	33641	GO:0043687	represented shh-n proteins with different lipid modifications	post-translational protein modification	Post-Translational Protein Processing	C0033666
+33580	33641	GO:0006464	represented shh-n proteins with different lipid modifications	protein modification process		C2263112
+33580	33641	GO:0036211	represented shh-n proteins with different lipid modifications	protein modification process		C2263112
+33753	33764	GO:0009790	the embryos	embryo development	Embryonic Development	C0013936
+33892	33928	GO:0009790	from knockout embryos at this stage.	embryo development	Embryonic Development	C0013936
+34017	34041	GO:0006695	cholesterol biosynthesis	cholesterol biosynthesis		C0599474
+34055	34098	GO:0009790	our understanding of embryonic development.	embryo development	Embryonic Development	C0013936
+34118	34187	GO:0009790	led to the identification of other disorders of embryonic development	embryo development	Embryonic Development	C0013936
+34208	34216	GO:0007567	in genes	parturition	Birth	C0005615
+34208	34216	GO:0000003	in genes	reproduction	Reproduction	C0035150
+34270	34294	GO:0006695	cholesterol biosynthesis	cholesterol biosynthesis		C0599474
+34305	34326	GO:0007567	these genetic studies	parturition	Birth	C0005615
+34305	34326	GO:0000003	these genetic studies	reproduction	Reproduction	C0035150
+34341	34383	GO:0006695	the need for normal cholesterol synthesis,	cholesterol biosynthesis		C0599474
+34423	34454	GO:0009790	in normal embryonic development	embryo development	Embryonic Development	C0013936
+34537	34553	GO:0030324	lung development	lung development		C1160389
+34554	34574	GO:0009790	in dhcr7-/- embryos.	embryo development	Embryonic Development	C0013936
+34735	34771	GO:1990401	lung development in dhcr7-/- embryos	embryonic lung development		C3896163
+34793	34838	GO:0060431	from lung bud formation to canalicular stage,	primary lung bud formation		C2610581
+35023	35042	GO:0035003	terminal sac space,	subapical complex location		C1325744
+35023	35042	GO:0071173	terminal sac space,	spindle assembly checkpoint		C2754376
+35043	35078	GO:0030154	delayed type i aecs differentiation	cell differentiation	Cell Differentiation process	C0007589
+35083	35112	GO:0001568	delayed vascular development,	blood vessel development		C1160250
+35147	35156	GO:0007565	gestation	gestation	Pregnancy	C0032961
+35166	35186	GO:0009790	in dhcr7-/- embryos.	embryo development	Embryonic Development	C0013936
+35218	35229	GO:0032502	development	development	Biologic Development	C0678723
+35275	35342	GO:0030154	an abrupt differentiation as a part of the preparation of the lungs	cell differentiation	Cell Differentiation process	C0007589
+35493	35527	GO:0032502	important for alveolar maturation.	development	Biologic Development	C0678723
+35541	35576	GO:0001568	the vascular development of alveoli	blood vessel development		C1160250
+35606	35624	GO:0060425	lung morphogenesis	lung morphogenesis		C2610574
+35633	35642	GO:0007565	gestation	gestation	Pregnancy	C0032961
+35676	35710	GO:0030154	the differentiation of type i aecs	cell differentiation	Cell Differentiation process	C0007589
+35813	35817	GO:0005623	cell	cell	Cells	C0007634
+35890	35918	GO:0001568	delayed vascular development	blood vessel development		C1160250
+36075	36128	GO:0030154	in support of normal differentiation of type ii aecs,	cell differentiation	Cell Differentiation process	C0007589
+36129	36174	GO:0010468	no alteration in the gene expression patterns	regulation of gene expression	Gene Expression Regulation	C0017263
+36284	36306	GO:0009790	from knockout embryos.	embryo development	Embryonic Development	C0013936
+36502	36508	GO:0040007	growth	growth	Growth	C0018270
+36710	36716	GO:0040007	growth	growth	Growth	C0018270
+36914	36923	GO:0007565	gestation	gestation	Pregnancy	C0032961
+37070	37079	GO:0007565	gestation	gestation	Pregnancy	C0032961
+37094	37125	GO:0009790	also lower in dhcr7-/- embryos.	embryo development	Embryonic Development	C0013936
+37105	37124	GO:0009790	in dhcr7-/- embryos	embryo development	Embryonic Development	C0013936
+37229	37273	GO:0045926	a disproportionate inhibition of lung growth	inhibition of growth		C2249823
+37293	37311	GO:0008283	cell proliferation	cell proliferation	Cell Proliferation	C0596290
+37395	37399	GO:0005623	cell	cell	Cells	C0007634
+37438	37444	GO:0040007	growth	growth	Growth	C0018270
+37518	37543	GO:0030308	inhibition of cell growth	inhibition of cell growth		C2244509
+37590	37600	GO:0008219	cell death	cell death	Cell Death	C0007587
+37618	37646	GO:0009790	present in dhcr7-/- embryos,	embryo development	Embryonic Development	C0013936
+37638	37645	GO:0009790	embryos	embryo development	Embryonic Development	C0013936
+37751	37790	GO:0009790	cholesterol in dhcr7-/- embryonic lungs	embryo development	Embryonic Development	C0013936
+38094	38130	GO:0009790	accrued from extra-embryonic tissues	embryo development	Embryonic Development	C0013936
+38169	38173	GO:0060417	yolk	yolk		C2610566
+38444	38493	GO:0009790	cholesterol content in dhcr24 null embryo tissues	embryo development	Embryonic Development	C0013936
+38990	39014	GO:0006695	cholesterol biosynthesis	cholesterol biosynthesis		C0599474
+39015	39054	GO:0009790	leads to abnormal embryonic development	embryo development	Embryonic Development	C0013936
+39110	39129	GO:0007224	that shh signaling,	Shh signaling pathway		C3158055
+39148	39159	GO:0032502	development	development	Biologic Development	C0678723
+39273	39297	GO:0001763	branching morphogenesis,	morphogenesis of a branching structure		C1622374
+39364	39391	GO:0032940	secreted by the epithelium,	secretion by cell	Cell secretion	C1327616
+39395	39432	GO:0001763	critical for branching morphogenesis.	morphogenesis of a branching structure		C1622374
+39448	39509	GO:0060441	the lack of evidence of abnormal lung branching morphogenesis	epithelial tube branching involved in lung morphogenesis		C2610591
+39535	39605	GO:0030324	a consistent delayed maturation of the gas-exchange region of the lung	lung development		C1160389
+39606	39663	GO:0009790	in the saccular period of development of dhcr7-/- embryos	embryo development	Embryonic Development	C0013936
+39689	39708	GO:0007224	early shh signaling	Shh signaling pathway		C3158055
+39816	39833	GO:0009790	dhcr7-/- embryos.	embryo development	Embryonic Development	C0013936
+40043	40062	GO:0009790	in dhcr7-/- embryos	embryo development	Embryonic Development	C0013936
+40120	40161	GO:0009790	accumulated in dhcr7-/- embryonic tissues	embryo development	Embryonic Development	C0013936
+40287	40308	GO:0007224	Shh signaling pathway	Shh signaling pathway		C3158055
+40420	40433	GO:0007224	shh signaling	Shh signaling pathway		C3158055
+40461	40474	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+40536	40549	GO:0007224	shh signaling	Shh signaling pathway		C3158055
+40555	40585	GO:0009790	defective in dhcr7-/- embryos,	embryo development	Embryonic Development	C0013936
+40778	40818	GO:0009790	indistinguishable from wild-type embryos	embryo development	Embryonic Development	C0013936
+40836	40852	GO:0030324	lung development	lung development		C1160389
+40897	40954	GO:0009790	mouse embryonic fibroblasts (mefs) from dhcr7-/- embryos,	embryo development	Embryonic Development	C0013936
+41157	41172	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+41214	41218	GO:0005623	cell	cell	Cells	C0007634
+41389	41434	GO:0009790	unprocessed shh in dhcr7-/- embryonic tissues	embryo development	Embryonic Development	C0013936
+41445	41490	GO:0007224	subtle differences in shh signal transduction	Shh signaling pathway		C3158055
+41586	41610	GO:0006695	cholesterol biosynthesis	cholesterol biosynthesis		C0599474
+41690	41705	GO:0005886	plasma membrane	plasma membrane	Plasma membrane	C0007603
+41759	41774	GO:0005886	plasma membrane	plasma membrane	Plasma membrane	C0007603
+41792	41800	GO:0016020	membrane	membrane	Membrane	C0596901
+41847	41870	GO:0002524	more sensitive to this,	hypersensitivity	Hypersensitivity	C0020517
+41871	41907	GO:0006695	loss of normal cholesterol synthesis	cholesterol biosynthesis		C0599474
+41928	41947	GO:0007165	signal transduction	signal transduction	Signal Transduction	C0037083
+42237	42312	GO:0060479	a distinct lung saccular hypoplasia with impaired differentiation of type i	lung cell differentiation		C2752703
+42346	42378	GO:0001568	associated vascular development.	blood vessel development		C1160250
+42429	42437	GO:0016020	membrane	membrane	Membrane	C0596901
+42510	42529	GO:0007165	signal transduction	signal transduction	Signal Transduction	C0037083
+42562	42575	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+42582	42601	GO:0007165	signal transduction	signal transduction	Signal Transduction	C0037083
+42777	42802	GO:0009790	in embryonic development.	embryo development	Embryonic Development	C0013936
+43155	43182	GO:0009790	considered as embryonic day	embryo development	Embryonic Development	C0013936
+43232	43239	GO:0009790	embryos	embryo development	Embryonic Development	C0013936
+43287	43320	GO:0009790	crown-rump lengths of the embryos	embryo development	Embryonic Development	C0013936
+43313	43320	GO:0009790	embryos	embryo development	Embryonic Development	C0013936
+43559	43564	GO:0007567	birth	parturition	Birth	C0005615
+43583	43609	GO:0007585	their breathing activities	respiration	respiratory gaseous exchange in organisms	C1160636
+43652	43677	GO:0009790	digital images of embryos	embryo development	Embryonic Development	C0013936
+44185	44214	GO:0019013	(drtc hormone assay core lab,	nucleocapsid	viral nucleocapsid location	C1167518
+44280	44307	GO:0009790	thoracic parts from embryos	embryo development	Embryonic Development	C0013936
+44379	44390	GO:1902698	acetic acid	acidogenesis		C3823112
+44379	44390	GO:1902705	acetic acid	acidogenesis		C3823112
+44379	44390	GO:1902706	acetic acid	acidogenesis		C3823112
+44379	44390	GO:1902699	acetic acid	acidogenesis		C3823112
+45195	45220	GO:0042571	incubated with antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+45502	45513	GO:0032502	development	development	Biologic Development	C0678723
+45639	45687	GO:0042571	incubated with biotinylated secondary antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+45856	45892	GO:0005020	diaminobenzidine (dab) substrate kit	stem cell factor receptor activity		C1150635
+46485	46503	GO:0008283	cell proliferation	cell proliferation	Cell Proliferation	C0596290
+46531	46549	GO:0008283	cell proliferation	cell proliferation	Cell Proliferation	C0596290
+46594	46598	GO:0005623	cell	cell	Cells	C0007634
+46708	46716	GO:0005623	the pcna	cell	Cells	C0007634
+46749	46759	GO:0042571	antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+46900	46903	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+46973	46980	GO:0009790	embryos	embryo development	Embryonic Development	C0013936
+47050	47094	GO:0042571	stained with a monoclonal anti-brdu antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+47103	47114	GO:0032502	development	development	Biologic Development	C0678723
+47160	47219	GO:0000746	visualized with a cy2-conjugated rabbit anti-mouse antibody	conjugation		C1160466
+47264	47274	GO:0008219	cell death	cell death	Cell Death	C0007587
+47402	47412	GO:0008219	cell death	cell death	Cell Death	C0007587
+47641	47669	GO:0009790	3 embryos from each genotype	embryo development	Embryonic Development	C0013936
+47683	47719	GO:0019835	homogenized in ice cold lysis buffer	cytolysis	pathologic cytolysis	C1536403
+47808	47811	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+48184	48188	GO:0005623	cell	cell	Cells	C0007634
+48364	48404	GO:0043687	without post-translational modifications	post-translational protein modification	Post-Translational Protein Processing	C0033666
+48667	48692	GO:1990116	bio-rad protein assay kit	ribosome-associated ubiquitin-dependent protein catabolic process		C3811628
+48723	48726	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+48733	48737	GO:0005623	cell	cell	Cells	C0007634
+48747	48750	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+48751	48759	GO:0009790	(embryos	embryo development	Embryonic Development	C0013936
+48832	48840	GO:0016020	membrane	membrane	Membrane	C0596901
+48842	48873	GO:0042571	incubated with primary antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+48904	48952	GO:0042571	followed by donkey anti-goat hrp second antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+49188	49191	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+49483	49516	GO:0007600	(sense 5'-tgcctggtcgtgatggacg-3',	sensory perception	Esthesia	C0036658

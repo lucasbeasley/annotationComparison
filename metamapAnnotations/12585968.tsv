@@ -1,0 +1,361 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+50	59	GO:0051235	retention	retention	cellular entity retention	C1753315
+157	177	GO:0009289	immature hair cells,	pilus	Bacterial Fimbria	C0031921
+238	247	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+238	247	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+261	299	GO:0060117	this partial development of hair cells	auditory receptor cell development		C2262876
+306	344	GO:0043121	lead to enough neurotrophin expression	neurotrophin binding		C1323315
+356	402	GO:0007600	sensory neurons through embryonic development.	sensory perception	Esthesia	C0036658
+467	478	GO:0060384	innervation	innervation	innervation aspect	C1619351
+479	520	GO:0043121	and of expression of known neurotrophins.	neurotrophin binding		C1323315
+531	539	GO:0007567	at birth	parturition	Birth	C0005615
+582	618	GO:0007600	nt-3 in the mutant sensory epithelia	sensory perception	Esthesia	C0036658
+704	732	GO:0043121	neurotrophin null mutations.	neurotrophin binding		C1323315
+762	773	GO:0060384	innervation	innervation	innervation aspect	C1619351
+833	879	GO:0070451	1% of myosin viia-positive immature hair cells	cell hair		C2678510
+941	974	GO:0070451	around 20% of immature hair cells	cell hair		C2678510
+975	1024	GO:0007600	exist in the mutant vestibular sensory epithelia.	sensory perception	Esthesia	C0036658
+1025	1063	GO:0070451	despite more severe loss of hair cells	cell hair		C2678510
+1106	1131	GO:0007600	many more sensory neurons	sensory perception	Esthesia	C0036658
+1216	1263	GO:0007600	some fibers to all vestibular sensory epithelia	sensory perception	Esthesia	C0036658
+1268	1298	GO:0097683	many more to the cochlear apex	dinoflagellate apex		C3890171
+1311	1339	GO:0009289	myoviia positive hair cells.	pilus	Bacterial Fimbria	C0031921
+1428	1454	GO:0009289	that functional hair cells	pilus	Bacterial Fimbria	C0031921
+1516	1555	GO:0043121	the limited expression of neurotrophins	neurotrophin binding		C1323315
+1610	1631	GO:0007600	many sensory neurons,	sensory perception	Esthesia	C0036658
+1667	1673	GO:0007567	birth.	parturition	Birth	C0005615
+1674	1745	GO:0043524	the molecular nature of the long term survival of apical spiral neurons	neuron survival		C1819944
+1774	1789	GO:0043583	ear development	ear development		C1656421
+1807	1818	GO:0009289	hair cells,	pilus	Bacterial Fimbria	C0031921
+1832	1843	GO:0060384	innervation	innervation	innervation aspect	C1619351
+1858	1869	GO:0060384	innervation	innervation	innervation aspect	C1619351
+1920	1964	GO:0060119	crucial for inner ear hair cell development.	inner ear receptor cell development		C2262878
+1998	2018	GO:0032502	no mature hair cells	development	Biologic Development	C0678723
+2062	2088	GO:0009289	some 'immature' hair cells	pilus	Bacterial Fimbria	C0031921
+2128	2132	GO:0005623	cell	cell	Cells	C0007634
+2218	2265	GO:0070451	these immature hair cells of brn3c null mutants	cell hair		C2678510
+2274	2283	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+2274	2283	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+2301	2358	GO:0032502	consistent with an apparent absence of mature hair cells,	development	Biologic Development	C0678723
+2427	2431	GO:0005623	cell	cell	Cells	C0007634
+2789	2800	GO:0060384	innervation	innervation	innervation aspect	C1619351
+2837	2848	GO:0032502	development	development	Biologic Development	C0678723
+2853	2890	GO:0035315	partial differentiation of hair cells	hair cell differentiation		C1622762
+2923	2959	GO:0043121	lead to some neurotrophin expression	neurotrophin binding		C1323315
+2969	2973	GO:0005623	cell	cell	Cells	C0007634
+2986	3031	GO:0007600	sensory neurons through embryonic development	sensory perception	Esthesia	C0036658
+3071	3105	GO:0043121	compound neurotrophin null mutants	neurotrophin binding		C1323315
+3122	3157	GO:0043121	the loss of a specific neurotrophin	neurotrophin binding		C1323315
+3164	3215	GO:0007600	to topologically restricted loss of sensory neurons	sensory perception	Esthesia	C0036658
+3216	3236	GO:0009790	in the embryonic ear	embryo development	Embryonic Development	C0013936
+3311	3347	GO:0043121	reduction of a specific neurotrophin	neurotrophin binding		C1323315
+3348	3371	GO:0009289	in immature hair cells.	pilus	Bacterial Fimbria	C0031921
+3400	3420	GO:0009790	that in embryos nt-3	embryo development	Embryonic Development	C0013936
+3458	3462	GO:0005623	cell	cell	Cells	C0007634
+3472	3489	GO:0007567	only around birth	parturition	Birth	C0005615
+3490	3505	GO:0009289	into hair cells	pilus	Bacterial Fimbria	C0031921
+3558	3594	GO:0007600	compared to cochlear sensory neurons	sensory perception	Esthesia	C0036658
+3737	3777	GO:0030154	some differentiation of supporting cells	cell differentiation	Cell Differentiation process	C0007589
+3830	3845	GO:0043121	] neurotrophins	neurotrophin binding		C1323315
+3991	4002	GO:0060384	innervation	innervation	innervation aspect	C1619351
+4089	4155	GO:0007600	a possible correlation between the topology of sensory neuron loss	sensory perception	Esthesia	C0036658
+4160	4194	GO:0043121	absence of a specific neurotrophin	neurotrophin binding		C1323315
+4198	4228	GO:0070451	topological loss of hair cells	cell hair		C2678510
+4229	4237	GO:0007567	at birth	parturition	Birth	C0005615
+4345	4372	GO:0007567	related to the pou4f3 gene,	parturition	Birth	C0005615
+4345	4372	GO:0000003	related to the pou4f3 gene,	reproduction	Reproduction	C0035150
+4412	4421	GO:0051235	retention	retention	cellular entity retention	C1753315
+4473	4508	GO:0097683	in particular in the cochlear apex,	dinoflagellate apex		C3890171
+4541	4550	GO:0051235	retention	retention	cellular entity retention	C1753315
+4594	4619	GO:0035315	hair cell differentiation	hair cell differentiation		C1622762
+4623	4651	GO:0009289	not even immature hair cells	pilus	Bacterial Fimbria	C0031921
+4760	4769	GO:0051235	retention	retention	cellular entity retention	C1753315
+4798	4837	GO:0043121	also largely unrelated to neurotrophins	neurotrophin binding		C1323315
+5008	5019	GO:0060384	innervation	innervation	innervation aspect	C1619351
+5070	5098	GO:0007567	nt-3 null mutations at birth	parturition	Birth	C0005615
+5161	5172	GO:0060384	innervation	innervation	innervation aspect	C1619351
+5219	5230	GO:0060384	innervation	innervation	innervation aspect	C1619351
+5384	5455	GO:0009058	in the basal turn with formation of an inner spiral bundle of afferents	anabolism	Anabolism	C0220781
+5554	5606	GO:0032902	severe compromised production of these neurotrophins	nerve growth factor production		C2246239
+5657	5668	GO:0043005	nerve fiber	nerve fiber	Nerve Fibers	C0027749
+5676	5703	GO:0007567	brn3c null mutants at birth	parturition	Birth	C0005615
+6026	6072	GO:0007600	a loss of 80-85% of vestibular sensory neurons	sensory perception	Esthesia	C0036658
+6108	6148	GO:0007600	and of 77% of vestibular sensory neurons	sensory perception	Esthesia	C0036658
+6185	6238	GO:0007600	the size reduction in the vestibular sensory ganglion	sensory perception	Esthesia	C0036658
+6290	6317	GO:0009289	in the immature hair cells.	pilus	Bacterial Fimbria	C0031921
+6650	6664	GO:0007567	; genic. ggl.,	parturition	Birth	C0005615
+6650	6664	GO:0000003	; genic. ggl.,	reproduction	Reproduction	C0035150
+6684	6690	GO:0005791	; ger,	rough endoplasmic reticulum	Rough endoplasmic reticulum	C0230779
+6745	6765	GO:0009289	vestibular hair cell	pilus	Bacterial Fimbria	C0031921
+6772	6787	GO:0009289	inner hair cell	pilus	Bacterial Fimbria	C0031921
+6794	6812	GO:0009289	immature hair cell	pilus	Bacterial Fimbria	C0031921
+6856	6871	GO:0009289	outer hair cell	pilus	Bacterial Fimbria	C0031921
+6942	6950	GO:0016020	membrane	membrane	Membrane	C0596901
+6969	6993	GO:0005634	ventral cochlear nucleus	cell nucleus	Cell Nucleus	C0007610
+7121	7173	GO:0007600	efferent fibers to all vestibular sensory epithelia.	sensory perception	Esthesia	C0036658
+7229	7240	GO:0060384	innervation	innervation	innervation aspect	C1619351
+7374	7426	GO:0007600	rather uniform throughout a given sensory epithelium	sensory perception	Esthesia	C0036658
+7443	7454	GO:0060384	innervation	innervation	innervation aspect	C1619351
+7500	7511	GO:0060384	innervation	innervation	innervation aspect	C1619351
+7690	7701	GO:0060384	innervation	innervation	innervation aspect	C1619351
+7782	7793	GO:0060384	innervation	innervation	innervation aspect	C1619351
+8207	8230	GO:0009289	to the outer hair cells	pilus	Bacterial Fimbria	C0031921
+8462	8498	GO:0007600	a 29% loss of spiral sensory neurons	sensory perception	Esthesia	C0036658
+8556	8567	GO:0060384	innervation	innervation	innervation aspect	C1619351
+8773	8784	GO:0060384	innervation	innervation	innervation aspect	C1619351
+8861	8872	GO:0060384	innervation	innervation	innervation aspect	C1619351
+8952	8973	GO:0097683	expressed in the apex	dinoflagellate apex		C3890171
+9016	9027	GO:0060384	innervation	innervation	innervation aspect	C1619351
+9120	9167	GO:0043121	as afferent fibers in neurotrophin null mutants	neurotrophin binding		C1323315
+9198	9224	GO:0007600	the spiral sensory neurons	sensory perception	Esthesia	C0036658
+9390	9402	GO:0097683	in the apex,	dinoflagellate apex		C3890171
+9501	9551	GO:0043121	recognized in any single neurotrophin null mutant.	neurotrophin binding		C1323315
+9578	9602	GO:0070451	rows of outer hair cells	cell hair		C2678510
+9708	9740	GO:0070451	disorganized to outer hair cells	cell hair		C2678510
+9883	9918	GO:0070451	rows in the outer hair cell region.	cell hair		C2678510
+9938	9991	GO:0043711	that fiber organization in the outer hair cell region	pilus organization		C2248609
+10087	10098	GO:0060384	innervation	innervation	innervation aspect	C1619351
+10279	10290	GO:0060384	innervation	innervation	innervation aspect	C1619351
+10437	10448	GO:0060384	innervation	innervation	innervation aspect	C1619351
+10496	10507	GO:0060384	innervation	innervation	innervation aspect	C1619351
+10553	10585	GO:0007600	all vestibular sensory epithelia	sensory perception	Esthesia	C0036658
+10628	10639	GO:0060384	innervation	innervation	innervation aspect	C1619351
+10921	10965	GO:0070451	along outer hair cells of mutant littermates	cell hair		C2678510
+10974	10982	GO:0097683	the apex	dinoflagellate apex		C3890171
+11037	11068	GO:0070451	to the area of outer hair cells	cell hair		C2678510
+11073	11110	GO:0009058	the formation of inner spiral bundles	anabolism	Anabolism	C0220781
+11111	11152	GO:0070451	passing along the few immature hair cells	cell hair		C2678510
+11401	11412	GO:0060384	innervation	innervation	innervation aspect	C1619351
+11437	11461	GO:0070451	rows of outer hair cells	cell hair		C2678510
+11501	11512	GO:0060384	innervation	innervation	innervation aspect	C1619351
+11578	11614	GO:0070451	extend to the outer hair cell region	cell hair		C2678510
+11689	11700	GO:0060384	innervation	innervation	innervation aspect	C1619351
+11834	11842	GO:0097683	the apex	dinoflagellate apex		C3890171
+11958	11998	GO:0070451	sparingly to the outer hair cell region.	cell hair		C2678510
+12008	12057	GO:0009058	formation of an inner spiral bundle communicating	anabolism	Anabolism	C0220781
+12254	12265	GO:0060384	innervation	innervation	innervation aspect	C1619351
+12520	12560	GO:0070451	a few immature hair cells in the cochlea	cell hair		C2678510
+12613	12640	GO:0009289	a single immature hair cell	pilus	Bacterial Fimbria	C0031921
+12641	12674	GO:0097683	forms in the apex of the cochlea.	dinoflagellate apex		C3890171
+12688	12712	GO:0009289	more immature hair cells	pilus	Bacterial Fimbria	C0031921
+12717	12764	GO:0070451	found in the appropriate position of hair cells	cell hair		C2678510
+12844	12935	GO:0070451	no overt morphological defect other than the reduced presence of these immature hair cells.	cell hair		C2678510
+12936	12947	GO:0043005	nerve fiber	nerve fiber	Nerve Fibers	C0027749
+12956	12996	GO:0007600	traced into the sensory epithelium of p0	sensory perception	Esthesia	C0036658
+13064	13107	GO:0007600	a normal location of spiral sensory neurons	sensory perception	Esthesia	C0036658
+13108	13165	GO:0097683	in rosenthal's canal in the apex of p8 brn3c null mutants	dinoflagellate apex		C3890171
+13340	13371	GO:0070451	the lack of immature hair cells	cell hair		C2678510
+13393	13422	GO:0044249	the formation of pillar cells	cellular biosynthetic process		C1523936
+13493	13497	GO:0005623	cell	cell	Cells	C0007634
+13596	13628	GO:0009289	on the interaction of hair cells	pilus	Bacterial Fimbria	C0031921
+13644	13648	GO:0005623	cell	cell	Cells	C0007634
+13670	13700	GO:0070451	the distribution of hair cells	cell hair		C2678510
+13802	13847	GO:0030154	the appearance of cytological differentiation	cell differentiation	Cell Differentiation process	C0007589
+13992	14044	GO:0042571	the uniform staining with this antibody of all three	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+14045	14069	GO:0070451	rows of outer hair cells	cell hair		C2678510
+14080	14114	GO:0070451	the single row of inner hair cells	cell hair		C2678510
+14157	14185	GO:0009289	only few immature hair cells	pilus	Bacterial Fimbria	C0031921
+14272	14276	GO:0005623	cell	cell	Cells	C0007634
+14326	14364	GO:0009289	no myovii positive immature hair cells	pilus	Bacterial Fimbria	C0031921
+14365	14383	GO:0097683	exist in the apex.	dinoflagellate apex		C3890171
+14398	14441	GO:0035315	the degree of differentiation of hair cells	hair cell differentiation		C1622762
+14621	14656	GO:0070451	outer hair cells in the p7 wildtype	cell hair		C2678510
+14803	14811	GO:0016020	membrane	membrane	Membrane	C0596901
+14846	14882	GO:0030154	little cyotological differentiation.	cell differentiation	Cell Differentiation process	C0007589
+14947	14951	GO:0005623	cell	cell	Cells	C0007634
+15011	15032	GO:0070451	numbers of hair cells	cell hair		C2678510
+15037	15067	GO:0007600	sensory neurons in p7 wildtype	sensory perception	Esthesia	C0036658
+15168	15212	GO:0070451	comparison of numbers of immature hair cells	cell hair		C2678510
+15304	15328	GO:0007600	cochlear sensory neurons	sensory perception	Esthesia	C0036658
+15383	15416	GO:0009289	a few undifferentiated hair cells	pilus	Bacterial Fimbria	C0031921
+15461	15501	GO:0033774	only in the basal region of the cochlea.	basal labyrinth		C2247248
+15506	15552	GO:0007600	yet only about 50% of cochlear sensory neurons	sensory perception	Esthesia	C0036658
+15594	15614	GO:0097683	in the apex in which	dinoflagellate apex		C3890171
+15635	15692	GO:0070451	any immature hair cells with myoviia immunocytochemistry.	cell hair		C2678510
+15731	15771	GO:0030154	that even less differentiated hair cells	cell differentiation	Cell Differentiation process	C0007589
+15776	15793	GO:0097683	form in the apex.	dinoflagellate apex		C3890171
+15822	15854	GO:0007600	the reduction in sensory neurons	sensory perception	Esthesia	C0036658
+15861	15878	GO:0070451	and in hair cells	cell hair		C2678510
+15981	16016	GO:0009289	in the cochlear immature hair cells	pilus	Bacterial Fimbria	C0031921
+16034	16056	GO:0007600	spiral sensory neurons	sensory perception	Esthesia	C0036658
+16106	16129	GO:0009289	20% immature hair cells	pilus	Bacterial Fimbria	C0031921
+16139	16181	GO:0007600	identified in vestibular sensory epithelia	sensory perception	Esthesia	C0036658
+16226	16275	GO:0007600	only around 15% of the vestibular sensory neurons	sensory perception	Esthesia	C0036658
+16331	16334	GO:0007601	see	vision	Vision	C0042789
+16390	16419	GO:0005634	fibers to the cochlear nuclei	cell nucleus	Cell Nucleus	C0007610
+16595	16623	GO:0005634	the ventral cochlear nucleus	cell nucleus	Cell Nucleus	C0007610
+16760	16801	GO:0005634	the central projection to cochlear nuclei	cell nucleus	Cell Nucleus	C0007610
+16883	16919	GO:0009289	other hair cell-mediated influences,	pilus	Bacterial Fimbria	C0031921
+17160	17220	GO:0043005	the fibers run in discrete bundles inside the cochlear nerve	nerve fiber	Nerve Fibers	C0027749
+17300	17349	GO:0000280	lateral divisions of the ventral cochlear nucleus	nuclear division		C1155789
+17441	17495	GO:0007165	signaling from the immature hair cells of the cochlea.	signal transduction	Signal Transduction	C0037083
+17769	17780	GO:0060384	innervation	innervation	innervation aspect	C1619351
+17857	17911	GO:0007600	extending from the very few vestibular sensory neurons	sensory perception	Esthesia	C0036658
+18220	18224	GO:0005623	cell	cell	Cells	C0007634
+18329	18333	GO:0005623	cell	cell	Cells	C0007634
+18356	18389	GO:0070451	identified as immature hair cells	cell hair		C2678510
+18432	18443	GO:0060384	innervation	innervation	innervation aspect	C1619351
+18582	18614	GO:0007600	to vestibular sensory epithelia,	sensory perception	Esthesia	C0036658
+18633	18664	GO:0007600	traced to all sensory epithelia	sensory perception	Esthesia	C0036658
+18753	18773	GO:0009289	immature hair cells.	pilus	Bacterial Fimbria	C0031921
+18834	18850	GO:0097683	even in the apex	dinoflagellate apex		C3890171
+18867	18889	GO:0007600	spiral sensory neurons	sensory perception	Esthesia	C0036658
+19087	19096	GO:0097683	the apex,	dinoflagellate apex		C3890171
+19222	19232	GO:0043209	myelinated	myelin sheath	Myelin Sheath	C0026973
+19308	19345	GO:0070451	into the area of the outer hair cells	cell hair		C2678510
+19381	19394	GO:0032502	in maturation	development	Biologic Development	C0678723
+19435	19454	GO:0097683	present in the apex	dinoflagellate apex		C3890171
+19509	19531	GO:0032502	that mature hair cells	development	Biologic Development	C0678723
+19628	19655	GO:0097683	in the apex of the cochlea.	dinoflagellate apex		C3890171
+19697	19708	GO:0060384	innervation	innervation	innervation aspect	C1619351
+19745	19768	GO:0043121	known from neurotrophin	neurotrophin binding		C1323315
+19773	19809	GO:0043121	neurotrophin receptor null mutations	neurotrophin binding		C1323315
+19844	19856	GO:0007567	after birth.	parturition	Birth	C0005615
+19889	19921	GO:0043121	neonatal neurotrophin expression	neurotrophin binding		C1323315
+20092	20138	GO:0043121	neurotrophin expression in 6-month old animals	neurotrophin binding		C1323315
+20139	20155	GO:0043121	as neurotrophins	neurotrophin binding		C1323315
+20250	20270	GO:0030061	in the canal cristae	mitochondrial cristae	Mitochondrial cristae	C0230844
+20331	20384	GO:0070451	very strong over hair cells of the p0 control animals	cell hair		C2678510
+20516	20571	GO:0070451	predominantly over the area of the immature hair cells.	cell hair		C2678510
+20615	20641	GO:0070451	centered on the hair cells	cell hair		C2678510
+20811	20856	GO:0007600	shown in the p0 vestibular sensory epithelia.	sensory perception	Esthesia	C0036658
+20961	20974	GO:0030061	canal cristae	mitochondrial cristae	Mitochondrial cristae	C0230844
+21095	21148	GO:0070451	the prominent bdnf expression in the hair cell region	cell hair		C2678510
+21244	21281	GO:0070451	(a,c) over immature hair cells (ihc).	cell hair		C2678510
+21582	21626	GO:0070451	found over the hair cells of control animals	cell hair		C2678510
+21631	21663	GO:0009289	an occasional immature hair cell	pilus	Bacterial Fimbria	C0031921
+21812	21892	GO:0007600	some slightly above background signal in the area of the sensory epithelium even	sensory perception	Esthesia	C0036658
+22127	22164	GO:0097683	in the apex of brn3c null littermates	dinoflagellate apex		C3890171
+22349	22382	GO:0097683	p8 in the apex of brn3c null mice	dinoflagellate apex		C3890171
+22664	22715	GO:0097683	in the apex over the region of the inner hair cells	dinoflagellate apex		C3890171
+22804	22837	GO:0097683	p8 in the apex of brn3c null mice	dinoflagellate apex		C3890171
+22868	22919	GO:0070451	compares to the inner hair cells of control animals	cell hair		C2678510
+23023	23062	GO:0043121	the limited expression of neurotrophins	neurotrophin binding		C1323315
+23063	23114	GO:0043524	relates to the apparent survival of primary neurons	neuron survival		C1819944
+23129	23167	GO:0070451	the known absence of apical hair cells	cell hair		C2678510
+23168	23198	GO:0043121	and of classical neurotrophins	neurotrophin binding		C1323315
+23276	23318	GO:0035315	; how absence of differentiated hair cells	hair cell differentiation		C1622762
+23435	23467	GO:0007567	born with profound hearing loss.	parturition	Birth	C0005615
+23469	23488	GO:0009289	immature hair cells	pilus	Bacterial Fimbria	C0031921
+23493	23528	GO:0043121	limited expression of neurotrophins	neurotrophin binding		C1323315
+23566	23583	GO:0043121	the neurotrophins	neurotrophin binding		C1323315
+23647	23657	GO:0008219	cell death	cell death	Cell Death	C0007587
+23671	23720	GO:0050789	this theory of regulation of neuronal connections	regulation of biological process	Regulation of biological process	C1327622
+23754	23799	GO:0043121	that only limited quantities of neurotrophins	neurotrophin binding		C1323315
+23869	23902	GO:0007600	sensory neurons by providing only	sensory perception	Esthesia	C0036658
+23903	23948	GO:0043121	these with a critical amount of neurotrophins	neurotrophin binding		C1323315
+23997	24025	GO:0043121	more neurotrophins entirely,	neurotrophin binding		C1323315
+24145	24194	GO:0007600	a small decrease in the number of sensory neurons	sensory perception	Esthesia	C0036658
+24251	24262	GO:0060384	innervation	innervation	innervation aspect	C1619351
+24274	24332	GO:0043121	all of the neurotrophin/neurotrophin receptor null mutants	neurotrophin binding		C1323315
+24441	24471	GO:0009790	their effects in late embryos.	embryo development	Embryonic Development	C0013936
+24501	24531	GO:0009790	expressed during embryogenesis	embryo development	Embryonic Development	C0013936
+24566	24601	GO:0043524	the survival of ear primary neurons	neuron survival		C1819944
+24650	24690	GO:0043121	that limited expression of neurotrophins	neurotrophin binding		C1323315
+24723	24732	GO:0051235	retention	retention	cellular entity retention	C1753315
+24968	25031	GO:0043121	apparently biologically significant low levels of neurotrophins	neurotrophin binding		C1323315
+25047	25081	GO:0007600	expressed in all sensory epithelia	sensory perception	Esthesia	C0036658
+25082	25114	GO:0009790	in embryonic brn3c null mutants.	embryo development	Embryonic Development	C0013936
+25136	25169	GO:0043121	these low levels of neurotrophins	neurotrophin binding		C1323315
+25170	25205	GO:0007600	in the vestibular sensory epithelia	sensory perception	Esthesia	C0036658
+25382	25403	GO:0043121	the neurotrophin most	neurotrophin binding		C1323315
+25427	25449	GO:0007600	spiral sensory neurons	sensory perception	Esthesia	C0036658
+25476	25527	GO:0090102	with the normal development of cochlear innervation	cochlea development		C2755509
+25597	25619	GO:0070451	produced by hair cells	cell hair		C2678510
+25630	25680	GO:0035315	the lack of terminal differentiation of hair cells	hair cell differentiation		C1622762
+25749	25778	GO:0030061	the case in the canal cristae	mitochondrial cristae	Mitochondrial cristae	C0230844
+25853	25864	GO:0060384	innervation	innervation	innervation aspect	C1619351
+25885	25902	GO:0007567	lost before birth	parturition	Birth	C0005615
+25996	26023	GO:0007600	all canal sensory epithelia	sensory perception	Esthesia	C0036658
+26035	26046	GO:0060384	innervation	innervation	innervation aspect	C1619351
+26069	26087	GO:0007567	efferents at birth	parturition	Birth	C0005615
+26350	26398	GO:0097683	particularly obvious in the apex of the cochlea.	dinoflagellate apex		C3890171
+26408	26433	GO:0009790	in the cochlea of embryos	embryo development	Embryonic Development	C0013936
+26477	26496	GO:0009790	utricle of embryos,	embryo development	Embryonic Development	C0013936
+26543	26547	GO:0005623	cell	cell	Cells	C0007634
+26592	26596	GO:0005623	cell	cell	Cells	C0007634
+26662	26730	GO:0007600	the numerous spiral sensory neurons in the apex of 8-day old animals	sensory perception	Esthesia	C0036658
+26746	26790	GO:0007600	long term survival of apical sensory neurons	sensory perception	Esthesia	C0036658
+26794	26832	GO:0035315	unrelated to differentiated hair cells	hair cell differentiation		C1622762
+26844	26875	GO:0043121	is independent of neurotrophins	neurotrophin binding		C1323315
+26952	26986	GO:0070451	into inner hair cells around birth	cell hair		C2678510
+27089	27108	GO:0043121	other neurotrophins	neurotrophin binding		C1323315
+27154	27185	GO:0097683	the apex of brn3c null mutants,	dinoflagellate apex		C3890171
+27254	27287	GO:0009058	no formation of mature hair cells	anabolism	Anabolism	C0220781
+27358	27395	GO:0035315	released by differentiated hair cells	hair cell differentiation		C1622762
+27409	27477	GO:0043121	an unexplored possibility of generalized expression of neurotrophins	neurotrophin binding		C1323315
+27536	27555	GO:0043121	known neurotrophins	neurotrophin binding		C1323315
+27605	27651	GO:0043121	significant amounts of neurotrophin expression	neurotrophin binding		C1323315
+27936	27953	GO:0007567	long before birth	parturition	Birth	C0005615
+28032	28088	GO:0097683	the many afferents in the apex of the brn3c null mutants	dinoflagellate apex		C3890171
+28231	28240	GO:0051235	retention	retention	cellular entity retention	C1753315
+28378	28384	GO:0040007	growth	growth	Growth	C0018270
+28427	28444	GO:0032502	mature hair cells	development	Biologic Development	C0678723
+28446	28472	GO:0009058	formation of radial fibers	anabolism	Anabolism	C0220781
+28484	28522	GO:0043005	peripheral processes of spiral neurons	neurite	Neurites	C0085103
+28557	28603	GO:0097683	rather normal, even in the apex of the cochlea	dinoflagellate apex		C3890171
+28632	28651	GO:0009289	immature hair cells	pilus	Bacterial Fimbria	C0031921
+28701	28751	GO:0030154	that even less differentiated hair cell precursors	cell differentiation	Cell Differentiation process	C0007589
+28756	28772	GO:0097683	form in the apex	dinoflagellate apex		C3890171
+28803	28821	GO:0007567	died before birth.	parturition	Birth	C0005615
+28837	28867	GO:0042640	the growth to outer hair cells	hair growth	Hair growth	C0232407
+28974	28994	GO:0009289	to outer hair cells,	pilus	Bacterial Fimbria	C0031921
+29120	29155	GO:0030154	the differentiation of pillar cells	cell differentiation	Cell Differentiation process	C0007589
+29253	29276	GO:0032502	mature inner hair cells	development	Biologic Development	C0678723
+29286	29319	GO:0044249	the formation of supporting cells	cellular biosynthetic process		C1523936
+29448	29471	GO:0007219	Notch signaling pathway	Notch signaling pathway	Notch Signaling Pathway	C1155452
+29540	29569	GO:0070451	extend along outer hair cells	cell hair		C2678510
+29573	29631	GO:0030154	related to the lack of differentiation of supporting cells	cell differentiation	Cell Differentiation process	C0007589
+29632	29668	GO:0032502	in the absence of mature hair cells.	development	Biologic Development	C0678723
+29717	29721	GO:0005623	cell	cell	Cells	C0007634
+30686	30693	GO:0007605	hearing	hearing	Hearing	C0018767
+30775	30794	GO:0005634	the cochlear nuclei	cell nucleus	Cell Nucleus	C0007610
+30857	30926	GO:0009058	also consistent with the formation of a crude cochleotopic projection	anabolism	Anabolism	C0220781
+31015	31026	GO:0060384	innervation	innervation	innervation aspect	C1619351
+31161	31164	GO:0007601	see	vision	Vision	C0042789
+31389	31427	GO:0070451	to other mutations with hair cell loss	cell hair		C2678510
+31589	31596	GO:0007605	hearing	hearing	Hearing	C0018767
+31667	31674	GO:0007605	hearing	hearing	Hearing	C0018767
+31808	31815	GO:0007605	hearing	hearing	Hearing	C0018767
+31968	31975	GO:0007605	hearing	hearing	Hearing	C0018767
+32059	32074	GO:0043524	neuron survival	neuron survival		C1819944
+32240	32247	GO:0007605	hearing	hearing	Hearing	C0018767
+32422	32461	GO:0070451	with specific absence of all hair cells	cell hair		C2678510
+32468	32496	GO:0070451	outer hair cells in the base	cell hair		C2678510
+32505	32509	GO:0097683	apex	dinoflagellate apex		C3890171
+32545	32567	GO:0070451	the role of hair cells	cell hair		C2678510
+32617	32628	GO:0060384	innervation	innervation	innervation aspect	C1619351
+32709	32720	GO:0060384	innervation	innervation	innervation aspect	C1619351
+32868	32910	GO:0043121	null mutants of ear specific neurotrophins	neurotrophin binding		C1323315
+32926	32953	GO:0007600	the loss of sensory neurons	sensory perception	Esthesia	C0036658
+32954	32967	GO:0007567	before birth.	parturition	Birth	C0005615
+33038	33049	GO:0060384	innervation	innervation	innervation aspect	C1619351
+33084	33113	GO:0007600	this late sensory neuron loss	sensory perception	Esthesia	C0036658
+33128	33167	GO:0038179	related to known neurotrophin signaling	neurotrophin signaling pathway	Neurotrophin Signaling Pathway	C2984256
+33365	33400	GO:0097683	in particular in the cochlear apex.	dinoflagellate apex		C3890171
+33416	33425	GO:0051235	retention	retention	cellular entity retention	C1753315
+33439	33520	GO:0097683	in the cochlear apex in the absence of any apparent differentiation of hair cells	dinoflagellate apex		C3890171
+33556	33578	GO:0007567	in deaf-born children.	parturition	Birth	C0005615
+33597	33606	GO:0051235	retention	retention	cellular entity retention	C1753315
+33707	33721	GO:0009790	with embryonic	embryo development	Embryonic Development	C0013936
+33726	33749	GO:0009289	neonatal hair cell loss	pilus	Bacterial Fimbria	C0031921
+34214	34225	GO:0043005	nerve fiber	nerve fiber	Nerve Fibers	C0027749
+34842	34853	GO:0060384	innervation	innervation	innervation aspect	C1619351
+34988	35026	GO:0042571	500 anti-acetylated tubulin antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+35046	35078	GO:0042571	followed by secondary antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+35339	35383	GO:0007600	inside the sensory epithelia in more detail.	sensory perception	Esthesia	C0036658
+36362	36393	GO:0000785	displayed as false color images	chromatin	chromatin location	C1325550
+36425	36458	GO:0070451	immunocytochemistry of hair cells	cell hair		C2678510
+36463	36491	GO:0070451	quantification of hair cells	cell hair		C2678510
+36554	36587	GO:0009289	the hair cell specific-myosin vii	pilus	Bacterial Fimbria	C0031921
+36598	36606	GO:0042571	antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+36765	36789	GO:0070451	the number of hair cells	cell hair		C2678510
+36765	36789	GO:0070451	the number of hair cells	cell hair		C2678510
+36899	36915	GO:0007600	sensory ganglia,	sensory perception	Esthesia	C0036658
+37035	37069	GO:0007600	scored for each sensory epithelium	sensory perception	Esthesia	C0036658
+37140	37166	GO:0005634	cells with a clear nucleus	cell nucleus	Cell Nucleus	C0007610
+37171	37179	GO:0005730	nucleoli	nucleolus	Cell Nucleolus	C0007609
+37530	37539	GO:0007610	conducted	behavior	Behavior	C0004927
+37675	37718	GO:0043121	the in situ hybridization for neurotrophins	neurotrophin binding		C1323315
+37967	38006	GO:0007601	supported by the national eye institute	vision	Vision	C0042789
+38022	38065	GO:0007567	the march of dimes birth defects foundation	parturition	Birth	C0005615

@@ -1,0 +1,506 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+29	71	GO:0044237	multi-system energy metabolic derangements	cellular metabolic process	Metabolic Process, Cellular	C1524026
+150	158	GO:0007567	the gene	parturition	Birth	C0005615
+150	158	GO:0000003	the gene	reproduction	Reproduction	C0035150
+172	185	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+420	473	GO:0044237	indicative of an abnormal energy metabolic phenotype.	cellular metabolic process	Metabolic Process, Cellular	C1524026
+474	503	GO:0060419	the postnatal growth of heart	heart growth		C2610568
+554	566	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+554	600	GO:0000001	organs with high mitochondrial energy demands,	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+734	746	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+734	754	GO:0000001	mitochondrial number	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+1074	1095	GO:0019013	core body temperature	nucleocapsid	viral nucleocapsid location	C1167518
+1283	1295	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+1283	1367	GO:0000001	hepatic steatosis due to a combination of reduced mitochondrial respiratory capacity	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+1322	1365	GO:0010467	an increased expression of lipogenic genes.	gene expression	Gene Expression	C0017262
+1489	1505	GO:0005773	vacuolar lesions	vacuole	Vacuole	C0042219
+1655	1671	GO:0044237	to the metabolic	cellular metabolic process	Metabolic Process, Cellular	C1524026
+1732	1744	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+1732	1765	GO:0000001	mitochondrial functional capacity	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+1870	1876	GO:0007567	birth.	parturition	Birth	C0005615
+1887	1899	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+1921	1939	GO:0007165	multiple signaling	signal transduction	Signal Transduction	C0037083
+1921	1939	GO:0023052	multiple signaling	biological signaling		C3537152
+1944	1957	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+2034	2046	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+2066	2078	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+2091	2101	GO:0008152	metabolism	metabolism	Metabolism	C0025519
+2158	2171	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+2187	2197	GO:0005777	peroxisome	peroxisome		C0752063
+2352	2375	GO:0006355	transcriptional control	transcriptional control	Transcriptional Regulation	C1158770
+2417	2429	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+2417	2439	GO:0000001	mitochondrial function	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+2444	2454	GO:0009058	biogenesis	anabolism	Anabolism	C0220781
+2557	2615	GO:0045444	interact with the adipogenic nuclear receptor ppargamma [2	adipogenesis	Adipogenesis	C0596843
+2557	2615	GO:0060612	interact with the adipogenic nuclear receptor ppargamma [2	adipogenesis	Adipogenesis	C0596843
+2772	2785	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+2815	2856	GO:0000988	nonnuclear receptor transcription factors	transcription factor activity		C1148759
+2815	2856	GO:0001070	nonnuclear receptor transcription factors	transcription factor activity		C1148759
+2815	2856	GO:0001071	nonnuclear receptor transcription factors	transcription factor activity		C1148759
+2815	2856	GO:0003700	nonnuclear receptor transcription factors	transcription factor activity		C1148759
+2857	2895	GO:0044237	involved in cellular energy metabolism	cellular metabolic process	Metabolic Process, Cellular	C1524026
+3088	3100	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+3088	3120	GO:0000001	the demand for mitochondrial atp	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+3266	3278	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+3266	3319	GO:0000001	all tissues with high-capacity mitochondrial systems.	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+3289	3335	GO:0010467	the expression of the gene encoding pgc-1alpha	gene expression	Gene Expression	C0017262
+3532	3542	GO:0008152	metabolism	metabolism	Metabolism	C0025519
+3670	3682	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+3708	3720	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+3708	3743	GO:0000001	mitochondrial respiratory capacity.	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+3772	3827	GO:0006390	the transcription of mitochondrial uncoupling protein-1	transcription from mitochondrial promoter		C1158805
+3873	3897	GO:0004879	nuclear hormone receptor	nuclear hormone receptor	nuclear hormone receptor activity	C1753269
+3961	3982	GO:0045444	studies in adipogenic	adipogenesis	Adipogenesis	C0596843
+3961	3982	GO:0060612	studies in adipogenic	adipogenesis	Adipogenesis	C0596843
+3987	4016	GO:0048740	myogenic mammalian cell lines	myogenesis	Myogenesis	C0596997
+3987	4016	GO:0007519	myogenic mammalian cell lines	myogenesis	Myogenesis	C0596997
+4056	4128	GO:0006390	mitochondrial biogenesis through a group of transcription factor targets	transcription from mitochondrial promoter		C1158805
+4194	4238	GO:0006390	mitochondrial transcription factor a (tfam),	transcription from mitochondrial promoter		C1158805
+4239	4304	GO:0006390	key transcriptional regulators of mitochondrial dna transcription	transcription from mitochondrial promoter		C1158805
+4309	4320	GO:0006260	replication	DNA replication	DNA Replication	C0598312
+4478	4490	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+4599	4626	GO:0000266	mitochondrial proliferation	mitochondrial proliferation	Mitochondrial proliferation	C2259852
+4631	4674	GO:0009058	the formation of mitochondrial-rich type i,	anabolism	Anabolism	C0220781
+4701	4713	GO:0030484	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+4701	4713	GO:0043292	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+4797	4809	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+4856	4924	GO:0097009	pgc-1alpha in the homeostatic control of systemic energy metabolism.	energy homeostasis		C3157043
+4963	5002	GO:0006094	several key hepatic gluconeogenic genes	gluconeogenesis	Gluconeogenesis	C0017715
+5097	5109	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+5097	5166	GO:0000001	downstream mitochondrial target pathways in skeletal muscle of humans	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+5218	5282	GO:0007567	single nucleotide polymorphisms within the human pgc-1alpha gene	parturition	Birth	C0005615
+5218	5282	GO:0000003	single nucleotide polymorphisms within the human pgc-1alpha gene	reproduction	Reproduction	C0035150
+5512	5522	GO:0008152	metabolism	metabolism	Metabolism	C0025519
+5561	5594	GO:0097009	for energy metabolic homeostasis,	energy homeostasis		C3157043
+5595	5607	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+5621	5632	GO:0032502	development	development	Biologic Development	C0678723
+5638	5644	GO:0040007	growth	growth	Growth	C0018270
+5739	5804	GO:0007567	characterized mice with targeted deletion of the pgc-1alpha gene.	parturition	Birth	C0005615
+5739	5804	GO:0000003	characterized mice with targeted deletion of the pgc-1alpha gene.	reproduction	Reproduction	C0035150
+5927	5939	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+6023	6090	GO:0044237	a critical role in the normal metabolic function of multiple organs	cellular metabolic process	Metabolic Process, Cellular	C1524026
+6177	6210	GO:0007567	disruption of the pgc-1alpha gene	parturition	Birth	C0005615
+6177	6210	GO:0000003	disruption of the pgc-1alpha gene	reproduction	Reproduction	C0035150
+6220	6258	GO:0007567	a neomycin-based gene targeting vector	parturition	Birth	C0005615
+6220	6258	GO:0000003	a neomycin-based gene targeting vector	reproduction	Reproduction	C0035150
+6295	6327	GO:0007567	5 of the murine pgc-1alpha gene.	parturition	Birth	C0005615
+6295	6327	GO:0000003	5 of the murine pgc-1alpha gene.	reproduction	Reproduction	C0035150
+6348	6389	GO:0006310	resulted in a 3' homologous recombination	DNA recombination	Recombination, Genetic	C0034865
+6452	6485	GO:0006310	the insertion/recombination event	DNA recombination	Recombination, Genetic	C0034865
+6683	6701	GO:1902698	at amino acid 255.	acidogenesis		C3823112
+6683	6701	GO:1902705	at amino acid 255.	acidogenesis		C3823112
+6683	6701	GO:1902706	at amino acid 255.	acidogenesis		C3823112
+6683	6701	GO:1902699	at amino acid 255.	acidogenesis		C3823112
+6823	6853	GO:0007567	the pgc-1alpha gene disruption	parturition	Birth	C0005615
+6823	6853	GO:0000003	the pgc-1alpha gene disruption	reproduction	Reproduction	C0035150
+7073	7108	GO:0007567	the efficacy of the gene targeting.	parturition	Birth	C0005615
+7073	7108	GO:0000003	the efficacy of the gene targeting.	reproduction	Reproduction	C0035150
+7165	7207	GO:0007567	a region of the pgc-1alpha gene transcript	parturition	Birth	C0005615
+7165	7207	GO:0000003	a region of the pgc-1alpha gene transcript	reproduction	Reproduction	C0035150
+7829	7833	GO:0005623	cell	cell	Cells	C0007634
+8174	8197	GO:0010467	expression of the genes	gene expression	Gene Expression	C0017262
+8396	8420	GO:0007567	the gene targeting event	parturition	Birth	C0005615
+8396	8420	GO:0000003	the gene targeting event	reproduction	Reproduction	C0035150
+8891	8902	GO:0007567	after birth	parturition	Birth	C0005615
+9517	9531	GO:0007631	in food intake	eating	Eating	C0013470
+10284	10296	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+10316	10355	GO:0035265	for postnatal growth in certain organs.	organ growth		C1523713
+10381	10425	GO:0030484	slow-twitch fiber-enriched skeletal muscles,	muscle fiber	Muscle Fibers	C0242697
+10381	10425	GO:0043292	slow-twitch fiber-enriched skeletal muscles,	muscle fiber	Muscle Fibers	C0242697
+10864	10876	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+10864	10924	GO:0000001	certain tissues with high mitochondrial energy requirements,	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+10961	10967	GO:0040007	growth	growth	Growth	C0018270
+11016	11028	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+11016	11077	GO:0000001	abnormal muscle mitochondrial phenotype in pgc-1alpha-/- mice	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+11136	11142	GO:0040007	growth	growth	Growth	C0018270
+11261	11265	GO:0005623	cell	cell	Cells	C0007634
+11274	11278	GO:0005623	cell	cell	Cells	C0007634
+11288	11308	GO:0031012	extracellular matrix	extracellular matrix	Extracellular Matrix	C0015350
+11419	11431	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+11419	11444	GO:0000001	in mitochondrial function	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+11446	11457	GO:0009058	biogenesis,	anabolism	Anabolism	C0220781
+11470	11482	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+11470	11523	GO:0000001	mitochondrial ultrastructure in the relevant tissues.	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+11581	11593	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+11775	11779	GO:0005623	cell	cell	Cells	C0007634
+11997	12009	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+12032	12078	GO:0010467	a reduction in the expression of nuclear genes	gene expression	Gene Expression	C0017262
+12109	12141	GO:0042775	mitochondrial electron transport	mitochondrial electron transport		C1752477
+12143	12155	GO:0009461	cytochrome c	cytochrome c	cytochrome c activity	C1153524
+12143	12155	GO:0045155	cytochrome c	cytochrome c	cytochrome c activity	C1153524
+12160	12170	GO:0045153	cytochrome	cytochrome	cytochrome activity	C1325304
+12160	12170	GO:0045156	cytochrome	cytochrome	cytochrome activity	C1325304
+12160	12170	GO:0045157	cytochrome	cytochrome	cytochrome activity	C1325304
+12160	12170	GO:0045155	cytochrome	cytochrome	cytochrome activity	C1325304
+12160	12170	GO:0045154	cytochrome	cytochrome	cytochrome activity	C1325304
+12160	12170	GO:0009458	cytochrome	cytochrome	cytochrome activity	C1325304
+12160	12170	GO:0045158	cytochrome	cytochrome	cytochrome activity	C1325304
+12187	12212	GO:0006119	oxidative phosphorylation	oxidative phosphorylation	Oxidative Phosphorylation	C0030013
+12396	12425	GO:0006264	mitochondrial DNA replication	mitochondrial DNA replication		C1326316
+12529	12541	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+12637	12649	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+12637	12695	GO:0000001	no significant differences in mitochondrial ultrastructure	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+12775	12787	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+12775	12797	GO:0000001	mitochondrial function	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+12856	12868	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+13033	13044	GO:0009060	respiration	respiration	Cell Respiration	C0282636
+13033	13045	GO:0007585	respiration,	respiration	respiratory gaseous exchange in organisms	C1160636
+13033	13044	GO:0045333	respiration	respiration	Cell Respiration	C0282636
+13138	13149	GO:0009060	respiration	respiration	Cell Respiration	C0282636
+13138	13163	GO:0007585	state 4 respiration rates	respiration	respiratory gaseous exchange in organisms	C1160636
+13138	13149	GO:0045333	respiration	respiration	Cell Respiration	C0282636
+13261	13272	GO:0009060	respiration	respiration	Cell Respiration	C0282636
+13261	13288	GO:0007585	the coupling of respiration	respiration	respiratory gaseous exchange in organisms	C1160636
+13261	13272	GO:0045333	respiration	respiration	Cell Respiration	C0282636
+13418	13430	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+13418	13472	GO:0000001	significant reduction in mitochondrial volume density.	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+13524	13536	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+13524	13563	GO:0000001	the abnormality in mitochondrial number	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+13679	13722	GO:0040011	locomotor activity levels over a 1-h period	locomotion	Locomotion	C0023946
+13964	13984	GO:0035640	exploratory behavior	exploratory behavior	Exploratory Behavior	C0015328
+14614	14626	GO:0001966	(thigmotaxis	taxis in response to touch stimulus		C1621832
+16656	16668	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+16656	16700	GO:0000001	dependent upon mitochondrial atp production.	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+17196	17208	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+17262	17316	GO:0043501	necessary for functional adaptation of skeletal muscle	skeletal muscle adaptation		C2248552
+17476	17488	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+17815	17832	GO:0044237	metabolic reserve	cellular metabolic process	Metabolic Process, Cellular	C1524026
+20649	20686	GO:0006936	evidence for contractile dysfunction.	muscle contraction	Muscle Contraction	C0026820
+20809	20821	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+20809	20874	GO:0000001	implicated as an inducible regulator of mitochondrial respiratory	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+21091	21112	GO:0019013	core body temperature	nucleocapsid	viral nucleocapsid location	C1167518
+21157	21201	GO:0019013	a markedly abnormal drop in core temperature	nucleocapsid	viral nucleocapsid location	C1167518
+21257	21293	GO:0019013	the mean decline in core temperature	nucleocapsid	viral nucleocapsid location	C1167518
+21856	21868	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+21856	21888	GO:0000001	the mitochondrial ultrastructure	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+22151	22163	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+22151	22188	GO:0000001	involved in mitochondrial respiratory	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+22224	22237	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+22580	22592	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+22726	22738	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+22726	22750	GO:0000001	related to mitochondrial	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+22751	22800	GO:0015052	is under the control of beta3-adrenergic receptor	beta3-adrenergic receptor activity		C1152729
+22809	22819	GO:0007165	signaling.	signal transduction	Signal Transduction	C0037083
+22809	22819	GO:0023052	signaling.	biological signaling		C3537152
+23227	23256	GO:0044237	the metabolic response of bat	cellular metabolic process	Metabolic Process, Cellular	C1524026
+23406	23418	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+23406	23435	GO:0000001	for mitochondrial respiratory	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+23524	23584	GO:0044237	implicated pgc-1alpha in several hepatic metabolic functions	cellular metabolic process	Metabolic Process, Cellular	C1524026
+23595	23615	GO:0019395	fatty acid oxidation	fatty acid oxidation		C1158366
+23620	23635	GO:0006094	gluconeogenesis	gluconeogenesis	Gluconeogenesis	C0017715
+23777	23797	GO:0019395	fatty acid oxidation	fatty acid oxidation		C1158366
+23802	23831	GO:0006094	gluconeogenic rates in liver.	gluconeogenesis	Gluconeogenesis	C0017715
+24269	24307	GO:1902698	free fatty acids between the genotypes	acidogenesis		C3823112
+24269	24307	GO:1902705	free fatty acids between the genotypes	acidogenesis		C3823112
+24269	24307	GO:1902706	free fatty acids between the genotypes	acidogenesis		C3823112
+24269	24307	GO:1902699	free fatty acids between the genotypes	acidogenesis		C3823112
+24660	24664	GO:0005623	cell	cell	Cells	C0007634
+24917	24921	GO:0005623	cell	cell	Cells	C0007634
+25010	25014	GO:0005623	cell	cell	Cells	C0007634
+25144	25156	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+25344	25395	GO:0010467	related to reduced expression of ppar target genes.	gene expression	Gene Expression	C0017262
+25409	25436	GO:0007567	a survey of candidate genes	parturition	Birth	C0005615
+25409	25436	GO:0000003	a survey of candidate genes	reproduction	Reproduction	C0035150
+25441	25456	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+25509	25552	GO:0010467	the hepatic expression of ppar target genes	gene expression	Gene Expression	C0017262
+25565	25569	GO:0005623	cell	cell	Cells	C0007634
+25871	25883	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+25871	25925	GO:0000001	related to altered mitochondrial respiratory function.	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+26035	26046	GO:0009060	respiration	respiration	Cell Respiration	C0282636
+26035	26060	GO:0007585	state 3 respiration rates	respiration	respiratory gaseous exchange in organisms	C1160636
+26035	26046	GO:0045333	respiration	respiration	Cell Respiration	C0282636
+26210	26222	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+26210	26255	GO:0000001	due to mitochondrial respiratory dysfunction.	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+26269	26284	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+26339	26359	GO:0019395	fatty acid oxidation	fatty acid oxidation		C1158366
+26395	26513	GO:0005515	several interesting differences in the activity of the sterol regulatory element binding protein-1c (srebp-1c) pathway	protein binding	Protein Binding	C0033618
+26561	26588	GO:0032091	down-regulation of srebp-1c	negative regulation of protein binding		C1818975
+26593	26640	GO:0007567	its target gene stearoyl-coa desaturase (scd1),	parturition	Birth	C0005615
+26593	26640	GO:0000003	its target gene stearoyl-coa desaturase (scd1),	reproduction	Reproduction	C0035150
+26701	26768	GO:0010467	expression of the gene encoding diglyceride acyltransferase (dgat),	gene expression	Gene Expression	C0017262
+26785	26816	GO:0009058	the last step in tag synthesis,	anabolism	Anabolism	C0220781
+26984	27023	GO:0009058	components of the tag synthesis pathway	anabolism	Anabolism	C0220781
+27342	27366	GO:0009058	that tag synthesis rates	anabolism	Anabolism	C0220781
+27719	27756	GO:0090644	the development of insulin resistance	developmental resistance		C4234967
+28698	28717	GO:0042593	glucose homeostasis	glucose homeostasis		C1326961
+29091	29108	GO:0002524	insulin-sensitive	hypersensitivity	Hypersensitivity	C0020517
+29381	29411	GO:0002524	insulin-sensitive than wt mice	hypersensitivity	Hypersensitivity	C0020517
+30202	30234	GO:0097426	glial fibrillary acidic protein,	glial filament	Glial Fibrillary Acidic Protein	C0017626
+30202	30234	GO:0045101	glial fibrillary acidic protein,	glial fibrillary acidic protein	glial fibrillary acidic protein location	C1325793
+30202	30234	GO:0045098	glial fibrillary acidic protein,	glial fibrillary acidic protein	glial fibrillary acidic protein location	C1325793
+30250	30296	GO:0097449	an increase in numbers of astrocytic processes	astrocyte projection		C3548412
+30636	30716	GO:0097426	intensity of glial fibrillary acidic protein-immunoreactive astrocytic processes	glial filament	Glial Fibrillary Acidic Protein	C0017626
+30847	30851	GO:0005623	cell	cell	Cells	C0007634
+30916	30948	GO:0061518	neither microglial proliferation	microglial cell proliferation		C3820858
+31192	31199	GO:0005773	vacuole	vacuole	Vacuole	C0042219
+31212	31245	GO:0016020	aggregates of membranous material	membrane	Membrane	C0596901
+31292	31332	GO:0051179	subcellular localization of the vacuoles	establishment and maintenance of localization		C1744691
+31440	31444	GO:0005623	cell	cell	Cells	C0007634
+31447	31474	GO:0043195	presynaptic nerve terminals	synaptic bouton	Presynaptic Terminals	C0206181
+31487	31496	GO:0043025	the soma,	neuron cell body	Cell body of neuron	C0599444
+31668	31701	GO:0000988	an array of transcription factors	transcription factor activity		C1148759
+31668	31701	GO:0001070	an array of transcription factors	transcription factor activity		C1148759
+31668	31701	GO:0001071	an array of transcription factors	transcription factor activity		C1148759
+31668	31701	GO:0003700	an array of transcription factors	transcription factor activity		C1148759
+31702	31740	GO:0008152	involved in energy metabolic processes	metabolism	Metabolism	C0025519
+31751	31771	GO:0019395	fatty acid oxidation	fatty acid oxidation		C1158366
+31773	31791	GO:0006118	electron transport	electron transport	Electron Transport	C0013846
+31797	31822	GO:0006119	oxidative phosphorylation	oxidative phosphorylation	Oxidative Phosphorylation	C0030013
+31869	31881	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+31967	32026	GO:0060209	the orphan nuclear receptor estrogen-related receptor alpha	estrus	Estrus	C0014948
+32112	32161	GO:0008152	essential for critical energy metabolic processes	metabolism	Metabolism	C0025519
+32172	32184	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+32217	32248	GO:0007567	targeted gene deletion in mice,	parturition	Birth	C0005615
+32217	32248	GO:0000003	targeted gene deletion in mice,	reproduction	Reproduction	C0035150
+32281	32329	GO:0009790	not essential for normal embryologic development	embryo development	Embryonic Development	C0013936
+32359	32371	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+32513	32525	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+32513	32545	GO:0000001	postnatal mitochondrial function	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+32540	32567	GO:0044237	cellular energy metabolism,	cellular metabolic process	Metabolic Process, Cellular	C1524026
+32589	32663	GO:0044237	the organism for the energy metabolic rigors of the postnatal environment.	cellular metabolic process	Metabolic Process, Cellular	C1524026
+32671	32683	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+32671	32699	GO:0000001	mitochondrial volume density	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+32776	32788	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+32776	32818	GO:0000001	second, mitochondrial respiratory capacity	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+32908	32927	GO:0060419	the growth of heart	heart growth		C2610568
+32977	32989	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+32977	33012	GO:0000001	on mitochondrial energy production,	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+33342	33354	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+34234	34240	GO:0040007	growth	growth	Growth	C0018270
+34289	34299	GO:0008152	metabolism	metabolism	Metabolism	C0025519
+34300	34323	GO:0009877	on sinus node function.	nodulation		C1160630
+34517	34541	GO:0019013	in core body temperature	nucleocapsid	viral nucleocapsid location	C1167518
+34866	34878	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+35257	35267	GO:0008152	metabolism	metabolism	Metabolism	C0025519
+35384	35437	GO:0044237	respond to postnatal environmental metabolic demands.	cellular metabolic process	Metabolic Process, Cellular	C1524026
+35746	35789	GO:1902698	the reduction in fatty acid oxidation rates	acidogenesis		C3823112
+35746	35789	GO:1902705	the reduction in fatty acid oxidation rates	acidogenesis		C3823112
+35746	35789	GO:1902706	the reduction in fatty acid oxidation rates	acidogenesis		C3823112
+35746	35789	GO:1902699	the reduction in fatty acid oxidation rates	acidogenesis		C3823112
+35825	35886	GO:0010467	not due to altered expression of pgc-1alpha/ppar target genes	gene expression	Gene Expression	C0017262
+35825	35886	GO:0010468	not due to altered expression of pgc-1alpha/ppar target genes	regulation of gene expression	Gene Expression Regulation	C0017263
+35899	35911	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+35944	35956	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+35944	35975	GO:0000001	mitochondrial respiratory rates	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+36015	36042	GO:0019432	that triglyceride synthesis	triglyceride biosynthetic process		C1157337
+36073	36096	GO:0010467	the expression of genes	gene expression	Gene Expression	C0017262
+36126	36172	GO:0045444	key proteins in the hepatic lipogenic pathway,	adipogenesis	Adipogenesis	C0596843
+36126	36172	GO:0008610	key proteins in the hepatic lipogenic pathway,	lipogenesis	Lipogenesis	C1563744
+36126	36172	GO:0060612	key proteins in the hepatic lipogenic pathway,	adipogenesis	Adipogenesis	C0596843
+36311	36378	GO:0019432	the relative contribution of increased triglyceride synthesis rates	triglyceride biosynthetic process		C1157337
+36486	36545	GO:0007567	the direct effects of pgc-1alpha deficiency on target genes	parturition	Birth	C0005615
+36486	36545	GO:0000003	the direct effects of pgc-1alpha deficiency on target genes	reproduction	Reproduction	C0035150
+36549	36621	GO:0070542	a secondary compensatory response to hepatocyte fatty acid accumulation.	response to fatty acid		C2753299
+36790	36812	GO:0019432	triglyceride synthesis	triglyceride biosynthetic process		C1157337
+36855	36867	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+36855	36914	GO:0000001	that reduced hepatocyte mitochondrial respiratory capacity,	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+36895	36937	GO:0045444	possibly activation of lipogenic programs,	adipogenesis	Adipogenesis	C0596843
+36895	36937	GO:0008610	possibly activation of lipogenic programs,	lipogenesis	Lipogenesis	C1563744
+36895	36937	GO:0060612	possibly activation of lipogenic programs,	adipogenesis	Adipogenesis	C0596843
+36985	37044	GO:0007567	in the context of increased hepatic delivery of fatty acids	parturition	Birth	C0005615
+37297	37302	GO:0007568	aging	aging	Aging	C0001811
+37499	37525	GO:0007631	differences in food intake	eating	Eating	C0013470
+37654	37666	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+37654	37695	GO:0000001	related to the mitochondrial dysfunction,	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+37767	37819	GO:0007567	an association between pgc-1alpha gene polymorphisms	parturition	Birth	C0005615
+37767	37819	GO:0000003	an association between pgc-1alpha gene polymorphisms	reproduction	Reproduction	C0035150
+37911	37963	GO:0034023	female pgc-1alpha-/- mice in pure-strain backgrounds	5	carboxyamino	C2247561
+38277	38322	GO:0002524	insulin-sensitive than pgc-1alpha+/+ controls	hypersensitivity	Hypersensitivity	C0020517
+38545	38594	GO:0044237	that compensatory metabolic regulatory mechanisms	cellular metabolic process	Metabolic Process, Cellular	C1524026
+39454	39470	GO:0006629	lipid metabolism	lipid metabolism	Lipid Metabolism	C0598783
+39482	39490	GO:0016020	membrane	membrane	Membrane	C0596901
+39517	39563	GO:0042995	the normal process of cellular debris turnover	cellular process		C1325880
+39517	39563	GO:0009987	the normal process of cellular debris turnover	cellular process		C1325880
+39597	39673	GO:0000801	in the energetics of the microglial component of the central nervous system.	central element		C1325583
+40156	40187	GO:0040011	from the 1-h locomotor activity	locomotion	Locomotion	C0023946
+40345	40424	GO:0044237	contribute to the systemic metabolic abnormalities of the pgc-1alpha null mice.	cellular metabolic process	Metabolic Process, Cellular	C1524026
+40524	40543	GO:0007567	the pgc-1alpha gene	parturition	Birth	C0005615
+40524	40543	GO:0000003	the pgc-1alpha gene	reproduction	Reproduction	C0035150
+40793	40804	GO:0009060	respiration	respiration	Cell Respiration	C0282636
+40793	40830	GO:0007585	reduced hepatocyte respiration rates,	respiration	respiratory gaseous exchange in organisms	C1160636
+40793	40804	GO:0045333	respiration	respiration	Cell Respiration	C0282636
+41055	41070	GO:0006094	gluconeogenesis	gluconeogenesis	Gluconeogenesis	C0017715
+41167	41236	GO:0035326	an abnormal expression profile forccaat-enhancer-binding protein beta	enhancer binding		C2752241
+41251	41274	GO:0006094	the gluconeogenic genes	gluconeogenesis	Gluconeogenesis	C0017715
+41322	41355	GO:0016791	glucose-6-phosphatase at baseline	phosphoric monoester hydrolase activity		C1149880
+41799	41863	GO:0002524	the insulin-sensitive phenotype of the female pgc-1alpha-/- mice	hypersensitivity	Hypersensitivity	C0020517
+41965	42018	GO:0002524	the insulin-sensitive phenotype of pgc-1alpha-/- mice	hypersensitivity	Hypersensitivity	C0020517
+42092	42145	GO:0060209	the nuclear receptor estrogen-related receptor alpha,	estrus	Estrus	C0014948
+42558	42585	GO:0040011	reduced locomotor activity.	locomotion	Locomotion	C0023946
+43174	43207	GO:0007567	that distinct genetic backgrounds	parturition	Birth	C0005615
+43174	43207	GO:0000003	that distinct genetic backgrounds	reproduction	Reproduction	C0035150
+43575	43603	GO:0007567	the method of gene targeting	parturition	Birth	C0005615
+43575	43603	GO:0000003	the method of gene targeting	reproduction	Reproduction	C0035150
+43823	43852	GO:0006310	a 3' homologous recombination	DNA recombination	Recombination, Genetic	C0034865
+44344	44381	GO:0002524	the sensitivity of the immunoblotting	hypersensitivity	Hypersensitivity	C0020517
+44946	44972	GO:0034023	in pure background strains	5	carboxyamino	C2247561
+45196	45209	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+45259	45263	GO:0005623	cell	cell	Cells	C0007634
+45305	45316	GO:0032502	development	development	Biologic Development	C0678723
+45394	45410	GO:0042995	cellular process	cellular process		C1325880
+45394	45410	GO:0009987	cellular process	cellular process		C1325880
+45479	45492	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+45516	45561	GO:0044237	the capacity of downstream metabolic pathways	cellular metabolic process	Metabolic Process, Cellular	C1524026
+45562	45595	GO:0044237	critical for metabolic maturation	cellular metabolic process	Metabolic Process, Cellular	C1524026
+45610	45616	GO:0040007	growth	growth	Growth	C0018270
+45958	45968	GO:0008152	metabolism	metabolism	Metabolism	C0025519
+46118	46145	GO:0007567	the pgc-1alpha gene in mice	parturition	Birth	C0005615
+46118	46145	GO:0000003	the pgc-1alpha gene in mice	reproduction	Reproduction	C0035150
+46178	46205	GO:0007567	the murine pgc-1alpha gene,	parturition	Birth	C0005615
+46178	46205	GO:0000003	the murine pgc-1alpha gene,	reproduction	Reproduction	C0035150
+46930	46978	GO:0004618	cloned into p1339-pgk-neomycin targeting vector.	phosphoglycerate kinase activity		C1150521
+47049	47053	GO:0005623	cell	cell	Cells	C0007634
+47159	47163	GO:0005623	cell	cell	Cells	C0007634
+47296	47299	GO:0007601	see	vision	Vision	C0042789
+47367	47408	GO:0006310	positive for the homologous recombination	DNA recombination	Recombination, Genetic	C0034865
+47521	47543	GO:0007618	mated to c57bl6/j mice	mating		C1260875
+47618	47621	GO:0007601	see	vision	Vision	C0042789
+47803	47833	GO:0007610	conducted in strict accordance	behavior	Behavior	C0004927
+48592	48614	GO:0019013	core body temperatures	nucleocapsid	viral nucleocapsid location	C1167518
+50102	50123	GO:0001171	reverse transcription	reverse transcription	Reverse Transcription	C0035380
+50258	50278	GO:0019013	taqman core reagents	nucleocapsid	viral nucleocapsid location	C1167518
+50397	50412	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+50623	50638	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+50737	50752	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+50789	50792	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+50878	50906	GO:0009292	transferred to a gene screen	genetic transfer		C1160179
+50960	50968	GO:0016020	membrane	membrane	Membrane	C0596901
+51230	51238	GO:0016020	membrane	membrane	Membrane	C0596901
+51263	51275	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+51263	51288	GO:0005739	mitochondrial respiration	mitochondria	Mitochondria	C0026237
+51796	51799	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+52069	52080	GO:0009060	respiration	respiration	Cell Respiration	C0282636
+52069	52080	GO:0007585	respiration	respiration	respiratory gaseous exchange in organisms	C1160636
+52069	52080	GO:0045333	respiration	respiration	Cell Respiration	C0282636
+52117	52133	GO:0007601	an optical probe	vision	Vision	C0042789
+52241	52252	GO:0009060	respiration	respiration	Cell Respiration	C0282636
+52241	52282	GO:0007585	measurement of basal state 2 respiration,	respiration	respiratory gaseous exchange in organisms	C1160636
+52241	52252	GO:0045333	respiration	respiration	Cell Respiration	C0282636
+52287	52298	GO:0009060	respiration	respiration	Cell Respiration	C0282636
+52287	52306	GO:0007585	state 3 respiration	respiration	respiratory gaseous exchange in organisms	C1160636
+52287	52298	GO:0045333	respiration	respiration	Cell Respiration	C0282636
+52367	52395	GO:0005741	outer mitochondrial membrane	outer mitochondrial membrane	Mitochondrial Membrane, Outer	C0230839
+52435	52447	GO:0009461	cytochrome c	cytochrome c	cytochrome c activity	C1153524
+52435	52447	GO:0045155	cytochrome c	cytochrome c	cytochrome c activity	C1153524
+52482	52493	GO:0009060	respiration	respiration	Cell Respiration	C0282636
+52482	52501	GO:0007585	state 4 respiration	respiration	respiratory gaseous exchange in organisms	C1160636
+52482	52493	GO:0045333	respiration	respiration	Cell Respiration	C0282636
+52556	52559	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+52565	52589	GO:0005625	the solubility of oxygen	soluble		C1749467
+52597	52608	GO:0009060	respiration	respiration	Cell Respiration	C0282636
+52597	52639	GO:0007585	in the respiration buffer at 25  degrees c	respiration	respiratory gaseous exchange in organisms	C1160636
+52597	52608	GO:0045333	respiration	respiration	Cell Respiration	C0282636
+52669	52680	GO:0009060	respiration	respiration	Cell Respiration	C0282636
+52669	52686	GO:0007585	respiration rates	respiration	respiratory gaseous exchange in organisms	C1160636
+52669	52680	GO:0045333	respiration	respiration	Cell Respiration	C0282636
+53411	53452	GO:0043336	resting baseline oxygen consumption rates	site-specific telomere resolvase activity		C1622890
+53598	53601	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+54113	54125	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+54113	54126	GO:0000001	mitochondrial	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+54385	54397	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+54401	54410	GO:0030016	myofibril	myofibril	Myofibrils	C0027075
+55065	55085	GO:0019395	fatty acid oxidation	fatty acid oxidation		C1158366
+55090	55124	GO:0019432	triglyceride synthesis experiments	triglyceride biosynthetic process		C1157337
+55156	55160	GO:0005623	cell	cell	Cells	C0007634
+55175	55206	GO:0019432	triglyceride synthesis studies,	triglyceride biosynthetic process		C1157337
+55308	55336	GO:1902698	]-palmitic acid as described	acidogenesis		C3823112
+55308	55336	GO:1902705	]-palmitic acid as described	acidogenesis		C3823112
+55308	55336	GO:1902706	]-palmitic acid as described	acidogenesis		C3823112
+55308	55336	GO:1902699	]-palmitic acid as described	acidogenesis		C3823112
+55366	55370	GO:0005623	cell	cell	Cells	C0007634
+55396	55407	GO:0009060	respiration	respiration	Cell Respiration	C0282636
+55396	55420	GO:0007585	for respiration studies,	respiration	respiratory gaseous exchange in organisms	C1160636
+55396	55407	GO:0045333	respiration	respiration	Cell Respiration	C0282636
+55417	55421	GO:0005623	cell	cell	Cells	C0007634
+55532	55535	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+55548	55559	GO:0009060	respiration	respiration	Cell Respiration	C0282636
+55548	55567	GO:0007585	respiration studies	respiration	respiratory gaseous exchange in organisms	C1160636
+55548	55559	GO:0045333	respiration	respiration	Cell Respiration	C0282636
+55653	55664	GO:0009060	respiration	respiration	Cell Respiration	C0282636
+55653	55670	GO:0007585	respiration rates	respiration	respiratory gaseous exchange in organisms	C1160636
+55653	55664	GO:0045333	respiration	respiration	Cell Respiration	C0282636
+55725	55758	GO:0040011	evaluation of locomotor activity,	locomotion	Locomotion	C0023946
+59297	59330	GO:0044237	placed into the metabolic chamber	cellular metabolic process	Metabolic Process, Cellular	C1524026
+59630	59643	GO:0098657	oxygen uptake	import into cell	Import into cell	C3888108
+63088	63119	GO:0005488	bound to 3% fatty acid-free bsa	binding	Binding 	C1167622
+64131	64140	GO:0007610	conducted	behavior	Behavior	C0004927
+64531	64541	GO:0007610	conducted.	behavior	Behavior	C0004927
+65062	65082	GO:0035640	exploratory behavior	exploratory behavior	Exploratory Behavior	C0015328
+66659	66694	GO:0004618	p1339-pgk-neomycin targeting vector	phosphoglycerate kinase activity		C1150521
+66835	66839	GO:0005623	cell	cell	Cells	C0007634
+67365	67383	GO:0007586	digestive diseases	digestion	Digestion	C0012238
+67393	67404	GO:0019013	core center	nucleocapsid	viral nucleocapsid location	C1167518
+67420	67464	GO:0019013	clinical nutrition research unit core center	nucleocapsid	viral nucleocapsid location	C1167518
+67976	67986	GO:0005777	peroxisome	peroxisome		C0752063
+68083	68132	GO:0032934	srebp - sterol regulatory element binding protein	sterol binding		C2246292
+68188	68231	GO:0006390	tfam - mitochondrial transcription factor a	transcription from mitochondrial promoter		C1158805
+68305	68336	GO:0007567	deletion of the pgc-1alpha gene	parturition	Birth	C0005615
+68305	68336	GO:0000003	deletion of the pgc-1alpha gene	reproduction	Reproduction	C0035150
+68342	68383	GO:0007567	schematic of the gene targeting strategy.	parturition	Birth	C0005615
+68342	68383	GO:0000003	schematic of the gene targeting strategy.	reproduction	Reproduction	C0035150
+68384	68443	GO:0007567	a region of the murine pgc-1alpha gene containing exons 3-6	parturition	Birth	C0005615
+68384	68443	GO:0000003	a region of the murine pgc-1alpha gene containing exons 3-6	reproduction	Reproduction	C0035150
+68599	68630	GO:0007567	shown below the pgc-1alpha gene	parturition	Birth	C0005615
+68599	68630	GO:0000003	shown below the pgc-1alpha gene	reproduction	Reproduction	C0035150
+68672	68710	GO:0006310	targeted for homologous recombination.	DNA recombination	Recombination, Genetic	C0034865
+68711	68778	GO:0006310	homologous recombination between the 3' end of the targeting vector	DNA recombination	Recombination, Genetic	C0034865
+68783	68802	GO:0007567	the pgc-1alpha gene	parturition	Birth	C0005615
+68783	68802	GO:0000003	the pgc-1alpha gene	reproduction	Reproduction	C0035150
+68860	68893	GO:0007567	inserted into the pgc-1alpha gene	parturition	Birth	C0005615
+68860	68893	GO:0000003	inserted into the pgc-1alpha gene	reproduction	Reproduction	C0035150
+69107	69116	GO:0007586	digestion	digestion	Digestion	C0012238
+69153	69203	GO:0009790	(b) southern blot analysis of embryonic stem cells	embryo development	Embryonic Development	C0013936
+69691	69737	GO:0005840	ethidium bromide staining of 18s ribosomal rna	ribosomal RNA location		C1622954
+70404	70408	GO:0005623	cell	cell	Cells	C0007634
+70536	70585	GO:0042571	obtained with polyclonal anti-pgc-1alpha antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+70844	70850	GO:0040007	growth	growth	Growth	C0018270
+71894	71906	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+71894	71979	GO:0000001	abnormal mitochondrial phenotype in slow-twitch skeletal muscle of pgc-1alpha-/- mice	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+72138	72142	GO:0005623	cell	cell	Cells	C0007634
+72170	72182	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+72170	72191	GO:0000001	for the mitochondrial	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+72410	72425	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+72485	72497	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+72505	72563	GO:0044429	involved in various components of mitochondrial metabolism	mitochondrial subcomponent	Part of mitochondrion	C1179844
+72568	72580	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+72594	72606	GO:0009461	cytochrome c	cytochrome c	cytochrome c activity	C1153524
+72594	72606	GO:0045155	cytochrome c	cytochrome c	cytochrome c activity	C1153524
+72646	72656	GO:0045153	cytochrome	cytochrome	cytochrome activity	C1325304
+72646	72656	GO:0045156	cytochrome	cytochrome	cytochrome activity	C1325304
+72646	72656	GO:0045157	cytochrome	cytochrome	cytochrome activity	C1325304
+72646	72656	GO:0045155	cytochrome	cytochrome	cytochrome activity	C1325304
+72646	72656	GO:0045154	cytochrome	cytochrome	cytochrome activity	C1325304
+72646	72656	GO:0009458	cytochrome	cytochrome	cytochrome activity	C1325304
+72646	72656	GO:0045158	cytochrome	cytochrome	cytochrome activity	C1325304
+72886	72898	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+73321	73332	GO:0009060	respiration	respiration	Cell Respiration	C0282636
+73321	73340	GO:0007585	state 4 respiration	respiration	respiratory gaseous exchange in organisms	C1160636
+73321	73332	GO:0045333	respiration	respiration	Cell Respiration	C0282636
+73744	73784	GO:0040011	a general measure of locomotor activity.	locomotion	Locomotion	C0023946
+73843	73890	GO:0097683	a general measure of extremity muscle strength.	dinoflagellate apex		C3890171
+74849	74896	GO:0006950	abnormal cardiac response to physiologic stress	response to stress	biological adaptation to stress	C0149784
+76187	76210	GO:0019013	core rectal temperature	nucleocapsid	viral nucleocapsid location	C1167518
+76244	76282	GO:0019013	the change in core temperature +/- sem	nucleocapsid	viral nucleocapsid location	C1167518
+76550	76601	GO:0005840	ethidium bromide (eth br) staining of ribosomal rna	ribosomal RNA location		C1622954
+76938	76949	GO:0009060	respiration	respiration	Cell Respiration	C0282636
+76938	76950	GO:0007585	respiration,	respiration	respiratory gaseous exchange in organisms	C1160636
+76938	76949	GO:0045333	respiration	respiration	Cell Respiration	C0282636
+77280	77311	GO:0001889	the development of a pale liver	liver development		C1523347
+78194	78198	GO:0005623	cell	cell	Cells	C0007634
+78637	78648	GO:0009060	respiration	respiration	Cell Respiration	C0282636
+78637	78656	GO:0007585	3 respiration rates	respiration	respiratory gaseous exchange in organisms	C1160636
+78637	78648	GO:0045333	respiration	respiration	Cell Respiration	C0282636
+78847	78891	GO:0009058	tag synthesis rates in isolated hepatocytes.	anabolism	Anabolism	C0220781
+78911	78935	GO:0009058	mean tag synthesis rates	anabolism	Anabolism	C0220781
+78961	78964	GO:0007601	see	vision	Vision	C0042789
+79205	79222	GO:0002524	insulin sensitive	hypersensitivity	Hypersensitivity	C0020517
+80095	80124	GO:0043025	scattered neuronal perikarya,	neuron cell body	Cell body of neuron	C0599444
+80283	80290	GO:0005773	vacuole	vacuole	Vacuole	C0042219
+80303	80321	GO:0016020	membranous debris,	membrane	Membrane	C0596901
+80621	80662	GO:0044237	metabolic gene expression in liver of fed	cellular metabolic process	Metabolic Process, Cellular	C1524026
+81134	81175	GO:0032934	sterol regulatory element binding protein	sterol binding		C2246292
+81211	81230	GO:1902698	fatty acid synthase	acidogenesis		C3823112
+81211	81230	GO:1902705	fatty acid synthase	acidogenesis		C3823112
+81211	81230	GO:1902706	fatty acid synthase	acidogenesis		C3823112
+81211	81230	GO:1902699	fatty acid synthase	acidogenesis		C3823112
+81763	81805	GO:0044237	multi-system energy metabolic derangements	cellular metabolic process	Metabolic Process, Cellular	C1524026

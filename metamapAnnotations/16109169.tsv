@@ -1,0 +1,424 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+0	45	GO:0016458	inactivation of the huntington's disease gene	gene silencing	Gene Silencing	C0598496
+60	85	GO:0009058	anterior streak formation	anabolism	Anabolism	C0220781
+90	126	GO:0009790	early patterning of the mouse embryo	embryo development	Embryonic Development	C0013936
+162	173	GO:0007567	the hd gene	parturition	Birth	C0005615
+162	173	GO:0000003	the hd gene	reproduction	Reproduction	C0035150
+299	311	GO:0007369	gastrulation	gastrulation	Gastrulation	C0259902
+356	392	GO:0009790	patterning of the developing embryo.	embryo development	Embryonic Development	C0013936
+480	500	GO:0009790	embryonic patterning	embryo development	Embryonic Development	C0013936
+505	571	GO:0048598	morphogenesis in homozygous hdhex4/5 huntingtin deficient embryos.	embryonic morphogenesis		C1160087
+612	641	GO:0010467	expression of nutritive genes	gene expression	Gene Expression	C0017262
+661	677	GO:0009790	e7.0-7.5 embryos	embryo development	Embryonic Development	C0013936
+772	796	GO:0009877	absence of a proper node	nodulation		C1160630
+1001	1017	GO:0060322	head development	head development		C2610450
+1032	1047	GO:0007567	genes initially	parturition	Birth	C0005615
+1032	1047	GO:0000003	genes initially	reproduction	Reproduction	C0035150
+1115	1165	GO:0009877	evidenced by the ectopic expression of nodal, fgf8	nodulation		C1160630
+1538	1585	GO:0009790	essential in the early patterning of the embryo	embryo development	Embryonic Development	C0013936
+1586	1647	GO:0090009	for formation of the anterior region of the primitive streak,	primitive streak formation		C2755416
+1648	1701	GO:0045926	and for down-regulation of a subset of dynamic growth	negative regulation of growth		C1160192
+1706	1733	GO:0000988	transcription factor genes.	transcription factor activity		C1148759
+1706	1733	GO:0001070	transcription factor genes.	transcription factor activity		C1148759
+1706	1733	GO:0001071	transcription factor genes.	transcription factor activity		C1148759
+1706	1733	GO:0003700	transcription factor genes.	transcription factor activity		C1148759
+1811	1815	GO:0005623	cell	cell	Cells	C0007634
+1924	1935	GO:0032502	development	development	Biologic Development	C0678723
+2623	2627	GO:0005623	cell	cell	Cells	C0007634
+2740	2800	GO:0016049	the striatal cell specificity of the polyglutamine expansion	cell growth		C0007595
+3059	3110	GO:0043234	the subcellular location of large protein complexes	protein complex location		C1523872
+3155	3164	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+3179	3194	GO:0005515	protein binding	protein binding	Protein Binding	C0033618
+3269	3285	GO:0042995	cellular process	cellular process		C1325880
+3269	3285	GO:0009987	cellular process	cellular process		C1325880
+3319	3340	GO:0036454	growth factor complex	growth factor complex		C3820623
+3351	3364	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+3581	3585	GO:0005623	cell	cell	Cells	C0007634
+3769	3802	GO:0016458	inactivation of the mouse hd gene	gene silencing	Gene Silencing	C0598496
+3855	3859	GO:0005623	cell	cell	Cells	C0007634
+3874	3929	GO:0009790	evidenced by the survival of mouse embryonic stem cells	embryo development	Embryonic Development	C0013936
+4031	4073	GO:0009790	for proper mammalian embryonic development	embryo development	Embryonic Development	C0013936
+4125	4136	GO:0032502	development	development	Biologic Development	C0678723
+4153	4165	GO:0007369	gastrulation	gastrulation	Gastrulation	C0259902
+4231	4243	GO:0022008	neurogenesis	neurogenesis	Neurogenesis	C0814002
+4275	4333	GO:0009790	analysis of huntingtin deficient hdhex4/5/hdhex4/5 embryos	embryo development	Embryonic Development	C0013936
+4342	4391	GO:0016458	that homozygous inactivation of the mouse hd gene	gene silencing	Gene Silencing	C0598496
+4416	4427	GO:0032502	development	development	Biologic Development	C0678723
+4449	4463	GO:0009790	mutant embryos	embryo development	Embryonic Development	C0013936
+4540	4546	GO:0009877	a node	nodulation		C1160630
+4704	4716	GO:0007369	gastrulation	gastrulation	Gastrulation	C0259902
+4775	4779	GO:0005623	cell	cell	Cells	C0007634
+4825	4829	GO:0005623	cell	cell	Cells	C0007634
+4946	4991	GO:0009058	that direct anterior/posterior axis formation	anabolism	Anabolism	C0220781
+4996	5031	GO:0009790	patterning in the developing embryo	embryo development	Embryonic Development	C0013936
+5205	5233	GO:0009790	huntingtin deficient embryos	embryo development	Embryonic Development	C0013936
+5326	5340	GO:0006826	iron transport	iron transport		C1159668
+5374	5385	GO:0098657	iron uptake	import into cell	Import into cell	C3888108
+5410	5421	GO:0006897	endocytosis	endocytosis	Endocytosis	C0014139
+5429	5469	GO:0009790	impaired in huntingtin deficient embryos	embryo development	Embryonic Development	C0013936
+5473	5493	GO:0009790	embryonic stem cells	embryo development	Embryonic Development	C0013936
+5523	5563	GO:0005634	huntingtin shuttles through the nucleus,	cell nucleus	Cell Nucleus	C0007610
+5576	5654	GO:0051179	required for proper nuclear localization of its transcription factor partners,	establishment and maintenance of localization		C1744691
+5701	5714	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+5763	5773	GO:0009790	the embryo	embryo development	Embryonic Development	C0013936
+5839	5862	GO:0010467	the expression of genes	gene expression	Gene Expression	C0017262
+5878	5905	GO:0009790	normal embryonic patterning	embryo development	Embryonic Development	C0013936
+5910	5974	GO:0048598	morphogenesis in hdhex4/5/hdhex4/5 huntingtin deficient embryos.	embryonic morphogenesis		C1160087
+6161	6167	GO:0040007	growth	growth	Growth	C0018270
+6172	6194	GO:0000988	transcription factors.	transcription factor activity		C1148759
+6172	6194	GO:0001070	transcription factors.	transcription factor activity		C1148759
+6172	6194	GO:0001071	transcription factors.	transcription factor activity		C1148759
+6172	6194	GO:0003700	transcription factors.	transcription factor activity		C1148759
+6205	6233	GO:0009790	huntingtin-deficient embryos	embryo development	Embryonic Development	C0013936
+6340	6375	GO:0009790	nutrients to the developing embryo,	embryo development	Embryonic Development	C0013936
+6496	6542	GO:0010467	the expression of a panel of 'nutritive' genes	gene expression	Gene Expression	C0017262
+6565	6612	GO:0009790	hdhex4/5/hdhex4/5 huntingtin deficient embryos.	embryo development	Embryonic Development	C0013936
+6681	6725	GO:0010467	found in the expression of "nutritive" genes	gene expression	Gene Expression	C0017262
+6720	6725	GO:0007567	genes	parturition	Birth	C0005615
+6720	6725	GO:0000003	genes	reproduction	Reproduction	C0035150
+6790	6794	GO:0060417	yolk	yolk		C2610566
+6816	6830	GO:0001570	vasculogenesis	vasculogenesis		C1123009
+6922	6970	GO:0010467	not essential for the proper expression of genes	gene expression	Gene Expression	C0017262
+7067	7078	GO:0032502	development	development	Biologic Development	C0678723
+7110	7133	GO:0010467	the expression of genes	gene expression	Gene Expression	C0017262
+7148	7164	GO:0009790	the early embryo	embryo development	Embryonic Development	C0013936
+7168	7207	GO:0009653	mark morphogenic landmarks in wild-type	morphogenesis	Morphogenesis	C0026559
+7212	7252	GO:0009790	hdhex4/5/hdhex4/5 embryos by whole mount	embryo development	Embryonic Development	C0013936
+7499	7503	GO:0009877	node	nodulation		C1160630
+7631	7670	GO:0009790	formed in huntingtin deficient embryos.	embryo development	Embryonic Development	C0013936
+7767	7794	GO:0009790	expressed in mutant embryos	embryo development	Embryonic Development	C0013936
+7894	7927	GO:0009790	grossly normal in mutant embryos,	embryo development	Embryonic Development	C0013936
+8108	8158	GO:0048870	movement of anterior visceral endoderm (ave) cells	cell motility		C0007608
+8213	8243	GO:0009790	induced in the mutant embryos.	embryo development	Embryonic Development	C0013936
+8464	8474	GO:0009790	f) embryos	embryo development	Embryonic Development	C0013936
+8547	8588	GO:0009790	normally in huntingtin deficient embryos,	embryo development	Embryonic Development	C0013936
+8678	8695	GO:0009790	in mutant embryos	embryo development	Embryonic Development	C0013936
+8725	8748	GO:0006355	transcriptional control	transcriptional control	Transcriptional Regulation	C1158770
+8896	8910	GO:0009790	mutant embryos	embryo development	Embryonic Development	C0013936
+8999	9041	GO:0051179	localization in hdhex4/5/hdhex4/5 embryos.	establishment and maintenance of localization		C1744691
+9033	9040	GO:0009790	embryos	embryo development	Embryonic Development	C0013936
+9033	9040	GO:0009790	embryos	embryo development	Embryonic Development	C0013936
+9230	9248	GO:0001706	endoderm formation	endoderm formation		C1160069
+9299	9316	GO:0009790	wild-type embryos	embryo development	Embryonic Development	C0013936
+9331	9352	GO:0009790	in wild-type embryos,	embryo development	Embryonic Development	C0013936
+9376	9396	GO:0009877	confined to the node	nodulation		C1160630
+9447	9461	GO:0009790	mutant embryos	embryo development	Embryonic Development	C0013936
+9632	9647	GO:0009790	mutant embryos,	embryo development	Embryonic Development	C0013936
+9750	9769	GO:0050789	hnf3beta regulation	regulation of biological process	Regulation of biological process	C1327622
+9819	9851	GO:0009877	the lack of a morphological node	nodulation		C1160630
+9955	9985	GO:0009058	that anterior streak formation	anabolism	Anabolism	C0220781
+9993	10034	GO:0009790	impaired in huntingtin deficient embryos.	embryo development	Embryonic Development	C0013936
+10080	10098	GO:0001707	mesoderm formation	mesoderm formation		C1160070
+10130	10162	GO:0009790	specified in the mutant embryos,	embryo development	Embryonic Development	C0013936
+10382	10386	GO:0009877	node	nodulation		C1160630
+10475	10519	GO:0009790	axial mesoderm in hdhex4/5/hdhex4/5 embryos,	embryo development	Embryonic Development	C0013936
+10573	10577	GO:0005623	cell	cell	Cells	C0007634
+10671	10675	GO:0005623	cell	cell	Cells	C0007634
+10792	10826	GO:0009790	at the anterior embryonic junction	embryo development	Embryonic Development	C0013936
+10841	10848	GO:0042600	chorion	chorion	Chorion 	C1384315
+10967	10971	GO:0005623	cell	cell	Cells	C0007634
+11112	11119	GO:0042600	chorion	chorion	Chorion 	C1384315
+11223	11248	GO:0009790	evx1 in wild-type embryos	embryo development	Embryonic Development	C0013936
+11346	11382	GO:0009877	the absence of a morphological node,	nodulation		C1160630
+11433	11465	GO:0009790	deficient in the mutant embryos.	embryo development	Embryonic Development	C0013936
+11491	11542	GO:0090009	required for formation of anterior primitive streak	primitive streak formation		C2755416
+11590	11627	GO:0009790	insitu hybridizations of e7.5 embryos	embryo development	Embryonic Development	C0013936
+11692	11697	GO:0009877	node,	nodulation		C1160630
+11766	11821	GO:0009790	most strongly in the proximal streak wild-type embryos.	embryo development	Embryonic Development	C0013936
+11831	11849	GO:0009790	in mutant embryos,	embryo development	Embryonic Development	C0013936
+11953	11978	GO:0009790	reduced in mutant embryos	embryo development	Embryonic Development	C0013936
+11993	12027	GO:0051179	the localization of its expression	establishment and maintenance of localization		C1744691
+12063	12086	GO:0009790	as in wild-type embryos	embryo development	Embryonic Development	C0013936
+12188	12213	GO:0009790	reduced in mutant embryos	embryo development	Embryonic Development	C0013936
+12300	12314	GO:0009790	embryos in a-h	embryo development	Embryonic Development	C0013936
+12379	12393	GO:0009790	embryos in i-l	embryo development	Embryonic Development	C0013936
+12541	12548	GO:0042600	chorion	chorion	Chorion 	C1384315
+12553	12569	GO:0009790	= embryonic node	embryo development	Embryonic Development	C0013936
+12606	12613	GO:0009877	= node,	nodulation		C1160630
+12649	12656	GO:0009877	a node,	nodulation		C1160630
+12657	12671	GO:0009790	mutant embryos	embryo development	Embryonic Development	C0013936
+12705	12709	GO:0005623	cell	cell	Cells	C0007634
+12839	12866	GO:0048341	paraxial mesoderm formation	paraxial mesoderm formation		C1522885
+12884	12899	GO:0009790	mutant embryos,	embryo development	Embryonic Development	C0013936
+13008	13012	GO:0005623	cell	cell	Cells	C0007634
+13174	13185	GO:0032502	development	development	Biologic Development	C0678723
+13281	13318	GO:0009790	reduced in hdhex4/5/hdhex4/5 embryos,	embryo development	Embryonic Development	C0013936
+13342	13371	GO:0048339	paraxial mesoderm development	paraxial mesoderm development		C1522883
+13458	13475	GO:0009790	in mutant embryos	embryo development	Embryonic Development	C0013936
+13531	13557	GO:0009790	in mutant embryos at e7.5,	embryo development	Embryonic Development	C0013936
+13639	13643	GO:0005623	cell	cell	Cells	C0007634
+13769	13795	GO:0090009	primitive streak formation	primitive streak formation		C2755416
+13840	13867	GO:0048341	paraxial mesoderm formation	paraxial mesoderm formation		C1522885
+13872	13900	GO:0022008	impaired neural development.	neurogenesis	Neurogenesis	C0814002
+13935	13941	GO:0040007	growth	growth	Growth	C0018270
+14054	14073	GO:0007165	signaling molecules	signal transduction	Signal Transduction	C0037083
+14054	14073	GO:0023052	signaling molecules	biological signaling		C3537152
+14114	14120	GO:0009877	nodal,	nodulation		C1160630
+14121	14173	GO:0032940	a member of the tgfbeta family of secreted molecules	secretion by cell	Cell secretion	C1327616
+14177	14203	GO:0009058	required for the formation	anabolism	Anabolism	C0220781
+14278	14283	GO:0009877	nodal	nodulation		C1160630
+14334	14395	GO:0007566	overlying visceral endoderm at early post implantation stages	embryo implantation	Blastocyst Implantation, natural	C0029976
+14420	14461	GO:0009790	restricted to the posterior of the embryo	embryo development	Embryonic Development	C0013936
+14579	14595	GO:0009877	nodal expression	nodulation		C1160630
+14599	14622	GO:0009877	restricted to the node.	nodulation		C1160630
+14623	14639	GO:0009877	nodal expression	nodulation		C1160630
+14644	14681	GO:0009790	assessed in hdhex4/5/hdhex4/5 embryos	embryo development	Embryonic Development	C0013936
+14738	14764	GO:0009877	heterozygous loss of nodal	nodulation		C1160630
+14862	14882	GO:0009790	ndllacz/ndl+ embryos	embryo development	Embryonic Development	C0013936
+14883	14922	GO:0009790	compared with hdhex4/5/hdhex4/5 embryos	embryo development	Embryonic Development	C0013936
+14941	14974	GO:0009790	in contrast to wild-type embryos,	embryo development	Embryonic Development	C0013936
+14989	15031	GO:0009877	tight restriction of nodal.lacz expression	nodulation		C1160630
+15032	15044	GO:0009877	to the node,	nodulation		C1160630
+15063	15083	GO:0009790	ndllacz/ndl+ embryos	embryo development	Embryonic Development	C0013936
+15092	15126	GO:0009877	nodal.lacz throughout the endoderm	nodulation		C1160630
+15225	15270	GO:0009877	the lack of tight restriction of nodal signal	nodulation		C1160630
+15308	15336	GO:0009877	an organized node structure.	nodulation		C1160630
+15381	15396	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+15397	15429	GO:0009790	in huntingtin deficient embryos.	embryo development	Embryonic Development	C0013936
+15430	15466	GO:0009877	x-gal staining of nodal-lacz embryos	nodulation		C1160630
+15494	15525	GO:0009877	near the node of normal embryos	nodulation		C1160630
+15536	15568	GO:0009790	broad staining in mutant embryos	embryo development	Embryonic Development	C0013936
+15625	15659	GO:0009877	the tight node expression of nodal	nodulation		C1160630
+15660	15677	GO:0009790	in normal embryos	embryo development	Embryonic Development	C0013936
+15685	15707	GO:0009790	lost in mutant embryos	embryo development	Embryonic Development	C0013936
+15713	15761	GO:0009877	consistent with the loss of a morphological node	nodulation		C1160630
+15808	15849	GO:0009790	in situ hybridization of e7.5 day embryos	embryo development	Embryonic Development	C0013936
+15927	15931	GO:0005623	cell	cell	Cells	C0007634
+15961	15978	GO:0009790	in normal embryos	embryo development	Embryonic Development	C0013936
+16019	16046	GO:0009790	expressed in mutant embryos	embryo development	Embryonic Development	C0013936
+16119	16164	GO:0009790	the prospective head region in normal embryos	embryo development	Embryonic Development	C0013936
+16197	16201	GO:0005623	cell	cell	Cells	C0007634
+16209	16226	GO:0009790	in normal embryos	embryo development	Embryonic Development	C0013936
+16239	16269	GO:0009790	unrestricted in mutant embryos	embryo development	Embryonic Development	C0013936
+16321	16349	GO:0009790	maintained in mutant embryos	embryo development	Embryonic Development	C0013936
+16366	16398	GO:0009790	down-regulated in normal embryos	embryo development	Embryonic Development	C0013936
+16391	16398	GO:0009790	embryos	embryo development	Embryonic Development	C0013936
+16391	16398	GO:0009790	embryos	embryo development	Embryonic Development	C0013936
+16536	16550	GO:0007165	fgf8 signaling	signal transduction	Signal Transduction	C0037083
+16536	16550	GO:0023052	fgf8 signaling	biological signaling		C3537152
+16580	16592	GO:0007369	gastrulation	gastrulation	Gastrulation	C0259902
+16593	16613	GO:0009790	in the mouse embryo.	embryo development	Embryonic Development	C0013936
+16635	16649	GO:0016477	cell migration	cell migration	Migration, Cell	C1622501
+16697	16727	GO:0009058	just prior to streak formation	anabolism	Anabolism	C0220781
+16892	16896	GO:0005623	cell	cell	Cells	C0007634
+16946	16975	GO:0009790	in hdhex4/5/hdhex4/5 embryos,	embryo development	Embryonic Development	C0013936
+17315	17329	GO:0009790	mutant embryos	embryo development	Embryonic Development	C0013936
+17435	17460	GO:0009790	hdhex4/5/hdhex4/5 embryos	embryo development	Embryonic Development	C0013936
+17657	17669	GO:0007369	gastrulation	gastrulation	Gastrulation	C0259902
+17753	17762	GO:0009877	the node,	nodulation		C1160630
+17796	17820	GO:0009877	anteriorly from the node	nodulation		C1160630
+17852	17892	GO:0009790	in the mutant hdhex4/5/hdhex4/5 embryos,	embryo development	Embryonic Development	C0013936
+17969	17986	GO:0009790	the entire embryo	embryo development	Embryonic Development	C0013936
+18006	18010	GO:0005623	cell	cell	Cells	C0007634
+18012	18046	GO:0020010	adjacent to the ectoplacental cone	conoid		C1166649
+18088	18130	GO:0050789	in contrast to proper hnf3beta regulation,	regulation of biological process	Regulation of biological process	C1327622
+18225	18303	GO:0000988	huntingtin in the proper restriction of this homeodomain transcription factor.	transcription factor activity		C1148759
+18225	18303	GO:0001070	huntingtin in the proper restriction of this homeodomain transcription factor.	transcription factor activity		C1148759
+18225	18303	GO:0001071	huntingtin in the proper restriction of this homeodomain transcription factor.	transcription factor activity		C1148759
+18225	18303	GO:0003700	huntingtin in the proper restriction of this homeodomain transcription factor.	transcription factor activity		C1148759
+18323	18384	GO:0007165	required for expression of extraembryonic signaling molecules	signal transduction	Signal Transduction	C0037083
+18323	18384	GO:0023052	required for expression of extraembryonic signaling molecules	biological signaling		C3537152
+18386	18422	GO:0009790	previous studies of chimeric embryos	embryo development	Embryonic Development	C0013936
+18504	18515	GO:0032502	development	development	Biologic Development	C0678723
+18565	18612	GO:0009790	critical for the induction of embryonic signals	embryo development	Embryonic Development	C0013936
+18672	18731	GO:0009790	extraembryonic development in huntingtin deficient embryos.	embryo development	Embryonic Development	C0013936
+18740	18762	GO:0000988	a transcription factor	transcription factor activity		C1148759
+18740	18762	GO:0001070	a transcription factor	transcription factor activity		C1148759
+18740	18762	GO:0001071	a transcription factor	transcription factor activity		C1148759
+18740	18762	GO:0003700	a transcription factor	transcription factor activity		C1148759
+18846	18899	GO:0032940	a key regulator of visceral endoderm secreted factors	secretion by cell	Cell secretion	C1327616
+19001	19013	GO:0007369	gastrulation	gastrulation	Gastrulation	C0259902
+19084	19088	GO:0005623	cell	cell	Cells	C0007634
+19147	19176	GO:0009790	in hdhex4/5/hdhex4/5 embryos,	embryo development	Embryonic Development	C0013936
+19214	19248	GO:0035987	visceral endoderm differentiation,	endodermal cell differentiation		C3271469
+19304	19330	GO:0009790	stronger in mutant embryos	embryo development	Embryonic Development	C0013936
+19331	19360	GO:0009790	compared to wild-type embryos	embryo development	Embryonic Development	C0013936
+19388	19410	GO:0000988	a transcription factor	transcription factor activity		C1148759
+19388	19410	GO:0001070	a transcription factor	transcription factor activity		C1148759
+19388	19410	GO:0001071	a transcription factor	transcription factor activity		C1148759
+19388	19410	GO:0003700	a transcription factor	transcription factor activity		C1148759
+19455	19494	GO:0020010	ectoplacental cone in wild-type embryos	conoid		C1166649
+19539	19560	GO:0009790	in the mutant embryos	embryo development	Embryonic Development	C0013936
+19620	19666	GO:0009790	hangs over the anterior of the mutant embryos,	embryo development	Embryonic Development	C0013936
+19677	19734	GO:0030154	abnormal location despite grossly normal differentiation.	cell differentiation	Cell Differentiation process	C0007589
+19790	19822	GO:0009790	in huntingtin deficient embryos.	embryo development	Embryonic Development	C0013936
+20020	20066	GO:0009790	at the junction of embryonic-ectoderm junction	embryo development	Embryonic Development	C0013936
+20075	20100	GO:0009790	normal in mutant embryos,	embryo development	Embryonic Development	C0013936
+20193	20221	GO:0009790	maintained in mutant embryos	embryo development	Embryonic Development	C0013936
+20226	20251	GO:0009790	similar to normal embryos	embryo development	Embryonic Development	C0013936
+20338	20378	GO:0009790	over the anterior of the mutant embryos.	embryo development	Embryonic Development	C0013936
+20379	20427	GO:0007165	expression of extraembryonic signaling molecules	signal transduction	Signal Transduction	C0037083
+20379	20427	GO:0023052	expression of extraembryonic signaling molecules	biological signaling		C3537152
+20572	20601	GO:0009790	in the ave in mutant embryos.	embryo development	Embryonic Development	C0013936
+20583	20600	GO:0009790	in mutant embryos	embryo development	Embryonic Development	C0013936
+20693	20713	GO:0009790	as in normal embryos	embryo development	Embryonic Development	C0013936
+20734	20738	GO:0005623	cell	cell	Cells	C0007634
+20794	20808	GO:0009790	mutant embryos	embryo development	Embryonic Development	C0013936
+20825	20876	GO:0007165	the bmp4 signaling from the extraembryonic ectoderm	signal transduction	Signal Transduction	C0037083
+20825	20876	GO:0023052	the bmp4 signaling from the extraembryonic ectoderm	biological signaling		C3537152
+20930	20960	GO:0009790	disorganized in mutant embryos	embryo development	Embryonic Development	C0013936
+20965	20994	GO:0009790	compared to wild-type embryos	embryo development	Embryonic Development	C0013936
+21045	21073	GO:0009790	in the ave in mutant embryos	embryo development	Embryonic Development	C0013936
+21124	21153	GO:0009058	despite normal ave formation,	anabolism	Anabolism	C0220781
+21173	21196	GO:0009790	form in mutant embryos,	embryo development	Embryonic Development	C0013936
+21253	21276	GO:0009790	wild-type e7.5 embryos,	embryo development	Embryonic Development	C0013936
+21414	21442	GO:0009790	huntingtin deficient embryos	embryo development	Embryonic Development	C0013936
+21435	21442	GO:0009790	embryos	embryo development	Embryonic Development	C0013936
+21603	21613	GO:0009790	embryos in	embryo development	Embryonic Development	C0013936
+21796	21825	GO:0009058	required for proper formation	anabolism	Anabolism	C0220781
+21871	21891	GO:0007165	a signaling molecule	signal transduction	Signal Transduction	C0037083
+21871	21891	GO:0023052	a signaling molecule	biological signaling		C3537152
+22101	22126	GO:0009058	the formation of the node	anabolism	Anabolism	C0220781
+22181	22220	GO:0009790	the embryo along the proximodistal axis	embryo development	Embryonic Development	C0013936
+22542	22571	GO:0007601	seen in the wild-type embryos	vision	Vision	C0042789
+22582	22630	GO:0007165	bmp4 signaling from the extraembryonic ectoderm,	signal transduction	Signal Transduction	C0037083
+22582	22630	GO:0023052	bmp4 signaling from the extraembryonic ectoderm,	biological signaling		C3537152
+22660	22664	GO:0005623	cell	cell	Cells	C0007634
+22667	22671	GO:0005623	pgcs	cell	Cells	C0007634
+22867	22918	GO:0009790	wild-type embryos for alkaline phosphatase activity	embryo development	Embryonic Development	C0013936
+22937	22971	GO:0009790	form in hdhex4/5/hdhex4/5 embryos,	embryo development	Embryonic Development	C0013936
+22983	23002	GO:0007165	that bmp4 signaling	signal transduction	Signal Transduction	C0037083
+22983	23002	GO:0023052	that bmp4 signaling	biological signaling		C3537152
+23189	23207	GO:0009877	nodal antagonists,	nodulation		C1160630
+23306	23322	GO:0022001	posteriorization	posteriorization		C1818578
+23346	23366	GO:0009877	by restricting nodal	nodulation		C1160630
+23371	23384	GO:0007165	wnt signaling	signal transduction	Signal Transduction	C0037083
+23371	23384	GO:0023052	wnt signaling	biological signaling		C3537152
+23394	23423	GO:0009790	in hdhex4/5/hdhex4/5 embryos,	embryo development	Embryonic Development	C0013936
+23506	23538	GO:0009790	compared with wild-type embryos.	embryo development	Embryonic Development	C0013936
+23583	23622	GO:0009790	increased in hdhex4/5/hdhex4/5 embryos,	embryo development	Embryonic Development	C0013936
+23777	23808	GO:0009877	the ectopic expression of nodal	nodulation		C1160630
+23866	23883	GO:0009790	in mutant embryos	embryo development	Embryonic Development	C0013936
+23968	23996	GO:0009058	despite normal ave formation	anabolism	Anabolism	C0220781
+24044	24078	GO:0009790	form in hdhex4/5/hdhex4/5 embryos.	embryo development	Embryonic Development	C0013936
+24111	24125	GO:0009790	mutant embryos	embryo development	Embryonic Development	C0013936
+24118	24125	GO:0009790	embryos	embryo development	Embryonic Development	C0013936
+24275	24292	GO:0009790	wild-type embryos	embryo development	Embryonic Development	C0013936
+24371	24395	GO:0009790	mutant stage 7.5 embryos	embryo development	Embryonic Development	C0013936
+24451	24464	GO:0009790	these embryos	embryo development	Embryonic Development	C0013936
+24457	24464	GO:0009790	embryos	embryo development	Embryonic Development	C0013936
+24590	24603	GO:0048513	organogenesis	organogenesis	Organogenesis	C0242290
+24711	24734	GO:0009790	the embryonic processes	embryo development	Embryonic Development	C0013936
+24833	24837	GO:0005623	cell	cell	Cells	C0007634
+24972	24984	GO:0009405	pathogenesis	pathogenesis	Pathogenesis	C0699748
+25078	25090	GO:0007369	gastrulation	gastrulation	Gastrulation	C0259902
+25148	25163	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+25164	25193	GO:0009790	in hdhex4/5/hdhex4/5 embryos.	embryo development	Embryonic Development	C0013936
+25241	25286	GO:0009058	required for normal anterior streak formation	anabolism	Anabolism	C0220781
+25437	25465	GO:0007567	dynamically expressed genes.	parturition	Birth	C0005615
+25437	25465	GO:0000003	dynamically expressed genes.	reproduction	Reproduction	C0035150
+25552	25611	GO:0010468	down-regulation of a subset of dynamically expressed genes,	regulation of gene expression	Gene Expression Regulation	C0017263
+25683	25727	GO:0009058	a lack of anterior/posterior axis formation,	anabolism	Anabolism	C0220781
+25731	25779	GO:0009058	evidenced by the formation of the ave anteriorly	anabolism	Anabolism	C0220781
+25860	25871	GO:0032502	development	development	Biologic Development	C0678723
+25934	25938	GO:0005623	cell	cell	Cells	C0007634
+25970	25991	GO:0009790	in wild-type embryos,	embryo development	Embryonic Development	C0013936
+26056	26109	GO:0009790	evx1 in the extraembryonic mesoderm of mutant embryos	embryo development	Embryonic Development	C0013936
+26117	26148	GO:0009790	a feature of wild-type embryos,	embryo development	Embryonic Development	C0013936
+26196	26233	GO:0009790	that in huntingtin deficient embryos,	embryo development	Embryonic Development	C0013936
+26337	26371	GO:0010468	the down-regulation of these genes	regulation of gene expression	Gene Expression Regulation	C0017263
+26418	26461	GO:0009790	the failure of huntingtin deficient embryos	embryo development	Embryonic Development	C0013936
+26507	26512	GO:0009877	nodal	nodulation		C1160630
+26548	26596	GO:0006355	a direct role in the transcriptional regulation,	transcriptional control	Transcriptional Regulation	C1158770
+26600	26629	GO:0007567	mrna stability of these genes	parturition	Birth	C0005615
+26600	26629	GO:0000003	mrna stability of these genes	reproduction	Reproduction	C0035150
+26705	26735	GO:0010467	the expression of these genes.	gene expression	Gene Expression	C0017262
+26908	26923	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+26952	26990	GO:0009790	observed in hdhex4/5/hdhex4/5 embryos.	embryo development	Embryonic Development	C0013936
+26991	27046	GO:0009790	extraembryonic development in hdhex4/5/hdhex4/5 embryos	embryo development	Embryonic Development	C0013936
+27167	27174	GO:0042600	chorion	chorion	Chorion 	C1384315
+27369	27397	GO:0009790	in hdhex4/5/hdhex4/5 embryos	embryo development	Embryonic Development	C0013936
+27407	27452	GO:0007165	that further investigation into wnt signaling	signal transduction	Signal Transduction	C0037083
+27407	27452	GO:0023052	that further investigation into wnt signaling	biological signaling		C3537152
+27477	27506	GO:0007165	extraembryonic bmp4 signaling	signal transduction	Signal Transduction	C0037083
+27477	27506	GO:0023052	extraembryonic bmp4 signaling	biological signaling		C3537152
+27578	27595	GO:0009790	in mutant embryos	embryo development	Embryonic Development	C0013936
+27637	27689	GO:0023061	secretion of the appropriate extraembryonic signals.	signal release		C2756020
+27699	27705	GO:0009877	nodal,	nodulation		C1160630
+27733	27799	GO:0009790	ectopically in the visceral endoderm of hdhex4/5/hdhex4/5 embryos.	embryo development	Embryonic Development	C0013936
+27800	27810	GO:0009877	both nodal	nodulation		C1160630
+27831	27837	GO:0040007	growth	growth	Growth	C0018270
+27866	27877	GO:0032502	development	development	Biologic Development	C0678723
+27924	27936	GO:0007369	gastrulation	gastrulation	Gastrulation	C0259902
+28265	28269	GO:0005623	cell	cell	Cells	C0007634
+28291	28319	GO:0009790	huntingtin deficient embryos	embryo development	Embryonic Development	C0013936
+28364	28377	GO:0048513	organogenesis	organogenesis	Organogenesis	C0242290
+28424	28457	GO:0009058	the absence of headfold formation	anabolism	Anabolism	C0220781
+28458	28474	GO:0009790	in these embryos	embryo development	Embryonic Development	C0013936
+28578	28592	GO:0009790	mutant embryos	embryo development	Embryonic Development	C0013936
+28666	28680	GO:0009877	node formation	nodulation		C1160630
+28747	28785	GO:0009877	a node in huntingtin deficient embryos	nodulation		C1160630
+28881	28909	GO:0009790	in hdhex4/5/hdhex4/5 embryos	embryo development	Embryonic Development	C0013936
+28996	29007	GO:0032502	development	development	Biologic Development	C0678723
+29164	29197	GO:0007417	stage for normal cns development.	central nervous system development		C1160339
+29344	29374	GO:0009790	later in embryonic development	embryo development	Embryonic Development	C0013936
+29479	29557	GO:0016458	that stem from the complete inactivation of the polycomb group gene (pc-g) eed	gene silencing	Gene Silencing	C0598496
+29558	29589	GO:0009790	(embryonic ectoderm development	embryo development	Embryonic Development	C0013936
+29686	29697	GO:0032502	development	development	Biologic Development	C0678723
+29699	29726	GO:0009058	lack of headfold formation,	anabolism	Anabolism	C0220781
+29747	29763	GO:0009877	nodal expression	nodulation		C1160630
+29901	29912	GO:0032502	development	development	Biologic Development	C0678723
+29917	29963	GO:0009048	normal maintenance of imprinted x-inactivation	dosage compensation by inactivation of X chromosome	X Chromosome Inactivation function	C0043297
+30037	30083	GO:0009790	investigation in huntingtin deficient embryos.	embryo development	Embryonic Development	C0013936
+30265	30270	GO:0018995	hosts	host organism	Host 	C1167395
+30343	30355	GO:0009405	pathogenesis	pathogenesis	Pathogenesis	C0699748
+30372	30405	GO:0007567	and in accurate genetic replicas,	parturition	Birth	C0005615
+30372	30405	GO:0000003	and in accurate genetic replicas,	reproduction	Reproduction	C0035150
+30520	30596	GO:0009790	without impairing huntingtin's essential activities in embryonic development	embryo development	Embryonic Development	C0013936
+30759	30801	GO:0009790	huntingtin deficiency embryonic phenotypes	embryo development	Embryonic Development	C0013936
+30942	30946	GO:0005623	cell	cell	Cells	C0007634
+31073	31086	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+31091	31138	GO:0043336	proposed for nrsf/rest mediated bdnf expression	site-specific telomere resolvase activity		C1622890
+31185	31245	GO:0010468	absolutely necessary for the appropriate regulation of genes	regulation of gene expression	Gene Expression Regulation	C0017263
+31334	31338	GO:0005623	cell	cell	Cells	C0007634
+31395	31411	GO:0010468	gene regulation.	regulation of gene expression	Gene Expression Regulation	C0017263
+31513	31540	GO:0009790	during early embryogenesis,	embryo development	Embryonic Development	C0013936
+31572	31587	GO:0009877	node formation,	nodulation		C1160630
+31640	31660	GO:0009058	head fold formation,	anabolism	Anabolism	C0220781
+31724	31730	GO:0040007	growth	growth	Growth	C0018270
+31735	31762	GO:0000988	transcription factor genes.	transcription factor activity		C1148759
+31735	31762	GO:0001070	transcription factor genes.	transcription factor activity		C1148759
+31735	31762	GO:0001071	transcription factor genes.	transcription factor activity		C1148759
+31735	31762	GO:0003700	transcription factor genes.	transcription factor activity		C1148759
+31813	31844	GO:0009790	in huntingtin deficient embryos	embryo development	Embryonic Development	C0013936
+31889	31893	GO:0005623	cell	cell	Cells	C0007634
+32063	32115	GO:0009790	anterior streak progression in the developing embryo	embryo development	Embryonic Development	C0013936
+32304	32387	GO:0007567	a pgkneo insertion/replacement inactivating mutation in the mouse hd gene homologue	parturition	Birth	C0005615
+32304	32387	GO:0000003	a pgkneo insertion/replacement inactivating mutation in the mouse hd gene homologue	reproduction	Reproduction	C0035150
+32446	32483	GO:0007610	conducted in accordance with an iacuc	behavior	Behavior	C0004927
+32605	32634	GO:0007565	obtained in timed pregnancies	gestation	Pregnancy	C0032961
+32635	32678	GO:0009291	from mating of hdhex4/5/hdh+ heterozygotes,	unidirectional conjugation		C1160186
+32635	32678	GO:0007618	from mating of hdhex4/5/hdh+ heterozygotes,	mating		C1260875
+32635	32678	GO:0000747	from mating of hdhex4/5/hdh+ heterozygotes,	conjugation with cellular fusion		C1748461
+32635	32678	GO:1990277	from mating of hdhex4/5/hdh+ heterozygotes,	parasexual conjugation with cellular fusion		C3812685
+32760	32767	GO:0009790	embryos	embryo development	Embryonic Development	C0013936
+32813	32859	GO:0009790	separately from morphologically mutant embryos	embryo development	Embryonic Development	C0013936
+32874	32890	GO:0009877	nodal expression	nodulation		C1160630
+32895	32916	GO:0009790	determined in embryos	embryo development	Embryonic Development	C0013936
+32917	32946	GO:0009291	from matings of hdhex4/5/hdh+	unidirectional conjugation		C1160186
+32917	32946	GO:0007618	from matings of hdhex4/5/hdh+	mating		C1260875
+32917	32946	GO:0000747	from matings of hdhex4/5/hdh+	conjugation with cellular fusion		C1748461
+32917	32946	GO:1990277	from matings of hdhex4/5/hdh+	parasexual conjugation with cellular fusion		C3812685
+33124	33131	GO:0009790	embryos	embryo development	Embryonic Development	C0013936
+33370	33391	GO:0009877	nodal.lacz expression	nodulation		C1160630
+33454	33464	GO:0009790	on embryos	embryo development	Embryonic Development	C0013936
+33457	33464	GO:0009790	embryos	embryo development	Embryonic Development	C0013936
+33666	33686	GO:0009790	three to six embryos	embryo development	Embryonic Development	C0013936
+33719	33736	GO:0009790	with every embryo	embryo development	Embryonic Development	C0013936
+33789	33843	GO:0016791	alkaline phosphatase staining of primordial germ cells	phosphoric monoester hydrolase activity		C1149880
+33871	33878	GO:0009790	embryos	embryo development	Embryonic Development	C0013936
+33871	33878	GO:0009790	embryos	embryo development	Embryonic Development	C0013936
+34099	34150	GO:0016791	incubated in alkaline phosphatase staining solution	phosphoric monoester hydrolase activity		C1149880
+34251	34266	GO:0009790	stained embryos	embryo development	Embryonic Development	C0013936
+34304	34324	GO:0009790	whole embryo culture	embryo development	Embryonic Development	C0013936
+34326	34333	GO:0009790	embryos	embryo development	Embryonic Development	C0013936
+34326	34333	GO:0009790	embryos	embryo development	Embryonic Development	C0013936
+34326	34333	GO:0009790	embryos	embryo development	Embryonic Development	C0013936
+34681	34706	GO:0007567	huntington's disease gene	parturition	Birth	C0005615
+34681	34706	GO:0000003	huntington's disease gene	reproduction	Reproduction	C0035150
+34739	34762	GO:0007567	mouse hd gene homologue	parturition	Birth	C0005615
+34739	34762	GO:0000003	mouse hd gene homologue	reproduction	Reproduction	C0035150
+34786	34790	GO:0005623	cell	cell	Cells	C0007634
+34902	34904	GO:0046809	rc	replication compartment		C1167159
+34902	34904	GO:0046809	rc	replication compartment		C1167159
+35323	35340	GO:0042571	antibody reagents	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580

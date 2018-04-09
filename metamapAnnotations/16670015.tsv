@@ -1,0 +1,293 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+25	31	GO:0040007	growth	growth	Growth	C0018270
+111	117	GO:0040007	growth	growth	Growth	C0018270
+199	205	GO:0040007	growth	growth	Growth	C0018270
+277	287	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+452	497	GO:0040007	qtl alleles onto either mutant c57bl/6j-hg/hg	growth	Growth	C0018270
+530	550	GO:0007567	genetic backgrounds.	parturition	Birth	C0005615
+530	550	GO:0000003	genetic backgrounds.	reproduction	Reproduction	C0035150
+831	837	GO:0040007	growth	growth	Growth	C0018270
+1132	1175	GO:0060560	displayed significant differences in growth	developmental growth involved in morphogenesis		C2752783
+1534	1593	GO:0007567	the specific nature of genetic variation influencing growth	parturition	Birth	C0005615
+1715	1747	GO:0007567	caused by single gene mutations.	parturition	Birth	C0005615
+1715	1747	GO:0000003	caused by single gene mutations.	reproduction	Reproduction	C0035150
+1782	1822	GO:0007567	the genetic complexity of disease traits	parturition	Birth	C0005615
+1782	1822	GO:0000003	the genetic complexity of disease traits	reproduction	Reproduction	C0035150
+1832	1861	GO:0007601	seen in the human population.	vision	Vision	C0042789
+1896	1902	GO:0040007	growth	growth	Growth	C0018270
+2121	2127	GO:0040007	growth	growth	Growth	C0018270
+2225	2280	GO:0007567	the specific nature of the underlying genetic variants.	parturition	Birth	C0005615
+2225	2280	GO:0000003	the specific nature of the underlying genetic variants.	reproduction	Reproduction	C0035150
+2478	2495	GO:0007567	genetic variation	parturition	Birth	C0005615
+2478	2495	GO:0000003	genetic variation	reproduction	Reproduction	C0035150
+2897	2924	GO:0007567	defined by genetic markers,	parturition	Birth	C0005615
+2897	2924	GO:0000003	defined by genetic markers,	reproduction	Reproduction	C0035150
+2925	2972	GO:0007567	on the genetic background of a recipient strain	parturition	Birth	C0005615
+2925	2972	GO:0000003	on the genetic background of a recipient strain	reproduction	Reproduction	C0035150
+3550	3556	GO:0040007	growth	growth	Growth	C0018270
+3731	3766	GO:0007165	(suppressor of cytokine signaling 2	signal transduction	Signal Transduction	C0037083
+3731	3766	GO:0023052	(suppressor of cytokine signaling 2	biological signaling		C3537152
+3768	3772	GO:0007567	gene	parturition	Birth	C0005615
+3768	3772	GO:0000003	gene	reproduction	Reproduction	C0035150
+4168	4180	GO:0007567	a known gene	parturition	Birth	C0005615
+4168	4180	GO:0000003	a known gene	reproduction	Reproduction	C0035150
+4355	4369	GO:0007567	the known gene	parturition	Birth	C0005615
+4355	4369	GO:0000003	the known gene	reproduction	Reproduction	C0035150
+4427	4445	GO:0044237	metabolic pathway.	cellular metabolic process	Metabolic Process, Cellular	C1524026
+4446	4475	GO:0007567	different genetic backgrounds	parturition	Birth	C0005615
+4446	4475	GO:0000003	different genetic backgrounds	reproduction	Reproduction	C0035150
+4506	4512	GO:0040007	growth	growth	Growth	C0018270
+4608	4614	GO:0040007	growth	growth	Growth	C0018270
+4728	4772	GO:0040007	between members of the gh signaling pathway.	growth	Growth	C0018270
+4963	4969	GO:0040007	growth	growth	Growth	C0018270
+5246	5275	GO:0007567	loci with altered gene action	parturition	Birth	C0005615
+5246	5275	GO:0000003	loci with altered gene action	reproduction	Reproduction	C0035150
+5846	5881	GO:0098687	created for each chromosomal region	chromosome region	Region of chromosome	C1953345
+6208	6213	GO:0007567	genes	parturition	Birth	C0005615
+6208	6213	GO:0000003	genes	reproduction	Reproduction	C0035150
+6214	6239	GO:0007165	involved in gh signaling,	signal transduction	Signal Transduction	C0037083
+6214	6239	GO:0023052	involved in gh signaling,	biological signaling		C3537152
+6361	6372	GO:0032502	development	development	Biologic Development	C0678723
+6650	6672	GO:0007567	hg genetic backgrounds	parturition	Birth	C0005615
+6650	6672	GO:0000003	hg genetic backgrounds	reproduction	Reproduction	C0035150
+7269	7272	GO:0007601	see	vision	Vision	C0042789
+7410	7416	GO:0040007	growth	growth	Growth	C0018270
+7466	7509	GO:0000003	characterized due to reproductive problems.	reproduction	Reproduction	C0035150
+7742	7775	GO:0098687	five distinct chromosomal regions	chromosome region	Region of chromosome	C1953345
+7924	7961	GO:0007567	the two distinct genetic backgrounds.	parturition	Birth	C0005615
+7924	7961	GO:0000003	the two distinct genetic backgrounds.	reproduction	Reproduction	C0035150
+8442	8472	GO:0060560	no differences in growth rates	developmental growth involved in morphogenesis		C2752783
+8653	8659	GO:0040007	growth	growth	Growth	C0018270
+8789	8795	GO:0040007	growth	growth	Growth	C0018270
+9042	9048	GO:0040007	growth	growth	Growth	C0018270
+9767	9773	GO:0040007	growth	growth	Growth	C0018270
+9835	9848	GO:0007601	seen in males	vision	Vision	C0042789
+10036	10042	GO:0040007	growth	growth	Growth	C0018270
+10343	10410	GO:0002524	dissected fat pad weights as a more sensitive measure of adiposity.	hypersensitivity	Hypersensitivity	C0020517
+10956	10974	GO:0007601	seen in b62m mice.	vision	Vision	C0042789
+11319	11325	GO:0040007	growth	growth	Growth	C0018270
+11689	11695	GO:0040007	growth	growth	Growth	C0018270
+11755	11767	GO:0007601	seen in hg2p	vision	Vision	C0042789
+11875	11881	GO:0040007	growth	growth	Growth	C0018270
+12103	12118	GO:0007601	seen in females	vision	Vision	C0042789
+12505	12545	GO:0007567	introgressed on two genetic backgrounds,	parturition	Birth	C0005615
+12505	12545	GO:0000003	introgressed on two genetic backgrounds,	reproduction	Reproduction	C0035150
+12761	12784	GO:0007567	the mode of gene action	parturition	Birth	C0005615
+12761	12784	GO:0000003	the mode of gene action	reproduction	Reproduction	C0035150
+13464	13482	GO:0007601	seen in hg2m mice.	vision	Vision	C0042789
+13909	13920	GO:0007601	seen for tf	vision	Vision	C0042789
+14543	14547	GO:0033736	(lod	L-lysine 6-oxidase activity		C2247199
+14600	14631	GO:0060560	small differences in all growth	developmental growth involved in morphogenesis		C2752783
+15204	15228	GO:0060560	no differences in growth	developmental growth involved in morphogenesis		C2752783
+15527	15547	GO:0007601	seen in hg8 females,	vision	Vision	C0042789
+17496	17529	GO:0060560	significant differences in growth	developmental growth involved in morphogenesis		C2752783
+17639	17645	GO:0040007	growth	growth	Growth	C0018270
+18060	18096	GO:0007601	seen for the following growth traits	vision	Vision	C0042789
+18815	18846	GO:0002524	a much more sensitive technique	hypersensitivity	Hypersensitivity	C0020517
+20057	20075	GO:0007601	seen in hg17 mice.	vision	Vision	C0042789
+20249	20255	GO:0040007	growth	growth	Growth	C0018270
+20911	20951	GO:0007567	17 hg modifier candidate gene sequencing	parturition	Birth	C0005615
+20911	20951	GO:0000003	17 hg modifier candidate gene sequencing	reproduction	Reproduction	C0035150
+21095	21117	GO:0007567	variation within genes	parturition	Birth	C0005615
+21095	21117	GO:0000003	variation within genes	reproduction	Reproduction	C0035150
+21177	21207	GO:0007567	candidate genes for sequencing	parturition	Birth	C0005615
+21177	21207	GO:0000003	candidate genes for sequencing	reproduction	Reproduction	C0035150
+21187	21192	GO:0007567	genes	parturition	Birth	C0005615
+21187	21192	GO:0000003	genes	reproduction	Reproduction	C0035150
+21255	21280	GO:0007165	involved in gh signaling,	signal transduction	Signal Transduction	C0037083
+21255	21280	GO:0023052	involved in gh signaling,	biological signaling		C3537152
+21345	21383	GO:0007567	forty-four hg modifier candidate genes	parturition	Birth	C0005615
+21345	21383	GO:0000003	forty-four hg modifier candidate genes	reproduction	Reproduction	C0035150
+21485	21518	GO:0007567	(gene microarray pathway profiler	parturition	Birth	C0005615
+21485	21518	GO:0000003	(gene microarray pathway profiler	reproduction	Reproduction	C0035150
+21558	21588	GO:0007567	the coding region of each gene	parturition	Birth	C0005615
+21558	21588	GO:0000003	the coding region of each gene	reproduction	Reproduction	C0035150
+21840	21859	GO:1902698	25,083 amino acids.	acidogenesis		C3823112
+21840	21859	GO:1902705	25,083 amino acids.	acidogenesis		C3823112
+21840	21859	GO:1902706	25,083 amino acids.	acidogenesis		C3823112
+21840	21859	GO:1902699	25,083 amino acids.	acidogenesis		C3823112
+22322	22354	GO:0007567	identified in 14 different genes	parturition	Birth	C0005615
+22322	22354	GO:0000003	identified in 14 different genes	reproduction	Reproduction	C0035150
+22534	22565	GO:1902698	at specific amino acid residues	acidogenesis		C3823112
+22534	22565	GO:1902705	at specific amino acid residues	acidogenesis		C3823112
+22534	22565	GO:1902706	at specific amino acid residues	acidogenesis		C3823112
+22534	22565	GO:1902699	at specific amino acid residues	acidogenesis		C3823112
+22743	22763	GO:0007567	in 9 different genes	parturition	Birth	C0005615
+22743	22763	GO:0000003	in 9 different genes	reproduction	Reproduction	C0035150
+23055	23061	GO:0040007	growth	growth	Growth	C0018270
+23141	23152	GO:0032502	development	development	Biologic Development	C0678723
+23534	23611	GO:0007567	the genetic resource to positionally clone numerous quantitative trait genes.	parturition	Birth	C0005615
+23534	23611	GO:0000003	the genetic resource to positionally clone numerous quantitative trait genes.	reproduction	Reproduction	C0035150
+24272	24278	GO:0040007	growth	growth	Growth	C0018270
+24634	24662	GO:0002524	qtl for hypnotic sensitivity	hypersensitivity	Hypersensitivity	C0020517
+24908	24936	GO:0007567	are due to genetic variation	parturition	Birth	C0005615
+24908	24936	GO:0000003	are due to genetic variation	reproduction	Reproduction	C0035150
+25037	25053	GO:0007567	genetic effects,	parturition	Birth	C0005615
+25037	25053	GO:0000003	genetic effects,	reproduction	Reproduction	C0035150
+25244	25250	GO:0040007	growth	growth	Growth	C0018270
+25725	25731	GO:0040007	growth	growth	Growth	C0018270
+26007	26023	GO:0007567	regards to genes	parturition	Birth	C0005615
+26007	26023	GO:0000003	regards to genes	reproduction	Reproduction	C0035150
+26034	26040	GO:0040007	growth	growth	Growth	C0018270
+26117	26149	GO:0098687	the chromosome into five regions	chromosome region	Region of chromosome	C1953345
+26311	26317	GO:0040007	growth	growth	Growth	C0018270
+26614	26620	GO:0040007	growth	growth	Growth	C0018270
+26848	26861	GO:0019915	lipid storage	lipid storage		C1159705
+26968	26985	GO:0007601	seen in b6c mice.	vision	Vision	C0042789
+27414	27420	GO:0040007	growth	growth	Growth	C0018270
+27516	27534	GO:0007567	the modifier gene.	parturition	Birth	C0005615
+27516	27534	GO:0000003	the modifier gene.	reproduction	Reproduction	C0035150
+27680	27688	GO:0007567	in genes	parturition	Birth	C0005615
+27680	27688	GO:0000003	in genes	reproduction	Reproduction	C0035150
+27956	27976	GO:0040008	regulation of growth	regulation of growth		C1160191
+28063	28097	GO:0060560	differences only in growth traits.	developmental growth involved in morphogenesis		C2752783
+28337	28369	GO:0007567	the most notable candidate genes	parturition	Birth	C0005615
+28337	28369	GO:0000003	the most notable candidate genes	reproduction	Reproduction	C0035150
+28445	28458	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+29295	29329	GO:0007631	such as alterations in food intake	eating	Eating	C0013470
+29334	29354	GO:0002524	insulin sensitivity.	hypersensitivity	Hypersensitivity	C0020517
+29601	29617	GO:0007601	seen in females.	vision	Vision	C0042789
+29839	29859	GO:0007567	saturated with genes	parturition	Birth	C0005615
+29839	29859	GO:0000003	saturated with genes	reproduction	Reproduction	C0035150
+29860	29919	GO:0035556	involved in the central gh intracellular signaling pathway,	intracellular signal transduction pathway		C2755994
+29966	29972	GO:0040007	growth	growth	Growth	C0018270
+30160	30175	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+30254	30283	GO:0007567	reside in a gene enhancing gh	parturition	Birth	C0005615
+30254	30283	GO:0000003	reside in a gene enhancing gh	reproduction	Reproduction	C0035150
+30314	30336	GO:0007567	the structural gh gene	parturition	Birth	C0005615
+30314	30336	GO:0000003	the structural gh gene	reproduction	Reproduction	C0035150
+30501	30514	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+30647	30679	GO:0000988	the primary transcription factor	transcription factor activity		C1148759
+30647	30679	GO:0001070	the primary transcription factor	transcription factor activity		C1148759
+30647	30679	GO:0001071	the primary transcription factor	transcription factor activity		C1148759
+30647	30679	GO:0003700	the primary transcription factor	transcription factor activity		C1148759
+30726	30741	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+30990	30996	GO:0040007	growth	growth	Growth	C0018270
+31034	31068	GO:0007567	the most intriguing candidate gene	parturition	Birth	C0005615
+31034	31068	GO:0000003	the most intriguing candidate gene	reproduction	Reproduction	C0035150
+31247	31251	GO:0005623	cell	cell	Cells	C0007634
+31303	31320	GO:0030073	insulin secretion	insulin secretion		C1256369
+31325	31344	GO:0042593	glucose homeostasis	glucose homeostasis		C1326961
+31368	31395	GO:0007567	candidate hg modifier genes	parturition	Birth	C0005615
+31368	31395	GO:0000003	candidate hg modifier genes	reproduction	Reproduction	C0035150
+31756	31771	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+31845	31850	GO:0007567	genes	parturition	Birth	C0005615
+31845	31850	GO:0000003	genes	reproduction	Reproduction	C0035150
+32048	32089	GO:0048806	the development of gene expression assays	genitalia development		C1820234
+32153	32163	GO:0007567	that genes	parturition	Birth	C0005615
+32153	32163	GO:0000003	that genes	reproduction	Reproduction	C0035150
+32453	32482	GO:0007567	in nine of the 44 total genes	parturition	Birth	C0005615
+32453	32482	GO:0000003	in nine of the 44 total genes	reproduction	Reproduction	C0035150
+32642	32664	GO:0007567	four of the nine genes	parturition	Birth	C0005615
+32642	32664	GO:0000003	four of the nine genes	reproduction	Reproduction	C0035150
+32789	32845	GO:0016567	rely on ubiquitination dependent proteasomal degradation	protein ubiquitination	Ubiquitination	C1519751
+32857	32869	GO:0007165	gh signaling	signal transduction	Signal Transduction	C0037083
+32857	32869	GO:0023052	gh signaling	biological signaling		C3537152
+32915	32937	GO:0016567	protein ubiquitination	protein ubiquitination	Ubiquitination	C1519751
+33207	33225	GO:0007567	all of these genes	parturition	Birth	C0005615
+33207	33225	GO:0000003	all of these genes	reproduction	Reproduction	C0035150
+33255	33293	GO:0007567	positional hg modifier candidate genes	parturition	Birth	C0005615
+33255	33293	GO:0000003	positional hg modifier candidate genes	reproduction	Reproduction	C0035150
+33482	33488	GO:0040007	growth	growth	Growth	C0018270
+33542	33553	GO:0032502	development	development	Biologic Development	C0678723
+33808	33877	GO:0007567	essential information on the molecular genetic architecture of growth	parturition	Birth	C0005615
+34642	34672	GO:0008233	by digesting with proteinase k	peptidase activity		C1150095
+34815	34824	GO:0007586	digestion	digestion	Digestion	C0012238
+35575	35586	GO:0032502	development	development	Biologic Development	C0678723
+37037	37078	GO:0009291	maintained through brother-sister mating.	unidirectional conjugation		C1160186
+37037	37078	GO:0007618	maintained through brother-sister mating.	mating		C1260875
+37037	37078	GO:0000747	maintained through brother-sister mating.	conjugation with cellular fusion		C1748461
+37037	37078	GO:1990277	maintained through brother-sister mating.	parasexual conjugation with cellular fusion		C3812685
+37245	37256	GO:0032502	development	development	Biologic Development	C0678723
+37672	37699	GO:0033736	the 2-lod support interval.	L-lysine 6-oxidase activity		C2247199
+38762	38803	GO:0009291	maintained through brother-sister mating.	unidirectional conjugation		C1160186
+38762	38803	GO:0007618	maintained through brother-sister mating.	mating		C1260875
+38762	38803	GO:0000747	maintained through brother-sister mating.	conjugation with cellular fusion		C1748461
+38762	38803	GO:1990277	maintained through brother-sister mating.	parasexual conjugation with cellular fusion		C3812685
+38970	38981	GO:0032502	development	development	Biologic Development	C0678723
+39118	39166	GO:0007567	the only genetic differences between the strains	parturition	Birth	C0005615
+39118	39166	GO:0000003	the only genetic differences between the strains	reproduction	Reproduction	C0035150
+39865	39906	GO:0009291	maintained through brother-sister mating.	unidirectional conjugation		C1160186
+39865	39906	GO:0007618	maintained through brother-sister mating.	mating		C1260875
+39865	39906	GO:0000747	maintained through brother-sister mating.	conjugation with cellular fusion		C1748461
+39865	39906	GO:1990277	maintained through brother-sister mating.	parasexual conjugation with cellular fusion		C3812685
+43006	43039	GO:0007567	identification of candidate genes	parturition	Birth	C0005615
+43006	43039	GO:0000003	identification of candidate genes	reproduction	Reproduction	C0035150
+43034	43039	GO:0007567	genes	parturition	Birth	C0005615
+43034	43039	GO:0000003	genes	reproduction	Reproduction	C0035150
+43171	43207	GO:0007567	functional information for each gene	parturition	Birth	C0005615
+43171	43207	GO:0000003	functional information for each gene	reproduction	Reproduction	C0035150
+43219	43298	GO:0007165	a custom gh signaling gene map annotator and pathway profiler (genmapp) pathway	signal transduction	Signal Transduction	C0037083
+43334	43355	GO:0000785	color-coding of genes	chromatin	chromatin location	C1325550
+43362	43369	GO:0007567	genmapp	parturition	Birth	C0005615
+43362	43369	GO:0000003	genmapp	reproduction	Reproduction	C0035150
+43376	43408	GO:0007567	the selection of candidate genes	parturition	Birth	C0005615
+43376	43408	GO:0000003	the selection of candidate genes	reproduction	Reproduction	C0035150
+43460	43485	GO:0007567	candidate gene sequencing	parturition	Birth	C0005615
+43460	43485	GO:0000003	candidate gene sequencing	reproduction	Reproduction	C0035150
+43549	43605	GO:0007567	3' untranslated regions for each selected candidate gene	parturition	Birth	C0005615
+43549	43605	GO:0000003	3' untranslated regions for each selected candidate gene	reproduction	Reproduction	C0035150
+43916	43934	GO:0007567	sets for each gene	parturition	Birth	C0005615
+43916	43934	GO:0000003	sets for each gene	reproduction	Reproduction	C0035150
+44593	44596	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+45042	45045	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+45042	45059	GO:0043739	0.06 mug/ml etbr,	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+45558	45589	GO:0007567	b6 mrna sequences for each gene	parturition	Birth	C0005615
+45558	45589	GO:0000003	b6 mrna sequences for each gene	reproduction	Reproduction	C0035150
+45886	45907	GO:0007567	created for each gene	parturition	Birth	C0005615
+45886	45907	GO:0000003	created for each gene	reproduction	Reproduction	C0035150
+46749	46755	GO:0040007	growth	growth	Growth	C0018270
+46922	46961	GO:0007567	b6 for mmu2 hg modifier candidate genes	parturition	Birth	C0005615
+46922	46961	GO:0000003	b6 for mmu2 hg modifier candidate genes	reproduction	Reproduction	C0035150
+47057	47087	GO:0007567	17 hg modifier candidate genes	parturition	Birth	C0005615
+47057	47087	GO:0000003	17 hg modifier candidate genes	reproduction	Reproduction	C0035150
+47822	47828	GO:0040007	growth	growth	Growth	C0018270
+47846	47877	GO:0009291	details of the congenic matings	unidirectional conjugation		C1160186
+47846	47877	GO:0007618	details of the congenic matings	mating		C1260875
+47846	47877	GO:0000747	details of the congenic matings	conjugation with cellular fusion		C1748461
+47846	47877	GO:1990277	details of the congenic matings	parasexual conjugation with cellular fusion		C3812685
+47905	47916	GO:0009291	the matings	unidirectional conjugation		C1160186
+47905	47916	GO:0007618	the matings	mating		C1260875
+47905	47916	GO:0000747	the matings	conjugation with cellular fusion		C1748461
+47905	47916	GO:1990277	the matings	parasexual conjugation with cellular fusion		C3812685
+47905	47916	GO:0009291	the matings	unidirectional conjugation		C1160186
+47905	47916	GO:0007618	the matings	mating		C1260875
+47905	47916	GO:0000747	the matings	conjugation with cellular fusion		C1748461
+47905	47916	GO:1990277	the matings	parasexual conjugation with cellular fusion		C3812685
+48552	48564	GO:0035188	hatched bars	hatching		C0598016
+48739	48776	GO:0098687	divided into five chromosomal regions	chromosome region	Region of chromosome	C1953345
+49059	49065	GO:0040007	growth	growth	Growth	C0018270
+49208	49214	GO:0040007	growth	growth	Growth	C0018270
+49356	49362	GO:0040007	growth	growth	Growth	C0018270
+49439	49445	GO:0040007	growth	growth	Growth	C0018270
+49783	49789	GO:0040007	growth	growth	Growth	C0018270
+49822	49827	GO:0007567	genes	parturition	Birth	C0005615
+49822	49827	GO:0000003	genes	reproduction	Reproduction	C0035150
+49855	49879	GO:0040007	involved in gh signaling	growth	Growth	C0018270
+49943	49948	GO:0007567	genes	parturition	Birth	C0005615
+49943	49948	GO:0000003	genes	reproduction	Reproduction	C0035150
+49995	50029	GO:0007567	mmu genomic position for each gene	parturition	Birth	C0005615
+49995	50029	GO:0000003	mmu genomic position for each gene	reproduction	Reproduction	C0035150
+50065	50070	GO:0007567	genes	parturition	Birth	C0005615
+50065	50070	GO:0000003	genes	reproduction	Reproduction	C0035150
+50065	50070	GO:0007567	genes	parturition	Birth	C0005615
+50065	50070	GO:0000003	genes	reproduction	Reproduction	C0035150
+50212	50235	GO:0007567	forty-four of the genes	parturition	Birth	C0005615
+50212	50235	GO:0000003	forty-four of the genes	reproduction	Reproduction	C0035150
+50428	50434	GO:0040007	growth	growth	Growth	C0018270
+50490	50500	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+50500	50506	GO:0033736	; lod,	L-lysine 6-oxidase activity		C2247199
+50787	50800	GO:0033736	peak lod from	L-lysine 6-oxidase activity		C2247199
+51296	51307	GO:0032502	development	development	Biologic Development	C0678723
+52543	52549	GO:0040007	growth	growth	Growth	C0018270
+54132	54162	GO:0007567	17 hg modifier candidate genes	parturition	Birth	C0005615
+54132	54162	GO:0000003	17 hg modifier candidate genes	reproduction	Reproduction	C0035150
+54232	54242	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+54248	54258	GO:1902698	amino acid	acidogenesis		C3823112
+54248	54258	GO:1902705	amino acid	acidogenesis		C3823112
+54248	54258	GO:1902706	amino acid	acidogenesis		C3823112
+54248	54258	GO:1902699	amino acid	acidogenesis		C3823112
+54353	54373	GO:1902698	a amino acid change,	acidogenesis		C3823112
+54353	54373	GO:1902705	a amino acid change,	acidogenesis		C3823112
+54353	54373	GO:1902706	a amino acid change,	acidogenesis		C3823112
+54353	54373	GO:1902699	a amino acid change,	acidogenesis		C3823112

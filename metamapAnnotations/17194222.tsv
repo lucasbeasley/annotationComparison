@@ -1,0 +1,411 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+0	38	GO:0007567	genetic analysis of the roles of bmp2,	parturition	Birth	C0005615
+0	38	GO:0000003	genetic analysis of the roles of bmp2,	reproduction	Reproduction	C0035150
+103	151	GO:0060349	bone morphogenetic protein (bmp) family members,	bone morphogenesis		C2610491
+209	225	GO:0060173	limb development	limb development	Limb Development	C1517884
+353	395	GO:0009790	associated with early embryonic lethality,	embryo development	Embryonic Development	C0013936
+459	479	GO:0060349	among bmp molecules,	bone morphogenesis		C2610491
+514	555	GO:0060349	the specific roles of these bmp molecules	bone morphogenesis		C2610491
+583	599	GO:0060173	limb development	limb development	Limb Development	C1517884
+1087	1121	GO:0030509	a threshold level of bmp signaling	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+1151	1165	GO:0051216	chondrogenesis	chondrogenesis	Chondrogenesis	C0598067
+1177	1208	GO:0051216	some chondrogenic condensations	chondrogenesis	Chondrogenesis	C0598067
+1308	1347	GO:0051216	subsequent chondrogenic differentiation	chondrogenesis	Chondrogenesis	C0598067
+1512	1524	GO:0001503	osteogenesis	osteogenesis	Osteogenesis	C0029433
+1537	1575	GO:0007165	a group of related signaling molecules	signal transduction	Signal Transduction	C0037083
+1537	1575	GO:0023052	a group of related signaling molecules	biological signaling		C3537152
+1583	1610	GO:0060349	bone morphogenetic proteins	bone morphogenesis		C2610491
+1636	1686	GO:0009058	important roles in the formation of the structures	anabolism	Anabolism	C0220781
+1792	1796	GO:0005623	cell	cell	Cells	C0007634
+1806	1851	GO:0009790	produced in overlapping regions of the embryo	embryo development	Embryonic Development	C0013936
+2005	2016	GO:0032502	development	development	Biologic Development	C0678723
+2595	2649	GO:0060348	a severe impairment in the development of bone tissue,	bone development	Bone Development	C0005939
+2595	2649	GO:0009888	a severe impairment in the development of bone tissue,	histogenesis	Histogenic Process	C0178679
+2790	2804	GO:0009790	in the embryo.	embryo development	Embryonic Development	C0013936
+2820	2847	GO:0060349	bone morphogenetic proteins	bone morphogenesis		C2610491
+2859	2867	GO:0032940	secreted	secretion by cell	Cell secretion	C1327616
+2868	2887	GO:0007165	signaling molecules	signal transduction	Signal Transduction	C0037083
+2868	2887	GO:0023052	signaling molecules	biological signaling		C3537152
+2918	2924	GO:0040007	growth	growth	Growth	C0018270
+3012	3034	GO:0001503	ectopic bone formation	osteogenesis	Osteogenesis	C0029433
+3180	3201	GO:0032502	developmental process	developmental process	Developmental process	C1511806
+3236	3249	GO:0009653	morphogenesis	morphogenesis	Morphogenesis	C0026559
+3353	3369	GO:0060173	limb development	limb development	Limb Development	C1517884
+3371	3375	GO:0060349	bmps	bone morphogenesis		C2610491
+3461	3465	GO:0005623	cell	cell	Cells	C0007634
+3490	3525	GO:0030154	differentiation of various tissues,	cell differentiation	Cell Differentiation process	C0007589
+3578	3594	GO:0060173	limb development	limb development	Limb Development	C1517884
+3595	3617	GO:0030509	in which bmp signaling	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+3774	3858	GO:0007165	to sonic hedghog (shh) signaling emanating from the posterior margin of the limb bud	signal transduction	Signal Transduction	C0037083
+3774	3858	GO:0023052	to sonic hedghog (shh) signaling emanating from the posterior margin of the limb bud	biological signaling		C3537152
+4550	4563	GO:0030509	bmp signaling	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+4848	4867	GO:0009790	bmp2 mutant embryos	embryo development	Embryonic Development	C0013936
+4962	4984	GO:0009790	bmp7-deficient embryos	embryo development	Embryonic Development	C0013936
+5540	5565	GO:0007165	induced by shh signaling,	signal transduction	Signal Transduction	C0037083
+5540	5565	GO:0023052	induced by shh signaling,	biological signaling		C3537152
+6195	6209	GO:0030509	bmp signaling,	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+6530	6558	GO:0030509	bmp signaling in this tissue	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+6698	6733	GO:0009790	noted above, bmp7-deficient embryos	embryo development	Embryonic Development	C0013936
+7344	7397	GO:0097194	is in the apoptotic death of the interdigital tissue.	apoptosis	Apoptosis	C0162638
+7344	7397	GO:0006915	is in the apoptotic death of the interdigital tissue.	apoptosis	Apoptosis	C0162638
+7463	7481	GO:0030509	that bmp signaling	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+7710	7745	GO:0090269	fibroblast growth factor production	fibroblast growth factor production		C2755688
+7950	7956	GO:0040007	growth	growth	Growth	C0018270
+8052	8071	GO:0007165	fgf signaling feeds	signal transduction	Signal Transduction	C0037083
+8052	8071	GO:0023052	fgf signaling feeds	biological signaling		C3537152
+8255	8278	GO:0007224	expanded shh signaling,	Shh signaling pathway		C3158055
+8355	8371	GO:0060173	limb development	limb development	Limb Development	C1517884
+8514	8557	GO:0007165	that signaling through the bmpr-ib receptor	signal transduction	Signal Transduction	C0037083
+8514	8557	GO:0023052	that signaling through the bmpr-ib receptor	biological signaling		C3537152
+8590	8612	GO:0001502	cartilage condensation	cartilage condensation		C1160402
+8687	8741	GO:0051216	all chondrogenic differentiation in the mouse limb bud	chondrogenesis	Chondrogenesis	C0598067
+8969	8995	GO:0030509	bmp signaling as necessary	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+9048	9062	GO:0051216	chondrogenesis	chondrogenesis	Chondrogenesis	C0598067
+9143	9157	GO:0051216	chondrogenesis	chondrogenesis	Chondrogenesis	C0598067
+9172	9186	GO:0051216	chondrogenesis	chondrogenesis	Chondrogenesis	C0598067
+9382	9411	GO:0030154	in cartilage differentiation,	cell differentiation	Cell Differentiation process	C0007589
+9412	9427	GO:0001503	bone formation,	osteogenesis	Osteogenesis	C0029433
+9437	9447	GO:0008152	metabolism	metabolism	Metabolism	C0025519
+9534	9584	GO:0030154	not displayed defects in skeletal differentiation,	cell differentiation	Cell Differentiation process	C0007589
+9635	9693	GO:0030509	further insights into the potential roles of bmp signaling	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+9867	9883	GO:0060173	limb development	limb development	Limb Development	C1517884
+9917	9951	GO:0009790	both lethal early in embryogenesis	embryo development	Embryonic Development	C0013936
+9997	10009	GO:0007567	these genes.	parturition	Birth	C0005615
+9997	10009	GO:0000003	these genes.	reproduction	Reproduction	C0035150
+10056	10072	GO:0060173	limb development	limb development	Limb Development	C1517884
+10073	10122	GO:0000150	through the action of a cre-recombinase transgene	recombinase activity		C1148744
+10592	10653	GO:0051216	in the chondrogenic condensation of the posterior digit rays,	chondrogenesis	Chondrogenesis	C0598067
+10814	10828	GO:0051216	chondrogenesis	chondrogenesis	Chondrogenesis	C0598067
+10830	10842	GO:0001503	osteogenesis	osteogenesis	Osteogenesis	C0029433
+10830	10842	GO:0001503	osteogenesis	osteogenesis	Osteogenesis	C0029433
+11088	11108	GO:0001501	skeletal development	skeletal development		C1160401
+11156	11170	GO:0051216	chondrogenesis	chondrogenesis	Chondrogenesis	C0598067
+11180	11208	GO:0009058	complete skeletal formation,	anabolism	Anabolism	C0220781
+11258	11305	GO:0001503	for bmp activity in osteogenic differentiation.	osteogenesis	Osteogenesis	C0029433
+11331	11357	GO:0030509	the roles of bmp signaling	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+11589	11609	GO:0007567	survive until birth.	parturition	Birth	C0005615
+11671	11695	GO:0009790	in embryonic development	embryo development	Embryonic Development	C0013936
+12011	12024	GO:0006310	recombination	DNA recombination	Recombination, Genetic	C0034865
+12026	12029	GO:0007601	see	vision	Vision	C0042789
+12291	12307	GO:0060173	limb development	limb development	Limb Development	C1517884
+12309	12362	GO:0006310	resulting in complete recombination of floxed alleles	DNA recombination	Recombination, Genetic	C0034865
+12581	12597	GO:0009790	at embryonic day	embryo development	Embryonic Development	C0013936
+12847	12860	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+13141	13162	GO:0070914	expressed in the aer,	UV-damage excision repair		C2753997
+13674	13688	GO:0051216	chondrogenesis	chondrogenesis	Chondrogenesis	C0598067
+13693	13705	GO:0001503	osteogenesis	osteogenesis	Osteogenesis	C0029433
+14274	14316	GO:0030154	apparently normal skeletal differentiation	cell differentiation	Cell Differentiation process	C0007589
+14427	14499	GO:0009058	no defects in the formation of the normal appendicular skeletal elements	anabolism	Anabolism	C0220781
+14832	14855	GO:0007567	copies of the bmp4 gene	parturition	Birth	C0005615
+14832	14855	GO:0000003	copies of the bmp4 gene	reproduction	Reproduction	C0035150
+14860	14885	GO:0007567	one copy of the bmp2 gene	parturition	Birth	C0005615
+14860	14885	GO:0000003	one copy of the bmp2 gene	reproduction	Reproduction	C0035150
+15067	15079	GO:0007601	seen in mice	vision	Vision	C0042789
+15868	15877	GO:0007601	see below	vision	Vision	C0042789
+16468	16483	GO:0030154	differentiation	cell differentiation	Cell Differentiation process	C0007589
+16638	16653	GO:0007601	seen in bmp2c/c	vision	Vision	C0042789
+16638	16653	GO:0007601	seen in bmp2c/c	vision	Vision	C0042789
+17283	17307	GO:0030154	skeletal differentiation	cell differentiation	Cell Differentiation process	C0007589
+17902	17928	GO:0007567	the origin of this defect,	parturition	Birth	C0005615
+17902	17928	GO:0000003	the origin of this defect,	reproduction	Reproduction	C0035150
+17941	17966	GO:0009790	embryonic limbs at e15.5,	embryo development	Embryonic Development	C0013936
+18220	18231	GO:0032502	development	development	Biologic Development	C0678723
+18318	18327	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+18318	18327	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+18413	18422	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+18413	18422	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+18649	18653	GO:0005623	cell	cell	Cells	C0007634
+18717	18726	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+18717	18726	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+18753	18771	GO:0070914	is within the aer.	UV-damage excision repair		C2753997
+18763	18770	GO:0070914	the aer	UV-damage excision repair		C2753997
+18980	19000	GO:0070914	expansion of the aer	UV-damage excision repair		C2753997
+19002	19011	GO:0007601	see below	vision	Vision	C0042789
+19068	19075	GO:0070914	the aer	UV-damage excision repair		C2753997
+19177	19181	GO:0007601	seen	vision	Vision	C0042789
+19232	19269	GO:0070914	for expression of aer-specific marker	UV-damage excision repair		C2753997
+19303	19310	GO:0070914	the aer	UV-damage excision repair		C2753997
+19387	19396	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+19387	19396	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+19465	19469	GO:0005623	cell	cell	Cells	C0007634
+19557	19611	GO:0070914	strong acridine orange staining in the remnants of aer	UV-damage excision repair		C2753997
+19670	19677	GO:0070914	the aer	UV-damage excision repair		C2753997
+19794	19803	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+19794	19803	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+19811	19815	GO:0005623	cell	cell	Cells	C0007634
+19869	19895	GO:0009790	cre mutant embryonic limbs	embryo development	Embryonic Development	C0013936
+19942	19989	GO:0030509	developing with reduced levels of bmp signaling	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+19976	19989	GO:0030509	bmp signaling	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+20206	20219	GO:0007224	shh signaling	Shh signaling pathway		C3158055
+20281	20321	GO:0007567	based on both activation of target genes	parturition	Birth	C0005615
+20281	20321	GO:0000003	based on both activation of target genes	reproduction	Reproduction	C0035150
+20403	20451	GO:0009653	the patterning effect of this morphogenic signal	morphogenesis	Morphogenesis	C0026559
+21588	21616	GO:0030509	argues against bmp signaling	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+22285	22319	GO:0030509	a threshold level of bmp signaling	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+22323	22373	GO:0097194	necessary interdigitally for programmed cell death	apoptosis	Apoptosis	C0162638
+22323	22373	GO:0006915	necessary interdigitally for programmed cell death	apoptosis	Apoptosis	C0162638
+23226	23260	GO:0070914	a concomitant expansion of the aer	UV-damage excision repair		C2753997
+23508	23532	GO:0070914	the expansion of the aer	UV-damage excision repair		C2753997
+23533	23564	GO:0030509	in the absence of bmp signaling	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+23667	23675	GO:0070914	the aer.	UV-damage excision repair		C2753997
+23676	23707	GO:0010467	expression of several fgf genes	gene expression	Gene Expression	C0017262
+23720	23742	GO:0070914	maintenance of the aer	UV-damage excision repair		C2753997
+23829	23838	GO:0007165	signaling	signal transduction	Signal Transduction	C0037083
+23829	23838	GO:0023052	signaling	biological signaling		C3537152
+23861	23869	GO:0070914	the aer.	UV-damage excision repair		C2753997
+23911	23937	GO:0007165	supported by fgf signaling	signal transduction	Signal Transduction	C0037083
+23911	23937	GO:0023052	supported by fgf signaling	biological signaling		C3537152
+23938	23950	GO:0070914	from the aer	UV-damage excision repair		C2753997
+24221	24260	GO:0009058	result in the formation of extra digits	anabolism	Anabolism	C0220781
+24489	24511	GO:0001502	cartilage condensation	cartilage condensation		C1160402
+24698	24736	GO:0051216	the earliest known chondrogenic marker	chondrogenesis	Chondrogenesis	C0598067
+24895	24941	GO:0009058	a failure in the formation of posterior digits	anabolism	Anabolism	C0220781
+24979	24997	GO:0007567	genes such as msx2	parturition	Birth	C0005615
+24979	24997	GO:0000003	genes such as msx2	reproduction	Reproduction	C0035150
+25207	25264	GO:0051216	expressed in the non-chondrogenic interdigital mesenchyme	chondrogenesis	Chondrogenesis	C0598067
+25474	25488	GO:0051216	chondrogenesis	chondrogenesis	Chondrogenesis	C0598067
+25674	25733	GO:0030509	a consequence of the overall level of bmp signaling falling	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+25767	25781	GO:0051216	chondrogenesis	chondrogenesis	Chondrogenesis	C0598067
+26078	26111	GO:0030154	skeletal differentiation in limbs	cell differentiation	Cell Differentiation process	C0007589
+26112	26159	GO:0030509	developing with reduced levels of bmp signaling	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+26354	26392	GO:0030154	the skeletal differentiation pathways.	cell differentiation	Cell Differentiation process	C0007589
+26633	26647	GO:0051216	chondrogenesis	chondrogenesis	Chondrogenesis	C0598067
+26652	26664	GO:0001503	osteogenesis	osteogenesis	Osteogenesis	C0029433
+26792	26795	GO:0007601	see	vision	Vision	C0042789
+26895	26912	GO:0009058	osteoid formation	anabolism	Anabolism	C0220781
+27437	27480	GO:0030154	severe defects in skeletal differentiation.	cell differentiation	Cell Differentiation process	C0007589
+27500	27545	GO:0051216	not critical for chondrogenic differentiation	chondrogenesis	Chondrogenesis	C0598067
+27573	27612	GO:0051216	chondrogenic condensation of the digits	chondrogenesis	Chondrogenesis	C0598067
+28204	28218	GO:0051216	chondrogenesis	chondrogenesis	Chondrogenesis	C0598067
+28387	28425	GO:0030154	a wave of hypertrophic differentiation	cell differentiation	Cell Differentiation process	C0007589
+28561	28589	GO:0051216	chondrogenic differentiation	chondrogenesis	Chondrogenesis	C0598067
+28643	28671	GO:0030154	hypertrophic differentiation	cell differentiation	Cell Differentiation process	C0007589
+28768	28802	GO:0007601	seen by type x collagen expression	vision	Vision	C0042789
+28840	28844	GO:0005623	cell	cell	Cells	C0007634
+29008	29022	GO:0051216	chondrogenesis	chondrogenesis	Chondrogenesis	C0598067
+29379	29391	GO:0001503	osteogenesis	osteogenesis	Osteogenesis	C0029433
+29449	29469	GO:0001503	bone formation first	osteogenesis	Osteogenesis	C0029433
+29636	29648	GO:0001503	osteogenesis	osteogenesis	Osteogenesis	C0029433
+29815	29819	GO:0005623	cell	cell	Cells	C0007634
+29930	29955	GO:0007601	seen in sagittal sections	vision	Vision	C0042789
+29986	29990	GO:0005623	cell	cell	Cells	C0007634
+30177	30183	GO:0040007	growth	growth	Growth	C0018270
+30258	30262	GO:0005623	cell	cell	Cells	C0007634
+30278	30328	GO:0001503	resulting in the formation of a bone marrow cavity	osteogenesis	Osteogenesis	C0029433
+30361	30364	GO:0007601	see	vision	Vision	C0042789
+30397	30401	GO:0005623	cell	cell	Cells	C0007634
+30552	30574	GO:0007567	cortical bone at birth	parturition	Birth	C0005615
+30926	30980	GO:0001503	in bone marrow cavity formation in the absence of bmp2	osteogenesis	Osteogenesis	C0029433
+31000	31021	GO:0001503	bone marrow formation	osteogenesis	Osteogenesis	C0029433
+31026	31051	GO:0060343	trabecular bone formation	trabecula formation		C2610480
+31065	31081	GO:0007567	started at birth	parturition	Birth	C0005615
+31173	31191	GO:0007567	cre bones at birth	parturition	Birth	C0005615
+31219	31235	GO:0009790	embryos at e17.5	embryo development	Embryonic Development	C0013936
+31289	31329	GO:0001503	in bone formation in the absence of bmp2	osteogenesis	Osteogenesis	C0029433
+31559	31621	GO:0003415	adjacent to the zone of late hypertrophic chondrocytes at 1 wk	chondrocyte hypertrophy		C2753811
+31749	31793	GO:0009058	formation of a secondary ossification center	anabolism	Anabolism	C0220781
+31844	31890	GO:0009058	formation of the secondary ossification center	anabolism	Anabolism	C0220781
+31926	31965	GO:0001503	along with robust bone marrow formation	osteogenesis	Osteogenesis	C0029433
+32086	32100	GO:0001503	bone formation	osteogenesis	Osteogenesis	C0029433
+32163	32174	GO:0007567	after birth	parturition	Birth	C0005615
+32289	32312	GO:0007601	seen in wild-type limbs	vision	Vision	C0042789
+32735	32762	GO:0060073	a void where bone formation	urination	Urination	C0042034
+32801	32804	GO:0007601	see	vision	Vision	C0042789
+32825	32834	GO:0060073	this void	urination	Urination	C0042034
+32943	32965	GO:0045453	the resorption of bone	bone resorption	Bone Resorption	C0005974
+33133	33159	GO:0001649	osteoblast differentiation	osteoblast differentiation		C1159974
+33314	33340	GO:0001649	osteoblast differentiation	osteoblast differentiation		C1159974
+33421	33436	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+33569	33595	GO:0007567	osterix genes at both 1 wk	parturition	Birth	C0005615
+33569	33595	GO:0000003	osterix genes at both 1 wk	reproduction	Reproduction	C0035150
+33606	33617	GO:0007567	after birth	parturition	Birth	C0005615
+33677	33681	GO:0005623	cell	cell	Cells	C0007634
+33796	33800	GO:0005623	cell	cell	Cells	C0007634
+34064	34068	GO:0005623	cell	cell	Cells	C0007634
+34132	34136	GO:0005623	cell	cell	Cells	C0007634
+34148	34185	GO:0002076	differentiate into mature osteoblasts	osteoblast development		C1817344
+34238	34256	GO:0007567	a genetic approach	parturition	Birth	C0005615
+34238	34256	GO:0000003	a genetic approach	reproduction	Reproduction	C0035150
+34267	34298	GO:0007567	activity of different bmp genes	parturition	Birth	C0005615
+34267	34298	GO:0000003	activity of different bmp genes	reproduction	Reproduction	C0035150
+34306	34322	GO:0060173	limb development	limb development	Limb Development	C1517884
+34592	34606	GO:0051216	chondrogenesis	chondrogenesis	Chondrogenesis	C0598067
+34628	34656	GO:0051216	chondrogenic differentiation	chondrogenesis	Chondrogenesis	C0598067
+34806	34818	GO:0001503	osteogenesis	osteogenesis	Osteogenesis	C0029433
+34821	34834	GO:0030509	bmp signaling	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+34839	34856	GO:0007389	pattern formation	pattern formation	Pattern Formation	C1160421
+34839	34856	GO:0003002	pattern formation	pattern formation	pattern formation during regionalization	C2828365
+34879	34897	GO:0030509	that bmp signaling	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+35078	35095	GO:0032940	a secreted factor	secretion by cell	Cell secretion	C1327616
+35196	35222	GO:0007224	secondary to shh signaling	Shh signaling pathway		C3158055
+35303	35323	GO:0060173	limb bud development	limb bud development		C2262944
+35607	35633	GO:0007224	regulated by shh signaling	Shh signaling pathway		C3158055
+36085	36115	GO:0030509	bmp signaling in this process.	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+36134	36147	GO:0030509	bmp signaling	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+36880	36920	GO:0030509	the level of interdigital bmp signaling,	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+36906	36919	GO:0030509	bmp signaling	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+37073	37087	GO:0051216	chondrogenesis	chondrogenesis	Chondrogenesis	C0598067
+37089	37132	GO:0007165	partial reduction in the level of signaling	signal transduction	Signal Transduction	C0037083
+37089	37132	GO:0023052	partial reduction in the level of signaling	biological signaling		C3537152
+37167	37190	GO:0030509	levels of bmp signaling	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+37533	37591	GO:0006310	several days after recombination of the floxed bmp alleles	DNA recombination	Recombination, Genetic	C0034865
+37790	37808	GO:0030509	that bmp signaling	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+38090	38128	GO:0030509	the total level of bmp signaling falls	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+38195	38230	GO:0007601	seen in cases where bmp antagonists	vision	Vision	C0042789
+38295	38309	GO:0051216	chondrogenesis	chondrogenesis	Chondrogenesis	C0598067
+38310	38327	GO:0007601	seen in the bmp2,	vision	Vision	C0042789
+38665	38686	GO:0006310	greater recombination	DNA recombination	Recombination, Genetic	C0034865
+38971	38991	GO:0070914	produced in the aer.	UV-damage excision repair		C2753997
+39014	39029	GO:0070914	in the aer also	UV-damage excision repair		C2753997
+39059	39083	GO:0007601	seen between the bmp4c/c	vision	Vision	C0042789
+39704	39731	GO:0070914	from the aer in addition to	UV-damage excision repair		C2753997
+40167	40200	GO:0007567	differences in genetic background	parturition	Birth	C0005615
+40167	40200	GO:0000003	differences in genetic background	reproduction	Reproduction	C0035150
+40312	40341	GO:0030509	associated with bmp signaling	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+40358	40367	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+40358	40367	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+40394	40397	GO:0007601	see	vision	Vision	C0042789
+40523	40563	GO:0043065	the threshold for induction of apoptosis	positive regulation of apoptosis	Positive Regulation of Apoptosis	C1326205
+40640	40697	GO:0007165	sufficient bmp signaling for most interdigital cell death	signal transduction	Signal Transduction	C0037083
+40915	40924	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+40915	40924	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+40934	40985	GO:0007567	the first genetic verification of their requirement	parturition	Birth	C0005615
+40934	40985	GO:0000003	the first genetic verification of their requirement	reproduction	Reproduction	C0035150
+41005	41018	GO:0030509	bmp signaling	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+41023	41043	GO:0001501	skeletal development	skeletal development		C1160401
+41083	41121	GO:0030509	that threshold levels of bmp signaling	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+41126	41176	GO:0051216	required for initiating chondrogenic condensation,	chondrogenesis	Chondrogenesis	C0598067
+41230	41244	GO:0051216	chondrogenesis	chondrogenesis	Chondrogenesis	C0598067
+41253	41278	GO:0030154	cartilage differentiation	cell differentiation	Cell Differentiation process	C0007589
+41616	41643	GO:0002062	chondrocyte differentiation	chondrocyte differentiation		C1817330
+41712	41744	GO:0030509	bmp signaling in chondrogenesis,	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+41858	41890	GO:0030509	used in bmp signal transduction,	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+42007	42016	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+42007	42016	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+42170	42205	GO:0007601	seen in the double receptor mutant.	vision	Vision	C0042789
+42333	42342	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+42333	42342	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+42629	42641	GO:0001503	osteogenesis	osteogenesis	Osteogenesis	C0029433
+42679	42693	GO:0001503	bone formation	osteogenesis	Osteogenesis	C0029433
+42776	42785	GO:0007567	bmp4 gene	parturition	Birth	C0005615
+42776	42785	GO:0000003	bmp4 gene	reproduction	Reproduction	C0035150
+43032	43079	GO:0030154	severe defects in osteoblastic differentiation.	cell differentiation	Cell Differentiation process	C0007589
+43110	43114	GO:0005623	cell	cell	Cells	C0007634
+43195	43199	GO:0005623	cell	cell	Cells	C0007634
+43310	43335	GO:0001958	endochondral ossification	endochondral ossification	Endochondral Ossification	C1622923
+43361	43376	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+43532	43542	GO:0007567	bmp4 genes	parturition	Birth	C0005615
+43532	43542	GO:0000003	bmp4 genes	reproduction	Reproduction	C0035150
+43642	43682	GO:0007567	from different bmp genes during preaxial	parturition	Birth	C0005615
+43642	43682	GO:0000003	from different bmp genes during preaxial	reproduction	Reproduction	C0035150
+43697	43708	GO:0032502	development	development	Biologic Development	C0678723
+43732	43765	GO:0030509	in total levels of bmp signaling,	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+43838	43850	GO:0001503	osteogenesis	osteogenesis	Osteogenesis	C0029433
+43858	43888	GO:0001503	many osteogenic bmp molecules,	osteogenesis	Osteogenesis	C0029433
+44086	44109	GO:0001503	bmp4 in bone formation.	osteogenesis	Osteogenesis	C0029433
+44133	44152	GO:0007567	genetic experiments	parturition	Birth	C0005615
+44133	44152	GO:0000003	genetic experiments	reproduction	Reproduction	C0035150
+44459	44474	GO:0016310	phosphorylation	phosphorylation	Phosphorylation	C0031715
+44459	44525	GO:0006468	the phosphorylation of the same set of bmp receptor-specific smads	protein phosphorylation	Protein phosphorylation	C1158886
+44629	44633	GO:0005623	cell	cell	Cells	C0007634
+44749	44776	GO:0001503	each of the osteogenic bmps	osteogenesis	Osteogenesis	C0029433
+44823	44847	GO:0007165	these signaling pathways	signal transduction	Signal Transduction	C0037083
+44974	45000	GO:0001649	osteoblast differentiation	osteoblast differentiation		C1159974
+45057	45060	GO:0007601	see	vision	Vision	C0042789
+45121	45140	GO:0001503	that bone formation	osteogenesis	Osteogenesis	C0029433
+45150	45185	GO:0030509	a threshold amount of bmp signaling	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+45485	45499	GO:0051216	chondrogenesis	chondrogenesis	Chondrogenesis	C0598067
+45559	45583	GO:0001503	bmp4 with bone formation	osteogenesis	Osteogenesis	C0029433
+45636	45650	GO:0051216	chondrogenesis	chondrogenesis	Chondrogenesis	C0598067
+45885	45898	GO:0008233	proteinase k,	peptidase activity		C1150095
+46401	46461	GO:0007567	the entire protein-coding region in exon 3 of the bmp2 gene.	parturition	Birth	C0005615
+46401	46461	GO:0000003	the entire protein-coding region in exon 3 of the bmp2 gene.	reproduction	Reproduction	C0035150
+47282	47313	GO:0007567	floxed alleles of the bmp genes	parturition	Birth	C0005615
+47282	47313	GO:0000003	floxed alleles of the bmp genes	reproduction	Reproduction	C0035150
+47642	47656	GO:0009790	from embryonic	embryo development	Embryonic Development	C0013936
+48408	48440	GO:0007567	past birth due to kidney failure	parturition	Birth	C0005615
+48549	48559	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+48561	48571	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+49019	49029	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+49336	49346	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+49690	49708	GO:0009790	for e13.5 embryos,	embryo development	Embryonic Development	C0013936
+49830	49863	GO:1902698	19 mixture of glacial acetic acid	acidogenesis		C3823112
+49830	49863	GO:1902705	19 mixture of glacial acetic acid	acidogenesis		C3823112
+49830	49863	GO:1902706	19 mixture of glacial acetic acid	acidogenesis		C3823112
+49830	49863	GO:1902699	19 mixture of glacial acetic acid	acidogenesis		C3823112
+50246	50291	GO:0097194	acridine orange staining for apoptotic cells.	apoptosis	Apoptosis	C0162638
+50246	50291	GO:0006915	acridine orange staining for apoptotic cells.	apoptosis	Apoptosis	C0162638
+50365	50388	GO:0009790	dissected fresh embryos	embryo development	Embryonic Development	C0013936
+50381	50388	GO:0009790	embryos	embryo development	Embryonic Development	C0013936
+50632	50679	GO:0009790	in situ hybridization staining on whole embryos	embryo development	Embryonic Development	C0013936
+50756	50766	GO:0007601	see below.	vision	Vision	C0042789
+51752	51755	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+51916	51939	GO:1902698	0.2% hydrochloric acid,	acidogenesis		C3823112
+51916	51939	GO:1902705	0.2% hydrochloric acid,	acidogenesis		C3823112
+51916	51939	GO:1902706	0.2% hydrochloric acid,	acidogenesis		C3823112
+51916	51939	GO:1902699	0.2% hydrochloric acid,	acidogenesis		C3823112
+52349	52352	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+52736	52739	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+53436	53441	GO:0007600	sense	sensory perception	Esthesia	C0036658
+53613	53652	GO:0051216	chondrogenic differentiation in bmp2c/c	chondrogenesis	Chondrogenesis	C0598067
+53846	53858	GO:0009790	cre embryos.	embryo development	Embryonic Development	C0013936
+54193	54204	GO:0009790	cre embryos	embryo development	Embryonic Development	C0013936
+54312	54324	GO:0009790	(g) embryos.	embryo development	Embryonic Development	C0013936
+54449	54482	GO:0009790	in embryonic limb buds from e10.5	embryo development	Embryonic Development	C0013936
+54509	54517	GO:0009790	embryos.	embryo development	Embryonic Development	C0013936
+54532	54555	GO:0009790	from wild-type embryos,	embryo development	Embryonic Development	C0013936
+54599	54611	GO:0009790	cre embryos.	embryo development	Embryonic Development	C0013936
+54796	54808	GO:0009790	(o) embryos.	embryo development	Embryonic Development	C0013936
+54991	55011	GO:0009790	embryonic forelimbs.	embryo development	Embryonic Development	C0013936
+55135	55159	GO:0030154	skeletal differentiation	cell differentiation	Cell Differentiation process	C0007589
+55821	55840	GO:0043715	(e-f) from 1-wk-old	2,3-diketo-5-methylthiopentyl-1-phosphate enolase activity		C2248614
+55821	55840	GO:0043874	(e-f) from 1-wk-old	acireductone synthase activity		C2266809
+56282	56294	GO:0001503	osteogenesis	osteogenesis	Osteogenesis	C0029433
+57057	57063	GO:0007613	memory	memory	Memory	C0025260
+57251	57280	GO:0070914	aer - apical ectodermal ridge	UV-damage excision repair		C2753997
+57282	57314	GO:0060349	bmp - bone morphogenetic protein	bone morphogenesis		C2610491
+57316	57333	GO:0009790	e - embryonic day	embryo development	Embryonic Development	C0013936
+57352	57358	GO:0040007	growth	growth	Growth	C0018270
+57747	57782	GO:0009790	forelimbs from e10.5 mouse embryos.	embryo development	Embryonic Development	C0013936
+57860	57870	GO:0009790	cre embryo	embryo development	Embryonic Development	C0013936
+57877	57895	GO:0070914	the aer expression	UV-damage excision repair		C2753997
+58079	58114	GO:0009790	forelimbs from e10.5 mouse embryos.	embryo development	Embryonic Development	C0013936
+58193	58203	GO:0009790	cre embryo	embryo development	Embryonic Development	C0013936
+58210	58228	GO:0070914	the aer expression	UV-damage excision repair		C2753997
+58937	58963	GO:0030509	depletion of bmp signaling	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+59320	59377	GO:0009790	acridine orange-stained hindlimbs of e15.5 mouse embryos.	embryo development	Embryonic Development	C0013936
+59524	59595	GO:0097152	acridine orange-stained apoptotic cells in the interdigital mesenchyme,	mesenchymal cell apoptotic process		C3269099
+59622	59645	GO:0070914	the remnant of the aer.	UV-damage excision repair		C2753997
+59754	59762	GO:0009790	embryos.	embryo development	Embryonic Development	C0013936
+60022	60036	GO:0009790	mouse embryos.	embryo development	Embryonic Development	C0013936
+60185	60206	GO:0009790	g) wild-type embryos,	embryo development	Embryonic Development	C0013936
+60241	60253	GO:0009790	cre embryos.	embryo development	Embryonic Development	C0013936
+60355	60384	GO:0009790	cre mouse embryonic forelimbs	embryo development	Embryonic Development	C0013936
+60500	60524	GO:0009790	(p) embryonic hindlimbs.	embryo development	Embryonic Development	C0013936
+60642	60656	GO:0051216	chondrogenesis	chondrogenesis	Chondrogenesis	C0598067
+60731	60774	GO:0009790	b) whole mount skeletons from e13.5 embryos	embryo development	Embryonic Development	C0013936
+60814	60831	GO:0009790	wild-type embryo,	embryo development	Embryonic Development	C0013936
+60860	60871	GO:0009790	cre embryo.	embryo development	Embryonic Development	C0013936
+61068	61076	GO:0009790	embryos.	embryo development	Embryonic Development	C0013936
+61209	61238	GO:0009790	(f) humeri from e15.5 embryos	embryo development	Embryonic Development	C0013936
+61383	61406	GO:0009790	bmp4-deficient embryos,	embryo development	Embryonic Development	C0013936
+61588	61600	GO:0001503	osteogenesis	osteogenesis	Osteogenesis	C0029433
+61601	61642	GO:0009790	begins during early embryonic development	embryo development	Embryonic Development	C0013936
+61680	61699	GO:0009790	from e15.5 embryos.	embryo development	Embryonic Development	C0013936
+61743	61777	GO:0009790	distal ulna from wild-type embryo,	embryo development	Embryonic Development	C0013936
+61830	61841	GO:0009790	cre embryo.	embryo development	Embryonic Development	C0013936
+62059	62077	GO:0009790	from e15.5 embryo,	embryo development	Embryonic Development	C0013936
+62111	62128	GO:0009790	cre e15.5 embryo.	embryo development	Embryonic Development	C0013936
+62166	62185	GO:0009790	from e17.5 embryos.	embryo development	Embryonic Development	C0013936
+62292	62339	GO:0009790	g) e17.5 proximal radius from wild-type embryo,	embryo development	Embryonic Development	C0013936
+62406	62417	GO:0009790	cre embryo.	embryo development	Embryonic Development	C0013936
+63247	63272	GO:0001503	defects in bone formation	osteogenesis	Osteogenesis	C0029433
+63550	63554	GO:0005623	cell	cell	Cells	C0007634
+63625	63629	GO:0005623	cell	cell	Cells	C0007634
+63716	63750	GO:0001503	the secondary ossification center.	osteogenesis	Osteogenesis	C0029433
+64079	64104	GO:0001503	defects in bone formation	osteogenesis	Osteogenesis	C0029433
+64142	64157	GO:0045453	bone resorption	bone resorption	Bone Resorption	C0005974
+64253	64257	GO:0005623	cell	cell	Cells	C0007634
+64689	64710	GO:0002076	osteoblast maturation	osteoblast development		C1817344
+65050	65076	GO:0001649	osteoblast differentiation	osteoblast differentiation		C1159974
+65366	65398	GO:0006983	10.1371/journal.pgen.0020216.eor	ER-overload response		C1155303

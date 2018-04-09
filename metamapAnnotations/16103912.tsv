@@ -1,0 +1,224 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+42	58	GO:0030324	lung development	lung development		C1160389
+271	282	GO:0032502	development	development	Biologic Development	C0678723
+307	338	GO:0009790	in an analysis of e18.5 embryos	embryo development	Embryonic Development	C0013936
+478	489	GO:0032502	development	development	Biologic Development	C0678723
+1165	1181	GO:0030324	lung development	lung development		C1160389
+1240	1254	GO:0007567	the first gene	parturition	Birth	C0005615
+1240	1254	GO:0000003	the first gene	reproduction	Reproduction	C0035150
+1273	1285	GO:0009405	pathogenesis	pathogenesis	Pathogenesis	C0699748
+1374	1385	GO:0032502	development	development	Biologic Development	C0678723
+1494	1505	GO:0032502	development	development	Biologic Development	C0678723
+1536	1549	GO:0007567	birth defects	parturition	Birth	C0005615
+1603	1648	GO:0007567	as genetic disorders such as cystic fibrosis,	parturition	Birth	C0005615
+1603	1648	GO:0000003	as genetic disorders such as cystic fibrosis,	reproduction	Reproduction	C0035150
+1717	1748	GO:0007567	born with diaphragmatic defects	parturition	Birth	C0005615
+1807	1842	GO:0007585	with severe breathing difficulties.	respiration	respiratory gaseous exchange in organisms	C1160636
+1975	1996	GO:0007567	a genetic abnormality	parturition	Birth	C0005615
+1975	1996	GO:0000003	a genetic abnormality	reproduction	Reproduction	C0035150
+2014	2025	GO:0032502	development	development	Biologic Development	C0678723
+2113	2150	GO:0007567	chemically induced genetic mutations,	parturition	Birth	C0005615
+2113	2150	GO:0000003	chemically induced genetic mutations,	reproduction	Reproduction	C0035150
+2174	2201	GO:0007567	a mutation in the gene fog2	parturition	Birth	C0005615
+2174	2201	GO:0000003	a mutation in the gene fog2	reproduction	Reproduction	C0035150
+2238	2259	GO:0060539	diaphragm development	diaphragm development		C2752764
+2302	2313	GO:0032502	development	development	Biologic Development	C0678723
+2526	2548	GO:0007567	in the human gene fog2	parturition	Birth	C0005615
+2526	2548	GO:0000003	in the human gene fog2	reproduction	Reproduction	C0035150
+2580	2615	GO:0007585	with severe breathing difficulties,	respiration	respiratory gaseous exchange in organisms	C1160636
+2733	2749	GO:0030324	lung development	lung development		C1160389
+2907	2918	GO:0032502	development	development	Biologic Development	C0678723
+3021	3067	GO:0007567	a spectrum of relatively common birth defects.	parturition	Birth	C0005615
+3182	3197	GO:0007567	000 live births	parturition	Birth	C0005615
+3282	3291	GO:0007567	at birth,	parturition	Birth	C0005615
+3671	3683	GO:0009405	pathogenesis	pathogenesis	Pathogenesis	C0699748
+3688	3699	GO:0032502	development	development	Biologic Development	C0678723
+4088	4102	GO:0007567	prior to birth	parturition	Birth	C0005615
+4218	4227	GO:0007567	at birth,	parturition	Birth	C0005615
+4374	4382	GO:0016020	membrane	membrane	Membrane	C0596901
+4680	4689	GO:0050890	cognitive	cognition	Cognition	C0009240
+4719	4726	GO:0007605	hearing	hearing	Hearing	C0018767
+4824	4835	GO:0032502	development	development	Biologic Development	C0678723
+5154	5176	GO:0007567	the genetic etiologies	parturition	Birth	C0005615
+5154	5176	GO:0000003	the genetic etiologies	reproduction	Reproduction	C0035150
+5280	5291	GO:0032502	development	development	Biologic Development	C0678723
+5330	5341	GO:0032502	development	development	Biologic Development	C0678723
+5390	5452	GO:0005694	different chromosomal abnormalities in the pathogenesis of cdh	chromosome	Chromosomes	C0008633
+5502	5513	GO:0032502	development	development	Biologic Development	C0678723
+5585	5622	GO:0007567	animal models of human birth defects,	parturition	Birth	C0005615
+5626	5660	GO:0007567	the specific genetic abnormalities	parturition	Birth	C0005615
+5626	5660	GO:0000003	the specific genetic abnormalities	reproduction	Reproduction	C0035150
+5749	5804	GO:0006280	treated with the chemical mutagen n-ethyl-n-nitrosourea	mutagenesis	Mutagenesis Process	C0079866
+5826	5837	GO:0032502	development	development	Biologic Development	C0678723
+6044	6063	GO:0007507	cardiac development	cardiac development		C2263229
+6308	6338	GO:0007567	the orthologous gene in humans	parturition	Birth	C0005615
+6308	6338	GO:0000003	the orthologous gene in humans	reproduction	Reproduction	C0035150
+6352	6363	GO:0032502	development	development	Biologic Development	C0678723
+6457	6470	GO:0007567	died at birth	parturition	Birth	C0005615
+6879	6900	GO:0009790	at embryonic day 18.5	embryo development	Embryonic Development	C0013936
+6922	6933	GO:0032502	development	development	Biologic Development	C0678723
+6988	7027	GO:0009790	multiple embryos in independent litters	embryo development	Embryonic Development	C0013936
+7149	7159	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+7900	7918	GO:0007567	survived to birth.	parturition	Birth	C0005615
+8668	8680	GO:0030484	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+8668	8680	GO:0043292	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+8910	8927	GO:0007567	survived to birth	parturition	Birth	C0005615
+9031	9073	GO:0009790	litters at different embryonic time points	embryo development	Embryonic Development	C0013936
+9212	9219	GO:0009790	embryos	embryo development	Embryonic Development	C0013936
+9297	9303	GO:0040007	growth	growth	Growth	C0018270
+9329	9359	GO:0009790	tissue friability. lil embryos	embryo development	Embryonic Development	C0013936
+9624	9654	GO:0009790	the majority of mutant embryos	embryo development	Embryonic Development	C0013936
+9694	9712	GO:0009790	nine of 29 embryos	embryo development	Embryonic Development	C0013936
+9724	9777	GO:0009790	homozygous for the mutation, of which only one embryo	embryo development	Embryonic Development	C0013936
+9971	9976	GO:0007567	birth	parturition	Birth	C0005615
+10085	10096	GO:0032502	development	development	Biologic Development	C0678723
+10387	10404	GO:0007567	survived to birth	parturition	Birth	C0005615
+10446	10501	GO:0030428	atrioventricular-canal-type ventricular septal defects,	cell septum	Cell septum	C1327729
+10502	10538	GO:0030428	ostium primum atrial septal defects,	cell septum	Cell septum	C1327729
+10657	10676	GO:0007507	cardiac development	cardiac development		C2263229
+10774	10795	GO:0007567	three predicted genes	parturition	Birth	C0005615
+10774	10795	GO:0000003	three predicted genes	reproduction	Reproduction	C0035150
+10800	10817	GO:0007567	four known genes,	parturition	Birth	C0005615
+10800	10817	GO:0000003	four known genes,	reproduction	Reproduction	C0035150
+11143	11172	GO:0009790	than in the wild-type embryos	embryo development	Embryonic Development	C0013936
+11385	11402	GO:0008380	a splicing defect	RNA splicing	RNA Splicing	C0035687
+11385	11402	GO:0045292	a splicing defect	nuclear mRNA cis splicing, via spliceosome		C2610186
+11662	11689	GO:0007567	generated by gene targeting	parturition	Birth	C0005615
+11662	11689	GO:0000003	generated by gene targeting	reproduction	Reproduction	C0035150
+11725	11754	GO:0009790	an embryonic lethal phenotype	embryo development	Embryonic Development	C0013936
+12035	12056	GO:0060539	diaphragm development	diaphragm development		C2752764
+12100	12109	GO:0007610	conducted	behavior	Behavior	C0004927
+12170	12181	GO:0032502	development	development	Biologic Development	C0678723
+12393	12404	GO:0032502	development	development	Biologic Development	C0678723
+12408	12423	GO:0007585	fetal breathing	respiration	respiratory gaseous exchange in organisms	C1160636
+12613	12658	GO:0001763	during the period of branching morphogenesis,	morphogenesis of a branching structure		C1622374
+13057	13124	GO:0042465	littermate controls before the onset of fetal diaphragmatic motion.	kinesis	Kinesis	C0022699
+13279	13299	GO:0009790	from fog2-/- embryos	embryo development	Embryonic Development	C0013936
+13336	13347	GO:0032502	development	development	Biologic Development	C0678723
+13430	13441	GO:0032502	development	development	Biologic Development	C0678723
+13959	13986	GO:0009790	evaluated in normal embryos	embryo development	Embryonic Development	C0013936
+14160	14171	GO:0007567	a lacz gene	parturition	Birth	C0005615
+14160	14171	GO:0000003	a lacz gene	reproduction	Reproduction	C0035150
+14558	14562	GO:0007601	seen	vision	Vision	C0042789
+14667	14675	GO:0016020	membrane	membrane	Membrane	C0596901
+14714	14717	GO:0007601	see	vision	Vision	C0042789
+14730	14769	GO:0016020	the membranous portion of the diaphragm	membrane	Membrane	C0596901
+14829	14833	GO:0005623	cell	cell	Cells	C0007634
+14883	14891	GO:0007567	in genes	parturition	Birth	C0005615
+14883	14891	GO:0000003	in genes	reproduction	Reproduction	C0035150
+15006	15012	GO:0040007	growth	growth	Growth	C0018270
+15118	15146	GO:0016020	to the membranous diaphragm.	membrane	Membrane	C0596901
+15488	15491	GO:0007601	see	vision	Vision	C0042789
+15526	15547	GO:0000988	transcription factors	transcription factor activity		C1148759
+15526	15547	GO:0001070	transcription factors	transcription factor activity		C1148759
+15526	15547	GO:0001071	transcription factors	transcription factor activity		C1148759
+15526	15547	GO:0003700	transcription factors	transcription factor activity		C1148759
+15587	15624	GO:0048740	determination of myogenic precursors,	myogenesis	Myogenesis	C0596997
+15587	15624	GO:0007519	determination of myogenic precursors,	myogenesis	Myogenesis	C0596997
+15804	15828	GO:0016020	the membranous diaphragm	membrane	Membrane	C0596901
+16041	16090	GO:0035701	along the path of muscle precursor cell migration	hematopoietic stem cell migration		C3158889
+17152	17187	GO:0007567	severe respiratory failure at birth	parturition	Birth	C0005615
+18344	18378	GO:1902698	the 112th amino acid from arginine	acidogenesis		C3823112
+18344	18378	GO:1902705	the 112th amino acid from arginine	acidogenesis		C3823112
+18344	18378	GO:1902706	the 112th amino acid from arginine	acidogenesis		C3823112
+18344	18378	GO:1902699	the 112th amino acid from arginine	acidogenesis		C3823112
+18644	18655	GO:0032502	development	development	Biologic Development	C0678723
+18990	19009	GO:0003904	present in the pre-	photoreactivating enzyme activity		C2257086
+19283	19295	GO:0009405	pathogenesis	pathogenesis	Pathogenesis	C0699748
+19305	19351	GO:0030154	clinical differentiation between these defects	cell differentiation	Cell Differentiation process	C0007589
+19378	19439	GO:0016020	the residual membranous diaphragm of a muscularization defect	membrane	Membrane	C0596901
+20058	20068	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+20182	20192	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+20601	20626	GO:0016458	inactivation of this gene	gene silencing	Gene Silencing	C0598496
+20627	20659	GO:0005694	due to chromosomal rearrangement	chromosome	Chromosomes	C0008633
+20989	21000	GO:0032502	development	development	Biologic Development	C0678723
+21189	21222	GO:0007567	that haploinsufficiency of a gene	parturition	Birth	C0005615
+21189	21222	GO:0000003	that haploinsufficiency of a gene	reproduction	Reproduction	C0035150
+21228	21239	GO:0032502	development	development	Biologic Development	C0678723
+21400	21434	GO:0009405	the pathogenic mechanisms for both	pathogenesis	Pathogenesis	C0699748
+21738	21775	GO:0030428	ventrally with the septum transversum	cell septum	Cell septum	C1327729
+21980	22005	GO:0009058	a defect in ppf formation	anabolism	Anabolism	C0220781
+22019	22069	GO:0009058	results in the abnormal formation of the diaphragm	anabolism	Anabolism	C0220781
+22204	22208	GO:0005623	cell	cell	Cells	C0007634
+22412	22456	GO:0000988	a detailed analysis of transcription factors	transcription factor activity		C1148759
+22412	22456	GO:0001070	a detailed analysis of transcription factors	transcription factor activity		C1148759
+22412	22456	GO:0001071	a detailed analysis of transcription factors	transcription factor activity		C1148759
+22412	22456	GO:0003700	a detailed analysis of transcription factors	transcription factor activity		C1148759
+22457	22504	GO:0035701	responsible for muscle precursor cell migration	hematopoietic stem cell migration		C3158889
+22509	22524	GO:0030154	differentiation	cell differentiation	Cell Differentiation process	C0007589
+22567	22623	GO:0035701	and along the pathway of muscle precursor cell migration	hematopoietic stem cell migration		C3158889
+22644	22669	GO:0016020	the membranous diaphragm.	membrane	Membrane	C0596901
+22740	22784	GO:0000988	other transcription factors such as couptfii	transcription factor activity		C1148759
+22740	22784	GO:0001070	other transcription factors such as couptfii	transcription factor activity		C1148759
+22740	22784	GO:0001071	other transcription factors such as couptfii	transcription factor activity		C1148759
+22740	22784	GO:0003700	other transcription factors such as couptfii	transcription factor activity		C1148759
+22879	22890	GO:0032502	development	development	Biologic Development	C0678723
+23211	23222	GO:0032502	development	development	Biologic Development	C0678723
+23498	23509	GO:0032502	development	development	Biologic Development	C0678723
+23887	23898	GO:0032502	development	development	Biologic Development	C0678723
+24014	24030	GO:0030324	lung development	lung development		C1160389
+24177	24228	GO:0007114	fog2 expression at the time of early lobar budding.	cell budding	Cell budding	C1155616
+24736	24747	GO:0032502	development	development	Biologic Development	C0678723
+25148	25171	GO:0007567	a mutation in this gene	parturition	Birth	C0005615
+25148	25171	GO:0000003	a mutation in this gene	reproduction	Reproduction	C0035150
+25219	25240	GO:0060539	diaphragm development	diaphragm development		C2752764
+25388	25404	GO:0030324	lung development	lung development		C1160389
+25691	25748	GO:0007610	conducted with approval of the institutional review board	behavior	Behavior	C0004927
+25935	25977	GO:0007567	genetic mapping of the mouse mutation lil.	parturition	Birth	C0005615
+25935	25977	GO:0000003	genetic mapping of the mouse mutation lil.	reproduction	Reproduction	C0035150
+26070	26094	GO:0007567	used for genetic crosses	parturition	Birth	C0005615
+26070	26094	GO:0000003	used for genetic crosses	reproduction	Reproduction	C0035150
+26211	26238	GO:0007567	generated by gene targeting	parturition	Birth	C0005615
+26211	26238	GO:0000003	generated by gene targeting	reproduction	Reproduction	C0035150
+26289	26300	GO:0032502	development	development	Biologic Development	C0678723
+26322	26339	GO:0007565	timed pregnancies	gestation	Pregnancy	C0032961
+26345	26390	GO:0009790	set up for collection of e11.5-e17.5 embryos.	embryo development	Embryonic Development	C0013936
+26382	26389	GO:0009790	embryos	embryo development	Embryonic Development	C0013936
+26469	26486	GO:0009790	in older embryos,	embryo development	Embryonic Development	C0013936
+26731	26745	GO:0009790	e17.5 embryos.	embryo development	Embryonic Development	C0013936
+26783	26811	GO:0009790	dissected from fresh embryos	embryo development	Embryonic Development	C0013936
+26835	26857	GO:0046930	placed on porous 24-mm	pore	Pore	C1325742
+26877	26885	GO:0016020	membrane	membrane	Membrane	C0596901
+27426	27439	GO:0007567	the lacz gene	parturition	Birth	C0005615
+27426	27439	GO:0000003	the lacz gene	reproduction	Reproduction	C0035150
+27426	27439	GO:0007567	the lacz gene	parturition	Birth	C0005615
+27426	27439	GO:0000003	the lacz gene	reproduction	Reproduction	C0035150
+27646	27706	GO:1902698	in frame with the first 235 amino acids of the fog2 protein.	acidogenesis		C3823112
+27646	27706	GO:1902705	in frame with the first 235 amino acids of the fog2 protein.	acidogenesis		C3823112
+27646	27706	GO:1902706	in frame with the first 235 amino acids of the fog2 protein.	acidogenesis		C3823112
+27646	27706	GO:1902699	in frame with the first 235 amino acids of the fog2 protein.	acidogenesis		C3823112
+27779	27806	GO:0007567	a null allele of fog2 gene.	parturition	Birth	C0005615
+27779	27806	GO:0000003	a null allele of fog2 gene.	reproduction	Reproduction	C0035150
+27896	27900	GO:0005623	cell	cell	Cells	C0007634
+28092	28142	GO:0009790	lacz expression in whole dissected embryonic lungs	embryo development	Embryonic Development	C0013936
+28172	28199	GO:0004565	beta-galactosidase activity	beta-galactosidase activity		C1150053
+28324	28355	GO:0009790	from thoracic embryonic tissue.	embryo development	Embryonic Development	C0013936
+28417	28431	GO:0007567	the fog2 gene.	parturition	Birth	C0005615
+28417	28431	GO:0000003	the fog2 gene.	reproduction	Reproduction	C0035150
+28489	28529	GO:0007567	an abnormally spliced region of the gene	parturition	Birth	C0005615
+28489	28529	GO:0000003	an abnormally spliced region of the gene	reproduction	Reproduction	C0035150
+28686	28705	GO:0005020	topo ta cloning kit	stem cell factor receptor activity		C1150635
+28776	28798	GO:0007567	gene-specific primers.	parturition	Birth	C0005615
+28776	28798	GO:0000003	gene-specific primers.	reproduction	Reproduction	C0035150
+28847	28859	GO:0007567	(gene codes,	parturition	Birth	C0005615
+28847	28859	GO:0000003	(gene codes,	reproduction	Reproduction	C0035150
+29106	29119	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+29187	29193	GO:0005634	nuclei	cell nucleus	Cell Nucleus	C0007610
+29743	29754	GO:0007567	(gene codes	parturition	Birth	C0005615
+29743	29754	GO:0000003	(gene codes	reproduction	Reproduction	C0035150
+30156	30169	GO:0019013	core facility	nucleocapsid	viral nucleocapsid location	C1167518
+30671	30682	GO:0032502	development	development	Biologic Development	C0678723
+30786	30797	GO:0032502	development	development	Biologic Development	C0678723
+31191	31208	GO:0009790	] - embryonic day	embryo development	Embryonic Development	C0013936
+31265	31271	GO:0040007	growth	growth	Growth	C0018270
+31399	31410	GO:0032502	development	development	Biologic Development	C0678723
+31479	31490	GO:0032502	development	development	Biologic Development	C0678723
+32222	32235	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+32645	32661	GO:0030324	lung development	lung development		C1160389
+32768	32779	GO:0032502	development	development	Biologic Development	C0678723
+32864	32909	GO:0009790	fog2 expression in embryonic non-mutant lungs	embryo development	Embryonic Development	C0013936
+32911	32941	GO:0009790	in embryonic non-mutant lungs,	embryo development	Embryonic Development	C0013936
+33250	33261	GO:0009790	(b) embryos	embryo development	Embryonic Development	C0013936
+33330	33355	GO:0016020	the membranous diaphragm.	membrane	Membrane	C0596901
+33532	33545	GO:0007567	died at birth	parturition	Birth	C0005615
+34280	34296	GO:0030324	lung development	lung development		C1160389

@@ -1,0 +1,169 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+0	20	GO:0009790	embryonic stem cells	embryo development	Embryonic Development	C0013936
+263	362	GO:0008218	in recent years green fluorescent protein (gfp) from the bioluminescent jellyfish aequoria victoria	bioluminescence	Bioluminescence	C0162404
+409	431	GO:0007567	gene targeting regimes	parturition	Birth	C0005615
+409	431	GO:0000003	gene targeting regimes	reproduction	Reproduction	C0035150
+447	505	GO:0007567	several advantages over conventional gene-based reporters,	parturition	Birth	C0005615
+447	505	GO:0000003	several advantages over conventional gene-based reporters,	reproduction	Reproduction	C0035150
+523	544	GO:0016791	alkaline phosphatase,	phosphoric monoester hydrolase activity		C1149880
+689	700	GO:0032502	development	development	Biologic Development	C0678723
+759	787	GO:0009790	in embryonic stem (es) cells	embryo development	Embryonic Development	C0013936
+839	885	GO:0009790	embryonic stem (es) cell-mediated transgenesis	embryo development	Embryonic Development	C0013936
+1002	1059	GO:0000785	spectrally distinct color variants of wild type (wt) gfp.	chromatin	chromatin location	C1325550
+1228	1257	GO:0009790	established lines of es cells	embryo development	Embryonic Development	C0013936
+1674	1687	GO:0009790	eyfp es cells	embryo development	Embryonic Development	C0013936
+1695	1703	GO:0009790	embryos,	embryo development	Embryonic Development	C0013936
+1736	1740	GO:0005623	cell	cell	Cells	C0007634
+1984	1988	GO:0005623	cell	cell	Cells	C0007634
+2041	2045	GO:0005623	cell	cell	Cells	C0007634
+2085	2118	GO:0006310	tagged recombination experiments,	DNA recombination	Recombination, Genetic	C0034865
+2259	2289	GO:0007567	for mammalian genetic studies.	parturition	Birth	C0005615
+2259	2289	GO:0000003	for mammalian genetic studies.	reproduction	Reproduction	C0035150
+2315	2326	GO:0006280	mutagenesis	mutagenesis	Mutagenesis Process	C0079866
+2386	2413	GO:0007567	gene targeting in es cells,	parturition	Birth	C0005615
+2489	2510	GO:0007567	gene-based reporters,	parturition	Birth	C0005615
+2489	2510	GO:0000003	gene-based reporters,	reproduction	Reproduction	C0035150
+2571	2582	GO:0032502	development	development	Biologic Development	C0678723
+2656	2708	GO:0007567	a superior alternative to other gene-based reporters	parturition	Birth	C0005615
+2656	2708	GO:0000003	a superior alternative to other gene-based reporters	reproduction	Reproduction	C0035150
+2739	2778	GO:0016791	human placental alkaline phosphatase in	phosphoric monoester hydrolase activity		C1149880
+3101	3160	GO:0008218	derived from the bioluminescent jellyfish aequorea victoria	bioluminescence	Bioluminescence	C0162404
+3505	3524	GO:0000785	fluoresce in colors	chromatin	chromatin location	C1325550
+3626	3636	GO:0000785	dual color	chromatin	chromatin location	C1325550
+3746	3750	GO:0005623	cell	cell	Cells	C0007634
+3820	3824	GO:0005623	cell	cell	Cells	C0007634
+3900	3915	GO:0016032	viral infection	viral infection	Virus Diseases	C0042769
+4269	4280	GO:0032502	development	development	Biologic Development	C0678723
+4340	4344	GO:0005623	cell	cell	Cells	C0007634
+4720	4746	GO:0005625	solubility of the proteins	soluble		C1749467
+4769	4818	GO:0006412	the spectral profiles of the translation products	protein biosynthesis	Protein Biosynthesis	C0597295
+5182	5190	GO:1990266	(558 nm)	neutrophil migration	Neutrophil migration, function	C0312860
+5204	5230	GO:1990266	(583 nm) wavelength maxima	neutrophil migration	Neutrophil migration, function	C0312860
+5385	5389	GO:0005623	cell	cell	Cells	C0007634
+5563	5567	GO:0005623	cell	cell	Cells	C0007634
+5594	5700	GO:0010467	constructed for driving widespread expression of each of the gene-based fluorescent protein (fp) reporters	gene expression	Gene Expression	C0017262
+5723	5727	GO:0005623	cell	cell	Cells	C0007634
+5792	5796	GO:0005623	cell	cell	Cells	C0007634
+5919	5923	GO:0005623	cell	cell	Cells	C0007634
+6353	6357	GO:0005623	cell	cell	Cells	C0007634
+6449	6456	GO:0005819	spindle	spindle	Spindle	C1166795
+6579	6583	GO:0005623	cell	cell	Cells	C0007634
+6686	6723	GO:0048471	perinuclear regions of the cytoplasm.	perinuclear region of cytoplasm		C2253855
+6846	6854	GO:0030425	dendrite	dendrite	Dendrites	C0011305
+6860	6864	GO:0030424	axon	axon	Axon	C0004461
+6972	6976	GO:0005623	cell	cell	Cells	C0007634
+7041	7089	GO:0051179	nuclear localization to the dsred coding region.	establishment and maintenance of localization		C1744691
+7135	7139	GO:0005623	cell	cell	Cells	C0007634
+7316	7320	GO:0005623	cell	cell	Cells	C0007634
+7383	7387	GO:0005623	cell	cell	Cells	C0007634
+7665	7669	GO:0005623	cell	cell	Cells	C0007634
+7707	7711	GO:0005623	cell	cell	Cells	C0007634
+7755	7759	GO:0005623	cell	cell	Cells	C0007634
+7794	7798	GO:0005623	cell	cell	Cells	C0007634
+7936	7940	GO:0005623	cell	cell	Cells	C0007634
+7943	7976	GO:0009790	> morula stage embryo aggregation	embryo development	Embryonic Development	C0013936
+7995	7999	GO:0005623	cell	cell	Cells	C0007634
+8356	8405	GO:0009790	continuing through postimplantation embryogenesis	embryo development	Embryonic Development	C0013936
+8449	8459	GO:0000785	each color	chromatin	chromatin location	C1325550
+8593	8608	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+8613	8646	GO:0015074	the site of transgene integration	DNA integration	DNA Integration	C1158478
+8688	8739	GO:0009790	dual non-invasive reporter visualization in embryos	embryo development	Embryonic Development	C0013936
+8861	8866	GO:0061659	(e3.5	ubiquitin-like protein ligase activity		C1150682
+8861	8866	GO:0019777	(e3.5	Atg12 ligase activity		C1151885
+8861	8866	GO:0019787	(e3.5	ubiquitin-like protein transferase activity		C3888074
+8861	8866	GO:0004842	(e3.5	ubiquitin-protein transferase activity		C3888151
+8861	8866	GO:0061662	(e3.5	ISG15 ligase activity		C3890037
+8861	8866	GO:0061661	(e3.5	FAT10 ligase activity		C3890038
+8861	8866	GO:0061667	(e3.5	URM1 ligase activity		C3890039
+8861	8866	GO:0061664	(e3.5	Pup ligase activity		C3890040
+8861	8866	GO:0061666	(e3.5	UFM1 ligase activity		C3890041
+8861	8866	GO:0061665	(e3.5	SUMO ligase activity		C3890172
+8861	8866	GO:0061663	(e3.5	NEDD8 ligase activity		C3890173
+8861	8866	GO:0061660	(e3.5	Atg12 ligase activity		C1151885
+8868	8876	GO:0009790	embryos,	embryo development	Embryonic Development	C0013936
+8925	8944	GO:0009790	fluorescent embryos	embryo development	Embryonic Development	C0013936
+9069	9092	GO:0009790	non-fluorescent embryos	embryo development	Embryonic Development	C0013936
+9452	9465	GO:0009790	e13.5 embryos	embryo development	Embryonic Development	C0013936
+9505	9513	GO:0016020	membrane	membrane	Membrane	C0596901
+10514	10532	GO:0009790	that ecfp+ embryos	embryo development	Embryonic Development	C0013936
+10547	10579	GO:0009790	distinguished from eyfp+ embryos	embryo development	Embryonic Development	C0013936
+10580	10627	GO:0009790	and from non-transgenic non-fluorescent embryos	embryo development	Embryonic Development	C0013936
+10758	10819	GO:0000785	discriminated on the basis of the color of their fluorescence	chromatin	chromatin location	C1325550
+10872	10876	GO:0005623	cell	cell	Cells	C0007634
+11130	11134	GO:0005623	cell	cell	Cells	C0007634
+11260	11264	GO:0005623	cell	cell	Cells	C0007634
+11294	11298	GO:0005623	cell	cell	Cells	C0007634
+11321	11343	GO:0000785	detected by coat color	chromatin	chromatin location	C1325550
+11483	11497	GO:0009790	nor in embryos	embryo development	Embryonic Development	C0013936
+11941	11996	GO:0009790	generated through the aggregation of tetraploid embryos	embryo development	Embryonic Development	C0013936
+12009	12013	GO:0005623	cell	cell	Cells	C0007634
+12019	12026	GO:0009790	embryos	embryo development	Embryonic Development	C0013936
+12028	12055	GO:0000785	of the complementary color.	chromatin	chromatin location	C1325550
+12160	12210	GO:0009790	discerned in these double transgenic embryos where	embryo development	Embryonic Development	C0013936
+12224	12249	GO:0009790	embryo-proper compartment	embryo development	Embryonic Development	C0013936
+12474	12526	GO:0009790	generated through the aggregation of diploid embryos	embryo development	Embryonic Development	C0013936
+12527	12547	GO:0009790	with diploid embryos	embryo development	Embryonic Development	C0013936
+12555	12559	GO:0005623	cell	cell	Cells	C0007634
+12562	12589	GO:0000785	of the complementary color.	chromatin	chromatin location	C1325550
+12786	12790	GO:0005623	cell	cell	Cells	C0007634
+12882	12910	GO:0000785	that two different fp colors	chromatin	chromatin location	C1325550
+13017	13077	GO:0009790	dual non-invasive reporter visualization in chimeric embryos	embryo development	Embryonic Development	C0013936
+13312	13341	GO:0009790	electrofusion of e1.5 embryos	embryo development	Embryonic Development	C0013936
+13542	13546	GO:0005623	cell	cell	Cells	C0007634
+13679	13683	GO:0005623	cell	cell	Cells	C0007634
+13733	13747	GO:0009790	half of embryo	embryo development	Embryonic Development	C0013936
+13741	13747	GO:0009790	embryo	embryo development	Embryonic Development	C0013936
+14174	14182	GO:0016020	membrane	membrane	Membrane	C0596901
+14212	14216	GO:0060417	yolk	yolk		C2610566
+14235	14245	GO:0009790	the embryo	embryo development	Embryonic Development	C0013936
+14274	14278	GO:0060417	yolk	yolk		C2610566
+14371	14375	GO:0005623	cell	cell	Cells	C0007634
+14410	14417	GO:0031430	midline	midline	midline cell component	C1660780
+14581	14585	GO:0005623	cell	cell	Cells	C0007634
+14716	14726	GO:0009790	the embryo	embryo development	Embryonic Development	C0013936
+14770	14795	GO:0009790	to the left of the embryo	embryo development	Embryonic Development	C0013936
+14903	14907	GO:0005623	cell	cell	Cells	C0007634
+15845	15849	GO:0005623	cell	cell	Cells	C0007634
+16080	16084	GO:0005623	cell	cell	Cells	C0007634
+16432	16436	GO:0005623	cell	cell	Cells	C0007634
+16855	16859	GO:0005623	cell	cell	Cells	C0007634
+16862	16869	GO:0009790	embryos	embryo development	Embryonic Development	C0013936
+17087	17139	GO:0007567	versatile as other gene-based fluorescent reporters.	parturition	Birth	C0005615
+17087	17139	GO:0000003	versatile as other gene-based fluorescent reporters.	reproduction	Reproduction	C0035150
+17372	17405	GO:0009790	visualized within the same embryo	embryo development	Embryonic Development	C0013936
+17487	17491	GO:0005623	cell	cell	Cells	C0007634
+17536	17548	GO:0009790	from embryos	embryo development	Embryonic Development	C0013936
+18152	18163	GO:0032502	development	development	Biologic Development	C0678723
+18312	18332	GO:0006310	tissue recombination	DNA recombination	Recombination, Genetic	C0034865
+18812	18857	GO:0005579	gfp-r (5'-ttg aat tct tac ttg tac agc tcg tcc	membrane attack complex location		C1167383
+19031	19053	GO:0006413	translation initiation	translation initiation	Translation Initiation	C1519613
+19079	19135	GO:0006412	for increased translation efficiency in eukaryotic cells	protein biosynthesis	Protein Biosynthesis	C0597295
+19209	19213	GO:0005623	cell	cell	Cells	C0007634
+19495	19501	GO:0001524	globin	globin	globin activity	C1149093
+19495	19501	GO:0005344	globin	globin	globin activity	C1149093
+19645	19649	GO:0005623	cell	cell	Cells	C0007634
+19652	19659	GO:0009790	embryos	embryo development	Embryonic Development	C0013936
+19707	19711	GO:0005623	cell	cell	Cells	C0007634
+19825	19828	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+19916	19920	GO:0005623	cell	cell	Cells	C0007634
+19987	20002	GO:0009315	drug resistance	drug resistance	Drug resistance	C0013203
+19987	20002	GO:0042493	drug resistance	drug resistance	Drug resistance	C0013203
+20164	20168	GO:0005623	cell	cell	Cells	C0007634
+20500	20504	GO:0005623	cell	cell	Cells	C0007634
+20645	20656	GO:0032502	development	development	Biologic Development	C0678723
+20705	20751	GO:0009790	with wild type tetraploid icr embryos so as to	embryo development	Embryonic Development	C0013936
+20774	20778	GO:0005623	cell	cell	Cells	C0007634
+20903	20928	GO:0009790	fluorescent e12.5 embryos	embryo development	Embryonic Development	C0013936
+21042	21076	GO:0009790	with diploid wild type icr embryos	embryo development	Embryonic Development	C0013936
+21236	21263	GO:0007567	129/svj genetic backgrounds	parturition	Birth	C0005615
+21236	21263	GO:0000003	129/svj genetic backgrounds	reproduction	Reproduction	C0035150
+21460	21481	GO:1990266	excitation 436/20 nm,	neutrophil migration	Neutrophil migration, function	C0312860
+21482	21505	GO:1990266	dichroic mirror 455 nm,	neutrophil migration	Neutrophil migration, function	C0312860
+21506	21533	GO:1990266	barrier 480/40 nm for ecfp,	neutrophil migration	Neutrophil migration, function	C0312860
+21534	21555	GO:1990266	excitation 500/20 nm,	neutrophil migration	Neutrophil migration, function	C0312860
+21556	21579	GO:1990266	dichroic mirror 515 nm,	neutrophil migration	Neutrophil migration, function	C0312860
+21580	21606	GO:1990266	barrier 535/30 nm for eyfp	neutrophil migration	Neutrophil migration, function	C0312860
+21611	21632	GO:1990266	excitation 540/25 nm,	neutrophil migration	Neutrophil migration, function	C0312860
+21633	21656	GO:1990266	dichroic mirror 565 nm,	neutrophil migration	Neutrophil migration, function	C0312860
+22311	22341	GO:0005802	to therein as 003373 stock tgn	trans Golgi network	trans-Golgi Network	C0887838
+22373	22389	GO:0005802	003772 stock tgn	trans Golgi network	trans-Golgi Network	C0887838

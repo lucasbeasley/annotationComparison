@@ -1,0 +1,278 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+163	176	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+205	214	GO:0007601	in ocular	vision	Vision	C0042789
+232	243	GO:0032502	development	development	Biologic Development	C0678723
+302	318	GO:0007567	in the pax6 gene	parturition	Birth	C0005615
+302	318	GO:0000003	in the pax6 gene	reproduction	Reproduction	C0035150
+324	348	GO:0007601	malformations of the eye	vision	Vision	C0042789
+886	907	GO:0014069	post-synaptic density	post-synaptic density	Post-Synaptic Density	C1817671
+934	940	GO:0003777	dynein	dynein	dynein activity	C1622677
+1064	1087	GO:0007601	with eye malformations,	vision	Vision	C0042789
+1364	1377	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+1597	1610	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+1631	1658	GO:0007601	essential for normal ocular	vision	Vision	C0042789
+1663	1681	GO:0022008	neural development	neurogenesis	Neurogenesis	C0814002
+1687	1747	GO:0007567	heterozygous mutations of the human pax6 gene cause aniridia	parturition	Birth	C0005615
+1687	1747	GO:0000003	heterozygous mutations of the human pax6 gene cause aniridia	reproduction	Reproduction	C0035150
+1774	1819	GO:0007601	a range of other congenital eye malformations	vision	Vision	C0042789
+1897	1934	GO:0007601	common in pax6-associated eye disease	vision	Vision	C0042789
+2012	2023	GO:0032502	development	development	Biologic Development	C0678723
+2064	2108	GO:0007608	severe reduction of the olfactory structures	smell perception	Smell Perception	C0037361
+2167	2184	GO:0007420	brain development	brain development		C1160340
+2297	2351	GO:0021905	formation of the prosencephalon-mesencephalon boundary	forebrain-midbrain boundary formation		C1818477
+2357	2370	GO:0007411	axon guidance	axon guidance	Axon Guidance	C2984268
+2376	2402	GO:0022008	differentiation of neurons	neural cell differentiation		C2755962
+2421	2457	GO:0001764	neuronal migration in the cerebellum	neuron migration		C1326504
+2521	2538	GO:0007420	brain development	brain development		C1160340
+3065	3123	GO:0016597	the presence of a 128 amino acid dna-binding paired domain	amino acid binding		C1148572
+3228	3253	GO:0003677	a dna-binding homeodomain	DNA binding	dna binding	C1148673
+3367	3406	GO:1902698	the c-terminal 145 amino acids of pax6,	acidogenesis		C3823112
+3367	3406	GO:1902705	the c-terminal 145 amino acids of pax6,	acidogenesis		C3823112
+3367	3406	GO:1902706	the c-terminal 145 amino acids of pax6,	acidogenesis		C3823112
+3367	3406	GO:1902699	the c-terminal 145 amino acids of pax6,	acidogenesis		C3823112
+3434	3447	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+3501	3529	GO:0007567	a wide range of target genes	parturition	Birth	C0005615
+3501	3529	GO:0000003	a wide range of target genes	reproduction	Reproduction	C0035150
+3587	3600	GO:0007567	the pax6 gene	parturition	Birth	C0005615
+3587	3600	GO:0000003	the pax6 gene	reproduction	Reproduction	C0035150
+3621	3670	GO:0007601	temporally complex expression pattern in the eye,	vision	Vision	C0042789
+3772	3793	GO:0032502	developmental process	developmental process	Developmental process	C1511806
+4014	4066	GO:0061564	a role in development of specific axonal connections	axon development		C3820918
+4149	4201	GO:0022008	involved in the differentiation of neural cell types	neural cell differentiation		C2755962
+4277	4309	GO:0007567	through activation of bhlh genes	parturition	Birth	C0005615
+4277	4309	GO:0000003	through activation of bhlh genes	reproduction	Reproduction	C0035150
+4544	4570	GO:0000988	that transcription factors	transcription factor activity		C1148759
+4544	4570	GO:0001070	that transcription factors	transcription factor activity		C1148759
+4544	4570	GO:0001071	that transcription factors	transcription factor activity		C1148759
+4544	4570	GO:0003700	that transcription factors	transcription factor activity		C1148759
+4715	4793	GO:0000988	more specificity into the regulatory function of a given transcription factor.	transcription factor activity		C1148759
+4715	4793	GO:0001070	more specificity into the regulatory function of a given transcription factor.	transcription factor activity		C1148759
+4715	4793	GO:0001071	more specificity into the regulatory function of a given transcription factor.	transcription factor activity		C1148759
+4715	4793	GO:0003700	more specificity into the regulatory function of a given transcription factor.	transcription factor activity		C1148759
+4868	4944	GO:0007567	with sox2 on the lens-specific enhancer element of the delta-crystallin gene	parturition	Birth	C0005615
+4868	4944	GO:0000003	with sox2 on the lens-specific enhancer element of the delta-crystallin gene	reproduction	Reproduction	C0035150
+4978	5021	GO:0048666	pax6 activity in early neuronal development	neuron development		C1657987
+5089	5141	GO:0010467	increased expression of this pancreatic hormone gene	gene expression	Gene Expression	C0017262
+5349	5379	GO:1902698	a new domain of 32 amino acids	acidogenesis		C3823112
+5349	5379	GO:1902705	a new domain of 32 amino acids	acidogenesis		C3823112
+5349	5379	GO:1902706	a new domain of 32 amino acids	acidogenesis		C3823112
+5349	5379	GO:1902699	a new domain of 32 amino acids	acidogenesis		C3823112
+5871	5935	GO:1902698	blast analysis of the amino acid sequence of the pax6 pst domain	acidogenesis		C3823112
+5871	5935	GO:1902705	blast analysis of the amino acid sequence of the pax6 pst domain	acidogenesis		C3823112
+5871	5935	GO:1902706	blast analysis of the amino acid sequence of the pax6 pst domain	acidogenesis		C3823112
+5871	5935	GO:1902699	blast analysis of the amino acid sequence of the pax6 pst domain	acidogenesis		C3823112
+5958	6013	GO:1902698	a highly conserved motif within the last 28 amino acids	acidogenesis		C3823112
+5958	6013	GO:1902705	a highly conserved motif within the last 28 amino acids	acidogenesis		C3823112
+5958	6013	GO:1902706	a highly conserved motif within the last 28 amino acids	acidogenesis		C3823112
+5958	6013	GO:1902699	a highly conserved motif within the last 28 amino acids	acidogenesis		C3823112
+6083	6116	GO:0007601	seen in distantly related species	vision	Vision	C0042789
+6271	6327	GO:1902698	clustal alignment of the terminal 42 amino acids of pax6	acidogenesis		C3823112
+6271	6327	GO:1902705	clustal alignment of the terminal 42 amino acids of pax6	acidogenesis		C3823112
+6271	6327	GO:1902706	clustal alignment of the terminal 42 amino acids of pax6	acidogenesis		C3823112
+6271	6327	GO:1902699	clustal alignment of the terminal 42 amino acids of pax6	acidogenesis		C3823112
+6536	6559	GO:1902698	terminal 28 amino acids	acidogenesis		C3823112
+6536	6559	GO:1902705	terminal 28 amino acids	acidogenesis		C3823112
+6536	6559	GO:1902706	terminal 28 amino acids	acidogenesis		C3823112
+6536	6559	GO:1902699	terminal 28 amino acids	acidogenesis		C3823112
+6725	6782	GO:0004062	the whole pax6 pst domain to secondary structure analysis	aryl sulfotransferase activity		C1152487
+6942	6956	GO:0004062	the pst domain	aryl sulfotransferase activity		C1152487
+7454	7524	GO:1902698	secondary structure prediction analysis on this 28 amino acid peptide,	acidogenesis		C3823112
+7454	7524	GO:1902705	secondary structure prediction analysis on this 28 amino acid peptide,	acidogenesis		C3823112
+7454	7524	GO:1902706	secondary structure prediction analysis on this 28 amino acid peptide,	acidogenesis		C3823112
+7454	7524	GO:1902699	secondary structure prediction analysis on this 28 amino acid peptide,	acidogenesis		C3823112
+7568	7601	GO:1902698	addition of another 4 amino acids	acidogenesis		C3823112
+7568	7601	GO:1902705	addition of another 4 amino acids	acidogenesis		C3823112
+7568	7601	GO:1902706	addition of another 4 amino acids	acidogenesis		C3823112
+7568	7601	GO:1902699	addition of another 4 amino acids	acidogenesis		C3823112
+7900	7933	GO:1902698	the final 32 amino acids of pax6,	acidogenesis		C3823112
+7900	7933	GO:1902705	the final 32 amino acids of pax6,	acidogenesis		C3823112
+7900	7933	GO:1902706	the final 32 amino acids of pax6,	acidogenesis		C3823112
+7900	7933	GO:1902699	the final 32 amino acids of pax6,	acidogenesis		C3823112
+8245	8281	GO:1902698	the 32 amino acid c-terminal peptide	acidogenesis		C3823112
+8245	8281	GO:1902705	the 32 amino acid c-terminal peptide	acidogenesis		C3823112
+8245	8281	GO:1902706	the 32 amino acid c-terminal peptide	acidogenesis		C3823112
+8245	8281	GO:1902699	the 32 amino acid c-terminal peptide	acidogenesis		C3823112
+8310	8321	GO:0003677	DNA binding	DNA binding	dna binding	C1148673
+8434	8477	GO:1902698	the amino acid sequence of the pax6 protein	acidogenesis		C3823112
+8434	8477	GO:1902705	the amino acid sequence of the pax6 protein	acidogenesis		C3823112
+8434	8477	GO:1902706	the amino acid sequence of the pax6 protein	acidogenesis		C3823112
+8434	8477	GO:1902699	the amino acid sequence of the pax6 protein	acidogenesis		C3823112
+8657	8677	GO:0004062	the whole pst domain	aryl sulfotransferase activity		C1152487
+8785	8806	GO:0004062	the pst domain screen	aryl sulfotransferase activity		C1152487
+8948	8958	GO:1990266	(nm_011984	neutrophil migration	Neutrophil migration, function	C0312860
+8968	8974	GO:0003777	dynein	dynein	dynein activity	C1622677
+9002	9012	GO:1990266	nm_019682,	neutrophil migration	Neutrophil migration, function	C0312860
+9095	9104	GO:1990266	nm_053168	neutrophil migration	Neutrophil migration, function	C0312860
+9259	9295	GO:0004062	identified in the pst domain screen.	aryl sulfotransferase activity		C1152487
+9510	9531	GO:0014069	post-synaptic density	post-synaptic density	Post-Synaptic Density	C1817671
+9562	9603	GO:0043234	a subunit of two motor protein complexes,	protein complex location		C1523872
+9604	9610	GO:0003777	dynein	dynein	dynein activity	C1622677
+9644	9669	GO:0005622	involved in intracellular	protoplasm	Protoplasm	C0175996
+9698	9707	GO:0043226	organelle	organelle	Organelles	C0029219
+11369	11388	GO:0004062	pst domain of pax6.	aryl sulfotransferase activity		C1152487
+11590	11625	GO:0004062	interact with the whole pst domain.	aryl sulfotransferase activity		C1152487
+11725	11781	GO:0004062	interacts with a more n-terminal part of the pst domain.	aryl sulfotransferase activity		C1152487
+11785	11794	GO:0007610	conducted	behavior	Behavior	C0004927
+12095	12125	GO:1902698	the n-terminal 70 amino acids.	acidogenesis		C3823112
+12095	12125	GO:1902705	the n-terminal 70 amino acids.	acidogenesis		C3823112
+12095	12125	GO:1902706	the n-terminal 70 amino acids.	acidogenesis		C3823112
+12095	12125	GO:1902699	the n-terminal 70 amino acids.	acidogenesis		C3823112
+12240	12243	GO:0007601	see	vision	Vision	C0042789
+12367	12392	GO:0004062	the whole pax6 pst domain	aryl sulfotransferase activity		C1152487
+12476	12500	GO:0007567	all three reporter genes	parturition	Birth	C0005615
+12476	12500	GO:0000003	all three reporter genes	reproduction	Reproduction	C0035150
+12734	12740	GO:0040007	growth	growth	Growth	C0018270
+12762	12782	GO:1902698	5-fluoro-orotic acid	acidogenesis		C3823112
+12762	12782	GO:1902705	5-fluoro-orotic acid	acidogenesis		C3823112
+12762	12782	GO:1902706	5-fluoro-orotic acid	acidogenesis		C3823112
+12762	12782	GO:1902699	5-fluoro-orotic acid	acidogenesis		C3823112
+12982	13013	GO:0002524	were of sub-optimal sensitivity	hypersensitivity	Hypersensitivity	C0020517
+13224	13249	GO:1902698	the final 32 amino acids,	acidogenesis		C3823112
+13224	13249	GO:1902705	the final 32 amino acids,	acidogenesis		C3823112
+13224	13249	GO:1902706	the final 32 amino acids,	acidogenesis		C3823112
+13224	13249	GO:1902699	the final 32 amino acids,	acidogenesis		C3823112
+13440	13468	GO:0004062	isolated with the pst domain	aryl sulfotransferase activity		C1152487
+13628	13676	GO:0007567	lacz reporter gene activation in pairwise tests.	parturition	Birth	C0005615
+13628	13676	GO:0000003	lacz reporter gene activation in pairwise tests.	reproduction	Reproduction	C0035150
+13787	13802	GO:0004062	pax6 pst domain	aryl sulfotransferase activity		C1152487
+13819	13858	GO:0004062	pax6 pst domain with the q422r mutation	aryl sulfotransferase activity		C1152487
+13875	13915	GO:0004062	pax6 pst domain with the x423l mutation,	aryl sulfotransferase activity		C1152487
+13935	13979	GO:0004062	pax6 pst domain with the 1615 del10 mutation	aryl sulfotransferase activity		C1152487
+13993	14008	GO:0004062	pax6 pst domain	aryl sulfotransferase activity		C1152487
+14076	14106	GO:1902698	the n-terminal 70 amino acids.	acidogenesis		C3823112
+14076	14106	GO:1902705	the n-terminal 70 amino acids.	acidogenesis		C3823112
+14076	14106	GO:1902706	the n-terminal 70 amino acids.	acidogenesis		C3823112
+14076	14106	GO:1902699	the n-terminal 70 amino acids.	acidogenesis		C3823112
+14515	14530	GO:0004062	pax6 pst domain	aryl sulfotransferase activity		C1152487
+14515	14530	GO:0004062	pax6 pst domain	aryl sulfotransferase activity		C1152487
+14639	14678	GO:0004062	pax6 pst domain with the q422r mutation	aryl sulfotransferase activity		C1152487
+14695	14735	GO:0004062	pax6 pst domain with the x423l mutation,	aryl sulfotransferase activity		C1152487
+14753	14798	GO:0004062	pax6 pst domain with the 1615 del10 mutation.	aryl sulfotransferase activity		C1152487
+14878	14908	GO:1902698	the n-terminal 70 amino acids.	acidogenesis		C3823112
+14878	14908	GO:1902705	the n-terminal 70 amino acids.	acidogenesis		C3823112
+14878	14908	GO:1902706	the n-terminal 70 amino acids.	acidogenesis		C3823112
+14878	14908	GO:1902699	the n-terminal 70 amino acids.	acidogenesis		C3823112
+14957	14991	GO:0004062	interact with the pax6 pst domain,	aryl sulfotransferase activity		C1152487
+15131	15153	GO:0007601	with ocular anomalies.	vision	Vision	C0042789
+15229	15276	GO:1902698	a glutamine to arginine amino acid substitution	acidogenesis		C3823112
+15229	15276	GO:1902705	a glutamine to arginine amino acid substitution	acidogenesis		C3823112
+15229	15276	GO:1902706	a glutamine to arginine amino acid substitution	acidogenesis		C3823112
+15229	15276	GO:1902699	a glutamine to arginine amino acid substitution	acidogenesis		C3823112
+15661	15720	GO:0006412	translational read-through into the 3' untranslated region,	protein biosynthesis	Protein Biosynthesis	C0597295
+15751	15799	GO:1902698	the last 5 amino acids of the c-terminal peptide	acidogenesis		C3823112
+15751	15799	GO:1902705	the last 5 amino acids of the c-terminal peptide	acidogenesis		C3823112
+15751	15799	GO:1902706	the last 5 amino acids of the c-terminal peptide	acidogenesis		C3823112
+15751	15799	GO:1902699	the last 5 amino acids of the c-terminal peptide	acidogenesis		C3823112
+15804	15843	GO:1902698	replaced by a 103 amino acid-extension.	acidogenesis		C3823112
+15804	15843	GO:1902705	replaced by a 103 amino acid-extension.	acidogenesis		C3823112
+15804	15843	GO:1902706	replaced by a 103 amino acid-extension.	acidogenesis		C3823112
+15804	15843	GO:1902699	replaced by a 103 amino acid-extension.	acidogenesis		C3823112
+15945	15954	GO:0050890	cognition	cognition	Cognition	C0009240
+16421	16457	GO:1902698	extends for a further 35 amino acids	acidogenesis		C3823112
+16421	16457	GO:1902705	extends for a further 35 amino acids	acidogenesis		C3823112
+16421	16457	GO:1902706	extends for a further 35 amino acids	acidogenesis		C3823112
+16421	16457	GO:1902699	extends for a further 35 amino acids	acidogenesis		C3823112
+16648	16663	GO:0007608	olfactory bulbs	smell perception	Smell Perception	C0037361
+17397	17453	GO:0004062	interacts with a more n-terminal part of the pst domain.	aryl sulfotransferase activity		C1152487
+17519	17552	GO:1902698	amino acid sequence conservation,	acidogenesis		C3823112
+17519	17552	GO:1902705	amino acid sequence conservation,	acidogenesis		C3823112
+17519	17552	GO:1902706	amino acid sequence conservation,	acidogenesis		C3823112
+17519	17552	GO:1902699	amino acid sequence conservation,	acidogenesis		C3823112
+17716	17736	GO:0004062	the whole pst domain	aryl sulfotransferase activity		C1152487
+17895	17909	GO:0004062	the pst domain	aryl sulfotransferase activity		C1152487
+17934	17959	GO:0004062	only with the pst domain,	aryl sulfotransferase activity		C1152487
+18056	18112	GO:0004062	interacts with a more n-terminal part of the pst domain.	aryl sulfotransferase activity		C1152487
+18113	18152	GO:0004062	the interactions between the pst domain	aryl sulfotransferase activity		C1152487
+18472	18508	GO:0004062	interact with a pst domain construct	aryl sulfotransferase activity		C1152487
+18593	18642	GO:0005488	binds to type i metabotropic glutamate receptors,	binding	Binding 	C1167622
+18720	18741	GO:0097708	intracellular vesicle	intracellular vesicle		C4236736
+18859	18893	GO:0023052	a role in post-synaptic signalling	biological signaling		C3537152
+19056	19069	GO:0007411	axon guidance	axon guidance	Axon Guidance	C2984268
+19077	19094	GO:0007420	brain development	brain development		C1160340
+19111	19170	GO:0006886	a subunit of two intracellular transport protein complexes,	intracellular protein transport		C1159772
+19171	19177	GO:0003777	dynein	dynein	dynein activity	C1622677
+19171	19177	GO:0003777	dynein	dynein	dynein activity	C1622677
+19239	19250	GO:0005874	microtubule	microtubule	Microtubules	C0026046
+19308	19317	GO:0043226	organelle	organelle	Organelles	C0029219
+19323	19330	GO:0031982	vesicle	vesicle		C1622418
+19401	19435	GO:0005488	binds to a variety of psd proteins	binding	Binding 	C1167622
+20040	20081	GO:1903009	ubiqutin-mediated proteasomal degradation	proteasome complex disassembly		C3824143
+20334	20369	GO:0023052	by which synaptic signalling causes	biological signaling		C3537152
+20381	20396	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+20448	20455	GO:0005488	binding	binding	Binding 	C1167622
+20706	20749	GO:0005884	along the psd-associated actin cytoskeleton	microfilament	Microfilaments	C0025979
+20762	20768	GO:0003777	dynein	dynein	dynein activity	C1622677
+20798	20809	GO:0005874	microtubule	microtubule	Microtubules	C0026046
+20839	20850	GO:0005634	the nucleus	cell nucleus	Cell Nucleus	C0007610
+20873	20906	GO:0006508	implicated in protein degradation	proteolysis	Proteolysis	C0597304
+20873	20906	GO:0030163	implicated in protein degradation	protein degradation	Protein Degradation, Regulatory	C1623036
+20959	21010	GO:0000988	precedents for association of transcription factors	transcription factor activity		C1148759
+20959	21010	GO:0001070	precedents for association of transcription factors	transcription factor activity		C1148759
+20959	21010	GO:0001071	precedents for association of transcription factors	transcription factor activity		C1148759
+20959	21010	GO:0003700	precedents for association of transcription factors	transcription factor activity		C1148759
+21020	21041	GO:0014069	post-synaptic density	post-synaptic density	Post-Synaptic Density	C1817671
+21102	21109	GO:0045202	synapse	synapse	Synapses	C0039062
+21114	21125	GO:0005634	the nucleus	cell nucleus	Cell Nucleus	C0007610
+21316	21325	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+21333	21338	GO:0005488	binds	binding	Binding 	C1167622
+21460	21501	GO:0051179	its subcellular localisation in neurones,	establishment and maintenance of localization		C1744691
+21593	21659	GO:0008104	the subcellular localisation of the putative interacting proteins,	protein localization	protein localization location	C0597704
+21593	21659	GO:0006886	the subcellular localisation of the putative interacting proteins,	intracellular protein transport		C1159772
+21731	21740	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+21764	21773	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+21786	21806	GO:0051179	nuclear localisation	establishment and maintenance of localization		C1744691
+21862	21871	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+21890	21899	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+22543	22581	GO:0004062	the interaction between the pst domain	aryl sulfotransferase activity		C1152487
+22775	22815	GO:1902698	at the last amino acid position of pax6,	acidogenesis		C3823112
+22775	22815	GO:1902705	at the last amino acid position of pax6,	acidogenesis		C3823112
+22775	22815	GO:1902706	at the last amino acid position of pax6,	acidogenesis		C3823112
+22775	22815	GO:1902699	at the last amino acid position of pax6,	acidogenesis		C3823112
+23061	23105	GO:0006412	translation into the 3' untranslated region,	protein biosynthesis	Protein Biosynthesis	C0597295
+23281	23329	GO:1902698	the last 5 amino acids of the c-terminal peptide	acidogenesis		C3823112
+23281	23329	GO:1902705	the last 5 amino acids of the c-terminal peptide	acidogenesis		C3823112
+23281	23329	GO:1902706	the last 5 amino acids of the c-terminal peptide	acidogenesis		C3823112
+23281	23329	GO:1902699	the last 5 amino acids of the c-terminal peptide	acidogenesis		C3823112
+23431	23494	GO:0004062	the conformation of the more n-terminal part of the pst domain.	aryl sulfotransferase activity		C1152487
+23606	23635	GO:0004062	interacts with the pst domain	aryl sulfotransferase activity		C1152487
+23932	23967	GO:0000184	degraded by nonsense-mediated decay	nonsense-mediated mRNA decay	Nonsense Mediated mRNA Decay	C1158013
+24349	24364	GO:0023052	that signalling	biological signaling		C3537152
+24717	24730	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+24854	24894	GO:0023052	a mechanism by which synaptic signalling	biological signaling		C3537152
+24930	24945	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+25555	25575	GO:1902698	amino acid numbering	acidogenesis		C3823112
+25555	25575	GO:1902705	amino acid numbering	acidogenesis		C3823112
+25555	25575	GO:1902706	amino acid numbering	acidogenesis		C3823112
+25555	25575	GO:1902699	amino acid numbering	acidogenesis		C3823112
+25918	25929	GO:0003677	DNA binding	DNA binding	dna binding	C1148673
+25955	25975	GO:0004062	the whole pst domain	aryl sulfotransferase activity		C1152487
+25976	26028	GO:1902698	(amino acids 278-422 of the full-length pax6 protein	acidogenesis		C3823112
+25976	26028	GO:1902705	(amino acids 278-422 of the full-length pax6 protein	acidogenesis		C3823112
+25976	26028	GO:1902706	(amino acids 278-422 of the full-length pax6 protein	acidogenesis		C3823112
+25976	26028	GO:1902699	(amino acids 278-422 of the full-length pax6 protein	acidogenesis		C3823112
+26355	26369	GO:0004062	the pst domain	aryl sulfotransferase activity		C1152487
+26674	26701	GO:0004062	a pax6 pst domain construct	aryl sulfotransferase activity		C1152487
+27217	27270	GO:0005579	(r) 5'-ttg cgg ccg cat cca tcc agt cta cat tgt tc-3'.	membrane attack complex location		C1167383
+27678	27714	GO:0007567	three gal4-activated reporter genes,	parturition	Birth	C0005615
+27678	27714	GO:0000003	three gal4-activated reporter genes,	reproduction	Reproduction	C0035150
+27835	27846	GO:0003677	DNA binding	DNA binding	dna binding	C1148673
+27998	28004	GO:0040007	growth	growth	Growth	C0018270
+27998	28014	GO:0040007	growth on plates	growth	Growth	C0018270
+28094	28113	GO:1902698	5-fluro-orotic acid	acidogenesis		C3823112
+28094	28113	GO:1902705	5-fluro-orotic acid	acidogenesis		C3823112
+28094	28113	GO:1902706	5-fluro-orotic acid	acidogenesis		C3823112
+28094	28113	GO:1902699	5-fluro-orotic acid	acidogenesis		C3823112
+28151	28157	GO:0040007	growth	growth	Growth	C0018270
+28524	28528	GO:0005623	cell	cell	Cells	C0007634
+29037	29041	GO:0005623	cell	cell	Cells	C0007634
+29342	29379	GO:1902698	the missing n-terminal 70 amino acids	acidogenesis		C3823112
+29342	29379	GO:1902705	the missing n-terminal 70 amino acids	acidogenesis		C3823112
+29342	29379	GO:1902706	the missing n-terminal 70 amino acids	acidogenesis		C3823112
+29342	29379	GO:1902699	the missing n-terminal 70 amino acids	acidogenesis		C3823112
+29838	29878	GO:0007567	the constitutively expressed genes gapdh	parturition	Birth	C0005615
+29838	29878	GO:0000003	the constitutively expressed genes gapdh	reproduction	Reproduction	C0035150
+30062	30097	GO:0005579	; pax6-r cga tca cat gct ctc tcc tt	membrane attack complex location		C1167383
+30926	30937	GO:0004062	pst domain,	aryl sulfotransferase activity		C1152487
+30988	31009	GO:0014069	post-synaptic density	post-synaptic density	Post-Synaptic Density	C1817671
+31541	31550	GO:0007601	for sight	vision	Vision	C0042789
+31585	31596	GO:0032502	development	development	Biologic Development	C0678723

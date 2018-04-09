@@ -1,0 +1,381 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+0	14	GO:0007416	synaptogenesis	synaptogenesis		C0597545
+19	42	GO:0009058	outer segment formation	anabolism	Anabolism	C0220781
+205	216	GO:0007567	from birth.	parturition	Birth	C0005615
+243	285	GO:0003407	abnormal development of the neural retina.	neural retina development		C2753803
+286	304	GO:0007567	mutations in genes	parturition	Birth	C0005615
+286	304	GO:0000003	mutations in genes	reproduction	Reproduction	C0035150
+321	332	GO:0032502	development	development	Biologic Development	C0678723
+366	370	GO:0005623	cell	cell	Cells	C0007634
+447	499	GO:0000988	mutations in the photoreceptor transcription factor,	transcription factor activity		C1148759
+447	499	GO:0001070	mutations in the photoreceptor transcription factor,	transcription factor activity		C1148759
+447	499	GO:0001071	mutations in the photoreceptor transcription factor,	transcription factor activity		C1148759
+447	499	GO:0003700	mutations in the photoreceptor transcription factor,	transcription factor activity		C1148759
+748	761	GO:0009653	morphogenesis	morphogenesis	Morphogenesis	C0026559
+853	870	GO:0007602	phototransduction	phototransduction	Light Signal Transduction	C0376451
+1035	1049	GO:0007416	synaptogenesis	synaptogenesis		C0597545
+1123	1132	GO:0007567	this gene	parturition	Birth	C0005615
+1123	1132	GO:0000003	this gene	reproduction	Reproduction	C0035150
+1133	1187	GO:0008594	plays in multiple aspects of photoreceptor development	photoreceptor cell morphogenesis		C1326034
+1275	1279	GO:0005623	cell	cell	Cells	C0007634
+1304	1310	GO:0007601	vision	vision	Vision	C0042789
+1376	1397	GO:0007600	these sensory neurons	sensory perception	Esthesia	C0036658
+1436	1461	GO:0007600	capable of sensing light.	sensory perception	Esthesia	C0036658
+1473	1500	GO:0007567	genetic diseases of the eye	parturition	Birth	C0005615
+1590	1593	GO:0007601	see	vision	Vision	C0042789
+1706	1723	GO:0007602	phototransduction	phototransduction	Light Signal Transduction	C0376451
+1725	1783	GO:0008594	insight into the development of vertebrate photoreceptors,	photoreceptor cell morphogenesis		C1326034
+1903	1928	GO:0008594	photoreceptor development	photoreceptor cell morphogenesis		C1326034
+1957	1960	GO:0007601	see	vision	Vision	C0042789
+1974	1992	GO:0020010	(cone-rod homeobox	conoid		C1166649
+1997	2024	GO:0007567	an otx-family homeobox gene	parturition	Birth	C0005615
+1997	2024	GO:0000003	an otx-family homeobox gene	reproduction	Reproduction	C0035150
+2088	2099	GO:0032502	development	development	Biologic Development	C0678723
+2137	2152	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+2273	2277	GO:0005623	cell	cell	Cells	C0007634
+2456	2489	GO:0007567	many photoreceptor-specific genes	parturition	Birth	C0005615
+2456	2489	GO:0000003	many photoreceptor-specific genes	reproduction	Reproduction	C0035150
+2508	2515	GO:0005488	binding	binding	Binding 	C1167622
+2703	2723	GO:0020010	cone-rod dystrophy 2	conoid		C1166649
+2829	2867	GO:0030154	a critical role in the differentiation	cell differentiation	Cell Differentiation process	C0007589
+2902	2906	GO:0005623	cell	cell	Cells	C0007634
+2923	2972	GO:0007567	the most severe genetic disease of photoreceptors	parturition	Birth	C0005615
+2923	2972	GO:0000003	the most severe genetic disease of photoreceptors	reproduction	Reproduction	C0035150
+2974	2977	GO:0007601	see	vision	Vision	C0042789
+3068	3074	GO:0007601	vision	vision	Vision	C0042789
+3075	3086	GO:0007567	from birth.	parturition	Birth	C0005615
+3087	3123	GO:0007567	mutations in retinal specific genes,	parturition	Birth	C0005615
+3087	3123	GO:0000003	mutations in retinal specific genes,	reproduction	Reproduction	C0035150
+3277	3337	GO:0007567	many as three additional genetically linked loci where genes	parturition	Birth	C0005615
+3277	3337	GO:0000003	many as three additional genetically linked loci where genes	reproduction	Reproduction	C0035150
+3587	3632	GO:0005515	a protein with decreased dna-binding activity	protein binding	Protein Binding	C0033618
+4002	4033	GO:0007601	the developing eye of an infant	vision	Vision	C0042789
+4338	4382	GO:0008594	many ways in which photoreceptor development	photoreceptor cell morphogenesis		C1326034
+4466	4470	GO:0005623	cell	cell	Cells	C0007634
+4500	4540	GO:0030182	for studies in neuronal differentiation.	neuron differentiation		C1159970
+4500	4540	GO:0022008	for studies in neuronal differentiation.	neural cell differentiation		C2755962
+4555	4559	GO:0005623	cell	cell	Cells	C0007634
+4583	4597	GO:0097683	at their apex,	dinoflagellate apex		C3890171
+4617	4644	GO:0016020	a membranous outer segment,	membrane	Membrane	C0596901
+4685	4702	GO:0007602	phototransduction	phototransduction	Light Signal Transduction	C0376451
+4785	4795	GO:0045102	peripherin	peripherin	peripherin location	C1325815
+4785	4795	GO:0045098	peripherin	peripherin	peripherin location	C1325815
+4856	4872	GO:0097683	other extremity,	dinoflagellate apex		C3890171
+4983	4987	GO:0005623	cell	cell	Cells	C0007634
+4998	5010	GO:0044317	rod spherule	rod spherule	Rod spherule	C1179067
+5038	5045	GO:0045202	synapse	synapse	Synapses	C0039062
+5077	5081	GO:0030424	axon	axon	Axon	C0004461
+5118	5125	GO:0045202	synapse	synapse	Synapses	C0039062
+5129	5170	GO:0048788	characterized by the presence of a ribbon	pre-synaptic ribbon		C3541837
+5190	5199	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+5201	5213	GO:0044316	cone pedicle	cone pedicle	Cone pedicle	C1179068
+5233	5240	GO:0045202	synapse	synapse	Synapses	C0039062
+5301	5305	GO:0005623	cell	cell	Cells	C0007634
+5336	5344	GO:0030425	dendrite	dendrite	Dendrites	C0011305
+5349	5372	GO:0020010	off-cone bipolar cells.	conoid		C1166649
+5396	5439	GO:0007416	the formation of the photoreceptor synapses	synaptogenesis		C0597545
+5563	5576	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+5722	5767	GO:0030182	certain features of neuronal differentiation,	neuron differentiation		C1159970
+5722	5767	GO:0022008	certain features of neuronal differentiation,	neural cell differentiation		C2755962
+5768	5794	GO:0007416	such as synapse formation,	synaptogenesis		C0597545
+5944	5983	GO:0030154	the differentiation of the outer retina	cell differentiation	Cell Differentiation process	C0007589
+6112	6155	GO:0009058	a complete block in outer segment formation	anabolism	Anabolism	C0220781
+6196	6200	GO:0005623	cell	cell	Cells	C0007634
+6296	6310	GO:0007416	synaptogenesis	synaptogenesis		C0597545
+6366	6398	GO:0007416	the process of synapse formation	synaptogenesis		C0597545
+6728	6759	GO:0042461	in photoreceptor morphogenesis,	photoreceptor cell development		C1159982
+7254	7289	GO:0030154	some morphological differentiation,	cell differentiation	Cell Differentiation process	C0007589
+7319	7331	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+7407	7412	GO:0019835	lysis	cytolysis	pathologic cytolysis	C1536403
+7450	7457	GO:0005773	vacuole	vacuole	Vacuole	C0042219
+7471	7483	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+7615	7640	GO:0043473	pigmented epithelium. os,	pigmentation	Pigmentation	C0031911
+7682	7728	GO:0005634	outer nuclear layer with photoreceptor nuclei.	cell nucleus	Cell Nucleus	C0007610
+7856	7895	GO:0001917	inner segments of crx-/- photoreceptors	photoreceptor inner segment	Inner segment of photoreceptor	C1523372
+7913	7925	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+7979	8000	GO:0043473	pigmented epithelium.	pigmentation	Pigmentation	C0031911
+8067	8094	GO:0001917	photoreceptor inner segment	photoreceptor inner segment	Inner segment of photoreceptor	C1523372
+8119	8159	GO:0097730	joined by a non-motile connecting cilium	non-motile cilium		C4328979
+8212	8223	GO:0005874	microtubule	microtubule	Microtubules	C0026046
+8290	8333	GO:0035869	numerous cross sections of connecting cilia	connecting cilium		C4327022
+8328	8333	GO:0005929	cilia	cilium	Cilia	C0008778
+8443	8454	GO:0005874	microtubule	microtubule	Microtubules	C0026046
+8496	8513	GO:0035869	connecting cilium	connecting cilium		C4327022
+8694	8738	GO:0009058	that in addition to inner segment formation,	anabolism	Anabolism	C0220781
+8739	8751	GO:0060271	ciliogenesis	cilium assembly		C4329131
+8828	8860	GO:0043473	the retinal pigmented epithelium	pigmentation	Pigmentation	C0031911
+9106	9130	GO:0060271	evidence of ciliogenesis	cilium assembly		C4329131
+9176	9202	GO:0097730	nonmotile connecting cilia	non-motile cilium		C4328979
+9273	9290	GO:0035869	connecting cilium	connecting cilium		C4327022
+9353	9359	GO:0005929	cilium	cilium	Cilia	C0008778
+9366	9372	GO:0005929	cilium	cilium	Cilia	C0008778
+9409	9421	GO:0005634	cell nucleus	cell nucleus	Cell Nucleus	C0007610
+9436	9444	GO:0030263	pyknotic	pyknosis	Karyopyknosis	C0333904
+9518	9522	GO:0007601	seen	vision	Vision	C0042789
+9524	9571	GO:0012506	along with large amounts of membranous vesicles	vesicle membrane		C1167317
+9701	9718	GO:0035869	connecting cilium	connecting cilium		C4327022
+9815	9826	GO:0005874	microtubule	microtubule	Microtubules	C0026046
+9847	9855	GO:1990266	= 88 nm.	neutrophil migration	Neutrophil migration, function	C0312860
+9860	9917	GO:0012506	scanning electron micrograph (sem) of membranous vesicles	vesicle membrane		C1167317
+9944	9993	GO:0001917	shed from inner segments of crx-/- photoreceptors	photoreceptor inner segment	Inner segment of photoreceptor	C1523372
+10059	10088	GO:0043473	with the pigmented epithelium	pigmentation	Pigmentation	C0031911
+10345	10382	GO:0005634	second, sporadically displaced nuclei	cell nucleus	Cell Nucleus	C0007610
+10447	10459	GO:0005634	these nuclei	cell nucleus	Cell Nucleus	C0007610
+10469	10477	GO:0030263	pyknotic	pyknosis	Karyopyknosis	C0333904
+10529	10544	GO:0000792	heterochromatin	heterochromatin	Heterochromatin	C0019397
+10746	10753	GO:0031982	vesicle	vesicle		C1622418
+10773	10786	GO:1990266	100 to 200 nm	neutrophil migration	Neutrophil migration, function	C0312860
+10922	10953	GO:0007114	budding from the inner segments	cell budding	Cell budding	C1155616
+11008	11051	GO:0042461	the morphogenesis of crx-/- photoreceptors,	photoreceptor cell development		C1159982
+11180	11207	GO:0001917	photoreceptor inner segment	photoreceptor inner segment	Inner segment of photoreceptor	C1523372
+11221	11227	GO:0005929	cilia,	cilium	Cilia	C0008778
+11339	11356	GO:0035869	connecting cilium	connecting cilium		C4327022
+11728	11756	GO:0097683	like structure at their apex	dinoflagellate apex		C3890171
+11856	11895	GO:0035869	connecting cilia without outer segments	connecting cilium		C4327022
+12003	12020	GO:0035869	connecting cilium	connecting cilium		C4327022
+12304	12335	GO:0035869	unusually long connecting cilia	connecting cilium		C4327022
+12429	12440	GO:0097197	p21 by tem,	tetraspanin-enriched microdomain		C3714516
+12572	12624	GO:0009058	a complete absence of normal outer segment formation	anabolism	Anabolism	C0220781
+12654	12710	GO:0008594	the arrest of development of the photoreceptor appendage	photoreceptor cell morphogenesis		C1326034
+12654	12710	GO:0048736	the arrest of development of the photoreceptor appendage	appendage development		C1658112
+12711	12762	GO:0009058	at the elongation stage of outer segment formation.	anabolism	Anabolism	C0220781
+12788	12801	GO:0009653	morphogenesis	morphogenesis	Morphogenesis	C0026559
+12915	12944	GO:0043473	with the pigmented epithelium	pigmentation	Pigmentation	C0031911
+13050	13075	GO:0035869	numerous connecting cilia	connecting cilium		C4327022
+13307	13327	GO:0035869	few connecting cilia	connecting cilium		C4327022
+13322	13327	GO:0005929	cilia	cilium	Cilia	C0008778
+13473	13490	GO:0035869	connecting cilium	connecting cilium		C4327022
+13578	13610	GO:0035869	abnormally long connecting cilia	connecting cilium		C4327022
+13860	13910	GO:0032391	emerging from photoreceptor connecting cilia (cc).	photoreceptor connecting cilium	Photoreceptor Connecting Cilium	C1819304
+13888	13904	GO:0035869	connecting cilia	connecting cilium		C4327022
+13905	13908	GO:0035869	(cc	connecting cilium		C4327022
+14167	14177	GO:0045102	peripherin	peripherin	peripherin location	C1325815
+14167	14177	GO:0045098	peripherin	peripherin	peripherin location	C1325815
+14211	14221	GO:0045102	peripherin	peripherin	peripherin location	C1325815
+14211	14221	GO:0045098	peripherin	peripherin	peripherin location	C1325815
+14226	14258	GO:0007567	two photoreceptor-specific genes	parturition	Birth	C0005615
+14226	14258	GO:0000003	two photoreceptor-specific genes	reproduction	Reproduction	C0035150
+14368	14390	GO:0007567	in each of these genes	parturition	Birth	C0005615
+14368	14390	GO:0000003	in each of these genes	reproduction	Reproduction	C0035150
+14694	14704	GO:0045102	peripherin	peripherin	peripherin location	C1325815
+14694	14704	GO:0045098	peripherin	peripherin	peripherin location	C1325815
+14785	14814	GO:0043473	with the pigmented epithelium	pigmentation	Pigmentation	C0031911
+14839	14845	GO:0005929	cilium	cilium	Cilia	C0008778
+14894	14948	GO:0009058	necessary for the formation of photoreceptor terminals	anabolism	Anabolism	C0220781
+15074	15105	GO:0009058	formation of both rod spherules	anabolism	Anabolism	C0220781
+15229	15236	GO:0045202	synapse	synapse	Synapses	C0039062
+15296	15322	GO:0032502	newly mature rod spherules	development	Biologic Development	C0678723
+15377	15420	GO:0048788	club-shaped structures with a single ribbon	pre-synaptic ribbon		C3541837
+15459	15466	GO:0045202	synapse	synapse	Synapses	C0039062
+15527	15562	GO:0042995	two processes from horizontal cells	cell process	cell process structure	C0230625
+15654	15662	GO:0030425	dendrite	dendrite	Dendrites	C0011305
+15746	15760	GO:0020010	cone terminals	conoid		C1166649
+15765	15785	GO:0044326	large, flat pedicles	dendritic spine neck		C3159206
+15817	15824	GO:0045202	synapse	synapse	Synapses	C0039062
+15877	15889	GO:0042995	cell process	cell process	cell process structure	C0230625
+15893	15905	GO:0044326	each pedicle	dendritic spine neck		C3159206
+15915	15932	GO:0048788	numerous ribbons.	pre-synaptic ribbon		C3541837
+16156	16172	GO:0008021	synaptic vesicle	synaptic vesicle	Synaptic Vesicles	C0039065
+16178	16200	GO:0048788	ribbon-like structures	pre-synaptic ribbon		C3541837
+16258	16265	GO:0045202	synapse	synapse	Synapses	C0039062
+16287	16308	GO:0009058	well formed spherules	anabolism	Anabolism	C0220781
+16313	16321	GO:0044326	pedicles	dendritic spine neck		C3159206
+16389	16405	GO:0048788	multiple ribbons	pre-synaptic ribbon		C3541837
+16448	16463	GO:0005886	plasma membrane	plasma membrane	Plasma membrane	C0007603
+16641	16667	GO:0009058	newly formed rod spherules	anabolism	Anabolism	C0220781
+16761	16815	GO:0097470	a single invaginating synapse with one ribbon complex.	ribbon synapse	Ribbon synapse	C1179874
+16816	16830	GO:0020010	cone terminals	conoid		C1166649
+16836	16856	GO:0044326	large, flat pedicles	dendritic spine neck		C3159206
+16870	16929	GO:0097470	many invaginating synapses with separate ribbon structures.	ribbon synapse	Ribbon synapse	C1179874
+17152	17172	GO:0009058	well-formed pedicles	anabolism	Anabolism	C0220781
+17235	17257	GO:0048788	ribbon-like structures	pre-synaptic ribbon		C3541837
+17315	17322	GO:0045202	synapse	synapse	Synapses	C0039062
+17370	17402	GO:0048788	multiple ribbon-like structures,	pre-synaptic ribbon		C3541837
+17403	17431	GO:0048788	instead of a singule ribbon.	pre-synaptic ribbon		C3541837
+17460	17483	GO:0048788	2 contained two ribbons	pre-synaptic ribbon		C3541837
+17697	17709	GO:0044317	rod spherule	rod spherule	Rod spherule	C1179067
+17721	17775	GO:0097470	a single invaginating synapse with one ribbon complex.	ribbon synapse	Ribbon synapse	C1179874
+17862	17887	GO:0048788	a single ribbon structure	pre-synaptic ribbon		C3541837
+17924	17928	GO:0005623	cell	cell	Cells	C0007634
+18012	18020	GO:0030425	dendrite	dendrite	Dendrites	C0011305
+18082	18098	GO:0008021	synaptic vesicle	synaptic vesicle	Synaptic Vesicles	C0039065
+18101	18154	GO:0030662	one coated vesicle originatinf from the cell membrane	coated vesicle membrane		C1166739
+18295	18311	GO:0008021	synaptic vesicle	synaptic vesicle	Synaptic Vesicles	C0039065
+18317	18339	GO:0048788	ribbon-like structures	pre-synaptic ribbon		C3541837
+18406	18413	GO:0045202	synapse	synapse	Synapses	C0039062
+18435	18456	GO:0009058	well formed spherules	anabolism	Anabolism	C0220781
+18461	18469	GO:0044326	pedicles	dendritic spine neck		C3159206
+18533	18564	GO:0048788	multiple ribbon-like structures	pre-synaptic ribbon		C3541837
+18570	18599	GO:0048788	the majority of these ribbons	pre-synaptic ribbon		C3541837
+18629	18646	GO:0097060	synaptic membrane	synaptic membrane	Synaptic Membranes	C0039063
+18752	18756	GO:0005623	cell	cell	Cells	C0007634
+18769	18773	GO:0005623	cell	cell	Cells	C0007634
+18778	18785	GO:0005634	nucleus	cell nucleus	Cell Nucleus	C0007610
+18790	18797	GO:0048788	ribbon.	pre-synaptic ribbon		C3541837
+18812	18821	GO:1990266	= 500 nm,	neutrophil migration	Neutrophil migration, function	C0312860
+18836	18845	GO:1990266	= 250 nm,	neutrophil migration	Neutrophil migration, function	C0312860
+18866	18875	GO:1990266	= 500 nm.	neutrophil migration	Neutrophil migration, function	C0312860
+19240	19253	GO:0009653	morphogenesis	morphogenesis	Morphogenesis	C0026559
+19265	19339	GO:0009058	with the block occuring at the elongation stage of outer segment formation	anabolism	Anabolism	C0220781
+19377	19420	GO:0007416	a severe perturbation in synapse formation.	synaptogenesis		C0597545
+19459	19473	GO:0007416	synaptogenesis	synaptogenesis		C0597545
+19561	19574	GO:0009653	morphogenesis	morphogenesis	Morphogenesis	C0026559
+19603	19640	GO:0007567	one of a collection of gene mutations	parturition	Birth	C0005615
+19603	19640	GO:0000003	one of a collection of gene mutations	reproduction	Reproduction	C0035150
+19646	19688	GO:0009058	lead to an outer segment formation defect.	anabolism	Anabolism	C0220781
+19722	19732	GO:0045102	peripherin	peripherin	peripherin location	C1325815
+19722	19732	GO:0045098	peripherin	peripherin	peripherin location	C1325815
+19768	19813	GO:0009058	lead to a failure of outer segment formation.	anabolism	Anabolism	C0220781
+19830	19840	GO:0045102	peripherin	peripherin	peripherin location	C1325815
+19830	19840	GO:0045098	peripherin	peripherin	peripherin location	C1325815
+19848	19882	GO:0042461	crx-/- photoreceptor morphogenesis	photoreceptor cell development		C1159982
+19914	19959	GO:0031982	vesicular structures in crx-/- photoreceptors	vesicle		C1622418
+20029	20039	GO:0045102	peripherin	peripherin	peripherin location	C1325815
+20029	20039	GO:0045098	peripherin	peripherin	peripherin location	C1325815
+20087	20094	GO:0031982	vesicle	vesicle		C1622418
+20096	20148	GO:0030397	were due to the breakdown of outer segment membranes	membrane disassembly		C1156182
+20222	20232	GO:0045102	peripherin	peripherin	peripherin location	C1325815
+20222	20232	GO:0045098	peripherin	peripherin	peripherin location	C1325815
+20282	20292	GO:0005902	microvilli	microvilli	Microvilli	C0026049
+20460	20467	GO:0031982	vesicle	vesicle		C1622418
+20563	20570	GO:0031982	vesicle	vesicle		C1622418
+20670	20676	GO:0040007	growth	growth	Growth	C0018270
+20748	20765	GO:0035869	connecting cilium	connecting cilium		C4327022
+20767	20770	GO:0007601	see	vision	Vision	C0042789
+20801	20811	GO:0045102	peripherin	peripherin	peripherin location	C1325815
+20801	20811	GO:0045098	peripherin	peripherin	peripherin location	C1325815
+20921	20989	GO:0032502	important roles in the structural integrity of mature outer segments	development	Biologic Development	C0678723
+20991	20994	GO:0007601	see	vision	Vision	C0042789
+21102	21125	GO:0000988	a transcription factor,	transcription factor activity		C1148759
+21102	21125	GO:0001070	a transcription factor,	transcription factor activity		C1148759
+21102	21125	GO:0001071	a transcription factor,	transcription factor activity		C1148759
+21102	21125	GO:0003700	a transcription factor,	transcription factor activity		C1148759
+21146	21151	GO:0007567	genes	parturition	Birth	C0005615
+21146	21151	GO:0000003	genes	reproduction	Reproduction	C0035150
+21270	21280	GO:0045102	peripherin	peripherin	peripherin location	C1325815
+21270	21280	GO:0045098	peripherin	peripherin	peripherin location	C1325815
+21350	21365	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+21395	21418	GO:0007567	a large number of genes	parturition	Birth	C0005615
+21395	21418	GO:0000003	a large number of genes	reproduction	Reproduction	C0035150
+21560	21570	GO:0045102	peripherin	peripherin	peripherin location	C1325815
+21560	21570	GO:0045098	peripherin	peripherin	peripherin location	C1325815
+21988	21998	GO:0016028	rhabdomere	rhabdomere		C1167266
+22269	22291	GO:0042052	rhabdomere development	rhabdomere development		C1160018
+22426	22437	GO:0032502	development	development	Biologic Development	C0678723
+22773	22784	GO:0032502	development	development	Biologic Development	C0678723
+22809	22833	GO:0061541	rhabdomere morphogenesis	rhabdomere morphogenesis		C3820881
+22947	22958	GO:0032502	development	development	Biologic Development	C0678723
+23002	23045	GO:0050789	through its regulation of rhodopsin levels,	regulation of biological process	Regulation of biological process	C1327622
+23049	23132	GO:0050789	perhaps through control of the kinetics of the up-regulation of rhodopsin beginning	regulation of biological process	Regulation of biological process	C1327622
+23182	23195	GO:0009653	morphogenesis	morphogenesis	Morphogenesis	C0026559
+23307	23357	GO:0007567	the founding member of the class of homeobox genes	parturition	Birth	C0005615
+23307	23357	GO:0000003	the founding member of the class of homeobox genes	reproduction	Reproduction	C0035150
+23448	23475	GO:0042461	photoreceptor morphogenesis	photoreceptor cell development		C1159982
+23525	23541	GO:0007567	many other genes	parturition	Birth	C0005615
+23525	23541	GO:0000003	many other genes	reproduction	Reproduction	C0035150
+23657	23667	GO:0045102	peripherin	peripherin	peripherin location	C1325815
+23657	23667	GO:0045098	peripherin	peripherin	peripherin location	C1325815
+23807	23823	GO:0006629	lipid metabolism	lipid metabolism	Lipid Metabolism	C0598783
+23825	23840	GO:0006457	protein folding	protein folding		C0162847
+24008	24044	GO:0007567	probes from this collection of genes	parturition	Birth	C0005615
+24008	24044	GO:0000003	probes from this collection of genes	reproduction	Reproduction	C0035150
+24185	24231	GO:0007567	future analyses of the function of these genes	parturition	Birth	C0005615
+24185	24231	GO:0000003	future analyses of the function of these genes	reproduction	Reproduction	C0035150
+24245	24284	GO:0009058	their role in outer segment biogenesis.	anabolism	Anabolism	C0220781
+24365	24378	GO:0060271	ciliogenesis.	cilium assembly		C4329131
+24379	24396	GO:0007567	another lca gene,	parturition	Birth	C0005615
+24379	24396	GO:0000003	another lca gene,	reproduction	Reproduction	C0035150
+24407	24427	GO:0007567	a related gene crb3,	parturition	Birth	C0005615
+24407	24427	GO:0000003	a related gene crb3,	reproduction	Reproduction	C0035150
+24438	24464	GO:0060271	implicated in ciliogenesis	cilium assembly		C4329131
+24541	24582	GO:0042461	implicated in photoreceptor morphogenesis	photoreceptor cell development		C1159982
+24779	24793	GO:0007416	synaptogenesis	synaptogenesis		C0597545
+24940	24959	GO:0060041	retinal development	retinal development		C2610344
+24962	24976	GO:0007416	synaptogenesis	synaptogenesis		C0597545
+25091	25098	GO:0045202	synapse	synapse	Synapses	C0039062
+25122	25132	GO:0045102	peripherin	peripherin	peripherin location	C1325815
+25122	25132	GO:0045098	peripherin	peripherin	peripherin location	C1325815
+25386	25393	GO:0045202	synapse	synapse	Synapses	C0039062
+25481	25495	GO:0007416	synaptogenesis	synaptogenesis		C0597545
+25500	25548	GO:0009058	occur in the absence of outer segment formation.	anabolism	Anabolism	C0220781
+25645	25655	GO:0045102	peripherin	peripherin	peripherin location	C1325815
+25645	25655	GO:0045098	peripherin	peripherin	peripherin location	C1325815
+25689	25706	GO:0007602	phototransduction	phototransduction	Light Signal Transduction	C0376451
+25749	25787	GO:0009881	activity at the photoreceptor synapse.	photoreceptor activity		C1152655
+25813	25820	GO:0045202	synapse	synapse	Synapses	C0039062
+25880	25891	GO:0032502	development	development	Biologic Development	C0678723
+25944	25966	GO:0009881	photoreceptor activity	photoreceptor activity		C1152655
+26003	26020	GO:0007602	phototransduction	phototransduction	Light Signal Transduction	C0376451
+26025	26043	GO:0007416	synapse formation,	synaptogenesis		C0597545
+26193	26238	GO:0009058	not due to a lack of outer segment formation.	anabolism	Anabolism	C0220781
+26283	26325	GO:0007416	a role in photoreceptor synapse formation,	synaptogenesis		C0597545
+26373	26405	GO:0007567	important genes in this process.	parturition	Birth	C0005615
+26373	26405	GO:0000003	important genes in this process.	reproduction	Reproduction	C0035150
+26446	26502	GO:0003904	the expression of common pre-synaptic terminal proteins,	photoreactivating enzyme activity		C2257086
+26701	26743	GO:0007567	no significant difference for all 3 genes,	parturition	Birth	C0005615
+26701	26743	GO:0000003	no significant difference for all 3 genes,	reproduction	Reproduction	C0035150
+26770	26796	GO:0007567	recovered from these genes	parturition	Birth	C0005615
+26770	26796	GO:0000003	recovered from these genes	reproduction	Reproduction	C0035150
+26877	26888	GO:0007567	other genes	parturition	Birth	C0005615
+26877	26888	GO:0000003	other genes	reproduction	Reproduction	C0035150
+27031	27073	GO:0042461	important for photoreceptor morphogenesis.	photoreceptor cell development		C1159982
+27074	27095	GO:0007567	tags from three genes	parturition	Birth	C0005615
+27074	27095	GO:0000003	tags from three genes	reproduction	Reproduction	C0035150
+27346	27366	GO:0007567	an example of a gene	parturition	Birth	C0005615
+27346	27366	GO:0000003	an example of a gene	reproduction	Reproduction	C0035150
+27416	27457	GO:0007567	a homologue of the c. elegans unc119 gene	parturition	Birth	C0005615
+27416	27457	GO:0000003	a homologue of the c. elegans unc119 gene	reproduction	Reproduction	C0035150
+27532	27546	GO:0097470	ribbon synapse	ribbon synapse	Ribbon synapse	C1179874
+27662	27673	GO:0007567	other genes	parturition	Birth	C0005615
+27662	27673	GO:0000003	other genes	reproduction	Reproduction	C0035150
+27683	27713	GO:0044430	putative cytoskeletal elements	cytoskeletal part		C1820038
+27740	27751	GO:0005874	microtubule	microtubule	Microtubules	C0026046
+27874	27892	GO:0007567	any of these genes	parturition	Birth	C0005615
+27874	27892	GO:0000003	any of these genes	reproduction	Reproduction	C0035150
+27966	27975	GO:0007567	now genes	parturition	Birth	C0005615
+27966	27975	GO:0000003	now genes	reproduction	Reproduction	C0035150
+28093	28107	GO:0097470	ribbon synapse	ribbon synapse	Ribbon synapse	C1179874
+28110	28151	GO:0009058	abnormal photoreceptor terminal formation	anabolism	Anabolism	C0220781
+28187	28206	GO:0060041	retinal development	retinal development		C2610344
+28729	28736	GO:0045202	synapse	synapse	Synapses	C0039062
+28803	28820	GO:0097470	synaptic ribbons,	ribbon synapse	Ribbon synapse	C1179874
+28803	28820	GO:0098681	synaptic ribbons,	synaptic ribbon		C4318927
+28824	28828	GO:0007601	seen	vision	Vision	C0042789
+28896	28926	GO:0042461	in photoreceptor morphogenesis	photoreceptor cell development		C1159982
+29267	29287	GO:0020010	cone-rod dystrophy2,	conoid		C1166649
+29356	29359	GO:0007601	see	vision	Vision	C0042789
+29367	29391	GO:0020010	the cone-rod dystrophies	conoid		C1166649
+29403	29448	GO:0020010	characterized by loss of cone-mediated vision	conoid		C1166649
+29539	29545	GO:0007601	vision	vision	Vision	C0042789
+29612	29652	GO:0020010	followed by loss of cone-mediated vision	conoid		C1166649
+29659	29686	GO:0007567	the majority of known genes	parturition	Birth	C0005615
+29659	29686	GO:0000003	the majority of known genes	reproduction	Reproduction	C0035150
+29687	29727	GO:0007567	responsible for human genetic blindness,	parturition	Birth	C0005615
+29687	29727	GO:0000003	responsible for human genetic blindness,	reproduction	Reproduction	C0035150
+29889	29906	GO:0007602	phototransduction	phototransduction	Light Signal Transduction	C0376451
+29935	29990	GO:0007567	the mechanisms whereby mutations in rod-specific genes,	parturition	Birth	C0005615
+29935	29990	GO:0000003	the mechanisms whereby mutations in rod-specific genes,	reproduction	Reproduction	C0035150
+30015	30046	GO:0020010	eventually to cone degeneration	conoid		C1166649
+30106	30173	GO:0000988	still one of a very few examples of a transcription factor mutation	transcription factor activity		C1148759
+30106	30173	GO:0001070	still one of a very few examples of a transcription factor mutation	transcription factor activity		C1148759
+30106	30173	GO:0001071	still one of a very few examples of a transcription factor mutation	transcription factor activity		C1148759
+30106	30173	GO:0003700	still one of a very few examples of a transcription factor mutation	transcription factor activity		C1148759
+30308	30319	GO:0032502	development	development	Biologic Development	C0678723
+30771	30823	GO:0009058	early after the abnormal formation of retinal tissue	anabolism	Anabolism	C0220781
+31012	31016	GO:0005623	cell	cell	Cells	C0007634
+31114	31118	GO:0007601	seen	vision	Vision	C0042789
+31213	31220	GO:0045202	synapse	synapse	Synapses	C0039062
+31499	31512	GO:0009653	morphogenesis	morphogenesis	Morphogenesis	C0026559
+31514	31528	GO:0007416	synaptogenesis	synaptogenesis		C0597545
+31948	31956	GO:0007601	the eyes	vision	Vision	C0042789
+32017	32028	GO:0007601	the eye cup	vision	Vision	C0042789
+32379	32406	GO:0001750	photoreceptor outer segment	photoreceptor outer segment	Outer segment of photoreceptor	C1325525
+32714	32740	GO:1902698	followed by 1% tannic acid	acidogenesis		C3823112
+32714	32740	GO:1902705	followed by 1% tannic acid	acidogenesis		C3823112
+32714	32740	GO:1902706	followed by 1% tannic acid	acidogenesis		C3823112
+32714	32740	GO:1902699	followed by 1% tannic acid	acidogenesis		C3823112
+33048	33095	GO:0043473	removal of the retinal pigment epithelium (pe),	pigmentation	Pigmentation	C0031911
+33205	33218	GO:0007601	wildtype eyes	vision	Vision	C0042789
+33234	33246	GO:0043473	free from pe	pigmentation	Pigmentation	C0031911
+33721	33730	GO:0007610	conducted	behavior	Behavior	C0004927
+34217	34252	GO:0009058	on the formation of outer segments.	anabolism	Anabolism	C0220781

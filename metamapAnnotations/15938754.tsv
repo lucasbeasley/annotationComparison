@@ -1,0 +1,399 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+40	50	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+53	88	GO:0050909	vary with quinine taste sensitivity	taste perception	Taste Perception	C0039336
+53	88	GO:0007607	vary with quinine taste sensitivity	taste perception	Taste Perception	C0039336
+53	88	GO:0050912	vary with quinine taste sensitivity	taste perception	Taste Perception	C0039336
+127	168	GO:0001580	the detection of bitter-tasting compounds	detection of chemical stimulus involved in sensory perception of bitter taste		C1327490
+169	192	GO:0050909	by the gustatory system	taste perception	Taste Perception	C0039336
+169	192	GO:0007607	by the gustatory system	taste perception	Taste Perception	C0039336
+169	192	GO:0050912	by the gustatory system	taste perception	Taste Perception	C0039336
+306	331	GO:0008527	specific taste receptors,	gustatory receptor	gustatory receptor activity	C1152779
+352	396	GO:0008527	expressed in subsets of taste receptor cells	gustatory receptor	gustatory receptor activity	C1152779
+495	507	GO:0009293	transduction	transduction		C1160185
+651	659	GO:0007610	behavior	behavior	Behavior	C0004927
+731	793	GO:0050909	the major quantitative trait locus (qtl) for taste sensitivity	taste perception	Taste Perception	C0039336
+731	793	GO:0007607	the major quantitative trait locus (qtl) for taste sensitivity	taste perception	Taste Perception	C0039336
+731	793	GO:0050912	the major quantitative trait locus (qtl) for taste sensitivity	taste perception	Taste Perception	C0039336
+849	859	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+876	884	GO:0007567	24 genes	parturition	Birth	C0005615
+876	884	GO:0000003	24 genes	reproduction	Reproduction	C0035150
+1057	1075	GO:0002524	(quinine-sensitive	hypersensitivity	Hypersensitivity	C0020517
+1306	1328	GO:0002524	more sensitive to qhcl	hypersensitivity	Hypersensitivity	C0020517
+1518	1533	GO:0050909	a taste-salient	taste perception	Taste Perception	C0039336
+1518	1533	GO:0007607	a taste-salient	taste perception	Taste Perception	C0039336
+1518	1533	GO:0050912	a taste-salient	taste perception	Taste Perception	C0039336
+1547	1579	GO:0050909	the major qtl for quinine taste,	taste perception	Taste Perception	C0039336
+1547	1579	GO:0007607	the major qtl for quinine taste,	taste perception	Taste Perception	C0039336
+1547	1579	GO:0050912	the major qtl for quinine taste,	taste perception	Taste Perception	C0039336
+1610	1622	GO:0009293	transduction	transduction		C1160185
+1682	1711	GO:0050909	in quinine taste sensitivity.	taste perception	Taste Perception	C0039336
+1682	1711	GO:0007607	in quinine taste sensitivity.	taste perception	Taste Perception	C0039336
+1682	1711	GO:0050912	in quinine taste sensitivity.	taste perception	Taste Perception	C0039336
+1851	1891	GO:0050909	largely similar bitter taste phenotypes,	taste perception	Taste Perception	C0039336
+1851	1891	GO:0007607	largely similar bitter taste phenotypes,	taste perception	Taste Perception	C0039336
+1851	1891	GO:0050912	largely similar bitter taste phenotypes,	taste perception	Taste Perception	C0039336
+1977	1997	GO:0050909	the gustatory system	taste perception	Taste Perception	C0039336
+1977	1997	GO:0007607	the gustatory system	taste perception	Taste Perception	C0039336
+1977	1997	GO:0050912	the gustatory system	taste perception	Taste Perception	C0039336
+2054	2073	GO:0050916	sweet-tasting foods	sweet taste perception		C1154613
+2131	2151	GO:0050913	bitter-tasting foods	sensory perception of bitter taste		C1154610
+2263	2349	GO:0008527	expressed in subpopulations of taste receptor cells (trcs) of the gustatory epithelium	gustatory receptor	gustatory receptor activity	C1152779
+2392	2404	GO:0009293	transduction	transduction		C1160185
+2450	2455	GO:0050909	taste	taste perception	Taste Perception	C0039336
+2450	2455	GO:0007607	taste	taste perception	Taste Perception	C0039336
+2450	2455	GO:0050912	taste	taste perception	Taste Perception	C0039336
+2457	2472	GO:0050916	t1rs for sweet-	sweet taste perception		C1154613
+2476	2497	GO:0050917	umami-tasting stimuli	sensory perception of umami taste		C1154614
+2509	2542	GO:0050913	t2rs for bitter-tasting compounds	sensory perception of bitter taste		C1154610
+2552	2561	GO:0007567	the genes	parturition	Birth	C0005615
+2552	2561	GO:0000003	the genes	reproduction	Reproduction	C0035150
+2654	2678	GO:0005694	near chromosomal markers	chromosome	Chromosomes	C0008633
+2712	2739	GO:0050909	in bitter taste sensitivity	taste perception	Taste Perception	C0039336
+2712	2739	GO:0007607	in bitter taste sensitivity	taste perception	Taste Perception	C0039336
+2712	2739	GO:0050912	in bitter taste sensitivity	taste perception	Taste Perception	C0039336
+2821	2831	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+3107	3177	GO:0007567	a strong candidate gene for a specific bitter taste quantitative trait	parturition	Birth	C0005615
+3424	3438	GO:0002524	] sensitivity.	hypersensitivity	Hypersensitivity	C0020517
+3477	3487	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+3707	3741	GO:0005694	the density of chromosomal markers	chromosome	Chromosomes	C0008633
+3934	3951	GO:0050909	bitter taste qtls	taste perception	Taste Perception	C0039336
+3934	3951	GO:0007607	bitter taste qtls	taste perception	Taste Perception	C0039336
+3934	3951	GO:0050912	bitter taste qtls	taste perception	Taste Perception	C0039336
+3962	3970	GO:0007610	behavior	behavior	Behavior	C0004927
+4149	4193	GO:0050909	the quantification of bitter taste behaviors	taste perception	Taste Perception	C0039336
+4149	4193	GO:0007607	the quantification of bitter taste behaviors	taste perception	Taste Perception	C0039336
+4149	4193	GO:0050912	the quantification of bitter taste behaviors	taste perception	Taste Perception	C0039336
+4232	4287	GO:0050909	contribution of the aforementioned qtls to bitter taste	taste perception	Taste Perception	C0039336
+4232	4287	GO:0007607	contribution of the aforementioned qtls to bitter taste	taste perception	Taste Perception	C0039336
+4232	4287	GO:0050912	contribution of the aforementioned qtls to bitter taste	taste perception	Taste Perception	C0039336
+4376	4388	GO:0009293	transduction	transduction		C1160185
+4482	4525	GO:0008527	taste receptor cells independently of gpcrs	gustatory receptor	gustatory receptor activity	C1152779
+4655	4688	GO:0050913	another bitter-tasting substance,	sensory perception of bitter taste		C1154610
+4707	4738	GO:0005622	intracellular phosphodiesterase	protoplasm	Protoplasm	C0175996
+4802	4869	GO:0051606	t2r-independent mechanisms to the detection of these bitter stimuli	detection of stimulus		C1657614
+4896	4934	GO:0050909	a taste-salient brief-access lick test	taste perception	Taste Perception	C0039336
+4896	4934	GO:0007607	a taste-salient brief-access lick test	taste perception	Taste Perception	C0039336
+4896	4934	GO:0050912	a taste-salient brief-access lick test	taste perception	Taste Perception	C0039336
+4954	4985	GO:0050909	taste sensitivities in c57bl/6j	taste perception	Taste Perception	C0039336
+4954	4985	GO:0007607	taste sensitivities in c57bl/6j	taste perception	Taste Perception	C0039336
+4954	4985	GO:0050912	taste sensitivities in c57bl/6j	taste perception	Taste Perception	C0039336
+5161	5210	GO:0005694	genotyped at 762 informative chromosomal markers,	chromosome	Chromosomes	C0008633
+5221	5247	GO:0050909	a major qtl for qhcl taste	taste perception	Taste Perception	C0039336
+5221	5247	GO:0007607	a major qtl for qhcl taste	taste perception	Taste Perception	C0039336
+5221	5247	GO:0050912	a major qtl for qhcl taste	taste perception	Taste Perception	C0039336
+5278	5288	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+5305	5330	GO:0007567	all 24 of the tas2r genes	parturition	Birth	C0005615
+5305	5330	GO:0000003	all 24 of the tas2r genes	reproduction	Reproduction	C0035150
+5481	5493	GO:0007567	all 24 genes	parturition	Birth	C0005615
+5481	5493	GO:0000003	all 24 genes	reproduction	Reproduction	C0035150
+5588	5632	GO:0050909	that correlates with qhcl taste sensitivity.	taste perception	Taste Perception	C0039336
+5588	5632	GO:0007607	that correlates with qhcl taste sensitivity.	taste perception	Taste Perception	C0039336
+5588	5632	GO:0050912	that correlates with qhcl taste sensitivity.	taste perception	Taste Perception	C0039336
+5643	5656	GO:0050909	taste testing	taste perception	Taste Perception	C0039336
+5643	5656	GO:0007607	taste testing	taste perception	Taste Perception	C0039336
+5643	5656	GO:0050912	taste testing	taste perception	Taste Perception	C0039336
+5682	5702	GO:0050909	qtl for bitter taste	taste perception	Taste Perception	C0039336
+5682	5702	GO:0007607	qtl for bitter taste	taste perception	Taste Perception	C0039336
+5682	5702	GO:0050912	qtl for bitter taste	taste perception	Taste Perception	C0039336
+5955	5987	GO:0050909	differences in taste sensitivity	taste perception	Taste Perception	C0039336
+5955	5987	GO:0007607	differences in taste sensitivity	taste perception	Taste Perception	C0039336
+5955	5987	GO:0050912	differences in taste sensitivity	taste perception	Taste Perception	C0039336
+5988	6013	GO:0050909	to the taste stimuli qhcl	taste perception	Taste Perception	C0039336
+5988	6013	GO:0007607	to the taste stimuli qhcl	taste perception	Taste Perception	C0039336
+5988	6013	GO:0050912	to the taste stimuli qhcl	taste perception	Taste Perception	C0039336
+6210	6224	GO:0030154	differentiated	cell differentiation	Cell Differentiation process	C0007589
+6242	6282	GO:0050909	subsequent taste testing of bxd ri lines	taste perception	Taste Perception	C0039336
+6242	6282	GO:0007607	subsequent taste testing of bxd ri lines	taste perception	Taste Perception	C0039336
+6242	6282	GO:0050912	subsequent taste testing of bxd ri lines	taste perception	Taste Perception	C0039336
+6766	6793	GO:0050909	differ in taste sensitivity	taste perception	Taste Perception	C0039336
+6766	6793	GO:0007607	differ in taste sensitivity	taste perception	Taste Perception	C0039336
+6766	6793	GO:0050912	differ in taste sensitivity	taste perception	Taste Perception	C0039336
+7150	7154	GO:0039721	; pr	peristromal region viral factory		C4082184
+7218	7221	GO:0007601	see	vision	Vision	C0042789
+7492	7528	GO:0050909	therefore greater taste sensitivity,	taste perception	Taste Perception	C0039336
+7492	7528	GO:0007607	therefore greater taste sensitivity,	taste perception	Taste Perception	C0039336
+7492	7528	GO:0050912	therefore greater taste sensitivity,	taste perception	Taste Perception	C0039336
+7589	7622	GO:0000785	represented by a different color,	chromatin	chromatin location	C1325550
+7643	7681	GO:0002524	from least sensitive to most sensitive	hypersensitivity	Hypersensitivity	C0020517
+7750	7772	GO:0002524	most sensitive to qhcl	hypersensitivity	Hypersensitivity	C0020517
+7843	7866	GO:0002524	least sensitive to qhcl	hypersensitivity	Hypersensitivity	C0020517
+7927	7965	GO:0050909	intermediate in qhcl taste sensitivity	taste perception	Taste Perception	C0039336
+7927	7965	GO:0007607	intermediate in qhcl taste sensitivity	taste perception	Taste Perception	C0039336
+7927	7965	GO:0050912	intermediate in qhcl taste sensitivity	taste perception	Taste Perception	C0039336
+8111	8128	GO:0002524	sensitive strains	hypersensitivity	Hypersensitivity	C0020517
+8300	8324	GO:0002524	that sensitivity to qhcl	hypersensitivity	Hypersensitivity	C0020517
+8537	8557	GO:0050909	db taste sensitivity	taste perception	Taste Perception	C0039336
+8537	8557	GO:0007607	db taste sensitivity	taste perception	Taste Perception	C0039336
+8537	8557	GO:0050912	db taste sensitivity	taste perception	Taste Perception	C0039336
+8615	8639	GO:0002524	highly sensitive to qhcl	hypersensitivity	Hypersensitivity	C0020517
+8741	8750	GO:0007610	conducted	behavior	Behavior	C0004927
+8818	8854	GO:0050909	identified for db taste sensitivity,	taste perception	Taste Perception	C0039336
+8818	8854	GO:0007607	identified for db taste sensitivity,	taste perception	Taste Perception	C0039336
+8818	8854	GO:0050912	identified for db taste sensitivity,	taste perception	Taste Perception	C0039336
+8901	8911	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+8976	8979	GO:0007601	see	vision	Vision	C0042789
+9049	9068	GO:0002524	qtl for sensitivity	hypersensitivity	Hypersensitivity	C0020517
+9099	9109	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+9181	9191	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+9335	9361	GO:0050909	a major qtl for qhcl taste	taste perception	Taste Perception	C0039336
+9335	9361	GO:0007607	a major qtl for qhcl taste	taste perception	Taste Perception	C0039336
+9335	9361	GO:0050912	a major qtl for qhcl taste	taste perception	Taste Perception	C0039336
+9371	9381	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+9415	9418	GO:0007601	see	vision	Vision	C0042789
+9455	9465	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+9500	9510	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+9522	9561	GO:0050909	affecting taste responses to 1 mm qhcl.	taste perception	Taste Perception	C0039336
+9522	9561	GO:0007607	affecting taste responses to 1 mm qhcl.	taste perception	Taste Perception	C0039336
+9522	9561	GO:0050912	affecting taste responses to 1 mm qhcl.	taste perception	Taste Perception	C0039336
+9684	9694	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+9908	9956	GO:0006310	at least one recombination event between d6mit13	DNA recombination	Recombination, Genetic	C0034865
+10249	10284	GO:0050909	a clear d2 phenotype for qhcl taste	taste perception	Taste Perception	C0039336
+10249	10284	GO:0007607	a clear d2 phenotype for qhcl taste	taste perception	Taste Perception	C0039336
+10249	10284	GO:0050912	a clear d2 phenotype for qhcl taste	taste perception	Taste Perception	C0039336
+10507	10517	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+10882	10892	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+10952	10976	GO:0007567	a number of known genes,	parturition	Birth	C0005615
+10952	10976	GO:0000003	a number of known genes,	reproduction	Reproduction	C0035150
+11063	11067	GO:0005623	cell	cell	Cells	C0007634
+11095	11120	GO:0008527	t2r-type taste receptors.	gustatory receptor	gustatory receptor activity	C1152779
+11121	11136	GO:0007567	the tas2r genes	parturition	Birth	C0005615
+11121	11136	GO:0000003	the tas2r genes	reproduction	Reproduction	C0035150
+11303	11357	GO:0008527	their demonstrated expression in taste receptor cells,	gustatory receptor	gustatory receptor activity	C1152779
+11402	11432	GO:0050913	some bitter-tasting compounds,	sensory perception of bitter taste		C1154610
+11502	11555	GO:0050909	responsible for the major qhcl taste sensitivity qtl.	taste perception	Taste Perception	C0039336
+11502	11555	GO:0007607	responsible for the major qhcl taste sensitivity qtl.	taste perception	Taste Perception	C0039336
+11502	11555	GO:0050912	responsible for the major qhcl taste sensitivity qtl.	taste perception	Taste Perception	C0039336
+11612	11622	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+11663	11673	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+11944	11994	GO:0008527	a cluster of putative bitter taste receptor genes,	gustatory receptor	gustatory receptor activity	C1152779
+12225	12235	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+12253	12283	GO:0007567	twenty-four intact tas2r genes	parturition	Birth	C0005615
+12253	12283	GO:0000003	twenty-four intact tas2r genes	reproduction	Reproduction	C0035150
+12298	12308	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+12419	12428	GO:0007567	two genes	parturition	Birth	C0005615
+12419	12428	GO:0000003	two genes	reproduction	Reproduction	C0035150
+12523	12533	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+12641	12651	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+12718	12729	GO:0007567	tas2r genes	parturition	Birth	C0005615
+12718	12729	GO:0000003	tas2r genes	reproduction	Reproduction	C0035150
+12869	12884	GO:0002524	(qhcl-sensitive	hypersensitivity	Hypersensitivity	C0020517
+13003	13010	GO:0005488	binding	binding	Binding 	C1167622
+13046	13063	GO:0007165	signaling cascade	signaling cascade		C2611812
+13365	13419	GO:0050909	correlate with the qhcl taste insensitivity phenotype.	taste perception	Taste Perception	C0039336
+13365	13419	GO:0007607	correlate with the qhcl taste insensitivity phenotype.	taste perception	Taste Perception	C0039336
+13365	13419	GO:0050912	correlate with the qhcl taste insensitivity phenotype.	taste perception	Taste Perception	C0039336
+13528	13538	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+13679	13682	GO:0007601	see	vision	Vision	C0042789
+14021	14044	GO:1902698	at the amino acid level	acidogenesis		C3823112
+14021	14044	GO:1902705	at the amino acid level	acidogenesis		C3823112
+14021	14044	GO:1902706	at the amino acid level	acidogenesis		C3823112
+14021	14044	GO:1902699	at the amino acid level	acidogenesis		C3823112
+14402	14417	GO:0007567	these two genes	parturition	Birth	C0005615
+14402	14417	GO:0000003	these two genes	reproduction	Reproduction	C0035150
+14779	14808	GO:1902698	23% of the amino acid changes	acidogenesis		C3823112
+14779	14808	GO:1902705	23% of the amino acid changes	acidogenesis		C3823112
+14779	14808	GO:1902706	23% of the amino acid changes	acidogenesis		C3823112
+14779	14808	GO:1902699	23% of the amino acid changes	acidogenesis		C3823112
+14809	14813	GO:0007601	seen	vision	Vision	C0042789
+14839	14852	GO:0005576	extracellular	extracellular	Extracellular	C0521119
+14990	15004	GO:0030154	differentiated	cell differentiation	Cell Differentiation process	C0007589
+15323	15326	GO:0007601	see	vision	Vision	C0042789
+15521	15566	GO:0050909	the physical boundaries of the qhcl taste qtl	taste perception	Taste Perception	C0039336
+15521	15566	GO:0007607	the physical boundaries of the qhcl taste qtl	taste perception	Taste Perception	C0039336
+15521	15566	GO:0050912	the physical boundaries of the qhcl taste qtl	taste perception	Taste Perception	C0039336
+15606	15645	GO:0050909	correlated with qhcl taste sensitivity.	taste perception	Taste Perception	C0039336
+15606	15645	GO:0007607	correlated with qhcl taste sensitivity.	taste perception	Taste Perception	C0039336
+15606	15645	GO:0050912	correlated with qhcl taste sensitivity.	taste perception	Taste Perception	C0039336
+15753	15775	GO:0050909	used in taste testing,	taste perception	Taste Perception	C0039336
+15753	15775	GO:0007607	used in taste testing,	taste perception	Taste Perception	C0039336
+15753	15775	GO:0050912	used in taste testing,	taste perception	Taste Perception	C0039336
+16034	16045	GO:0007567	three genes	parturition	Birth	C0005615
+16034	16045	GO:0000003	three genes	reproduction	Reproduction	C0035150
+16259	16273	GO:0007567	for this gene.	parturition	Birth	C0005615
+16259	16273	GO:0000003	for this gene.	reproduction	Reproduction	C0035150
+16324	16395	GO:0006310	no apparent recombination events within the distal chromosome 6 cluster	DNA recombination	Recombination, Genetic	C0034865
+16575	16606	GO:0007567	the genotype of each tas2r gene	parturition	Birth	C0005615
+16575	16606	GO:0000003	the genotype of each tas2r gene	reproduction	Reproduction	C0035150
+16614	16654	GO:0050909	correlated with the qhcl taste phenotype	taste perception	Taste Perception	C0039336
+16614	16654	GO:0007607	correlated with the qhcl taste phenotype	taste perception	Taste Perception	C0039336
+16614	16654	GO:0050912	correlated with the qhcl taste phenotype	taste perception	Taste Perception	C0039336
+16892	16902	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+17197	17234	GO:0050909	correlates with qhcl taste phenotype.	taste perception	Taste Perception	C0039336
+17197	17234	GO:0007607	correlates with qhcl taste phenotype.	taste perception	Taste Perception	C0039336
+17197	17234	GO:0050912	correlates with qhcl taste phenotype.	taste perception	Taste Perception	C0039336
+17417	17439	GO:0002524	more sensitive to 1 mm	hypersensitivity	Hypersensitivity	C0020517
+17496	17524	GO:0050909	in brief access taste tests.	taste perception	Taste Perception	C0039336
+17496	17524	GO:0007607	in brief access taste tests.	taste perception	Taste Perception	C0039336
+17496	17524	GO:0050912	in brief access taste tests.	taste perception	Taste Perception	C0039336
+17606	17628	GO:0002524	more sensitive to qhcl	hypersensitivity	Hypersensitivity	C0020517
+17740	17768	GO:0002524	from least to most sensitive	hypersensitivity	Hypersensitivity	C0020517
+17796	17827	GO:0050909	the gustatory system of mammals	taste perception	Taste Perception	C0039336
+17796	17827	GO:0007607	the gustatory system of mammals	taste perception	Taste Perception	C0039336
+17796	17827	GO:0050912	the gustatory system of mammals	taste perception	Taste Perception	C0039336
+17849	17906	GO:0050913	thousands of chemically-diverse bitter-tasting substances	sensory perception of bitter taste		C1154610
+17991	18003	GO:0009293	transduction	transduction		C1160185
+18058	18083	GO:0008527	with taste receptor cells	gustatory receptor	gustatory receptor activity	C1152779
+18084	18111	GO:0001775	lead to cellular activation	cell activation		C1326120
+18116	18155	GO:0007165	signaling to the central nervous system	signal transduction	Signal Transduction	C0037083
+18116	18155	GO:0023052	signaling to the central nervous system	biological signaling		C3537152
+18226	18236	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+18274	18310	GO:0050909	in qhcl taste sensitivity between b6	taste perception	Taste Perception	C0039336
+18274	18310	GO:0007607	in qhcl taste sensitivity between b6	taste perception	Taste Perception	C0039336
+18274	18310	GO:0050912	in qhcl taste sensitivity between b6	taste perception	Taste Perception	C0039336
+18333	18370	GO:0005694	maps to the same chromosomal position	chromosome	Chromosomes	C0008633
+18446	18456	GO:0050909	that taste	taste perception	Taste Perception	C0039336
+18446	18456	GO:0007607	that taste	taste perception	Taste Perception	C0039336
+18446	18456	GO:0050912	that taste	taste perception	Taste Perception	C0039336
+18546	18587	GO:0050913	the consumption of bitter-tasting stimuli	sensory perception of bitter taste		C1154610
+18616	18637	GO:0050909	independent of taste,	taste perception	Taste Perception	C0039336
+18616	18637	GO:0007607	independent of taste,	taste perception	Taste Perception	C0039336
+18616	18637	GO:0050912	independent of taste,	taste perception	Taste Perception	C0039336
+18684	18708	GO:0005694	762 chromosomal markers,	chromosome	Chromosomes	C0008633
+18728	18754	GO:0050909	the quinine taste qtl to a	taste perception	Taste Perception	C0039336
+18728	18754	GO:0007607	the quinine taste qtl to a	taste perception	Taste Perception	C0039336
+18728	18754	GO:0050912	the quinine taste qtl to a	taste perception	Taste Perception	C0039336
+18755	18791	GO:0098687	< 5 mb region on distal chromosome 6	chromosome region	Region of chromosome	C1953345
+18806	18821	GO:0007567	24 tas2r genes.	parturition	Birth	C0005615
+18806	18821	GO:0000003	24 tas2r genes.	reproduction	Reproduction	C0035150
+18834	18845	GO:0007567	other genes	parturition	Birth	C0005615
+18834	18845	GO:0000003	other genes	reproduction	Reproduction	C0035150
+18887	18896	GO:0007567	two genes	parturition	Birth	C0005615
+18887	18896	GO:0000003	two genes	reproduction	Reproduction	C0035150
+18986	19016	GO:0050909	no direct role in bitter taste	taste perception	Taste Perception	C0039336
+18986	19016	GO:0007607	no direct role in bitter taste	taste perception	Taste Perception	C0039336
+18986	19016	GO:0050912	no direct role in bitter taste	taste perception	Taste Perception	C0039336
+19034	19097	GO:0007567	the most likely candidates for the qhcl quantitative trait gene	parturition	Birth	C0005615
+19034	19097	GO:0000003	the most likely candidates for the qhcl quantitative trait gene	reproduction	Reproduction	C0035150
+19113	19153	GO:0008527	their expression in taste receptor cells	gustatory receptor	gustatory receptor activity	C1152779
+19162	19169	GO:0007567	genetic	parturition	Birth	C0005615
+19162	19169	GO:0000003	genetic	reproduction	Reproduction	C0035150
+19202	19260	GO:0001580	them to the detection of a number of bitter taste stimuli.	detection of chemical stimulus involved in sensory perception of bitter taste		C1327490
+19381	19385	GO:0005623	cell	cell	Cells	C0007634
+19390	19398	GO:0016020	membrane	membrane	Membrane	C0596901
+19605	19640	GO:0008527	k+ channels in taste receptor cells	gustatory receptor	gustatory receptor activity	C1152779
+19675	19693	GO:0050909	that quinine taste	taste perception	Taste Perception	C0039336
+19675	19693	GO:0007607	that quinine taste	taste perception	Taste Perception	C0039336
+19675	19693	GO:0050912	that quinine taste	taste perception	Taste Perception	C0039336
+19786	19817	GO:0002524	a range of quinine sensitivity,	hypersensitivity	Hypersensitivity	C0020517
+19846	19882	GO:0002524	similar sensitivities to that of b6,	hypersensitivity	Hypersensitivity	C0020517
+19888	19914	GO:0002524	strains with sensitivities	hypersensitivity	Hypersensitivity	C0020517
+20061	20078	GO:0050909	for quinine taste	taste perception	Taste Perception	C0039336
+20061	20078	GO:0007607	for quinine taste	taste perception	Taste Perception	C0039336
+20061	20078	GO:0050912	for quinine taste	taste perception	Taste Perception	C0039336
+20114	20124	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+20144	20160	GO:0007567	any tas2r genes,	parturition	Birth	C0005615
+20144	20160	GO:0000003	any tas2r genes,	reproduction	Reproduction	C0035150
+20178	20195	GO:0007567	a number of genes	parturition	Birth	C0005615
+20178	20195	GO:0000003	a number of genes	reproduction	Reproduction	C0035150
+20357	20380	GO:0050909	linked to quinine taste	taste perception	Taste Perception	C0039336
+20357	20380	GO:0007607	linked to quinine taste	taste perception	Taste Perception	C0039336
+20357	20380	GO:0050912	linked to quinine taste	taste perception	Taste Perception	C0039336
+20464	20492	GO:0050909	related to all bitter taste.	taste perception	Taste Perception	C0039336
+20464	20492	GO:0007607	related to all bitter taste.	taste perception	Taste Perception	C0039336
+20464	20492	GO:0050912	related to all bitter taste.	taste perception	Taste Perception	C0039336
+20537	20607	GO:0006310	no apparent recombination event within the chromosome 6 tas2r cluster.	DNA recombination	Recombination, Genetic	C0034865
+20852	20878	GO:0050909	involved in quinine taste.	taste perception	Taste Perception	C0039336
+20852	20878	GO:0007607	involved in quinine taste.	taste perception	Taste Perception	C0039336
+20852	20878	GO:0050912	involved in quinine taste.	taste perception	Taste Perception	C0039336
+20925	20961	GO:0006310	bxa ris with reported recombinations	DNA recombination	Recombination, Genetic	C0034865
+21043	21085	GO:0006310	no recombinations within the tas2r cluster	DNA recombination	Recombination, Genetic	C0034865
+21104	21112	GO:0007610	behavior	behavior	Behavior	C0004927
+21144	21176	GO:0007567	invaluable for identifying genes	parturition	Birth	C0005615
+21144	21176	GO:0000003	invaluable for identifying genes	reproduction	Reproduction	C0035150
+21177	21204	GO:0050909	involved in taste function,	taste perception	Taste Perception	C0039336
+21177	21204	GO:0007607	involved in taste function,	taste perception	Taste Perception	C0039336
+21177	21204	GO:0050912	involved in taste function,	taste perception	Taste Perception	C0039336
+21205	21228	GO:0007567	such as the tas1r3 gene	parturition	Birth	C0005615
+21205	21228	GO:0000003	such as the tas1r3 gene	reproduction	Reproduction	C0035150
+21253	21272	GO:0050916	important for sweet	sweet taste perception		C1154613
+21277	21288	GO:0050917	umami taste	sensory perception of umami taste		C1154614
+21361	21448	GO:0050909	responsible for the majority of variance of phenylthiocarbamide (ptc) taste sensitivity	taste perception	Taste Perception	C0039336
+21361	21448	GO:0007607	responsible for the majority of variance of phenylthiocarbamide (ptc) taste sensitivity	taste perception	Taste Perception	C0039336
+21361	21448	GO:0050912	responsible for the majority of variance of phenylthiocarbamide (ptc) taste sensitivity	taste perception	Taste Perception	C0039336
+21498	21507	GO:0007567	the genes	parturition	Birth	C0005615
+21498	21507	GO:0000003	the genes	reproduction	Reproduction	C0035150
+21531	21540	GO:0050909	ptc taste	taste perception	Taste Perception	C0039336
+21531	21540	GO:0007607	ptc taste	taste perception	Taste Perception	C0039336
+21531	21540	GO:0050912	ptc taste	taste perception	Taste Perception	C0039336
+21585	21602	GO:0050909	for bitter taste,	taste perception	Taste Perception	C0039336
+21585	21602	GO:0007607	for bitter taste,	taste perception	Taste Perception	C0039336
+21585	21602	GO:0050912	for bitter taste,	taste perception	Taste Perception	C0039336
+21603	21611	GO:0007610	behavior	behavior	Behavior	C0004927
+21640	21673	GO:0007567	more useful for identifying genes	parturition	Birth	C0005615
+21640	21673	GO:0000003	more useful for identifying genes	reproduction	Reproduction	C0035150
+21683	21713	GO:0007165	downstream signaling molecules	signal transduction	Signal Transduction	C0037083
+21683	21713	GO:0023052	downstream signaling molecules	biological signaling		C3537152
+21747	21759	GO:0009293	transduction	transduction		C1160185
+21832	21842	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+21866	21900	GO:0050909	a suggestive qtl for quinine taste	taste perception	Taste Perception	C0039336
+21866	21900	GO:0007607	a suggestive qtl for quinine taste	taste perception	Taste Perception	C0039336
+21866	21900	GO:0050912	a suggestive qtl for quinine taste	taste perception	Taste Perception	C0039336
+21904	21914	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+22129	22183	GO:0050909	similar taste responses to bitter compounds such as db	taste perception	Taste Perception	C0039336
+22129	22183	GO:0007607	similar taste responses to bitter compounds such as db	taste perception	Taste Perception	C0039336
+22129	22183	GO:0050912	similar taste responses to bitter compounds such as db	taste perception	Taste Perception	C0039336
+22404	22443	GO:0007165	receptor-mediated signaling mechanisms.	signal transduction	Signal Transduction	C0037083
+22404	22443	GO:0023052	receptor-mediated signaling mechanisms.	biological signaling		C3537152
+22519	22532	GO:0005576	extracellular	extracellular	Extracellular	C0521119
+22834	22841	GO:0005488	binding	binding	Binding 	C1167622
+23362	23405	GO:0007567	a similar origin in the early 20th century,	parturition	Birth	C0005615
+23362	23405	GO:0000003	a similar origin in the early 20th century,	reproduction	Reproduction	C0035150
+23679	23736	GO:0002524	that sensitivity to the bitter-tasting substance quinine,	hypersensitivity	Hypersensitivity	C0020517
+23740	23786	GO:0050909	assayed by a taste specific brief-access test,	taste perception	Taste Perception	C0039336
+23740	23786	GO:0007607	assayed by a taste specific brief-access test,	taste perception	Taste Perception	C0039336
+23740	23786	GO:0050912	assayed by a taste specific brief-access test,	taste perception	Taste Perception	C0039336
+23826	23876	GO:0050909	the major mechanism for quinine taste transduction	taste perception	Taste Perception	C0039336
+23826	23876	GO:0007607	the major mechanism for quinine taste transduction	taste perception	Taste Perception	C0039336
+23826	23876	GO:0050912	the major mechanism for quinine taste transduction	taste perception	Taste Perception	C0039336
+23927	23978	GO:0007567	most tas2r genes in the distal chromosome 6 cluster	parturition	Birth	C0005615
+24068	24115	GO:0050909	that correlates with quinine taste sensitivity.	taste perception	Taste Perception	C0039336
+24068	24115	GO:0007607	that correlates with quinine taste sensitivity.	taste perception	Taste Perception	C0039336
+24068	24115	GO:0050912	that correlates with quinine taste sensitivity.	taste perception	Taste Perception	C0039336
+24318	24377	GO:0002524	the ability of t2r-expressing, bitter-sensitive taste cells	hypersensitivity	Hypersensitivity	C0020517
+24874	24896	GO:0009291	bred from mating pairs	unidirectional conjugation		C1160186
+24874	24896	GO:0007618	bred from mating pairs	mating		C1260875
+24874	24896	GO:0000747	bred from mating pairs	conjugation with cellular fusion		C1748461
+24874	24896	GO:1990277	bred from mating pairs	parasexual conjugation with cellular fusion		C3812685
+25052	25065	GO:0050909	taste stimuli	taste perception	Taste Perception	C0039336
+25052	25065	GO:0007607	taste stimuli	taste perception	Taste Perception	C0039336
+25052	25065	GO:0050912	taste stimuli	taste perception	Taste Perception	C0039336
+25326	25343	GO:0050909	all taste stimuli	taste perception	Taste Perception	C0039336
+25326	25343	GO:0007607	all taste stimuli	taste perception	Taste Perception	C0039336
+25326	25343	GO:0050912	all taste stimuli	taste perception	Taste Perception	C0039336
+25498	25506	GO:0007610	behavior	behavior	Behavior	C0004927
+25520	25583	GO:0007610	conducted in the commercially available davis ms-160 gustometer	behavior	Behavior	C0004927
+26353	26386	GO:0050909	each of 4 different taste stimuli	taste perception	Taste Perception	C0039336
+26353	26386	GO:0007607	each of 4 different taste stimuli	taste perception	Taste Perception	C0039336
+26353	26386	GO:0050912	each of 4 different taste stimuli	taste perception	Taste Perception	C0039336
+27506	27546	GO:0007600	different sensory properties than water,	sensory perception	Esthesia	C0036658
+27695	27744	GO:0050909	vs. adulterated water in brief-access taste tests	taste perception	Taste Perception	C0039336
+27695	27744	GO:0007607	vs. adulterated water in brief-access taste tests	taste perception	Taste Perception	C0039336
+27695	27744	GO:0050912	vs. adulterated water in brief-access taste tests	taste perception	Taste Perception	C0039336
+27745	27769	GO:0007608	based on olfactory clues	smell perception	Smell Perception	C0037361
+27915	27936	GO:0007610	conducted on bxd mice	behavior	Behavior	C0004927
+28125	28135	GO:0007610	conducted.	behavior	Behavior	C0004927
+28676	28686	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+29282	29357	GO:0019013	sequenced at the university of maryland school of medicine biopolymer core.	nucleocapsid	viral nucleocapsid location	C1167518
+29439	29442	GO:0007601	see	vision	Vision	C0042789
+29549	29571	GO:0030154	that differentiated b6	cell differentiation	Cell Differentiation process	C0007589
+29851	29860	GO:0007610	conducted	behavior	Behavior	C0004927
+29861	29909	GO:0050909	the in silico analysis of the quinine taste qtl,	taste perception	Taste Perception	C0039336
+29861	29909	GO:0007607	the in silico analysis of the quinine taste qtl,	taste perception	Taste Perception	C0039336
+29861	29909	GO:0050912	the in silico analysis of the quinine taste qtl,	taste perception	Taste Perception	C0039336
+29919	29935	GO:0007567	the tas2r genes,	parturition	Birth	C0005615
+29919	29935	GO:0000003	the tas2r genes,	reproduction	Reproduction	C0035150
+30007	30016	GO:0007610	conducted	behavior	Behavior	C0004927
+30021	30029	GO:0007610	behavior	behavior	Behavior	C0004927
+30061	30122	GO:0050909	assisted with the in silico analysis of the quinine taste qtl	taste perception	Taste Perception	C0039336
+30061	30122	GO:0007607	assisted with the in silico analysis of the quinine taste qtl	taste perception	Taste Perception	C0039336
+30061	30122	GO:0050912	assisted with the in silico analysis of the quinine taste qtl	taste perception	Taste Perception	C0039336
+30408	30418	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+30722	30745	GO:0050909	(qhcl taste sensitivity	taste perception	Taste Perception	C0039336
+30722	30745	GO:0007607	(qhcl taste sensitivity	taste perception	Taste Perception	C0039336
+30722	30745	GO:0050912	(qhcl taste sensitivity	taste perception	Taste Perception	C0039336
+31132	31164	GO:0002524	associated with qhcl sensitivity	hypersensitivity	Hypersensitivity	C0020517
+31184	31214	GO:0002524	the association of sensitivity	hypersensitivity	Hypersensitivity	C0020517
+31464	31497	GO:0050909	results for db taste sensitivity.	taste perception	Taste Perception	C0039336
+31464	31497	GO:0007607	results for db taste sensitivity.	taste perception	Taste Perception	C0039336
+31464	31497	GO:0050912	results for db taste sensitivity.	taste perception	Taste Perception	C0039336
+31621	31629	GO:0007610	behavior	behavior	Behavior	C0004927

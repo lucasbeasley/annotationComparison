@@ -1,0 +1,588 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+0	28	GO:0051598	mouse pachytene checkpoint 2	meiotic recombination checkpoint		C1658933
+41	86	GO:0007131	required for completing meiotic recombination	gene conversion with reciprocal crossover	Meiotic Recombination	C1155792
+91	103	GO:0045202	not synapsis	synapse	Synapses	C0039062
+91	103	GO:0007129	not synapsis	synapsis	Chromosome Pairing	C0598501
+115	136	GO:0051321	in mammalian meiosis,	meiotic cell cycle		C1657605
+159	167	GO:0007129	synapsis	synapsis	Chromosome Pairing	C0598501
+171	198	GO:0006310	coupled with recombination.	DNA recombination	Recombination, Genetic	C0034865
+247	258	GO:0000075	checkpoints	cell cycle checkpoint	Cell Cycle Checkpoints	C1155874
+348	381	GO:0051598	of pachytene checkpoint 2 (pch2),	meiotic recombination checkpoint		C1658933
+382	431	GO:0044456	an essential component of the synapsis checkpoint	synaptic component		C3893360
+491	525	GO:0051321	required for completion of meiosis	meiotic cell cycle		C1657605
+623	636	GO:0007567	around birth.	parturition	Birth	C0005615
+637	691	GO:0007129	the chromosomes of mutant spermatocytes synapse fully,	synapsis	Chromosome Pairing	C0598501
+703	750	GO:0006310	several markers of recombination intermediates,	DNA recombination	Recombination, Genetic	C0034865
+777	781	GO:0005662	rpa.	DNA replication factor A complex location		C1167121
+788	798	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+819	826	GO:0005712	chiasma	chiasma	Chiasma	C1384314
+856	902	GO:1902698	okadaic acid treatment of mutant spermatocytes	acidogenesis		C3823112
+856	902	GO:1902705	okadaic acid treatment of mutant spermatocytes	acidogenesis		C3823112
+856	902	GO:1902706	okadaic acid treatment of mutant spermatocytes	acidogenesis		C3823112
+856	902	GO:1902699	okadaic acid treatment of mutant spermatocytes	acidogenesis		C3823112
+910	936	GO:0000089	progression to metaphase i	mitotic metaphase	Mitotic Metaphase	C0025564
+910	936	GO:0051323	progression to metaphase i	metaphase	Metaphase	C1621812
+951	961	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+1005	1022	GO:0006310	the recombination	DNA recombination	Recombination, Genetic	C0034865
+1027	1048	GO:0045202	synapsis genes spo11,	synapse	Synapses	C0039062
+1136	1172	GO:0033313	meiotic checkpoint function in mice.	meiotic cell cycle checkpoint		C2246727
+1221	1236	GO:0042148	strand invasion	strand invasion		C1752433
+1252	1285	GO:0006310	a subset of recombination events,	DNA recombination	Recombination, Genetic	C0034865
+1390	1426	GO:0006310	recombination defects from asynapsis	DNA recombination	Recombination, Genetic	C0034865
+1427	1448	GO:0051321	in mammalian meiosis,	meiotic cell cycle		C1657605
+1526	1568	GO:0051598	the pachytene checkpoint response in mice.	meiotic recombination checkpoint		C1658933
+1612	1622	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+1735	1765	GO:0051321	during the process of meiosis,	meiotic cell cycle		C1657605
+1783	1827	GO:0007129	paternal copies of each chromosome "synapse"	synapsis	Chromosome Pairing	C0598501
+1882	1932	GO:0006310	genetic material via the process of recombination,	DNA recombination	Recombination, Genetic	C0034865
+1961	1965	GO:0005623	cell	cell	Cells	C0007634
+1967	2010	GO:0051321	in the first of two meiotic cell divisions.	meiotic cell cycle		C1657605
+2025	2035	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+2090	2119	GO:0033313	evolved meiotic "checkpoints"	meiotic cell cycle checkpoint		C2246727
+2156	2164	GO:0007129	synapsis	synapsis	Chromosome Pairing	C0598501
+2169	2190	GO:0006281	repair of dna damage.	DNA repair	DNA Repair	C0012899
+2191	2208	GO:0000075	these checkpoints	cell cycle checkpoint	Cell Cycle Checkpoints	C1155874
+2225	2229	GO:0005623	cell	cell	Cells	C0007634
+2343	2349	GO:0007567	a gene	parturition	Birth	C0005615
+2343	2349	GO:0000003	a gene	reproduction	Reproduction	C0035150
+2382	2423	GO:0033313	a key role in meiotic checkpoint control.	meiotic cell cycle checkpoint		C2246727
+2474	2492	GO:0000075	a checkpoint role,	cell cycle checkpoint	Cell Cycle Checkpoints	C1155874
+2503	2561	GO:0006310	required for one of the two major classes of recombination	DNA recombination	Recombination, Genetic	C0034865
+2562	2572	GO:0051321	in meiosis	meiotic cell cycle		C1657605
+2581	2625	GO:0006281	required for repairing broken dna molecules.	DNA repair	DNA Repair	C0012899
+2630	2640	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+2648	2655	GO:0045202	synapse	synapse	Synapses	C0039062
+2772	2799	GO:0000075	in addition to a checkpoint	cell cycle checkpoint	Cell Cycle Checkpoints	C1155874
+2805	2833	GO:0045202	responds to failed synapsis,	synapse	Synapses	C0039062
+2805	2833	GO:0007129	responds to failed synapsis,	synapsis	Chromosome Pairing	C0598501
+2895	2926	GO:0006310	is due to failed recombination.	DNA recombination	Recombination, Genetic	C0034865
+2942	2964	GO:0007276	the genesis of gametes	gamete generation		C2263199
+3005	3050	GO:0007567	critical for the prevention of birth defects,	parturition	Birth	C0005615
+3096	3106	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+3116	3150	GO:0051321	before the first meiotic division.	meiotic cell cycle		C1657605
+3162	3172	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+3185	3192	GO:0045202	synapse	synapse	Synapses	C0039062
+3202	3216	GO:0006310	recombination,	DNA recombination	Recombination, Genetic	C0034865
+3202	3216	GO:0006310	recombination,	DNA recombination	Recombination, Genetic	C0034865
+3280	3287	GO:0042060	repairs	wound healing	Wound Healing	C0043240
+3288	3294	GO:0042060	repair	wound healing	Wound Healing	C0043240
+3369	3390	GO:0045202	coupled with synapsis	synapse	Synapses	C0039062
+3369	3390	GO:0007129	coupled with synapsis	synapsis	Chromosome Pairing	C0598501
+3391	3407	GO:0007114	in budding yeast	cell budding	Cell budding	C1155616
+3461	3494	GO:0006310	nature of recombination machinery	DNA recombination	Recombination, Genetic	C0034865
+3519	3578	GO:0006310	known about the disassembly of recombination intermediates,	DNA recombination	Recombination, Genetic	C0034865
+3594	3609	GO:0006260	DNA replication	DNA replication	DNA Replication	C0598312
+3627	3649	GO:0000725	recombinational repair	recombinational repair		C1158512
+3659	3703	GO:0042060	the choice between different repair pathways	wound healing	Wound Healing	C0043240
+3714	3738	GO:0006310	defects in recombination	DNA recombination	Recombination, Genetic	C0034865
+3752	3782	GO:0007129	homologous chromosome pairing,	synapsis	Chromosome Pairing	C0598501
+3800	3810	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+3926	3940	GO:0000075	("checkpoints"	cell cycle checkpoint	Cell Cycle Checkpoints	C1155874
+3951	3956	GO:0007600	sense	sensory perception	Esthesia	C0036658
+3957	3971	GO:0051321	meiotic errors	meiotic cell cycle		C1657605
+3986	3990	GO:0005623	cell	cell	Cells	C0007634
+4143	4159	GO:0006310	in recombination	DNA recombination	Recombination, Genetic	C0034865
+4178	4186	GO:0007129	synapsis	synapsis	Chromosome Pairing	C0598501
+4236	4254	GO:0007128	meiotic prophase I	meiotic prophase I	Meiotic Prophase I	C1155818
+4256	4288	GO:0051321	this response to meiotic defects	meiotic cell cycle		C1657605
+4307	4333	GO:0051598	the "pachytene checkpoint"	meiotic recombination checkpoint		C1658933
+4353	4389	GO:0007567	genetic experiments in s. cerevisiae	parturition	Birth	C0005615
+4353	4389	GO:0000003	genetic experiments in s. cerevisiae	reproduction	Reproduction	C0035150
+4395	4452	GO:0051598	identified elements of the pachytene checkpoint machinery	meiotic recombination checkpoint		C1658933
+4472	4513	GO:0051321	in addition to meiosis-specific proteins,	meiotic cell cycle		C1657605
+4546	4575	GO:0007165	roles in dna damage signaling	signal transduction	Signal Transduction	C0037083
+4546	4575	GO:0023052	roles in dna damage signaling	biological signaling		C3537152
+4587	4591	GO:0005623	cell	cell	Cells	C0007634
+4646	4681	GO:0051598	a pachytene checkpoint akin to that	meiotic recombination checkpoint		C1658933
+4722	4746	GO:0051598	the pachytene checkpoint	meiotic recombination checkpoint		C1658933
+4782	4800	GO:0005711	meiotic chromosome	meiotic chromosome	Meiotic chromosome	C1166682
+4782	4800	GO:0000794	meiotic chromosome	meiotic chromosome	Meiotic chromosome	C1166682
+4849	4859	GO:0042060	dsb repair	wound healing	Wound Healing	C0043240
+4879	4887	GO:0007129	synapsis	synapsis	Chromosome Pairing	C0598501
+4969	4979	GO:0042060	dsb repair	wound healing	Wound Healing	C0043240
+5073	5135	GO:0002524	much more sensitive to dsb repair-independent synapsis defects	hypersensitivity	Hypersensitivity	C0020517
+5175	5188	GO:0006310	recombination	DNA recombination	Recombination, Genetic	C0034865
+5192	5213	GO:0045202	required for synapsis	synapse	Synapses	C0039062
+5192	5213	GO:0007129	required for synapsis	synapsis	Chromosome Pairing	C0598501
+5222	5255	GO:0006310	(mutations in recombination genes	DNA recombination	Recombination, Genetic	C0034865
+5354	5385	GO:0051598	a distinct pachytene checkpoint	meiotic recombination checkpoint		C1658933
+5411	5436	GO:0007131	in meiotic recombination,	gene conversion with reciprocal crossover	Meiotic Recombination	C1155792
+5486	5508	GO:0044297	used in somatic cells.	cell body		C2752549
+5509	5564	GO:0051598	the mechanisms of putative pachytene checkpoint control	meiotic recombination checkpoint		C1658933
+5718	5763	GO:0007567	identified in an s. cerevisiae genetic screen	parturition	Birth	C0005615
+5718	5763	GO:0000003	identified in an s. cerevisiae genetic screen	reproduction	Reproduction	C0035150
+5789	5798	GO:0000239	pachytene	pachytene		C1155826
+5897	5906	GO:0000239	pachytene	pachytene		C1155826
+5921	5935	GO:0042060	not dsb repair	wound healing	Wound Healing	C0043240
+5937	5956	GO:0000075	checkpoint in yeast	cell cycle checkpoint	Cell Cycle Checkpoints	C1155874
+6028	6045	GO:0051321	synaptic meiosis,	meiotic cell cycle		C1657605
+6050	6072	GO:0051321	not asynaptic meiosis,	meiotic cell cycle		C1657605
+6103	6130	GO:0000075	a pch2-dependent checkpoint	cell cycle checkpoint	Cell Cycle Checkpoints	C1155874
+6150	6170	GO:0000795	synaptonemal complex	synaptonemal complex	Synaptonemal Complex	C0039066
+6319	6354	GO:0051598	a role in the pachytene checkpoint.	meiotic recombination checkpoint		C1658933
+6384	6420	GO:0000075	no evidence for checkpoint function,	cell cycle checkpoint	Cell Cycle Checkpoints	C1155874
+6492	6515	GO:0042060	repair of meiotic dsbs.	wound healing	Wound Healing	C0043240
+6721	6765	GO:1902698	a protein with extensive amino acid homology	acidogenesis		C3823112
+6721	6765	GO:1902705	a protein with extensive amino acid homology	acidogenesis		C3823112
+6721	6765	GO:1902706	a protein with extensive amino acid homology	acidogenesis		C3823112
+6721	6765	GO:1902699	a protein with extensive amino acid homology	acidogenesis		C3823112
+7040	7043	GO:0007601	see	vision	Vision	C0042789
+7083	7096	GO:0034062	transcriptase	transcriptase	Transcriptase activity	C2257077
+7083	7096	GO:0003899	transcriptase	transcriptase	Transcriptase activity	C2257077
+7083	7096	GO:0003968	transcriptase	transcriptase	Transcriptase activity	C2257077
+7144	7179	GO:0009790	expressed in a variety of embryonic	embryo development	Embryonic Development	C0013936
+7648	7651	GO:0007601	see	vision	Vision	C0042789
+7889	7908	GO:0000785	indicated in color,	chromatin	chromatin location	C1325550
+8157	8166	GO:0009790	e7 embryo	embryo development	Embryonic Development	C0013936
+8172	8182	GO:0009790	e11 embryo	embryo development	Embryonic Development	C0013936
+8188	8198	GO:0009790	e15 embryo	embryo development	Embryonic Development	C0013936
+8208	8219	GO:0009790	e17 embryo.	embryo development	Embryonic Development	C0013936
+8261	8296	GO:0007567	insertion site of gene-trap vector.	parturition	Birth	C0005615
+8261	8296	GO:0000003	insertion site of gene-trap vector.	reproduction	Reproduction	C0035150
+8297	8300	GO:0007601	see	vision	Vision	C0042789
+8411	8448	GO:0010468	a control gene med31 from testis rna.	regulation of gene expression	Gene Expression Regulation	C0017263
+8510	8513	GO:0007601	see	vision	Vision	C0042789
+8583	8609	GO:0042571	with anti-trip13 antibody.	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+8729	8755	GO:0051179	(f) localization of trip13	establishment and maintenance of localization		C1744691
+8861	8906	GO:0000746	detected with hrp-conjugated anti-chicken igg	conjugation		C1160466
+8950	9008	GO:0005634	most prominent in the nuclei of type b spermatogonia (sg),	cell nucleus	Cell Nucleus	C0007610
+9009	9018	GO:0000237	leptotene	leptotene		C1155821
+9049	9058	GO:0000239	pachytene	pachytene		C1155826
+9092	9101	GO:0000239	pachytene	pachytene		C1155826
+9146	9177	GO:0007601	seen in mutant testis sections,	vision	Vision	C0042789
+9195	9204	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+9248	9252	GO:0005623	cell	cell	Cells	C0007634
+9348	9404	GO:0051179	(g) trip13 localization in surface-spread spermatocytes.	establishment and maintenance of localization		C1744691
+9521	9530	GO:0000237	leptotene	leptotene		C1155821
+9538	9546	GO:0000238	zygotene	zygotene		C1155827
+9558	9567	GO:0000239	pachytene	pachytene		C1155826
+9726	9765	GO:0007567	mice with a gene trap-disrupted allele,	parturition	Birth	C0005615
+9726	9765	GO:0000003	mice with a gene trap-disrupted allele,	reproduction	Reproduction	C0035150
+10364	10375	GO:0032502	development	development	Biologic Development	C0678723
+10873	10888	GO:0007283	spermatogenesis	spermatogenesis	Spermatogenesis	C0037864
+10966	10977	GO:0032502	development	development	Biologic Development	C0678723
+11064	11073	GO:0000239	pachytene	pachytene		C1155826
+11117	11128	GO:0032502	development	development	Biologic Development	C0678723
+11308	11377	GO:0007567	a consequence of incomplete usage of the gene trap's splice acceptor.	parturition	Birth	C0005615
+11308	11377	GO:0000003	a consequence of incomplete usage of the gene trap's splice acceptor.	reproduction	Reproduction	C0035150
+11407	11428	GO:0042571	a polyclonal antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+11966	11970	GO:0005623	cell	cell	Cells	C0007634
+12145	12186	GO:0042571	a polyclonal chicken antipeptide antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+12188	12191	GO:0007601	see	vision	Vision	C0042789
+12243	12247	GO:0005623	cell	cell	Cells	C0007634
+12297	12306	GO:0000237	leptotene	leptotene		C1155821
+12334	12342	GO:0000238	zygotene	zygotene		C1155827
+12435	12444	GO:0000239	pachytene	pachytene		C1155826
+12511	12537	GO:0005634	no such staining of nuclei	cell nucleus	Cell Nucleus	C0007610
+12600	12625	GO:0051179	the nuclear localization,	establishment and maintenance of localization		C1744691
+12651	12669	GO:0005711	meiotic chromosome	meiotic chromosome	Meiotic chromosome	C1166682
+12651	12669	GO:0000794	meiotic chromosome	meiotic chromosome	Meiotic chromosome	C1166682
+12691	12724	GO:0005634	spreading of spermatocyte nuclei.	cell nucleus	Cell Nucleus	C0007610
+12808	12819	GO:0019013	on sc cores	nucleocapsid	viral nucleocapsid location	C1167518
+12821	12862	GO:0000800	marked by the axial element protein sycp3	lateral element		C1325584
+12864	12887	GO:0051321	at any meiotic substage	meiotic cell cycle		C1657605
+12919	12962	GO:0051321	noticeably absent in mutant meiotic nuclei.	meiotic cell cycle		C1657605
+12964	13001	GO:0051321	infertility due to meiotic disruption	meiotic cell cycle		C1657605
+13088	13097	GO:0007601	see below	vision	Vision	C0042789
+13266	13296	GO:0009790	occurred in late embryogenesis	embryo development	Embryonic Development	C0013936
+13319	13330	GO:0032502	development	development	Biologic Development	C0678723
+13539	13555	GO:0051325	(resting) phase.	resting phase		C1522436
+13587	13596	GO:0000239	pachytene	pachytene		C1155826
+13615	13654	GO:0009790	in 17.5 d trip13gt/gt embryonic ovaries	embryo development	Embryonic Development	C0013936
+14291	14300	GO:0000239	pachytene	pachytene		C1155826
+14438	14447	GO:0000237	leptotene	leptotene		C1155821
+14487	14523	GO:0097194	tubules with apoptotic spermatocytes	apoptosis	Apoptosis	C0162638
+14487	14523	GO:0006915	tubules with apoptotic spermatocytes	apoptosis	Apoptosis	C0162638
+14709	14718	GO:0000237	leptotene	leptotene		C1155821
+15587	15591	GO:0005623	cell	cell	Cells	C0007634
+15734	15782	GO:0000792	adluminal spermatocytes with condensed chromatin	heterochromatin	Heterochromatin	C0019397
+15824	15876	GO:0007283	the absence of coordinated spermatogenic progression	spermatogenesis	Spermatogenesis	C0037864
+15914	15923	GO:0000239	pachytene	pachytene		C1155826
+15966	15976	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+15987	15996	GO:0007601	see below	vision	Vision	C0042789
+16101	16104	GO:0007601	saw	vision	Vision	C0042789
+16133	16162	GO:0051321	these drastic meiotic defects	meiotic cell cycle		C1657605
+16242	16283	GO:0048236	minor effects on spore/gamete development	plant-type sporogenesis		C1326354
+16349	16357	GO:0007129	synapsis	synapsis	Chromosome Pairing	C0598501
+16435	16468	GO:0051321	the degree of meiotic progression	meiotic cell cycle		C1657605
+16516	16526	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+16580	16595	GO:0000800	lateral element	lateral element		C1325584
+16601	16620	GO:0000802	transverse filament	transverse filament		C1325585
+16644	16664	GO:0000795	synaptonemal complex	synaptonemal complex	Synaptonemal Complex	C0039066
+16671	16680	GO:0000239	pachytene	pachytene		C1155826
+16748	16763	GO:0000795	normal sc cores	synaptonemal complex	Synaptonemal Complex	C0039066
+16783	16791	GO:0007129	synapsis	synapsis	Chromosome Pairing	C0598501
+16880	16888	GO:0030849	autosome	autosome	Autosome	C0596142
+16927	16939	GO:0000806	Y chromosome	Y chromosome	Y Chromosome	C0043381
+16955	16962	GO:0045202	synapse	synapse	Synapses	C0039062
+17099	17109	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+17242	17257	GO:0007283	spermatogenesis	spermatogenesis	Spermatogenesis	C0037864
+17305	17316	GO:0032502	development	development	Biologic Development	C0678723
+17419	17450	GO:0000795	with no gross sc abnormalities,	synaptonemal complex	Synaptonemal Complex	C0039066
+17479	17495	GO:0007567	soon after birth	parturition	Birth	C0005615
+17517	17527	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+17583	17622	GO:0051321	responsible for eventual meiotic arrest	meiotic cell cycle		C1657605
+17627	17639	GO:0007588	elimination.	excretion	Excretory function	C0221102
+17683	17692	GO:0000239	pachytene	pachytene		C1155826
+17734	17744	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+17751	17794	GO:0042571	immunolabeled with the indicated antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+17860	17864	GO:0005623	cell	cell	Cells	C0007634
+17965	17991	GO:0007601	seen between heterozygotes	vision	Vision	C0042789
+18029	18038	GO:0000239	pachytene	pachytene		C1155826
+18118	18170	GO:0005634	spermatocytes nucleus from 17.5 d postpartum mutant.	cell nucleus	Cell Nucleus	C0007610
+18181	18191	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+18196	18218	GO:0098687	regions of chromosomes	chromosome region	Region of chromosome	C1953345
+18319	18328	GO:0000239	pachytene	pachytene		C1155826
+18381	18390	GO:0000239	pachytene	pachytene		C1155826
+18464	18472	GO:0051324	prophase	prophase	Prophase	C0033464
+18464	18493	GO:0000088	abundant earlier in prophase,	mitotic prophase	Mitotic Prophase	C1155732
+18489	18497	GO:0030849	autosome	autosome	Autosome	C0596142
+18512	18521	GO:0000239	pachytene	pachytene		C1155826
+18570	18577	GO:0001741	XY body	XY body		C1325556
+18598	18641	GO:0007129	persists on the synapsed mutant chromosomes	synapsis	Chromosome Pairing	C0598501
+18662	18677	GO:0016310	phosphorylation	phosphorylation	Phosphorylation	C0031715
+18662	18686	GO:0006468	(g) h2ax phosphorylation	protein phosphorylation	Protein phosphorylation	C1158886
+18699	18706	GO:0001741	XY body	XY body		C1325556
+18786	18793	GO:0001741	XY body	XY body		C1325556
+18804	18844	GO:0030849	extensive autosomal h2ax phosphorylation	autosome	Autosome	C0596142
+18886	18895	GO:0000239	pachytene	pachytene		C1155826
+18943	18950	GO:0001741	XY body	XY body		C1325556
+19055	19069	GO:0000803	sex chromosome	sex chromosome	Sex Chromosomes	C0036869
+19087	19097	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+19136	19139	GO:0005662	rpa	DNA replication factor A complex location		C1167121
+19155	19162	GO:0045202	synapse	synapse	Synapses	C0039062
+19263	19272	GO:0000239	pachytene	pachytene		C1155826
+19398	19407	GO:0000239	pachytene	pachytene		C1155826
+19416	19439	GO:0002948	indicated by white arcs	archaeosine synthase activity		C3890357
+19518	19528	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+19554	19582	GO:0051321	the cause of meiotic arrest,	meiotic cell cycle		C1657605
+19595	19613	GO:0005711	meiotic chromosome	meiotic chromosome	Meiotic chromosome	C1166682
+19595	19613	GO:0000794	meiotic chromosome	meiotic chromosome	Meiotic chromosome	C1166682
+19650	19677	GO:0006310	diagnostic of recombination	DNA recombination	Recombination, Genetic	C0034865
+19682	19691	GO:0045202	synapsis.	synapse	Synapses	C0039062
+19682	19691	GO:0007129	synapsis.	synapsis	Chromosome Pairing	C0598501
+19692	19734	GO:0006310	recombination in trip13gt/gt spermatocytes	DNA recombination	Recombination, Genetic	C0034865
+19934	19960	GO:0005714	early recombination nodule	early recombination nodule		C1166684
+20019	20027	GO:0000238	zygotene	zygotene		C1155827
+20061	20084	GO:0042571	the anti-rad51 antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+20126	20148	GO:0000725	recombinational repair	recombinational repair		C1158512
+20175	20190	GO:0008278	cohesin complex	cohesin complex		C1166689
+20233	20270	GO:0099558	maintenance of synaptic associations,	maintenance of synapse structure		C4236587
+20329	20368	GO:0051321	for the meiosis-specific cohesins stag3	meiotic cell cycle		C1657605
+20451	20459	GO:0005696	telomere	telomere		C0085187
+20451	20459	GO:0000781	telomere	telomere		C0085187
+20513	20521	GO:0005696	telomere	telomere		C0085187
+20513	20521	GO:0000781	telomere	telomere		C0085187
+20558	20590	GO:0043234	a component of a protein complex	protein complex location		C1523872
+20623	20631	GO:0005696	telomere	telomere		C0085187
+20623	20631	GO:0000781	telomere	telomere		C0085187
+20669	20677	GO:0005696	telomere	telomere		C0085187
+20669	20677	GO:0000781	telomere	telomere		C0085187
+20693	20700	GO:0045202	synapse	synapse	Synapses	C0039062
+20737	20747	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+20772	20793	GO:0042060	defects in dsb repair	wound healing	Wound Healing	C0043240
+20823	20865	GO:0005634	upon probing of mutant spermatocyte nuclei	cell nucleus	Cell Nucleus	C0007610
+20866	20899	GO:0042571	with antibodies against molecules	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+20900	20944	GO:0006310	involved in various stages of recombination.	DNA recombination	Recombination, Genetic	C0034865
+20968	20978	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+21126	21161	GO:0007129	abnormally on synapsed chromosomes.	synapsis	Chromosome Pairing	C0598501
+21185	21194	GO:0000239	pachytene	pachytene		C1155826
+21301	21308	GO:0001741	XY body	XY body		C1325556
+21398	21429	GO:0000077	a dna damage-checkpoint protein	DNA damage checkpoint		C1751194
+21502	21507	GO:0005488	binds	binding	Binding 	C1167622
+21508	21521	GO:0035861	sites of dsbs	site of double-strand break		C3159064
+21526	21567	GO:0098687	unsynapsed regions of meiotic chromosomes	chromosome region	Region of chromosome	C1953345
+21626	21630	GO:0005662	(rpa	DNA replication factor A complex location		C1167121
+21641	21666	GO:0006310	of recombination at sites	DNA recombination	Recombination, Genetic	C0034865
+21755	21779	GO:0005662	the distribution of rpa,	DNA replication factor A complex location		C1167121
+21780	21806	GO:0006330	the ssdna binding protein,	single-stranded DNA binding		C1148754
+21780	21806	GO:0003697	the ssdna binding protein,	single-stranded DNA binding		C1148754
+21825	21880	GO:0045202	present at focal sites of synapsing meiotic chromosomes	synapse	Synapses	C0039062
+21941	21945	GO:0005488	bind	binding	Binding 	C1167622
+21948	21984	GO:0006310	loops of recombination intermediates	DNA recombination	Recombination, Genetic	C0034865
+21991	21994	GO:0005662	rpa	DNA replication factor A complex location		C1167121
+22013	22022	GO:0000239	pachytene	pachytene		C1155826
+22107	22146	GO:0006310	unresolved recombination intermediates,	DNA recombination	Recombination, Genetic	C0034865
+22182	22203	GO:0000077	DNA damage checkpoint	DNA damage checkpoint		C1751194
+22237	22247	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+22249	22296	GO:0005711	affected by meiotic sex chromosome inactivation	meiotic chromosome	Meiotic chromosome	C1166682
+22249	22296	GO:0000794	affected by meiotic sex chromosome inactivation	meiotic chromosome	Meiotic chromosome	C1166682
+22308	22347	GO:0051321	meiotic silencing of unpaired chromatin	meiotic cell cycle		C1657605
+22367	22388	GO:0042571	stained by antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+22389	22433	GO:0042060	for several dsb repair-associated molecules,	wound healing	Wound Healing	C0043240
+22460	22475	GO:0016310	phosphorylation	phosphorylation	Phosphorylation	C0031715
+22492	22496	GO:0051321	msuc	meiotic cell cycle		C1657605
+22500	22517	GO:0007610	conducted by atr,	behavior	Behavior	C0004927
+22548	22558	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+22570	22577	GO:0045202	synapse	synapse	Synapses	C0039062
+22584	22588	GO:0051321	msuc	meiotic cell cycle		C1657605
+22668	22678	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+22685	22695	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+22743	22753	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+22766	22779	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+22849	22858	GO:0000239	pachytene	pachytene		C1155826
+22894	22904	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+23012	23021	GO:0000240	diplotene	diplotene		C1155820
+23041	23061	GO:0030849	autosomal rad51/dmc1	autosome	Autosome	C0596142
+23098	23140	GO:0000089	also metaphase i spreads with 20 bivalents	mitotic metaphase	Mitotic Metaphase	C0025564
+23098	23140	GO:0051323	also metaphase i spreads with 20 bivalents	metaphase	Metaphase	C1621812
+23208	23217	GO:0000240	diplotene	diplotene		C1155820
+23222	23247	GO:0000089	metaphase i spermatocytes	mitotic metaphase	Mitotic Metaphase	C0025564
+23222	23247	GO:0051323	metaphase i spermatocytes	metaphase	Metaphase	C1621812
+23425	23435	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+23529	23551	GO:0000725	recombinational repair	recombinational repair		C1158512
+23571	23587	GO:0006310	co recombination	DNA recombination	Recombination, Genetic	C0034865
+23646	23661	GO:0006298	mismatch repair	mismatch repair	Mismatch Repair	C1155661
+23772	23779	GO:0005712	chiasma	chiasma	Chiasma	C1384314
+23849	23859	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+23953	23962	GO:0000239	pachytene	pachytene		C1155826
+24036	24045	GO:0000239	pachytene	pachytene		C1155826
+24057	24070	GO:0042060	normal repair	wound healing	Wound Healing	C0043240
+24075	24125	GO:0042060	judged by absence of persistent dsb repair markers	wound healing	Wound Healing	C0043240
+24127	24130	GO:0007601	see	vision	Vision	C0042789
+24155	24164	GO:0000239	pachytene	pachytene		C1155826
+24241	24251	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+24253	24278	GO:0042060	with fully repaired dsbs.	wound healing	Wound Healing	C0043240
+24305	24314	GO:0007610	conducted	behavior	Behavior	C0004927
+24382	24392	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+24511	24520	GO:0000239	pachytene	pachytene		C1155826
+24634	24656	GO:0007128	the end of prophase i,	meiotic prophase I	Meiotic Prophase I	C1155818
+24679	24683	GO:0005623	cell	cell	Cells	C0007634
+24738	24808	GO:0016791	dmc1-/- mice with the protein phosphatase inhibitor okadaic acid (oa),	phosphoric monoester hydrolase activity		C1149880
+24833	24855	GO:0009056	degradation of the sc,	catabolism	Catabolism	C0699900
+24856	24879	GO:0030261	chromosome condensation	chromosome condensation	Chromosome Condensation	C1155631
+24885	24921	GO:0000089	premature progression to metaphase i	mitotic metaphase	Mitotic Metaphase	C0025564
+24885	24921	GO:0051323	premature progression to metaphase i	metaphase	Metaphase	C1621812
+24928	24953	GO:0000089	fifteen metaphase spreads	mitotic metaphase	Mitotic Metaphase	C0025564
+24928	24953	GO:0051323	fifteen metaphase spreads	metaphase	Metaphase	C1621812
+25040	25060	GO:0000793	condensed chromosome	condensed chromosome	Condensed chromosome	C1325576
+25160	25169	GO:0000239	pachytene	pachytene		C1155826
+25312	25365	GO:0000089	the univalent-containing metaphases from dmc1-/- mice	mitotic metaphase	Mitotic Metaphase	C0025564
+25312	25365	GO:0051323	the univalent-containing metaphases from dmc1-/- mice	metaphase	Metaphase	C1621812
+25448	25484	GO:0051321	meiotic arrest phenotypes of mutants	meiotic cell cycle		C1657605
+25485	25506	GO:0045202	defective in synapsis	synapse	Synapses	C0039062
+25485	25506	GO:0007129	defective in synapsis	synapsis	Chromosome Pairing	C0598501
+25551	25560	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+25551	25560	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+25906	25915	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+25906	25915	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+26014	26022	GO:0007129	synapsis	synapsis	Chromosome Pairing	C0598501
+26048	26058	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+26093	26101	GO:0000238	zygotene	zygotene		C1155827
+26267	26285	GO:0031577	spindle checkpoint	spindle checkpoint	spindle checkpoint activity	C1622917
+26343	26383	GO:0000089	no evidence of metaphase i spermatocytes	mitotic metaphase	Mitotic Metaphase	C0025564
+26343	26383	GO:0051323	no evidence of metaphase i spermatocytes	metaphase	Metaphase	C1621812
+26440	26469	GO:0007601	seen in trip13 single mutants	vision	Vision	C0042789
+26483	26558	GO:0045202	in contrast to the complete synapsis in trip13gt/gt pachytene spermatocytes	synapse	Synapses	C0039062
+26665	26681	GO:0006310	a recombination-	DNA recombination	Recombination, Genetic	C0034865
+26715	26723	GO:0007129	synapsis	synapsis	Chromosome Pairing	C0598501
+26886	26912	GO:0007567	a vertebrate-specific gene	parturition	Birth	C0005615
+26886	26912	GO:0000003	a vertebrate-specific gene	reproduction	Reproduction	C0035150
+26918	26944	GO:0009058	required for dsb formation	anabolism	Anabolism	C0220781
+26960	26968	GO:0007129	synapsis	synapsis	Chromosome Pairing	C0598501
+27123	27133	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+27140	27183	GO:0042571	immunolabeled with the indicated antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+27348	27364	GO:0005634	multiple nuclei.	cell nucleus	Cell Nucleus	C0007610
+27408	27417	GO:0000239	pachytene	pachytene		C1155826
+27834	27842	GO:0007129	synapsis	synapsis	Chromosome Pairing	C0598501
+27911	27946	GO:0045202	responds to synapsis polymerization	synapse	Synapses	C0039062
+27911	27946	GO:0007129	responds to synapsis polymerization	synapsis	Chromosome Pairing	C0598501
+28070	28088	GO:0005711	meiotic chromosome	meiotic chromosome	Meiotic chromosome	C1166682
+28070	28088	GO:0000794	meiotic chromosome	meiotic chromosome	Meiotic chromosome	C1166682
+28198	28221	GO:0042060	defective in dsb repair	wound healing	Wound Healing	C0043240
+28243	28264	GO:0045202	interhomolog synapsis	synapse	Synapses	C0039062
+28243	28264	GO:0007129	interhomolog synapsis	synapsis	Chromosome Pairing	C0598501
+28289	28298	GO:0005695	chromatid	chromatid	Chromatids	C0008545
+28289	28298	GO:0005694	chromatid	chromatid	Chromatids	C0008545
+28310	28317	GO:0045202	synapse	synapse	Synapses	C0039062
+28326	28340	GO:0005488	bound by sycp1	binding	Binding 	C1167622
+28404	28416	GO:0000089	metaphase i.	mitotic metaphase	Mitotic Metaphase	C0025564
+28404	28416	GO:0051323	metaphase i.	metaphase	Metaphase	C1621812
+28636	28650	GO:0000089	to metaphase i	mitotic metaphase	Mitotic Metaphase	C0025564
+28636	28650	GO:0051323	to metaphase i	metaphase	Metaphase	C1621812
+28740	28750	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+28794	28802	GO:0007129	synapsis	synapsis	Chromosome Pairing	C0598501
+29050	29064	GO:0051321	meiotic arrest	meiotic cell cycle		C1657605
+29086	29128	GO:0051321	for the meiosis-specific reca homolog dmc1	meiotic cell cycle		C1657605
+29285	29325	GO:0051321	meiotic arrest from defective dsb repair	meiotic cell cycle		C1657605
+29348	29356	GO:0007129	synapsis	synapsis	Chromosome Pairing	C0598501
+29363	29378	GO:0007283	spermatogenesis	spermatogenesis	Spermatogenesis	C0037864
+29475	29484	GO:0000785	chromatin	chromatin	chromatin location	C1325550
+29614	29624	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+29954	29992	GO:0051321	meiotic defects in trip13gt/gt oocytes	meiotic cell cycle		C1657605
+30314	30323	GO:0048477	oogenesis	oogenesis	Oogenesis	C0029047
+30420	30447	GO:0009058	dependent on dsb formation.	anabolism	Anabolism	C0220781
+30533	30574	GO:0051321	that meiotic arrest in trip13 mutant mice	meiotic cell cycle		C1657605
+30593	30607	GO:0042060	in dsb repair.	wound healing	Wound Healing	C0043240
+30760	30796	GO:0007567	genetic experiments in s. cerevisiae	parturition	Birth	C0005615
+30760	30796	GO:0000003	genetic experiments in s. cerevisiae	reproduction	Reproduction	C0035150
+30820	30853	GO:0051598	the pachytene checkpoint monitors	meiotic recombination checkpoint		C1658933
+30858	30896	GO:0000725	responds to recombinational dsb repair	recombinational repair		C1158512
+30901	30924	GO:0045202	synapsis independently.	synapse	Synapses	C0039062
+30901	30924	GO:0007129	synapsis independently.	synapsis	Chromosome Pairing	C0598501
+30955	30976	GO:0042060	the repair checkpoint	wound healing	Wound Healing	C0043240
+31008	31031	GO:0045202	the synapsis checkpoint	synapse	Synapses	C0039062
+31061	31081	GO:0007567	of these four genes,	parturition	Birth	C0005615
+31061	31081	GO:0000003	of these four genes,	reproduction	Reproduction	C0035150
+31255	31274	GO:0009790	embryonic lethality	embryo development	Embryonic Development	C0013936
+31340	31381	GO:0045202	also critical for the synapsis checkpoint	synapse	Synapses	C0039062
+31443	31517	GO:0033313	potential functional conservation in mammalian meiotic checkpoint control.	meiotic cell cycle checkpoint		C2246727
+31557	31595	GO:0051321	the primary meiotic function of trip13	meiotic cell cycle		C1657605
+31596	31615	GO:0006310	is in recombination	DNA recombination	Recombination, Genetic	C0034865
+31656	31697	GO:0051598	involved in pachytene checkpoint control.	meiotic recombination checkpoint		C1658933
+31726	31746	GO:0006310	recombination events	DNA recombination	Recombination, Genetic	C0034865
+31834	31856	GO:0042060	the nco repair pathway	wound healing	Wound Healing	C0043240
+31930	31998	GO:0007131	compatible with current knowledge of meiotic recombination pathways.	gene conversion with reciprocal crossover	Meiotic Recombination	C1155792
+32066	32104	GO:0006310	different recombination intermediates,	DNA recombination	Recombination, Genetic	C0034865
+32203	32229	GO:0006310	nco recombination pathways	DNA recombination	Recombination, Genetic	C0034865
+32420	32445	GO:0006310	the recombination defects	DNA recombination	Recombination, Genetic	C0034865
+32450	32498	GO:0006310	a result of defective intersister recombination.	DNA recombination	Recombination, Genetic	C0034865
+32508	32531	GO:0042060	this type of dsb repair	wound healing	Wound Healing	C0043240
+32535	32563	GO:0051321	suppressed in meiotic cells.	meiotic cell cycle		C1657605
+32598	32633	GO:0006310	intersister recombination in yeast,	DNA recombination	Recombination, Genetic	C0034865
+32665	32688	GO:0051321	meiosis in either yeast	meiotic cell cycle		C1657605
+32797	32806	GO:0000239	pachytene	pachytene		C1155826
+32867	32912	GO:0051321	no deleterious effects on meiotic progression	meiotic cell cycle		C1657605
+32933	32956	GO:0007114	data from budding yeast	cell budding	Cell budding	C1155616
+32982	33009	GO:0006310	functions in recombination.	DNA recombination	Recombination, Genetic	C0034865
+33034	33061	GO:0051321	meiotic progression by ~2 h	meiotic cell cycle		C1657605
+33107	33112	GO:0005627	ascus	ascus	Ascus 	C0521060
+33284	33288	GO:0005623	cell	cell	Cells	C0007634
+33353	33362	GO:0007127	meiosis I	meiosis I		C1155812
+33369	33407	GO:0000075	dependent on the rad17-sae2 checkpoint	cell cycle checkpoint	Cell Cycle Checkpoints	C1155874
+33408	33449	GO:0006310	that monitors recombination intermediates	DNA recombination	Recombination, Genetic	C0034865
+33500	33516	GO:0006310	in recombination	DNA recombination	Recombination, Genetic	C0034865
+33537	33545	GO:0045202	synapsis	synapse	Synapses	C0039062
+33537	33545	GO:0007129	synapsis	synapsis	Chromosome Pairing	C0598501
+33594	33620	GO:0009058	dependent on dsb formation	anabolism	Anabolism	C0220781
+33736	33761	GO:0006310	that recombination events	DNA recombination	Recombination, Genetic	C0034865
+33771	33792	GO:0042060	the co repair pathway	wound healing	Wound Healing	C0043240
+33868	33878	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+33916	33932	GO:0006310	in recombination	DNA recombination	Recombination, Genetic	C0034865
+33975	34033	GO:0006310	specific to resolution of nco recombination intermediates.	DNA recombination	Recombination, Genetic	C0034865
+34104	34126	GO:0000725	recombinational repair	recombinational repair		C1158512
+34207	34216	GO:0000239	pachytene	pachytene		C1155826
+34347	34378	GO:0032986	protein/dna complex disassembly	protein-DNA complex disassembly		C2246369
+34385	34420	GO:0006310	these potential recombination roles	DNA recombination	Recombination, Genetic	C0034865
+34434	34453	GO:0051321	limited to meiosis,	meiotic cell cycle		C1657605
+34522	34533	GO:0032502	development	development	Biologic Development	C0678723
+34673	34695	GO:0051321	completion of meiosis.	meiotic cell cycle		C1657605
+34720	34730	GO:0008219	cell death	cell death	Cell Death	C0007587
+34781	34814	GO:0042060	triggered by defective dsb repair	wound healing	Wound Healing	C0043240
+34887	34905	GO:0007588	oocyte elimination	excretion	Excretory function	C0221102
+34909	34937	GO:0009058	dependent upon dsb formation	anabolism	Anabolism	C0220781
+34946	34954	GO:0045202	synapsis	synapse	Synapses	C0039062
+34946	34954	GO:0007129	synapsis	synapsis	Chromosome Pairing	C0598501
+35032	35058	GO:0006310	that recombination defects	DNA recombination	Recombination, Genetic	C0034865
+35220	35264	GO:0051598	the mammalian pachytene checkpoint response.	meiotic recombination checkpoint		C1658933
+35362	35408	GO:0051598	not identical, dna damage pachytene checkpoint	meiotic recombination checkpoint		C1658933
+35417	35454	GO:0045202	decoupled from a synapsis checkpoint.	synapse	Synapses	C0039062
+35614	35623	GO:0000239	pachytene	pachytene		C1155826
+35785	35806	GO:0000075	a checkpoint response	cell cycle checkpoint	Cell Cycle Checkpoints	C1155874
+35855	35870	GO:0042148	strand invasion	strand invasion		C1752433
+36058	36075	GO:0051321	trip13 in meiosis	meiotic cell cycle		C1657605
+36140	36190	GO:0005634	diffusely throughout wild-type spermatocyte nuclei	cell nucleus	Cell Nucleus	C0007610
+36330	36344	GO:0000803	sex chromosome	sex chromosome	Sex Chromosomes	C0036869
+36446	36453	GO:0001741	XY body	XY body		C1325556
+36702	36730	GO:0051321	its receptor thrb in meiosis	meiotic cell cycle		C1657605
+36918	36946	GO:0000075	checkpoint function in mice,	cell cycle checkpoint	Cell Cycle Checkpoints	C1155874
+37001	37028	GO:0006310	a function in recombination	DNA recombination	Recombination, Genetic	C0034865
+37104	37133	GO:0033313	a meiotic checkpoint activity	meiotic cell cycle checkpoint		C2246727
+37216	37223	GO:0007114	budding	cell budding	Cell budding	C1155616
+37509	37531	GO:0006310	(namely recombination,	DNA recombination	Recombination, Genetic	C0034865
+37599	37634	GO:0000075	the absence of checkpoint function.	cell cycle checkpoint	Cell Cycle Checkpoints	C1155874
+37830	37845	GO:0000075	that checkpoint	cell cycle checkpoint	Cell Cycle Checkpoints	C1155874
+37905	37928	GO:0000075	its checkpoint function	cell cycle checkpoint	Cell Cycle Checkpoints	C1155874
+37964	37978	GO:0007114	budding yeast.	cell budding	Cell budding	C1155616
+38070	38107	GO:0045202	the nature of the synapsis checkpoint	synapse	Synapses	C0039062
+38257	38266	GO:0000239	pachytene	pachytene		C1155826
+38314	38374	GO:0000725	and for preventing rad54-mediated recombinational dsb repair	recombinational repair		C1158512
+38390	38399	GO:0005695	chromatid	chromatid	Chromatids	C0008545
+38390	38399	GO:0005694	chromatid	chromatid	Chromatids	C0008545
+38470	38498	GO:0000075	checkpoint function in mice,	cell cycle checkpoint	Cell Cycle Checkpoints	C1155874
+38535	38562	GO:0051598	in the pachytene checkpoint	meiotic recombination checkpoint		C1658933
+38837	38881	GO:0051598	occurs subsequent to a pachytene checkpoint.	meiotic recombination checkpoint		C1658933
+38905	38975	GO:0033313	a complicating problem for studying potential meiotic checkpoint genes	meiotic cell cycle checkpoint		C2246727
+39005	39015	GO:0007567	such genes	parturition	Birth	C0005615
+39005	39015	GO:0000003	such genes	reproduction	Reproduction	C0035150
+39118	39159	GO:0051598	mammalian pachytene checkpoint components	meiotic recombination checkpoint		C1658933
+39756	39797	GO:0009790	the mouse embryonic stem cell line rrb047	embryo development	Embryonic Development	C0013936
+39826	39857	GO:0007567	a gene trap insertion in trip13	parturition	Birth	C0005615
+39826	39857	GO:0000003	a gene trap insertion in trip13	reproduction	Reproduction	C0035150
+39924	39948	GO:0007567	the gene-trapping vector	parturition	Birth	C0005615
+39924	39948	GO:0000003	the gene-trapping vector	reproduction	Reproduction	C0035150
+40007	40066	GO:0007567	an in-frame fusion between the 5' exons of the trapped gene	parturition	Birth	C0005615
+40007	40066	GO:0000003	an in-frame fusion between the 5' exons of the trapped gene	reproduction	Reproduction	C0035150
+40160	40182	GO:0007567	the gene-trapped locus	parturition	Birth	C0005615
+40160	40182	GO:0000003	the gene-trapped locus	reproduction	Reproduction	C0035150
+40333	40372	GO:0007567	one primer within the gene trap vector,	parturition	Birth	C0005615
+40333	40372	GO:0000003	one primer within the gene trap vector,	reproduction	Reproduction	C0035150
+40415	40467	GO:0007567	in intron 3 pointing towards the 3' end of the gene.	parturition	Birth	C0005615
+40415	40467	GO:0000003	in intron 3 pointing towards the 3' end of the gene.	reproduction	Reproduction	C0035150
+40881	40928	GO:0007567	of the gene trap insertion within the intron 3.	parturition	Birth	C0005615
+40881	40928	GO:0000003	of the gene trap insertion within the intron 3.	reproduction	Reproduction	C0035150
+41397	41421	GO:0005020	with the rneasy mini kit	stem cell factor receptor activity		C1150635
+41463	41466	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+42147	42158	GO:0032502	development	development	Biologic Development	C0678723
+42163	42198	GO:0042571	purification of chicken antibodies.	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+42210	42255	GO:1902698	corresponding to amino acids 25-40 of trip13,	acidogenesis		C3823112
+42210	42255	GO:1902705	corresponding to amino acids 25-40 of trip13,	acidogenesis		C3823112
+42210	42255	GO:1902706	corresponding to amino acids 25-40 of trip13,	acidogenesis		C3823112
+42210	42255	GO:1902699	corresponding to amino acids 25-40 of trip13,	acidogenesis		C3823112
+42417	42465	GO:0005020	with the eggcellent chicken igy purification kit	stem cell factor receptor activity		C1150635
+42502	42516	GO:0042571	igy antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+42608	42611	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+42678	42732	GO:0034023	electrotransferred onto a pure nitrocellulose membrane	5	carboxyamino	C2247561
+42733	42742	GO:1990116	(bio-rad,	ribosome-associated ubiquitin-dependent protein catabolic process		C3811628
+42771	42779	GO:0016020	membrane	membrane	Membrane	C0596901
+42784	42845	GO:0042571	incubated with a polyclonal rabbit anti-human trip13 antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+43022	43029	GO:0005488	binding	binding	Binding 	C1167622
+43034	43071	GO:0005020	detected by chemiluminescence ecl kit	stem cell factor receptor activity		C1150635
+43473	43513	GO:0005634	an oocyte with a clearly visible nucleus	cell nucleus	Cell Nucleus	C0007610
+43747	43794	GO:0005634	well-spread nuclei of particular meiotic stages	cell nucleus	Cell Nucleus	C0007610
+44016	44020	GO:0005662	rpa.	DNA replication factor A complex location		C1167121
+44124	44129	GO:0007601	seen.	vision	Vision	C0042789
+44274	44284	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+44293	44317	GO:0005634	nuclei in this situation	cell nucleus	Cell Nucleus	C0007610
+44414	44432	GO:0042571	primary antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+44657	44681	GO:0042571	this polyclonal antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+44712	44741	GO:0007048	; oncogene research products,	oncogenesis	Neoplastic Cell Transformation	C0007621
+45258	45282	GO:0042571	all secondary antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+45486	45518	GO:0000089	metaphase i spermatocyte spreads	mitotic metaphase	Mitotic Metaphase	C0025564
+45486	45518	GO:0051323	metaphase i spermatocyte spreads	metaphase	Metaphase	C1621812
+45538	45607	GO:0000089	metaphase fixed spermatocytes from 8-mo-old trip13rrb047 homozygotes,	mitotic metaphase	Mitotic Metaphase	C0025564
+45538	45607	GO:0051323	metaphase fixed spermatocytes from 8-mo-old trip13rrb047 homozygotes,	metaphase	Metaphase	C1621812
+45726	45730	GO:0005623	cell	cell	Cells	C0007634
+45942	45958	GO:0000089	metaphase nuclei	mitotic metaphase	Mitotic Metaphase	C0025564
+45963	45973	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+45982	45986	GO:0007567	gene	parturition	Birth	C0005615
+45982	45986	GO:0000003	gene	reproduction	Reproduction	C0035150
+46170	46191	GO:1902698	amino acid alignments	acidogenesis		C3823112
+46170	46191	GO:1902705	amino acid alignments	acidogenesis		C3823112
+46170	46191	GO:1902706	amino acid alignments	acidogenesis		C3823112
+46170	46191	GO:1902699	amino acid alignments	acidogenesis		C3823112
+46581	46593	GO:0007610	conducted by	behavior	Behavior	C0004927
+46817	46827	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+46829	46872	GO:0042571	immunolabeled with the indicated antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+47018	47031	GO:0042060	repaired dsbs	wound healing	Wound Healing	C0043240
+47036	47065	GO:0000089	form bivalents at metaphase i	mitotic metaphase	Mitotic Metaphase	C0025564
+47036	47065	GO:0051323	form bivalents at metaphase i	metaphase	Metaphase	C1621812
+47129	47167	GO:1902698	sources of trip13 amino acid sequences	acidogenesis		C3823112
+47129	47167	GO:1902705	sources of trip13 amino acid sequences	acidogenesis		C3823112
+47129	47167	GO:1902706	sources of trip13 amino acid sequences	acidogenesis		C3823112
+47129	47167	GO:1902699	sources of trip13 amino acid sequences	acidogenesis		C3823112
+47515	47535	GO:0042571	chen for antibodies,	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+47539	47577	GO:0009790	jasin for spo11- embryonic stem cells,	embryo development	Embryonic Development	C0013936
+47695	47702	GO:0007600	sensing	sensory perception	Esthesia	C0036658
+47812	47854	GO:0005711	msci - meiotic sex chromosome inactivation	meiotic chromosome	Meiotic chromosome	C1166682
+47812	47854	GO:0000794	msci - meiotic sex chromosome inactivation	meiotic chromosome	Meiotic chromosome	C1166682
+47856	47902	GO:0051321	msuc - meiotic silencing of unpaired chromatin	meiotic cell cycle		C1657605
+47924	47941	GO:1902698	oa - okadaic acid	acidogenesis		C3823112
+47924	47941	GO:1902705	oa - okadaic acid	acidogenesis		C3823112
+47924	47941	GO:1902706	oa - okadaic acid	acidogenesis		C3823112
+47924	47941	GO:1902699	oa - okadaic acid	acidogenesis		C3823112
+47960	47973	GO:0034062	transcriptase	transcriptase	Transcriptase activity	C2257077
+47960	47973	GO:0003899	transcriptase	transcriptase	Transcriptase activity	C2257077
+47960	47973	GO:0003968	transcriptase	transcriptase	Transcriptase activity	C2257077
+47984	48004	GO:0000795	synaptonemal complex	synaptonemal complex	Synaptonemal Complex	C0039066
+48110	48142	GO:0006983	10.1371/journal.pgen.0030130.eor	ER-overload response		C1155303

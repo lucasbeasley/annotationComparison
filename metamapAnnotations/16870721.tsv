@@ -1,0 +1,200 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+11	41	GO:0007567	a gene targeting method for es	parturition	Birth	C0005615
+11	41	GO:0000003	a gene targeting method for es	reproduction	Reproduction	C0035150
+46	59	GO:0043025	somatic cells	neuron cell body	Cell body of neuron	C0599444
+149	173	GO:0050789	gained on p53 regulation	regulation of biological process	Regulation of biological process	C1327622
+220	256	GO:0006310	homologous recombination in es cells	DNA recombination	Recombination, Genetic	C0034865
+522	526	GO:0005623	cell	cell	Cells	C0007634
+634	650	GO:0043025	in somatic cells	neuron cell body	Cell body of neuron	C0599444
+1018	1022	GO:0005623	cell	cell	Cells	C0007634
+1236	1240	GO:0005623	cell	cell	Cells	C0007634
+1489	1542	GO:0006310	homologous recombination in embryonic stem (es) cells	DNA recombination	Recombination, Genetic	C0034865
+1997	2036	GO:0050789	more accurate models of p53 regulation.	regulation of biological process	Regulation of biological process	C1327622
+2053	2089	GO:0006310	homologous recombination in es cells	DNA recombination	Recombination, Genetic	C0034865
+2167	2195	GO:0006310	(i) homologous recombination	DNA recombination	Recombination, Genetic	C0034865
+2236	2240	GO:0005623	cell	cell	Cells	C0007634
+2774	2786	GO:0007567	other genes.	parturition	Birth	C0005615
+2774	2786	GO:0000003	other genes.	reproduction	Reproduction	C0035150
+2845	2849	GO:0005623	cell	cell	Cells	C0007634
+2894	2930	GO:0007567	efficient methods for gene targeting	parturition	Birth	C0005615
+2894	2930	GO:0000003	efficient methods for gene targeting	reproduction	Reproduction	C0035150
+3026	3075	GO:0007567	a faster read-out than equivalent gene knock-outs	parturition	Birth	C0005615
+3026	3075	GO:0000003	a faster read-out than equivalent gene knock-outs	reproduction	Reproduction	C0035150
+3269	3296	GO:0006310	by homologous recombination	DNA recombination	Recombination, Genetic	C0034865
+3372	3419	GO:0030849	the phenotype of recessive autosomal mutations.	autosome	Autosome	C0596142
+3516	3520	GO:0005623	cell	cell	Cells	C0007634
+3669	3689	GO:0007567	the gene of interest	parturition	Birth	C0005615
+3669	3689	GO:0000003	the gene of interest	reproduction	Reproduction	C0035150
+3841	3897	GO:0006310	cre-mediated recombination in the presence of a cassette	DNA recombination	Recombination, Genetic	C0034865
+3974	3989	GO:0007567	the mutant gene	parturition	Birth	C0005615
+3974	3989	GO:0000003	the mutant gene	reproduction	Reproduction	C0035150
+4358	4387	GO:0006310	intramolecular recombination,	DNA recombination	Recombination, Genetic	C0034865
+4594	4613	GO:0007567	the endogenous gene	parturition	Birth	C0005615
+4594	4613	GO:0000003	the endogenous gene	reproduction	Reproduction	C0035150
+4653	4673	GO:0007567	the selectable gene.	parturition	Birth	C0005615
+4653	4673	GO:0000003	the selectable gene.	reproduction	Reproduction	C0035150
+5077	5099	GO:0043025	in somatic cell lines.	neuron cell body	Cell body of neuron	C0599444
+5147	5151	GO:0005623	cell	cell	Cells	C0007634
+5359	5402	GO:0007567	the hygromycin-thymidine kinase fusion gene	parturition	Birth	C0005615
+5359	5402	GO:0000003	the hygromycin-thymidine kinase fusion gene	reproduction	Reproduction	C0035150
+5537	5541	GO:0005623	cell	cell	Cells	C0007634
+5583	5648	GO:0015074	relies on the integrated use of inverted heterologous loxp sites,	DNA integration	DNA Integration	C1158478
+5729	5733	GO:0005623	cell	cell	Cells	C0007634
+5903	5907	GO:0005623	cell	cell	Cells	C0007634
+5984	6000	GO:0043025	in somatic cells	neuron cell body	Cell body of neuron	C0599444
+6730	6734	GO:0005623	cell	cell	Cells	C0007634
+6839	6843	GO:0005623	cell	cell	Cells	C0007634
+6898	6902	GO:0005623	cell	cell	Cells	C0007634
+7147	7193	GO:0007567	a noti site downstream of the purodeltatk gene	parturition	Birth	C0005615
+7147	7193	GO:0000003	a noti site downstream of the purodeltatk gene	reproduction	Reproduction	C0035150
+7234	7268	GO:0007567	a fsei site downstream of the gene	parturition	Birth	C0005615
+7234	7268	GO:0000003	a fsei site downstream of the gene	reproduction	Reproduction	C0035150
+7759	7768	GO:0007586	digestion	digestion	Digestion	C0012238
+7876	7902	GO:0007567	downstream of the p53 gene	parturition	Birth	C0005615
+7876	7902	GO:0000003	downstream of the p53 gene	reproduction	Reproduction	C0035150
+7907	7932	GO:0007567	the dta gene in two steps	parturition	Birth	C0005615
+7907	7932	GO:0000003	the dta gene in two steps	reproduction	Reproduction	C0035150
+8114	8127	GO:0007567	the dta gene,	parturition	Birth	C0005615
+8114	8127	GO:0000003	the dta gene,	reproduction	Reproduction	C0035150
+9109	9144	GO:0007567	to sequences downstream of the gene	parturition	Birth	C0005615
+9109	9144	GO:0000003	to sequences downstream of the gene	reproduction	Reproduction	C0035150
+9220	9255	GO:0007567	the c-terminal part of the p53 gene	parturition	Birth	C0005615
+9220	9255	GO:0000003	the c-terminal part of the p53 gene	reproduction	Reproduction	C0035150
+9277	9288	GO:0006280	mutagenesis	mutagenesis	Mutagenesis Process	C0079866
+9899	9902	GO:0007601	see	vision	Vision	C0042789
+9930	9939	GO:0007586	digestion	digestion	Digestion	C0012238
+10326	10350	GO:0007567	from the pudeltatk gene,	parturition	Birth	C0005615
+10326	10350	GO:0000003	from the pudeltatk gene,	reproduction	Reproduction	C0035150
+10420	10461	GO:0007567	from sequences downstream of the p53 gene	parturition	Birth	C0005615
+10420	10461	GO:0000003	from sequences downstream of the p53 gene	reproduction	Reproduction	C0035150
+11108	11112	GO:0005623	cell	cell	Cells	C0007634
+11147	11178	GO:0009790	isolated from 13.5 day embryos,	embryo development	Embryonic Development	C0013936
+11274	11278	GO:0005623	cell	cell	Cells	C0007634
+11470	11473	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+11582	11586	GO:0005623	cell	cell	Cells	C0007634
+11827	11831	GO:0005623	cell	cell	Cells	C0007634
+11866	11870	GO:0005623	cell	cell	Cells	C0007634
+11934	11937	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+11971	11974	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+12034	12038	GO:0005623	cell	cell	Cells	C0007634
+12347	12351	GO:0005623	cell	cell	Cells	C0007634
+12414	12417	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+12432	12435	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+12544	12548	GO:0005623	cell	cell	Cells	C0007634
+12783	12787	GO:0005623	cell	cell	Cells	C0007634
+12829	12832	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+13221	13250	GO:1990116	the bio-rad dc protein assay.	ribosome-associated ubiquitin-dependent protein catabolic process		C3811628
+13535	13573	GO:0042571	before probing with primary antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+13625	13645	GO:0042571	secondary antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+13659	13700	GO:0000746	peroxidase-conjugated goat anti-mouse igg	conjugation		C1160466
+13875	13879	GO:0005623	cell	cell	Cells	C0007634
+13980	13984	GO:0005623	cell	cell	Cells	C0007634
+14366	14370	GO:0005623	cell	cell	Cells	C0007634
+14445	14449	GO:0005623	cell	cell	Cells	C0007634
+14682	14686	GO:0005623	cell	cell	Cells	C0007634
+14796	14800	GO:0005623	cell	cell	Cells	C0007634
+14864	14868	GO:0005623	cell	cell	Cells	C0007634
+15034	15038	GO:0005623	cell	cell	Cells	C0007634
+15440	15469	GO:0042571	with an antibody against p53,	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+15715	15719	GO:0005623	cell	cell	Cells	C0007634
+16015	16029	GO:0007565	no pregnancies	gestation	Pregnancy	C0032961
+16124	16137	GO:0043025	somatic cells	neuron cell body	Cell body of neuron	C0599444
+16142	16146	GO:0005623	cell	cell	Cells	C0007634
+16192	16229	GO:0006974	the p53-mediated dna damage responses	cellular response to DNA damage stimulus		C1155291
+16230	16252	GO:0044297	found in somatic cells	cell body		C2752549
+16311	16346	GO:0009790	decrease during mouse embryogenesis	embryo development	Embryonic Development	C0013936
+16363	16414	GO:0007565	an explanation for the observed lack of pregnancies	gestation	Pregnancy	C0032961
+16470	16474	GO:0005623	cell	cell	Cells	C0007634
+16523	16556	GO:0009790	normal embryonic development once	embryo development	Embryonic Development	C0013936
+16563	16567	GO:0005623	cell	cell	Cells	C0007634
+16671	16698	GO:0007567	rmce with a p53 fusion gene	parturition	Birth	C0005615
+16671	16698	GO:0000003	rmce with a p53 fusion gene	reproduction	Reproduction	C0035150
+16900	16920	GO:0006974	dna-damage responses	cellular response to DNA damage stimulus		C1155291
+17006	17028	GO:0009790	embryonic development.	embryo development	Embryonic Development	C0013936
+17205	17209	GO:0005623	cell	cell	Cells	C0007634
+17429	17433	GO:0005623	cell	cell	Cells	C0007634
+17541	17545	GO:0005623	cell	cell	Cells	C0007634
+17654	17679	GO:0009291	recovered from the mating	unidirectional conjugation		C1160186
+17654	17679	GO:0007618	recovered from the mating	mating		C1260875
+17654	17679	GO:0000747	recovered from the mating	conjugation with cellular fusion		C1748461
+17654	17679	GO:1990277	recovered from the mating	parasexual conjugation with cellular fusion		C3812685
+17788	17792	GO:0005623	cell	cell	Cells	C0007634
+17851	17854	GO:0007601	see	vision	Vision	C0042789
+17972	17988	GO:0043025	in somatic cells	neuron cell body	Cell body of neuron	C0599444
+18109	18154	GO:0009291	by mating p53rmce/+ chimeras with p53+/- mice	unidirectional conjugation		C1160186
+18109	18154	GO:0007618	by mating p53rmce/+ chimeras with p53+/- mice	mating		C1260875
+18109	18154	GO:0000747	by mating p53rmce/+ chimeras with p53+/- mice	conjugation with cellular fusion		C1748461
+18109	18154	GO:1990277	by mating p53rmce/+ chimeras with p53+/- mice	parasexual conjugation with cellular fusion		C3812685
+18275	18292	GO:0043025	in somatic cells.	neuron cell body	Cell body of neuron	C0599444
+18565	18569	GO:0005623	cell	cell	Cells	C0007634
+18733	18737	GO:0005623	cell	cell	Cells	C0007634
+18823	18827	GO:0005623	cell	cell	Cells	C0007634
+19191	19195	GO:0005623	cell	cell	Cells	C0007634
+19372	19376	GO:0005623	cell	cell	Cells	C0007634
+19459	19463	GO:0005623	cell	cell	Cells	C0007634
+19519	19523	GO:0005623	cell	cell	Cells	C0007634
+19560	19586	GO:0090398	typical of senescent cells	cellular senescence	Cellular Senescence	C0007581
+19648	19652	GO:0005623	cell	cell	Cells	C0007634
+19978	19982	GO:0005623	cell	cell	Cells	C0007634
+20293	20296	GO:0007601	see	vision	Vision	C0042789
+20533	20585	GO:0051726	to less active p53 with impaired cell cycle control,	cell cycle regulation	Cell Cycle Control	C1155872
+20533	20585	GO:1901987	to less active p53 with impaired cell cycle control,	regulation of cell cycle phase transition		C3544486
+20656	20671	GO:0050789	p53 regulation.	regulation of biological process	Regulation of biological process	C1327622
+20745	20756	GO:0032502	development	development	Biologic Development	C0678723
+20854	20858	GO:0005623	cell	cell	Cells	C0007634
+20962	21027	GO:0015074	relied on the integrated use of inverted heterologous loxp sites,	DNA integration	DNA Integration	C1158478
+21108	21112	GO:0005623	cell	cell	Cells	C0007634
+21120	21138	GO:0043025	for somatic cells,	neuron cell body	Cell body of neuron	C0599444
+21139	21199	GO:0007567	the existence of a knock-out allele of the gene of interest.	parturition	Birth	C0005615
+21139	21199	GO:0000003	the existence of a knock-out allele of the gene of interest.	reproduction	Reproduction	C0035150
+21257	21307	GO:0007567	general technology for analysis of mammalian genes	parturition	Birth	C0005615
+21257	21307	GO:0000003	general technology for analysis of mammalian genes	reproduction	Reproduction	C0035150
+21449	21453	GO:0005623	cell	cell	Cells	C0007634
+21460	21519	GO:0007567	tailored for the repeated targeting of widely studied genes	parturition	Birth	C0005615
+21460	21519	GO:0000003	tailored for the repeated targeting of widely studied genes	reproduction	Reproduction	C0035150
+21587	21619	GO:0007567	bradley for the purodeltatk gene	parturition	Birth	C0005615
+21587	21619	GO:0000003	bradley for the purodeltatk gene	reproduction	Reproduction	C0035150
+21636	21640	GO:0005623	cell	cell	Cells	C0007634
+21643	21670	GO:0007567	p soriano for the dta gene,	parturition	Birth	C0005615
+21643	21670	GO:0000003	p soriano for the dta gene,	reproduction	Reproduction	C0035150
+22153	22178	GO:0006310	homologous recombination,	DNA recombination	Recombination, Genetic	C0034865
+22179	22199	GO:0007567	the gene of interest	parturition	Birth	C0005615
+22179	22199	GO:0000003	the gene of interest	reproduction	Reproduction	C0035150
+22468	22472	GO:0005623	cell	cell	Cells	C0007634
+22509	22513	GO:0005623	cell	cell	Cells	C0007634
+23030	23047	GO:0043025	in somatic cells,	neuron cell body	Cell body of neuron	C0599444
+23225	23263	GO:0044297	somatic cells with an rmce-ready locus	cell body		C2752549
+23320	23354	GO:0009790	rmce/- mouse embryonic fibroblasts	embryo development	Embryonic Development	C0013936
+23369	23373	GO:0005623	cell	cell	Cells	C0007634
+23414	23418	GO:0005623	cell	cell	Cells	C0007634
+23547	23551	GO:0005623	cell	cell	Cells	C0007634
+23582	23594	GO:0007567	the p53 gene	parturition	Birth	C0005615
+23582	23594	GO:0000003	the p53 gene	reproduction	Reproduction	C0035150
+23985	24010	GO:0007567	a purodeltatk fusion gene	parturition	Birth	C0005615
+23985	24010	GO:0000003	a purodeltatk fusion gene	reproduction	Reproduction	C0035150
+24146	24157	GO:0034480	alpha-toxin	alpha-toxin	alpha-toxin activity	C2261241
+24489	24493	GO:0005623	cell	cell	Cells	C0007634
+25059	25065	GO:0031672	A band	A band		C0230715
+25106	25134	GO:0006310	correct recombination at 1l,	DNA recombination	Recombination, Genetic	C0034865
+25209	25237	GO:0006310	correct recombination at l3.	DNA recombination	Recombination, Genetic	C0034865
+25471	25495	GO:0042571	with an antibody to p53.	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+25535	25539	GO:0005623	cell	cell	Cells	C0007634
+25641	25644	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+26511	26531	GO:0009291	obtained from mating	unidirectional conjugation		C1160186
+26511	26531	GO:0007618	obtained from mating	mating		C1260875
+26511	26531	GO:0000747	obtained from mating	conjugation with cellular fusion		C1748461
+26511	26531	GO:1990277	obtained from mating	parasexual conjugation with cellular fusion		C3812685
+26614	26617	GO:0007601	see	vision	Vision	C0042789
+26842	26846	GO:0005623	cell	cell	Cells	C0007634
+26932	26954	GO:0007618	mated with p53+/- mice	mating		C1260875
+27044	27047	GO:0007601	see	vision	Vision	C0042789
+27616	27620	GO:0005623	cell	cell	Cells	C0007634
+27730	27734	GO:0005623	cell	cell	Cells	C0007634
+28007	28011	GO:0005623	cell	cell	Cells	C0007634
+28046	28050	GO:0005623	cell	cell	Cells	C0007634
+28534	28556	GO:0015074	not random integration	DNA integration	DNA Integration	C1158478
+28796	28823	GO:0051726	loss of cell cycle control.	cell cycle regulation	Cell Cycle Control	C1155872
+28796	28823	GO:1901987	loss of cell cycle control.	regulation of cell cycle phase transition		C3544486
+29151	29155	GO:0005623	cell	cell	Cells	C0007634
+29243	29276	GO:0006310	flox by homologous recombination.	DNA recombination	Recombination, Genetic	C0034865
+29500	29543	GO:0006310	in fibroblasts by homologous recombination,	DNA recombination	Recombination, Genetic	C0034865

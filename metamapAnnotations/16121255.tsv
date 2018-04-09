@@ -1,0 +1,322 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+70	111	GO:0001822	congenital nephrogenic diabetes insipidus	kidney development		C1171312
+219	269	GO:0001822	human kindreds with nephrogenic diabetes insipidus	kidney development		C1171312
+344	348	GO:0007567	gene	parturition	Birth	C0005615
+344	348	GO:0000003	gene	reproduction	Reproduction	C0035150
+352	416	GO:0002524	the vasopressin-sensitive water channel aquaporin-2 (aqp2) gene.	hypersensitivity	Hypersensitivity	C0020517
+417	428	GO:0032502	development	development	Biologic Development	C0678723
+508	579	GO:0007567	through forward genetic screening of ethylnitrosourea-mutagenized mice,	parturition	Birth	C0005615
+508	579	GO:0000003	through forward genetic screening of ethylnitrosourea-mutagenized mice,	reproduction	Reproduction	C0035150
+613	654	GO:0001822	characterization of a mouse model of ndi,	kidney development		C1171312
+655	695	GO:0007567	with an f204v mutation in the aqp2 gene.	parturition	Birth	C0005615
+655	695	GO:0000003	with an f204v mutation in the aqp2 gene.	reproduction	Reproduction	C0035150
+724	745	GO:0001822	murine models of ndi,	kidney development		C1171312
+868	872	GO:0005623	cell	cell	Cells	C0007634
+963	967	GO:0046930	pore	pore	Pore	C1325742
+1061	1118	GO:0001822	as the molecular defect in nephrogenic diabetes insipidus	kidney development		C1171312
+1171	1175	GO:0005623	cell	cell	Cells	C0007634
+1246	1267	GO:0005783	endoplasmic reticulum	endoplasmic reticulum	Endoplasmic Reticulum	C0014239
+1277	1303	GO:0051179	this abnormal localization	establishment and maintenance of localization		C1744691
+1445	1468	GO:0007567	gene therapies for ndi.	parturition	Birth	C0005615
+1482	1512	GO:0001822	nephrogenic diabetes insipidus	kidney development		C1171312
+1552	1561	GO:0060073	urination	urination	Urination	C0042034
+1584	1630	GO:0007600	the hypothalamus senses situations where water	sensory perception	Esthesia	C0036658
+1711	1733	GO:0007165	the signaling molecule	signal transduction	Signal Transduction	C0037083
+1711	1733	GO:0023052	the signaling molecule	biological signaling		C3537152
+1734	1762	GO:0032940	secreted by the hypothalamus	secretion by cell	Cell secretion	C1327616
+1800	1827	GO:0005488	binds to a specific protein	binding	Binding 	C1167622
+1828	1859	GO:0009986	on the surface of kidney cells,	cell surface	Cell surface	C0699040
+1882	1909	GO:0031893	avp binding to its receptor	vasopressin receptor binding	Vasopressin Receptor Binding	C1516010
+1920	1924	GO:0005623	cell	cell	Cells	C0007634
+2039	2081	GO:0009986	into the outer surface of the kidney cell.	cell surface	Cell surface	C0699040
+2175	2179	GO:0005623	cell	cell	Cells	C0007634
+2232	2246	GO:0001822	congenital ndi	kidney development		C1171312
+2462	2498	GO:0001822	the first viable mouse model of ndi.	kidney development		C1171312
+2563	2568	GO:0007567	genes	parturition	Birth	C0005615
+2563	2568	GO:0000003	genes	reproduction	Reproduction	C0035150
+2637	2674	GO:0007567	a so-called reverse genetic approach.	parturition	Birth	C0005615
+2637	2674	GO:0000003	a so-called reverse genetic approach.	reproduction	Reproduction	C0035150
+2683	2701	GO:0007567	genetic approaches	parturition	Birth	C0005615
+2683	2701	GO:0000003	genetic approaches	reproduction	Reproduction	C0035150
+2732	2760	GO:0001822	a viable mouse model of ndi.	kidney development		C1171312
+2783	2824	GO:0007567	a forward genetic approach in which genes	parturition	Birth	C0005615
+2783	2824	GO:0000003	a forward genetic approach in which genes	reproduction	Reproduction	C0035150
+2976	3015	GO:0007567	the door to the testing of gene therapy	parturition	Birth	C0005615
+2976	3015	GO:0000003	the door to the testing of gene therapy	reproduction	Reproduction	C0035150
+3019	3056	GO:0001822	other therapies for treatment of ndi.	kidney development		C1171312
+3072	3102	GO:0001822	nephrogenic diabetes insipidus	kidney development		C1171312
+3149	3158	GO:0060073	urination	urination	Urination	C0042034
+3281	3343	GO:0007567	either x-linked as a consequence of mutation of the avpr2 gene	parturition	Birth	C0005615
+3281	3343	GO:0000003	either x-linked as a consequence of mutation of the avpr2 gene	reproduction	Reproduction	C0035150
+3352	3394	GO:0030849	autosomal due to mutation of the aqp2 gene	autosome	Autosome	C0596142
+3424	3428	GO:0046930	pore	pore	Pore	C1325742
+3539	3543	GO:0005623	cell	cell	Cells	C0007634
+3629	3644	GO:0005886	plasma membrane	plasma membrane	Plasma membrane	C0007603
+3892	3907	GO:0005886	plasma membrane	plasma membrane	Plasma membrane	C0007603
+3969	4007	GO:0098590	targeted to distinct regions of the pm	region of plasma membrane	Region of plasma membrane	C2335800
+4030	4068	GO:0016324	routed to the apical membrane of cells	apical plasma membrane	Apical plasma membrane	C1167182
+4257	4272	GO:0005886	plasma membrane	plasma membrane	Plasma membrane	C0007603
+4331	4352	GO:0097708	intracellular vesicle	intracellular vesicle		C4236736
+4397	4406	GO:0051235	retention	retention	cellular entity retention	C1753315
+4439	4447	GO:0016020	membrane	membrane	Membrane	C0596901
+4517	4522	GO:0005488	binds	binding	Binding 	C1167622
+4591	4595	GO:0005623	cell	cell	Cells	C0007634
+4616	4638	GO:0005622	in intracellular camp,	protoplasm	Protoplasm	C0175996
+4663	4678	GO:0016310	phosphorylation	phosphorylation	Phosphorylation	C0031715
+4663	4699	GO:0006468	resulting in phosphorylation of aqp2	protein phosphorylation	Protein phosphorylation	C1158886
+4768	4783	GO:0005886	plasma membrane	plasma membrane	Plasma membrane	C0007603
+5058	5062	GO:0046930	pore	pore	Pore	C1325742
+5254	5262	GO:0016020	membrane	membrane	Membrane	C0596901
+5519	5536	GO:0007567	in the aqp2 gene.	parturition	Birth	C0005615
+5519	5536	GO:0000003	in the aqp2 gene.	reproduction	Reproduction	C0035150
+5590	5602	GO:0007567	after birth.	parturition	Birth	C0005615
+5590	5602	GO:0007567	after birth.	parturition	Birth	C0005615
+5740	5801	GO:0002524	a highly sensitive organism with regard to water homeostasis,	hypersensitivity	Hypersensitivity	C0020517
+5843	5871	GO:0007567	in a forward genetic screen,	parturition	Birth	C0005615
+5843	5871	GO:0000003	in a forward genetic screen,	reproduction	Reproduction	C0035150
+5964	6010	GO:0001822	this murine model of recessive nephrogenic di.	kidney development		C1171312
+6025	6065	GO:0007567	a novel f204v mutation in the aqp2 gene.	parturition	Birth	C0005615
+6025	6065	GO:0000003	a novel f204v mutation in the aqp2 gene.	reproduction	Reproduction	C0035150
+6227	6295	GO:0051674	a different subcellular localization in renal collecting-duct cells,	localization of cell		C1660153
+6435	6439	GO:0005623	cell	cell	Cells	C0007634
+6461	6482	GO:0005783	endoplasmic reticulum	endoplasmic reticulum	Endoplasmic Reticulum	C0014239
+6587	6615	GO:0030849	that autosomal recessive ndi	autosome	Autosome	C0596142
+6690	6717	GO:0007567	in a forward genetic screen	parturition	Birth	C0005615
+6690	6717	GO:0000003	in a forward genetic screen	reproduction	Reproduction	C0035150
+6850	6860	GO:0008152	metabolism	metabolism	Metabolism	C0025519
+7140	7194	GO:0030849	segregated in a monogenic, autosomal recessive manner,	autosome	Autosome	C0596142
+7207	7224	GO:0007567	a candidate gene.	parturition	Birth	C0005615
+7207	7224	GO:0000003	a candidate gene.	reproduction	Reproduction	C0035150
+7381	7444	GO:1902698	for phenylalanine substitution at amino acid 204 of the protein	acidogenesis		C3823112
+7381	7444	GO:1902705	for phenylalanine substitution at amino acid 204 of the protein	acidogenesis		C3823112
+7381	7444	GO:1902706	for phenylalanine substitution at amino acid 204 of the protein	acidogenesis		C3823112
+7381	7444	GO:1902699	for phenylalanine substitution at amino acid 204 of the protein	acidogenesis		C3823112
+7463	7497	GO:0016021	a six-transmembrane water channel,	integral to membrane		C1167322
+7463	7497	GO:0044214	a six-transmembrane water channel,	transmembrane	fully spanning the plasma membrane	C2752508
+7521	7534	GO:0005576	extracellular	extracellular	Extracellular	C0521119
+7588	7620	GO:1902698	rich in hydrophobic amino acids.	acidogenesis		C3823112
+7588	7620	GO:1902705	rich in hydrophobic amino acids.	acidogenesis		C3823112
+7588	7620	GO:1902706	rich in hydrophobic amino acids.	acidogenesis		C3823112
+7588	7620	GO:1902699	rich in hydrophobic amino acids.	acidogenesis		C3823112
+7640	7648	GO:0016020	membrane	membrane	Membrane	C0596901
+8920	8928	GO:0032940	secretes	secretion by cell	Cell secretion	C1327616
+9516	9566	GO:0015267	some residual activity of the mutant aqp2 channel,	channel activity		C1153410
+9676	9705	GO:0009291	multiple heterozygous matings	unidirectional conjugation		C1160186
+9676	9705	GO:0007618	multiple heterozygous matings	mating		C1260875
+9676	9705	GO:0000747	multiple heterozygous matings	conjugation with cellular fusion		C1748461
+9676	9705	GO:1990277	multiple heterozygous matings	parasexual conjugation with cellular fusion		C3812685
+11151	11158	GO:0042603	capsule	capsule	Microbial anatomical capsule structure	C1325531
+11409	11422	GO:0070085	glycosylation	glycosylation		C0017982
+11409	11431	GO:0006486	forms of glycosylation	protein glycosylation	Protein Glycosylation	C0376322
+11532	11560	GO:0070085	complex glycosylated protein	glycosylation		C0017982
+11532	11560	GO:0006486	complex glycosylated protein	protein glycosylation	Protein Glycosylation	C0376322
+11600	11660	GO:0019013	a short-lived intermediate form of 31 kda representing core,	nucleocapsid	viral nucleocapsid location	C1167518
+11674	11687	GO:0070085	glycosylation	glycosylation		C0017982
+11674	11708	GO:0006486	high-mannose glycosylation of aqp2	protein glycosylation	Protein Glycosylation	C0376322
+12068	12106	GO:0070085	the nature of these glycosylated forms	glycosylation		C0017982
+12068	12106	GO:0006486	the nature of these glycosylated forms	protein glycosylation	Protein Glycosylation	C0376322
+12123	12132	GO:0007586	digestion	digestion	Digestion	C0012238
+12400	12449	GO:0032502	the presence of some mature glycosylated proteins	development	Biologic Development	C0678723
+12730	12742	GO:0009986	cell surface	cell surface	Cell surface	C0699040
+12909	12913	GO:0005623	cell	cell	Cells	C0007634
+13030	13037	GO:0031982	vesicle	vesicle		C1622418
+13072	13093	GO:0005783	endoplasmic reticulum	endoplasmic reticulum	Endoplasmic Reticulum	C0014239
+13161	13196	GO:0032502	this hypothesis in a mature animal.	development	Biologic Development	C0678723
+13331	13335	GO:0005623	cell	cell	Cells	C0007634
+13429	13441	GO:0009986	cell surface	cell surface	Cell surface	C0699040
+13559	13563	GO:0005623	cell	cell	Cells	C0007634
+13760	13772	GO:0009986	cell surface	cell surface	Cell surface	C0699040
+14090	14094	GO:0005623	cell	cell	Cells	C0007634
+14104	14108	GO:0005623	cell	cell	Cells	C0007634
+14224	14228	GO:0005623	cell	cell	Cells	C0007634
+14252	14256	GO:0005623	cell	cell	Cells	C0007634
+14275	14288	GO:0070085	glycosylation	glycosylation		C0017982
+14275	14299	GO:0006486	the glycosylation defect	protein glycosylation	Protein Glycosylation	C0376322
+14296	14315	GO:0007601	seen in mutant mice	vision	Vision	C0042789
+14402	14406	GO:0005623	cell	cell	Cells	C0007634
+14465	14486	GO:0019013	enriched in the core-	nucleocapsid	viral nucleocapsid location	C1167518
+14547	14551	GO:0005623	cell	cell	Cells	C0007634
+14703	14750	GO:0031982	consistent with vesicular compartmentalization.	vesicle		C1622418
+14914	14930	GO:0033674	kinase activator	kinase activator		C2247123
+14947	15005	GO:0009986	translocated to the apical surface of polarized mdck cells	cell surface	Cell surface	C0699040
+15107	15111	GO:0007601	seen	vision	Vision	C0042789
+15365	15369	GO:0005623	cell	cell	Cells	C0007634
+15615	15651	GO:0032541	appeared at the periphery of the er,	peripheral ER		C3546432
+15744	15824	GO:0032502	consistent with the small proportion of mature, complex glycosylated, aqp2-f204v	development	Biologic Development	C0678723
+15844	15847	GO:0007601	see	vision	Vision	C0042789
+15844	15847	GO:0007601	see	vision	Vision	C0042789
+16156	16160	GO:0005623	cell	cell	Cells	C0007634
+16475	16487	GO:0009986	cell surface	cell surface	Cell surface	C0699040
+16730	16769	GO:0008104	the localization of the mutant protein.	protein localization	protein localization location	C0597704
+16730	16769	GO:0006886	the localization of the mutant protein.	intracellular protein transport		C1159772
+16896	16908	GO:0009986	cell surface	cell surface	Cell surface	C0699040
+17093	17097	GO:0005623	cell	cell	Cells	C0007634
+17371	17375	GO:0005623	cell	cell	Cells	C0007634
+17395	17399	GO:0005623	cell	cell	Cells	C0007634
+17556	17578	GO:0042571	antibodies against gfp	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+17741	17745	GO:0005623	cell	cell	Cells	C0007634
+17828	17836	GO:0016020	membrane	membrane	Membrane	C0596901
+18000	18004	GO:0005623	cell	cell	Cells	C0007634
+18047	18082	GO:0008104	the localization of mutant protein?	protein localization	protein localization location	C0597704
+18047	18082	GO:0006886	the localization of mutant protein?	intracellular protein transport		C1159772
+18121	18125	GO:0005623	cell	cell	Cells	C0007634
+18424	18428	GO:0005623	cell	cell	Cells	C0007634
+18484	18488	GO:0005623	cell	cell	Cells	C0007634
+18590	18594	GO:0005623	cell	cell	Cells	C0007634
+18614	18623	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+18705	18709	GO:0005623	cell	cell	Cells	C0007634
+18876	18880	GO:0005623	cell	cell	Cells	C0007634
+18940	18944	GO:0005623	cell	cell	Cells	C0007634
+18956	18979	GO:0051179	the localization of the	establishment and maintenance of localization		C1744691
+19158	19162	GO:0005623	cell	cell	Cells	C0007634
+19169	19199	GO:0051179	localization of wild-type aqp2	establishment and maintenance of localization		C1744691
+19322	19326	GO:0005623	cell	cell	Cells	C0007634
+19404	19438	GO:0051179	the localization of aqp2-f204v-gfp	establishment and maintenance of localization		C1744691
+19568	19572	GO:0005623	cell	cell	Cells	C0007634
+19795	19799	GO:0005623	cell	cell	Cells	C0007634
+19824	19828	GO:0005623	cell	cell	Cells	C0007634
+19941	19953	GO:0009986	cell surface	cell surface	Cell surface	C0699040
+20050	20062	GO:0009986	cell surface	cell surface	Cell surface	C0699040
+20370	20390	GO:0032502	survive to maturity.	development	Biologic Development	C0678723
+20447	20482	GO:0007567	knockout of the x-linked avpr2 gene	parturition	Birth	C0005615
+20447	20482	GO:0000003	knockout of the x-linked avpr2 gene	reproduction	Reproduction	C0035150
+20615	20641	GO:0007567	died within 1 wk of birth.	parturition	Birth	C0005615
+20777	20808	GO:0007567	knockout of the mouse aqp2 gene	parturition	Birth	C0005615
+20777	20808	GO:0000003	knockout of the mouse aqp2 gene	reproduction	Reproduction	C0035150
+20998	21025	GO:0007567	death within 1 wk of birth.	parturition	Birth	C0005615
+21095	21099	GO:0005623	cell	cell	Cells	C0007634
+21274	21291	GO:0007567	an essential gene	parturition	Birth	C0005615
+21274	21291	GO:0000003	an essential gene	reproduction	Reproduction	C0035150
+21382	21397	GO:0006833	water transport	water transport		C1159571
+21762	21774	GO:0009986	cell surface	cell surface	Cell surface	C0699040
+21919	21931	GO:0009986	cell surface	cell surface	Cell surface	C0699040
+22359	22381	GO:0033577	core-glycosylated form	core glycosylation		C3158556
+22364	22376	GO:0070085	glycosylated	glycosylation		C0017982
+22364	22376	GO:0006486	glycosylated	protein glycosylation	Protein Glycosylation	C0376322
+22734	22738	GO:0005623	cell	cell	Cells	C0007634
+22871	22922	GO:0070085	diminished abundance of mature glycosylated protein	glycosylation		C0017982
+22946	22991	GO:0015031	the transport of a fraction of mutant protein	protein transport		C0599895
+22946	22991	GO:0006886	the transport of a fraction of mutant protein	intracellular protein transport		C1159772
+23014	23018	GO:0005623	cell	cell	Cells	C0007634
+23130	23145	GO:0006833	water transport	water transport		C1159571
+23228	23234	GO:0040007	growth	growth	Growth	C0018270
+23377	23414	GO:0019013	the high-mannose core oligosaccharide	nucleocapsid	viral nucleocapsid location	C1167518
+23478	23493	GO:0005794	Golgi apparatus	Golgi apparatus	Golgi Apparatus	C0018042
+23668	23697	GO:0051179	improper localization of aqp2	establishment and maintenance of localization		C1744691
+23885	23888	GO:0007601	see	vision	Vision	C0042789
+24429	24433	GO:0005623	cell	cell	Cells	C0007634
+24718	24730	GO:0009986	cell surface	cell surface	Cell surface	C0699040
+25184	25188	GO:0005623	cell	cell	Cells	C0007634
+25262	25284	GO:0016324	apical plasma membrane	apical plasma membrane	Apical plasma membrane	C1167182
+25457	25461	GO:0005623	cell	cell	Cells	C0007634
+25543	25576	GO:0051179	abnormal subcellular localization	establishment and maintenance of localization		C1744691
+25636	25651	GO:0005886	plasma membrane	plasma membrane	Plasma membrane	C0007603
+25671	25680	GO:0051235	retention	retention	cellular entity retention	C1753315
+25771	25799	GO:0030849	for autosomal recessive ndi.	autosome	Autosome	C0596142
+26010	26023	GO:0007567	gene therapy,	parturition	Birth	C0005615
+26010	26023	GO:0000003	gene therapy,	reproduction	Reproduction	C0035150
+26041	26073	GO:0051179	proper subcellular localization.	establishment and maintenance of localization		C1744691
+26325	26374	GO:0009405	foundation specific pathogen free animal facility	pathogenesis	Pathogenesis	C0699748
+26817	26828	GO:0006280	mutagenesis	mutagenesis	Mutagenesis Process	C0079866
+26886	26950	GO:0007600	the sense oligonucleotide 5'-gatgatcactgggtcgtctggatcggacccc-3',	sensory perception	Esthesia	C0036658
+27376	27412	GO:0006280	the same mutagenic oligonucleotides.	mutagenesis	Mutagenesis Process	C0079866
+27414	27418	GO:0005623	cell	cell	Cells	C0007634
+27452	27456	GO:0005623	cell	cell	Cells	C0007634
+27470	27474	GO:0005623	cell	cell	Cells	C0007634
+27476	27483	GO:0044101	(ccl-34	(R)-citramalyl-CoA lyase activity		C2752420
+27675	27678	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+27750	27754	GO:0005623	cell	cell	Cells	C0007634
+27762	27766	GO:0005623	cell	cell	Cells	C0007634
+27938	27941	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+28171	28175	GO:0005623	cell	cell	Cells	C0007634
+28520	28557	GO:0044237	adult mice in nalgene metabolic cages	cellular metabolic process	Metabolic Process, Cellular	C1524026
+28869	28872	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+29049	29057	GO:0016020	membrane	membrane	Membrane	C0596901
+29410	29418	GO:0016020	membrane	membrane	Membrane	C0596901
+29542	29550	GO:0016020	membrane	membrane	Membrane	C0596901
+29565	29568	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+29652	29660	GO:0016020	membrane	membrane	Membrane	C0596901
+29662	29670	GO:0016020	membrane	membrane	Membrane	C0596901
+29809	29838	GO:0042571	with aqp2 polyclonal antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+29916	29924	GO:0016020	membrane	membrane	Membrane	C0596901
+29951	30007	GO:0000746	incubated with hrp-conjugated donkey anti-goat antibody.	conjugation		C1160466
+30008	30016	GO:0016020	membrane	membrane	Membrane	C0596901
+30164	30173	GO:0007586	digestion	digestion	Digestion	C0012238
+30183	30191	GO:0016020	membrane	membrane	Membrane	C0596901
+30197	30200	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+30611	30615	GO:0005623	cell	cell	Cells	C0007634
+30624	30628	GO:0005623	cell	cell	Cells	C0007634
+30770	30774	GO:0005623	cell	cell	Cells	C0007634
+30935	30943	GO:0016020	membrane	membrane	Membrane	C0596901
+31078	31086	GO:0016020	membrane	membrane	Membrane	C0596901
+31139	31147	GO:0016020	membrane	membrane	Membrane	C0596901
+31172	31180	GO:0016020	membrane	membrane	Membrane	C0596901
+31480	31488	GO:0016020	membrane	membrane	Membrane	C0596901
+31546	31558	GO:0009986	cell surface	cell surface	Cell surface	C0699040
+31661	31665	GO:0005623	cell	cell	Cells	C0007634
+31704	31708	GO:0005623	cell	cell	Cells	C0007634
+31704	31709	GO:0005623	cells	cell	Cells	C0007634
+31867	31871	GO:0005623	cell	cell	Cells	C0007634
+31978	31982	GO:0005623	cell	cell	Cells	C0007634
+32058	32066	GO:0016020	membrane	membrane	Membrane	C0596901
+32130	32138	GO:0016020	membrane	membrane	Membrane	C0596901
+32350	32354	GO:0005623	cell	cell	Cells	C0007634
+32416	32436	GO:0042571	an antibody to aqp2.	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+32820	32851	GO:0042571	then in goat anti-aqp3 antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+32929	32995	GO:0000746	incubated with alexafluor 488-conjugated donkey anti-goat antibody	conjugation		C1160466
+33105	33147	GO:0042571	incubated with a rabbit anti-aqp2 antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+33215	33285	GO:0000746	detected with a alexafluor 594-conjugated chicken anti-rabbit antibody	conjugation		C1160466
+33459	33463	GO:0005623	cell	cell	Cells	C0007634
+33479	33483	GO:0005623	cell	cell	Cells	C0007634
+33648	33669	GO:0005923	until tight junctions	zonula occludens	Tight Junctions	C0242358
+33678	33682	GO:0005623	cell	cell	Cells	C0007634
+33678	33683	GO:0005623	cells	cell	Cells	C0007634
+33903	33912	GO:0043226	organelle	organelle	Organelles	C0029219
+34041	34119	GO:0000746	200 dilution of alexafluor 488-conjugated donkey anti-goat secondary antibody.	conjugation		C1160466
+34312	34322	GO:0042571	antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+34327	34352	GO:0042571	the secondary antibodies,	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+34353	34372	GO:0000746	cy3-conjugated goat	conjugation		C1160466
+34460	34493	GO:0000746	alexafluor 594-conjugated chicken	conjugation		C1160466
+34528	34532	GO:0005623	cell	cell	Cells	C0007634
+34677	34701	GO:0042571	the antibody combination	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+34758	34777	GO:1990266	the aqp2 at 594 nm,	neutrophil migration	Neutrophil migration, function	C0312860
+34849	34873	GO:0007601	optical z-section images	vision	Vision	C0042789
+35377	35387	GO:1990266	nm_009699.	neutrophil migration	Neutrophil migration, function	C0312860
+35938	35959	GO:0005783	endoplasmic reticulum	endoplasmic reticulum	Endoplasmic Reticulum	C0014239
+35995	36031	GO:0001822	ndi - nephrogenic diabetes insipidus	kidney development		C1171312
+36038	36053	GO:0005886	plasma membrane	plasma membrane	Plasma membrane	C0007603
+36284	36325	GO:1902698	(b) amino acid conservation of mouse aqp2	acidogenesis		C3823112
+36284	36325	GO:1902705	(b) amino acid conservation of mouse aqp2	acidogenesis		C3823112
+36284	36325	GO:1902706	(b) amino acid conservation of mouse aqp2	acidogenesis		C3823112
+36284	36325	GO:1902699	(b) amino acid conservation of mouse aqp2	acidogenesis		C3823112
+38045	38053	GO:0016020	membrane	membrane	Membrane	C0596901
+38141	38149	GO:0016020	membrane	membrane	Membrane	C0596901
+38240	38248	GO:0016020	membrane	membrane	Membrane	C0596901
+38352	38373	GO:0006486	glycosylated proteins	protein glycosylation	Protein Glycosylation	C0376322
+38406	38447	GO:0002524	sensitive to endoglycosidase h digestion.	hypersensitivity	Hypersensitivity	C0020517
+38459	38488	GO:0051179	aqp2 subcellular localization	establishment and maintenance of localization		C1744691
+38549	38553	GO:0005623	cell	cell	Cells	C0007634
+38955	38964	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+39105	39109	GO:0005623	cell	cell	Cells	C0007634
+39257	39261	GO:0005623	cell	cell	Cells	C0007634
+39570	39582	GO:0009986	cell surface	cell surface	Cell surface	C0699040
+39647	39697	GO:0051643	consistent with an er localization of mutant aqp2.	endoplasmic reticulum localization		C1659461
+39712	39716	GO:0005623	cell	cell	Cells	C0007634
+39787	39808	GO:0005923	until tight junctions	zonula occludens	Tight Junctions	C0242358
+39836	39840	GO:0005623	cell	cell	Cells	C0007634
+39890	39894	GO:0005623	cell	cell	Cells	C0007634
+40065	40086	GO:0005783	endoplasmic reticulum	endoplasmic reticulum	Endoplasmic Reticulum	C0014239
+40217	40221	GO:0005623	cell	cell	Cells	C0007634
+40572	40576	GO:0005623	cell	cell	Cells	C0007634
+40710	40718	GO:0016020	membrane	membrane	Membrane	C0596901
+40725	40764	GO:0042571	immunoprecipitated with a gfp antibody.	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+40771	40779	GO:0016020	membrane	membrane	Membrane	C0596901
+40840	40864	GO:0042571	an antibody against aqp2	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+40934	40973	GO:0051179	the localization defect of mutant aqp2.	establishment and maintenance of localization		C1744691
+41133	41137	GO:0005623	cell	cell	Cells	C0007634
+41237	41241	GO:0005623	cell	cell	Cells	C0007634
+41386	41398	GO:0009986	cell surface	cell surface	Cell surface	C0699040
+41402	41406	GO:0005623	cell	cell	Cells	C0007634
+41493	41497	GO:0005623	cell	cell	Cells	C0007634
+41542	41546	GO:0005623	cell	cell	Cells	C0007634
+41584	41596	GO:0009986	cell surface	cell surface	Cell surface	C0699040

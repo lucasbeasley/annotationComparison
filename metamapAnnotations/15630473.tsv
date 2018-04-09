@@ -1,0 +1,607 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+0	19	GO:0007165	a signaling pathway	signal transduction	Signal Transduction	C0037083
+53	80	GO:0031069	hair follicle morphogenesis	hair follicle morphogenesis		C1523544
+113	126	GO:0048513	organogenesis	organogenesis	Organogenesis	C0242290
+128	196	GO:0007165	certain cells within a multipotent epithelial sheet exchange signals	signal transduction	Signal Transduction	C0037083
+258	295	GO:0009289	hair bud morphogenesis as a paradigm,	pilus	Bacterial Fimbria	C0031921
+396	409	GO:0005576	extracellular	extracellular	Extracellular	C0521119
+492	496	GO:0005623	cell	cell	Cells	C0007634
+535	541	GO:0040007	growth	growth	Growth	C0018270
+600	630	GO:0000988	the transcription factor snail	transcription factor activity		C1148759
+600	630	GO:0001070	the transcription factor snail	transcription factor activity		C1148759
+600	630	GO:0001071	the transcription factor snail	transcription factor activity		C1148759
+600	630	GO:0003700	the transcription factor snail	transcription factor activity		C1148759
+644	711	GO:0008284	the ras-mitogen-activated protein kinase (mapk) pathway in the bud.	stimulation of cell proliferation	Stimulation of Cell Proliferation	C1156237
+923	935	GO:0007165	in signaling	signal transduction	Signal Transduction	C0037083
+923	935	GO:0023052	in signaling	biological signaling		C3537152
+954	958	GO:0005623	cell	cell	Cells	C0007634
+1005	1034	GO:0008284	leads to ras-mapk activation.	stimulation of cell proliferation	Stimulation of Cell Proliferation	C1156237
+1087	1091	GO:0005623	cell	cell	Cells	C0007634
+1134	1147	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+1215	1229	GO:0009058	bud formation.	anabolism	Anabolism	C0220781
+1230	1258	GO:0007165	this novel signaling pathway	signal transduction	Signal Transduction	C0037083
+1330	1343	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+1364	1410	GO:0009297	hair bud formation within the developing skin.	pilus assembly		C1155942
+1436	1447	GO:0032502	development	development	Biologic Development	C0678723
+1461	1474	GO:0009653	morphogenesis	morphogenesis	Morphogenesis	C0026559
+1558	1562	GO:0005623	cell	cell	Cells	C0007634
+1603	1632	GO:0009058	the formation of many organs,	anabolism	Anabolism	C0220781
+1683	1697	GO:0009289	hair follicles	pilus	Bacterial Fimbria	C0031921
+1740	1744	GO:0005623	cell	cell	Cells	C0007634
+1786	1798	GO:0005605	basal lamina	basal lamina	Basal lamina	C0085872
+1881	1902	GO:0007114	budding morphogenesis	cell budding	Cell budding	C1155616
+2053	2059	GO:0040007	growth	growth	Growth	C0018270
+2126	2159	GO:0060349	bone morphogenic proteins (bmps),	bone morphogenesis		C2610491
+2173	2179	GO:0040007	growth	growth	Growth	C0018270
+2221	2227	GO:0040007	growth	growth	Growth	C0018270
+2244	2303	GO:0001775	through activation of cell surface transmembrane receptors,	cell activation		C1326120
+2304	2338	GO:0007165	these external signaling molecules	signal transduction	Signal Transduction	C0037083
+2304	2338	GO:0023052	these external signaling molecules	biological signaling		C3537152
+2347	2388	GO:0005622	distinct cascades of intracellular events	protoplasm	Protoplasm	C0175996
+2418	2433	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+2435	2441	GO:0040007	growth	growth	Growth	C0018270
+2447	2462	GO:0030154	differentiation	cell differentiation	Cell Differentiation process	C0007589
+2528	2548	GO:0007114	each budding process	cell budding	Cell budding	C1155616
+2569	2601	GO:0009653	a distinct morphogenetic program	morphogenesis	Morphogenesis	C0026559
+2676	2725	GO:0007389	patterned at the initial stages of bud formation,	pattern formation	Pattern Formation	C1160421
+2676	2725	GO:0003002	patterned at the initial stages of bud formation,	pattern formation	pattern formation during regionalization	C2828365
+2841	2845	GO:0005623	cell	cell	Cells	C0007634
+2872	2883	GO:0032502	development	development	Biologic Development	C0678723
+2941	2949	GO:0007610	behavior	behavior	Behavior	C0004927
+3090	3121	GO:0007155	adhesiveness of selected cells,	cell adhesion	Cell Adhesion	C0007577
+3170	3182	GO:0005605	basal lamina	basal lamina	Basal lamina	C0085872
+3190	3203	GO:0005576	extracellular	extracellular	Extracellular	C0521119
+3310	3314	GO:0005623	cell	cell	Cells	C0007634
+3406	3410	GO:0005623	cell	cell	Cells	C0007634
+3447	3461	GO:0009289	hair follicles	pilus	Bacterial Fimbria	C0031921
+3503	3528	GO:0009058	epithelial bud formation.	anabolism	Anabolism	C0220781
+3606	3610	GO:0005623	cell	cell	Cells	C0007634
+3620	3631	GO:0032502	development	development	Biologic Development	C0678723
+3657	3661	GO:0005623	cell	cell	Cells	C0007634
+3846	3850	GO:0005623	cell	cell	Cells	C0007634
+3910	3914	GO:0005623	cell	cell	Cells	C0007634
+3979	4020	GO:0009289	a permanent fixture of the hair follicle.	pilus	Bacterial Fimbria	C0031921
+4107	4113	GO:0040007	growth	growth	Growth	C0018270
+4166	4172	GO:0040007	growth	growth	Growth	C0018270
+4178	4257	GO:0030154	eventual differentiation into the six concentric layers of the mature follicle.	cell differentiation	Cell Differentiation process	C0007589
+4488	4501	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+4558	4624	GO:0007165	elicited through convergence of these two early signaling pathways	signal transduction	Signal Transduction	C0037083
+4633	4681	GO:0010468	down-regulation of the gene encoding e-cadherin,	regulation of gene expression	Gene Expression Regulation	C0017263
+4730	4788	GO:0016021	the transmembrane core of intercellular adherens junctions	integral to membrane		C1167322
+4886	4913	GO:0031069	hair follicle morphogenesis	hair follicle morphogenesis		C1523544
+4937	4968	GO:0050789	that e-cadherin down-regulation	regulation of biological process	Regulation of biological process	C1327622
+5024	5059	GO:0007114	necessary for budding morphogenesis	cell budding	Cell budding	C1155616
+5093	5115	GO:0005488	binds to beta-catenin.	binding	Binding 	C1167622
+5128	5132	GO:0005623	cell	cell	Cells	C0007634
+5172	5187	GO:0016342	catenin complex	catenin complex		C1167214
+5239	5283	GO:0030041	the associated actin polymerization dynamics	actin filament polymerization		C1155982
+5337	5349	GO:0005856	cytoskeleton	cytoskeleton	Cytoskeleton	C0010853
+5405	5434	GO:0005488	binds to the class iii lin-1,	binding	Binding 	C1167622
+5562	5638	GO:0008284	and in activation of the ras-mitogen-activated protein kinase (mapk) pathway	stimulation of cell proliferation	Stimulation of Cell Proliferation	C1156237
+5694	5729	GO:0005856	adhesion with cytoskeletal dynamics	cytoskeleton	Cytoskeleton	C0010853
+5758	5767	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+5885	5906	GO:0032502	developmental process	developmental process	Developmental process	C1511806
+6080	6100	GO:0008013	beta-catenin binding	beta-catenin binding		C1149162
+6093	6097	GO:0005488	bind	binding	Binding 	C1167622
+6167	6180	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+6244	6273	GO:0050789	down-regulation of e-cadherin	regulation of biological process	Regulation of biological process	C1327622
+6296	6332	GO:0001837	epithelial to mesenchymal transition	epithelial to mesenchymal transition		C1523298
+6407	6411	GO:0005623	cell	cell	Cells	C0007634
+6452	6465	GO:0009058	bud formation	anabolism	Anabolism	C0220781
+6563	6586	GO:0005912	that adhesive junctions	adherens junction	Adherens Junction	C0887872
+6714	6727	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+6920	6968	GO:0009297	briefly at an early stage of hair bud formation,	pilus assembly		C1155942
+6974	7000	GO:0050789	e-cadherin down-regulation	regulation of biological process	Regulation of biological process	C1327622
+7125	7131	GO:0040007	growth	growth	Growth	C0018270
+7136	7147	GO:0032502	maturation.	development	Biologic Development	C0678723
+7266	7301	GO:0009297	associated with hair bud formation,	pilus assembly		C1155942
+7312	7342	GO:0050789	down-regulation of e-cadherin,	regulation of biological process	Regulation of biological process	C1327622
+7382	7406	GO:0048468	terminal differentiation	terminal differentiation		C2752630
+7445	7460	GO:0009289	in the hair bud	pilus	Bacterial Fimbria	C0031921
+7512	7525	GO:0007165	wnt signaling	signal transduction	Signal Transduction	C0037083
+7512	7525	GO:0023052	wnt signaling	biological signaling		C3537152
+7608	7623	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+7712	7735	GO:0007567	gene targeting evidence	parturition	Birth	C0005615
+7712	7735	GO:0000003	gene targeting evidence	reproduction	Reproduction	C0035150
+7842	7851	GO:0007165	signaling	signal transduction	Signal Transduction	C0037083
+7842	7851	GO:0023052	signaling	biological signaling		C3537152
+7883	7898	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+7919	7956	GO:0007165	in the absence of tgf-beta2 signaling	signal transduction	Signal Transduction	C0037083
+7919	7956	GO:0023052	in the absence of tgf-beta2 signaling	biological signaling		C3537152
+7967	7982	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+7984	7997	GO:0009289	hair placodes	pilus	Bacterial Fimbria	C0031921
+8034	8040	GO:0040007	growth	growth	Growth	C0018270
+8125	8148	GO:0001708	cell fate specification	cell fate specification		C1160042
+8278	8337	GO:0031069	transiently at the hair bud stage of follicle morphogenesis	hair follicle morphogenesis		C1523544
+8471	8488	GO:0050789	a down-regulation	regulation of biological process	Regulation of biological process	C1327622
+8526	8548	GO:0005911	intercellular junction	intercellular junction	Intercellular Junctions	C0021721
+8569	8590	GO:0032502	developmental process	developmental process	Developmental process	C1511806
+8700	8740	GO:0009297	observed in hair follicle bud formation.	pilus assembly		C1155942
+8968	8995	GO:0031069	hair follicle morphogenesis	hair follicle morphogenesis		C1523544
+9126	9195	GO:0009790	transient snail mrna expression during a period of skin embryogenesis	embryo development	Embryonic Development	C0013936
+9201	9224	GO:0009289	waves of hair follicles	pilus	Bacterial Fimbria	C0031921
+9338	9347	GO:0007610	conducted	behavior	Behavior	C0004927
+9439	9457	GO:0009790	embryonic day 17.5	embryo development	Embryonic Development	C0013936
+9515	9528	GO:0009653	morphogenesis	morphogenesis	Morphogenesis	C0026559
+9678	9730	GO:0009289	detected within the epithelium of nascent hair buds.	pilus	Bacterial Fimbria	C0031921
+9790	9801	GO:0032502	development	development	Biologic Development	C0678723
+9931	9958	GO:0001541	during follicle development	ovarian follicle development	Ovarian follicle development	C1160267
+10054	10067	GO:0009653	morphogenesis	morphogenesis	Morphogenesis	C0026559
+10092	10131	GO:0009289	hybridizing hair buds from a later wave	pilus	Bacterial Fimbria	C0031921
+10321	10355	GO:0042571	an antibody against the n-terminal	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+10466	10478	GO:0042571	the antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+10560	10566	GO:0031672	A band	A band		C0230715
+10685	10697	GO:0042571	the antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+10714	10720	GO:0031672	A band	A band		C0230715
+10790	10827	GO:0009790	in lysates from embryonic mouse skin,	embryo development	Embryonic Development	C0013936
+10890	10917	GO:0031069	hair follicle morphogenesis	hair follicle morphogenesis		C1523544
+10945	10965	GO:0009289	over 90% of the hair	pilus	Bacterial Fimbria	C0031921
+11231	11235	GO:0005623	cell	cell	Cells	C0007634
+11263	11282	GO:0009289	to a hair cell fate	pilus	Bacterial Fimbria	C0031921
+11347	11389	GO:0042571	anti-snail antibody labeled only hair buds	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+11394	11444	GO:0048166	not follicles at more mature stages of development	mature follicle stage		C1326793
+11474	11497	GO:0042571	the anti-snail antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+11513	11545	GO:0006605	specific for its target protein.	protein targeting	Protein Targeting	C1159372
+11762	11810	GO:0009289	transient snail expression at the hair bud stage	pilus	Bacterial Fimbria	C0031921
+11878	11923	GO:0005634	localized to the nuclei of the hair bud cells	cell nucleus	Cell Nucleus	C0007610
+11998	12011	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+12130	12143	GO:0009653	morphogenesis	morphogenesis	Morphogenesis	C0026559
+12159	12191	GO:0009289	found in the buds of guard hairs	pilus	Bacterial Fimbria	C0031921
+12201	12226	GO:0009289	the earliest of all hairs	pilus	Bacterial Fimbria	C0031921
+12352	12415	GO:0042571	with antibodies against the proliferating nuclear antigen ki67,	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+12541	12547	GO:0040007	growth	growth	Growth	C0018270
+12561	12597	GO:0042571	immunohistochemistry with antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+12708	12712	GO:0005623	cell	cell	Cells	C0007634
+12734	12738	GO:0005623	cell	cell	Cells	C0007634
+12745	12769	GO:0009289	enriched in the hair bud	pilus	Bacterial Fimbria	C0031921
+12826	12858	GO:0009289	pmapk enrichment in the hair bud	pilus	Bacterial Fimbria	C0031921
+12941	12975	GO:0009289	initiate in the hair placode stage	pilus	Bacterial Fimbria	C0031921
+13006	13015	GO:0009289	hair buds	pilus	Bacterial Fimbria	C0031921
+13026	13066	GO:0050789	down-regulation in e-cadherin expression	regulation of biological process	Regulation of biological process	C1327622
+13079	13082	GO:0007601	see	vision	Vision	C0042789
+13169	13209	GO:0030154	differentiation defects in tg mouse skin	cell differentiation	Cell Differentiation process	C0007589
+13250	13284	GO:0009297	coincident with hair bud formation	pilus assembly		C1155942
+13522	13535	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+13714	13718	GO:0005623	cell	cell	Cells	C0007634
+13736	13756	GO:0007567	shortly after birth.	parturition	Birth	C0005615
+13807	13829	GO:0015074	transgene integrations	DNA integration	DNA Integration	C1158478
+13876	13891	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+14001	14024	GO:0007567	within a year of birth.	parturition	Birth	C0005615
+14476	14498	GO:0042571	revealed by antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+14592	14596	GO:0005623	cell	cell	Cells	C0007634
+14661	14665	GO:0005623	cell	cell	Cells	C0007634
+14828	14852	GO:0048468	terminal differentiation	terminal differentiation		C2752630
+15200	15203	GO:0007601	see	vision	Vision	C0042789
+15271	15283	GO:0007369	gastrulation	gastrulation	Gastrulation	C0259902
+15350	15366	GO:0043588	skin development	skin development		C1655760
+15563	15578	GO:0030154	differentiation	cell differentiation	Cell Differentiation process	C0007589
+15821	15845	GO:0016538	; anti-cyclin d staining	cyclin-dependent protein kinase regulator activity		C1150565
+15922	15939	GO:0005604	basement membrane	basement membrane	Basement membrane	C0004799
+15987	16011	GO:0042571	observed with antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+16038	16051	GO:0030056	hemidesmosome	hemidesmosome	Hemidesmosomes	C0230616
+16068	16108	GO:0007155	strong adhesion of basal epidermal cells	cell adhesion	Cell Adhesion	C0007577
+16127	16139	GO:0005605	basal lamina	basal lamina	Basal lamina	C0085872
+16217	16234	GO:0005604	basement membrane	basement membrane	Basement membrane	C0004799
+16235	16263	GO:0009289	in the hair bud of embryonic	pilus	Bacterial Fimbria	C0031921
+16333	16350	GO:0005604	basement membrane	basement membrane	Basement membrane	C0004799
+16609	16639	GO:0050789	down-regulation of aj proteins	regulation of biological process	Regulation of biological process	C1327622
+16786	16831	GO:0009289	down-regulated in snail-expressing hair buds,	pilus	Bacterial Fimbria	C0031921
+16873	16952	GO:0005915	other aj proteins within regions of hyperproliferative epidermis where tg snail	zonula adherens	Zonula Adherens	C0230613
+17095	17129	GO:0042571	the intensity of antibody staining	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+17138	17156	GO:0005915	other aj proteins,	zonula adherens	Zonula Adherens	C0230613
+17263	17291	GO:0051179	localization of beta-catenin	establishment and maintenance of localization		C1744691
+17325	17334	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+17352	17356	GO:0005623	cell	cell	Cells	C0007634
+17998	18011	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+18037	18066	GO:0005915	perturbations in aj formation	zonula adherens	Zonula Adherens	C0230613
+18104	18119	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+18435	18439	GO:0005623	cell	cell	Cells	C0007634
+18501	18570	GO:0051674	not only enabled cell-cell border localization of e-cadherin protein,	localization of cell		C1660153
+18592	18596	GO:0005623	cell	cell	Cells	C0007634
+18700	18735	GO:0051179	localization under these conditions	establishment and maintenance of localization		C1744691
+18894	18944	GO:0006412	required for the translation of alpha-catenin mrna	protein biosynthesis	Protein Biosynthesis	C0597295
+18952	18989	GO:0005915	despite the reductions in aj markers,	zonula adherens	Zonula Adherens	C0230613
+19021	19029	GO:0016020	membrane	membrane	Membrane	C0596901
+19035	19057	GO:0005911	intercellular junction	intercellular junction	Intercellular Junctions	C0021721
+19190	19211	GO:0009289	that of the hair bud,	pilus	Bacterial Fimbria	C0031921
+19218	19258	GO:0050789	the down-regulation in junction proteins	regulation of biological process	Regulation of biological process	C1327622
+19277	19281	GO:0005623	cell	cell	Cells	C0007634
+19390	19399	GO:0009289	hair buds	pilus	Bacterial Fimbria	C0031921
+19471	19505	GO:0050789	the down-regulation of aj proteins	regulation of biological process	Regulation of biological process	C1327622
+19602	19605	GO:0007601	see	vision	Vision	C0042789
+19906	19910	GO:0005623	cell	cell	Cells	C0007634
+20050	20074	GO:0005915	an aj-associated protein	zonula adherens	Zonula Adherens	C0230613
+20111	20126	GO:0005886	plasma membrane	plasma membrane	Plasma membrane	C0007603
+20131	20179	GO:0007165	participate in a proliferation signaling pathway	signal transduction	Signal Transduction	C0037083
+20242	20273	GO:0050789	a down-regulation of e-cadherin	regulation of biological process	Regulation of biological process	C1327622
+20311	20325	GO:0005634	to the nucleus	cell nucleus	Cell Nucleus	C0007610
+20332	20347	GO:2000144	transactivation	transactivation	Trans-Activation, Genetic	C0040624
+20391	20395	GO:0005623	cell	cell	Cells	C0007634
+20452	20484	GO:0016538	the presence of nuclear cyclin d	cyclin-dependent protein kinase regulator activity		C1150565
+20579	20654	GO:0016538	reported cyclin d gene as a direct target of tcf/beta-catenin transcription	cyclin-dependent protein kinase regulator activity		C1150565
+20736	20742	GO:0009291	mating	unidirectional conjugation		C1160186
+20736	20742	GO:0007618	mating	mating		C1260875
+20736	20742	GO:0000747	mating	conjugation with cellular fusion		C1748461
+20736	20742	GO:1990277	mating	parasexual conjugation with cellular fusion		C3812685
+20912	20921	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+21060	21064	GO:0005488	bind	binding	Binding 	C1167622
+21115	21121	GO:0040007	growth	growth	Growth	C0018270
+21232	21267	GO:0000187	is upstream from activation of mapk	activation of MAPK activity		C1155551
+21384	21391	GO:0005488	binding	binding	Binding 	C1167622
+21953	21982	GO:0050789	down-regulation of e-cadherin	regulation of biological process	Regulation of biological process	C1327622
+22294	22328	GO:0000187	activation of the ras-mapk pathway	activation of MAPK activity		C1155551
+22616	22620	GO:0005623	cell	cell	Cells	C0007634
+22733	22736	GO:0007601	see	vision	Vision	C0042789
+22764	22786	GO:0003904	ajuba's pre-lim domain	photoreactivating enzyme activity		C2257086
+23126	23133	GO:0005829	cytosol	cytosol	Cytoplasmic matrix	C1383501
+23150	23172	GO:0003904	ajuba's pre-lim domain	photoreactivating enzyme activity		C2257086
+23267	23311	GO:0000187	leads to activation of the ras-mapk pathway.	activation of MAPK activity		C1155551
+23636	23675	GO:0010468	the regulation of snail gene expression	regulation of gene expression	Gene Expression Regulation	C0017263
+23684	23724	GO:0007165	an essential link to tgf-beta2 signaling	signal transduction	Signal Transduction	C0037083
+23684	23724	GO:0023052	an essential link to tgf-beta2 signaling	biological signaling		C3537152
+23725	23751	GO:0009289	in the developing hair bud	pilus	Bacterial Fimbria	C0031921
+23797	23812	GO:0009289	in the hair bud	pilus	Bacterial Fimbria	C0031921
+23870	23885	GO:0007567	the snail gene.	parturition	Birth	C0005615
+23870	23885	GO:0000003	the snail gene.	reproduction	Reproduction	C0035150
+23899	23912	GO:0005576	extracellular	extracellular	Extracellular	C0521119
+23943	23947	GO:0005623	cell	cell	Cells	C0007634
+24081	24101	GO:0009289	hair bud development	pilus	Bacterial Fimbria	C0031921
+24178	24185	GO:0032940	secrete	secretion by cell	Cell secretion	C1327616
+24208	24211	GO:0007601	see	vision	Vision	C0042789
+24260	24278	GO:0007165	tgf-beta signaling	signal transduction	Signal Transduction	C0037083
+24260	24278	GO:0023052	tgf-beta signaling	biological signaling		C3537152
+24333	24337	GO:0005623	cell	cell	Cells	C0007634
+24622	24667	GO:0002524	a lef-1/beta-catenin-sensitive reporter gene,	hypersensitivity	Hypersensitivity	C0020517
+24804	24841	GO:0009289	noggin in hair follicle specification	pilus	Bacterial Fimbria	C0031921
+25116	25122	GO:0040007	growth	growth	Growth	C0018270
+25162	25212	GO:0044851	the destructive phase of the cycling hair follicle	hair cycle phase		C3893362
+25253	25293	GO:0007567	generated in each of the tgf-beta genes,	parturition	Birth	C0005615
+25253	25293	GO:0000003	generated in each of the tgf-beta genes,	reproduction	Reproduction	C0035150
+25299	25374	GO:0001942	the tgf-beta2 null state blocked follicle development at the hair bud stage	hair follicle development		C1622381
+25567	25571	GO:0005623	cell	cell	Cells	C0007634
+25628	25632	GO:0005623	cell	cell	Cells	C0007634
+25734	25742	GO:0007610	behavior	behavior	Behavior	C0004927
+26118	26124	GO:0040007	growth	growth	Growth	C0018270
+26269	26297	GO:0036363	tgf-beta receptor activation	transforming growth factor beta activation		C3549171
+26384	26399	GO:0016310	phosphorylation	phosphorylation	Phosphorylation	C0031715
+26384	26458	GO:0006468	measured by the sustained phosphorylation of the downstream effector smad2	protein phosphorylation	Protein phosphorylation	C1158886
+26776	26808	GO:0002524	sensitive to tgf-beta2 signaling	hypersensitivity	Hypersensitivity	C0020517
+26997	27010	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+27551	27586	GO:0007601	seen in unstimulated keratinocytes.	vision	Vision	C0042789
+27870	27882	GO:0046332	SMAD binding	SMAD binding		C1149356
+27930	27943	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+28031	28120	GO:0036365	tgf-beta2 signaling results in a psmad2-dependent transient activation of the snail gene,	transforming growth factor beta2 activation		C3549169
+28211	28236	GO:0007567	the brevity of snail gene	parturition	Birth	C0005615
+28211	28236	GO:0000003	the brevity of snail gene	reproduction	Reproduction	C0035150
+28384	28411	GO:0031069	hair follicle morphogenesis	hair follicle morphogenesis		C1523544
+28412	28436	GO:0009790	in embryonic mouse skin.	embryo development	Embryonic Development	C0013936
+28501	28522	GO:0009297	in hair bud formation	pilus assembly		C1155942
+28585	28608	GO:0009289	or around the hair bud.	pilus	Bacterial Fimbria	C0031921
+28653	28708	GO:0042571	an anti-tgf-beta2 antibody labeled developing hair buds	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+28891	28938	GO:0007165	the downstream effector of tgf-beta2 signaling,	signal transduction	Signal Transduction	C0037083
+28891	28938	GO:0023052	the downstream effector of tgf-beta2 signaling,	biological signaling		C3537152
+28977	29006	GO:0009289	not tgf-beta2-null, hair buds	pilus	Bacterial Fimbria	C0031921
+29133	29166	GO:0009289	tgf-beta2 in developing hair buds	pilus	Bacterial Fimbria	C0031921
+29296	29324	GO:0009289	in tgf-beta2-null hair buds.	pilus	Bacterial Fimbria	C0031921
+29378	29426	GO:0009790	absent from e17.5 skin of tgf-beta2-null embryos	embryo development	Embryonic Development	C0013936
+29523	29536	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+29578	29611	GO:0009289	found in tgf-beta2 null hair buds	pilus	Bacterial Fimbria	C0031921
+29661	29705	GO:0009289	detected in the hair buds of littermate skin	pilus	Bacterial Fimbria	C0031921
+29777	29812	GO:0007165	elevated tgf-beta signaling in skin	signal transduction	Signal Transduction	C0037083
+29777	29812	GO:0023052	elevated tgf-beta signaling in skin	biological signaling		C3537152
+30052	30067	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+30068	30120	GO:0009289	in a psmad-dependent manner in developing hair buds.	pilus	Bacterial Fimbria	C0031921
+30235	30249	GO:0009289	some hair buds	pilus	Bacterial Fimbria	C0031921
+30366	30397	GO:0007165	mediated by tgf-beta2 signaling	signal transduction	Signal Transduction	C0037083
+30366	30397	GO:0023052	mediated by tgf-beta2 signaling	biological signaling		C3537152
+30495	30508	GO:0009653	morphogenesis	morphogenesis	Morphogenesis	C0026559
+30539	30556	GO:0005604	basement membrane	basement membrane	Basement membrane	C0004799
+30645	30684	GO:0042571	with antibodies against beta4 integrin,	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+30759	30776	GO:0005604	basement membrane	basement membrane	Basement membrane	C0004799
+30803	30822	GO:0007165	tgf-beta2 signaling	signal transduction	Signal Transduction	C0037083
+30803	30822	GO:0023052	tgf-beta2 signaling	biological signaling		C3537152
+30891	30926	GO:0009289	occurs in the developing hair buds,	pilus	Bacterial Fimbria	C0031921
+31117	31140	GO:0010467	the expression of genes	gene expression	Gene Expression	C0017262
+31234	31253	GO:0007567	the e-cadherin gene	parturition	Birth	C0005615
+31234	31253	GO:0000003	the e-cadherin gene	reproduction	Reproduction	C0035150
+31351	31383	GO:0009289	hair buds in tgf-beta2 null skin	pilus	Bacterial Fimbria	C0031921
+31527	31540	GO:0005576	extracellular	extracellular	Extracellular	C0521119
+31568	31641	GO:1990907	required for the generation of a lef-1/beta-catenin transcription complex	beta-catenin/LEF complex		C4231707
+31664	31677	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+31809	31835	GO:0051179	beta-catenin localization,	establishment and maintenance of localization		C1744691
+31847	31879	GO:0016055	the wnt-noggin signaling pathway	Wnt signaling pathway	Wnt Signaling Pathway	C1520113
+31923	31950	GO:0031069	hair follicle morphogenesis	hair follicle morphogenesis		C1523544
+31972	32035	GO:0009289	subsequently to wnt/noggin-mediated determination of hair fate.	pilus	Bacterial Fimbria	C0031921
+32074	32089	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+32270	32299	GO:0007114	during budding morphogenesis,	cell budding	Cell budding	C1155616
+32313	32351	GO:0007165	signaling networks from the epithelium	signal transduction	Signal Transduction	C0037083
+32313	32351	GO:0023052	signaling networks from the epithelium	biological signaling		C3537152
+32374	32387	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+32415	32423	GO:0048870	motility	cell motility		C0007608
+32459	32463	GO:0005623	cell	cell	Cells	C0007634
+32490	32497	GO:0005829	cytosol	cytosol	Cytoplasmic matrix	C1383501
+32572	32585	GO:0009653	morphogenesis	morphogenesis	Morphogenesis	C0026559
+32651	32679	GO:0007114	a particular budding process	cell budding	Cell budding	C1155616
+32769	32773	GO:0005623	cell	cell	Cells	C0007634
+32807	32871	GO:0007165	these signals into the downstream events of cellular remodeling,	signal transduction	Signal Transduction	C0037083
+32891	32907	GO:0030154	differentiation.	cell differentiation	Cell Differentiation process	C0007589
+32973	33011	GO:0009297	orchestrated during hair bud formation	pilus assembly		C1155942
+33033	33083	GO:0007165	signaling during early hair follicle morphogenesis	signal transduction	Signal Transduction	C0037083
+33085	33125	GO:0009289	recent studies on hair bud morphogenesis	pilus	Bacterial Fimbria	C0031921
+33266	33294	GO:0005667	transcription factor complex	transcription factor complex		C1167128
+33374	33396	GO:0009289	the hair follicle fate	pilus	Bacterial Fimbria	C0031921
+33449	33458	GO:0007165	signaling	signal transduction	Signal Transduction	C0037083
+33449	33458	GO:0023052	signaling	biological signaling		C3537152
+33497	33510	GO:0009653	morphogenesis	morphogenesis	Morphogenesis	C0026559
+33604	33618	GO:0009289	some hair buds	pilus	Bacterial Fimbria	C0031921
+33730	33747	GO:0009289	(i.e., guard hair	pilus	Bacterial Fimbria	C0031921
+33749	33762	GO:0009653	morphogenesis	morphogenesis	Morphogenesis	C0026559
+33814	33822	GO:0009289	of hairs	pilus	Bacterial Fimbria	C0031921
+33865	33876	GO:0009289	guard hairs	pilus	Bacterial Fimbria	C0031921
+33970	34011	GO:0007114	snail at the budding stage of development	cell budding	Cell budding	C1155616
+34050	34074	GO:0009289	regulated in guard hairs	pilus	Bacterial Fimbria	C0031921
+34196	34217	GO:0000988	transcription factors	transcription factor activity		C1148759
+34196	34217	GO:0001070	transcription factors	transcription factor activity		C1148759
+34196	34217	GO:0001071	transcription factors	transcription factor activity		C1148759
+34196	34217	GO:0003700	transcription factors	transcription factor activity		C1148759
+34398	34419	GO:0007165	the signaling pathway	signal transduction	Signal Transduction	C0037083
+34550	34560	GO:0007049	cell cycle	cell cycle	Cell Cycle	C0007586
+34550	34569	GO:0000278	from the cell cycle	mitotic cell cycle	Mitotic Cell Cycle	C1155839
+34652	34695	GO:0044851	destructive phases of the adult hair cycle,	hair cycle phase		C3893362
+34786	34792	GO:0040007	growth	growth	Growth	C0018270
+34811	34820	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+34811	34820	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+34912	34966	GO:0009289	an extended growing phase of postnatal hair follicles,	pilus	Bacterial Fimbria	C0031921
+34996	35042	GO:0009790	an embryonic block in follicle bud progression	embryo development	Embryonic Development	C0013936
+35076	35133	GO:0009790	consistent with tgf-beta2's embryonic expression patterns	embryo development	Embryonic Development	C0013936
+35211	35217	GO:0040007	growth	growth	Growth	C0018270
+35394	35409	GO:0000187	mapk activation	activation of MAPK activity		C1155551
+35446	35513	GO:0009289	that hair follicle keratinocytes at this early stage of development	pilus	Bacterial Fimbria	C0031921
+35514	35542	GO:0007165	react to tgf-beta2 signaling	signal transduction	Signal Transduction	C0037083
+35514	35542	GO:0023052	react to tgf-beta2 signaling	biological signaling		C3537152
+35665	35708	GO:0007165	the immediate steps of downstream signaling	signal transduction	Signal Transduction	C0037083
+35665	35708	GO:0023052	the immediate steps of downstream signaling	biological signaling		C3537152
+35818	35867	GO:0007567	in the repertoire of activated smad target genes.	parturition	Birth	C0005615
+35818	35867	GO:0000003	in the repertoire of activated smad target genes.	reproduction	Reproduction	C0035150
+35918	35954	GO:0009289	on proliferation within the hair bud	pilus	Bacterial Fimbria	C0031921
+35994	36040	GO:0007601	seen in progression of squamous cell carcinoma	vision	Vision	C0042789
+36137	36179	GO:0007567	the prior identification of the snail gene	parturition	Birth	C0005615
+36137	36179	GO:0000003	the prior identification of the snail gene	reproduction	Reproduction	C0035150
+36180	36223	GO:0007165	as a potential target of tgf-beta signaling	signal transduction	Signal Transduction	C0037083
+36180	36223	GO:0023052	as a potential target of tgf-beta signaling	biological signaling		C3537152
+36278	36293	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+36299	36333	GO:0009289	occurs in the developing hair bud.	pilus	Bacterial Fimbria	C0031921
+36587	36621	GO:0009289	abolished in the mutant hair buds,	pilus	Bacterial Fimbria	C0031921
+36894	36921	GO:0031069	hair follicle morphogenesis	hair follicle morphogenesis		C1523544
+37070	37106	GO:0001837	epithelial to mesenchymal transition	epithelial to mesenchymal transition		C1523298
+37206	37233	GO:0031069	hair follicle morphogenesis	hair follicle morphogenesis		C1523544
+37258	37304	GO:0009289	the sparsity in hair coat of k14-snail tg mice	pilus	Bacterial Fimbria	C0031921
+37335	37356	GO:0009058	in follicle formation	anabolism	Anabolism	C0220781
+37358	37361	GO:0007601	see	vision	Vision	C0042789
+37420	37429	GO:0009289	all hairs	pilus	Bacterial Fimbria	C0031921
+37494	37549	GO:0001541	contribute to the seemingly normal follicle development	ovarian follicle development	Ovarian follicle development	C1160267
+37663	37712	GO:0035618	the outer root sheath (ors) of the hair follicle,	root hair	root hair 	C3158803
+37729	37777	GO:0009790	down-regulated in developing embryonic hair buds	embryo development	Embryonic Development	C0013936
+37778	37828	GO:0070451	as well as in the postnatal hair progenitor cells.	cell hair		C2678510
+38176	38189	GO:0005915	aj formation,	zonula adherens	Zonula Adherens	C0230613
+38376	38400	GO:0007165	links between signaling,	signal transduction	Signal Transduction	C0037083
+38376	38400	GO:0023052	links between signaling,	biological signaling		C3537152
+38401	38414	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+38454	38483	GO:0009289	proliferation in the hair bud	pilus	Bacterial Fimbria	C0031921
+38529	38556	GO:0031069	hair follicle morphogenesis	hair follicle morphogenesis		C1523544
+38569	38584	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+38657	38661	GO:0005623	cell	cell	Cells	C0007634
+38770	38798	GO:0005667	transcription factor complex	transcription factor complex		C1167128
+38863	38870	GO:0005488	binding	binding	Binding 	C1167622
+39041	39056	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+39337	39367	GO:0009790	in noggin-null embryonic skin,	embryo development	Embryonic Development	C0013936
+39389	39450	GO:0007567	subsequent activation of the lef-1/beta-catenin reporter gene	parturition	Birth	C0005615
+39389	39450	GO:0000003	subsequent activation of the lef-1/beta-catenin reporter gene	reproduction	Reproduction	C0035150
+39492	39547	GO:0050789	the corresponding failure of e-cadherin down-regulation	regulation of biological process	Regulation of biological process	C1327622
+39560	39598	GO:0007165	the importance of wnt/noggin signaling	signal transduction	Signal Transduction	C0037083
+39560	39598	GO:0023052	the importance of wnt/noggin signaling	biological signaling		C3537152
+39636	39649	GO:0009653	morphogenesis	morphogenesis	Morphogenesis	C0026559
+39655	39689	GO:0007567	conditional gene targeting studies	parturition	Birth	C0005615
+39655	39689	GO:0000003	conditional gene targeting studies	reproduction	Reproduction	C0035150
+39755	39788	GO:0050789	contribute to the down-regulation	regulation of biological process	Regulation of biological process	C1327622
+39803	39818	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+39824	39857	GO:0009058	occurs during follicle formation.	anabolism	Anabolism	C0220781
+39931	39972	GO:0050789	down-regulation in e-cadherin expression,	regulation of biological process	Regulation of biological process	C1327622
+40133	40160	GO:0031069	hair follicle morphogenesis	hair follicle morphogenesis		C1523544
+40224	40254	GO:0007601	seen in the k14-snail tg skin,	vision	Vision	C0042789
+40314	40347	GO:0009289	snail in tgf-beta2-null hair buds	pilus	Bacterial Fimbria	C0031921
+40373	40406	GO:0050789	the down-regulation of e-cadherin	regulation of biological process	Regulation of biological process	C1327622
+40423	40436	GO:0009653	morphogenesis	morphogenesis	Morphogenesis	C0026559
+40510	40514	GO:0005623	cell	cell	Cells	C0007634
+40566	40603	GO:0050789	through its regulation of e-cadherin,	regulation of biological process	Regulation of biological process	C1327622
+40631	40699	GO:0005915	the subcellular localization of a variety of aj-associated proteins.	zonula adherens	Zonula Adherens	C0230613
+40790	40794	GO:0005488	bind	binding	Binding 	C1167622
+41168	41211	GO:0000187	elevated activation of the ras-mapk pathway	activation of MAPK activity		C1155551
+41256	41305	GO:0005915	under conditions of reduced levels of aj proteins	zonula adherens	Zonula Adherens	C0230613
+41435	41439	GO:0005623	cell	cell	Cells	C0007634
+41477	41487	GO:0007049	cell cycle	cell cycle	Cell Cycle	C0007586
+41477	41499	GO:0000278	cell cycle progression	mitotic cell cycle	Mitotic Cell Cycle	C1155839
+41512	41520	GO:0048870	motility	cell motility		C0007608
+41611	41632	GO:0048870	for snail in motility	cell motility		C0007608
+41806	41810	GO:0005623	cell	cell	Cells	C0007634
+41979	41983	GO:0005623	cell	cell	Cells	C0007634
+42194	42226	GO:0050789	a down-regulation in aj proteins	regulation of biological process	Regulation of biological process	C1327622
+42366	42401	GO:0050789	upon down-regulation of aj proteins	regulation of biological process	Regulation of biological process	C1327622
+42590	42594	GO:0005623	cell	cell	Cells	C0007634
+42627	42638	GO:0032502	development	development	Biologic Development	C0678723
+42743	42756	GO:0009653	morphogenesis	morphogenesis	Morphogenesis	C0026559
+42935	42961	GO:0007048	awry during tumorigenesis.	oncogenesis	Neoplastic Cell Transformation	C0007621
+42998	43016	GO:0042571	primary antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+43531	43547	GO:0007165	(cell signaling,	signal transduction	Signal Transduction	C0037083
+43761	43769	GO:0045099	vimentin	vimentin	vimentin location	C1325833
+43761	43769	GO:0045098	vimentin	vimentin	vimentin location	C1325833
+43962	43968	GO:0016538	cyclin	cyclin-dependent protein kinase regulator activity		C1150565
+43972	43981	GO:0007048	oncogene,	oncogenesis	Neoplastic Cell Transformation	C0007621
+44124	44159	GO:0000746	hrp-conjugated secondary antibodies	conjugation		C1160466
+44236	44269	GO:0042571	biotinylated secondary antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+44396	44414	GO:0042571	the snail antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+45008	45044	GO:0005634	injected into the nucleus of embryos	cell nucleus	Cell Nucleus	C0007610
+45365	45369	GO:0005623	cell	cell	Cells	C0007634
+45371	45386	GO:0019835	in lysis buffer	cytolysis	pathologic cytolysis	C1536403
+45908	45912	GO:0005623	cell	cell	Cells	C0007634
+46216	46239	GO:0042571	incubated with antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+46417	46438	GO:0019835	each in lysis buffer,	cytolysis	pathologic cytolysis	C1536403
+46443	46490	GO:0042571	the protein g sepharose-antibody-antigen pellet	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+46611	46619	GO:0016020	membrane	membrane	Membrane	C0596901
+46736	46784	GO:0005020	the enhanced chemiluminescence kit from amersham	stem cell factor receptor activity		C1150635
+46786	46790	GO:0005623	cell	cell	Cells	C0007634
+47073	47119	GO:0045289	luciferase levels in promoter activity studies	luciferin monooxygenase activity		C1151115
+47133	47168	GO:0005020	out with the galacto-lite assay kit	stem cell factor receptor activity		C1150635
+47343	47347	GO:0005623	cell	cell	Cells	C0007634
+47581	47596	GO:0016310	phosphorylation	phosphorylation	Phosphorylation	C0031715
+47581	47605	GO:0006468	phosphorylation of mapk,	protein phosphorylation	Protein phosphorylation	C1158886
+47670	47674	GO:0005623	cell	cell	Cells	C0007634
+47728	47732	GO:0005623	cell	cell	Cells	C0007634
+48115	48151	GO:0005020	purified with the gel extraction kit	stem cell factor receptor activity		C1150635
+48498	48510	GO:0046332	SMAD binding	SMAD binding		C1149356
+48523	48557	GO:0005020	generated with the quik-change kit	stem cell factor receptor activity		C1150635
+49065	49092	GO:0003904	the pre-lim domain of ajuba	photoreactivating enzyme activity		C2257086
+49353	49378	GO:0007600	digoxigenin-labeled sense	sensory perception	Esthesia	C0036658
+49467	49476	GO:0007586	digestion	digestion	Digestion	C0012238
+49507	49565	GO:0009790	performed on 10-mum thick sections of e17.5 mouse embryos.	embryo development	Embryonic Development	C0013936
+49708	49711	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+49772	49809	GO:0042571	treated with anti-dig fab-ap antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+50173	50197	GO:0042571	stained with antibodies.	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+50397	50411	GO:0042571	with antibody.	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+50459	50467	GO:0016538	cyclin d	cyclin-dependent protein kinase regulator activity		C1150565
+50598	50619	GO:0005020	the dab substrate kit	stem cell factor receptor activity		C1150635
+50881	50903	GO:0005020	the superscript ii kit	stem cell factor receptor activity		C1150635
+51214	51231	GO:0042571	their antibodies,	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+51960	51982	GO:0005915	aj - adherens junction	zonula adherens	Zonula Adherens	C0230613
+51984	52014	GO:0060349	bmp - bone morphogenic protein	bone morphogenesis		C2610491
+52022	52058	GO:0001837	epithelial to mesenchymal transition	epithelial to mesenchymal transition		C1523298
+52068	52085	GO:0009790	] - embryonic day	embryo development	Embryonic Development	C0013936
+52113	52119	GO:0040007	growth	growth	Growth	C0018270
+52136	52142	GO:0040007	growth	growth	Growth	C0018270
+52291	52330	GO:0008284	mapk - mitogen-activated protein kinase	stimulation of cell proliferation	Stimulation of Cell Proliferation	C1156237
+52608	52612	GO:0005623	cell	cell	Cells	C0007634
+52662	52668	GO:0040007	growth	growth	Growth	C0018270
+52802	52829	GO:0009289	exclusively in the hair bud	pilus	Bacterial Fimbria	C0031921
+52837	52850	GO:0009653	morphogenesis	morphogenesis	Morphogenesis	C0026559
+52852	52859	GO:0009790	embryos	embryo development	Embryonic Development	C0013936
+52994	53033	GO:0007600	in situ hybridizations with snail sense	sensory perception	Esthesia	C0036658
+53093	53110	GO:0005604	basement membrane	basement membrane	Basement membrane	C0004799
+53165	53202	GO:0006351	arrows point to snail rna expression,	transcription	Transcription, Genetic	C0040649
+53203	53262	GO:0031069	restricted to the hair bud stage of follicle morphogenesis.	hair follicle morphogenesis		C1523544
+53274	53297	GO:0007601	seen in later hair germ	vision	Vision	C0042789
+53346	53378	GO:0009289	coincides with hair development.	pilus	Bacterial Fimbria	C0031921
+53917	53939	GO:0005634	in the nuclei of cells	cell nucleus	Cell Nucleus	C0007610
+53940	53955	GO:0009289	within the hair	pilus	Bacterial Fimbria	C0031921
+54084	54088	GO:0005623	cell	cell	Cells	C0007634
+54103	54123	GO:0009289	a hair follicle fate	pilus	Bacterial Fimbria	C0031921
+54140	54144	GO:0005623	cell	cell	Cells	C0007634
+54218	54229	GO:0032502	development	development	Biologic Development	C0678723
+54244	54283	GO:0009289	expressed in the hair bud of e17.5 skin	pilus	Bacterial Fimbria	C0031921
+54311	54322	GO:0032502	development	development	Biologic Development	C0678723
+54424	54428	GO:0005623	cell	cell	Cells	C0007634
+54494	54520	GO:0009289	developing hair follicles.	pilus	Bacterial Fimbria	C0031921
+54630	54634	GO:0005623	cell	cell	Cells	C0007634
+54663	54680	GO:0005604	basement membrane	basement membrane	Basement membrane	C0004799
+54814	54818	GO:0005623	cell	cell	Cells	C0007634
+54845	54854	GO:0009289	hair bud.	pilus	Bacterial Fimbria	C0031921
+54879	54919	GO:0009289	consistently robust within the hair bud.	pilus	Bacterial Fimbria	C0031921
+54993	55010	GO:0005604	basement membrane	basement membrane	Basement membrane	C0004799
+55101	55105	GO:0005623	cell	cell	Cells	C0007634
+55804	55824	GO:0007631	reduced food intake.	eating	Eating	C0013470
+56039	56074	GO:0048820	a mature hair follicle (hf) at left	hair follicle maturation		C1820245
+56157	56180	GO:0042571	labeled with antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+56181	56190	GO:0000785	as color-	chromatin	chromatin location	C1325550
+56555	56573	GO:0042571	g) with antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+56829	56845	GO:0042571	other antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+57024	57028	GO:0005623	cell	cell	Cells	C0007634
+57090	57094	GO:0005623	cell	cell	Cells	C0007634
+57136	57140	GO:0005623	cell	cell	Cells	C0007634
+57184	57226	GO:0030154	alterations in the differentiation program	cell differentiation	Cell Differentiation process	C0007589
+57231	57261	GO:0071711	basement membrane organization	basement membrane organization		C2754918
+57484	57507	GO:0042571	labeled with antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+57525	57531	GO:0000785	color-	chromatin	chromatin location	C1325550
+57552	57562	GO:0042571	antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+57563	57619	GO:0009913	are against markers of normal epidermal differentiation,	epidermal cell differentiation		C1159892
+57719	57723	GO:0005623	cell	cell	Cells	C0007634
+57769	57787	GO:0001533	cornified envelope	cornified envelope		C1166776
+57838	57842	GO:0005623	cell	cell	Cells	C0007634
+57863	57881	GO:0001533	cornified envelope	cornified envelope		C1166776
+57967	57983	GO:0045095	keratin filament	keratin filament	keratin filament location	C1166778
+58126	58130	GO:0005623	cell	cell	Cells	C0007634
+58285	58299	GO:0042571	the antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+58554	58588	GO:0016538	of nuclear anti-cyclin d staining.	cyclin-dependent protein kinase regulator activity		C1150565
+58674	58691	GO:0005604	basement membrane	basement membrane	Basement membrane	C0004799
+58696	58723	GO:0042571	judged by antibody labeling	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+58739	58756	GO:0005604	basement membrane	basement membrane	Basement membrane	C0004799
+59281	59291	GO:0042571	antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+59297	59320	GO:0005915	are against aj proteins	zonula adherens	Zonula Adherens	C0230613
+59353	59383	GO:0016021	the transmembrane core protein	integral to membrane		C1167322
+59416	59421	GO:0005488	binds	binding	Binding 	C1167622
+59476	59489	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+59539	59553	GO:0005634	in the nucleus	cell nucleus	Cell Nucleus	C0007610
+59587	59613	GO:0005488	binds to both beta-catenin	binding	Binding 	C1167622
+59702	59733	GO:0005488	bind to the actin cytoskeleton,	binding	Binding 	C1167622
+59846	59860	GO:0000165	MAPK signaling	MAPK signaling		C2611831
+60108	60156	GO:0051205	arrows mark membrane localization of the protein	protein insertion into membrane		C1523225
+60176	60180	GO:0005623	cell	cell	Cells	C0007634
+60327	60337	GO:0042571	antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+60397	60434	GO:0009289	whose expression in the hair follicle	pilus	Bacterial Fimbria	C0031921
+60557	60575	GO:0007601	seen in e-cadherin	vision	Vision	C0042789
+60993	60997	GO:0005623	cell	cell	Cells	C0007634
+61030	61036	GO:0040007	growth	growth	Growth	C0018270
+61085	61098	GO:0005915	aj formation.	zonula adherens	Zonula Adherens	C0230613
+61099	61103	GO:0005623	cell	cell	Cells	C0007634
+61110	61133	GO:0042571	stained with antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+61173	61212	GO:0044289	point to sites of intercellular contact	contact site		C2752541
+61288	61292	GO:0005623	cell	cell	Cells	C0007634
+61502	61506	GO:0005623	cell	cell	Cells	C0007634
+61545	61549	GO:0005623	cell	cell	Cells	C0007634
+61580	61603	GO:0042571	blotted with antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+62036	62068	GO:0042571	treated with anti-grb-2 antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+62076	62100	GO:0042571	control isotype antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+62228	62250	GO:0042571	anti-grb-2 antibodies.	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+62334	62351	GO:0005915	other aj proteins	zonula adherens	Zonula Adherens	C0230613
+62457	62475	GO:0003904	(pre-lim) of ajuba	photoreactivating enzyme activity		C2257086
+62493	62543	GO:0000187	results in the activation of the ras-mapk pathway.	activation of MAPK activity		C1155551
+62710	62737	GO:0003904	the pre-lim domain of ajuba	photoreactivating enzyme activity		C2257086
+62931	62968	GO:0042571	western blot analyses with antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+63020	63047	GO:0003904	the smaller, pre-lim domain	photoreactivating enzyme activity		C2257086
+63173	63189	GO:0007165	noggin signaling	signal transduction	Signal Transduction	C0037083
+63173	63189	GO:0023052	noggin signaling	biological signaling		C3537152
+63483	63486	GO:0007601	see	vision	Vision	C0042789
+63534	63538	GO:0005623	cell	cell	Cells	C0007634
+63896	63900	GO:0005623	cell	cell	Cells	C0007634
+63980	64009	GO:0060004	(reflective of activated tgf-	reflex	Reflex motion descriptor	C0439840
+64010	64019	GO:0007165	signaling	signal transduction	Signal Transduction	C0037083
+64010	64019	GO:0023052	signaling	biological signaling		C3537152
+64357	64363	GO:0034062	rt-pcr	transcriptase	Transcriptase activity	C2257077
+64357	64363	GO:0003899	rt-pcr	transcriptase	Transcriptase activity	C2257077
+64357	64363	GO:0003968	rt-pcr	transcriptase	Transcriptase activity	C2257077
+64410	64423	GO:0034062	transcriptase	transcriptase	Transcriptase activity	C2257077
+64410	64423	GO:0003899	transcriptase	transcriptase	Transcriptase activity	C2257077
+64410	64423	GO:0003968	transcriptase	transcriptase	Transcriptase activity	C2257077
+64590	64667	GO:0004565	results in enhanced activity of a snail promoter-beta-galactosidase reporter.	beta-galactosidase activity		C1150053
+64839	64846	GO:0005488	binding	binding	Binding 	C1167622
+64888	64892	GO:0005623	cell	cell	Cells	C0007634
+65027	65036	GO:0007610	conducted	behavior	Behavior	C0004927
+65314	65340	GO:0009289	e-cadherin in the hair bud	pilus	Bacterial Fimbria	C0031921
+65375	65391	GO:0009790	ko e17.5 embryos	embryo development	Embryonic Development	C0013936
+65521	65541	GO:0009289	and in the hair bud,	pilus	Bacterial Fimbria	C0031921
+65585	65615	GO:0009289	arrows point to the hair buds.	pilus	Bacterial Fimbria	C0031921
+65749	65768	GO:0042571	antibody to tubulin	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+65874	65902	GO:0007165	activated tgf-beta signaling	signal transduction	Signal Transduction	C0037083
+65874	65902	GO:0023052	activated tgf-beta signaling	biological signaling		C3537152
+65965	65998	GO:0009289	diminished in tgf-beta2-null hair	pilus	Bacterial Fimbria	C0031921
+65979	65998	GO:0009289	tgf-beta2-null hair	pilus	Bacterial Fimbria	C0031921
+66105	66130	GO:0007165	noggin signaling pathways	signal transduction	Signal Transduction	C0037083
+66135	66174	GO:0009289	still intact in the tgf-beta2 null hair	pilus	Bacterial Fimbria	C0031921
+66592	66606	GO:0050321	that gsk-3beta	tau-protein kinase activity		C1325174
+66638	66662	GO:0051179	subcellular localization	establishment and maintenance of localization		C1744691
+66704	66714	GO:0050321	gsk-3beta,	tau-protein kinase activity		C1325174
+66723	66742	GO:0007165	tgf-beta2 signaling	signal transduction	Signal Transduction	C0037083
+66723	66742	GO:0023052	tgf-beta2 signaling	biological signaling		C3537152
+66823	66840	GO:1902948	inhibition of GSK	inhibition of GSK		C3823791
+66837	66846	GO:0050321	gsk-3beta	tau-protein kinase activity		C1325174
+66957	66993	GO:0009289	in controlling hair bud development.	pilus	Bacterial Fimbria	C0031921
+67073	67092	GO:0007165	a signaling pathway	signal transduction	Signal Transduction	C0037083
+67126	67153	GO:0031069	hair follicle morphogenesis	hair follicle morphogenesis		C1523544

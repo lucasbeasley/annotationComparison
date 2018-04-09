@@ -1,0 +1,478 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+13	63	GO:0009790	required for preimplantation embryonic development	embryo development	Embryonic Development	C0013936
+157	190	GO:0016477	implicated in cellular migration,	cell migration	Migration, Cell	C1622501
+191	201	GO:0007049	cell cycle	cell cycle	Cell Cycle	C0007586
+191	214	GO:0000278	cell cycle progression,	mitotic cell cycle	Mitotic Cell Cycle	C1155839
+242	252	GO:0008219	cell death	cell death	Cell Death	C0007587
+429	463	GO:0007567	disruption of the mouse capn4 gene	parturition	Birth	C0005615
+429	463	GO:0000003	disruption of the mouse capn4 gene	reproduction	Reproduction	C0035150
+496	512	GO:0004198	calpain activity	calpain activity		C1150129
+518	550	GO:0009790	resulted in embryonic lethality,	embryo development	Embryonic Development	C0013936
+619	650	GO:0009790	during mammalian embryogenesis.	embryo development	Embryonic Development	C0013936
+651	679	GO:0007567	disruption of the capn1 gene	parturition	Birth	C0005615
+651	679	GO:0000003	disruption of the capn1 gene	reproduction	Reproduction	C0035150
+938	988	GO:0007567	an essential coding region in the mouse capn2 gene	parturition	Birth	C0005615
+938	988	GO:0000003	an essential coding region in the mouse capn2 gene	reproduction	Reproduction	C0035150
+989	1013	GO:0009790	in embryonic stems cells	embryo development	Embryonic Development	C0013936
+1164	1182	GO:0009790	implanted embryos.	embryo development	Embryonic Development	C0013936
+1237	1278	GO:0009790	homozygous preimplantation mutant embryos	embryo development	Embryonic Development	C0013936
+1365	1409	GO:0007567	that homozygous disruption of the capn2 gene	parturition	Birth	C0005615
+1365	1409	GO:0000003	that homozygous disruption of the capn2 gene	reproduction	Reproduction	C0035150
+1410	1457	GO:0003904	results in pre-implantation embryonic lethality	photoreactivating enzyme activity		C2257086
+1593	1652	GO:0009790	vital for development of the preimplantation murine embryo.	embryo development	Embryonic Development	C0013936
+1782	1819	GO:0007567	the founding members of a gene family	parturition	Birth	C0005615
+1782	1819	GO:0000003	the founding members of a gene family	reproduction	Reproduction	C0035150
+1831	1850	GO:0007567	13 genes in mammals	parturition	Birth	C0005615
+1831	1850	GO:0000003	13 genes in mammals	reproduction	Reproduction	C0035150
+1989	1995	GO:0007567	genes,	parturition	Birth	C0005615
+1989	1995	GO:0000003	genes,	reproduction	Reproduction	C0035150
+2065	2091	GO:0007567	encoded by the capn4 gene.	parturition	Birth	C0005615
+2065	2091	GO:0000003	encoded by the capn4 gene.	reproduction	Reproduction	C0035150
+2130	2163	GO:1902698	62% amino acid sequence identity,	acidogenesis		C3823112
+2130	2163	GO:1902705	62% amino acid sequence identity,	acidogenesis		C3823112
+2130	2163	GO:1902706	62% amino acid sequence identity,	acidogenesis		C3823112
+2130	2163	GO:1902699	62% amino acid sequence identity,	acidogenesis		C3823112
+2655	2698	GO:0002524	their differential sensitivities to calcium	hypersensitivity	Hypersensitivity	C0020517
+2785	2794	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+2902	2943	GO:0050789	contribute to regulation of these enzymes	regulation of biological process	Regulation of biological process	C1327622
+3002	3018	GO:0004198	calpain activity	calpain activity		C1150129
+3049	3084	GO:0008150	elucidation of biological functions	biological process	Biological Processes	C3714634
+3207	3213	GO:0040007	growth	growth	Growth	C0018270
+3215	3226	GO:0032502	development	development	Biologic Development	C0678723
+3246	3261	GO:0022008	neuronal growth	neurogenesis	Neurogenesis	C0814002
+3289	3299	GO:0007049	cell cycle	cell cycle	Cell Cycle	C0007586
+3289	3311	GO:0000278	cell cycle progression	mitotic cell cycle	Mitotic Cell Cycle	C1155839
+3362	3368	GO:0040007	growth	growth	Growth	C0018270
+3382	3401	GO:0006900	membrane protrusion	membrane budding		C1749557
+3425	3437	GO:0005856	cytoskeleton	cytoskeleton	Cytoskeleton	C0010853
+3442	3456	GO:0016477	cell migration	cell migration	Migration, Cell	C1622501
+3469	3493	GO:0010941	regulation of cell death	regulation of cell death	Regulation of Cell Death Process	C1711228
+3503	3511	GO:0070265	necrosis	necrosis	Necrosis	C0027540
+3503	3511	GO:0001906	necrosis	necrosis	Necrosis	C0027540
+3503	3511	GO:0019835	necrosis	necrosis	Necrosis	C0027540
+3503	3511	GO:0008220	necrosis	necrosis	Necrosis	C0027540
+3503	3511	GO:0008219	necrosis	necrosis	Necrosis	C0027540
+3516	3525	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+3516	3525	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+3568	3604	GO:0008303	a complex interplay between caspases	caspase complex		C1167431
+3651	3661	GO:0008219	cell death	cell death	Cell Death	C0007587
+3715	3719	GO:0005623	cell	cell	Cells	C0007634
+4138	4161	GO:0005154	epidermal growth factor	epidermal growth factor	epidermal growth factor receptor binding activity	C1323367
+4224	4292	GO:0051546	in interferon-inducible protein 9-induced migration of keratinocytes	keratinocyte migration		C1656945
+4301	4305	GO:0005623	cell	cell	Cells	C0007634
+4412	4416	GO:0005623	cell	cell	Cells	C0007634
+4540	4544	GO:0005623	cell	cell	Cells	C0007634
+4598	4602	GO:0005623	cell	cell	Cells	C0007634
+4619	4649	GO:0007567	targeted gene deletion in mice	parturition	Birth	C0005615
+4619	4649	GO:0000003	targeted gene deletion in mice	reproduction	Reproduction	C0035150
+4944	4967	GO:0009790	capn4-/- murine embryos	embryo development	Embryonic Development	C0013936
+4999	5008	GO:0007565	gestation	gestation	Pregnancy	C0032961
+5047	5063	GO:0004198	calpain activity	calpain activity		C1150129
+5076	5091	GO:0009790	younger embryos	embryo development	Embryonic Development	C0013936
+5098	5135	GO:0009790	capn4-/- murine embryonic fibroblasts	embryo development	Embryonic Development	C0013936
+5152	5180	GO:0009790	cultured from these embryos,	embryo development	Embryonic Development	C0013936
+5207	5223	GO:0004198	calpain activity	calpain activity		C1150129
+5257	5323	GO:0009058	or by the formation of characteristic spectrin breakdown products,	anabolism	Anabolism	C0220781
+5410	5424	GO:0005925	focal adhesion	focal adhesion	Focal Adhesions	C0887870
+5482	5520	GO:0007567	a more extensive deletion of the gene,	parturition	Birth	C0005615
+5482	5520	GO:0000003	a more extensive deletion of the gene,	reproduction	Reproduction	C0035150
+5521	5564	GO:0009790	resulted in an earlier embryonic lethality,	embryo development	Embryonic Development	C0013936
+5565	5603	GO:0003904	apparently at a pre-implantation stage	photoreactivating enzyme activity		C2257086
+5610	5652	GO:0009790	the different times of embryonic lethality	embryo development	Embryonic Development	C0013936
+5784	5800	GO:0004198	calpain activity	calpain activity		C1150129
+5837	5846	GO:0007565	gestation	gestation	Pregnancy	C0032961
+6193	6217	GO:0009790	die during embryogenesis	embryo development	Embryonic Development	C0013936
+6290	6301	GO:0032502	development	development	Biologic Development	C0678723
+6443	6473	GO:0009790	required during embryogenesis,	embryo development	Embryonic Development	C0013936
+6624	6638	GO:0007567	the capn2 gene	parturition	Birth	C0005615
+6624	6638	GO:0000003	the capn2 gene	reproduction	Reproduction	C0035150
+6691	6714	GO:0009790	that capn2 null embryos	embryo development	Embryonic Development	C0013936
+6715	6752	GO:0007566	died prior to the implantation stage,	embryo implantation	Blastocyst Implantation, natural	C0029976
+6782	6820	GO:0009790	indispensable for early embryogenesis.	embryo development	Embryonic Development	C0013936
+6875	6913	GO:0009790	expressed in embryonic stem (es) cells	embryo development	Embryonic Development	C0013936
+6965	6974	GO:0007565	gestation	gestation	Pregnancy	C0032961
+7043	7099	GO:0009790	distinct physiological roles during early embryogenesis.	embryo development	Embryonic Development	C0013936
+7162	7166	GO:0005623	cell	cell	Cells	C0007634
+7203	7207	GO:0005623	cell	cell	Cells	C0007634
+7853	7886	GO:0004618	derived from the pgk-neo cassette	phosphoglycerate kinase activity		C1150521
+7944	7948	GO:0005623	cell	cell	Cells	C0007634
+8238	8242	GO:0005623	cell	cell	Cells	C0007634
+8305	8309	GO:0005623	cell	cell	Cells	C0007634
+8405	8413	GO:0016020	membrane	membrane	Membrane	C0596901
+8478	8482	GO:0005623	cell	cell	Cells	C0007634
+8711	8715	GO:0005623	cell	cell	Cells	C0007634
+8796	8800	GO:0005623	cell	cell	Cells	C0007634
+9035	9056	GO:0007600	a common sense primer	sensory perception	Esthesia	C0036658
+9341	9365	GO:0004618	in the pgk-neo cassette.	phosphoglycerate kinase activity		C1150521
+9430	9434	GO:0005623	cell	cell	Cells	C0007634
+9737	9741	GO:0005623	cell	cell	Cells	C0007634
+9940	9952	GO:0000003	reproduction	reproduction	Reproduction	C0035150
+10219	10248	GO:0009790	during embryonic development.	embryo development	Embryonic Development	C0013936
+10279	10294	GO:0009790	embryonic death	embryo development	Embryonic Development	C0013936
+10295	10333	GO:0007566	occurred at a post-implantation stage,	embryo implantation	Blastocyst Implantation, natural	C0029976
+10334	10341	GO:0009790	embryos	embryo development	Embryonic Development	C0013936
+10416	10435	GO:0009790	no capn2-/- embryos	embryo development	Embryonic Development	C0013936
+10454	10483	GO:0009790	no signs of embryo resorption	embryo development	Embryonic Development	C0013936
+10529	10549	GO:0009790	the capn2-/- embryos	embryo development	Embryonic Development	C0013936
+10559	10587	GO:0007566	dying prior to implantation.	embryo implantation	Blastocyst Implantation, natural	C0029976
+10588	10595	GO:0009790	embryos	embryo development	Embryonic Development	C0013936
+10652	10659	GO:0004842	at e2.5	ubiquitin conjugating enzyme activity		C1151883
+10652	10659	GO:0061650	at e2.5	ubiquitin-like protein conjugating enzyme activity		C1151884
+10652	10659	GO:0019775	at e2.5	FAT10 conjugating enzyme activity		C1151887
+10652	10659	GO:0019777	at e2.5	Atg12 conjugating enzyme activity		C2612339
+10652	10659	GO:0072496	at e2.5	Pup conjugating enzyme activity		C3156549
+10652	10659	GO:0019787	at e2.5	ubiquitin-like protein transferase activity		C3888074
+10652	10659	GO:0004842	at e2.5	ubiquitin-protein transferase activity		C3888151
+10652	10659	GO:0061657	at e2.5	UFM1 conjugating enzyme activity		C3889565
+10652	10659	GO:0019789	at e2.5	SUMO conjugating enzyme activity		C3889566
+10652	10659	GO:0019788	at e2.5	NEDD8 conjugating enzyme activity		C3889567
+10652	10659	GO:0061658	at e2.5	URM1 conjugating enzyme activity		C3889568
+10652	10659	GO:0061653	at e2.5	E2	ISG15 conjugating enxyme activity	C3889569
+10652	10659	GO:0061631	at e2.5	ubiquitin conjugating enzyme activity		C1151883
+10652	10659	GO:0061652	at e2.5	FAT10 conjugating enzyme activity		C1151887
+10652	10659	GO:0061651	at e2.5	Atg12 conjugating enzyme activity		C2612339
+10652	10659	GO:0061655	at e2.5	Pup conjugating enzyme activity		C3156549
+10652	10659	GO:0061656	at e2.5	SUMO conjugating enzyme activity		C3889566
+10652	10659	GO:0061654	at e2.5	NEDD8 conjugating enzyme activity		C3889567
+10663	10668	GO:0061659	e3.5,	ubiquitin-like protein ligase activity		C1150682
+10663	10668	GO:0019777	e3.5,	Atg12 ligase activity		C1151885
+10663	10668	GO:0019787	e3.5,	ubiquitin-like protein transferase activity		C3888074
+10663	10668	GO:0004842	e3.5,	ubiquitin-protein transferase activity		C3888151
+10663	10668	GO:0061662	e3.5,	ISG15 ligase activity		C3890037
+10663	10668	GO:0061661	e3.5,	FAT10 ligase activity		C3890038
+10663	10668	GO:0061667	e3.5,	URM1 ligase activity		C3890039
+10663	10668	GO:0061664	e3.5,	Pup ligase activity		C3890040
+10663	10668	GO:0061666	e3.5,	UFM1 ligase activity		C3890041
+10663	10668	GO:0061665	e3.5,	SUMO ligase activity		C3890172
+10663	10668	GO:0061663	e3.5,	NEDD8 ligase activity		C3890173
+10663	10668	GO:0061660	e3.5,	Atg12 ligase activity		C1151885
+10762	10786	GO:0003904	pre-implantation embryos	photoreactivating enzyme activity		C2257086
+10823	10853	GO:0009790	both of these capn2-/- embryos	embryo development	Embryonic Development	C0013936
+10877	10881	GO:0005623	cell	cell	Cells	C0007634
+10981	11006	GO:0009790	blastocyst-staged embryos	embryo development	Embryonic Development	C0013936
+11022	11061	GO:0009790	the scarcity of capn2-deficient embryos	embryo development	Embryonic Development	C0013936
+11081	11085	GO:0005623	cell	cell	Cells	C0007634
+11121	11137	GO:0004198	calpain activity	calpain activity		C1150129
+11162	11193	GO:0009790	the viability of early embryos.	embryo development	Embryonic Development	C0013936
+11312	11346	GO:0009790	a small number of capn2-/- embryos	embryo development	Embryonic Development	C0013936
+11493	11556	GO:0003904	nested pcr strategy for genotyping of pre-implantation embryos.	photoreactivating enzyme activity		C2257086
+11557	11609	GO:0007567	due to the scarcity of extractable genetic material,	parturition	Birth	C0005615
+11557	11609	GO:0000003	due to the scarcity of extractable genetic material,	reproduction	Reproduction	C0035150
+11655	11692	GO:0003904	to genotype pre-implantation embryos.	photoreactivating enzyme activity		C2257086
+12038	12060	GO:0007600	the same sense primers	sensory perception	Esthesia	C0036658
+12334	12388	GO:0004618	the pgk-neo cassette by an open, horizontal rectangle,	phosphoglycerate kinase activity		C1150521
+12583	12615	GO:0004618	replaced by the pgk-neo cassette	phosphoglycerate kinase activity		C1150521
+12649	12688	GO:0003904	genotyping of pre-implantation embryos.	photoreactivating enzyme activity		C2257086
+12715	12739	GO:0009790	used to genotype embryos	embryo development	Embryonic Development	C0013936
+12740	12761	GO:0007566	prior to implantation	embryo implantation	Blastocyst Implantation, natural	C0029976
+12807	12812	GO:0007618	mated	mating		C1260875
+12829	12842	GO:0009566	fertilization	fertilization	Fertilization	C0015914
+12902	12907	GO:0061659	(e3.5	ubiquitin-like protein ligase activity		C1150682
+12902	12907	GO:0019777	(e3.5	Atg12 ligase activity		C1151885
+12902	12907	GO:0019787	(e3.5	ubiquitin-like protein transferase activity		C3888074
+12902	12907	GO:0004842	(e3.5	ubiquitin-protein transferase activity		C3888151
+12902	12907	GO:0061662	(e3.5	ISG15 ligase activity		C3890037
+12902	12907	GO:0061661	(e3.5	FAT10 ligase activity		C3890038
+12902	12907	GO:0061667	(e3.5	URM1 ligase activity		C3890039
+12902	12907	GO:0061664	(e3.5	Pup ligase activity		C3890040
+12902	12907	GO:0061666	(e3.5	UFM1 ligase activity		C3890041
+12902	12907	GO:0061665	(e3.5	SUMO ligase activity		C3890172
+12902	12907	GO:0061663	(e3.5	NEDD8 ligase activity		C3890173
+12902	12907	GO:0061660	(e3.5	Atg12 ligase activity		C1151885
+12914	12918	GO:0005623	cell	cell	Cells	C0007634
+12927	12932	GO:0004842	(e2.5	ubiquitin conjugating enzyme activity		C1151883
+12927	12932	GO:0061650	(e2.5	ubiquitin-like protein conjugating enzyme activity		C1151884
+12927	12932	GO:0019775	(e2.5	FAT10 conjugating enzyme activity		C1151887
+12927	12932	GO:0019777	(e2.5	Atg12 conjugating enzyme activity		C2612339
+12927	12932	GO:0072496	(e2.5	Pup conjugating enzyme activity		C3156549
+12927	12932	GO:0019787	(e2.5	ubiquitin-like protein transferase activity		C3888074
+12927	12932	GO:0004842	(e2.5	ubiquitin-protein transferase activity		C3888151
+12927	12932	GO:0061657	(e2.5	UFM1 conjugating enzyme activity		C3889565
+12927	12932	GO:0019789	(e2.5	SUMO conjugating enzyme activity		C3889566
+12927	12932	GO:0019788	(e2.5	NEDD8 conjugating enzyme activity		C3889567
+12927	12932	GO:0061658	(e2.5	URM1 conjugating enzyme activity		C3889568
+12927	12932	GO:0061653	(e2.5	E2	ISG15 conjugating enxyme activity	C3889569
+12927	12932	GO:0061631	(e2.5	ubiquitin conjugating enzyme activity		C1151883
+12927	12932	GO:0061652	(e2.5	FAT10 conjugating enzyme activity		C1151887
+12927	12932	GO:0061651	(e2.5	Atg12 conjugating enzyme activity		C2612339
+12927	12932	GO:0061655	(e2.5	Pup conjugating enzyme activity		C3156549
+12927	12932	GO:0061656	(e2.5	SUMO conjugating enzyme activity		C3889566
+12927	12932	GO:0061654	(e2.5	NEDD8 conjugating enzyme activity		C3889567
+12974	13001	GO:0008233	digested with proteinase k.	peptidase activity		C1150095
+13367	13438	GO:0009790	a representative example of the genotyping of blastocyst stage embryos.	embryo development	Embryonic Development	C0013936
+13439	13450	GO:0009790	embryos #1,	embryo development	Embryonic Development	C0013936
+13488	13498	GO:0009790	embryos #3	embryo development	Embryonic Development	C0013936
+13611	13615	GO:0005623	cell	cell	Cells	C0007634
+13634	13645	GO:0009790	embryos #1,	embryo development	Embryonic Development	C0013936
+13681	13690	GO:0009790	embryo #4	embryo development	Embryonic Development	C0013936
+13839	13857	GO:0007566	post-implantation,	embryo implantation	Blastocyst Implantation, natural	C0029976
+13862	13886	GO:0003904	pre-implantation embryos	photoreactivating enzyme activity		C2257086
+14509	14547	GO:0007566	also evident in both post-implantation	embryo implantation	Blastocyst Implantation, natural	C0029976
+14552	14576	GO:0003904	pre-implantation embryos	photoreactivating enzyme activity		C2257086
+14953	14957	GO:0007601	seen	vision	Vision	C0042789
+15415	15419	GO:0005623	cell	cell	Cells	C0007634
+15434	15438	GO:0005623	cell	cell	Cells	C0007634
+15549	15553	GO:0005623	cell	cell	Cells	C0007634
+15634	15638	GO:0005623	cell	cell	Cells	C0007634
+15692	15696	GO:0005623	cell	cell	Cells	C0007634
+15742	15746	GO:0005623	cell	cell	Cells	C0007634
+15840	15844	GO:0005623	cell	cell	Cells	C0007634
+15847	15894	GO:0009790	in concert with the absence of capn2-/- embryos	embryo development	Embryonic Development	C0013936
+15908	15912	GO:0005623	cell	cell	Cells	C0007634
+15937	15953	GO:0004198	calpain activity	calpain activity		C1150129
+15977	15981	GO:0005623	cell	cell	Cells	C0007634
+16026	16030	GO:0005623	cell	cell	Cells	C0007634
+16061	16077	GO:0004198	calpain activity	calpain activity		C1150129
+16551	16573	GO:0007567	gene targeting in mice	parturition	Birth	C0005615
+16551	16573	GO:0000003	gene targeting in mice	reproduction	Reproduction	C0035150
+16703	16718	GO:0007567	the capn4 gene,	parturition	Birth	C0005615
+16703	16718	GO:0000003	the capn4 gene,	reproduction	Reproduction	C0035150
+16829	16872	GO:0009790	embryonic lethality in capn4 knockout mice,	embryo development	Embryonic Development	C0013936
+16903	16914	GO:0032502	development	development	Biologic Development	C0678723
+17086	17129	GO:0009790	their requirement for embryonic development	embryo development	Embryonic Development	C0013936
+17463	17483	GO:0070527	platelet aggregation	platelet aggregation	Platelet aggregation	C0032176
+17631	17661	GO:0009790	required during embryogenesis,	embryo development	Embryonic Development	C0013936
+17695	17741	GO:0009790	sufficient for sustaining embryonic viability.	embryo development	Embryonic Development	C0013936
+17858	17869	GO:0032502	development	development	Biologic Development	C0678723
+17945	17975	GO:0009790	required during embryogenesis.	embryo development	Embryonic Development	C0013936
+17982	18021	GO:0007567	homozygous disruption of the capn4 gene	parturition	Birth	C0005615
+17982	18021	GO:0000003	homozygous disruption of the capn4 gene	reproduction	Reproduction	C0035150
+18053	18069	GO:0004198	calpain activity	calpain activity		C1150129
+18167	18217	GO:0009790	in which preimplantation lethality of null embryos	embryo development	Embryonic Development	C0013936
+18242	18274	GO:0009790	the survival of capn4-/- embryos	embryo development	Embryonic Development	C0013936
+18348	18357	GO:0007565	gestation	gestation	Pregnancy	C0032961
+18631	18667	GO:0004618	by insertion of the pgk-neo cassette	phosphoglycerate kinase activity		C1150521
+18813	18888	GO:1902698	that excision of the c-terminal 25 amino acid residues of the small subunit	acidogenesis		C3823112
+18813	18888	GO:1902705	that excision of the c-terminal 25 amino acid residues of the small subunit	acidogenesis		C3823112
+18813	18888	GO:1902706	that excision of the c-terminal 25 amino acid residues of the small subunit	acidogenesis		C3823112
+18813	18888	GO:1902699	that excision of the c-terminal 25 amino acid residues of the small subunit	acidogenesis		C3823112
+18899	18915	GO:0004198	calpain activity	calpain activity		C1150129
+19460	19508	GO:0007567	different phenotypes in gene disruption studies.	parturition	Birth	C0005615
+19460	19508	GO:0000003	different phenotypes in gene disruption studies.	reproduction	Reproduction	C0035150
+19594	19632	GO:0007567	the mixed lineage leukemia (mll) gene.	parturition	Birth	C0005615
+19594	19632	GO:0000003	the mixed lineage leukemia (mll) gene.	reproduction	Reproduction	C0035150
+19655	19678	GO:0009790	homozygous null embryos	embryo development	Embryonic Development	C0013936
+19679	19709	GO:0009790	perished during embryogenesis,	embryo development	Embryonic Development	C0013936
+20016	20034	GO:0004198	calpain activities	calpain activity		C1150129
+20189	20264	GO:0004618	to at least two different cryptic splice sites in the pgk promoter sequence	phosphoglycerate kinase activity		C1150521
+20341	20383	GO:1902698	with 10-30 inappropriate c-terminal acids,	acidogenesis		C3823112
+20341	20383	GO:1902705	with 10-30 inappropriate c-terminal acids,	acidogenesis		C3823112
+20341	20383	GO:1902706	with 10-30 inappropriate c-terminal acids,	acidogenesis		C3823112
+20341	20383	GO:1902699	with 10-30 inappropriate c-terminal acids,	acidogenesis		C3823112
+20436	20452	GO:0004198	calpain activity	calpain activity		C1150129
+20557	20573	GO:0004198	calpain activity	calpain activity		C1150129
+20643	20647	GO:0005623	cell	cell	Cells	C0007634
+20807	20811	GO:0005623	cell	cell	Cells	C0007634
+20897	20913	GO:0004198	calpain activity	calpain activity		C1150129
+21023	21027	GO:0005623	cell	cell	Cells	C0007634
+21106	21185	GO:0007567	a consequence of the different genetic backgrounds of the two transgenic lines,	parturition	Birth	C0005615
+21106	21185	GO:0000003	a consequence of the different genetic backgrounds of the two transgenic lines,	reproduction	Reproduction	C0035150
+21850	21854	GO:0005623	cell	cell	Cells	C0007634
+21874	21902	GO:0007567	from the gene targeting work	parturition	Birth	C0005615
+21874	21902	GO:0000003	from the gene targeting work	reproduction	Reproduction	C0035150
+21980	22010	GO:0009790	at least during embryogenesis.	embryo development	Embryonic Development	C0013936
+22029	22054	GO:0009790	capn2 null murine embryos	embryo development	Embryonic Development	C0013936
+22055	22081	GO:0007566	die prior to implantation,	embryo implantation	Blastocyst Implantation, natural	C0029976
+22082	22141	GO:0007567	homozygous disruption of the mu-calpain large subunit gene,	parturition	Birth	C0005615
+22082	22141	GO:0000003	homozygous disruption of the mu-calpain large subunit gene,	reproduction	Reproduction	C0035150
+22266	22301	GO:0070527	a disturbance in platelet function,	platelet aggregation	Platelet aggregation	C0032176
+22340	22355	GO:0016310	phosphorylation	phosphorylation	Phosphorylation	C0031715
+22340	22413	GO:0006468	possibly at the level of the tyrosine phosphorylation of certain proteins	protein phosphorylation	Protein phosphorylation	C1158886
+22388	22407	GO:0030168	platelet activation	platelet activation	Platelet Activation	C0032173
+22422	22442	GO:0004198	m-calpain activities	calpain activity		C1150129
+22473	22477	GO:0005623	cell	cell	Cells	C0007634
+22667	22683	GO:0004198	calpain activity	calpain activity		C1150129
+22693	22709	GO:0004198	calpain activity	calpain activity		C1150129
+22853	22857	GO:0005623	cell	cell	Cells	C0007634
+23021	23037	GO:0004198	calpain activity	calpain activity		C1150129
+23117	23146	GO:0009790	lethality in capn2-/- embryos	embryo development	Embryonic Development	C0013936
+23167	23183	GO:0004198	calpain activity	calpain activity		C1150129
+23187	23222	GO:0009790	essential for embryonic development	embryo development	Embryonic Development	C0013936
+23236	23240	GO:0005623	cell	cell	Cells	C0007634
+23385	23404	GO:0009790	in capn2-/- embryos	embryo development	Embryonic Development	C0013936
+23433	23464	GO:0009790	the two homozygous null embryos	embryo development	Embryonic Development	C0013936
+23485	23489	GO:0005623	cell	cell	Cells	C0007634
+23612	23636	GO:0003904	pre-implantation embryos	photoreactivating enzyme activity		C2257086
+23709	23738	GO:0007567	resulting from gene knockouts	parturition	Birth	C0005615
+23709	23738	GO:0000003	resulting from gene knockouts	reproduction	Reproduction	C0035150
+23817	23866	GO:0009790	incurred in the embryonic differentiation program	embryo development	Embryonic Development	C0013936
+23917	23942	GO:0009790	null embryos of this type	embryo development	Embryonic Development	C0013936
+23986	24033	GO:0009790	a mendelian distribution of embryonic genotypes	embryo development	Embryonic Development	C0013936
+24077	24096	GO:0007567	the gene disruption	parturition	Birth	C0005615
+24077	24096	GO:0000003	the gene disruption	reproduction	Reproduction	C0035150
+24147	24151	GO:0005623	cell	cell	Cells	C0007634
+24153	24172	GO:0009790	in the early embryo	embryo development	Embryonic Development	C0013936
+24209	24227	GO:0009790	a few null embryos	embryo development	Embryonic Development	C0013936
+24271	24275	GO:0005623	cell	cell	Cells	C0007634
+24411	24415	GO:0005623	cell	cell	Cells	C0007634
+24427	24465	GO:0009790	the survival of a few capn2-/- embryos	embryo development	Embryonic Development	C0013936
+24475	24479	GO:0005623	cell	cell	Cells	C0007634
+24583	24596	GO:0051301	cell division	cell division	Cell division	C0007590
+24745	24763	GO:0008283	cell proliferation	cell proliferation	Cell Proliferation	C0596290
+24827	24867	GO:0000070	in chromosome segregation during mitosis	mitotic sister chromatid segregation		C1155646
+24873	24898	GO:0051321	as well as during meiosis	meiotic cell cycle		C1657605
+24948	24952	GO:0005623	cell	cell	Cells	C0007634
+24965	25008	GO:0009790	contribute to failed embryonic development.	embryo development	Embryonic Development	C0013936
+25045	25049	GO:0005623	cell	cell	Cells	C0007634
+25102	25106	GO:0005623	cell	cell	Cells	C0007634
+25271	25275	GO:0005623	cell	cell	Cells	C0007634
+25327	25345	GO:0008283	cell proliferation	cell proliferation	Cell Proliferation	C0596290
+25368	25372	GO:0005623	cell	cell	Cells	C0007634
+25438	25476	GO:0022403	through the g1 stage of the cell cycle	cell cycle phase	Cell Cycle Phase	C1516337
+25540	25550	GO:0007049	cell cycle	cell cycle	Cell Cycle	C0007586
+25540	25566	GO:0000278	in cell cycle progression,	mitotic cell cycle	Mitotic Cell Cycle	C1155839
+25583	25593	GO:0016538	cyclin d1,	cyclin-dependent protein kinase regulator activity		C1150565
+25655	25662	GO:0005488	binding	binding	Binding 	C1167622
+25696	25705	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+25735	25752	GO:0007340	acrosome reaction	acrosome reaction	Acrosome Reaction	C0600485
+25881	25898	GO:0007340	acrosome reaction	acrosome reaction	Acrosome Reaction	C0600485
+25971	25979	GO:0016020	membrane	membrane	Membrane	C0596901
+26006	26061	GO:0060471	participate in the release of cortical granule contents	cortical granule exocytosis		C2752694
+26140	26155	GO:0072687	meiotic spindle	meiotic spindle	Meiotic Spindle Apparatus	C3268864
+26162	26175	GO:0009566	fertilization	fertilization	Fertilization	C0015914
+26206	26228	GO:0007059	chromosome segregation	chromosome segregation	Chromosome Segregation	C0598175
+26259	26281	GO:0007059	chromosome segregation	chromosome segregation	Chromosome Segregation	C0598175
+26298	26344	GO:0009790	lethal effects on early embryonic development.	embryo development	Embryonic Development	C0013936
+26398	26402	GO:0005623	cell	cell	Cells	C0007634
+26501	26517	GO:0004198	calpain activity	calpain activity		C1150129
+26591	26599	GO:0008091	spectrin	spectrin	spectrin location	C1166668
+26684	26700	GO:0004198	calpain activity	calpain activity		C1150129
+26847	26851	GO:0005623	cell	cell	Cells	C0007634
+26913	26917	GO:0005623	cell	cell	Cells	C0007634
+26949	26953	GO:0005623	cell	cell	Cells	C0007634
+26969	27001	GO:0009790	absent in early embryonic cells.	embryo development	Embryonic Development	C0013936
+27035	27050	GO:0035822	gene conversion	gene conversion	Gene Conversion	C0017259
+27078	27082	GO:0005623	cell	cell	Cells	C0007634
+27200	27204	GO:0005623	cell	cell	Cells	C0007634
+27241	27245	GO:0005623	cell	cell	Cells	C0007634
+27344	27359	GO:0035822	gene conversion	gene conversion	Gene Conversion	C0017259
+27394	27410	GO:0004198	calpain activity	calpain activity		C1150129
+28333	28344	GO:0032502	development	development	Biologic Development	C0678723
+28682	28728	GO:0009790	an indispensable role in murine embryogenesis,	embryo development	Embryonic Development	C0013936
+28746	28778	GO:0003904	to pre-implantation development.	photoreactivating enzyme activity		C2257086
+29012	29050	GO:0007566	during post-implantation embryogenesis	embryo implantation	Blastocyst Implantation, natural	C0029976
+29129	29167	GO:0007567	a conditional gene targeting strategy.	parturition	Birth	C0005615
+29129	29167	GO:0000003	a conditional gene targeting strategy.	reproduction	Reproduction	C0035150
+29227	29247	GO:0007567	the mouse capn2 gene	parturition	Birth	C0005615
+29227	29247	GO:0000003	the mouse capn2 gene	reproduction	Reproduction	C0035150
+29256	29306	GO:1902698	the 700 amino acids of the m-calpain large subunit	acidogenesis		C3823112
+29256	29306	GO:1902705	the 700 amino acids of the m-calpain large subunit	acidogenesis		C3823112
+29256	29306	GO:1902706	the 700 amino acids of the m-calpain large subunit	acidogenesis		C3823112
+29256	29306	GO:1902699	the 700 amino acids of the m-calpain large subunit	acidogenesis		C3823112
+29365	29375	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+30406	30431	GO:0007567	exon 7 of the capn2 gene,	parturition	Birth	C0005615
+30406	30431	GO:0000003	exon 7 of the capn2 gene,	reproduction	Reproduction	C0035150
+30432	30457	GO:0004618	with the pgk-neo cassette	phosphoglycerate kinase activity		C1150521
+30485	30526	GO:1902698	24 amino acids in the active-site region,	acidogenesis		C3823112
+30485	30526	GO:1902705	24 amino acids in the active-site region,	acidogenesis		C3823112
+30485	30526	GO:1902706	24 amino acids in the active-site region,	acidogenesis		C3823112
+30485	30526	GO:1902699	24 amino acids in the active-site region,	acidogenesis		C3823112
+30566	30571	GO:0030315	triad	triad	Transverse tubule of muscle cell	C1179122
+30749	30781	GO:0004618	upstream of the pgk-neo cassette	phosphoglycerate kinase activity		C1150521
+30965	31003	GO:0004618	at the 3' end of the pgk-neo cassette,	phosphoglycerate kinase activity		C1150521
+31217	31245	GO:0004618	inserted between the pgk-neo	phosphoglycerate kinase activity		C1150521
+31294	31353	GO:0007567	targeting strategy for disruption of the murine capn2 gene.	parturition	Birth	C0005615
+31294	31353	GO:0000003	targeting strategy for disruption of the murine capn2 gene.	reproduction	Reproduction	C0035150
+31354	31376	GO:0007567	the murine capn2 gene,	parturition	Birth	C0005615
+31354	31376	GO:0000003	the murine capn2 gene,	reproduction	Reproduction	C0035150
+31426	31430	GO:0005623	cell	cell	Cells	C0007634
+31432	31460	GO:0006310	by homologous recombination.	DNA recombination	Recombination, Genetic	C0034865
+31605	31623	GO:0004618	a pgk-neo cassette	phosphoglycerate kinase activity		C1150521
+31777	31797	GO:0004618	the pgk-neo cassette	phosphoglycerate kinase activity		C1150521
+32387	32391	GO:0005623	cell	cell	Cells	C0007634
+32460	32464	GO:0005623	cell	cell	Cells	C0007634
+32512	32561	GO:0009790	with feeder layers of mouse embryonic fibroblasts	embryo development	Embryonic Development	C0013936
+32597	32601	GO:0005623	cell	cell	Cells	C0007634
+32672	32705	GO:1902698	0.1 mm non-essential amino acids,	acidogenesis		C3823112
+32672	32705	GO:1902705	0.1 mm non-essential amino acids,	acidogenesis		C3823112
+32672	32705	GO:1902706	0.1 mm non-essential amino acids,	acidogenesis		C3823112
+32672	32705	GO:1902699	0.1 mm non-essential amino acids,	acidogenesis		C3823112
+32795	32798	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+32819	32822	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+32981	32992	GO:0016049	cell growth	cell growth		C0007595
+33184	33193	GO:0007586	digestion	digestion	Digestion	C0012238
+33224	33228	GO:0005623	cell	cell	Cells	C0007634
+33231	33235	GO:0005623	cell	cell	Cells	C0007634
+33356	33359	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+33557	33566	GO:0007601	see below	vision	Vision	C0042789
+33611	33615	GO:0005623	cell	cell	Cells	C0007634
+33650	33654	GO:0005623	cell	cell	Cells	C0007634
+33663	33690	GO:0009291	recovered from cd1 matings,	unidirectional conjugation		C1160186
+33663	33690	GO:0007618	recovered from cd1 matings,	mating		C1260875
+33663	33690	GO:0000747	recovered from cd1 matings,	conjugation with cellular fusion		C1748461
+33663	33690	GO:1990277	recovered from cd1 matings,	parasexual conjugation with cellular fusion		C3812685
+33820	33841	GO:0007567	identifiable at birth	parturition	Birth	C0005615
+33851	33867	GO:0048069	eye pigmentation	eye pigmentation		C1326711
+33872	33918	GO:0000785	subsequently by patches of agouti coat colour.	chromatin	chromatin location	C1325550
+34073	34118	GO:0007567	the mutation in an inbred genetic background.	parturition	Birth	C0005615
+34073	34118	GO:0000003	the mutation in an inbred genetic background.	reproduction	Reproduction	C0035150
+34506	34514	GO:0016020	membrane	membrane	Membrane	C0596901
+34713	34766	GO:0004618	a 681 bp psti-xbai fragment from the pgk-neo cassette	phosphoglycerate kinase activity		C1150521
+34824	34870	GO:0015074	a single integration event in targeted clones.	DNA integration	DNA Integration	C1158478
+35064	35068	GO:0005623	cell	cell	Cells	C0007634
+35073	35112	GO:0007566	biopsies from post-implantation embryos	embryo implantation	Blastocyst Implantation, natural	C0029976
+35289	35294	GO:0007600	sense	sensory perception	Esthesia	C0036658
+35433	35441	GO:0004618	(pgk-neo	phosphoglycerate kinase activity		C1150521
+35800	35845	GO:0007567	due to the limited amount of genetic material	parturition	Birth	C0005615
+35800	35845	GO:0000003	due to the limited amount of genetic material	reproduction	Reproduction	C0035150
+35846	35884	GO:0003904	available in pre-implantation embryos,	photoreactivating enzyme activity		C2257086
+35974	35987	GO:0009790	whole embryos	embryo development	Embryonic Development	C0013936
+35999	36040	GO:0008233	digested in 20 mul of proteinase k buffer	peptidase activity		C1150095
+36042	36051	GO:0007601	see below	vision	Vision	C0042789
+36369	36393	GO:0007600	an intron 6 sense primer	sensory perception	Esthesia	C0036658
+36529	36558	GO:0007600	another intron 6 sense primer	sensory perception	Esthesia	C0036658
+36689	36727	GO:0007600	consisted of the intron 6 sense primer	sensory perception	Esthesia	C0036658
+36732	36776	GO:0004618	an antisense primer in the pgk-neo cassette.	phosphoglycerate kinase activity		C1150521
+36804	36849	GO:0007600	comprised of the second intron 6 sense primer	sensory perception	Esthesia	C0036658
+36879	36915	GO:0004618	located within the pgk-neo sequence.	phosphoglycerate kinase activity		C1150521
+36981	37045	GO:0007600	the same sense primers in both steps of the nested pcr strategy.	sensory perception	Esthesia	C0036658
+37307	37342	GO:0007600	made up of an intron 4 sense primer	sensory perception	Esthesia	C0036658
+37410	37432	GO:0007600	an exon 5 sense primer	sensory perception	Esthesia	C0036658
+37890	37927	GO:0003904	isolation of pre-implantation embryos	photoreactivating enzyme activity		C2257086
+37937	37950	GO:0009566	fertilization	fertilization	Fertilization	C0015914
+37984	37994	GO:0007620	copulation	copulation	Copulation	C0009990
+38044	38068	GO:0003904	pre-implantation embryos	photoreactivating enzyme activity		C2257086
+38131	38138	GO:0004842	at e2.5	ubiquitin conjugating enzyme activity		C1151883
+38131	38138	GO:0061650	at e2.5	ubiquitin-like protein conjugating enzyme activity		C1151884
+38131	38138	GO:0019775	at e2.5	FAT10 conjugating enzyme activity		C1151887
+38131	38138	GO:0019777	at e2.5	Atg12 conjugating enzyme activity		C2612339
+38131	38138	GO:0072496	at e2.5	Pup conjugating enzyme activity		C3156549
+38131	38138	GO:0019787	at e2.5	ubiquitin-like protein transferase activity		C3888074
+38131	38138	GO:0004842	at e2.5	ubiquitin-protein transferase activity		C3888151
+38131	38138	GO:0061657	at e2.5	UFM1 conjugating enzyme activity		C3889565
+38131	38138	GO:0019789	at e2.5	SUMO conjugating enzyme activity		C3889566
+38131	38138	GO:0019788	at e2.5	NEDD8 conjugating enzyme activity		C3889567
+38131	38138	GO:0061658	at e2.5	URM1 conjugating enzyme activity		C3889568
+38131	38138	GO:0061653	at e2.5	E2	ISG15 conjugating enxyme activity	C3889569
+38131	38138	GO:0061631	at e2.5	ubiquitin conjugating enzyme activity		C1151883
+38131	38138	GO:0061652	at e2.5	FAT10 conjugating enzyme activity		C1151887
+38131	38138	GO:0061651	at e2.5	Atg12 conjugating enzyme activity		C2612339
+38131	38138	GO:0061655	at e2.5	Pup conjugating enzyme activity		C3156549
+38131	38138	GO:0061656	at e2.5	SUMO conjugating enzyme activity		C3889566
+38131	38138	GO:0061654	at e2.5	NEDD8 conjugating enzyme activity		C3889567
+38142	38146	GO:0061659	e3.5	ubiquitin-like protein ligase activity		C1150682
+38142	38146	GO:0019777	e3.5	Atg12 ligase activity		C1151885
+38142	38146	GO:0019787	e3.5	ubiquitin-like protein transferase activity		C3888074
+38142	38146	GO:0004842	e3.5	ubiquitin-protein transferase activity		C3888151
+38142	38146	GO:0061662	e3.5	ISG15 ligase activity		C3890037
+38142	38146	GO:0061661	e3.5	FAT10 ligase activity		C3890038
+38142	38146	GO:0061667	e3.5	URM1 ligase activity		C3890039
+38142	38146	GO:0061664	e3.5	Pup ligase activity		C3890040
+38142	38146	GO:0061666	e3.5	UFM1 ligase activity		C3890041
+38142	38146	GO:0061665	e3.5	SUMO ligase activity		C3890172
+38142	38146	GO:0061663	e3.5	NEDD8 ligase activity		C3890173
+38142	38146	GO:0061660	e3.5	Atg12 ligase activity		C1151885
+38181	38185	GO:0005623	cell	cell	Cells	C0007634
+38194	38210	GO:0009790	isolated embryos	embryo development	Embryonic Development	C0013936
+38245	38286	GO:0019835	at 55 degrees c in 20 mul of lysis buffer	cytolysis	pathologic cytolysis	C1536403
+38323	38347	GO:0008233	200 mul/ml proteinase k,	peptidase activity		C1150095
+38411	38428	GO:0008233	the proteinase k.	peptidase activity		C1150095
+38501	38524	GO:0005154	epidermal growth factor	epidermal growth factor	epidermal growth factor receptor binding activity	C1323367
+38530	38544	GO:0009790	embryonic stem	embryo development	Embryonic Development	C0013936
+38551	38577	GO:0009790	mouse embryonic fibroblast	embryo development	Embryonic Development	C0013936
+38614	38623	GO:0000496	base pair	base pairing	Base Pairing	C0600436
+39615	39641	GO:0007566	post-implantation embryos,	embryo implantation	Blastocyst Implantation, natural	C0029976
+39651	39674	GO:0009790	embryo resorption sites	embryo development	Embryonic Development	C0013936
+39708	39729	GO:0009790	that capn2-/- embryos	embryo development	Embryonic Development	C0013936
+39730	39767	GO:0003904	perished at a pre-implantation stage.	photoreactivating enzyme activity		C2257086
+39846	39850	GO:0005623	cell	cell	Cells	C0007634

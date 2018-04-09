@@ -1,0 +1,686 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+53	92	GO:0007608	olfactory expression of over 400 genes,	smell perception	Smell Perception	C0037361
+93	121	GO:0008380	extensive alternate splicing	RNA splicing	RNA Splicing	C0035687
+93	121	GO:0045292	extensive alternate splicing	nuclear mRNA cis splicing, via spliceosome		C2610186
+201	247	GO:0007608	approximately 1,500 mouse olfactory receptors,	smell perception	Smell Perception	C0037361
+252	303	GO:0007608	experimental evidence confirming olfactory function	smell perception	Smell Perception	C0037361
+341	382	GO:0007608	a mouse olfactory epithelium cdna library	smell perception	Smell Perception	C0037361
+406	449	GO:0007608	olfactory receptor expressed sequence tags,	smell perception	Smell Perception	C0037361
+460	490	GO:0007608	evidence of olfactory function	smell perception	Smell Perception	C0037361
+491	531	GO:0007608	for many additional olfactory receptors,	smell perception	Smell Perception	C0037361
+543	569	GO:0007567	identifying gene structure	parturition	Birth	C0005615
+543	569	GO:0000003	identifying gene structure	reproduction	Reproduction	C0035150
+624	658	GO:0007608	the olfactory receptor gene family	smell perception	Smell Perception	C0037361
+754	800	GO:0007608	approximately 1,500 mouse olfactory receptors,	smell perception	Smell Perception	C0037361
+805	856	GO:0007608	experimental evidence confirming olfactory function	smell perception	Smell Perception	C0037361
+860	903	GO:0007608	available for very few olfactory receptors.	smell perception	Smell Perception	C0037361
+926	967	GO:0007608	a mouse olfactory epithelium cdna library	smell perception	Smell Perception	C0037361
+978	1021	GO:0007608	olfactory receptor expressed sequence tags,	smell perception	Smell Perception	C0037361
+1032	1062	GO:0007608	evidence of olfactory function	smell perception	Smell Perception	C0037361
+1063	1103	GO:0007608	for many additional olfactory receptors,	smell perception	Smell Perception	C0037361
+1115	1141	GO:0007567	identifying gene structure	parturition	Birth	C0005615
+1115	1141	GO:0000003	identifying gene structure	reproduction	Reproduction	C0035150
+1249	1269	GO:0007567	more than 400 genes.	parturition	Birth	C0005615
+1249	1269	GO:0000003	more than 400 genes.	reproduction	Reproduction	C0035150
+1363	1413	GO:0007608	that transcript levels in the olfactory epithelium	smell perception	Smell Perception	C0037361
+1418	1452	GO:0007608	differ between olfactory receptors	smell perception	Smell Perception	C0037361
+1472	1501	GO:0007567	differences for one gene pair	parturition	Birth	C0005615
+1472	1501	GO:0000003	differences for one gene pair	reproduction	Reproduction	C0035150
+1559	1563	GO:0005623	cell	cell	Cells	C0007634
+1610	1614	GO:0005623	cell	cell	Cells	C0007634
+1616	1658	GO:0007608	at least two-thirds of olfactory receptors	smell perception	Smell Perception	C0037361
+1676	1689	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+1837	1899	GO:0007608	contrary to the stereotyped olfactory receptor gene structure.	smell perception	Smell Perception	C0037361
+1933	1967	GO:0007608	nonfunctional olfactory receptors,	smell perception	Smell Perception	C0037361
+2061	2138	GO:0007608	olfactory function of over one-third of the intact mouse olfactory receptors.	smell perception	Smell Perception	C0037361
+2139	2158	GO:0007567	most of these genes	parturition	Birth	C0005615
+2139	2158	GO:0000003	most of these genes	reproduction	Reproduction	C0035150
+2175	2207	GO:0007608	annotated as olfactory receptors	smell perception	Smell Perception	C0037361
+2257	2291	GO:0007608	that different olfactory receptors	smell perception	Smell Perception	C0037361
+2365	2380	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+2496	2525	GO:0007608	than 300 olfactory receptors,	smell perception	Smell Perception	C0037361
+2589	2637	GO:0007608	and for designing olfactory receptor microarrays	smell perception	Smell Perception	C0037361
+2682	2710	GO:0007608	the interaction of olfactory	smell perception	Smell Perception	C0037361
+2715	2760	GO:0005102	odorant) receptors with their odorant ligands	receptor ligand		C1621296
+2784	2803	GO:0007165	signal transduction	signal transduction	Signal Transduction	C0037083
+2812	2852	GO:0007608	that results in the perception of smell.	smell perception	Smell Perception	C0037361
+2853	2887	GO:0007608	the olfactory receptor gene family	smell perception	Smell Perception	C0037361
+2993	3012	GO:0007608	olfactory receptors	smell perception	Smell Perception	C0037361
+3108	3143	GO:0016021	seven-transmembrane-domain proteins	integral to membrane		C1167322
+3108	3143	GO:0044214	seven-transmembrane-domain proteins	transmembrane	fully spanning the plasma membrane	C2752508
+3144	3183	GO:0007567	encoded by a large, diverse gene family	parturition	Birth	C0005615
+3144	3183	GO:0000003	encoded by a large, diverse gene family	reproduction	Reproduction	C0035150
+3204	3242	GO:0007608	restricted to the olfactory epithelium	smell perception	Smell Perception	C0037361
+3401	3405	GO:0005623	cell	cell	Cells	C0007634
+3527	3562	GO:0007608	] olfactory receptor-gene catalogs.	smell perception	Smell Perception	C0037361
+3572	3609	GO:0007567	the assignment of most of these genes	parturition	Birth	C0005615
+3572	3609	GO:0000003	the assignment of most of these genes	reproduction	Reproduction	C0035150
+3610	3632	GO:0007608	as olfactory receptors	smell perception	Smell Perception	C0037361
+3663	3752	GO:0007608	to one of a relatively small number of experimentally confirmed mouse olfactory receptors	smell perception	Smell Perception	C0037361
+3764	3787	GO:0007567	on similarity to a gene	parturition	Birth	C0005615
+3764	3787	GO:0000003	on similarity to a gene	reproduction	Reproduction	C0035150
+3805	3844	GO:0007608	defined as an olfactory receptor solely	smell perception	Smell Perception	C0037361
+3938	3943	GO:0007567	genes	parturition	Birth	C0005615
+3938	3943	GO:0000003	genes	reproduction	Reproduction	C0035150
+4011	4036	GO:0007567	genes of similar sequence	parturition	Birth	C0005615
+4011	4036	GO:0000003	genes of similar sequence	reproduction	Reproduction	C0035150
+4123	4156	GO:0005351	the sugar transporter gene family	sugar porter activity		C1153164
+4164	4201	GO:0007608	a small subset of olfactory receptors	smell perception	Smell Perception	C0037361
+4216	4251	GO:0007608	expressed in non-olfactory tissues,	smell perception	Smell Perception	C0037361
+4284	4302	GO:0050909	also taste tissues	taste perception	Taste Perception	C0039336
+4284	4302	GO:0007607	also taste tissues	taste perception	Taste Perception	C0039336
+4284	4302	GO:0050912	also taste tissues	taste perception	Taste Perception	C0039336
+4333	4337	GO:0005623	cell	cell	Cells	C0007634
+4455	4486	GO:0007608	a subset of olfactory receptors	smell perception	Smell Perception	C0037361
+4533	4596	GO:0007608	recent studies of one human testis-expressed olfactory receptor	smell perception	Smell Perception	C0037361
+4644	4654	GO:0006935	chemotaxis	chemotaxis	Chemotaxis	C0008018
+4661	4744	GO:0007608	due to the paucity of experimental evidence of the olfactory function of most genes	smell perception	Smell Perception	C0037361
+4763	4800	GO:0007608	suggestions of extra-olfactory roles,	smell perception	Smell Perception	C0037361
+4804	4860	GO:0007608	embarked on an olfactory receptor expressed sequence tag	smell perception	Smell Perception	C0037361
+4886	4962	GO:0007608	olfactory epithelial expression of hundreds of mouse odorant receptor genes.	smell perception	Smell Perception	C0037361
+4964	4996	GO:0007608	within the olfactory epithelium,	smell perception	Smell Perception	C0037361
+4997	5032	GO:0007608	individual olfactory receptor genes	smell perception	Smell Perception	C0037361
+5072	5095	GO:0007608	each olfactory receptor	smell perception	Smell Perception	C0037361
+5124	5128	GO:0005623	cell	cell	Cells	C0007634
+5191	5212	GO:0007608	each olfactory neuron	smell perception	Smell Perception	C0037361
+5244	5279	GO:0007608	of a single olfactory receptor gene	smell perception	Smell Perception	C0037361
+5293	5332	GO:0007567	the remaining approximately 1,499 genes	parturition	Birth	C0005615
+5293	5332	GO:0000003	the remaining approximately 1,499 genes	reproduction	Reproduction	C0035150
+5487	5512	GO:0016444	somatic dna recombination	somatic cell DNA recombination		C1158526
+5525	5607	GO:0007608	one olfactory receptor gene into a transcriptionally active genomic configuration,	smell perception	Smell Perception	C0037361
+5611	5651	GO:0009291	observed for the yeast mating type locus	unidirectional conjugation		C1160186
+5611	5651	GO:0007618	observed for the yeast mating type locus	mating		C1260875
+5611	5651	GO:0000747	observed for the yeast mating type locus	conjugation with cellular fusion		C1748461
+5611	5651	GO:1990277	observed for the yeast mating type locus	parasexual conjugation with cellular fusion		C3812685
+5675	5689	GO:0003823	immunoglobulin	immunoglobulin	immunoglobulin activity	C1621846
+5764	5792	GO:0008134	transcription factor binding	transcription factor binding		C1149367
+5799	5819	GO:0007567	unique to each gene.	parturition	Birth	C0005615
+5799	5819	GO:0000003	unique to each gene.	reproduction	Reproduction	C0035150
+5850	5916	GO:0007608	even olfactory receptor transgenes with identical upstream regions	smell perception	Smell Perception	C0037361
+5991	6037	GO:0000988	a limiting quantity of transcription factors -	transcription factor activity		C1148759
+5991	6037	GO:0001070	a limiting quantity of transcription factors -	transcription factor activity		C1148759
+5991	6037	GO:0001071	a limiting quantity of transcription factors -	transcription factor activity		C1148759
+5991	6037	GO:0003700	a limiting quantity of transcription factors -	transcription factor activity		C1148759
+6042	6046	GO:0005623	cell	cell	Cells	C0007634
+6070	6083	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+6129	6178	GO:0007608	the promoter of only one olfactory receptor gene,	smell perception	Smell Perception	C0037361
+6286	6327	GO:0007567	set of variant surface glycoprotein genes	parturition	Birth	C0005615
+6286	6327	GO:0000003	set of variant surface glycoprotein genes	reproduction	Reproduction	C0035150
+6362	6375	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+6498	6523	GO:0007608	other olfactory receptors	smell perception	Smell Perception	C0037361
+6616	6644	GO:0007608	all olfactory receptor genes	smell perception	Smell Perception	C0037361
+6657	6685	GO:0008134	transcription factor binding	transcription factor binding		C1149367
+6718	6742	GO:0007608	olfactory receptor genes	smell perception	Smell Perception	C0037361
+6755	6785	GO:0006310	a common recombination signal.	DNA recombination	Recombination, Genetic	C0034865
+6909	6922	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+6983	7020	GO:0007608	our olfactory receptor est collection	smell perception	Smell Perception	C0037361
+7059	7083	GO:0007567	sequences for many genes	parturition	Birth	C0005615
+7059	7083	GO:0000003	sequences for many genes	reproduction	Reproduction	C0035150
+7148	7172	GO:0007608	olfactory receptor genes	smell perception	Smell Perception	C0037361
+7242	7289	GO:0007608	experimental olfactory receptor identification.	smell perception	Smell Perception	C0037361
+7290	7332	GO:0007608	for a small number of olfactory receptors,	smell perception	Smell Perception	C0037361
+7333	7347	GO:0007567	gene structure	parturition	Birth	C0005615
+7333	7347	GO:0000003	gene structure	reproduction	Reproduction	C0035150
+7584	7629	GO:0007608	described for some human olfactory receptors,	smell perception	Smell Perception	C0037361
+7728	7762	GO:0007567	gene structure for about 30 genes,	parturition	Birth	C0005615
+7728	7762	GO:0000003	gene structure for about 30 genes,	reproduction	Reproduction	C0035150
+7763	7766	GO:0007601	see	vision	Vision	C0042789
+7987	8026	GO:0007608	similarity to other olfactory receptors	smell perception	Smell Perception	C0037361
+8091	8106	GO:0007567	around 15 genes	parturition	Birth	C0005615
+8091	8106	GO:0000003	around 15 genes	reproduction	Reproduction	C0035150
+8204	8243	GO:0007608	the total number of olfactory receptors	smell perception	Smell Perception	C0037361
+8244	8268	GO:0007567	for which gene structure	parturition	Birth	C0005615
+8244	8268	GO:0000003	for which gene structure	reproduction	Reproduction	C0035150
+8401	8428	GO:0007567	419 odorant receptor genes.	parturition	Birth	C0005615
+8401	8428	GO:0000003	419 odorant receptor genes.	reproduction	Reproduction	C0035150
+8441	8519	GO:0007608	a mouse olfactory epithelium library with degenerate olfactory receptor probes	smell perception	Smell Perception	C0037361
+8599	8652	GO:0007608	olfactory expression of over 400 olfactory receptors,	smell perception	Smell Perception	C0037361
+8661	8682	GO:0007567	their gene structure,	parturition	Birth	C0005615
+8661	8682	GO:0000003	their gene structure,	reproduction	Reproduction	C0035150
+8704	8727	GO:0007608	all olfactory receptors	smell perception	Smell Perception	C0037361
+8774	8803	GO:0007608	most olfactory receptor genes	smell perception	Smell Perception	C0037361
+8818	8831	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+8854	8897	GO:0007608	at least 419 mouse olfactory receptor genes	smell perception	Smell Perception	C0037361
+8902	8939	GO:0007608	expressed in the olfactory epithelium	smell perception	Smell Perception	C0037361
+8958	8995	GO:0007608	1,264 olfactory receptor cdna clones,	smell perception	Smell Perception	C0037361
+9019	9097	GO:0007608	the olfactory epithelial expression of 419 annotated olfactory receptor genes.	smell perception	Smell Perception	C0037361
+9106	9173	GO:0007608	low-stringency hybridization with degenerate olfactory receptor dna	smell perception	Smell Perception	C0037361
+9184	9286	GO:0007608	screen around 4,100,000 plaque-forming units (pfu) of an adult mouse olfactory epithelium cdna library	smell perception	Smell Perception	C0037361
+9287	9355	GO:0009790	and around 640,000 pfu of an embryonic olfactory epithelium library.	embryo development	Embryonic Development	C0013936
+9489	9543	GO:0007608	1,264 yielded olfactory receptor-containing sequences.	smell perception	Smell Perception	C0037361
+9637	9657	GO:0002524	maximal sensitivity.	hypersensitivity	Hypersensitivity	C0020517
+9709	9745	GO:0007608	from additional olfactory receptors,	smell perception	Smell Perception	C0037361
+9790	9849	GO:0007608	our final batch of 45 olfactory receptor-positive sequences	smell perception	Smell Perception	C0037361
+9862	9895	GO:0007608	33 different olfactory receptors,	smell perception	Smell Perception	C0037361
+10231	10277	GO:0007608	the 83 olfactory receptor-containing sequences	smell perception	Smell Perception	C0037361
+10627	10651	GO:0007608	olfactory receptor cdnas	smell perception	Smell Perception	C0037361
+10660	10682	GO:0007567	the gene's start codon	parturition	Birth	C0005615
+10660	10682	GO:0000003	the gene's start codon	reproduction	Reproduction	C0035150
+10791	10836	GO:0007608	our catalog of mouse olfactory receptor genes	smell perception	Smell Perception	C0037361
+10906	10965	GO:0007608	previous reports of the mouse olfactory receptor repertoire	smell perception	Smell Perception	C0037361
+11184	11208	GO:0007608	1,490 olfactory receptor	smell perception	Smell Perception	C0037361
+11250	11287	GO:0007608	1,107 intact olfactory receptor genes	smell perception	Smell Perception	C0037361
+11289	11331	GO:0007608	compared to 866 intact olfactory receptors	smell perception	Smell Perception	C0037361
+11509	11536	GO:0007608	all olfactory receptor loci	smell perception	Smell Perception	C0037361
+11595	11652	GO:0007608	each cdna sequence to this 'olfactory subgenome' database	smell perception	Smell Perception	C0037361
+11682	11710	GO:0007567	assigned to individual genes	parturition	Birth	C0005615
+11682	11710	GO:0000003	assigned to individual genes	reproduction	Reproduction	C0035150
+11737	11775	GO:0007608	to an olfactory receptor coding region	smell perception	Smell Perception	C0037361
+11800	11803	GO:0007601	see	vision	Vision	C0042789
+11828	11866	GO:0007608	of the 1,264 olfactory receptor cdnas,	smell perception	Smell Perception	C0037361
+11881	11920	GO:0007608	a total of 419 olfactory receptor genes	smell perception	Smell Perception	C0037361
+11957	12022	GO:0007608	an olfactory receptor below our 96% nucleotide identity threshold	smell perception	Smell Perception	C0037361
+12061	12105	GO:0007608	more than one olfactory receptor gene region	smell perception	Smell Perception	C0037361
+12107	12116	GO:0007601	see below	vision	Vision	C0042789
+12120	12166	GO:0007608	a class i olfactory receptor degenerate primer	smell perception	Smell Perception	C0037361
+12176	12239	GO:0007608	phylogenetic distribution of confirmed olfactory receptor genes	smell perception	Smell Perception	C0037361
+12241	12301	GO:0007608	previous analyses of the mammalian olfactory receptor family	smell perception	Smell Perception	C0037361
+12367	12390	GO:0007608	ii olfactory receptors,	smell perception	Smell Perception	C0037361
+12403	12435	GO:0007608	that class i olfactory receptors	smell perception	Smell Perception	C0037361
+12440	12480	GO:0007608	more similar to fish olfactory receptors	smell perception	Smell Perception	C0037361
+12598	12658	GO:0010467	confirmed expression of at least one olfactory receptor gene	gene expression	Gene Expression	C0017262
+12659	12720	GO:0007608	in each major clade of the class ii olfactory receptor genes,	smell perception	Smell Perception	C0037361
+12745	12832	GO:0007608	of all intact class ii olfactory receptor genes where full-length genomic sequence data	smell perception	Smell Perception	C0037361
+12899	12956	GO:0007608	unbiased in its coverage of class ii olfactory receptors.	smell perception	Smell Perception	C0037361
+13012	13071	GO:0007608	out of 124 intact, full-length class i olfactory receptors.	smell perception	Smell Perception	C0037361
+13223	13243	GO:0009790	an embryonic library	embryo development	Embryonic Development	C0013936
+13507	13520	GO:0007567	class i genes	parturition	Birth	C0005615
+13507	13520	GO:0000003	class i genes	reproduction	Reproduction	C0035150
+13564	13592	GO:0007608	in the olfactory epithelium.	smell perception	Smell Perception	C0037361
+13623	13650	GO:0007608	class i olfactory receptors	smell perception	Smell Perception	C0037361
+13655	13693	GO:0007608	expressed in the olfactory epithelium,	smell perception	Smell Perception	C0037361
+13754	13787	GO:0016021	a motif in transmembrane domain 7	integral to membrane		C1167322
+13754	13787	GO:0044214	a motif in transmembrane domain 7	transmembrane	fully spanning the plasma membrane	C2752508
+13813	13865	GO:0007608	enriched among class i olfactory receptor sequences.	smell perception	Smell Perception	C0037361
+13887	13924	GO:0007608	shared among all olfactory receptors,	smell perception	Smell Perception	C0037361
+14013	14033	GO:0007567	intact class i genes	parturition	Birth	C0005615
+14013	14033	GO:0000003	intact class i genes	reproduction	Reproduction	C0035150
+14070	14092	GO:0007567	intact class ii genes.	parturition	Birth	C0005615
+14070	14092	GO:0000003	intact class ii genes.	reproduction	Reproduction	C0035150
+14098	14157	GO:0007608	combined with another olfactory receptor degenerate primer,	smell perception	Smell Perception	C0037361
+14205	14255	GO:0007608	class i olfactory receptors from mouse genomic dna	smell perception	Smell Perception	C0037361
+14310	14354	GO:0007608	seven different class i olfactory receptors,	smell perception	Smell Perception	C0037361
+14371	14416	GO:0007608	three different class ii olfactory receptors,	smell perception	Smell Perception	C0037361
+14437	14488	GO:0007608	five different non-olfactory receptor contaminants.	smell perception	Smell Perception	C0037361
+14518	14578	GO:0007608	sequencing from reverse-transcribed olfactory epithelium rna	smell perception	Smell Perception	C0037361
+14586	14633	GO:0007608	that at least seven class i olfactory receptors	smell perception	Smell Perception	C0037361
+14660	14688	GO:0007567	one additional class ii gene	parturition	Birth	C0005615
+14660	14688	GO:0000003	one additional class ii gene	reproduction	Reproduction	C0035150
+14773	14818	GO:0007608	the fetal olfactory epithelium cdna libraries	smell perception	Smell Perception	C0037361
+14883	14930	GO:0007608	very low levels of class i olfactory receptors.	smell perception	Smell Perception	C0037361
+14931	14998	GO:0007608	we also confirmed expression of nine additional olfactory receptors	smell perception	Smell Perception	C0037361
+15126	15146	GO:0007567	gene-specific primer	parturition	Birth	C0005615
+15126	15146	GO:0000003	gene-specific primer	reproduction	Reproduction	C0035150
+15216	15244	GO:0007567	for two of the class i genes	parturition	Birth	C0005615
+15216	15244	GO:0000003	for two of the class i genes	reproduction	Reproduction	C0035150
+15343	15352	GO:0007601	see below	vision	Vision	C0042789
+15395	15413	GO:0007567	observed for genes	parturition	Birth	C0005615
+15395	15413	GO:0000003	observed for genes	reproduction	Reproduction	C0035150
+15471	15503	GO:0007608	that class i olfactory receptors	smell perception	Smell Perception	C0037361
+15512	15558	GO:0007608	under-represented in the olfactory epithelium,	smell perception	Smell Perception	C0037361
+15685	15714	GO:0007608	some olfactory receptor genes	smell perception	Smell Perception	C0037361
+15685	15714	GO:0007608	some olfactory receptor genes	smell perception	Smell Perception	C0037361
+15866	15894	GO:0007608	all olfactory receptor genes	smell perception	Smell Perception	C0037361
+15959	16022	GO:0007608	unbiased in their coverage of the class ii olfactory receptors,	smell perception	Smell Perception	C0037361
+16043	16083	GO:0007608	detected per class ii olfactory receptor	smell perception	Smell Perception	C0037361
+16162	16205	GO:0007608	all 983 intact class ii olfactory receptors	smell perception	Smell Perception	C0037361
+16267	16299	GO:0007608	that class i olfactory receptors	smell perception	Smell Perception	C0037361
+16423	16466	GO:0007567	any gene with at least eight matching cdnas	parturition	Birth	C0005615
+16423	16466	GO:0000003	any gene with at least eight matching cdnas	reproduction	Reproduction	C0035150
+16496	16544	GO:0007608	assigned to single olfactory receptor sequences.	smell perception	Smell Perception	C0037361
+16554	16581	GO:0007608	for 17 olfactory receptors,	smell perception	Smell Perception	C0037361
+16676	16711	GO:0007608	than other olfactory receptor genes	smell perception	Smell Perception	C0037361
+16724	16747	GO:0007567	the two genes for which	parturition	Birth	C0005615
+16724	16747	GO:0000003	the two genes for which	reproduction	Reproduction	C0035150
+16829	16887	GO:0007608	and in the well-studied olfactory receptor cluster next to	smell perception	Smell Perception	C0037361
+16894	16898	GO:0005623	cell	cell	Cells	C0007634
+16936	16982	GO:0007608	quantitative rt-pcr of six olfactory receptors	smell perception	Smell Perception	C0037361
+17030	17057	GO:0007567	considerably between genes.	parturition	Birth	C0005615
+17030	17057	GO:0000003	considerably between genes.	reproduction	Reproduction	C0035150
+17106	17176	GO:0007608	olfactory epithelium transcript levels of six olfactory receptor genes	smell perception	Smell Perception	C0037361
+17181	17243	GO:0005840	the ribosomal s16 gene in three mice of the same inbred strain	ribosome	Ribosomes	C0035553
+17256	17267	GO:0007567	these genes	parturition	Birth	C0005615
+17256	17267	GO:0000003	these genes	reproduction	Reproduction	C0035150
+17276	17309	GO:0007608	two olfactory receptors with more	smell perception	Smell Perception	C0037361
+17373	17428	GO:0007608	two class i olfactory receptors with no matching cdnas.	smell perception	Smell Perception	C0037361
+17457	17502	GO:0007567	transcript level per genomic copy of the gene	parturition	Birth	C0005615
+17457	17502	GO:0000003	transcript level per genomic copy of the gene	reproduction	Reproduction	C0035150
+17525	17552	GO:0007567	a gene-specific primer pair	parturition	Birth	C0005615
+17525	17552	GO:0000003	a gene-specific primer pair	reproduction	Reproduction	C0035150
+17588	17655	GO:0006277	relative to a standard curve of amplification of mouse genomic dna.	DNA amplification	dna amplification	C0683230
+17715	17728	GO:0007567	between genes	parturition	Birth	C0005615
+17715	17728	GO:0000003	between genes	reproduction	Reproduction	C0035150
+17723	17728	GO:0007567	genes	parturition	Birth	C0005615
+17723	17728	GO:0000003	genes	reproduction	Reproduction	C0035150
+17963	17985	GO:0007567	some genes over others	parturition	Birth	C0005615
+17963	17985	GO:0000003	some genes over others	reproduction	Reproduction	C0035150
+18037	18063	GO:0007567	genes with shorter 3' utrs	parturition	Birth	C0005615
+18037	18063	GO:0000003	genes with shorter 3' utrs	reproduction	Reproduction	C0035150
+18137	18189	GO:0007567	between two genes for which similar numbers of cdnas	parturition	Birth	C0005615
+18137	18189	GO:0000003	between two genes for which similar numbers of cdnas	reproduction	Reproduction	C0035150
+18201	18207	GO:0007567	(genes	parturition	Birth	C0005615
+18201	18207	GO:0000003	(genes	reproduction	Reproduction	C0035150
+18244	18287	GO:0010467	similar expression levels between two genes	gene expression	Gene Expression	C0017262
+18340	18348	GO:0007567	(genes b	parturition	Birth	C0005615
+18340	18348	GO:0000003	(genes b	reproduction	Reproduction	C0035150
+18439	18508	GO:0010467	similar expression-level differences between olfactory receptor genes	gene expression	Gene Expression	C0017262
+18546	18577	GO:0007567	the rank order of the six genes	parturition	Birth	C0005615
+18546	18577	GO:0000003	the rank order of the six genes	reproduction	Reproduction	C0035150
+18630	18673	GO:0010467	variation in expression level of some genes	gene expression	Gene Expression	C0017262
+18701	18708	GO:0007567	gene e,	parturition	Birth	C0005615
+18701	18708	GO:0000003	gene e,	reproduction	Reproduction	C0035150
+18797	18801	GO:0005623	cell	cell	Cells	C0007634
+18873	18897	GO:0007567	between two of the genes	parturition	Birth	C0005615
+18873	18897	GO:0000003	between two of the genes	reproduction	Reproduction	C0035150
+18922	18928	GO:0007567	(genes	parturition	Birth	C0005615
+18922	18928	GO:0000003	(genes	reproduction	Reproduction	C0035150
+19008	19055	GO:0007608	an entire olfactory epithelium of a young mouse	smell perception	Smell Perception	C0037361
+19061	19083	GO:0007567	with probes for gene a	parturition	Birth	C0005615
+19061	19083	GO:0000003	with probes for gene a	reproduction	Reproduction	C0035150
+19088	19095	GO:0007567	gene d.	parturition	Birth	C0005615
+19088	19095	GO:0000003	gene d.	reproduction	Reproduction	C0035150
+19165	19205	GO:0007567	hybridize to their intended target genes	parturition	Birth	C0005615
+19165	19205	GO:0000003	hybridize to their intended target genes	reproduction	Reproduction	C0035150
+19233	19239	GO:0007567	gene a	parturition	Birth	C0005615
+19233	19239	GO:0000003	gene a	reproduction	Reproduction	C0035150
+19348	19380	GO:0010467	the expression pattern of gene d	gene expression	Gene Expression	C0017262
+19390	19458	GO:0007608	correspond to any of the four 'classical' olfactory epithelial zones	smell perception	Smell Perception	C0037361
+19480	19484	GO:0005623	cell	cell	Cells	C0007634
+19591	19595	GO:0007601	seen	vision	Vision	C0042789
+19634	19658	GO:0007608	orz6 olfactory receptors	smell perception	Smell Perception	C0037361
+19718	19722	GO:0005623	cell	cell	Cells	C0007634
+19784	19795	GO:0007567	that gene a	parturition	Birth	C0005615
+19784	19795	GO:0000003	that gene a	reproduction	Reproduction	C0035150
+19818	19822	GO:0005623	cell	cell	Cells	C0007634
+19845	19849	GO:0005623	cell	cell	Cells	C0007634
+19901	19905	GO:0005623	cell	cell	Cells	C0007634
+19957	19961	GO:0005623	cell	cell	Cells	C0007634
+20106	20110	GO:0005623	cell	cell	Cells	C0007634
+20111	20121	GO:0007567	for gene a	parturition	Birth	C0005615
+20111	20121	GO:0000003	for gene a	reproduction	Reproduction	C0035150
+20188	20192	GO:0005623	cell	cell	Cells	C0007634
+20271	20290	GO:0007567	stronger for gene a	parturition	Birth	C0005615
+20271	20290	GO:0000003	stronger for gene a	reproduction	Reproduction	C0035150
+20291	20335	GO:0007567	than gene d after comparable exposure times,	parturition	Birth	C0005615
+20291	20335	GO:0000003	than gene d after comparable exposure times,	reproduction	Reproduction	C0035150
+20402	20406	GO:0005623	cell	cell	Cells	C0007634
+20449	20453	GO:0005623	cell	cell	Cells	C0007634
+20480	20484	GO:0005623	cell	cell	Cells	C0007634
+20494	20572	GO:0007608	account for the almost 300-fold higher olfactory epithelial rna levels of gene	smell perception	Smell Perception	C0037361
+20573	20591	GO:0007567	a relative to gene	parturition	Birth	C0005615
+20573	20591	GO:0000003	a relative to gene	reproduction	Reproduction	C0035150
+20607	20636	GO:0007608	most olfactory receptor genes	smell perception	Smell Perception	C0037361
+20650	20663	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+20704	20755	GO:0007608	that at least two thirds of the olfactory receptors	smell perception	Smell Perception	C0037361
+20769	20821	GO:0008380	alternative splicing of their 5' untranslated exons.	RNA splicing	RNA Splicing	C0035687
+20769	20821	GO:0045292	alternative splicing of their 5' untranslated exons.	nuclear mRNA cis splicing, via spliceosome		C2610186
+20959	20985	GO:0007567	of the 191 genes for which	parturition	Birth	C0005615
+20959	20985	GO:0000003	of the 191 genes for which	reproduction	Reproduction	C0035150
+21026	21044	GO:0008380	alternate splicing	RNA splicing	RNA Splicing	C0035687
+21026	21044	GO:0045292	alternate splicing	nuclear mRNA cis splicing, via spliceosome		C2610186
+21127	21152	GO:0007567	of the 82 genes for which	parturition	Birth	C0005615
+21127	21152	GO:0000003	of the 82 genes for which	reproduction	Reproduction	C0035150
+21219	21241	GO:0008380	any alternate splicing	RNA splicing	RNA Splicing	C0035687
+21219	21241	GO:0045292	any alternate splicing	nuclear mRNA cis splicing, via spliceosome		C2610186
+21400	21440	GO:0007608	at least half of the olfactory receptors	smell perception	Smell Perception	C0037361
+21484	21519	GO:0043631	more than one polyadenylation site,	RNA polyadenylation	Polyadenylation	C0949765
+21759	21774	GO:0007567	genes for which	parturition	Birth	C0005615
+21759	21774	GO:0000003	genes for which	reproduction	Reproduction	C0035150
+21848	21896	GO:0043631	the alternative polyadenylation isoforms of four	RNA polyadenylation	Polyadenylation	C0949765
+21897	21937	GO:0007567	out of five selected genes by sequencing	parturition	Birth	C0005615
+21897	21937	GO:0000003	out of five selected genes by sequencing	reproduction	Reproduction	C0035150
+22131	22208	GO:0007608	contrary to the conventional stereotype of olfactory receptor gene structure.	smell perception	Smell Perception	C0037361
+22210	22241	GO:0007608	a subset of olfactory receptors	smell perception	Smell Perception	C0037361
+22248	22264	GO:0008380	unusual splicing	RNA splicing	RNA Splicing	C0035687
+22248	22264	GO:0045292	unusual splicing	nuclear mRNA cis splicing, via spliceosome		C2610186
+22289	22325	GO:0007608	(5% of all olfactory receptor clones	smell perception	Smell Perception	C0037361
+22327	22361	GO:0007608	from 38 intact olfactory receptors	smell perception	Smell Perception	C0037361
+22366	22405	GO:0007608	one olfactory receptor pseudogene where	smell perception	Smell Perception	C0037361
+22462	22475	GO:0007567	for two genes	parturition	Birth	C0005615
+22462	22475	GO:0000003	for two genes	reproduction	Reproduction	C0035150
+22539	22578	GO:0007608	an intact olfactory receptor with three	smell perception	Smell Perception	C0037361
+22582	22598	GO:1902698	ten amino acids,	acidogenesis		C3823112
+22582	22598	GO:1902705	ten amino acids,	acidogenesis		C3823112
+22582	22598	GO:1902706	ten amino acids,	acidogenesis		C3823112
+22582	22598	GO:1902699	ten amino acids,	acidogenesis		C3823112
+22669	22693	GO:0007567	a similar gene structure	parturition	Birth	C0005615
+22669	22693	GO:0000003	a similar gene structure	reproduction	Reproduction	C0035150
+22708	22749	GO:0007608	previously for a human olfactory receptor	smell perception	Smell Perception	C0037361
+22756	22784	GO:0007567	one of these two mouse genes	parturition	Birth	C0005615
+22756	22784	GO:0000003	one of these two mouse genes	reproduction	Reproduction	C0035150
+22846	22879	GO:0008380	the unusual splicing thus rescues	RNA splicing	RNA Splicing	C0035687
+22846	22879	GO:0045292	the unusual splicing thus rescues	nuclear mRNA cis splicing, via spliceosome		C2610186
+22904	22925	GO:0007567	a dysfunctional gene.	parturition	Birth	C0005615
+22904	22925	GO:0000003	a dysfunctional gene.	reproduction	Reproduction	C0035150
+23536	23549	GO:0008380	that splicing	RNA splicing	RNA Splicing	C0035687
+23536	23549	GO:0045292	that splicing	nuclear mRNA cis splicing, via spliceosome		C2610186
+23603	23665	GO:0007608	significantly to the olfactory receptor transcript repertoire.	smell perception	Smell Perception	C0037361
+23666	23688	GO:0007567	for 21 of the 26 genes	parturition	Birth	C0005615
+23666	23688	GO:0000003	for 21 of the 26 genes	reproduction	Reproduction	C0035150
+23843	23879	GO:0007567	for the remaining 13 of the 3' genes	parturition	Birth	C0005615
+23843	23879	GO:0000003	for the remaining 13 of the 3' genes	reproduction	Reproduction	C0035150
+23888	23901	GO:0008380	odd splicing,	RNA splicing	RNA Splicing	C0035687
+23888	23901	GO:0045292	odd splicing,	nuclear mRNA cis splicing, via spliceosome		C2610186
+24015	24080	GO:0008380	both by previous reports of splicing of human olfactory receptors	RNA splicing	RNA Splicing	C0035687
+24090	24122	GO:0046776	major histocompatibility complex	major histocompatibility complex	major histocompatibility complex location	C1753349
+24138	24157	GO:0007567	where several genes	parturition	Birth	C0005615
+24138	24157	GO:0000003	where several genes	reproduction	Reproduction	C0035150
+24235	24282	GO:0007608	that olfactory receptor transcriptional control	smell perception	Smell Perception	C0037361
+24304	24321	GO:0006310	DNA recombination	DNA recombination	Recombination, Genetic	C0034865
+24450	24500	GO:0007608	the entire sequence of each olfactory receptor est	smell perception	Smell Perception	C0037361
+24509	24553	GO:0007567	the corresponding gene's genomic 'territory'	parturition	Birth	C0005615
+24509	24553	GO:0000003	the corresponding gene's genomic 'territory'	reproduction	Reproduction	C0035150
+24593	24625	GO:0007567	after the preceding gene to 1 kb	parturition	Birth	C0005615
+24593	24625	GO:0000003	after the preceding gene to 1 kb	reproduction	Reproduction	C0035150
+24626	24653	GO:0007567	after the gene's stop codon	parturition	Birth	C0005615
+24626	24653	GO:0000003	after the gene's stop codon	reproduction	Reproduction	C0035150
+24700	24731	GO:0007608	other olfactory receptor genes,	smell perception	Smell Perception	C0037361
+24735	24767	GO:0007608	reported for olfactory receptors	smell perception	Smell Perception	C0037361
+24768	24791	GO:0046776	in the human mhc region	major histocompatibility complex	major histocompatibility complex location	C1753349
+24821	24861	GO:0007567	further than a single gene's 'territory'	parturition	Birth	C0005615
+24821	24861	GO:0000003	further than a single gene's 'territory'	reproduction	Reproduction	C0035150
+25168	25197	GO:0007608	disrupted olfactory receptors	smell perception	Smell Perception	C0037361
+25313	25355	GO:0007608	olfactory receptor transcriptional control	smell perception	Smell Perception	C0037361
+25371	25388	GO:0006310	DNA recombination	DNA recombination	Recombination, Genetic	C0034865
+25468	25506	GO:0043336	with the rest of the transcript coming	site-specific telomere resolvase activity		C1622890
+25565	25594	GO:0006310	the recombination hypothesis,	DNA recombination	Recombination, Genetic	C0034865
+25890	25930	GO:0007608	from three different olfactory receptors	smell perception	Smell Perception	C0037361
+26154	26171	GO:0006310	DNA recombination	DNA recombination	Recombination, Genetic	C0034865
+26333	26350	GO:0006310	DNA recombination	DNA recombination	Recombination, Genetic	C0034865
+26354	26416	GO:0007608	responsible for olfactory receptor transcriptional regulation,	smell perception	Smell Perception	C0037361
+26510	26546	GO:0007608	both unclustered olfactory receptors	smell perception	Smell Perception	C0037361
+26551	26581	GO:0007608	olfactory receptor pseudogenes	smell perception	Smell Perception	C0037361
+26630	26649	GO:0007608	olfactory receptors	smell perception	Smell Perception	C0037361
+26727	26784	GO:0007608	the clustered genomic organization of olfactory receptors	smell perception	Smell Perception	C0037361
+26881	26896	GO:0007567	the gene family	parturition	Birth	C0005615
+26881	26896	GO:0000003	the gene family	reproduction	Reproduction	C0035150
+26902	26933	GO:0007608	'singleton' olfactory receptors	smell perception	Smell Perception	C0037361
+26935	26977	GO:0007608	defined as full-length olfactory receptors	smell perception	Smell Perception	C0037361
+26978	27026	GO:0007608	without another olfactory receptor within 0.5 mb	smell perception	Smell Perception	C0037361
+27064	27095	GO:0007608	olfactory receptors in clusters	smell perception	Smell Perception	C0037361
+27158	27208	GO:0007608	of the eight intact singleton olfactory receptors,	smell perception	Smell Perception	C0037361
+27276	27305	GO:0007608	found for olfactory receptors	smell perception	Smell Perception	C0037361
+27350	27408	GO:0007608	an absolute requirement for olfactory receptor expression.	smell perception	Smell Perception	C0037361
+27433	27468	GO:0007567	these two expressed singleton genes	parturition	Birth	C0005615
+27433	27468	GO:0000003	these two expressed singleton genes	reproduction	Reproduction	C0035150
+27473	27521	GO:0007608	part of 'extended' olfactory receptor clusters -	smell perception	Smell Perception	C0037361
+27522	27564	GO:0007608	their nearest olfactory receptor neighbors	smell perception	Smell Perception	C0037361
+27626	27661	GO:0007608	some olfactory receptor pseudogenes	smell perception	Smell Perception	C0037361
+27709	27741	GO:0007608	than intact olfactory receptors.	smell perception	Smell Perception	C0037361
+27754	27833	GO:0007608	the 1,392 olfactory receptor gene sequences for which reliable full-length data	smell perception	Smell Perception	C0037361
+27964	27991	GO:0007608	intact olfactory receptors.	smell perception	Smell Perception	C0037361
+28047	28096	GO:0007567	intact genes in the public mouse genome sequence.	parturition	Birth	C0005615
+28047	28096	GO:0000003	intact genes in the public mouse genome sequence.	reproduction	Reproduction	C0035150
+28097	28143	GO:0007567	the defects in celera's version of these genes	parturition	Birth	C0005615
+28097	28143	GO:0000003	the defects in celera's version of these genes	reproduction	Reproduction	C0035150
+28447	28510	GO:0007608	1,264 odorant receptor cdnas from 419 olfactory receptor genes,	smell perception	Smell Perception	C0037361
+28522	28567	GO:0007608	their expression in the olfactory epithelium.	smell perception	Smell Perception	C0037361
+28591	28679	GO:0007608	the similarity-based prediction of over one-third of the intact olfactory receptor genes	smell perception	Smell Perception	C0037361
+28772	28825	GO:0007608	for which experimental evidence of olfactory function	smell perception	Smell Perception	C0037361
+28848	28896	GO:0007608	not found cdnas for all olfactory receptor genes	smell perception	Smell Perception	C0037361
+28997	29050	GO:0007608	biased toward certain olfactory receptor subfamilies.	smell perception	Smell Perception	C0037361
+29115	29192	GO:0007608	confirmed olfactory expression of a number of additional olfactory receptors,	smell perception	Smell Perception	C0037361
+29202	29246	GO:0007608	the total number of olfactory receptor genes	smell perception	Smell Perception	C0037361
+29332	29396	GO:0007608	at least one representative with evidence of olfactory function.	smell perception	Smell Perception	C0037361
+29448	29472	GO:0007608	some olfactory receptors	smell perception	Smell Perception	C0037361
+29615	29642	GO:0007608	with one olfactory receptor	smell perception	Smell Perception	C0037361
+29768	29772	GO:0005623	cell	cell	Cells	C0007634
+29780	29828	GO:0007608	a greater number of olfactory neurons 'choosing'	smell perception	Smell Perception	C0037361
+29829	29841	GO:0007567	those genes.	parturition	Birth	C0005615
+29829	29841	GO:0000003	those genes.	reproduction	Reproduction	C0035150
+29842	29863	GO:0007567	for one pair of genes	parturition	Birth	C0005615
+29842	29863	GO:0000003	for one pair of genes	reproduction	Reproduction	C0035150
+29973	29998	GO:0007567	data for additional genes	parturition	Birth	C0005615
+29973	29998	GO:0000003	data for additional genes	reproduction	Reproduction	C0035150
+30042	30046	GO:0005623	cell	cell	Cells	C0007634
+30074	30078	GO:0005623	cell	cell	Cells	C0007634
+30079	30121	GO:0007608	vary across the olfactory receptor family.	smell perception	Smell Perception	C0037361
+30171	30211	GO:0007608	that different olfactory receptor genes,	smell perception	Smell Perception	C0037361
+30220	30267	GO:0007608	copies of the same olfactory receptor transgene	smell perception	Smell Perception	C0037361
+30337	30341	GO:0005623	cell	cell	Cells	C0007634
+30408	30412	GO:0005623	cell	cell	Cells	C0007634
+30428	30438	GO:0007567	some genes	parturition	Birth	C0005615
+30428	30438	GO:0000003	some genes	reproduction	Reproduction	C0035150
+30521	30525	GO:0005623	cell	cell	Cells	C0007634
+30547	30603	GO:0007608	each olfactory neuron's single-allele expression regime.	smell perception	Smell Perception	C0037361
+30691	30714	GO:0007608	each olfactory receptor	smell perception	Smell Perception	C0037361
+30718	30776	GO:0007608	expressed in one of four zones of the olfactory epithelium	smell perception	Smell Perception	C0037361
+30800	30855	GO:0007608	choose from a smaller olfactory receptor sub-repertoire	smell perception	Smell Perception	C0037361
+30873	30925	GO:0007608	each olfactory receptor in a larger number of cells?	smell perception	Smell Perception	C0037361
+30934	30994	GO:0007608	that several apparently highly expressed olfactory receptors	smell perception	Smell Perception	C0037361
+30995	31003	GO:0007567	(gene a,	parturition	Birth	C0005615
+30995	31003	GO:0000003	(gene a,	reproduction	Reproduction	C0035150
+31046	31094	GO:0007608	expressed in zone 4 of the olfactory epithelium.	smell perception	Smell Perception	C0037361
+31145	31210	GO:0007608	contribute to increased representation of the olfactory receptors	smell perception	Smell Perception	C0037361
+31261	31292	GO:0007608	the favored olfactory receptors	smell perception	Smell Perception	C0037361
+31331	31360	GO:0007608	some olfactory receptor mrnas	smell perception	Smell Perception	C0037361
+31437	31441	GO:0005623	cell	cell	Cells	C0007634
+31447	31481	GO:0007608	the favored olfactory receptors in	smell perception	Smell Perception	C0037361
+31492	31501	GO:0000785	chromatin	chromatin	chromatin location	C1325550
+31553	31615	GO:0007608	transcription of apparent 'singleton' olfactory receptor genes	smell perception	Smell Perception	C0037361
+31649	31678	GO:0007608	other olfactory receptor gene	smell perception	Smell Perception	C0037361
+31750	31775	GO:0007608	for an olfactory receptor	smell perception	Smell Perception	C0037361
+31824	31864	GO:0007608	that small olfactory receptor transgenes	smell perception	Smell Perception	C0037361
+31908	31950	GO:0007608	outside native olfactory receptor clusters	smell perception	Smell Perception	C0037361
+31966	32032	GO:0007608	the high pseudogene count among singleton olfactory receptor genes	smell perception	Smell Perception	C0037361
+32046	32088	GO:0007608	20% for clustered olfactory receptor genes	smell perception	Smell Perception	C0037361
+32134	32181	GO:0007608	favorable for olfactory receptor gene survival,	smell perception	Smell Perception	C0037361
+32197	32210	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+32279	32372	GO:0007608	responsible for reduced pseudogene content of clustered olfactory receptors - gene conversion	smell perception	Smell Perception	C0037361
+32373	32412	GO:0007608	between neighboring olfactory receptors	smell perception	Smell Perception	C0037361
+32426	32468	GO:0007567	inactivating mutations in clustered genes,	parturition	Birth	C0005615
+32426	32468	GO:0000003	inactivating mutations in clustered genes,	reproduction	Reproduction	C0035150
+32489	32548	GO:0007608	before these questions about olfactory receptor gene choice	smell perception	Smell Perception	C0037361
+32598	32644	GO:0010467	expression levels of a larger number of genes,	gene expression	Gene Expression	C0017262
+32659	32697	GO:0007608	an olfactory receptor gene microarray.	smell perception	Smell Perception	C0037361
+32770	32818	GO:0007608	structures of over 300 olfactory receptor genes.	smell perception	Smell Perception	C0037361
+32967	33044	GO:0006355	involved in the intriguing transcriptional regulation of olfactory receptors.	transcriptional control	Transcriptional Regulation	C1158770
+33294	33341	GO:0007608	immobilize on an olfactory receptor microarray.	smell perception	Smell Perception	C0037361
+33437	33447	GO:0007567	each gene.	parturition	Birth	C0005615
+33437	33447	GO:0000003	each gene.	reproduction	Reproduction	C0035150
+33455	33495	GO:0007608	the coding region of olfactory receptors	smell perception	Smell Perception	C0037361
+33499	33548	GO:0007567	highly similar between recently duplicated genes.	parturition	Birth	C0005615
+33499	33548	GO:0000003	highly similar between recently duplicated genes.	reproduction	Reproduction	C0035150
+33549	33590	GO:0007608	many pairs of similar olfactory receptors	smell perception	Smell Perception	C0037361
+33816	33857	GO:0007608	closely related olfactory receptor genes.	smell perception	Smell Perception	C0037361
+33958	33980	GO:0007567	sequences of 343 genes	parturition	Birth	C0005615
+33958	33980	GO:0000003	sequences of 343 genes	reproduction	Reproduction	C0035150
+33985	34048	GO:0007608	the approximate 3' utr length for 399 olfactory receptor genes.	smell perception	Smell Perception	C0037361
+34097	34110	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+34122	34161	GO:0007608	observed for many olfactory receptors -	smell perception	Smell Perception	C0037361
+34373	34413	GO:0007608	the majority of the olfactory receptors,	smell perception	Smell Perception	C0037361
+34414	34452	GO:0007608	like most non-olfactory receptor genes	smell perception	Smell Perception	C0037361
+34510	34555	GO:0008380	alternative splicing of 5' untranslated exons	RNA splicing	RNA Splicing	C0035687
+34510	34555	GO:0045292	alternative splicing of 5' untranslated exons	nuclear mRNA cis splicing, via spliceosome		C2610186
+34560	34597	GO:0043631	alternate polyadenylation-site usage.	RNA polyadenylation	Polyadenylation	C0949765
+34602	34617	GO:0008380	act of splicing	RNA splicing	RNA Splicing	C0035687
+34602	34617	GO:0045292	act of splicing	nuclear mRNA cis splicing, via spliceosome		C2610186
+34668	34684	GO:0005634	from the nucleus	cell nucleus	Cell Nucleus	C0007610
+34703	34772	GO:0007608	olfactory receptor coding regions with genomically distant promoters.	smell perception	Smell Perception	C0037361
+34981	34994	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+35098	35110	GO:0051179	localization	establishment and maintenance of localization		C1744691
+35114	35125	GO:0009056	degradation	catabolism	Catabolism	C0699900
+35152	35199	GO:0007608	that about 5% of olfactory receptor transcripts	smell perception	Smell Perception	C0037361
+35211	35267	GO:0007608	the current notion of olfactory receptor gene structure.	smell perception	Smell Perception	C0037361
+35360	35409	GO:0007608	splice sites within the olfactory receptor's orf,	smell perception	Smell Perception	C0037361
+35565	35597	GO:0007608	a functional olfactory receptor,	smell perception	Smell Perception	C0037361
+35633	35654	GO:1902698	first few amino acids	acidogenesis		C3823112
+35633	35654	GO:1902705	first few amino acids	acidogenesis		C3823112
+35633	35654	GO:1902706	first few amino acids	acidogenesis		C3823112
+35633	35654	GO:1902699	first few amino acids	acidogenesis		C3823112
+35705	35764	GO:0099115	previously for a subtelomeric human olfactory receptor gene	chromosome, subtelomeric region		C4328751
+35771	35795	GO:0008380	such within-orf splicing	RNA splicing	RNA Splicing	C0035687
+35771	35795	GO:0045292	such within-orf splicing	nuclear mRNA cis splicing, via spliceosome		C2610186
+35853	35878	GO:0007567	the small number of genes	parturition	Birth	C0005615
+35853	35878	GO:0000003	the small number of genes	reproduction	Reproduction	C0035150
+35889	35897	GO:0008380	splicing	RNA splicing	RNA Splicing	C0035687
+35889	35897	GO:0045292	splicing	nuclear mRNA cis splicing, via spliceosome		C2610186
+36137	36188	GO:0007608	conserved throughout the olfactory receptor family.	smell perception	Smell Perception	C0037361
+36225	36277	GO:0008380	probably aberrant by-products of the splicing system	RNA splicing	RNA Splicing	C0035687
+36225	36277	GO:0045292	probably aberrant by-products of the splicing system	nuclear mRNA cis splicing, via spliceosome		C2610186
+36318	36334	GO:0071025	RNA surveillance	RNA surveillance		C2754181
+36418	36455	GO:0007567	normal transcripts for the same genes	parturition	Birth	C0005615
+36418	36455	GO:0000003	normal transcripts for the same genes	reproduction	Reproduction	C0035150
+36473	36505	GO:0007608	a functional olfactory receptor.	smell perception	Smell Perception	C0037361
+36521	36582	GO:0006355	the unusual transcriptional regulation of olfactory receptors	transcriptional control	Transcriptional Regulation	C1158770
+36642	36646	GO:0005623	cell	cell	Cells	C0007634
+36733	36737	GO:0005623	cell	cell	Cells	C0007634
+36812	36878	GO:0007608	transcripts from a small number of olfactory receptor pseudogenes,	smell perception	Smell Perception	C0037361
+36893	36949	GO:0007608	described for three human olfactory receptor pseudogenes	smell perception	Smell Perception	C0037361
+36968	37008	GO:0007567	many fewer pseudogenes than intact genes	parturition	Birth	C0005615
+36968	37008	GO:0000003	many fewer pseudogenes than intact genes	reproduction	Reproduction	C0035150
+37050	37090	GO:0007608	some neurons in the olfactory epithelium	smell perception	Smell Perception	C0037361
+37109	37138	GO:0007608	disrupted olfactory receptors	smell perception	Smell Perception	C0037361
+37213	37232	GO:0007608	the olfactory bulb.	smell perception	Smell Perception	C0037361
+37274	37356	GO:0007608	an artificial transgenic olfactory receptor gene containing two nonsense mutations	smell perception	Smell Perception	C0037361
+37369	37404	GO:0007608	development of an olfactory neuron,	smell perception	Smell Perception	C0037361
+37477	37498	GO:0007608	in the olfactory bulb	smell perception	Smell Perception	C0037361
+37505	37558	GO:0007608	by analogy with an olfactory receptor deletion mutant	smell perception	Smell Perception	C0037361
+37643	37679	GO:0007608	a different olfactory receptor gene,	smell perception	Smell Perception	C0037361
+37812	37839	GO:0007608	intact olfactory receptors.	smell perception	Smell Perception	C0037361
+37877	37979	GO:0007608	an olfactory receptor cdna resource representing over one-third of the olfactory receptor gene family.	smell perception	Smell Perception	C0037361
+37993	38048	GO:0007608	established over 400 annotated olfactory receptor genes	smell perception	Smell Perception	C0037361
+38059	38078	GO:0007608	olfactory function.	smell perception	Smell Perception	C0037361
+38123	38173	GO:0007608	the majority of the olfactory receptor gene family	smell perception	Smell Perception	C0037361
+38187	38200	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+38213	38248	GO:0007608	most olfactory receptor transcripts	smell perception	Smell Perception	C0037361
+38316	38356	GO:0007608	that individual olfactory receptor genes	smell perception	Smell Perception	C0037361
+38402	38490	GO:0007567	an intriguing finding in light of the unusual one-neuron one-gene transcriptional regime	parturition	Birth	C0005615
+38491	38519	GO:0007608	of the olfactory epithelium.	smell perception	Smell Perception	C0037361
+38621	38668	GO:0007608	dynamics of olfactory receptor gene expression.	smell perception	Smell Perception	C0037361
+38693	38735	GO:0007608	identification of olfactory receptor cdnas	smell perception	Smell Perception	C0037361
+38765	38818	GO:0007608	made from the olfactory epithelium of a single animal	smell perception	Smell Perception	C0037361
+38900	38920	GO:0009790	an embryonic library	embryo development	Embryonic Development	C0013936
+38922	38986	GO:0007608	made from the olfactory epithelia of several e16.5-e18.5 embryos	smell perception	Smell Perception	C0037361
+39252	39273	GO:0009790	the embryonic library	embryo development	Embryonic Development	C0013936
+39391	39401	GO:0009790	(embryonic	embryo development	Embryonic Development	C0013936
+39657	39678	GO:0034023	clonally-pure plaques	5	carboxyamino	C2247561
+40504	40535	GO:0007608	our olfactory receptor database	smell perception	Smell Perception	C0037361
+40542	40585	GO:0007608	the updated olfactory receptor gene catalog	smell perception	Smell Perception	C0037361
+40674	40679	GO:0007567	genes	parturition	Birth	C0005615
+40674	40679	GO:0000003	genes	reproduction	Reproduction	C0035150
+41193	41216	GO:0007567	cdnas from a given gene	parturition	Birth	C0005615
+41193	41216	GO:0000003	cdnas from a given gene	reproduction	Reproduction	C0035150
+41217	41293	GO:0043631	as showing alternative polyadenylation site usage if 3' utr length estimates	RNA polyadenylation	Polyadenylation	C0949765
+41431	41485	GO:0007608	cdnas to their corresponding olfactory receptor genes,	smell perception	Smell Perception	C0037361
+41525	41539	GO:0007567	for each gene,	parturition	Birth	C0005615
+41525	41539	GO:0000003	for each gene,	reproduction	Reproduction	C0035150
+41633	41661	GO:0007567	1 kb after the previous gene	parturition	Birth	C0005615
+41633	41661	GO:0000003	1 kb after the previous gene	reproduction	Reproduction	C0035150
+42387	42397	GO:0007567	that gene.	parturition	Birth	C0005615
+42387	42397	GO:0000003	that gene.	reproduction	Reproduction	C0035150
+42416	42445	GO:0007567	more than one gene territory,	parturition	Birth	C0005615
+42416	42445	GO:0000003	more than one gene territory,	reproduction	Reproduction	C0035150
+42642	42688	GO:0007567	a larger genomic range than one gene territory	parturition	Birth	C0005615
+42642	42688	GO:0000003	a larger genomic range than one gene territory	reproduction	Reproduction	C0035150
+42760	42795	GO:0008380	unusual splicing within the 3' utr,	RNA splicing	RNA Splicing	C0035687
+42760	42795	GO:0045292	unusual splicing within the 3' utr,	nuclear mRNA cis splicing, via spliceosome		C2610186
+43015	43063	GO:0007567	; sequences from recently duplicated gene pairs,	parturition	Birth	C0005615
+43015	43063	GO:0000003	; sequences from recently duplicated gene pairs,	reproduction	Reproduction	C0035150
+43810	43819	GO:0007567	per gene,	parturition	Birth	C0005615
+43810	43819	GO:0000003	per gene,	reproduction	Reproduction	C0035150
+43855	43872	GO:0007567	observed per gene	parturition	Birth	C0005615
+43855	43872	GO:0000003	observed per gene	reproduction	Reproduction	C0035150
+43911	43950	GO:0007608	olfactory receptor genes in our dataset	smell perception	Smell Perception	C0037361
+43955	43994	GO:0007608	983 intact class ii olfactory receptors	smell perception	Smell Perception	C0037361
+44050	44084	GO:0007608	two olfactory receptor pseudogenes	smell perception	Smell Perception	C0037361
+44166	44230	GO:0007608	a protein sequence alignment of intact mouse olfactory receptors	smell perception	Smell Perception	C0037361
+44655	44668	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+44680	44694	GO:0007567	for each gene,	parturition	Birth	C0005615
+44680	44694	GO:0000003	for each gene,	reproduction	Reproduction	C0035150
+45121	45144	GO:0007608	the olfactory epithelia	smell perception	Smell Perception	C0037361
+45242	45249	GO:0030428	septum.	cell septum	Cell septum	C1327729
+45273	45299	GO:0005020	the qiagen rneasy midi kit	stem cell factor receptor activity		C1150635
+45403	45406	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+45498	45511	GO:0034062	transcriptase	transcriptase	Transcriptase activity	C2257077
+45498	45511	GO:0003899	transcriptase	transcriptase	Transcriptase activity	C2257077
+45498	45511	GO:0003968	transcriptase	transcriptase	Transcriptase activity	C2257077
+45701	45743	GO:0007608	biased towards class i olfactory receptors	smell perception	Smell Perception	C0037361
+45902	45918	GO:0005020	(ta cloning kit,	stem cell factor receptor activity		C1150635
+46007	46056	GO:0010467	expression of individual olfactory receptor genes	gene expression	Gene Expression	C0017262
+46141	46158	GO:0007567	the expected gene	parturition	Birth	C0005615
+46141	46158	GO:0000003	the expected gene	reproduction	Reproduction	C0035150
+46250	46263	GO:0034062	transcriptase	transcriptase	Transcriptase activity	C2257077
+46250	46263	GO:0003899	transcriptase	transcriptase	Transcriptase activity	C2257077
+46250	46263	GO:0003968	transcriptase	transcriptase	Transcriptase activity	C2257077
+46841	46879	GO:0010467	relative expression level of each gene	gene expression	Gene Expression	C0017262
+46984	47046	GO:0039703	obtained with six replicate samples of reverse-transcribed rna	RNA replication		C1328949
+47100	47143	GO:0007567	relative rna levels of a housekeeping gene,	parturition	Birth	C0005615
+47100	47143	GO:0000003	relative rna levels of a housekeeping gene,	reproduction	Reproduction	C0035150
+47144	47158	GO:0005840	ribosomal s16,	ribosome	Ribosomes	C0035553
+47262	47275	GO:0034062	transcriptase	transcriptase	Transcriptase activity	C2257077
+47262	47275	GO:0003899	transcriptase	transcriptase	Transcriptase activity	C2257077
+47262	47275	GO:0003968	transcriptase	transcriptase	Transcriptase activity	C2257077
+47348	47390	GO:0010467	expression measurements of the seven genes	gene expression	Gene Expression	C0017262
+47522	47572	GO:0007608	cut from the olfactory epithelia of an adult mouse	smell perception	Smell Perception	C0037361
+47736	47778	GO:0007567	specific for the 3' utrs of genes ay318555	parturition	Birth	C0005615
+47736	47778	GO:0000003	specific for the 3' utrs of genes ay318555	reproduction	Reproduction	C0035150
+48281	48309	GO:0007608	one olfactory receptor gene.	smell perception	Smell Perception	C0037361
+48528	48588	GO:0007608	over 10 mb from the nearest olfactory receptor coding region	smell perception	Smell Perception	C0037361
+48623	48669	GO:0007608	included in any olfactory receptor transcript.	smell perception	Smell Perception	C0037361
+48835	48877	GO:0010467	the expression of olfactory receptor genes	gene expression	Gene Expression	C0017262
+48835	48877	GO:0010467	the expression of olfactory receptor genes	gene expression	Gene Expression	C0017262
+49474	49502	GO:0019013	staff of the core facilities	nucleocapsid	viral nucleocapsid location	C1167518
+49970	49994	GO:0007608	olfactory receptor genes	smell perception	Smell Perception	C0037361
+49995	50045	GO:0007608	whose expression in the mouse olfactory epithelium	smell perception	Smell Perception	C0037361
+50075	50080	GO:0007567	genes	parturition	Birth	C0005615
+50075	50080	GO:0000003	genes	reproduction	Reproduction	C0035150
+50148	50218	GO:0007608	blue on a phylogenetic tree of 1,107 intact mouse olfactory receptors.	smell perception	Smell Perception	C0037361
+50219	50224	GO:0007567	genes	parturition	Birth	C0005615
+50219	50224	GO:0000003	genes	reproduction	Reproduction	C0035150
+50287	50293	GO:0007567	(genes	parturition	Birth	C0005615
+50287	50293	GO:0000003	(genes	reproduction	Reproduction	C0035150
+50288	50293	GO:0007567	genes	parturition	Birth	C0005615
+50288	50293	GO:0000003	genes	reproduction	Reproduction	C0035150
+50561	50586	GO:0007608	other olfactory receptors	smell perception	Smell Perception	C0037361
+50648	50675	GO:0007608	class i olfactory receptors	smell perception	Smell Perception	C0037361
+50695	50728	GO:0007608	the remaining olfactory receptors	smell perception	Smell Perception	C0037361
+50779	50841	GO:0007608	different expression levels for different olfactory receptors.	smell perception	Smell Perception	C0037361
+50921	50985	GO:0007608	per olfactory receptor gene among 1,176 olfactory receptor cdnas	smell perception	Smell Perception	C0037361
+51042	51107	GO:0010467	differential expression levels among six olfactory receptor genes	gene expression	Gene Expression	C0017262
+51144	51189	GO:0010467	expression levels of olfactory receptor genes	gene expression	Gene Expression	C0017262
+51184	51189	GO:0007567	genes	parturition	Birth	C0005615
+51184	51189	GO:0000003	genes	reproduction	Reproduction	C0035150
+51248	51315	GO:0010467	relative expression levels of six selected olfactory receptor genes	gene expression	Gene Expression	C0017262
+51404	51450	GO:0007608	determined in olfactory epithelium rna samples	smell perception	Smell Perception	C0037361
+51468	51499	GO:0010467	expression levels for each gene	gene expression	Gene Expression	C0017262
+51646	51666	GO:0007567	a housekeeping gene,	parturition	Birth	C0005615
+51646	51666	GO:0000003	a housekeeping gene,	reproduction	Reproduction	C0035150
+51667	51681	GO:0005840	ribosomal s16,	ribosome	Ribosomes	C0035553
+51769	51793	GO:0006260	(six replicate reactions	DNA replication	DNA Replication	C0598312
+51796	51803	GO:0007567	genes e	parturition	Birth	C0005615
+51796	51803	GO:0000003	genes e	reproduction	Reproduction	C0035150
+51838	51866	GO:0007608	class i olfactory receptors.	smell perception	Smell Perception	C0037361
+51911	51938	GO:0007567	shown under each gene name.	parturition	Birth	C0005615
+51911	51938	GO:0000003	shown under each gene name.	reproduction	Reproduction	C0035150
+51939	51973	GO:0010467	(b) expression levels of each gene	gene expression	Gene Expression	C0017262
+52233	52252	GO:0007608	olfactory receptors	smell perception	Smell Perception	C0037361
+52290	52352	GO:0007608	different expression levels of one pair of olfactory receptors	smell perception	Smell Perception	C0037361
+52395	52399	GO:0005623	cell	cell	Cells	C0007634
+52437	52441	GO:0005623	cell	cell	Cells	C0007634
+52509	52515	GO:0007567	gene a	parturition	Birth	C0005615
+52509	52515	GO:0000003	gene a	reproduction	Reproduction	C0035150
+52531	52539	GO:0007567	(b) gene	parturition	Birth	C0005615
+52531	52539	GO:0000003	(b) gene	reproduction	Reproduction	C0035150
+52553	52619	GO:0007608	on coronal sections of the olfactory turbinates of an adult mouse,	smell perception	Smell Perception	C0037361
+52765	52794	GO:0007608	many olfactory receptor genes	smell perception	Smell Perception	C0037361
+52800	52819	GO:0008380	alternate splicing.	RNA splicing	RNA Splicing	C0035687
+52800	52819	GO:0045292	alternate splicing.	nuclear mRNA cis splicing, via spliceosome		C2610186
+52850	52863	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+52875	52914	GO:0007608	observed for the 82 olfactory receptors	smell perception	Smell Perception	C0037361
+52976	53010	GO:0007608	sixty-two olfactory receptor cdnas	smell perception	Smell Perception	C0037361
+53084	53132	GO:0007608	an alignment of all olfactory receptor proteins,	smell perception	Smell Perception	C0037361
+53133	53164	GO:0016021	with transmembrane (tm) regions	integral to membrane		C1167322
+53133	53164	GO:0044214	with transmembrane (tm) regions	transmembrane	fully spanning the plasma membrane	C2752508
+53181	53194	GO:0005622	intracellular	protoplasm	Protoplasm	C0175996
+53204	53217	GO:0005576	extracellular	extracellular	Extracellular	C0521119
+53371	53413	GO:0007608	conserved across more olfactory receptors.	smell perception	Smell Perception	C0037361
+53414	53442	GO:0008380	cdnas with atypical splicing	RNA splicing	RNA Splicing	C0035687
+53414	53442	GO:0045292	cdnas with atypical splicing	nuclear mRNA cis splicing, via spliceosome		C2610186
+53690	53726	GO:0007567	multiple isoforms from the same gene	parturition	Birth	C0005615
+53690	53726	GO:0000003	multiple isoforms from the same gene	reproduction	Reproduction	C0035150
+53935	53978	GO:0007608	potentially functional olfactory receptors.	smell perception	Smell Perception	C0037361
+54124	54159	GO:0007608	to the olfactory receptor consensus	smell perception	Smell Perception	C0037361
+54603	54628	GO:0043336	near the rest of the gene	site-specific telomere resolvase activity		C1622890
+54726	54847	GO:0016021	that matches to the reverse-complement of the fourth transmembrane domain of the next downstream olfactory receptor gene.	integral to membrane		C1167322
+55016	55045	GO:0007608	number of olfactory receptors	smell perception	Smell Perception	C0037361

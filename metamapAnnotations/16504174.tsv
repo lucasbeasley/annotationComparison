@@ -1,0 +1,301 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+19	70	GO:0007567	targeted disruption of the mouse gene encoding esg1	parturition	Birth	C0005615
+19	70	GO:0000003	targeted disruption of the mouse gene encoding esg1	reproduction	Reproduction	C0035150
+113	155	GO:0009790	embryonic stem cell-specific gene (esg) 1,	embryo development	Embryonic Development	C0013936
+218	245	GO:0009790	expressed in early embryos,	embryo development	Embryonic Development	C0013936
+251	255	GO:0005623	cell	cell	Cells	C0007634
+262	288	GO:0009790	embryonic stem (es) cells.	embryo development	Embryonic Development	C0013936
+343	362	GO:0007567	the mouse esg1 gene	parturition	Birth	C0005615
+343	362	GO:0000003	the mouse esg1 gene	reproduction	Reproduction	C0035150
+394	425	GO:0050000	their chromosomal localizations	chromosome localization		C1657114
+548	562	GO:0007567	the esg1 gene.	parturition	Birth	C0005615
+548	562	GO:0000003	the esg1 gene.	reproduction	Reproduction	C0035150
+624	643	GO:0007567	the mouse esg1 gene	parturition	Birth	C0005615
+624	643	GO:0000003	the mouse esg1 gene	reproduction	Reproduction	C0035150
+667	710	GO:0007567	like sequence with a similar gene structure	parturition	Birth	C0005615
+667	710	GO:0000003	like sequence with a similar gene structure	reproduction	Reproduction	C0035150
+716	726	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+842	882	GO:0007567	the 5' flanking region of the esg1 gene,	parturition	Birth	C0005615
+842	882	GO:0000003	the 5' flanking region of the esg1 gene,	reproduction	Reproduction	C0035150
+986	990	GO:0005623	cell	cell	Cells	C0007634
+1031	1076	GO:0007567	the physiological functions of the esg1 gene,	parturition	Birth	C0005615
+1031	1076	GO:0000003	the physiological functions of the esg1 gene,	reproduction	Reproduction	C0035150
+1109	1113	GO:0005623	cell	cell	Cells	C0007634
+1115	1168	GO:0006310	with a beta-geo cassette by homologous recombination.	DNA recombination	Recombination, Genetic	C0034865
+1169	1213	GO:0009790	despite specific expression in early embryos	embryo development	Embryonic Development	C0013936
+1223	1227	GO:0005623	cell	cell	Cells	C0007634
+1309	1313	GO:0005623	cell	cell	Cells	C0007634
+1315	1368	GO:0006310	both by a second independent homologous recombination	DNA recombination	Recombination, Genetic	C0034865
+1518	1522	GO:0005623	cell	cell	Cells	C0007634
+1534	1538	GO:0005623	cell	cell	Cells	C0007634
+1591	1607	GO:0030154	differentiation.	cell differentiation	Cell Differentiation process	C0007589
+1621	1641	GO:0007567	the mouse esg1 gene,	parturition	Birth	C0005615
+1621	1641	GO:0000003	the mouse esg1 gene,	reproduction	Reproduction	C0035150
+1695	1705	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+1756	1760	GO:0005623	cell	cell	Cells	C0007634
+1771	1775	GO:0005623	cell	cell	Cells	C0007634
+1821	1825	GO:0005623	cell	cell	Cells	C0007634
+1872	1897	GO:0009790	embryonic stem (es) cells	embryo development	Embryonic Development	C0013936
+1984	1992	GO:0009790	es cells	embryo development	Embryonic Development	C0013936
+2122	2126	GO:0005623	cell	cell	Cells	C0007634
+2181	2195	GO:0009790	mouse es cells	embryo development	Embryonic Development	C0013936
+2196	2248	GO:0007567	an essential component of gene targeting technology.	parturition	Birth	C0005615
+2196	2248	GO:0000003	an essential component of gene targeting technology.	reproduction	Reproduction	C0035150
+2274	2340	GO:0009790	human es cells attractive sources for cell transplantation therapy	embryo development	Embryonic Development	C0013936
+2479	2510	GO:0009790	rapid proliferation of es cells	embryo development	Embryonic Development	C0013936
+2560	2564	GO:0005623	cell	cell	Cells	C0007634
+2619	2623	GO:0005623	cell	cell	Cells	C0007634
+2711	2716	GO:0007567	genes	parturition	Birth	C0005615
+2711	2716	GO:0000003	genes	reproduction	Reproduction	C0035150
+2746	2750	GO:0005623	cell	cell	Cells	C0007634
+2756	2770	GO:0009790	early embryos.	embryo development	Embryonic Development	C0013936
+3026	3057	GO:1902698	down-regulated by retinoic acid	acidogenesis		C3823112
+3026	3057	GO:1902705	down-regulated by retinoic acid	acidogenesis		C3823112
+3026	3057	GO:1902706	down-regulated by retinoic acid	acidogenesis		C3823112
+3026	3057	GO:1902699	down-regulated by retinoic acid	acidogenesis		C3823112
+3058	3086	GO:0009790	in embryonic carcinoma cells	embryo development	Embryonic Development	C0013936
+3093	3120	GO:0010467	the expression of this gene	gene expression	Gene Expression	C0017262
+3142	3158	GO:0009790	to early embryos	embryo development	Embryonic Development	C0013936
+3168	3172	GO:0005623	cell	cell	Cells	C0007634
+3216	3220	GO:0005623	cell	cell	Cells	C0007634
+3236	3240	GO:0005623	cell	cell	Cells	C0007634
+3243	3264	GO:0009790	embryonic germ cells,	embryo development	Embryonic Development	C0013936
+3295	3299	GO:0005623	cell	cell	Cells	C0007634
+3320	3352	GO:1902698	a polypeptide of 118 amino acids	acidogenesis		C3823112
+3320	3352	GO:1902705	a polypeptide of 118 amino acids	acidogenesis		C3823112
+3320	3352	GO:1902706	a polypeptide of 118 amino acids	acidogenesis		C3823112
+3320	3352	GO:1902699	a polypeptide of 118 amino acids	acidogenesis		C3823112
+3396	3417	GO:0003723	an rna-binding domain	RNA binding	RNA Binding	C1148846
+3461	3496	GO:0005515	functions as an rna-binding protein	protein binding	Protein Binding	C0033618
+3525	3529	GO:0005623	cell	cell	Cells	C0007634
+3617	3636	GO:0007567	the mouse esg1 gene	parturition	Birth	C0005615
+3617	3636	GO:0000003	the mouse esg1 gene	reproduction	Reproduction	C0035150
+3698	3747	GO:0007567	a similar exon-intron structure as the esg1 gene,	parturition	Birth	C0005615
+3698	3747	GO:0000003	a similar exon-intron structure as the esg1 gene,	reproduction	Reproduction	C0035150
+3759	3796	GO:0007567	their generation by gene duplication.	parturition	Birth	C0005615
+3759	3796	GO:0000003	their generation by gene duplication.	reproduction	Reproduction	C0035150
+3897	3915	GO:0032197	retrotransposition	retrotransposition	Retrotransposition	C1514925
+3937	3989	GO:0050000	the chromosomal localizations of the mouse esg1 gene	chromosome localization		C1657114
+4070	4101	GO:0007567	the structure of the mouse gene	parturition	Birth	C0005615
+4070	4101	GO:0000003	the structure of the mouse gene	reproduction	Reproduction	C0035150
+4149	4181	GO:0007567	we also performed gene targeting	parturition	Birth	C0005615
+4149	4181	GO:0000003	we also performed gene targeting	reproduction	Reproduction	C0035150
+4256	4280	GO:0050000	chromosomal localization	chromosome localization		C1657114
+4285	4314	GO:0007567	structures of mouse esg1 gene	parturition	Birth	C0005615
+4285	4314	GO:0000003	structures of mouse esg1 gene	reproduction	Reproduction	C0035150
+4344	4396	GO:0050000	the chromosomal localizations of the mouse esg1 gene	chromosome localization		C1657114
+4576	4586	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+4716	4744	GO:0050000	the chromosomal localization	chromosome localization		C1657114
+5080	5084	GO:0005623	cell	cell	Cells	C0007634
+5299	5324	GO:0050000	chromosomal localizations	chromosome localization		C1657114
+5353	5363	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+5396	5420	GO:0007567	similar to the esg1 gene	parturition	Birth	C0005615
+5396	5420	GO:0000003	similar to the esg1 gene	reproduction	Reproduction	C0035150
+5593	5648	GO:0007567	identical to that of the previously reported esg1 gene.	parturition	Birth	C0005615
+5593	5648	GO:0000003	identical to that of the previously reported esg1 gene.	reproduction	Reproduction	C0035150
+5657	5667	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+5743	5778	GO:0007567	to the third exon of the esg1 gene.	parturition	Birth	C0005615
+5743	5778	GO:0000003	to the third exon of the esg1 gene.	reproduction	Reproduction	C0035150
+5836	5846	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+5920	5934	GO:0007567	the esg1 gene,	parturition	Birth	C0005615
+5920	5934	GO:0000003	the esg1 gene,	reproduction	Reproduction	C0035150
+5972	5982	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+6048	6062	GO:0007567	the real gene,	parturition	Birth	C0005615
+6048	6062	GO:0000003	the real gene,	reproduction	Reproduction	C0035150
+6117	6140	GO:0005694	overlapping bac clones.	chromosome	Chromosomes	C0008633
+6506	6569	GO:0045289	strong promoter/enhancer activity by luciferase reporter assays	luciferin monooxygenase activity		C1151115
+6593	6597	GO:0005623	cell	cell	Cells	C0007634
+6604	6624	GO:0044297	not in somatic cells	cell body		C2752549
+6662	6717	GO:0045597	much weaker activity after induction of differentiation	positive regulation of cell differentiation	Positive Regulation of Cell Differentiation	C1516343
+6718	6735	GO:1902698	by retinoic acid.	acidogenesis		C3823112
+6718	6735	GO:1902705	by retinoic acid.	acidogenesis		C3823112
+6718	6735	GO:1902706	by retinoic acid.	acidogenesis		C3823112
+6718	6735	GO:1902699	by retinoic acid.	acidogenesis		C3823112
+6771	6785	GO:0007567	the esg1 gene.	parturition	Birth	C0005615
+6771	6785	GO:0000003	the esg1 gene.	reproduction	Reproduction	C0035150
+6819	6832	GO:0007567	the esg1 gene	parturition	Birth	C0005615
+6819	6832	GO:0000003	the esg1 gene	reproduction	Reproduction	C0035150
+6871	6895	GO:0051179	localization of the gene	establishment and maintenance of localization		C1744691
+6906	6916	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+6932	6954	GO:0007567	comparison of the gene	parturition	Birth	C0005615
+6932	6954	GO:0000003	comparison of the gene	reproduction	Reproduction	C0035150
+6986	7018	GO:0000496	homologous from eight base pairs	base pairing	Base Pairing	C0600436
+7198	7241	GO:0007567	promoter/enhancer activity of the esg1 gene	parturition	Birth	C0005615
+7198	7241	GO:0000003	promoter/enhancer activity of the esg1 gene	reproduction	Reproduction	C0035150
+7282	7331	GO:0007567	isolated from the 5' flanking regions of the gene	parturition	Birth	C0005615
+7282	7331	GO:0000003	isolated from the 5' flanking regions of the gene	reproduction	Reproduction	C0035150
+7405	7454	GO:0007567	the reporter genes into undifferentiated es cells	parturition	Birth	C0005615
+7471	7501	GO:1902698	retinoic acid-treated es cells	acidogenesis		C3823112
+7471	7501	GO:1902705	retinoic acid-treated es cells	acidogenesis		C3823112
+7471	7501	GO:1902706	retinoic acid-treated es cells	acidogenesis		C3823112
+7471	7501	GO:1902699	retinoic acid-treated es cells	acidogenesis		C3823112
+7529	7533	GO:0005623	cell	cell	Cells	C0007634
+7904	7929	GO:0007567	introns of the esg1 gene.	parturition	Birth	C0005615
+7904	7929	GO:0000003	introns of the esg1 gene.	reproduction	Reproduction	C0035150
+8079	8120	GO:0000496	675 base pairs of the 3' flanking regions	base pairing	Base Pairing	C0600436
+8126	8157	GO:0007567	conserved between the esg1 gene	parturition	Birth	C0005615
+8126	8157	GO:0000003	conserved between the esg1 gene	reproduction	Reproduction	C0035150
+8178	8224	GO:0000496	only five base pairs of the 5' flanking region	base pairing	Base Pairing	C0600436
+8290	8350	GO:0045289	any promoter/enhancer activity in luciferase reporter assays	luciferin monooxygenase activity		C1151115
+8578	8632	GO:0007567	with similar exon-intron organization as the esg1 gene	parturition	Birth	C0005615
+8578	8632	GO:0000003	with similar exon-intron organization as the esg1 gene	reproduction	Reproduction	C0035150
+8776	8818	GO:0007567	targeted disruption of the mouse esg1 gene	parturition	Birth	C0005615
+8776	8818	GO:0000003	targeted disruption of the mouse esg1 gene	reproduction	Reproduction	C0035150
+8862	8898	GO:0006310	the gene by homologous recombination	DNA recombination	Recombination, Genetic	C0034865
+8911	8915	GO:0005623	cell	cell	Cells	C0007634
+8998	9022	GO:0007567	beta-galactosidase genes	parturition	Birth	C0005615
+8998	9022	GO:0000003	beta-galactosidase genes	reproduction	Reproduction	C0035150
+9037	9066	GO:0007567	the hygromycin resistant gene	parturition	Birth	C0005615
+9037	9066	GO:0000003	the hygromycin resistant gene	reproduction	Reproduction	C0035150
+9137	9141	GO:0005623	cell	cell	Cells	C0007634
+9184	9188	GO:0005623	cell	cell	Cells	C0007634
+9189	9267	GO:0006310	clones with correct homologous recombination of the beta-geo targeting vector,	DNA recombination	Recombination, Genetic	C0034865
+9339	9421	GO:0006310	only one clone with correct homologous recombination of the hygr targeting vector.	DNA recombination	Recombination, Genetic	C0034865
+9433	9476	GO:0007567	targeted disruption of the mouse esg1 gene.	parturition	Birth	C0005615
+9433	9476	GO:0000003	targeted disruption of the mouse esg1 gene.	reproduction	Reproduction	C0035150
+9648	9684	GO:0007567	the gene encoding diphtheria toxin a	parturition	Birth	C0005615
+9648	9684	GO:0000003	the gene encoding diphtheria toxin a	reproduction	Reproduction	C0035150
+9814	9839	GO:0006310	homologous recombination.	DNA recombination	Recombination, Genetic	C0034865
+9857	9861	GO:0005623	cell	cell	Cells	C0007634
+9886	9890	GO:0005623	cell	cell	Cells	C0007634
+9908	9912	GO:0005623	cell	cell	Cells	C0007634
+9933	9937	GO:0005623	cell	cell	Cells	C0007634
+10047	10051	GO:0005623	cell	cell	Cells	C0007634
+10072	10076	GO:0005623	cell	cell	Cells	C0007634
+10118	10122	GO:0005623	cell	cell	Cells	C0007634
+10237	10279	GO:0005840	ethidium bromide staining of ribosomal rna	ribosomal RNA location		C1622954
+10336	10340	GO:0005623	cell	cell	Cells	C0007634
+10403	10407	GO:0005623	cell	cell	Cells	C0007634
+10566	10570	GO:0005623	cell	cell	Cells	C0007634
+10663	10667	GO:0005623	cell	cell	Cells	C0007634
+10792	10796	GO:0005623	cell	cell	Cells	C0007634
+10845	10849	GO:0005623	cell	cell	Cells	C0007634
+10943	10947	GO:0005623	cell	cell	Cells	C0007634
+10970	10974	GO:0005623	cell	cell	Cells	C0007634
+10976	10990	GO:0030154	differentiated	cell differentiation	Cell Differentiation process	C0007589
+11021	11047	GO:0005146	leukemia inhibitory factor	leukemia inhibitory factor	leukemia inhibitory factor activity	C1761537
+11063	11086	GO:1902698	retinoic acid treatment	acidogenesis		C3823112
+11063	11086	GO:1902705	retinoic acid treatment	acidogenesis		C3823112
+11063	11086	GO:1902706	retinoic acid treatment	acidogenesis		C3823112
+11063	11086	GO:1902699	retinoic acid treatment	acidogenesis		C3823112
+11155	11159	GO:0005623	cell	cell	Cells	C0007634
+11351	11355	GO:0005623	cell	cell	Cells	C0007634
+11394	11398	GO:0005623	cell	cell	Cells	C0007634
+11435	11439	GO:0005623	cell	cell	Cells	C0007634
+11469	11473	GO:0005623	cell	cell	Cells	C0007634
+11479	11485	GO:0040007	growth	growth	Growth	C0018270
+11553	11557	GO:0005623	cell	cell	Cells	C0007634
+11580	11584	GO:0005623	cell	cell	Cells	C0007634
+11622	11626	GO:0005623	cell	cell	Cells	C0007634
+11715	11719	GO:0005623	cell	cell	Cells	C0007634
+11847	11851	GO:0005623	cell	cell	Cells	C0007634
+11902	11917	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+12004	12018	GO:0007567	~20,000 genes.	parturition	Birth	C0005615
+12004	12018	GO:0000003	~20,000 genes.	reproduction	Reproduction	C0035150
+12047	12051	GO:0005623	cell	cell	Cells	C0007634
+12063	12085	GO:0007567	identified as the gene	parturition	Birth	C0005615
+12063	12085	GO:0000003	identified as the gene	reproduction	Reproduction	C0035150
+12131	12135	GO:0005623	cell	cell	Cells	C0007634
+12150	12189	GO:0010467	the expression of es cell marker genes,	gene expression	Gene Expression	C0017262
+12241	12245	GO:0005623	cell	cell	Cells	C0007634
+12345	12360	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+12402	12406	GO:0005623	cell	cell	Cells	C0007634
+12423	12427	GO:0005623	cell	cell	Cells	C0007634
+12430	12443	GO:0007567	several genes	parturition	Birth	C0005615
+12430	12443	GO:0000003	several genes	reproduction	Reproduction	C0035150
+12499	12503	GO:0005623	cell	cell	Cells	C0007634
+12558	12569	GO:0007567	these genes	parturition	Birth	C0005615
+12558	12569	GO:0000003	these genes	reproduction	Reproduction	C0035150
+12641	12670	GO:0003723	a kh-type rna-binding domain,	RNA binding	RNA Binding	C1148846
+12688	12708	GO:0007567	mrna of these genes.	parturition	Birth	C0005615
+12688	12708	GO:0000003	mrna of these genes.	reproduction	Reproduction	C0035150
+12778	12793	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+12882	12886	GO:0005623	cell	cell	Cells	C0007634
+12905	12909	GO:0005623	cell	cell	Cells	C0007634
+12997	13008	GO:0032502	development	development	Biologic Development	C0678723
+13100	13104	GO:0005623	cell	cell	Cells	C0007634
+13138	13142	GO:0005623	cell	cell	Cells	C0007634
+13284	13288	GO:0005623	cell	cell	Cells	C0007634
+13544	13555	GO:0032502	development	development	Biologic Development	C0678723
+13761	13772	GO:0032502	development	development	Biologic Development	C0678723
+13777	13797	GO:0044249	germ cell formation.	cellular biosynthetic process		C1523936
+13820	13824	GO:0005623	cell	cell	Cells	C0007634
+13922	13926	GO:0005623	cell	cell	Cells	C0007634
+13990	13994	GO:0005623	cell	cell	Cells	C0007634
+14047	14062	GO:0030154	differentiation	cell differentiation	Cell Differentiation process	C0007589
+14118	14122	GO:0005623	cell	cell	Cells	C0007634
+14196	14226	GO:0007567	the mouse gene on chromosome 9	parturition	Birth	C0005615
+14239	14269	GO:0006310	it by homologous recombination	DNA recombination	Recombination, Genetic	C0034865
+14276	14280	GO:0005623	cell	cell	Cells	C0007634
+14283	14328	GO:0009790	despite specific expression in early embryos,	embryo development	Embryonic Development	C0013936
+14334	14338	GO:0005623	cell	cell	Cells	C0007634
+14357	14361	GO:0005623	cell	cell	Cells	C0007634
+14421	14432	GO:0032502	development	development	Biologic Development	C0678723
+14434	14454	GO:0044249	germ cell formation,	cellular biosynthetic process		C1523936
+14462	14466	GO:0005623	cell	cell	Cells	C0007634
+14544	14563	GO:0007567	the mouse esg1 gene	parturition	Birth	C0005615
+14544	14563	GO:0000003	the mouse esg1 gene	reproduction	Reproduction	C0035150
+14598	14608	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+14633	14649	GO:0007567	mouse esg1 gene,	parturition	Birth	C0005615
+14633	14649	GO:0000003	mouse esg1 gene,	reproduction	Reproduction	C0035150
+14663	14713	GO:0005694	pcr-based screening of mouse bac library dna pools	chromosome	Chromosomes	C0008633
+14864	14873	GO:0007586	digestion	digestion	Digestion	C0012238
+14888	14924	GO:0005694	southern blot analyses of bac clones	chromosome	Chromosomes	C0008633
+15256	15269	GO:0007567	the esg1 gene	parturition	Birth	C0005615
+15256	15269	GO:0000003	the esg1 gene	reproduction	Reproduction	C0035150
+15321	15340	GO:0007567	the mouse esg1 gene	parturition	Birth	C0005615
+15321	15340	GO:0000003	the mouse esg1 gene	reproduction	Reproduction	C0035150
+15798	15838	GO:0007567	the 5' flanking regions of the esg1 gene	parturition	Birth	C0005615
+15798	15838	GO:0000003	the 5' flanking regions of the esg1 gene	reproduction	Reproduction	C0035150
+15876	15893	GO:0005020	a topo walker kit	stem cell factor receptor activity		C1150635
+16244	16284	GO:0007567	the 5' flanking region of the esg1 gene.	parturition	Birth	C0005615
+16244	16284	GO:0000003	the 5' flanking region of the esg1 gene.	reproduction	Reproduction	C0035150
+17268	17272	GO:0005623	cell	cell	Cells	C0007634
+17285	17298	GO:0007567	a gene pulser	parturition	Birth	C0005615
+17285	17298	GO:0000003	a gene pulser	reproduction	Reproduction	C0035150
+17321	17325	GO:0005623	cell	cell	Cells	C0007634
+17350	17353	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+17369	17372	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+17466	17503	GO:0006310	screened for homologous recombination	DNA recombination	Recombination, Genetic	C0034865
+17527	17579	GO:0006310	southern blot screening for homologous recombination	DNA recombination	Recombination, Genetic	C0034865
+17584	17588	GO:0005623	cell	cell	Cells	C0007634
+17632	17636	GO:0005623	cell	cell	Cells	C0007634
+17808	17816	GO:0016020	membrane	membrane	Membrane	C0596901
+18490	18535	GO:0042571	generation of anti-esg1 polyclonal antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+18859	18879	GO:0006310	by lr recombination.	DNA recombination	Recombination, Genetic	C0034865
+19107	19139	GO:1902698	ni-nitrilotriacetic acid agarose	acidogenesis		C3823112
+19107	19139	GO:1902705	ni-nitrilotriacetic acid agarose	acidogenesis		C3823112
+19107	19139	GO:1902706	ni-nitrilotriacetic acid agarose	acidogenesis		C3823112
+19107	19139	GO:1902699	ni-nitrilotriacetic acid agarose	acidogenesis		C3823112
+19321	19353	GO:0042571	anti-esg1 polyclonal antibodies.	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+19393	19397	GO:0005623	cell	cell	Cells	C0007634
+19428	19432	GO:0005623	cell	cell	Cells	C0007634
+19551	19559	GO:0016020	membrane	membrane	Membrane	C0596901
+19574	19582	GO:0016020	membrane	membrane	Membrane	C0596901
+19751	19770	GO:0042571	primary antibodies.	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+19771	19816	GO:0000746	horseradish peroxidase-conjugated anti-rabbit	conjugation		C1160466
+19832	19846	GO:0003823	immunoglobulin	immunoglobulin	immunoglobulin activity	C1621846
+19855	19871	GO:0007165	; cell signaling	signal transduction	Signal Transduction	C0037083
+19893	19910	GO:0019865	antibody binding.	immunoglobulin binding		C1149306
+19925	19985	GO:0005488	bound antibody with an ecl western blotting detection system	binding	Binding 	C1167622
+20031	20035	GO:0005623	cell	cell	Cells	C0007634
+20125	20128	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+20154	20199	GO:0007565	subcutaneously on the third day of pregnancy.	gestation	Pregnancy	C0032961
+20217	20236	GO:0009790	embryos in diapause	embryo development	Embryonic Development	C0013936
+20295	20299	GO:0005623	cell	cell	Cells	C0007634
+20416	20448	GO:1902698	0.1 mm non-essential amino acids	acidogenesis		C3823112
+20416	20448	GO:1902705	0.1 mm non-essential amino acids	acidogenesis		C3823112
+20416	20448	GO:1902706	0.1 mm non-essential amino acids	acidogenesis		C3823112
+20416	20448	GO:1902699	0.1 mm non-essential amino acids	acidogenesis		C3823112
+20718	20722	GO:0005623	cell	cell	Cells	C0007634
+20852	20856	GO:0005623	cell	cell	Cells	C0007634
+20956	20960	GO:0005623	cell	cell	Cells	C0007634
+21050	21054	GO:0005623	cell	cell	Cells	C0007634
+21075	21079	GO:0005623	cell	cell	Cells	C0007634
+21178	21182	GO:0005623	cell	cell	Cells	C0007634
+21199	21203	GO:0005623	cell	cell	Cells	C0007634
+21288	21299	GO:0032502	development	development	Biologic Development	C0678723
+21656	21702	GO:0050000	the chromosomal localizations of the esg1 gene	chromosome localization		C1657114
+21768	21798	GO:0009790	out mouse embryo manipulation.	embryo development	Embryonic Development	C0013936
+21824	21828	GO:0005623	cell	cell	Cells	C0007634
+22373	22377	GO:0005623	cell	cell	Cells	C0007634

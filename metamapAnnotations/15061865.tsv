@@ -1,0 +1,208 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+67	75	GO:0007612	learning	learning	Learning	C0023185
+115	156	GO:0023041	dopamine modulation of neuronal signaling	neuronal signal transduction		C2756001
+235	279	GO:0007600	integrating diverse external sensory stimuli	sensory perception	Esthesia	C0036658
+400	408	GO:0007610	behavior	behavior	Behavior	C0004927
+418	422	GO:0005623	cell	cell	Cells	C0007634
+434	452	GO:0007165	dopamine signaling	signal transduction	Signal Transduction	C0037083
+434	452	GO:0023052	dopamine signaling	biological signaling		C3537152
+571	579	GO:0007610	behavior	behavior	Behavior	C0004927
+697	736	GO:0007212	dopamine d2 receptor-mediated signaling	dopamine receptor signaling pathway		C1155414
+777	785	GO:0007612	learning	learning	Learning	C0023185
+1025	1033	GO:0007610	behavior	behavior	Behavior	C0004927
+1102	1110	GO:0007612	learning	learning	Learning	C0023185
+1209	1216	GO:0007612	learned	learning	Learning	C0023185
+1329	1343	GO:0007612	learned to dig	learning	Learning	C0023185
+1977	1997	GO:0007608	capable of olfaction	smell perception	Smell Perception	C0037361
+2300	2314	GO:0007165	that signaling	signal transduction	Signal Transduction	C0037083
+2300	2314	GO:0023052	that signaling	biological signaling		C3537152
+2405	2413	GO:0007612	learning	learning	Learning	C0023185
+2501	2545	GO:0008306	reinforcement-mediated associative learning,	classical conditioning	Conditioning, Classical	C0009649
+3055	3091	GO:0007567	the delivery of a primary reinforcer	parturition	Birth	C0005615
+3137	3145	GO:0007610	behavior	behavior	Behavior	C0004927
+3276	3329	GO:0008306	the maintenance of associative learning relationships	classical conditioning	Conditioning, Classical	C0009649
+3432	3435	GO:0007601	see	vision	Vision	C0042789
+3521	3602	GO:0008306	a pivotal role in the second phase of reinforcement-mediated associative learning	classical conditioning	Conditioning, Classical	C0009649
+3642	3697	GO:0007612	learned motivational properties of conditioned stimuli.	learning	Learning	C0023185
+3761	3797	GO:0007165	the disruption of dopamine signaling	signal transduction	Signal Transduction	C0037083
+3761	3797	GO:0023052	the disruption of dopamine signaling	biological signaling		C3537152
+4053	4089	GO:0009058	the formation of incentive salience.	anabolism	Anabolism	C0220781
+4091	4109	GO:0007165	dopamine signaling	signal transduction	Signal Transduction	C0037083
+4091	4109	GO:0023052	dopamine signaling	biological signaling		C3537152
+4129	4133	GO:0005623	cell	cell	Cells	C0007634
+4293	4309	GO:0007567	individual genes	parturition	Birth	C0005615
+4293	4309	GO:0000003	individual genes	reproduction	Reproduction	C0035150
+4554	4595	GO:0008306	in various stages of associative learning	classical conditioning	Conditioning, Classical	C0009649
+4719	4727	GO:0007610	behavior	behavior	Behavior	C0004927
+4812	4842	GO:0007567	predictive of cocaine delivery	parturition	Birth	C0005615
+4902	4911	GO:0007165	signaling	signal transduction	Signal Transduction	C0037083
+4902	4911	GO:0023052	signaling	biological signaling		C3537152
+4927	4973	GO:0050896	the maintenance of stimulus-response outcomes.	response to stimulus	Response to stimulus physiology	C0542478
+5017	5047	GO:0008306	disrupted associative learning	classical conditioning	Conditioning, Classical	C0009649
+5058	5103	GO:0007165	acute manipulations of dopamine d1r signaling	signal transduction	Signal Transduction	C0037083
+5058	5103	GO:0023052	acute manipulations of dopamine d1r signaling	biological signaling		C3537152
+5104	5152	GO:0008306	during acquisition of associative learning tasks	classical conditioning	Conditioning, Classical	C0009649
+5177	5226	GO:0007165	the actual contribution of d2r-mediated signaling	signal transduction	Signal Transduction	C0037083
+5177	5226	GO:0023052	the actual contribution of d2r-mediated signaling	biological signaling		C3537152
+5246	5281	GO:0008306	maintenance of associative learning	classical conditioning	Conditioning, Classical	C0009649
+5341	5402	GO:0008306	used in the context of rodent associative learning paradigms,	classical conditioning	Conditioning, Classical	C0009649
+5608	5616	GO:0007612	learning	learning	Learning	C0023185
+5734	5757	GO:0008306	in associative learning	classical conditioning	Conditioning, Classical	C0009649
+5964	5972	GO:0007612	learning	learning	Learning	C0023185
+6143	6152	GO:0007165	signaling	signal transduction	Signal Transduction	C0037083
+6143	6152	GO:0023052	signaling	biological signaling		C3537152
+6234	6242	GO:0007612	learning	learning	Learning	C0023185
+6336	6384	GO:0007165	the influence of dopamine d2r-mediated signaling	signal transduction	Signal Transduction	C0037083
+6336	6384	GO:0023052	the influence of dopamine d2r-mediated signaling	biological signaling		C3537152
+6397	6405	GO:0007612	learning	learning	Learning	C0023185
+6442	6450	GO:0007612	learning	learning	Learning	C0023185
+6555	6580	GO:0008306	associative learning rule	classical conditioning	Conditioning, Classical	C0009649
+6646	6654	GO:0007612	learning	learning	Learning	C0023185
+6691	6699	GO:0007612	learning	learning	Learning	C0023185
+6948	6956	GO:0007612	learning	learning	Learning	C0023185
+7110	7164	GO:0050890	the cognitive performances of healthy human volunteers	cognition	Cognition	C0009240
+7253	7261	GO:0007610	behavior	behavior	Behavior	C0004927
+7342	7369	GO:0007165	that d2r-mediated signaling	signal transduction	Signal Transduction	C0037083
+7342	7369	GO:0023052	that d2r-mediated signaling	biological signaling		C3537152
+7409	7417	GO:0007612	learning	learning	Learning	C0023185
+7479	7538	GO:0007212	the contribution of dopamine d2 receptor-mediated signaling	dopamine receptor signaling pathway		C1155414
+7558	7602	GO:0008542	non-spatial reversal learning in adult mice,	visual learning	Visual learning	C0582587
+7773	7781	GO:0007612	learning	learning	Learning	C0023185
+7829	7847	GO:0050893	sensory processing	sensory processing	Sensory Process	C1327511
+7862	7870	GO:0007612	learning	learning	Learning	C0023185
+7895	7931	GO:0007165	that dopamine d2r-mediated signaling	signal transduction	Signal Transduction	C0037083
+7895	7931	GO:0023052	that dopamine d2r-mediated signaling	biological signaling		C3537152
+7976	7981	GO:0007612	learn	learning	Learning	C0023185
+8078	8086	GO:0007610	behavior	behavior	Behavior	C0004927
+8203	8208	GO:0007612	learn	learning	Learning	C0023185
+8217	8225	GO:0007610	behavior	behavior	Behavior	C0004927
+8293	8303	GO:0007612	learned to	learning	Learning	C0023185
+9266	9271	GO:0007612	learn	learning	Learning	C0023185
+9266	9271	GO:0007612	learn	learning	Learning	C0023185
+9561	9569	GO:0007610	behavior	behavior	Behavior	C0004927
+9711	9756	GO:0008306	learning contingencies during reversal trials	classical conditioning	Conditioning, Classical	C0009649
+10586	10591	GO:0005488	bound	binding	Binding 	C1167622
+11721	11780	GO:0007212	the contribution of dopamine d2 receptor-mediated signaling	dopamine receptor signaling pathway		C1155414
+11831	11839	GO:0007612	learning	learning	Learning	C0023185
+11892	11900	GO:0007612	learning	learning	Learning	C0023185
+11969	11977	GO:0007610	behavior	behavior	Behavior	C0004927
+12243	12270	GO:0007165	that d2r-mediated signaling	signal transduction	Signal Transduction	C0037083
+12243	12270	GO:0023052	that d2r-mediated signaling	biological signaling		C3537152
+12271	12308	GO:0043005	contributes to the neuronal processes	neurite	Neurites	C0085103
+12467	12502	GO:0007165	that mesolimbic dopamine signaling,	signal transduction	Signal Transduction	C0037083
+12467	12502	GO:0023052	that mesolimbic dopamine signaling,	biological signaling		C3537152
+12565	12573	GO:0007612	learning	learning	Learning	C0023185
+12595	12672	GO:0007165	or without intact dopamine d2r-mediated signaling displayed similar decreases	signal transduction	Signal Transduction	C0037083
+12595	12672	GO:0023052	or without intact dopamine d2r-mediated signaling displayed similar decreases	biological signaling		C3537152
+12733	12747	GO:0007612	learned to dig	learning	Learning	C0023185
+13000	13008	GO:0007612	learning	learning	Learning	C0023185
+13357	13389	GO:0008306	in operant associative learning.	classical conditioning	Conditioning, Classical	C0009649
+13475	13498	GO:0008306	of associative learning	classical conditioning	Conditioning, Classical	C0009649
+13600	13608	GO:0007612	learning	learning	Learning	C0023185
+13613	13646	GO:0061744	d2rs with motor related behaviors	motor behavior		C4085668
+13780	13830	GO:0008306	acquisition of food-motivated associative learning	classical conditioning	Conditioning, Classical	C0009649
+13822	13830	GO:0007612	learning	learning	Learning	C0023185
+14175	14184	GO:0007165	signaling	signal transduction	Signal Transduction	C0037083
+14175	14184	GO:0023052	signaling	biological signaling		C3537152
+14232	14266	GO:0007165	the role of d2r-mediated signaling	signal transduction	Signal Transduction	C0037083
+14232	14266	GO:0023052	the role of d2r-mediated signaling	biological signaling		C3537152
+14295	14303	GO:0007612	learning	learning	Learning	C0023185
+14406	14416	GO:0040011	locomotion	locomotion	Locomotion	C0023946
+14421	14429	GO:0007612	learning	learning	Learning	C0023185
+14494	14521	GO:0007165	that d2r-mediated signaling	signal transduction	Signal Transduction	C0037083
+14494	14521	GO:0023052	that d2r-mediated signaling	biological signaling		C3537152
+14535	14568	GO:0061743	just motor components of learning	motor learning		C4236819
+14829	14852	GO:0008306	in associative learning	classical conditioning	Conditioning, Classical	C0009649
+14991	15005	GO:0061744	motor behavior	motor behavior		C4085668
+15066	15074	GO:0007612	learning	learning	Learning	C0023185
+15150	15173	GO:0008306	in associative learning	classical conditioning	Conditioning, Classical	C0009649
+15194	15208	GO:0061744	motor behavior	motor behavior		C4085668
+15381	15389	GO:0007610	behavior	behavior	Behavior	C0004927
+15521	15556	GO:0008306	acquisition of associative learning	classical conditioning	Conditioning, Classical	C0009649
+15641	15649	GO:0007610	behavior	behavior	Behavior	C0004927
+16206	16217	GO:0032502	development	development	Biologic Development	C0678723
+16448	16456	GO:0007610	behavior	behavior	Behavior	C0004927
+16524	16581	GO:0007165	a previously unappreciated role of d2r-mediated signaling	signal transduction	Signal Transduction	C0037083
+16524	16581	GO:0023052	a previously unappreciated role of d2r-mediated signaling	biological signaling		C3537152
+16582	16605	GO:0008306	in associative learning	classical conditioning	Conditioning, Classical	C0009649
+16774	16816	GO:0007567	the genetic manipulation of the drd2 locus	parturition	Birth	C0005615
+16774	16816	GO:0000003	the genetic manipulation of the drd2 locus	reproduction	Reproduction	C0035150
+16827	16875	GO:0007608	a gross olfactory impairment to the d2r-/- mice.	smell perception	Smell Perception	C0037361
+16945	16950	GO:0007612	learn	learning	Learning	C0023185
+17011	17018	GO:0007612	learned	learning	Learning	C0023185
+17122	17181	GO:0043679	located on glutamatergic terminal axons of olfactory nerves	nerve ending	Nerve Endings	C0027747
+17194	17233	GO:0007608	excitatory input of the olfactory nerve	smell perception	Smell Perception	C0037361
+17248	17252	GO:0005623	cell	cell	Cells	C0007634
+17377	17398	GO:0007608	in the olfactory bulb	smell perception	Smell Perception	C0037361
+17416	17428	GO:0009293	transduction	transduction		C1160185
+17504	17528	GO:0007608	olfactory nerve activity	smell perception	Smell Perception	C0037361
+17657	17665	GO:0007612	learning	learning	Learning	C0023185
+17689	17731	GO:0007165	a role for dopamine d2r-mediated signaling	signal transduction	Signal Transduction	C0037083
+17689	17731	GO:0023052	a role for dopamine d2r-mediated signaling	biological signaling		C3537152
+17751	17759	GO:0007610	behavior	behavior	Behavior	C0004927
+17789	17797	GO:0007610	behavior	behavior	Behavior	C0004927
+17879	17887	GO:0007612	learning	learning	Learning	C0023185
+18179	18187	GO:0007610	behavior	behavior	Behavior	C0004927
+18501	18509	GO:0007612	learning	learning	Learning	C0023185
+18742	18771	GO:0060004	a reflection of extra trials.	reflex	Reflex motion descriptor	C0439840
+18967	19017	GO:0007165	and in particular dopamine d2r-mediated signaling,	signal transduction	Signal Transduction	C0037083
+18967	19017	GO:0023052	and in particular dopamine d2r-mediated signaling,	biological signaling		C3537152
+19192	19196	GO:0005623	cell	cell	Cells	C0007634
+19206	19287	GO:0008306	consistent tonic firing patterns during maintenance of associative learning tasks	classical conditioning	Conditioning, Classical	C0009649
+19341	19345	GO:0005623	cell	cell	Cells	C0007634
+19483	19498	GO:0001775	cell activation	cell activation		C1326120
+19826	19843	GO:0007165	signaling cascade	signaling cascade		C2611812
+19903	19917	GO:0007165	that signaling	signal transduction	Signal Transduction	C0037083
+19903	19917	GO:0023052	that signaling	biological signaling		C3537152
+20259	20285	GO:0060080	resulted in ipsp activity,	regulation of inhibitory post-synaptic membrane potential	regulation of inhibitory postsynaptic membrane potential	C2262819
+20286	20307	GO:0060292	long-term depression,	long term depression		C2610415
+20489	20525	GO:0007165	excitatory corticostriatal signaling	signal transduction	Signal Transduction	C0037083
+20489	20525	GO:0023052	excitatory corticostriatal signaling	biological signaling		C3537152
+20564	20572	GO:0007610	behavior	behavior	Behavior	C0004927
+20745	20752	GO:0005488	binding	binding	Binding 	C1167622
+20769	20777	GO:0007610	behavior	behavior	Behavior	C0004927
+20920	20928	GO:0007612	learning	learning	Learning	C0023185
+20968	20988	GO:0007600	sensory impairments.	sensory perception	Esthesia	C0036658
+21018	21042	GO:0007165	participate in signaling	signal transduction	Signal Transduction	C0037083
+21018	21042	GO:0023052	participate in signaling	biological signaling		C3537152
+21055	21091	GO:0008306	the organism of learning contingency	classical conditioning	Conditioning, Classical	C0009649
+21116	21124	GO:0007612	learning	learning	Learning	C0023185
+21158	21166	GO:0007610	behavior	behavior	Behavior	C0004927
+21206	21237	GO:0007165	that signaling by dopamine d2rs	signal transduction	Signal Transduction	C0037083
+21206	21237	GO:0023052	that signaling by dopamine d2rs	biological signaling		C3537152
+21504	21512	GO:0007610	behavior	behavior	Behavior	C0004927
+21551	21583	GO:0008306	that during associative learning	classical conditioning	Conditioning, Classical	C0009649
+21649	21657	GO:0007612	learning	learning	Learning	C0023185
+21706	21715	GO:0007165	signaling	signal transduction	Signal Transduction	C0037083
+21706	21715	GO:0023052	signaling	biological signaling		C3537152
+21743	21781	GO:0008306	in the course of associative learning,	classical conditioning	Conditioning, Classical	C0009649
+21791	21798	GO:0045202	synapse	synapse	Synapses	C0039062
+22034	22077	GO:0007165	the lack of dopamine d2r-mediated signaling	signal transduction	Signal Transduction	C0037083
+22034	22077	GO:0023052	the lack of dopamine d2r-mediated signaling	biological signaling		C3537152
+22354	22362	GO:0007610	behavior	behavior	Behavior	C0004927
+22605	22613	GO:0007612	learning	learning	Learning	C0023185
+23164	23177	GO:0044849	estrous cycle	estrous cycle	Estrous Cycle	C0950151
+23593	23601	GO:0007610	behavior	behavior	Behavior	C0004927
+23687	23695	GO:0007610	behavior	behavior	Behavior	C0004927
+24766	24771	GO:0007612	learn	learning	Learning	C0023185
+26028	26036	GO:0007610	behavior	behavior	Behavior	C0004927
+26492	26500	GO:0007612	learning	learning	Learning	C0023185
+26581	26589	GO:0007612	learning	learning	Learning	C0023185
+26996	27004	GO:0007612	learning	learning	Learning	C0023185
+27446	27454	GO:0007612	learning	learning	Learning	C0023185
+27563	27571	GO:0007612	learning	learning	Learning	C0023185
+27978	27986	GO:0007612	learning	learning	Learning	C0023185
+28521	28529	GO:0007610	behavior	behavior	Behavior	C0004927
+28580	28587	GO:0007612	learned	learning	Learning	C0023185
+28929	28934	GO:0007601	seen.	vision	Vision	C0042789
+29018	29026	GO:0007610	behavior	behavior	Behavior	C0004927
+29077	29085	GO:0007612	learning	learning	Learning	C0023185
+29114	29122	GO:0007610	behavior	behavior	Behavior	C0004927
+29136	29175	GO:0007212	dopamine d2 receptor-mediated signaling	dopamine receptor signaling pathway		C1155414
+29176	29251	GO:0008306	contributes to the acquisition of odor discrimination/associative learning.	classical conditioning	Conditioning, Classical	C0009649
+29543	29551	GO:0007610	behavior	behavior	Behavior	C0004927
+29568	29576	GO:0007612	learning	learning	Learning	C0023185
+29668	29676	GO:0007612	learning	learning	Learning	C0023185
+29783	29791	GO:0007612	learning	learning	Learning	C0023185
+29999	30004	GO:0005488	bound	binding	Binding 	C1167622
+30435	30519	GO:0008306	the inverted reinforcement contingencies during the first reversal learning session,	classical conditioning	Conditioning, Classical	C0009649

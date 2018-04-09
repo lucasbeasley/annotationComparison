@@ -1,0 +1,123 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+10	34	GO:0006310	homologous recombination	DNA recombination	Recombination, Genetic	C0034865
+85	152	GO:0007567	relevant to the role of the breast cancer susceptibility gene brca2	parturition	Birth	C0005615
+85	152	GO:0000003	relevant to the role of the breast cancer susceptibility gene brca2	reproduction	Reproduction	C0035150
+156	166	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+191	203	GO:0007567	genetic data	parturition	Birth	C0005615
+191	203	GO:0000003	genetic data	reproduction	Reproduction	C0035150
+261	277	GO:0006310	(recombinational	DNA recombination	Recombination, Genetic	C0034865
+279	314	GO:0006302	repair of dna double-strand breaks.	double-strand break repair	Double Strand Break Repair	C1158537
+428	450	GO:0000725	recombinational repair	recombinational repair		C1158512
+469	494	GO:0006310	function in recombination	DNA recombination	Recombination, Genetic	C0034865
+739	764	GO:0042060	in rad51-mediated repair.	wound healing	Wound Healing	C0043240
+791	815	GO:0006310	homologous recombination	DNA recombination	Recombination, Genetic	C0034865
+834	878	GO:0007567	the second breast cancer susceptibility gene	parturition	Birth	C0005615
+834	878	GO:0000003	the second breast cancer susceptibility gene	reproduction	Reproduction	C0035150
+1000	1004	GO:0005623	cell	cell	Cells	C0007634
+1054	1058	GO:0005623	cell	cell	Cells	C0007634
+1097	1129	GO:0005694	gross chromosomal rearrangements	chromosome	Chromosomes	C0008633
+1172	1189	GO:1902698	(3418 amino acids	acidogenesis		C3823112
+1172	1189	GO:1902705	(3418 amino acids	acidogenesis		C3823112
+1172	1189	GO:1902706	(3418 amino acids	acidogenesis		C3823112
+1172	1189	GO:1902699	(3418 amino acids	acidogenesis		C3823112
+1385	1419	GO:0007567	breast cancer susceptibility genes	parturition	Birth	C0005615
+1385	1419	GO:0000003	breast cancer susceptibility genes	reproduction	Reproduction	C0035150
+1424	1434	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+1655	1704	GO:0000724	involved in recombinational repair of dna damage.	double-strand break repair via homologous recombination		C1158513
+1759	1766	GO:0051320	S phase	S phase	S Phase	C0080129
+1835	1874	GO:0042060	probably sites of repair of spontaneous	wound healing	Wound Healing	C0043240
+1910	1914	GO:0005623	cell	cell	Cells	C0007634
+1960	1988	GO:0002524	sensitive to damaging agents	hypersensitivity	Hypersensitivity	C0020517
+2041	2045	GO:0005623	cell	cell	Cells	C0007634
+2065	2087	GO:0000725	recombinational repair	recombinational repair		C1158512
+2408	2412	GO:0005623	cell	cell	Cells	C0007634
+2539	2590	GO:0009058	required for the formation of recombinase complexes	anabolism	Anabolism	C0220781
+2591	2617	GO:0090734	at the sites of dna damage	site of DNA damage		C4329000
+2636	2683	GO:0006310	genetic measurements of recombination frequency	DNA recombination	Recombination, Genetic	C0034865
+2695	2734	GO:0009790	that brca1-/- embryonic stem (es) cells	embryo development	Embryonic Development	C0013936
+2739	2778	GO:0000725	deficient in recombinational dsb repair	recombinational repair		C1158512
+2953	2986	GO:0042060	brca2 in repair-proficient cells,	wound healing	Wound Healing	C0043240
+3059	3081	GO:0000725	recombinational repair	recombinational repair		C1158512
+3165	3235	GO:0006310	measuring dsb-induced recombination frequency in brca2-defective cells	DNA recombination	Recombination, Genetic	C0034865
+3264	3297	GO:0006310	a set of recombination substrates	DNA recombination	Recombination, Genetic	C0034865
+3312	3349	GO:0006310	the level of homologous recombination	DNA recombination	Recombination, Genetic	C0034865
+3400	3427	GO:0007567	a pair of mutated gfp genes	parturition	Birth	C0005615
+3400	3427	GO:0000003	a pair of mutated gfp genes	reproduction	Reproduction	C0035150
+3565	3616	GO:0000496	endonuclease with an 18 base pair recognition site.	base pairing	Base Pairing	C0600436
+3846	3876	GO:0042060	resulting in repair of the dsb	wound healing	Wound Healing	C0043240
+3901	3916	GO:0035822	gene conversion	gene conversion	Gene Conversion	C0017259
+3971	4000	GO:0042060	that homology-mediated repair	wound healing	Wound Healing	C0043240
+4007	4060	GO:0009058	results in the formation of a functional copy of gfp.	anabolism	Anabolism	C0220781
+4115	4119	GO:0005623	cell	cell	Cells	C0007634
+4206	4240	GO:0006310	such a gfp recombination substrate	DNA recombination	Recombination, Genetic	C0034865
+4261	4265	GO:0005623	cell	cell	Cells	C0007634
+4330	4336	GO:0042060	repair	wound healing	Wound Healing	C0043240
+4337	4393	GO:0006310	the i-scei-induced dsb through homologous recombination.	DNA recombination	Recombination, Genetic	C0034865
+4441	4445	GO:0005623	cell	cell	Cells	C0007634
+4457	4489	GO:0006310	gfp via homologous recombination	DNA recombination	Recombination, Genetic	C0034865
+4520	4524	GO:0005623	cell	cell	Cells	C0007634
+4547	4551	GO:0005623	cell	cell	Cells	C0007634
+4618	4646	GO:1902698	truncated at amino acid 1981	acidogenesis		C3823112
+4618	4646	GO:1902705	truncated at amino acid 1981	acidogenesis		C3823112
+4618	4646	GO:1902706	truncated at amino acid 1981	acidogenesis		C3823112
+4618	4646	GO:1902699	truncated at amino acid 1981	acidogenesis		C3823112
+4695	4736	GO:0006310	the level of i-scei-induced recombination	DNA recombination	Recombination, Genetic	C0034865
+4780	4784	GO:0007601	seen	vision	Vision	C0042789
+4818	4822	GO:0005623	cell	cell	Cells	C0007634
+4920	4924	GO:0005623	cell	cell	Cells	C0007634
+5064	5086	GO:0000725	recombinational repair	recombinational repair		C1158512
+5094	5109	GO:0007601	seen in capan-1	vision	Vision	C0042789
+5276	5298	GO:0000725	recombinational repair	recombinational repair		C1158512
+5408	5445	GO:0006310	recombination in a mouse es cell line	DNA recombination	Recombination, Genetic	C0034865
+5532	5582	GO:0006310	lower recombination efficiency than isogenic cells	DNA recombination	Recombination, Genetic	C0034865
+6209	6213	GO:0005623	cell	cell	Cells	C0007634
+6273	6295	GO:0000725	recombinational repair	recombinational repair		C1158512
+6337	6341	GO:0005623	cell	cell	Cells	C0007634
+6440	6456	GO:0006310	in recombination	DNA recombination	Recombination, Genetic	C0034865
+6733	6737	GO:0005623	cell	cell	Cells	C0007634
+6861	6929	GO:0006310	light on the efficiency of brca2-independent recombination pathways.	DNA recombination	Recombination, Genetic	C0034865
+7016	7038	GO:0000725	recombinational repair	recombinational repair		C1158512
+7419	7429	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+7543	7547	GO:0005623	cell	cell	Cells	C0007634
+7582	7586	GO:0005623	cell	cell	Cells	C0007634
+7677	7681	GO:0005623	cell	cell	Cells	C0007634
+7879	7890	GO:0003677	DNA binding	DNA binding	dna binding	C1148673
+8425	8455	GO:0006310	rad51-dependent recombination.	DNA recombination	Recombination, Genetic	C0034865
+8456	8481	GO:0051179	the localization of rad51	establishment and maintenance of localization		C1744691
+8506	8510	GO:0005623	cell	cell	Cells	C0007634
+8671	8675	GO:0005623	cell	cell	Cells	C0007634
+8701	8710	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+8771	8800	GO:0051179	a nuclear localization signal	establishment and maintenance of localization		C1744691
+8835	8839	GO:0005623	cell	cell	Cells	C0007634
+8847	8890	GO:0051179	defective in nuclear localization of rad51,	establishment and maintenance of localization		C1744691
+8938	8960	GO:0005634	carried to the nucleus	cell nucleus	Cell Nucleus	C0007610
+8964	8971	GO:0005488	binding	binding	Binding 	C1167622
+9102	9111	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+9462	9488	GO:0006310	in promoting recombination	DNA recombination	Recombination, Genetic	C0034865
+9830	9872	GO:0042060	recruited into a functional repair complex	wound healing	Wound Healing	C0043240
+9950	9997	GO:0006330	little binding preference for single-strand dna	single-stranded DNA binding		C1148754
+9950	9997	GO:0003697	little binding preference for single-strand dna	single-stranded DNA binding		C1148754
+10327	10363	GO:0006330	from binding to the regions of ssdna	single-stranded DNA binding		C1148754
+10327	10363	GO:0003697	from binding to the regions of ssdna	single-stranded DNA binding		C1148754
+10388	10403	GO:0006260	DNA replication	DNA replication	DNA Replication	C0598312
+10448	10470	GO:0000725	recombinational repair	recombinational repair		C1158512
+10898	10949	GO:0000724	in promoting rad51-dependent recombinational repair	double-strand break repair via homologous recombination		C1158513
+11103	11125	GO:0090734	at sites of dna damage	site of DNA damage		C4329000
+11554	11610	GO:0006310	a positive role in assembly of the recombination complex	DNA recombination	Recombination, Genetic	C0034865
+12031	12053	GO:0000725	recombinational repair	recombinational repair		C1158512
+12167	12182	GO:0005634	to the nucleus.	cell nucleus	Cell Nucleus	C0007610
+12206	12247	GO:0051179	addition of a nuclear localization signal	establishment and maintenance of localization		C1744691
+12529	12551	GO:0000725	recombinational repair	recombinational repair		C1158512
+12773	12789	GO:0009790	= embryonic stem	embryo development	Embryonic Development	C0013936
+12882	12906	GO:0006310	recombination substrates	DNA recombination	Recombination, Genetic	C0034865
+12907	12950	GO:0000724	used for assaying homology-directed repair.	double-strand break repair via homologous recombination		C1158513
+13054	13097	GO:0042060	repaired through homologous gene conversion	wound healing	Wound Healing	C0043240
+13164	13226	GO:0009058	results in the formation of a functional copy of the gfp gene.	anabolism	Anabolism	C0220781
+13251	13266	GO:0035822	gene conversion	gene conversion	Gene Conversion	C0017259
+13267	13322	GO:0009058	occurs via the synthesis-dependent annealing mechanism.	anabolism	Anabolism	C0220781
+13390	13413	GO:0090734	at sites of dna damage.	site of DNA damage		C4329000
+13414	13429	GO:0005694	chromosomal dna	chromosome	Chromosomes	C0008633
+13982	13986	GO:0005623	cell	cell	Cells	C0007634
+14104	14128	GO:0048518	(b) positive regulation.	positive regulation of biological process		C1654620
+14200	14222	GO:0000725	recombinational repair	recombinational repair		C1158512
+14271	14275	GO:0005623	cell	cell	Cells	C0007634

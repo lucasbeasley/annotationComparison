@@ -1,0 +1,270 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+297	308	GO:0032502	development	development	Biologic Development	C0678723
+465	476	GO:0032502	development	development	Biologic Development	C0678723
+518	546	GO:0042060	the repair of damaged tissue	wound healing	Wound Healing	C0043240
+1219	1260	GO:0009058	suppression of transgenic abeta synthesis	anabolism	Anabolism	C0220781
+1337	1346	GO:0009058	formation	anabolism	Anabolism	C0220781
+1481	1508	GO:0042983	mice in which app synthesis	amyloid precursor protein biosynthetic process		C1327111
+1544	1581	GO:0009058	after the formation of abeta deposits	anabolism	Anabolism	C0220781
+2334	2359	GO:0007567	came from genetic studies	parturition	Birth	C0005615
+2334	2359	GO:0000003	came from genetic studies	reproduction	Reproduction	C0035150
+2594	2597	GO:0007601	see	vision	Vision	C0042789
+2827	2894	GO:0042571	early evidence from clinical trials of antibody-mediated clearance,	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+3210	3252	GO:0050890	and to a lesser degree cognitive function,	cognition	Cognition	C0009240
+3280	3329	GO:0042571	to the patient's titer of abeta-specific antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+3371	3402	GO:0042571	constant exposure to antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+3731	3760	GO:0003824	by the action of two enzymes,	enzyme activity		C0243102
+3974	4029	GO:0004857	small molecule inhibitors of beta-app cleaving enzyme 1	enzyme inhibitor activity		C1152555
+4250	4261	GO:0032502	development	development	Biologic Development	C0678723
+4407	4427	GO:0003904	pre-existing amyloid	photoreactivating enzyme activity		C2257086
+4706	4717	GO:0032502	development	development	Biologic Development	C0678723
+5560	5580	GO:0004842	known as pprppe1/e2,	ubiquitin conjugating enzyme activity		C1151883
+5560	5580	GO:0061650	known as pprppe1/e2,	ubiquitin-like protein conjugating enzyme activity		C1151884
+5560	5580	GO:0019775	known as pprppe1/e2,	FAT10 conjugating enzyme activity		C1151887
+5560	5580	GO:0019777	known as pprppe1/e2,	Atg12 conjugating enzyme activity		C2612339
+5560	5580	GO:0072496	known as pprppe1/e2,	Pup conjugating enzyme activity		C3156549
+5560	5580	GO:0019787	known as pprppe1/e2,	ubiquitin-like protein transferase activity		C3888074
+5560	5580	GO:0004842	known as pprppe1/e2,	ubiquitin-protein transferase activity		C3888151
+5560	5580	GO:0061657	known as pprppe1/e2,	UFM1 conjugating enzyme activity		C3889565
+5560	5580	GO:0019789	known as pprppe1/e2,	SUMO conjugating enzyme activity		C3889566
+5560	5580	GO:0019788	known as pprppe1/e2,	NEDD8 conjugating enzyme activity		C3889567
+5560	5580	GO:0061658	known as pprppe1/e2,	URM1 conjugating enzyme activity		C3889568
+5560	5580	GO:0061653	known as pprppe1/e2,	E2	ISG15 conjugating enxyme activity	C3889569
+5560	5580	GO:0061631	known as pprppe1/e2,	ubiquitin conjugating enzyme activity		C1151883
+5560	5580	GO:0061652	known as pprppe1/e2,	FAT10 conjugating enzyme activity		C1151887
+5560	5580	GO:0061651	known as pprppe1/e2,	Atg12 conjugating enzyme activity		C2612339
+5560	5580	GO:0061655	known as pprppe1/e2,	Pup conjugating enzyme activity		C3156549
+5560	5580	GO:0061656	known as pprppe1/e2,	SUMO conjugating enzyme activity		C3889566
+5560	5580	GO:0061654	known as pprppe1/e2,	NEDD8 conjugating enzyme activity		C3889567
+6062	6101	GO:0005579	gcc gga tcc gcg gcc gcc gtc gag ttt acc	membrane attack complex location		C1167383
+6126	6137	GO:0005579	gcc gga tcc	membrane attack complex location		C1167383
+6351	6389	GO:0005579	gcc gga tcc gat cag cag acc gat tct gg	membrane attack complex location		C1167383
+6574	6583	GO:0007586	digestion	digestion	Digestion	C0012238
+8032	8041	GO:0007586	digestion	digestion	Digestion	C0012238
+8095	8105	GO:0045120	pronucleus	pronucleus	Pronucleus	C1167158
+8139	8158	GO:0009291	* c3hej f1 matings.	unidirectional conjugation		C1160186
+8139	8158	GO:0007618	* c3hej f1 matings.	mating		C1260875
+8139	8158	GO:0000747	* c3hej f1 matings.	conjugation with cellular fusion		C1748461
+8139	8158	GO:1990277	* c3hej f1 matings.	parasexual conjugation with cellular fusion		C3812685
+8561	8569	GO:0005802	;cba-tgn	trans Golgi network	trans-Golgi Network	C0887838
+9290	9293	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+9378	9406	GO:0017001	breakdown of the antibiotic.	antibiotic catabolic process		C1154679
+9480	9515	GO:0006277	by pcr amplification of genomic dna	DNA amplification	dna amplification	C0683230
+10434	10480	GO:0007567	a segment of the endogenous prion protein gene	parturition	Birth	C0005615
+10434	10480	GO:0000003	a segment of the endogenous prion protein gene	reproduction	Reproduction	C0035150
+10653	10700	GO:0007567	shared by the 3' utr of the endogenous prp gene	parturition	Birth	C0005615
+10653	10700	GO:0000003	shared by the 3' utr of the endogenous prp gene	reproduction	Reproduction	C0035150
+10899	10945	GO:0007567	a 750-bp product from the endogenous prp gene.	parturition	Birth	C0005615
+10899	10945	GO:0000003	a 750-bp product from the endogenous prp gene.	reproduction	Reproduction	C0035150
+11248	11252	GO:0005623	cell	cell	Cells	C0007634
+11574	11577	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+11675	11697	GO:1990116	(bio-rad laboratories,	ribosome-associated ubiquitin-dependent protein catabolic process		C3811628
+12262	12298	GO:0042571	with one of the following antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+12814	12832	GO:0042571	secondary antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+12995	13046	GO:1990116	imaged with the bio-rad molecular imager fx system.	ribosome-associated ubiquitin-dependent protein catabolic process		C3811628
+13168	13188	GO:1990116	bio-rad laboratories	ribosome-associated ubiquitin-dependent protein catabolic process		C3811628
+14575	14604	GO:0009566	silver impregnation histology	fertilization	Fertilization	C0015914
+15179	15214	GO:1902698	50 mul of concentrated nitric acid,	acidogenesis		C3823112
+15179	15214	GO:1902705	50 mul of concentrated nitric acid,	acidogenesis		C3823112
+15179	15214	GO:1902706	50 mul of concentrated nitric acid,	acidogenesis		C3823112
+15179	15214	GO:1902699	50 mul of concentrated nitric acid,	acidogenesis		C3823112
+15219	15239	GO:1902698	0.5 g of citric acid	acidogenesis		C3823112
+15219	15239	GO:1902705	0.5 g of citric acid	acidogenesis		C3823112
+15219	15239	GO:1902706	0.5 g of citric acid	acidogenesis		C3823112
+15219	15239	GO:1902699	0.5 g of citric acid	acidogenesis		C3823112
+15500	15538	GO:0009566	amyloid impregnation with thioflavin-s	fertilization	Fertilization	C0015914
+15781	15837	GO:1902698	in a 1% potassium metabisulfate/1% oxalic acid solution.	acidogenesis		C3823112
+15781	15837	GO:1902705	in a 1% potassium metabisulfate/1% oxalic acid solution.	acidogenesis		C3823112
+15781	15837	GO:1902706	in a 1% potassium metabisulfate/1% oxalic acid solution.	acidogenesis		C3823112
+15781	15837	GO:1902699	in a 1% potassium metabisulfate/1% oxalic acid solution.	acidogenesis		C3823112
+16186	16218	GO:0097426	glial fibrillary acidic protein,	glial filament	Glial Fibrillary Acidic Protein	C0017626
+16186	16218	GO:0045101	glial fibrillary acidic protein,	glial fibrillary acidic protein	glial fibrillary acidic protein location	C1325793
+16186	16218	GO:0045098	glial fibrillary acidic protein,	glial fibrillary acidic protein	glial fibrillary acidic protein location	C1325793
+16421	16440	GO:0004601	peroxidase activity	peroxidase activity		C1151518
+16704	16732	GO:0042571	placed into primary antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+16733	16780	GO:0042571	(rabbit anti-abeta peptide polyclonal antibody,	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+16875	16948	GO:0097426	rabbit anti-glial fibrillary acidic protein (gfap) polyclonal antibodies,	glial filament	Glial Fibrillary Acidic Protein	C0017626
+17099	17132	GO:0042571	washed of excess primary antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+17379	17388	GO:0097426	anti-gfap	glial filament	Glial Fibrillary Acidic Protein	C0017626
+17379	17388	GO:0045101	anti-gfap	glial fibrillary acidic protein	glial fibrillary acidic protein location	C1325793
+17379	17388	GO:0045098	anti-gfap	glial fibrillary acidic protein	glial fibrillary acidic protein location	C1325793
+17497	17513	GO:0019865	antibody binding	immunoglobulin binding		C1149306
+17871	17933	GO:0003904	filtered through a pre-wet 0.22-mum cellulose acetate membrane	photoreactivating enzyme activity		C2257086
+18043	18088	GO:0042571	overnight with polyclonal anti-abeta antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+18265	18273	GO:0016020	membrane	membrane	Membrane	C0596901
+18296	18325	GO:0000746	with hrp-conjugated protein a	conjugation		C1160466
+18376	18384	GO:0016020	membrane	membrane	Membrane	C0596901
+18450	18466	GO:0019865	antibody binding	immunoglobulin binding		C1149306
+18925	18946	GO:1902698	70% formic acid (fa).	acidogenesis		C3823112
+18925	18946	GO:1902705	70% formic acid (fa).	acidogenesis		C3823112
+18925	18946	GO:1902706	70% formic acid (fa).	acidogenesis		C3823112
+18925	18946	GO:1902699	70% formic acid (fa).	acidogenesis		C3823112
+19307	19322	GO:1902698	the fa extracts	acidogenesis		C3823112
+19307	19322	GO:1902705	the fa extracts	acidogenesis		C3823112
+19307	19322	GO:1902706	the fa extracts	acidogenesis		C3823112
+19307	19322	GO:1902699	the fa extracts	acidogenesis		C3823112
+21993	22004	GO:0042571	an antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+22107	22133	GO:0042571	(monoclonal antibody 22c11	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+22570	22574	GO:0007567	born	parturition	Birth	C0005615
+22570	22574	GO:0007567	born	parturition	Birth	C0005615
+22947	22965	GO:0003904	to pre-dox levels.	photoreactivating enzyme activity		C2257086
+23173	23186	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+24026	24047	GO:0043043	in peptide synthesis,	peptide biosynthesis	Peptide Biosynthesis	C1327133
+24145	24168	GO:0005625	peptides by solubility.	soluble		C1749467
+24310	24314	GO:0007567	born	parturition	Birth	C0005615
+24548	24583	GO:0009058	in full-length appswe/ind synthesis	anabolism	Anabolism	C0220781
+24605	24608	GO:0007601	see	vision	Vision	C0042789
+24703	24707	GO:0007567	born	parturition	Birth	C0005615
+24852	24859	GO:0005625	soluble	soluble		C1749467
+24981	24988	GO:0005625	soluble	soluble		C1749467
+25340	25344	GO:0007567	born	parturition	Birth	C0005615
+25834	25898	GO:0009058	that dox-mediated suppression of transgenic appswe/ind synthesis	anabolism	Anabolism	C0220781
+26094	26138	GO:0009058	rapid plaque formation in untreated animals.	anabolism	Anabolism	C0220781
+26239	26291	GO:0009058	early-onset amyloid formation in all four new lines.	anabolism	Anabolism	C0220781
+26313	26325	GO:0007601	seen in mice	vision	Vision	C0042789
+26442	26457	GO:0007608	olfactory bulb,	smell perception	Smell Perception	C0037361
+26677	26699	GO:0007601	seen in the cerebellum	vision	Vision	C0042789
+26902	26927	GO:0099512	fibrillar-cored deposits.	supramolecular fiber		C4236633
+26942	26985	GO:0019013	the same early appearance of cored deposits	nucleocapsid	viral nucleocapsid location	C1167518
+27392	27408	GO:0008088	axonal transport	axonal transport	Axonal Transport	C0004462
+27392	27408	GO:0098930	axonal transport	axonal transport	Axonal Transport	C0004462
+27768	27772	GO:0007567	born	parturition	Birth	C0005615
+28056	28097	GO:0051320	amyloid formation even over long periods.	S phase	S Phase	C0080129
+28297	28314	GO:0009058	amyloid formation	anabolism	Anabolism	C0220781
+29912	29931	GO:0009058	well-formed plaques	anabolism	Anabolism	C0220781
+30129	30139	GO:0099512	fibrillar,	supramolecular fiber		C4236633
+30294	30322	GO:0019013	persistent as cored deposits	nucleocapsid	viral nucleocapsid location	C1167518
+31667	31671	GO:0046930	pore	pore	Pore	C1325742
+31713	31721	GO:0016020	membrane	membrane	Membrane	C0596901
+32450	32471	GO:0005625	solubility of peptide	soluble		C1749467
+32618	32625	GO:0005625	soluble	soluble		C1749467
+32988	32995	GO:0005625	soluble	soluble		C1749467
+33207	33214	GO:0005625	soluble	soluble		C1749467
+33372	33379	GO:0005625	soluble	soluble		C1749467
+33643	33650	GO:0005625	soluble	soluble		C1749467
+33693	33701	GO:0043005	neuritic	neurite	Neurites	C0085103
+33911	33953	GO:0043005	neuritic pathology in all treatment groups	neurite	Neurites	C0085103
+33998	34020	GO:0097426	immunostained for gfap	glial filament	Glial Fibrillary Acidic Protein	C0017626
+34072	34080	GO:0043005	neuritic	neurite	Neurites	C0085103
+34196	34202	GO:0040007	growth	growth	Growth	C0018270
+34431	34467	GO:0050890	cognitive ability in untreated mice,	cognition	Cognition	C0009240
+34493	34502	GO:0050890	cognition	cognition	Cognition	C0009240
+34576	34594	GO:0050890	cognitive behavior	cognition	Cognition	C0009240
+34704	34708	GO:0007601	seen	vision	Vision	C0042789
+34779	34787	GO:0036268	swimming	swimming	Swimming	C0039003
+34884	34908	GO:0036268	repetitive swim patterns	swimming	Swimming	C0039003
+35535	35552	GO:0050890	cognitive ability	cognition	Cognition	C0009240
+35692	35723	GO:0050890	scored as cognitive impairment,	cognition	Cognition	C0009240
+35763	35800	GO:0050890	interpretation of the cognitive tasks	cognition	Cognition	C0009240
+36495	36503	GO:0007610	behavior	behavior	Behavior	C0004927
+36720	36724	GO:0007567	born	parturition	Birth	C0005615
+36904	36920	GO:0007623	circadian rhythm	circadian rhythm	Circadian Rhythms	C0008810
+38499	38512	GO:0005576	extracellular	extracellular	Extracellular	C0521119
+38616	38658	GO:0050789	less strict regulation of abeta production	regulation of biological process	Regulation of biological process	C1327622
+39961	39968	GO:0005625	soluble	soluble		C1749467
+39976	39979	GO:0007601	see	vision	Vision	C0042789
+40110	40117	GO:0005625	soluble	soluble		C1749467
+41047	41080	GO:0099512	predominantly fibrillar deposits,	supramolecular fiber		C4236633
+41320	41338	GO:0019013	than cored plaques	nucleocapsid	viral nucleocapsid location	C1167518
+41340	41343	GO:0007601	see	vision	Vision	C0042789
+41749	41771	GO:0009058	new amyloid formation,	anabolism	Anabolism	C0220781
+41909	41937	GO:0007567	that in this genetic system,	parturition	Birth	C0005615
+41909	41937	GO:0000003	that in this genetic system,	reproduction	Reproduction	C0035150
+42763	42775	GO:0006909	phagocytosis	phagocytosis	Phagocytosis	C0031308
+43115	43125	GO:0008152	metabolism	metabolism	Metabolism	C0025519
+43303	43324	GO:0001774	microglial activation	microglial cell activation		C1326169
+43416	43432	GO:0009058	in the formation	anabolism	Anabolism	C0220781
+43583	43610	GO:0000910	on gamma-secretase cleavage	cytokinesis	Cytokinesis	C0010813
+44034	44038	GO:0005623	cell	cell	Cells	C0007634
+44194	44227	GO:0001774	the activation state of microglia	microglial cell activation		C1326169
+44331	44365	GO:0001774	inhibitor of microglial activation	microglial cell activation		C1326169
+45074	45095	GO:0042571	anti-abeta antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+45221	45250	GO:0042571	peripheral antibody injection	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+45638	45687	GO:0042571	behind several of the antibody-mediated therapies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+45732	45785	GO:0099512	an important role in the removal of fibrillar plaques	supramolecular fiber		C4236633
+45878	45956	GO:0032997	the primary receptor for microglial opsinization of antibody-antigen complexes	Fc receptor complex		C2246380
+45878	45956	GO:0032997	the primary receptor for microglial opsinization of antibody-antigen complexes	immunoglobulin receptor complex		C2246381
+45993	46052	GO:0042571	no impact on the effectiveness of antibody-mediated therapy	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+46092	46125	GO:0001774	that lack of microglia activation	microglial cell activation		C1326169
+46304	46312	GO:0042571	antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+46347	46375	GO:0001774	mild activation of microglia	microglial cell activation		C1326169
+46454	46466	GO:0006909	phagocytosis	phagocytosis	Phagocytosis	C0031308
+46538	46564	GO:0042571	abeta-targeted antibodies,	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+46653	46683	GO:0001774	strong activation of microglia	microglial cell activation		C1326169
+46854	46888	GO:0042571	but in the case of acute antibody-	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+46933	46945	GO:0006954	Inflammation	Inflammation		C0021368
+46962	46974	GO:0042571	the antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+46979	46992	GO:0005488	bound peptide	binding	Binding 	C1167622
+47465	47487	GO:0097418	neurofibrillary tangle	neurofibrillary tangle	neurofibrillary tangle 	C3543859
+48228	48241	GO:0005576	extracellular	extracellular	Extracellular	C0521119
+48331	48364	GO:0009058	abrogating synthesis of new abeta	anabolism	Anabolism	C0220781
+48371	48408	GO:0050890	the progression of cognitive decline.	cognition	Cognition	C0009240
+48493	48527	GO:0050890	required for cognitive improvement	cognition	Cognition	C0009240
+48613	48621	GO:0007610	behavior	behavior	Behavior	C0004927
+48899	48902	GO:0007601	see	vision	Vision	C0042789
+48985	48993	GO:0036268	swimming	swimming	Swimming	C0039003
+49111	49119	GO:0007612	learning	learning	Learning	C0023185
+49124	49130	GO:0007613	memory	memory	Memory	C0025260
+49222	49280	GO:0050890	the key element behind all cognitive behavioral paradigms.	cognition	Cognition	C0009240
+49401	49429	GO:0006508	its proteolytic derivatives.	proteolysis	Proteolysis	C0597304
+49658	49696	GO:0042983	present after transgenic app synthesis	amyloid precursor protein biosynthetic process		C1327111
+49870	49881	GO:0032502	development	development	Biologic Development	C0678723
+50131	50178	GO:0009058	despite dramatic reductions in abeta synthesis,	anabolism	Anabolism	C0220781
+50179	50195	GO:0043005	neuritic plaques	neurite	Neurites	C0085103
+50334	50361	GO:0009056	increase abeta degradation,	catabolism	Catabolism	C0699900
+50374	50386	GO:0006909	phagocytosis	phagocytosis	Phagocytosis	C0031308
+50562	50613	GO:0009405	substantial benefit in slowing pathogenic processes	pathogenesis	Pathogenesis	C0699748
+50681	50730	GO:0001774	the presence of substantial microglial activation	microglial cell activation		C1326169
+50777	50814	GO:0009058	the formation of new amyloid deposits	anabolism	Anabolism	C0220781
+50833	50845	GO:0006909	phagocytosis	phagocytosis	Phagocytosis	C0031308
+50892	50903	GO:0032502	development	development	Biologic Development	C0678723
+51032	51038	GO:0042060	repair	wound healing	Wound Healing	C0043240
+51238	51288	GO:0042571	western blotting with human-specific antibody 6e10	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+52067	52071	GO:0007601	seen	vision	Vision	C0042789
+52121	52132	GO:0007601	seen in any	vision	Vision	C0042789
+52562	52565	GO:0007601	see	vision	Vision	C0042789
+53175	53180	GO:0019013	cored	nucleocapsid	viral nucleocapsid location	C1167518
+53593	53609	GO:1990038	the diffuse halo	Lewy body corona		C3541466
+53622	53647	GO:0019013	individual cored deposits	nucleocapsid	viral nucleocapsid location	C1167518
+54134	54169	GO:0009058	arrest of abeta aggregate formation	anabolism	Anabolism	C0220781
+54380	54419	GO:0015074	control for integration site artifacts.	DNA integration	DNA Integration	C1158478
+54542	54579	GO:0042571	with the human-specific antibody 6e10	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+55043	55046	GO:0007601	see	vision	Vision	C0042789
+55314	55333	GO:0009058	aggregate formation	anabolism	Anabolism	C0220781
+55314	55333	GO:0009058	aggregate formation	anabolism	Anabolism	C0220781
+56649	56653	GO:0042060	heal	wound healing	Wound Healing	C0043240
+57287	57298	GO:0032502	development	development	Biologic Development	C0678723
+57693	57699	GO:0007567	" gene	parturition	Birth	C0005615
+57693	57699	GO:0000003	" gene	reproduction	Reproduction	C0035150
+59102	59107	GO:0007568	aging	aging	Aging	C0001811
+59875	59933	GO:0042571	takeda chemical industries for providing antibodies ban50,	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+59972	60019	GO:0042571	andreas weidemann for providing 22c11 antibody,	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+60024	60057	GO:0042571	ed koo for sharing ct15 antibody.	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+60368	60373	GO:0007568	aging	aging	Aging	C0001811
+61032	61048	GO:1902698	fa - formic acid	acidogenesis		C3823112
+61032	61048	GO:1902705	fa - formic acid	acidogenesis		C3823112
+61032	61048	GO:1902706	fa - formic acid	acidogenesis		C3823112
+61032	61048	GO:1902699	fa - formic acid	acidogenesis		C3823112
+61050	61088	GO:0097426	gfap - glial fibrillary acidic protein	glial filament	Glial Fibrillary Acidic Protein	C0017626
+61391	61423	GO:0042571	the human-specific 6e10 antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+61845	61849	GO:0007567	born	parturition	Birth	C0005615
+61870	61923	GO:0042571	(b) immunoblotting with the n-terminal antibody 22c11	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+63346	63353	GO:0005625	soluble	soluble		C1749467
+63697	63753	GO:0009058	here prior to the formation of visible amyloid deposits,	anabolism	Anabolism	C0220781
+63888	63895	GO:0005625	soluble	soluble		C1749467
+64293	64297	GO:0007567	born	parturition	Birth	C0005615
+64420	64427	GO:0005625	soluble	soluble		C1749467
+65115	65119	GO:0007567	born	parturition	Birth	C0005615
+65375	65402	GO:0043043	synthesis of both peptides,	peptide biosynthesis	Peptide Biosynthesis	C1327133
+66014	66061	GO:0042571	immunoblotted with human-specific antibody 6e10	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+66697	66700	GO:0007601	see	vision	Vision	C0042789
+67297	67315	GO:0042571	with ct15 antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+67329	67361	GO:0000910	the precursors to abeta cleavage	cytokinesis	Cytokinesis	C0010813
+67907	67911	GO:0046930	pore	pore	Pore	C1325742
+71118	71135	GO:0007601	seen for abeta42,	vision	Vision	C0042789
+71194	71201	GO:0005625	soluble	soluble		C1749467
+71460	71468	GO:0043005	neuritic	neurite	Neurites	C0085103
+71547	71554	GO:0043005	neurite	neurite	Neurites	C0085103
+71674	71681	GO:0043005	neurite	neurite	Neurites	C0085103
+71712	71751	GO:1990038	a halo around cored, fibrillar deposits	Lewy body corona		C3541466
+71936	71963	GO:0097426	; gfap immunohistochemistry	glial filament	Glial Fibrillary Acidic Protein	C0017626

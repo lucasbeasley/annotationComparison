@@ -1,0 +1,1814 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+181	191	GO:0008152	metabolism	metabolism	Metabolism	C0025519
+192	257	GO:1902698	caused by a deficiency of branched-chain keto acid dehydrogenase.	acidogenesis		C3823112
+192	257	GO:1902705	caused by a deficiency of branched-chain keto acid dehydrogenase.	acidogenesis		C3823112
+192	257	GO:1902706	caused by a deficiency of branched-chain keto acid dehydrogenase.	acidogenesis		C3823112
+192	257	GO:1902699	caused by a deficiency of branched-chain keto acid dehydrogenase.	acidogenesis		C3823112
+582	596	GO:0007567	gene targeting	parturition	Birth	C0005615
+582	596	GO:0000003	gene targeting	reproduction	Reproduction	C0035150
+601	633	GO:0009790	embryonic stem cell technologies	embryo development	Embryonic Development	C0013936
+669	740	GO:0004842	a functional e2 subunit gene of branched-chain keto acid dehydrogenase.	ubiquitin conjugating enzyme activity		C1151883
+669	740	GO:0061631	a functional e2 subunit gene of branched-chain keto acid dehydrogenase.	ubiquitin conjugating enzyme activity		C1151883
+829	872	GO:0004842	a human e2 cdna on the knockout background.	ubiquitin conjugating enzyme activity		C1151883
+829	872	GO:0061650	a human e2 cdna on the knockout background.	ubiquitin-like protein conjugating enzyme activity		C1151884
+829	872	GO:0019775	a human e2 cdna on the knockout background.	FAT10 conjugating enzyme activity		C1151887
+829	872	GO:0019777	a human e2 cdna on the knockout background.	Atg12 conjugating enzyme activity		C2612339
+829	872	GO:0072496	a human e2 cdna on the knockout background.	Pup conjugating enzyme activity		C3156549
+829	872	GO:0019787	a human e2 cdna on the knockout background.	ubiquitin-like protein transferase activity		C3888074
+829	872	GO:0004842	a human e2 cdna on the knockout background.	ubiquitin-protein transferase activity		C3888151
+829	872	GO:0061657	a human e2 cdna on the knockout background.	UFM1 conjugating enzyme activity		C3889565
+829	872	GO:0019789	a human e2 cdna on the knockout background.	SUMO conjugating enzyme activity		C3889566
+829	872	GO:0019788	a human e2 cdna on the knockout background.	NEDD8 conjugating enzyme activity		C3889567
+829	872	GO:0061658	a human e2 cdna on the knockout background.	URM1 conjugating enzyme activity		C3889568
+829	872	GO:0061653	a human e2 cdna on the knockout background.	E2	ISG15 conjugating enxyme activity	C3889569
+829	872	GO:0061631	a human e2 cdna on the knockout background.	ubiquitin conjugating enzyme activity		C1151883
+829	872	GO:0061652	a human e2 cdna on the knockout background.	FAT10 conjugating enzyme activity		C1151887
+829	872	GO:0061651	a human e2 cdna on the knockout background.	Atg12 conjugating enzyme activity		C2612339
+829	872	GO:0061655	a human e2 cdna on the knockout background.	Pup conjugating enzyme activity		C3156549
+829	872	GO:0061656	a human e2 cdna on the knockout background.	SUMO conjugating enzyme activity		C3889566
+829	872	GO:0061654	a human e2 cdna on the knockout background.	NEDD8 conjugating enzyme activity		C3889567
+992	1054	GO:0004842	the e2 subunit gene of branched-chain keto acid dehydrogenase,	ubiquitin conjugating enzyme activity		C1151883
+992	1054	GO:0061631	the e2 subunit gene of branched-chain keto acid dehydrogenase,	ubiquitin conjugating enzyme activity		C1151883
+1066	1110	GO:0007567	a gene knockout mouse model of classic msud.	parturition	Birth	C0005615
+1066	1110	GO:0000003	a gene knockout mouse model of classic msud.	reproduction	Reproduction	C0035150
+1147	1195	GO:0003863	branched-chain keto acid dehydrogenase activity,	branched chain keto acid dehydrogenase activity		C2256842
+1196	1216	GO:0004842	e2 immunoreactivity,	ubiquitin conjugating enzyme activity		C1151883
+1196	1216	GO:0061650	e2 immunoreactivity,	ubiquitin-like protein conjugating enzyme activity		C1151884
+1196	1216	GO:0019775	e2 immunoreactivity,	FAT10 conjugating enzyme activity		C1151887
+1196	1216	GO:0019777	e2 immunoreactivity,	Atg12 conjugating enzyme activity		C2612339
+1196	1216	GO:0072496	e2 immunoreactivity,	Pup conjugating enzyme activity		C3156549
+1196	1216	GO:0019787	e2 immunoreactivity,	ubiquitin-like protein transferase activity		C3888074
+1196	1216	GO:0004842	e2 immunoreactivity,	ubiquitin-protein transferase activity		C3888151
+1196	1216	GO:0061657	e2 immunoreactivity,	UFM1 conjugating enzyme activity		C3889565
+1196	1216	GO:0019789	e2 immunoreactivity,	SUMO conjugating enzyme activity		C3889566
+1196	1216	GO:0019788	e2 immunoreactivity,	NEDD8 conjugating enzyme activity		C3889567
+1196	1216	GO:0061658	e2 immunoreactivity,	URM1 conjugating enzyme activity		C3889568
+1196	1216	GO:0061653	e2 immunoreactivity,	E2	ISG15 conjugating enxyme activity	C3889569
+1196	1216	GO:0061631	e2 immunoreactivity,	ubiquitin conjugating enzyme activity		C1151883
+1196	1216	GO:0061652	e2 immunoreactivity,	FAT10 conjugating enzyme activity		C1151887
+1196	1216	GO:0061651	e2 immunoreactivity,	Atg12 conjugating enzyme activity		C2612339
+1196	1216	GO:0061655	e2 immunoreactivity,	Pup conjugating enzyme activity		C3156549
+1196	1216	GO:0061656	e2 immunoreactivity,	SUMO conjugating enzyme activity		C3889566
+1196	1216	GO:0061654	e2 immunoreactivity,	NEDD8 conjugating enzyme activity		C3889567
+1225	1285	GO:1902698	a 3-fold increase in circulating branched-chain amino acids.	acidogenesis		C3823112
+1225	1285	GO:1902705	a 3-fold increase in circulating branched-chain amino acids.	acidogenesis		C3823112
+1225	1285	GO:1902706	a 3-fold increase in circulating branched-chain amino acids.	acidogenesis		C3823112
+1225	1285	GO:1902699	a 3-fold increase in circulating branched-chain amino acids.	acidogenesis		C3823112
+1286	1314	GO:0044237	these metabolic derangements	cellular metabolic process	Metabolic Process, Cellular	C1524026
+1347	1387	GO:0004842	transgenic expression of a human e2 cdna	ubiquitin conjugating enzyme activity		C1151883
+1347	1387	GO:0061650	transgenic expression of a human e2 cdna	ubiquitin-like protein conjugating enzyme activity		C1151884
+1347	1387	GO:0019775	transgenic expression of a human e2 cdna	FAT10 conjugating enzyme activity		C1151887
+1347	1387	GO:0019777	transgenic expression of a human e2 cdna	Atg12 conjugating enzyme activity		C2612339
+1347	1387	GO:0072496	transgenic expression of a human e2 cdna	Pup conjugating enzyme activity		C3156549
+1347	1387	GO:0019787	transgenic expression of a human e2 cdna	ubiquitin-like protein transferase activity		C3888074
+1347	1387	GO:0004842	transgenic expression of a human e2 cdna	ubiquitin-protein transferase activity		C3888151
+1347	1387	GO:0061657	transgenic expression of a human e2 cdna	UFM1 conjugating enzyme activity		C3889565
+1347	1387	GO:0019789	transgenic expression of a human e2 cdna	SUMO conjugating enzyme activity		C3889566
+1347	1387	GO:0019788	transgenic expression of a human e2 cdna	NEDD8 conjugating enzyme activity		C3889567
+1347	1387	GO:0061658	transgenic expression of a human e2 cdna	URM1 conjugating enzyme activity		C3889568
+1347	1387	GO:0061653	transgenic expression of a human e2 cdna	E2	ISG15 conjugating enxyme activity	C3889569
+1347	1387	GO:0061631	transgenic expression of a human e2 cdna	ubiquitin conjugating enzyme activity		C1151883
+1347	1387	GO:0061652	transgenic expression of a human e2 cdna	FAT10 conjugating enzyme activity		C1151887
+1347	1387	GO:0061651	transgenic expression of a human e2 cdna	Atg12 conjugating enzyme activity		C2612339
+1347	1387	GO:0061655	transgenic expression of a human e2 cdna	Pup conjugating enzyme activity		C3156549
+1347	1387	GO:0061656	transgenic expression of a human e2 cdna	SUMO conjugating enzyme activity		C3889566
+1347	1387	GO:0061654	transgenic expression of a human e2 cdna	NEDD8 conjugating enzyme activity		C3889567
+1388	1427	GO:0004842	in the liver of the e2 knockout animals	ubiquitin conjugating enzyme activity		C1151883
+1388	1427	GO:0061650	in the liver of the e2 knockout animals	ubiquitin-like protein conjugating enzyme activity		C1151884
+1388	1427	GO:0019775	in the liver of the e2 knockout animals	FAT10 conjugating enzyme activity		C1151887
+1388	1427	GO:0019777	in the liver of the e2 knockout animals	Atg12 conjugating enzyme activity		C2612339
+1388	1427	GO:0072496	in the liver of the e2 knockout animals	Pup conjugating enzyme activity		C3156549
+1388	1427	GO:0019787	in the liver of the e2 knockout animals	ubiquitin-like protein transferase activity		C3888074
+1388	1427	GO:0004842	in the liver of the e2 knockout animals	ubiquitin-protein transferase activity		C3888151
+1388	1427	GO:0061657	in the liver of the e2 knockout animals	UFM1 conjugating enzyme activity		C3889565
+1388	1427	GO:0019789	in the liver of the e2 knockout animals	SUMO conjugating enzyme activity		C3889566
+1388	1427	GO:0019788	in the liver of the e2 knockout animals	NEDD8 conjugating enzyme activity		C3889567
+1388	1427	GO:0061658	in the liver of the e2 knockout animals	URM1 conjugating enzyme activity		C3889568
+1388	1427	GO:0061653	in the liver of the e2 knockout animals	E2	ISG15 conjugating enxyme activity	C3889569
+1388	1427	GO:0061631	in the liver of the e2 knockout animals	ubiquitin conjugating enzyme activity		C1151883
+1388	1427	GO:0061652	in the liver of the e2 knockout animals	FAT10 conjugating enzyme activity		C1151887
+1388	1427	GO:0061651	in the liver of the e2 knockout animals	Atg12 conjugating enzyme activity		C2612339
+1388	1427	GO:0061655	in the liver of the e2 knockout animals	Pup conjugating enzyme activity		C3156549
+1388	1427	GO:0061656	in the liver of the e2 knockout animals	SUMO conjugating enzyme activity		C3889566
+1388	1427	GO:0061654	in the liver of the e2 knockout animals	NEDD8 conjugating enzyme activity		C3889567
+1467	1514	GO:0003863	branched-chain keto acid dehydrogenase activity	branched chain keto acid dehydrogenase activity		C2256842
+1606	1652	GO:1902698	circulating branched-chain amino acids levels,	acidogenesis		C3823112
+1606	1652	GO:1902705	circulating branched-chain amino acids levels,	acidogenesis		C3823112
+1606	1652	GO:1902706	circulating branched-chain amino acids levels,	acidogenesis		C3823112
+1606	1652	GO:1902699	circulating branched-chain amino acids levels,	acidogenesis		C3823112
+1948	1960	GO:0009405	pathogenesis	pathogenesis	Pathogenesis	C0699748
+2026	2038	GO:0007567	such as gene	parturition	Birth	C0005615
+2026	2038	GO:0000003	such as gene	reproduction	Reproduction	C0035150
+2043	2047	GO:0005623	cell	cell	Cells	C0007634
+2072	2107	GO:0044237	this devastating metabolic disease.	cellular metabolic process	Metabolic Process, Cellular	C1524026
+2157	2175	GO:0007567	a genetic disorder	parturition	Birth	C0005615
+2157	2175	GO:0000003	a genetic disorder	reproduction	Reproduction	C0035150
+2176	2240	GO:1902698	caused by a deficiency of branched-chain keto acid dehydrogenase	acidogenesis		C3823112
+2176	2240	GO:1902705	caused by a deficiency of branched-chain keto acid dehydrogenase	acidogenesis		C3823112
+2176	2240	GO:1902706	caused by a deficiency of branched-chain keto acid dehydrogenase	acidogenesis		C3823112
+2176	2240	GO:1902699	caused by a deficiency of branched-chain keto acid dehydrogenase	acidogenesis		C3823112
+2252	2264	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+2252	2287	GO:0000001	a mitochondrial multienzyme complex	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+2286	2360	GO:1902698	responsible for the oxidative decarboxylation of branched-chain keto acids	acidogenesis		C3823112
+2286	2360	GO:1902705	responsible for the oxidative decarboxylation of branched-chain keto acids	acidogenesis		C3823112
+2286	2360	GO:1902706	responsible for the oxidative decarboxylation of branched-chain keto acids	acidogenesis		C3823112
+2286	2360	GO:1902699	responsible for the oxidative decarboxylation of branched-chain keto acids	acidogenesis		C3823112
+2361	2408	GO:1902698	derived from branched-chain amino acids (bcaa),	acidogenesis		C3823112
+2361	2408	GO:1902705	derived from branched-chain amino acids (bcaa),	acidogenesis		C3823112
+2361	2408	GO:1902706	derived from branched-chain amino acids (bcaa),	acidogenesis		C3823112
+2361	2408	GO:1902699	derived from branched-chain amino acids (bcaa),	acidogenesis		C3823112
+2453	2456	GO:0007601	see	vision	Vision	C0042789
+2686	2700	GO:0003863	BCKDH activity	BCKDH activity		C2256840
+2949	2963	GO:0003863	BCKDH activity	BCKDH activity		C2256840
+3156	3170	GO:0003863	BCKDH activity	BCKDH activity		C2256840
+3603	3606	GO:0004842	(e2	ubiquitin conjugating enzyme activity		C1151883
+3603	3606	GO:0061650	(e2	ubiquitin-like protein conjugating enzyme activity		C1151884
+3603	3606	GO:0019775	(e2	FAT10 conjugating enzyme activity		C1151887
+3603	3606	GO:0019777	(e2	Atg12 conjugating enzyme activity		C2612339
+3603	3606	GO:0072496	(e2	Pup conjugating enzyme activity		C3156549
+3603	3606	GO:0019787	(e2	ubiquitin-like protein transferase activity		C3888074
+3603	3606	GO:0004842	(e2	ubiquitin-protein transferase activity		C3888151
+3603	3606	GO:0061657	(e2	UFM1 conjugating enzyme activity		C3889565
+3603	3606	GO:0019789	(e2	SUMO conjugating enzyme activity		C3889566
+3603	3606	GO:0019788	(e2	NEDD8 conjugating enzyme activity		C3889567
+3603	3606	GO:0061658	(e2	URM1 conjugating enzyme activity		C3889568
+3603	3606	GO:0061653	(e2	E2	ISG15 conjugating enxyme activity	C3889569
+3603	3606	GO:0061631	(e2	ubiquitin conjugating enzyme activity		C1151883
+3603	3606	GO:0061652	(e2	FAT10 conjugating enzyme activity		C1151887
+3603	3606	GO:0061651	(e2	Atg12 conjugating enzyme activity		C2612339
+3603	3606	GO:0061655	(e2	Pup conjugating enzyme activity		C3156549
+3603	3606	GO:0061656	(e2	SUMO conjugating enzyme activity		C3889566
+3603	3606	GO:0061654	(e2	NEDD8 conjugating enzyme activity		C3889567
+3643	3646	GO:0061659	(e3	ubiquitin-like protein ligase activity		C1150682
+3643	3646	GO:0019777	(e3	Atg12 ligase activity		C1151885
+3643	3646	GO:0019787	(e3	ubiquitin-like protein transferase activity		C3888074
+3643	3646	GO:0004842	(e3	ubiquitin-protein transferase activity		C3888151
+3643	3646	GO:0061662	(e3	ISG15 ligase activity		C3890037
+3643	3646	GO:0061661	(e3	FAT10 ligase activity		C3890038
+3643	3646	GO:0061667	(e3	URM1 ligase activity		C3890039
+3643	3646	GO:0061664	(e3	Pup ligase activity		C3890040
+3643	3646	GO:0061666	(e3	UFM1 ligase activity		C3890041
+3643	3646	GO:0061665	(e3	SUMO ligase activity		C3890172
+3643	3646	GO:0061663	(e3	NEDD8 ligase activity		C3890173
+3643	3646	GO:0061660	(e3	Atg12 ligase activity		C1151885
+3746	3759	GO:0004842	e2 components	ubiquitin conjugating enzyme activity		C1151883
+3746	3759	GO:0061650	e2 components	ubiquitin-like protein conjugating enzyme activity		C1151884
+3746	3759	GO:0019775	e2 components	FAT10 conjugating enzyme activity		C1151887
+3746	3759	GO:0019777	e2 components	Atg12 conjugating enzyme activity		C2612339
+3746	3759	GO:0072496	e2 components	Pup conjugating enzyme activity		C3156549
+3746	3759	GO:0019787	e2 components	ubiquitin-like protein transferase activity		C3888074
+3746	3759	GO:0004842	e2 components	ubiquitin-protein transferase activity		C3888151
+3746	3759	GO:0061657	e2 components	UFM1 conjugating enzyme activity		C3889565
+3746	3759	GO:0019789	e2 components	SUMO conjugating enzyme activity		C3889566
+3746	3759	GO:0019788	e2 components	NEDD8 conjugating enzyme activity		C3889567
+3746	3759	GO:0061658	e2 components	URM1 conjugating enzyme activity		C3889568
+3746	3759	GO:0061653	e2 components	E2	ISG15 conjugating enxyme activity	C3889569
+3746	3759	GO:0061631	e2 components	ubiquitin conjugating enzyme activity		C1151883
+3746	3759	GO:0061652	e2 components	FAT10 conjugating enzyme activity		C1151887
+3746	3759	GO:0061651	e2 components	Atg12 conjugating enzyme activity		C2612339
+3746	3759	GO:0061655	e2 components	Pup conjugating enzyme activity		C3156549
+3746	3759	GO:0061656	e2 components	SUMO conjugating enzyme activity		C3889566
+3746	3759	GO:0061654	e2 components	NEDD8 conjugating enzyme activity		C3889567
+3791	3793	GO:0061659	e3	ubiquitin-like protein ligase activity		C1150682
+3791	3793	GO:0019777	e3	Atg12 ligase activity		C1151885
+3791	3793	GO:0019787	e3	ubiquitin-like protein transferase activity		C3888074
+3791	3793	GO:0004842	e3	ubiquitin-protein transferase activity		C3888151
+3791	3793	GO:0061662	e3	ISG15 ligase activity		C3890037
+3791	3793	GO:0061661	e3	FAT10 ligase activity		C3890038
+3791	3793	GO:0061667	e3	URM1 ligase activity		C3890039
+3791	3793	GO:0061664	e3	Pup ligase activity		C3890040
+3791	3793	GO:0061666	e3	UFM1 ligase activity		C3890041
+3791	3793	GO:0061665	e3	SUMO ligase activity		C3890172
+3791	3793	GO:0061663	e3	NEDD8 ligase activity		C3890173
+3791	3793	GO:0061660	e3	Atg12 ligase activity		C1151885
+3823	3866	GO:0009352	alpha-ketoglutarate dehydrogenase complexes	dihydrolipoyl dehydrogenase complex location		C1167436
+3823	3866	GO:0045254	alpha-ketoglutarate dehydrogenase complexes	dihydrolipoyl dehydrogenase complex location		C1167436
+3823	3866	GO:0045240	alpha-ketoglutarate dehydrogenase complexes	dihydrolipoyl dehydrogenase complex location		C1167436
+3875	3902	GO:0005960	the glycine cleavage system	glycine cleavage complex	Glycine cleavage complex	C1325639
+3985	3998	GO:0016791	a phosphatase	phosphoric monoester hydrolase activity		C1149880
+4014	4041	GO:0003824	the activity of this enzyme	enzyme activity		C0243102
+4052	4067	GO:0016310	phosphorylation	phosphorylation	Phosphorylation	C0031715
+4052	4077	GO:0006468	through a phosphorylation	protein phosphorylation	Protein phosphorylation	C1158886
+4087	4104	GO:0006470	dephosphorylation	protein dephosphorylation	Protein dephosphorylation	C1158884
+4087	4104	GO:0016311	dephosphorylation	dephosphorylation	Dephosphorylation	C3160734
+4155	4187	GO:0007567	mutations in the genes of the e1	parturition	Birth	C0005615
+4155	4187	GO:0000003	mutations in the genes of the e1	reproduction	Reproduction	C0035150
+4192	4212	GO:0004842	e2 subunits of bckdh	ubiquitin conjugating enzyme activity		C1151883
+4192	4212	GO:0061650	e2 subunits of bckdh	ubiquitin-like protein conjugating enzyme activity		C1151884
+4192	4212	GO:0019775	e2 subunits of bckdh	FAT10 conjugating enzyme activity		C1151887
+4192	4212	GO:0019777	e2 subunits of bckdh	Atg12 conjugating enzyme activity		C2612339
+4192	4212	GO:0072496	e2 subunits of bckdh	Pup conjugating enzyme activity		C3156549
+4192	4212	GO:0019787	e2 subunits of bckdh	ubiquitin-like protein transferase activity		C3888074
+4192	4212	GO:0004842	e2 subunits of bckdh	ubiquitin-protein transferase activity		C3888151
+4192	4212	GO:0061657	e2 subunits of bckdh	UFM1 conjugating enzyme activity		C3889565
+4192	4212	GO:0019789	e2 subunits of bckdh	SUMO conjugating enzyme activity		C3889566
+4192	4212	GO:0019788	e2 subunits of bckdh	NEDD8 conjugating enzyme activity		C3889567
+4192	4212	GO:0061658	e2 subunits of bckdh	URM1 conjugating enzyme activity		C3889568
+4192	4212	GO:0061653	e2 subunits of bckdh	E2	ISG15 conjugating enxyme activity	C3889569
+4192	4212	GO:0061631	e2 subunits of bckdh	ubiquitin conjugating enzyme activity		C1151883
+4192	4212	GO:0061652	e2 subunits of bckdh	FAT10 conjugating enzyme activity		C1151887
+4192	4212	GO:0061651	e2 subunits of bckdh	Atg12 conjugating enzyme activity		C2612339
+4192	4212	GO:0061655	e2 subunits of bckdh	Pup conjugating enzyme activity		C3156549
+4192	4212	GO:0061656	e2 subunits of bckdh	SUMO conjugating enzyme activity		C3889566
+4192	4212	GO:0061654	e2 subunits of bckdh	NEDD8 conjugating enzyme activity		C3889567
+4294	4315	GO:0004842	are in the e2 subunit	ubiquitin conjugating enzyme activity		C1151883
+4294	4315	GO:0061650	are in the e2 subunit	ubiquitin-like protein conjugating enzyme activity		C1151884
+4294	4315	GO:0019775	are in the e2 subunit	FAT10 conjugating enzyme activity		C1151887
+4294	4315	GO:0019777	are in the e2 subunit	Atg12 conjugating enzyme activity		C2612339
+4294	4315	GO:0072496	are in the e2 subunit	Pup conjugating enzyme activity		C3156549
+4294	4315	GO:0019787	are in the e2 subunit	ubiquitin-like protein transferase activity		C3888074
+4294	4315	GO:0004842	are in the e2 subunit	ubiquitin-protein transferase activity		C3888151
+4294	4315	GO:0061657	are in the e2 subunit	UFM1 conjugating enzyme activity		C3889565
+4294	4315	GO:0019789	are in the e2 subunit	SUMO conjugating enzyme activity		C3889566
+4294	4315	GO:0019788	are in the e2 subunit	NEDD8 conjugating enzyme activity		C3889567
+4294	4315	GO:0061658	are in the e2 subunit	URM1 conjugating enzyme activity		C3889568
+4294	4315	GO:0061653	are in the e2 subunit	E2	ISG15 conjugating enxyme activity	C3889569
+4294	4315	GO:0061631	are in the e2 subunit	ubiquitin conjugating enzyme activity		C1151883
+4294	4315	GO:0061652	are in the e2 subunit	FAT10 conjugating enzyme activity		C1151887
+4294	4315	GO:0061651	are in the e2 subunit	Atg12 conjugating enzyme activity		C2612339
+4294	4315	GO:0061655	are in the e2 subunit	Pup conjugating enzyme activity		C3156549
+4294	4315	GO:0061656	are in the e2 subunit	SUMO conjugating enzyme activity		C3889566
+4294	4315	GO:0061654	are in the e2 subunit	NEDD8 conjugating enzyme activity		C3889567
+4413	4424	GO:0016791	phosphatase	phosphoric monoester hydrolase activity		C1149880
+4595	4668	GO:0044237	not entirely satisfactory especially in times of metabolic decompensation	cellular metabolic process	Metabolic Process, Cellular	C1524026
+4915	4939	GO:0006520	in amino acid metabolism	amino acid metabolic process	amino acid metabolism	C0596076
+4968	4982	GO:0003863	BCKDH activity	BCKDH activity		C2256840
+5257	5309	GO:0043336	immunosuppressant drugs for the rest of their lives,	site-specific telomere resolvase activity		C1622890
+6339	6351	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+6770	6829	GO:0004842	created by targeted inactivation of the e2 subunit of bckdh	ubiquitin conjugating enzyme activity		C1151883
+6770	6829	GO:0061650	created by targeted inactivation of the e2 subunit of bckdh	ubiquitin-like protein conjugating enzyme activity		C1151884
+6770	6829	GO:0019775	created by targeted inactivation of the e2 subunit of bckdh	FAT10 conjugating enzyme activity		C1151887
+6770	6829	GO:0019777	created by targeted inactivation of the e2 subunit of bckdh	Atg12 conjugating enzyme activity		C2612339
+6770	6829	GO:0072496	created by targeted inactivation of the e2 subunit of bckdh	Pup conjugating enzyme activity		C3156549
+6770	6829	GO:0019787	created by targeted inactivation of the e2 subunit of bckdh	ubiquitin-like protein transferase activity		C3888074
+6770	6829	GO:0004842	created by targeted inactivation of the e2 subunit of bckdh	ubiquitin-protein transferase activity		C3888151
+6770	6829	GO:0061657	created by targeted inactivation of the e2 subunit of bckdh	UFM1 conjugating enzyme activity		C3889565
+6770	6829	GO:0019789	created by targeted inactivation of the e2 subunit of bckdh	SUMO conjugating enzyme activity		C3889566
+6770	6829	GO:0019788	created by targeted inactivation of the e2 subunit of bckdh	NEDD8 conjugating enzyme activity		C3889567
+6770	6829	GO:0061658	created by targeted inactivation of the e2 subunit of bckdh	URM1 conjugating enzyme activity		C3889568
+6770	6829	GO:0061653	created by targeted inactivation of the e2 subunit of bckdh	E2	ISG15 conjugating enxyme activity	C3889569
+6770	6829	GO:0061631	created by targeted inactivation of the e2 subunit of bckdh	ubiquitin conjugating enzyme activity		C1151883
+6770	6829	GO:0061652	created by targeted inactivation of the e2 subunit of bckdh	FAT10 conjugating enzyme activity		C1151887
+6770	6829	GO:0061651	created by targeted inactivation of the e2 subunit of bckdh	Atg12 conjugating enzyme activity		C2612339
+6770	6829	GO:0061655	created by targeted inactivation of the e2 subunit of bckdh	Pup conjugating enzyme activity		C3156549
+6770	6829	GO:0061656	created by targeted inactivation of the e2 subunit of bckdh	SUMO conjugating enzyme activity		C3889566
+6770	6829	GO:0061654	created by targeted inactivation of the e2 subunit of bckdh	NEDD8 conjugating enzyme activity		C3889567
+6830	6887	GO:0006310	by homologous recombination in embryonic stem (es) cells.	DNA recombination	Recombination, Genetic	C0034865
+6923	6984	GO:0004842	created by partial transgenic rescue of the e2 gene knockout.	ubiquitin conjugating enzyme activity		C1151883
+6923	6984	GO:0061631	created by partial transgenic rescue of the e2 gene knockout.	ubiquitin conjugating enzyme activity		C1151883
+7107	7118	GO:0032502	development	development	Biologic Development	C0678723
+7150	7162	GO:0007567	such as gene	parturition	Birth	C0005615
+7150	7162	GO:0000003	such as gene	reproduction	Reproduction	C0035150
+7171	7175	GO:0005623	cell	cell	Cells	C0007634
+7359	7383	GO:0007567	gene knockout production	parturition	Birth	C0005615
+7359	7383	GO:0000003	gene knockout production	reproduction	Reproduction	C0035150
+7470	7486	GO:0004842	5 of the e2 gene	ubiquitin conjugating enzyme activity		C1151883
+7470	7486	GO:0061631	5 of the e2 gene	ubiquitin conjugating enzyme activity		C1151883
+7611	7669	GO:0007567	a positive/negative replacement type gene targeting vector	parturition	Birth	C0005615
+7611	7669	GO:0000003	a positive/negative replacement type gene targeting vector	reproduction	Reproduction	C0035150
+7782	7809	GO:0007567	with the pgkneo marker gene	parturition	Birth	C0005615
+7782	7809	GO:0000003	with the pgkneo marker gene	reproduction	Reproduction	C0035150
+7811	7814	GO:0007601	see	vision	Vision	C0042789
+7930	7934	GO:0005623	cell	cell	Cells	C0007634
+7988	7992	GO:0005623	cell	cell	Cells	C0007634
+8023	8026	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+8158	8185	GO:0007567	screened for gene targeting	parturition	Birth	C0005615
+8158	8185	GO:0000003	screened for gene targeting	reproduction	Reproduction	C0035150
+8303	8344	GO:0007567	external to the gene targeting construct.	parturition	Birth	C0005615
+8303	8344	GO:0000003	external to the gene targeting construct.	reproduction	Reproduction	C0035150
+8367	8371	GO:0005623	cell	cell	Cells	C0007634
+8780	8818	GO:0007567	* strain 129sv/svj genetic background.	parturition	Birth	C0005615
+8780	8818	GO:0000003	* strain 129sv/svj genetic background.	reproduction	Reproduction	C0035150
+8830	8864	GO:0004842	e2 gene knockout mouse production.	ubiquitin conjugating enzyme activity		C1151883
+8830	8864	GO:0061631	e2 gene knockout mouse production.	ubiquitin conjugating enzyme activity		C1151883
+8868	8891	GO:0007567	gene targeting strategy	parturition	Birth	C0005615
+8868	8891	GO:0000003	gene targeting strategy	reproduction	Reproduction	C0035150
+8911	8942	GO:0004842	the e2 locus in mouse es cells.	ubiquitin conjugating enzyme activity		C1151883
+8911	8942	GO:0061631	the e2 locus in mouse es cells.	ubiquitin conjugating enzyme activity		C1151883
+9071	9092	GO:0004842	the wild type e2 gene	ubiquitin conjugating enzyme activity		C1151883
+9071	9092	GO:0061631	the wild type e2 gene	ubiquitin conjugating enzyme activity		C1151883
+9184	9213	GO:0004842	a correctly targeted e2 locus	ubiquitin conjugating enzyme activity		C1151883
+9184	9213	GO:0061650	a correctly targeted e2 locus	ubiquitin-like protein conjugating enzyme activity		C1151884
+9184	9213	GO:0019775	a correctly targeted e2 locus	FAT10 conjugating enzyme activity		C1151887
+9184	9213	GO:0019777	a correctly targeted e2 locus	Atg12 conjugating enzyme activity		C2612339
+9184	9213	GO:0072496	a correctly targeted e2 locus	Pup conjugating enzyme activity		C3156549
+9184	9213	GO:0019787	a correctly targeted e2 locus	ubiquitin-like protein transferase activity		C3888074
+9184	9213	GO:0004842	a correctly targeted e2 locus	ubiquitin-protein transferase activity		C3888151
+9184	9213	GO:0061657	a correctly targeted e2 locus	UFM1 conjugating enzyme activity		C3889565
+9184	9213	GO:0019789	a correctly targeted e2 locus	SUMO conjugating enzyme activity		C3889566
+9184	9213	GO:0019788	a correctly targeted e2 locus	NEDD8 conjugating enzyme activity		C3889567
+9184	9213	GO:0061658	a correctly targeted e2 locus	URM1 conjugating enzyme activity		C3889568
+9184	9213	GO:0061653	a correctly targeted e2 locus	E2	ISG15 conjugating enxyme activity	C3889569
+9184	9213	GO:0061631	a correctly targeted e2 locus	ubiquitin conjugating enzyme activity		C1151883
+9184	9213	GO:0061652	a correctly targeted e2 locus	FAT10 conjugating enzyme activity		C1151887
+9184	9213	GO:0061651	a correctly targeted e2 locus	Atg12 conjugating enzyme activity		C2612339
+9184	9213	GO:0061655	a correctly targeted e2 locus	Pup conjugating enzyme activity		C3156549
+9184	9213	GO:0061656	a correctly targeted e2 locus	SUMO conjugating enzyme activity		C3889566
+9184	9213	GO:0061654	a correctly targeted e2 locus	NEDD8 conjugating enzyme activity		C3889567
+9329	9371	GO:0015074	random integration of the targeting vector	DNA integration	DNA Integration	C1158478
+9514	9518	GO:0005623	cell	cell	Cells	C0007634
+9557	9561	GO:0005623	cell	cell	Cells	C0007634
+9796	9807	GO:0004842	e2 knockout	ubiquitin conjugating enzyme activity		C1151883
+9796	9807	GO:0061650	e2 knockout	ubiquitin-like protein conjugating enzyme activity		C1151884
+9796	9807	GO:0019775	e2 knockout	FAT10 conjugating enzyme activity		C1151887
+9796	9807	GO:0019777	e2 knockout	Atg12 conjugating enzyme activity		C2612339
+9796	9807	GO:0072496	e2 knockout	Pup conjugating enzyme activity		C3156549
+9796	9807	GO:0019787	e2 knockout	ubiquitin-like protein transferase activity		C3888074
+9796	9807	GO:0004842	e2 knockout	ubiquitin-protein transferase activity		C3888151
+9796	9807	GO:0061657	e2 knockout	UFM1 conjugating enzyme activity		C3889565
+9796	9807	GO:0019789	e2 knockout	SUMO conjugating enzyme activity		C3889566
+9796	9807	GO:0019788	e2 knockout	NEDD8 conjugating enzyme activity		C3889567
+9796	9807	GO:0061658	e2 knockout	URM1 conjugating enzyme activity		C3889568
+9796	9807	GO:0061653	e2 knockout	E2	ISG15 conjugating enxyme activity	C3889569
+9796	9807	GO:0061631	e2 knockout	ubiquitin conjugating enzyme activity		C1151883
+9796	9807	GO:0061652	e2 knockout	FAT10 conjugating enzyme activity		C1151887
+9796	9807	GO:0061651	e2 knockout	Atg12 conjugating enzyme activity		C2612339
+9796	9807	GO:0061655	e2 knockout	Pup conjugating enzyme activity		C3156549
+9796	9807	GO:0061656	e2 knockout	SUMO conjugating enzyme activity		C3889566
+9796	9807	GO:0061654	e2 knockout	NEDD8 conjugating enzyme activity		C3889567
+9856	9870	GO:0004842	stained for e2	ubiquitin conjugating enzyme activity		C1151883
+9856	9870	GO:0061650	stained for e2	ubiquitin-like protein conjugating enzyme activity		C1151884
+9856	9870	GO:0019775	stained for e2	FAT10 conjugating enzyme activity		C1151887
+9856	9870	GO:0019777	stained for e2	Atg12 conjugating enzyme activity		C2612339
+9856	9870	GO:0072496	stained for e2	Pup conjugating enzyme activity		C3156549
+9856	9870	GO:0019787	stained for e2	ubiquitin-like protein transferase activity		C3888074
+9856	9870	GO:0004842	stained for e2	ubiquitin-protein transferase activity		C3888151
+9856	9870	GO:0061657	stained for e2	UFM1 conjugating enzyme activity		C3889565
+9856	9870	GO:0019789	stained for e2	SUMO conjugating enzyme activity		C3889566
+9856	9870	GO:0019788	stained for e2	NEDD8 conjugating enzyme activity		C3889567
+9856	9870	GO:0061658	stained for e2	URM1 conjugating enzyme activity		C3889568
+9856	9870	GO:0061653	stained for e2	E2	ISG15 conjugating enxyme activity	C3889569
+9856	9870	GO:0061631	stained for e2	ubiquitin conjugating enzyme activity		C1151883
+9856	9870	GO:0061652	stained for e2	FAT10 conjugating enzyme activity		C1151887
+9856	9870	GO:0061651	stained for e2	Atg12 conjugating enzyme activity		C2612339
+9856	9870	GO:0061655	stained for e2	Pup conjugating enzyme activity		C3156549
+9856	9870	GO:0061656	stained for e2	SUMO conjugating enzyme activity		C3889566
+9856	9870	GO:0061654	stained for e2	NEDD8 conjugating enzyme activity		C3889567
+9877	9900	GO:0004842	an e2 specific antibody	ubiquitin conjugating enzyme activity		C1151883
+9877	9900	GO:0061631	an e2 specific antibody	ubiquitin conjugating enzyme activity		C1151883
+9942	9985	GO:0004842	the complete absence of e2 immunoreactivity	ubiquitin conjugating enzyme activity		C1151883
+9942	9985	GO:0061650	the complete absence of e2 immunoreactivity	ubiquitin-like protein conjugating enzyme activity		C1151884
+9942	9985	GO:0019775	the complete absence of e2 immunoreactivity	FAT10 conjugating enzyme activity		C1151887
+9942	9985	GO:0019777	the complete absence of e2 immunoreactivity	Atg12 conjugating enzyme activity		C2612339
+9942	9985	GO:0072496	the complete absence of e2 immunoreactivity	Pup conjugating enzyme activity		C3156549
+9942	9985	GO:0019787	the complete absence of e2 immunoreactivity	ubiquitin-like protein transferase activity		C3888074
+9942	9985	GO:0004842	the complete absence of e2 immunoreactivity	ubiquitin-protein transferase activity		C3888151
+9942	9985	GO:0061657	the complete absence of e2 immunoreactivity	UFM1 conjugating enzyme activity		C3889565
+9942	9985	GO:0019789	the complete absence of e2 immunoreactivity	SUMO conjugating enzyme activity		C3889566
+9942	9985	GO:0019788	the complete absence of e2 immunoreactivity	NEDD8 conjugating enzyme activity		C3889567
+9942	9985	GO:0061658	the complete absence of e2 immunoreactivity	URM1 conjugating enzyme activity		C3889568
+9942	9985	GO:0061653	the complete absence of e2 immunoreactivity	E2	ISG15 conjugating enxyme activity	C3889569
+9942	9985	GO:0061631	the complete absence of e2 immunoreactivity	ubiquitin conjugating enzyme activity		C1151883
+9942	9985	GO:0061652	the complete absence of e2 immunoreactivity	FAT10 conjugating enzyme activity		C1151887
+9942	9985	GO:0061651	the complete absence of e2 immunoreactivity	Atg12 conjugating enzyme activity		C2612339
+9942	9985	GO:0061655	the complete absence of e2 immunoreactivity	Pup conjugating enzyme activity		C3156549
+9942	9985	GO:0061656	the complete absence of e2 immunoreactivity	SUMO conjugating enzyme activity		C3889566
+9942	9985	GO:0061654	the complete absence of e2 immunoreactivity	NEDD8 conjugating enzyme activity		C3889567
+10050	10139	GO:0009790	observed upon immunohistochemical analysis of primary mouse embryonic fibroblasts (mefs).	embryo development	Embryonic Development	C0013936
+10150	10186	GO:0004842	the readily detectable signal for e2	ubiquitin conjugating enzyme activity		C1151883
+10150	10186	GO:0061650	the readily detectable signal for e2	ubiquitin-like protein conjugating enzyme activity		C1151884
+10150	10186	GO:0019775	the readily detectable signal for e2	FAT10 conjugating enzyme activity		C1151887
+10150	10186	GO:0019777	the readily detectable signal for e2	Atg12 conjugating enzyme activity		C2612339
+10150	10186	GO:0072496	the readily detectable signal for e2	Pup conjugating enzyme activity		C3156549
+10150	10186	GO:0019787	the readily detectable signal for e2	ubiquitin-like protein transferase activity		C3888074
+10150	10186	GO:0004842	the readily detectable signal for e2	ubiquitin-protein transferase activity		C3888151
+10150	10186	GO:0061657	the readily detectable signal for e2	UFM1 conjugating enzyme activity		C3889565
+10150	10186	GO:0019789	the readily detectable signal for e2	SUMO conjugating enzyme activity		C3889566
+10150	10186	GO:0019788	the readily detectable signal for e2	NEDD8 conjugating enzyme activity		C3889567
+10150	10186	GO:0061658	the readily detectable signal for e2	URM1 conjugating enzyme activity		C3889568
+10150	10186	GO:0061653	the readily detectable signal for e2	E2	ISG15 conjugating enxyme activity	C3889569
+10150	10186	GO:0061631	the readily detectable signal for e2	ubiquitin conjugating enzyme activity		C1151883
+10150	10186	GO:0061652	the readily detectable signal for e2	FAT10 conjugating enzyme activity		C1151887
+10150	10186	GO:0061651	the readily detectable signal for e2	Atg12 conjugating enzyme activity		C2612339
+10150	10186	GO:0061655	the readily detectable signal for e2	Pup conjugating enzyme activity		C3156549
+10150	10186	GO:0061656	the readily detectable signal for e2	SUMO conjugating enzyme activity		C3889566
+10150	10186	GO:0061654	the readily detectable signal for e2	NEDD8 conjugating enzyme activity		C3889567
+10202	10206	GO:0005623	cell	cell	Cells	C0007634
+10251	10263	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+10410	10418	GO:0004842	ptre-e2.	ubiquitin conjugating enzyme activity		C1151883
+10410	10418	GO:0061650	ptre-e2.	ubiquitin-like protein conjugating enzyme activity		C1151884
+10410	10418	GO:0019775	ptre-e2.	FAT10 conjugating enzyme activity		C1151887
+10410	10418	GO:0019777	ptre-e2.	Atg12 conjugating enzyme activity		C2612339
+10410	10418	GO:0072496	ptre-e2.	Pup conjugating enzyme activity		C3156549
+10410	10418	GO:0019787	ptre-e2.	ubiquitin-like protein transferase activity		C3888074
+10410	10418	GO:0004842	ptre-e2.	ubiquitin-protein transferase activity		C3888151
+10410	10418	GO:0061657	ptre-e2.	UFM1 conjugating enzyme activity		C3889565
+10410	10418	GO:0019789	ptre-e2.	SUMO conjugating enzyme activity		C3889566
+10410	10418	GO:0019788	ptre-e2.	NEDD8 conjugating enzyme activity		C3889567
+10410	10418	GO:0061658	ptre-e2.	URM1 conjugating enzyme activity		C3889568
+10410	10418	GO:0061653	ptre-e2.	E2	ISG15 conjugating enxyme activity	C3889569
+10410	10418	GO:0061631	ptre-e2.	ubiquitin conjugating enzyme activity		C1151883
+10410	10418	GO:0061652	ptre-e2.	FAT10 conjugating enzyme activity		C1151887
+10410	10418	GO:0061651	ptre-e2.	Atg12 conjugating enzyme activity		C2612339
+10410	10418	GO:0061655	ptre-e2.	Pup conjugating enzyme activity		C3156549
+10410	10418	GO:0061656	ptre-e2.	SUMO conjugating enzyme activity		C3889566
+10410	10418	GO:0061654	ptre-e2.	NEDD8 conjugating enzyme activity		C3889567
+10775	10786	GO:0006412	translation	protein biosynthesis	Protein Biosynthesis	C0597295
+10793	10810	GO:0004842	the human e2 cdna	ubiquitin conjugating enzyme activity		C1151883
+10793	10810	GO:0061650	the human e2 cdna	ubiquitin-like protein conjugating enzyme activity		C1151884
+10793	10810	GO:0019775	the human e2 cdna	FAT10 conjugating enzyme activity		C1151887
+10793	10810	GO:0019777	the human e2 cdna	Atg12 conjugating enzyme activity		C2612339
+10793	10810	GO:0072496	the human e2 cdna	Pup conjugating enzyme activity		C3156549
+10793	10810	GO:0019787	the human e2 cdna	ubiquitin-like protein transferase activity		C3888074
+10793	10810	GO:0004842	the human e2 cdna	ubiquitin-protein transferase activity		C3888151
+10793	10810	GO:0061657	the human e2 cdna	UFM1 conjugating enzyme activity		C3889565
+10793	10810	GO:0019789	the human e2 cdna	SUMO conjugating enzyme activity		C3889566
+10793	10810	GO:0019788	the human e2 cdna	NEDD8 conjugating enzyme activity		C3889567
+10793	10810	GO:0061658	the human e2 cdna	URM1 conjugating enzyme activity		C3889568
+10793	10810	GO:0061653	the human e2 cdna	E2	ISG15 conjugating enxyme activity	C3889569
+10793	10810	GO:0061631	the human e2 cdna	ubiquitin conjugating enzyme activity		C1151883
+10793	10810	GO:0061652	the human e2 cdna	FAT10 conjugating enzyme activity		C1151887
+10793	10810	GO:0061651	the human e2 cdna	Atg12 conjugating enzyme activity		C2612339
+10793	10810	GO:0061655	the human e2 cdna	Pup conjugating enzyme activity		C3156549
+10793	10810	GO:0061656	the human e2 cdna	SUMO conjugating enzyme activity		C3889566
+10793	10810	GO:0061654	the human e2 cdna	NEDD8 conjugating enzyme activity		C3889567
+10951	10997	GO:0043631	an sv40 late polyadenylation sequence from pci	RNA polyadenylation	Polyadenylation	C0949765
+11030	11042	GO:0006412	translation.	protein biosynthesis	Protein Biosynthesis	C0597295
+11044	11072	GO:0004842	the 2.48 kb tre-e2 transgene	ubiquitin conjugating enzyme activity		C1151883
+11044	11072	GO:0061650	the 2.48 kb tre-e2 transgene	ubiquitin-like protein conjugating enzyme activity		C1151884
+11044	11072	GO:0019775	the 2.48 kb tre-e2 transgene	FAT10 conjugating enzyme activity		C1151887
+11044	11072	GO:0019777	the 2.48 kb tre-e2 transgene	Atg12 conjugating enzyme activity		C2612339
+11044	11072	GO:0072496	the 2.48 kb tre-e2 transgene	Pup conjugating enzyme activity		C3156549
+11044	11072	GO:0019787	the 2.48 kb tre-e2 transgene	ubiquitin-like protein transferase activity		C3888074
+11044	11072	GO:0004842	the 2.48 kb tre-e2 transgene	ubiquitin-protein transferase activity		C3888151
+11044	11072	GO:0061657	the 2.48 kb tre-e2 transgene	UFM1 conjugating enzyme activity		C3889565
+11044	11072	GO:0019789	the 2.48 kb tre-e2 transgene	SUMO conjugating enzyme activity		C3889566
+11044	11072	GO:0019788	the 2.48 kb tre-e2 transgene	NEDD8 conjugating enzyme activity		C3889567
+11044	11072	GO:0061658	the 2.48 kb tre-e2 transgene	URM1 conjugating enzyme activity		C3889568
+11044	11072	GO:0061653	the 2.48 kb tre-e2 transgene	E2	ISG15 conjugating enxyme activity	C3889569
+11044	11072	GO:0061631	the 2.48 kb tre-e2 transgene	ubiquitin conjugating enzyme activity		C1151883
+11044	11072	GO:0061652	the 2.48 kb tre-e2 transgene	FAT10 conjugating enzyme activity		C1151887
+11044	11072	GO:0061651	the 2.48 kb tre-e2 transgene	Atg12 conjugating enzyme activity		C2612339
+11044	11072	GO:0061655	the 2.48 kb tre-e2 transgene	Pup conjugating enzyme activity		C3156549
+11044	11072	GO:0061656	the 2.48 kb tre-e2 transgene	SUMO conjugating enzyme activity		C3889566
+11044	11072	GO:0061654	the 2.48 kb tre-e2 transgene	NEDD8 conjugating enzyme activity		C3889567
+11118	11127	GO:0007586	digestion	digestion	Digestion	C0012238
+11187	11283	GO:0009790	* strain 129svev mouse embryos at the transgenic core facilities of the university of pittsburgh	embryo development	Embryonic Development	C0013936
+11415	11424	GO:0007586	digestion	digestion	Digestion	C0012238
+11474	11528	GO:0004842	derived from the sv40 portion of the tre-e2 transgene.	ubiquitin conjugating enzyme activity		C1151883
+11474	11528	GO:0061650	derived from the sv40 portion of the tre-e2 transgene.	ubiquitin-like protein conjugating enzyme activity		C1151884
+11474	11528	GO:0019775	derived from the sv40 portion of the tre-e2 transgene.	FAT10 conjugating enzyme activity		C1151887
+11474	11528	GO:0019777	derived from the sv40 portion of the tre-e2 transgene.	Atg12 conjugating enzyme activity		C2612339
+11474	11528	GO:0072496	derived from the sv40 portion of the tre-e2 transgene.	Pup conjugating enzyme activity		C3156549
+11474	11528	GO:0019787	derived from the sv40 portion of the tre-e2 transgene.	ubiquitin-like protein transferase activity		C3888074
+11474	11528	GO:0004842	derived from the sv40 portion of the tre-e2 transgene.	ubiquitin-protein transferase activity		C3888151
+11474	11528	GO:0061657	derived from the sv40 portion of the tre-e2 transgene.	UFM1 conjugating enzyme activity		C3889565
+11474	11528	GO:0019789	derived from the sv40 portion of the tre-e2 transgene.	SUMO conjugating enzyme activity		C3889566
+11474	11528	GO:0019788	derived from the sv40 portion of the tre-e2 transgene.	NEDD8 conjugating enzyme activity		C3889567
+11474	11528	GO:0061658	derived from the sv40 portion of the tre-e2 transgene.	URM1 conjugating enzyme activity		C3889568
+11474	11528	GO:0061653	derived from the sv40 portion of the tre-e2 transgene.	E2	ISG15 conjugating enxyme activity	C3889569
+11474	11528	GO:0061631	derived from the sv40 portion of the tre-e2 transgene.	ubiquitin conjugating enzyme activity		C1151883
+11474	11528	GO:0061652	derived from the sv40 portion of the tre-e2 transgene.	FAT10 conjugating enzyme activity		C1151887
+11474	11528	GO:0061651	derived from the sv40 portion of the tre-e2 transgene.	Atg12 conjugating enzyme activity		C2612339
+11474	11528	GO:0061655	derived from the sv40 portion of the tre-e2 transgene.	Pup conjugating enzyme activity		C3156549
+11474	11528	GO:0061656	derived from the sv40 portion of the tre-e2 transgene.	SUMO conjugating enzyme activity		C3889566
+11474	11528	GO:0061654	derived from the sv40 portion of the tre-e2 transgene.	NEDD8 conjugating enzyme activity		C3889567
+11576	11611	GO:0004842	the various tre-e2 transgenic lines	ubiquitin conjugating enzyme activity		C1151883
+11576	11611	GO:0061650	the various tre-e2 transgenic lines	ubiquitin-like protein conjugating enzyme activity		C1151884
+11576	11611	GO:0019775	the various tre-e2 transgenic lines	FAT10 conjugating enzyme activity		C1151887
+11576	11611	GO:0019777	the various tre-e2 transgenic lines	Atg12 conjugating enzyme activity		C2612339
+11576	11611	GO:0072496	the various tre-e2 transgenic lines	Pup conjugating enzyme activity		C3156549
+11576	11611	GO:0019787	the various tre-e2 transgenic lines	ubiquitin-like protein transferase activity		C3888074
+11576	11611	GO:0004842	the various tre-e2 transgenic lines	ubiquitin-protein transferase activity		C3888151
+11576	11611	GO:0061657	the various tre-e2 transgenic lines	UFM1 conjugating enzyme activity		C3889565
+11576	11611	GO:0019789	the various tre-e2 transgenic lines	SUMO conjugating enzyme activity		C3889566
+11576	11611	GO:0019788	the various tre-e2 transgenic lines	NEDD8 conjugating enzyme activity		C3889567
+11576	11611	GO:0061658	the various tre-e2 transgenic lines	URM1 conjugating enzyme activity		C3889568
+11576	11611	GO:0061653	the various tre-e2 transgenic lines	E2	ISG15 conjugating enxyme activity	C3889569
+11576	11611	GO:0061631	the various tre-e2 transgenic lines	ubiquitin conjugating enzyme activity		C1151883
+11576	11611	GO:0061652	the various tre-e2 transgenic lines	FAT10 conjugating enzyme activity		C1151887
+11576	11611	GO:0061651	the various tre-e2 transgenic lines	Atg12 conjugating enzyme activity		C2612339
+11576	11611	GO:0061655	the various tre-e2 transgenic lines	Pup conjugating enzyme activity		C3156549
+11576	11611	GO:0061656	the various tre-e2 transgenic lines	SUMO conjugating enzyme activity		C3889566
+11576	11611	GO:0061654	the various tre-e2 transgenic lines	NEDD8 conjugating enzyme activity		C3889567
+11626	11631	GO:0007618	mated	mating		C1260875
+11686	11701	GO:0004842	the e2 knockout	ubiquitin conjugating enzyme activity		C1151883
+11686	11701	GO:0061650	the e2 knockout	ubiquitin-like protein conjugating enzyme activity		C1151884
+11686	11701	GO:0019775	the e2 knockout	FAT10 conjugating enzyme activity		C1151887
+11686	11701	GO:0019777	the e2 knockout	Atg12 conjugating enzyme activity		C2612339
+11686	11701	GO:0072496	the e2 knockout	Pup conjugating enzyme activity		C3156549
+11686	11701	GO:0019787	the e2 knockout	ubiquitin-like protein transferase activity		C3888074
+11686	11701	GO:0004842	the e2 knockout	ubiquitin-protein transferase activity		C3888151
+11686	11701	GO:0061657	the e2 knockout	UFM1 conjugating enzyme activity		C3889565
+11686	11701	GO:0019789	the e2 knockout	SUMO conjugating enzyme activity		C3889566
+11686	11701	GO:0019788	the e2 knockout	NEDD8 conjugating enzyme activity		C3889567
+11686	11701	GO:0061658	the e2 knockout	URM1 conjugating enzyme activity		C3889568
+11686	11701	GO:0061653	the e2 knockout	E2	ISG15 conjugating enxyme activity	C3889569
+11686	11701	GO:0061631	the e2 knockout	ubiquitin conjugating enzyme activity		C1151883
+11686	11701	GO:0061652	the e2 knockout	FAT10 conjugating enzyme activity		C1151887
+11686	11701	GO:0061651	the e2 knockout	Atg12 conjugating enzyme activity		C2612339
+11686	11701	GO:0061655	the e2 knockout	Pup conjugating enzyme activity		C3156549
+11686	11701	GO:0061656	the e2 knockout	SUMO conjugating enzyme activity		C3889566
+11686	11701	GO:0061654	the e2 knockout	NEDD8 conjugating enzyme activity		C3889567
+12617	12652	GO:0009790	primary mouse embryonic fibroblasts	embryo development	Embryonic Development	C0013936
+12658	12704	GO:0009790	prepared from embryonic day ~16.5-18.5 fetuses	embryo development	Embryonic Development	C0013936
+13038	13041	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+13105	13109	GO:0005623	cell	cell	Cells	C0007634
+13137	13163	GO:0004842	with e2-specific antiserum	ubiquitin conjugating enzyme activity		C1151883
+13137	13163	GO:0061650	with e2-specific antiserum	ubiquitin-like protein conjugating enzyme activity		C1151884
+13137	13163	GO:0019775	with e2-specific antiserum	FAT10 conjugating enzyme activity		C1151887
+13137	13163	GO:0019777	with e2-specific antiserum	Atg12 conjugating enzyme activity		C2612339
+13137	13163	GO:0072496	with e2-specific antiserum	Pup conjugating enzyme activity		C3156549
+13137	13163	GO:0019787	with e2-specific antiserum	ubiquitin-like protein transferase activity		C3888074
+13137	13163	GO:0004842	with e2-specific antiserum	ubiquitin-protein transferase activity		C3888151
+13137	13163	GO:0061657	with e2-specific antiserum	UFM1 conjugating enzyme activity		C3889565
+13137	13163	GO:0019789	with e2-specific antiserum	SUMO conjugating enzyme activity		C3889566
+13137	13163	GO:0019788	with e2-specific antiserum	NEDD8 conjugating enzyme activity		C3889567
+13137	13163	GO:0061658	with e2-specific antiserum	URM1 conjugating enzyme activity		C3889568
+13137	13163	GO:0061653	with e2-specific antiserum	E2	ISG15 conjugating enxyme activity	C3889569
+13137	13163	GO:0061631	with e2-specific antiserum	ubiquitin conjugating enzyme activity		C1151883
+13137	13163	GO:0061652	with e2-specific antiserum	FAT10 conjugating enzyme activity		C1151887
+13137	13163	GO:0061651	with e2-specific antiserum	Atg12 conjugating enzyme activity		C2612339
+13137	13163	GO:0061655	with e2-specific antiserum	Pup conjugating enzyme activity		C3156549
+13137	13163	GO:0061656	with e2-specific antiserum	SUMO conjugating enzyme activity		C3889566
+13137	13163	GO:0061654	with e2-specific antiserum	NEDD8 conjugating enzyme activity		C3889567
+13174	13177	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+13268	13283	GO:0042571	second antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+13289	13292	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+13302	13306	GO:0005623	cell	cell	Cells	C0007634
+13652	13656	GO:0005623	cell	cell	Cells	C0007634
+13715	13734	GO:1902698	amino acid analysis	acidogenesis		C3823112
+13715	13734	GO:1902705	amino acid analysis	acidogenesis		C3823112
+13715	13734	GO:1902706	amino acid analysis	acidogenesis		C3823112
+13715	13734	GO:1902699	amino acid analysis	acidogenesis		C3823112
+13845	13879	GO:1902698	used for blood amino acid analysis	acidogenesis		C3823112
+13845	13879	GO:1902705	used for blood amino acid analysis	acidogenesis		C3823112
+13845	13879	GO:1902706	used for blood amino acid analysis	acidogenesis		C3823112
+13845	13879	GO:1902699	used for blood amino acid analysis	acidogenesis		C3823112
+13931	13957	GO:1902698	other amino acids in blood	acidogenesis		C3823112
+13931	13957	GO:1902705	other amino acids in blood	acidogenesis		C3823112
+13931	13957	GO:1902706	other amino acids in blood	acidogenesis		C3823112
+13931	13957	GO:1902699	other amino acids in blood	acidogenesis		C3823112
+14052	14066	GO:0003863	BCKDH activity	BCKDH activity		C2256840
+14392	14406	GO:0003863	BCKDH activity	BCKDH activity		C2256840
+14532	14546	GO:0003863	BCKDH activity	BCKDH activity		C2256840
+15340	15343	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+15416	15425	GO:1990116	(bio-rad,	ribosome-associated ubiquitin-dependent protein catabolic process		C3811628
+15464	15472	GO:0016020	membrane	membrane	Membrane	C0596901
+15484	15493	GO:1990116	; bio-rad	ribosome-associated ubiquitin-dependent protein catabolic process		C3811628
+15531	15552	GO:0004842	probed for e2 protein	ubiquitin conjugating enzyme activity		C1151883
+15531	15552	GO:0061650	probed for e2 protein	ubiquitin-like protein conjugating enzyme activity		C1151884
+15531	15552	GO:0019775	probed for e2 protein	FAT10 conjugating enzyme activity		C1151887
+15531	15552	GO:0019777	probed for e2 protein	Atg12 conjugating enzyme activity		C2612339
+15531	15552	GO:0072496	probed for e2 protein	Pup conjugating enzyme activity		C3156549
+15531	15552	GO:0019787	probed for e2 protein	ubiquitin-like protein transferase activity		C3888074
+15531	15552	GO:0004842	probed for e2 protein	ubiquitin-protein transferase activity		C3888151
+15531	15552	GO:0061657	probed for e2 protein	UFM1 conjugating enzyme activity		C3889565
+15531	15552	GO:0019789	probed for e2 protein	SUMO conjugating enzyme activity		C3889566
+15531	15552	GO:0019788	probed for e2 protein	NEDD8 conjugating enzyme activity		C3889567
+15531	15552	GO:0061658	probed for e2 protein	URM1 conjugating enzyme activity		C3889568
+15531	15552	GO:0061653	probed for e2 protein	E2	ISG15 conjugating enxyme activity	C3889569
+15531	15552	GO:0061631	probed for e2 protein	ubiquitin conjugating enzyme activity		C1151883
+15531	15552	GO:0061652	probed for e2 protein	FAT10 conjugating enzyme activity		C1151887
+15531	15552	GO:0061651	probed for e2 protein	Atg12 conjugating enzyme activity		C2612339
+15531	15552	GO:0061655	probed for e2 protein	Pup conjugating enzyme activity		C3156549
+15531	15552	GO:0061656	probed for e2 protein	SUMO conjugating enzyme activity		C3889566
+15531	15552	GO:0061654	probed for e2 protein	NEDD8 conjugating enzyme activity		C3889567
+15559	15588	GO:0004842	polyclonal rabbit e2 antisera	ubiquitin conjugating enzyme activity		C1151883
+15559	15588	GO:0061650	polyclonal rabbit e2 antisera	ubiquitin-like protein conjugating enzyme activity		C1151884
+15559	15588	GO:0019775	polyclonal rabbit e2 antisera	FAT10 conjugating enzyme activity		C1151887
+15559	15588	GO:0019777	polyclonal rabbit e2 antisera	Atg12 conjugating enzyme activity		C2612339
+15559	15588	GO:0072496	polyclonal rabbit e2 antisera	Pup conjugating enzyme activity		C3156549
+15559	15588	GO:0019787	polyclonal rabbit e2 antisera	ubiquitin-like protein transferase activity		C3888074
+15559	15588	GO:0004842	polyclonal rabbit e2 antisera	ubiquitin-protein transferase activity		C3888151
+15559	15588	GO:0061657	polyclonal rabbit e2 antisera	UFM1 conjugating enzyme activity		C3889565
+15559	15588	GO:0019789	polyclonal rabbit e2 antisera	SUMO conjugating enzyme activity		C3889566
+15559	15588	GO:0019788	polyclonal rabbit e2 antisera	NEDD8 conjugating enzyme activity		C3889567
+15559	15588	GO:0061658	polyclonal rabbit e2 antisera	URM1 conjugating enzyme activity		C3889568
+15559	15588	GO:0061653	polyclonal rabbit e2 antisera	E2	ISG15 conjugating enxyme activity	C3889569
+15559	15588	GO:0061631	polyclonal rabbit e2 antisera	ubiquitin conjugating enzyme activity		C1151883
+15559	15588	GO:0061652	polyclonal rabbit e2 antisera	FAT10 conjugating enzyme activity		C1151887
+15559	15588	GO:0061651	polyclonal rabbit e2 antisera	Atg12 conjugating enzyme activity		C2612339
+15559	15588	GO:0061655	polyclonal rabbit e2 antisera	Pup conjugating enzyme activity		C3156549
+15559	15588	GO:0061656	polyclonal rabbit e2 antisera	SUMO conjugating enzyme activity		C3889566
+15559	15588	GO:0061654	polyclonal rabbit e2 antisera	NEDD8 conjugating enzyme activity		C3889567
+15653	15664	GO:0004842	e2 subunits	ubiquitin conjugating enzyme activity		C1151883
+15653	15664	GO:0061650	e2 subunits	ubiquitin-like protein conjugating enzyme activity		C1151884
+15653	15664	GO:0019775	e2 subunits	FAT10 conjugating enzyme activity		C1151887
+15653	15664	GO:0019777	e2 subunits	Atg12 conjugating enzyme activity		C2612339
+15653	15664	GO:0072496	e2 subunits	Pup conjugating enzyme activity		C3156549
+15653	15664	GO:0019787	e2 subunits	ubiquitin-like protein transferase activity		C3888074
+15653	15664	GO:0004842	e2 subunits	ubiquitin-protein transferase activity		C3888151
+15653	15664	GO:0061657	e2 subunits	UFM1 conjugating enzyme activity		C3889565
+15653	15664	GO:0019789	e2 subunits	SUMO conjugating enzyme activity		C3889566
+15653	15664	GO:0019788	e2 subunits	NEDD8 conjugating enzyme activity		C3889567
+15653	15664	GO:0061658	e2 subunits	URM1 conjugating enzyme activity		C3889568
+15653	15664	GO:0061653	e2 subunits	E2	ISG15 conjugating enxyme activity	C3889569
+15653	15664	GO:0061631	e2 subunits	ubiquitin conjugating enzyme activity		C1151883
+15653	15664	GO:0061652	e2 subunits	FAT10 conjugating enzyme activity		C1151887
+15653	15664	GO:0061651	e2 subunits	Atg12 conjugating enzyme activity		C2612339
+15653	15664	GO:0061655	e2 subunits	Pup conjugating enzyme activity		C3156549
+15653	15664	GO:0061656	e2 subunits	SUMO conjugating enzyme activity		C3889566
+15653	15664	GO:0061654	e2 subunits	NEDD8 conjugating enzyme activity		C3889567
+15739	15783	GO:0042571	probed with a rabbit anti-c-myc tag antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+15855	15878	GO:0042571	probed with an antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+15971	16008	GO:0042571	a goat anti-rabbit secondary antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+16261	16287	GO:0003863	bckdh enzyme activity data	BCKDH activity		C2256840
+16438	16473	GO:0004842	production of e2 gene knockout mice	ubiquitin conjugating enzyme activity		C1151883
+16438	16473	GO:0061631	production of e2 gene knockout mice	ubiquitin conjugating enzyme activity		C1151883
+16485	16502	GO:0004842	e2 knockout mice,	ubiquitin conjugating enzyme activity		C1151883
+16485	16502	GO:0061650	e2 knockout mice,	ubiquitin-like protein conjugating enzyme activity		C1151884
+16485	16502	GO:0019775	e2 knockout mice,	FAT10 conjugating enzyme activity		C1151887
+16485	16502	GO:0019777	e2 knockout mice,	Atg12 conjugating enzyme activity		C2612339
+16485	16502	GO:0072496	e2 knockout mice,	Pup conjugating enzyme activity		C3156549
+16485	16502	GO:0019787	e2 knockout mice,	ubiquitin-like protein transferase activity		C3888074
+16485	16502	GO:0004842	e2 knockout mice,	ubiquitin-protein transferase activity		C3888151
+16485	16502	GO:0061657	e2 knockout mice,	UFM1 conjugating enzyme activity		C3889565
+16485	16502	GO:0019789	e2 knockout mice,	SUMO conjugating enzyme activity		C3889566
+16485	16502	GO:0019788	e2 knockout mice,	NEDD8 conjugating enzyme activity		C3889567
+16485	16502	GO:0061658	e2 knockout mice,	URM1 conjugating enzyme activity		C3889568
+16485	16502	GO:0061653	e2 knockout mice,	E2	ISG15 conjugating enxyme activity	C3889569
+16485	16502	GO:0061631	e2 knockout mice,	ubiquitin conjugating enzyme activity		C1151883
+16485	16502	GO:0061652	e2 knockout mice,	FAT10 conjugating enzyme activity		C1151887
+16485	16502	GO:0061651	e2 knockout mice,	Atg12 conjugating enzyme activity		C2612339
+16485	16502	GO:0061655	e2 knockout mice,	Pup conjugating enzyme activity		C3156549
+16485	16502	GO:0061656	e2 knockout mice,	SUMO conjugating enzyme activity		C3889566
+16485	16502	GO:0061654	e2 knockout mice,	NEDD8 conjugating enzyme activity		C3889567
+16511	16543	GO:0007567	gene targeting in mouse es cells	parturition	Birth	C0005615
+16555	16567	GO:0004842	the e2 gene.	ubiquitin conjugating enzyme activity		C1151883
+16555	16567	GO:0061631	the e2 gene.	ubiquitin conjugating enzyme activity		C1151883
+16604	16615	GO:0004842	the e2 gene	ubiquitin conjugating enzyme activity		C1151883
+16604	16615	GO:0061631	the e2 gene	ubiquitin conjugating enzyme activity		C1151883
+16643	16671	GO:0007567	the gene targeting construct	parturition	Birth	C0005615
+16643	16671	GO:0000003	the gene targeting construct	reproduction	Reproduction	C0035150
+16838	16842	GO:0005623	cell	cell	Cells	C0007634
+16974	17002	GO:0007567	indicative of gene targeting	parturition	Birth	C0005615
+16974	17002	GO:0000003	indicative of gene targeting	reproduction	Reproduction	C0035150
+17003	17019	GO:0004842	at the e2 locus.	ubiquitin conjugating enzyme activity		C1151883
+17003	17019	GO:0061650	at the e2 locus.	ubiquitin-like protein conjugating enzyme activity		C1151884
+17003	17019	GO:0019775	at the e2 locus.	FAT10 conjugating enzyme activity		C1151887
+17003	17019	GO:0019777	at the e2 locus.	Atg12 conjugating enzyme activity		C2612339
+17003	17019	GO:0072496	at the e2 locus.	Pup conjugating enzyme activity		C3156549
+17003	17019	GO:0019787	at the e2 locus.	ubiquitin-like protein transferase activity		C3888074
+17003	17019	GO:0004842	at the e2 locus.	ubiquitin-protein transferase activity		C3888151
+17003	17019	GO:0061657	at the e2 locus.	UFM1 conjugating enzyme activity		C3889565
+17003	17019	GO:0019789	at the e2 locus.	SUMO conjugating enzyme activity		C3889566
+17003	17019	GO:0019788	at the e2 locus.	NEDD8 conjugating enzyme activity		C3889567
+17003	17019	GO:0061658	at the e2 locus.	URM1 conjugating enzyme activity		C3889568
+17003	17019	GO:0061653	at the e2 locus.	E2	ISG15 conjugating enxyme activity	C3889569
+17003	17019	GO:0061631	at the e2 locus.	ubiquitin conjugating enzyme activity		C1151883
+17003	17019	GO:0061652	at the e2 locus.	FAT10 conjugating enzyme activity		C1151887
+17003	17019	GO:0061651	at the e2 locus.	Atg12 conjugating enzyme activity		C2612339
+17003	17019	GO:0061655	at the e2 locus.	Pup conjugating enzyme activity		C3156549
+17003	17019	GO:0061656	at the e2 locus.	SUMO conjugating enzyme activity		C3889566
+17003	17019	GO:0061654	at the e2 locus.	NEDD8 conjugating enzyme activity		C3889567
+17054	17082	GO:0004842	an e2 exon 6 specific probe,	ubiquitin conjugating enzyme activity		C1151883
+17054	17082	GO:0061650	an e2 exon 6 specific probe,	ubiquitin-like protein conjugating enzyme activity		C1151884
+17054	17082	GO:0019775	an e2 exon 6 specific probe,	FAT10 conjugating enzyme activity		C1151887
+17054	17082	GO:0019777	an e2 exon 6 specific probe,	Atg12 conjugating enzyme activity		C2612339
+17054	17082	GO:0072496	an e2 exon 6 specific probe,	Pup conjugating enzyme activity		C3156549
+17054	17082	GO:0019787	an e2 exon 6 specific probe,	ubiquitin-like protein transferase activity		C3888074
+17054	17082	GO:0004842	an e2 exon 6 specific probe,	ubiquitin-protein transferase activity		C3888151
+17054	17082	GO:0061657	an e2 exon 6 specific probe,	UFM1 conjugating enzyme activity		C3889565
+17054	17082	GO:0019789	an e2 exon 6 specific probe,	SUMO conjugating enzyme activity		C3889566
+17054	17082	GO:0019788	an e2 exon 6 specific probe,	NEDD8 conjugating enzyme activity		C3889567
+17054	17082	GO:0061658	an e2 exon 6 specific probe,	URM1 conjugating enzyme activity		C3889568
+17054	17082	GO:0061653	an e2 exon 6 specific probe,	E2	ISG15 conjugating enxyme activity	C3889569
+17054	17082	GO:0061631	an e2 exon 6 specific probe,	ubiquitin conjugating enzyme activity		C1151883
+17054	17082	GO:0061652	an e2 exon 6 specific probe,	FAT10 conjugating enzyme activity		C1151887
+17054	17082	GO:0061651	an e2 exon 6 specific probe,	Atg12 conjugating enzyme activity		C2612339
+17054	17082	GO:0061655	an e2 exon 6 specific probe,	Pup conjugating enzyme activity		C3156549
+17054	17082	GO:0061656	an e2 exon 6 specific probe,	SUMO conjugating enzyme activity		C3889566
+17054	17082	GO:0061654	an e2 exon 6 specific probe,	NEDD8 conjugating enzyme activity		C3889567
+17231	17235	GO:0005623	cell	cell	Cells	C0007634
+17267	17271	GO:0005623	cell	cell	Cells	C0007634
+17460	17464	GO:0005623	cell	cell	Cells	C0007634
+17968	17998	GO:0004842	homozygous for the e2 mutation	ubiquitin conjugating enzyme activity		C1151883
+17968	17998	GO:0061650	homozygous for the e2 mutation	ubiquitin-like protein conjugating enzyme activity		C1151884
+17968	17998	GO:0019775	homozygous for the e2 mutation	FAT10 conjugating enzyme activity		C1151887
+17968	17998	GO:0019777	homozygous for the e2 mutation	Atg12 conjugating enzyme activity		C2612339
+17968	17998	GO:0072496	homozygous for the e2 mutation	Pup conjugating enzyme activity		C3156549
+17968	17998	GO:0019787	homozygous for the e2 mutation	ubiquitin-like protein transferase activity		C3888074
+17968	17998	GO:0004842	homozygous for the e2 mutation	ubiquitin-protein transferase activity		C3888151
+17968	17998	GO:0061657	homozygous for the e2 mutation	UFM1 conjugating enzyme activity		C3889565
+17968	17998	GO:0019789	homozygous for the e2 mutation	SUMO conjugating enzyme activity		C3889566
+17968	17998	GO:0019788	homozygous for the e2 mutation	NEDD8 conjugating enzyme activity		C3889567
+17968	17998	GO:0061658	homozygous for the e2 mutation	URM1 conjugating enzyme activity		C3889568
+17968	17998	GO:0061653	homozygous for the e2 mutation	E2	ISG15 conjugating enxyme activity	C3889569
+17968	17998	GO:0061631	homozygous for the e2 mutation	ubiquitin conjugating enzyme activity		C1151883
+17968	17998	GO:0061652	homozygous for the e2 mutation	FAT10 conjugating enzyme activity		C1151887
+17968	17998	GO:0061651	homozygous for the e2 mutation	Atg12 conjugating enzyme activity		C2612339
+17968	17998	GO:0061655	homozygous for the e2 mutation	Pup conjugating enzyme activity		C3156549
+17968	17998	GO:0061656	homozygous for the e2 mutation	SUMO conjugating enzyme activity		C3889566
+17968	17998	GO:0061654	homozygous for the e2 mutation	NEDD8 conjugating enzyme activity		C3889567
+18004	18035	GO:0007567	born at the expected frequency.	parturition	Birth	C0005615
+18079	18093	GO:0009291	by +/- matings	unidirectional conjugation		C1160186
+18079	18093	GO:0007618	by +/- matings	mating		C1260875
+18079	18093	GO:0000747	by +/- matings	conjugation with cellular fusion		C1748461
+18079	18093	GO:1990277	by +/- matings	parasexual conjugation with cellular fusion		C3812685
+18288	18299	GO:0004842	the e2 gene	ubiquitin conjugating enzyme activity		C1151883
+18288	18299	GO:0061631	the e2 gene	ubiquitin conjugating enzyme activity		C1151883
+18304	18349	GO:0009790	dispensable for normal embryonic development.	embryo development	Embryonic Development	C0013936
+18451	18457	GO:0007567	birth,	parturition	Birth	C0005615
+18786	18816	GO:0007567	died within 72 hours of birth.	parturition	Birth	C0005615
+18949	18996	GO:0004842	e2 deficient mice accurately model classic msud	ubiquitin conjugating enzyme activity		C1151883
+18949	18996	GO:0061650	e2 deficient mice accurately model classic msud	ubiquitin-like protein conjugating enzyme activity		C1151884
+18949	18996	GO:0019775	e2 deficient mice accurately model classic msud	FAT10 conjugating enzyme activity		C1151887
+18949	18996	GO:0019777	e2 deficient mice accurately model classic msud	Atg12 conjugating enzyme activity		C2612339
+18949	18996	GO:0072496	e2 deficient mice accurately model classic msud	Pup conjugating enzyme activity		C3156549
+18949	18996	GO:0019787	e2 deficient mice accurately model classic msud	ubiquitin-like protein transferase activity		C3888074
+18949	18996	GO:0004842	e2 deficient mice accurately model classic msud	ubiquitin-protein transferase activity		C3888151
+18949	18996	GO:0061657	e2 deficient mice accurately model classic msud	UFM1 conjugating enzyme activity		C3889565
+18949	18996	GO:0019789	e2 deficient mice accurately model classic msud	SUMO conjugating enzyme activity		C3889566
+18949	18996	GO:0019788	e2 deficient mice accurately model classic msud	NEDD8 conjugating enzyme activity		C3889567
+18949	18996	GO:0061658	e2 deficient mice accurately model classic msud	URM1 conjugating enzyme activity		C3889568
+18949	18996	GO:0061653	e2 deficient mice accurately model classic msud	E2	ISG15 conjugating enxyme activity	C3889569
+18949	18996	GO:0061631	e2 deficient mice accurately model classic msud	ubiquitin conjugating enzyme activity		C1151883
+18949	18996	GO:0061652	e2 deficient mice accurately model classic msud	FAT10 conjugating enzyme activity		C1151887
+18949	18996	GO:0061651	e2 deficient mice accurately model classic msud	Atg12 conjugating enzyme activity		C2612339
+18949	18996	GO:0061655	e2 deficient mice accurately model classic msud	Pup conjugating enzyme activity		C3156549
+18949	18996	GO:0061656	e2 deficient mice accurately model classic msud	SUMO conjugating enzyme activity		C3889566
+18949	18996	GO:0061654	e2 deficient mice accurately model classic msud	NEDD8 conjugating enzyme activity		C3889567
+19018	19042	GO:0007567	the gene targeting event	parturition	Birth	C0005615
+19018	19042	GO:0000003	the gene targeting event	reproduction	Reproduction	C0035150
+19051	19073	GO:0004842	a true e2 null allele,	ubiquitin conjugating enzyme activity		C1151883
+19051	19073	GO:0061650	a true e2 null allele,	ubiquitin-like protein conjugating enzyme activity		C1151884
+19051	19073	GO:0019775	a true e2 null allele,	FAT10 conjugating enzyme activity		C1151887
+19051	19073	GO:0019777	a true e2 null allele,	Atg12 conjugating enzyme activity		C2612339
+19051	19073	GO:0072496	a true e2 null allele,	Pup conjugating enzyme activity		C3156549
+19051	19073	GO:0019787	a true e2 null allele,	ubiquitin-like protein transferase activity		C3888074
+19051	19073	GO:0004842	a true e2 null allele,	ubiquitin-protein transferase activity		C3888151
+19051	19073	GO:0061657	a true e2 null allele,	UFM1 conjugating enzyme activity		C3889565
+19051	19073	GO:0019789	a true e2 null allele,	SUMO conjugating enzyme activity		C3889566
+19051	19073	GO:0019788	a true e2 null allele,	NEDD8 conjugating enzyme activity		C3889567
+19051	19073	GO:0061658	a true e2 null allele,	URM1 conjugating enzyme activity		C3889568
+19051	19073	GO:0061653	a true e2 null allele,	E2	ISG15 conjugating enxyme activity	C3889569
+19051	19073	GO:0061631	a true e2 null allele,	ubiquitin conjugating enzyme activity		C1151883
+19051	19073	GO:0061652	a true e2 null allele,	FAT10 conjugating enzyme activity		C1151887
+19051	19073	GO:0061651	a true e2 null allele,	Atg12 conjugating enzyme activity		C2612339
+19051	19073	GO:0061655	a true e2 null allele,	Pup conjugating enzyme activity		C3156549
+19051	19073	GO:0061656	a true e2 null allele,	SUMO conjugating enzyme activity		C3889566
+19051	19073	GO:0061654	a true e2 null allele,	NEDD8 conjugating enzyme activity		C3889567
+19088	19102	GO:0003863	BCKDH activity	BCKDH activity		C2256840
+19171	19191	GO:0009291	by +/- mating pairs.	unidirectional conjugation		C1160186
+19171	19191	GO:0007618	by +/- mating pairs.	mating		C1260875
+19171	19191	GO:0000747	by +/- mating pairs.	conjugation with cellular fusion		C1748461
+19171	19191	GO:1990277	by +/- mating pairs.	parasexual conjugation with cellular fusion		C3812685
+19219	19233	GO:0003863	BCKDH activity	BCKDH activity		C2256840
+19290	19304	GO:0003863	BCKDH activity	BCKDH activity		C2256840
+19632	19647	GO:0003824	enzyme activity	enzyme activity		C0243102
+19749	19764	GO:0003824	enzyme activity	enzyme activity		C0243102
+20389	20438	GO:0004842	immunohistochemistry with an e2 specific antibody	ubiquitin conjugating enzyme activity		C1151883
+20389	20438	GO:0061631	immunohistochemistry with an e2 specific antibody	ubiquitin conjugating enzyme activity		C1151883
+20459	20482	GO:0004842	e2 protein in the mice.	ubiquitin conjugating enzyme activity		C1151883
+20459	20482	GO:0061650	e2 protein in the mice.	ubiquitin-like protein conjugating enzyme activity		C1151884
+20459	20482	GO:0019775	e2 protein in the mice.	FAT10 conjugating enzyme activity		C1151887
+20459	20482	GO:0019777	e2 protein in the mice.	Atg12 conjugating enzyme activity		C2612339
+20459	20482	GO:0072496	e2 protein in the mice.	Pup conjugating enzyme activity		C3156549
+20459	20482	GO:0019787	e2 protein in the mice.	ubiquitin-like protein transferase activity		C3888074
+20459	20482	GO:0004842	e2 protein in the mice.	ubiquitin-protein transferase activity		C3888151
+20459	20482	GO:0061657	e2 protein in the mice.	UFM1 conjugating enzyme activity		C3889565
+20459	20482	GO:0019789	e2 protein in the mice.	SUMO conjugating enzyme activity		C3889566
+20459	20482	GO:0019788	e2 protein in the mice.	NEDD8 conjugating enzyme activity		C3889567
+20459	20482	GO:0061658	e2 protein in the mice.	URM1 conjugating enzyme activity		C3889568
+20459	20482	GO:0061653	e2 protein in the mice.	E2	ISG15 conjugating enxyme activity	C3889569
+20459	20482	GO:0061631	e2 protein in the mice.	ubiquitin conjugating enzyme activity		C1151883
+20459	20482	GO:0061652	e2 protein in the mice.	FAT10 conjugating enzyme activity		C1151887
+20459	20482	GO:0061651	e2 protein in the mice.	Atg12 conjugating enzyme activity		C2612339
+20459	20482	GO:0061655	e2 protein in the mice.	Pup conjugating enzyme activity		C3156549
+20459	20482	GO:0061656	e2 protein in the mice.	SUMO conjugating enzyme activity		C3889566
+20459	20482	GO:0061654	e2 protein in the mice.	NEDD8 conjugating enzyme activity		C3889567
+20509	20538	GO:0004842	1d, immunoreactive e2 protein	ubiquitin conjugating enzyme activity		C1151883
+20509	20538	GO:0061650	1d, immunoreactive e2 protein	ubiquitin-like protein conjugating enzyme activity		C1151884
+20509	20538	GO:0019775	1d, immunoreactive e2 protein	FAT10 conjugating enzyme activity		C1151887
+20509	20538	GO:0019777	1d, immunoreactive e2 protein	Atg12 conjugating enzyme activity		C2612339
+20509	20538	GO:0072496	1d, immunoreactive e2 protein	Pup conjugating enzyme activity		C3156549
+20509	20538	GO:0019787	1d, immunoreactive e2 protein	ubiquitin-like protein transferase activity		C3888074
+20509	20538	GO:0004842	1d, immunoreactive e2 protein	ubiquitin-protein transferase activity		C3888151
+20509	20538	GO:0061657	1d, immunoreactive e2 protein	UFM1 conjugating enzyme activity		C3889565
+20509	20538	GO:0019789	1d, immunoreactive e2 protein	SUMO conjugating enzyme activity		C3889566
+20509	20538	GO:0019788	1d, immunoreactive e2 protein	NEDD8 conjugating enzyme activity		C3889567
+20509	20538	GO:0061658	1d, immunoreactive e2 protein	URM1 conjugating enzyme activity		C3889568
+20509	20538	GO:0061653	1d, immunoreactive e2 protein	E2	ISG15 conjugating enxyme activity	C3889569
+20509	20538	GO:0061631	1d, immunoreactive e2 protein	ubiquitin conjugating enzyme activity		C1151883
+20509	20538	GO:0061652	1d, immunoreactive e2 protein	FAT10 conjugating enzyme activity		C1151887
+20509	20538	GO:0061651	1d, immunoreactive e2 protein	Atg12 conjugating enzyme activity		C2612339
+20509	20538	GO:0061655	1d, immunoreactive e2 protein	Pup conjugating enzyme activity		C3156549
+20509	20538	GO:0061656	1d, immunoreactive e2 protein	SUMO conjugating enzyme activity		C3889566
+20509	20538	GO:0061654	1d, immunoreactive e2 protein	NEDD8 conjugating enzyme activity		C3889567
+20565	20598	GO:0009790	embryonic fibroblasts of+/+ mice.	embryo development	Embryonic Development	C0013936
+20619	20644	GO:0004842	immunoreactive e2 protein	ubiquitin conjugating enzyme activity		C1151883
+20619	20644	GO:0061650	immunoreactive e2 protein	ubiquitin-like protein conjugating enzyme activity		C1151884
+20619	20644	GO:0019775	immunoreactive e2 protein	FAT10 conjugating enzyme activity		C1151887
+20619	20644	GO:0019777	immunoreactive e2 protein	Atg12 conjugating enzyme activity		C2612339
+20619	20644	GO:0072496	immunoreactive e2 protein	Pup conjugating enzyme activity		C3156549
+20619	20644	GO:0019787	immunoreactive e2 protein	ubiquitin-like protein transferase activity		C3888074
+20619	20644	GO:0004842	immunoreactive e2 protein	ubiquitin-protein transferase activity		C3888151
+20619	20644	GO:0061657	immunoreactive e2 protein	UFM1 conjugating enzyme activity		C3889565
+20619	20644	GO:0019789	immunoreactive e2 protein	SUMO conjugating enzyme activity		C3889566
+20619	20644	GO:0019788	immunoreactive e2 protein	NEDD8 conjugating enzyme activity		C3889567
+20619	20644	GO:0061658	immunoreactive e2 protein	URM1 conjugating enzyme activity		C3889568
+20619	20644	GO:0061653	immunoreactive e2 protein	E2	ISG15 conjugating enxyme activity	C3889569
+20619	20644	GO:0061631	immunoreactive e2 protein	ubiquitin conjugating enzyme activity		C1151883
+20619	20644	GO:0061652	immunoreactive e2 protein	FAT10 conjugating enzyme activity		C1151887
+20619	20644	GO:0061651	immunoreactive e2 protein	Atg12 conjugating enzyme activity		C2612339
+20619	20644	GO:0061655	immunoreactive e2 protein	Pup conjugating enzyme activity		C3156549
+20619	20644	GO:0061656	immunoreactive e2 protein	SUMO conjugating enzyme activity		C3889566
+20619	20644	GO:0061654	immunoreactive e2 protein	NEDD8 conjugating enzyme activity		C3889567
+20692	20719	GO:0004842	homozygous e2 knockout mice	ubiquitin conjugating enzyme activity		C1151883
+20692	20719	GO:0061650	homozygous e2 knockout mice	ubiquitin-like protein conjugating enzyme activity		C1151884
+20692	20719	GO:0019775	homozygous e2 knockout mice	FAT10 conjugating enzyme activity		C1151887
+20692	20719	GO:0019777	homozygous e2 knockout mice	Atg12 conjugating enzyme activity		C2612339
+20692	20719	GO:0072496	homozygous e2 knockout mice	Pup conjugating enzyme activity		C3156549
+20692	20719	GO:0019787	homozygous e2 knockout mice	ubiquitin-like protein transferase activity		C3888074
+20692	20719	GO:0004842	homozygous e2 knockout mice	ubiquitin-protein transferase activity		C3888151
+20692	20719	GO:0061657	homozygous e2 knockout mice	UFM1 conjugating enzyme activity		C3889565
+20692	20719	GO:0019789	homozygous e2 knockout mice	SUMO conjugating enzyme activity		C3889566
+20692	20719	GO:0019788	homozygous e2 knockout mice	NEDD8 conjugating enzyme activity		C3889567
+20692	20719	GO:0061658	homozygous e2 knockout mice	URM1 conjugating enzyme activity		C3889568
+20692	20719	GO:0061653	homozygous e2 knockout mice	E2	ISG15 conjugating enxyme activity	C3889569
+20692	20719	GO:0061631	homozygous e2 knockout mice	ubiquitin conjugating enzyme activity		C1151883
+20692	20719	GO:0061652	homozygous e2 knockout mice	FAT10 conjugating enzyme activity		C1151887
+20692	20719	GO:0061651	homozygous e2 knockout mice	Atg12 conjugating enzyme activity		C2612339
+20692	20719	GO:0061655	homozygous e2 knockout mice	Pup conjugating enzyme activity		C3156549
+20692	20719	GO:0061656	homozygous e2 knockout mice	SUMO conjugating enzyme activity		C3889566
+20692	20719	GO:0061654	homozygous e2 knockout mice	NEDD8 conjugating enzyme activity		C3889567
+20899	20910	GO:1902698	amino acids	acidogenesis		C3823112
+20899	20910	GO:1902705	amino acids	acidogenesis		C3823112
+20899	20910	GO:1902706	amino acids	acidogenesis		C3823112
+20899	20910	GO:1902699	amino acids	acidogenesis		C3823112
+21072	21082	GO:0008152	metabolism	metabolism	Metabolism	C0025519
+21094	21131	GO:0006523	linked with the synthesis of alanine,	alanine biosynthetic process		C1156634
+21183	21193	GO:0008152	metabolism	metabolism	Metabolism	C0025519
+21377	21412	GO:1902698	the levels of all three amino acids	acidogenesis		C3823112
+21377	21412	GO:1902705	the levels of all three amino acids	acidogenesis		C3823112
+21377	21412	GO:1902706	the levels of all three amino acids	acidogenesis		C3823112
+21377	21412	GO:1902699	the levels of all three amino acids	acidogenesis		C3823112
+21488	21519	GO:1902698	the levels of these amino acids	acidogenesis		C3823112
+21488	21519	GO:1902705	the levels of these amino acids	acidogenesis		C3823112
+21488	21519	GO:1902706	the levels of these amino acids	acidogenesis		C3823112
+21488	21519	GO:1902699	the levels of these amino acids	acidogenesis		C3823112
+21801	21862	GO:0002524	a more sensitive measure of the abnormal biochemistry of msud	hypersensitivity	Hypersensitivity	C0020517
+21919	21933	GO:1902698	the amino acid	acidogenesis		C3823112
+21919	21933	GO:1902705	the amino acid	acidogenesis		C3823112
+21919	21933	GO:1902706	the amino acid	acidogenesis		C3823112
+21919	21933	GO:1902699	the amino acid	acidogenesis		C3823112
+22068	22098	GO:1902698	these blood amino acid results	acidogenesis		C3823112
+22068	22098	GO:1902705	these blood amino acid results	acidogenesis		C3823112
+22068	22098	GO:1902706	these blood amino acid results	acidogenesis		C3823112
+22068	22098	GO:1902699	these blood amino acid results	acidogenesis		C3823112
+22138	22154	GO:0007601	seen in patients	vision	Vision	C0042789
+22185	22230	GO:1902698	summary of additional blood amino acid levels	acidogenesis		C3823112
+22185	22230	GO:1902705	summary of additional blood amino acid levels	acidogenesis		C3823112
+22185	22230	GO:1902706	summary of additional blood amino acid levels	acidogenesis		C3823112
+22185	22230	GO:1902699	summary of additional blood amino acid levels	acidogenesis		C3823112
+22341	22371	GO:0007567	collected on the day of birth.	parturition	Birth	C0005615
+22472	22488	GO:0004842	e2 knockout mice	ubiquitin conjugating enzyme activity		C1151883
+22472	22488	GO:0061650	e2 knockout mice	ubiquitin-like protein conjugating enzyme activity		C1151884
+22472	22488	GO:0019775	e2 knockout mice	FAT10 conjugating enzyme activity		C1151887
+22472	22488	GO:0019777	e2 knockout mice	Atg12 conjugating enzyme activity		C2612339
+22472	22488	GO:0072496	e2 knockout mice	Pup conjugating enzyme activity		C3156549
+22472	22488	GO:0019787	e2 knockout mice	ubiquitin-like protein transferase activity		C3888074
+22472	22488	GO:0004842	e2 knockout mice	ubiquitin-protein transferase activity		C3888151
+22472	22488	GO:0061657	e2 knockout mice	UFM1 conjugating enzyme activity		C3889565
+22472	22488	GO:0019789	e2 knockout mice	SUMO conjugating enzyme activity		C3889566
+22472	22488	GO:0019788	e2 knockout mice	NEDD8 conjugating enzyme activity		C3889567
+22472	22488	GO:0061658	e2 knockout mice	URM1 conjugating enzyme activity		C3889568
+22472	22488	GO:0061653	e2 knockout mice	E2	ISG15 conjugating enxyme activity	C3889569
+22472	22488	GO:0061631	e2 knockout mice	ubiquitin conjugating enzyme activity		C1151883
+22472	22488	GO:0061652	e2 knockout mice	FAT10 conjugating enzyme activity		C1151887
+22472	22488	GO:0061651	e2 knockout mice	Atg12 conjugating enzyme activity		C2612339
+22472	22488	GO:0061655	e2 knockout mice	Pup conjugating enzyme activity		C3156549
+22472	22488	GO:0061656	e2 knockout mice	SUMO conjugating enzyme activity		C3889566
+22472	22488	GO:0061654	e2 knockout mice	NEDD8 conjugating enzyme activity		C3889567
+22494	22519	GO:0003863	bckdh enzymatic activity,	BCKDH activity		C2256840
+22520	22540	GO:0004842	e2 immunoreactivity,	ubiquitin conjugating enzyme activity		C1151883
+22520	22540	GO:0061650	e2 immunoreactivity,	ubiquitin-like protein conjugating enzyme activity		C1151884
+22520	22540	GO:0019775	e2 immunoreactivity,	FAT10 conjugating enzyme activity		C1151887
+22520	22540	GO:0019777	e2 immunoreactivity,	Atg12 conjugating enzyme activity		C2612339
+22520	22540	GO:0072496	e2 immunoreactivity,	Pup conjugating enzyme activity		C3156549
+22520	22540	GO:0019787	e2 immunoreactivity,	ubiquitin-like protein transferase activity		C3888074
+22520	22540	GO:0004842	e2 immunoreactivity,	ubiquitin-protein transferase activity		C3888151
+22520	22540	GO:0061657	e2 immunoreactivity,	UFM1 conjugating enzyme activity		C3889565
+22520	22540	GO:0019789	e2 immunoreactivity,	SUMO conjugating enzyme activity		C3889566
+22520	22540	GO:0019788	e2 immunoreactivity,	NEDD8 conjugating enzyme activity		C3889567
+22520	22540	GO:0061658	e2 immunoreactivity,	URM1 conjugating enzyme activity		C3889568
+22520	22540	GO:0061653	e2 immunoreactivity,	E2	ISG15 conjugating enxyme activity	C3889569
+22520	22540	GO:0061631	e2 immunoreactivity,	ubiquitin conjugating enzyme activity		C1151883
+22520	22540	GO:0061652	e2 immunoreactivity,	FAT10 conjugating enzyme activity		C1151887
+22520	22540	GO:0061651	e2 immunoreactivity,	Atg12 conjugating enzyme activity		C2612339
+22520	22540	GO:0061655	e2 immunoreactivity,	Pup conjugating enzyme activity		C3156549
+22520	22540	GO:0061656	e2 immunoreactivity,	SUMO conjugating enzyme activity		C3889566
+22520	22540	GO:0061654	e2 immunoreactivity,	NEDD8 conjugating enzyme activity		C3889567
+22607	22635	GO:0044237	these metabolic derangements	cellular metabolic process	Metabolic Process, Cellular	C1524026
+22781	22825	GO:0004842	e2 knockout mice closely model classic msud.	ubiquitin conjugating enzyme activity		C1151883
+22781	22825	GO:0061650	e2 knockout mice closely model classic msud.	ubiquitin-like protein conjugating enzyme activity		C1151884
+22781	22825	GO:0019775	e2 knockout mice closely model classic msud.	FAT10 conjugating enzyme activity		C1151887
+22781	22825	GO:0019777	e2 knockout mice closely model classic msud.	Atg12 conjugating enzyme activity		C2612339
+22781	22825	GO:0072496	e2 knockout mice closely model classic msud.	Pup conjugating enzyme activity		C3156549
+22781	22825	GO:0019787	e2 knockout mice closely model classic msud.	ubiquitin-like protein transferase activity		C3888074
+22781	22825	GO:0004842	e2 knockout mice closely model classic msud.	ubiquitin-protein transferase activity		C3888151
+22781	22825	GO:0061657	e2 knockout mice closely model classic msud.	UFM1 conjugating enzyme activity		C3889565
+22781	22825	GO:0019789	e2 knockout mice closely model classic msud.	SUMO conjugating enzyme activity		C3889566
+22781	22825	GO:0019788	e2 knockout mice closely model classic msud.	NEDD8 conjugating enzyme activity		C3889567
+22781	22825	GO:0061658	e2 knockout mice closely model classic msud.	URM1 conjugating enzyme activity		C3889568
+22781	22825	GO:0061653	e2 knockout mice closely model classic msud.	E2	ISG15 conjugating enxyme activity	C3889569
+22781	22825	GO:0061631	e2 knockout mice closely model classic msud.	ubiquitin conjugating enzyme activity		C1151883
+22781	22825	GO:0061652	e2 knockout mice closely model classic msud.	FAT10 conjugating enzyme activity		C1151887
+22781	22825	GO:0061651	e2 knockout mice closely model classic msud.	Atg12 conjugating enzyme activity		C2612339
+22781	22825	GO:0061655	e2 knockout mice closely model classic msud.	Pup conjugating enzyme activity		C3156549
+22781	22825	GO:0061656	e2 knockout mice closely model classic msud.	SUMO conjugating enzyme activity		C3889566
+22781	22825	GO:0061654	e2 knockout mice closely model classic msud.	NEDD8 conjugating enzyme activity		C3889567
+22852	22878	GO:0004842	a human e2 transgene model	ubiquitin conjugating enzyme activity		C1151883
+22852	22878	GO:0061650	a human e2 transgene model	ubiquitin-like protein conjugating enzyme activity		C1151884
+22852	22878	GO:0019775	a human e2 transgene model	FAT10 conjugating enzyme activity		C1151887
+22852	22878	GO:0019777	a human e2 transgene model	Atg12 conjugating enzyme activity		C2612339
+22852	22878	GO:0072496	a human e2 transgene model	Pup conjugating enzyme activity		C3156549
+22852	22878	GO:0019787	a human e2 transgene model	ubiquitin-like protein transferase activity		C3888074
+22852	22878	GO:0004842	a human e2 transgene model	ubiquitin-protein transferase activity		C3888151
+22852	22878	GO:0061657	a human e2 transgene model	UFM1 conjugating enzyme activity		C3889565
+22852	22878	GO:0019789	a human e2 transgene model	SUMO conjugating enzyme activity		C3889566
+22852	22878	GO:0019788	a human e2 transgene model	NEDD8 conjugating enzyme activity		C3889567
+22852	22878	GO:0061658	a human e2 transgene model	URM1 conjugating enzyme activity		C3889568
+22852	22878	GO:0061653	a human e2 transgene model	E2	ISG15 conjugating enxyme activity	C3889569
+22852	22878	GO:0061631	a human e2 transgene model	ubiquitin conjugating enzyme activity		C1151883
+22852	22878	GO:0061652	a human e2 transgene model	FAT10 conjugating enzyme activity		C1151887
+22852	22878	GO:0061651	a human e2 transgene model	Atg12 conjugating enzyme activity		C2612339
+22852	22878	GO:0061655	a human e2 transgene model	Pup conjugating enzyme activity		C3156549
+22852	22878	GO:0061656	a human e2 transgene model	SUMO conjugating enzyme activity		C3889566
+22852	22878	GO:0061654	a human e2 transgene model	NEDD8 conjugating enzyme activity		C3889567
+23206	23223	GO:0004842	human e2 in liver	ubiquitin conjugating enzyme activity		C1151883
+23206	23223	GO:0061650	human e2 in liver	ubiquitin-like protein conjugating enzyme activity		C1151884
+23206	23223	GO:0019775	human e2 in liver	FAT10 conjugating enzyme activity		C1151887
+23206	23223	GO:0019777	human e2 in liver	Atg12 conjugating enzyme activity		C2612339
+23206	23223	GO:0072496	human e2 in liver	Pup conjugating enzyme activity		C3156549
+23206	23223	GO:0019787	human e2 in liver	ubiquitin-like protein transferase activity		C3888074
+23206	23223	GO:0004842	human e2 in liver	ubiquitin-protein transferase activity		C3888151
+23206	23223	GO:0061657	human e2 in liver	UFM1 conjugating enzyme activity		C3889565
+23206	23223	GO:0019789	human e2 in liver	SUMO conjugating enzyme activity		C3889566
+23206	23223	GO:0019788	human e2 in liver	NEDD8 conjugating enzyme activity		C3889567
+23206	23223	GO:0061658	human e2 in liver	URM1 conjugating enzyme activity		C3889568
+23206	23223	GO:0061653	human e2 in liver	E2	ISG15 conjugating enxyme activity	C3889569
+23206	23223	GO:0061631	human e2 in liver	ubiquitin conjugating enzyme activity		C1151883
+23206	23223	GO:0061652	human e2 in liver	FAT10 conjugating enzyme activity		C1151887
+23206	23223	GO:0061651	human e2 in liver	Atg12 conjugating enzyme activity		C2612339
+23206	23223	GO:0061655	human e2 in liver	Pup conjugating enzyme activity		C3156549
+23206	23223	GO:0061656	human e2 in liver	SUMO conjugating enzyme activity		C3889566
+23206	23223	GO:0061654	human e2 in liver	NEDD8 conjugating enzyme activity		C3889567
+23224	23254	GO:0004842	on the e2 knockout background.	ubiquitin conjugating enzyme activity		C1151883
+23224	23254	GO:0061650	on the e2 knockout background.	ubiquitin-like protein conjugating enzyme activity		C1151884
+23224	23254	GO:0019775	on the e2 knockout background.	FAT10 conjugating enzyme activity		C1151887
+23224	23254	GO:0019777	on the e2 knockout background.	Atg12 conjugating enzyme activity		C2612339
+23224	23254	GO:0072496	on the e2 knockout background.	Pup conjugating enzyme activity		C3156549
+23224	23254	GO:0019787	on the e2 knockout background.	ubiquitin-like protein transferase activity		C3888074
+23224	23254	GO:0004842	on the e2 knockout background.	ubiquitin-protein transferase activity		C3888151
+23224	23254	GO:0061657	on the e2 knockout background.	UFM1 conjugating enzyme activity		C3889565
+23224	23254	GO:0019789	on the e2 knockout background.	SUMO conjugating enzyme activity		C3889566
+23224	23254	GO:0019788	on the e2 knockout background.	NEDD8 conjugating enzyme activity		C3889567
+23224	23254	GO:0061658	on the e2 knockout background.	URM1 conjugating enzyme activity		C3889568
+23224	23254	GO:0061653	on the e2 knockout background.	E2	ISG15 conjugating enxyme activity	C3889569
+23224	23254	GO:0061631	on the e2 knockout background.	ubiquitin conjugating enzyme activity		C1151883
+23224	23254	GO:0061652	on the e2 knockout background.	FAT10 conjugating enzyme activity		C1151887
+23224	23254	GO:0061651	on the e2 knockout background.	Atg12 conjugating enzyme activity		C2612339
+23224	23254	GO:0061655	on the e2 knockout background.	Pup conjugating enzyme activity		C3156549
+23224	23254	GO:0061656	on the e2 knockout background.	SUMO conjugating enzyme activity		C3889566
+23224	23254	GO:0061654	on the e2 knockout background.	NEDD8 conjugating enzyme activity		C3889567
+23318	23336	GO:0004842	a tre-e2 transgene	ubiquitin conjugating enzyme activity		C1151883
+23318	23336	GO:0061650	a tre-e2 transgene	ubiquitin-like protein conjugating enzyme activity		C1151884
+23318	23336	GO:0019775	a tre-e2 transgene	FAT10 conjugating enzyme activity		C1151887
+23318	23336	GO:0019777	a tre-e2 transgene	Atg12 conjugating enzyme activity		C2612339
+23318	23336	GO:0072496	a tre-e2 transgene	Pup conjugating enzyme activity		C3156549
+23318	23336	GO:0019787	a tre-e2 transgene	ubiquitin-like protein transferase activity		C3888074
+23318	23336	GO:0004842	a tre-e2 transgene	ubiquitin-protein transferase activity		C3888151
+23318	23336	GO:0061657	a tre-e2 transgene	UFM1 conjugating enzyme activity		C3889565
+23318	23336	GO:0019789	a tre-e2 transgene	SUMO conjugating enzyme activity		C3889566
+23318	23336	GO:0019788	a tre-e2 transgene	NEDD8 conjugating enzyme activity		C3889567
+23318	23336	GO:0061658	a tre-e2 transgene	URM1 conjugating enzyme activity		C3889568
+23318	23336	GO:0061653	a tre-e2 transgene	E2	ISG15 conjugating enxyme activity	C3889569
+23318	23336	GO:0061631	a tre-e2 transgene	ubiquitin conjugating enzyme activity		C1151883
+23318	23336	GO:0061652	a tre-e2 transgene	FAT10 conjugating enzyme activity		C1151887
+23318	23336	GO:0061651	a tre-e2 transgene	Atg12 conjugating enzyme activity		C2612339
+23318	23336	GO:0061655	a tre-e2 transgene	Pup conjugating enzyme activity		C3156549
+23318	23336	GO:0061656	a tre-e2 transgene	SUMO conjugating enzyme activity		C3889566
+23318	23336	GO:0061654	a tre-e2 transgene	NEDD8 conjugating enzyme activity		C3889567
+23477	23499	GO:0000988	a transcription factor	transcription factor activity		C1148759
+23477	23499	GO:0001070	a transcription factor	transcription factor activity		C1148759
+23477	23499	GO:0001071	a transcription factor	transcription factor activity		C1148759
+23477	23499	GO:0003700	a transcription factor	transcription factor activity		C1148759
+23593	23613	GO:0004842	the tre-e2 transgene	ubiquitin conjugating enzyme activity		C1151883
+23593	23613	GO:0061650	the tre-e2 transgene	ubiquitin-like protein conjugating enzyme activity		C1151884
+23593	23613	GO:0019775	the tre-e2 transgene	FAT10 conjugating enzyme activity		C1151887
+23593	23613	GO:0019777	the tre-e2 transgene	Atg12 conjugating enzyme activity		C2612339
+23593	23613	GO:0072496	the tre-e2 transgene	Pup conjugating enzyme activity		C3156549
+23593	23613	GO:0019787	the tre-e2 transgene	ubiquitin-like protein transferase activity		C3888074
+23593	23613	GO:0004842	the tre-e2 transgene	ubiquitin-protein transferase activity		C3888151
+23593	23613	GO:0061657	the tre-e2 transgene	UFM1 conjugating enzyme activity		C3889565
+23593	23613	GO:0019789	the tre-e2 transgene	SUMO conjugating enzyme activity		C3889566
+23593	23613	GO:0019788	the tre-e2 transgene	NEDD8 conjugating enzyme activity		C3889567
+23593	23613	GO:0061658	the tre-e2 transgene	URM1 conjugating enzyme activity		C3889568
+23593	23613	GO:0061653	the tre-e2 transgene	E2	ISG15 conjugating enxyme activity	C3889569
+23593	23613	GO:0061631	the tre-e2 transgene	ubiquitin conjugating enzyme activity		C1151883
+23593	23613	GO:0061652	the tre-e2 transgene	FAT10 conjugating enzyme activity		C1151887
+23593	23613	GO:0061651	the tre-e2 transgene	Atg12 conjugating enzyme activity		C2612339
+23593	23613	GO:0061655	the tre-e2 transgene	Pup conjugating enzyme activity		C3156549
+23593	23613	GO:0061656	the tre-e2 transgene	SUMO conjugating enzyme activity		C3889566
+23593	23613	GO:0061654	the tre-e2 transgene	NEDD8 conjugating enzyme activity		C3889567
+23638	23664	GO:0004842	a human e2 cdna from a tre	ubiquitin conjugating enzyme activity		C1151883
+23638	23664	GO:0061650	a human e2 cdna from a tre	ubiquitin-like protein conjugating enzyme activity		C1151884
+23638	23664	GO:0019775	a human e2 cdna from a tre	FAT10 conjugating enzyme activity		C1151887
+23638	23664	GO:0019777	a human e2 cdna from a tre	Atg12 conjugating enzyme activity		C2612339
+23638	23664	GO:0072496	a human e2 cdna from a tre	Pup conjugating enzyme activity		C3156549
+23638	23664	GO:0019787	a human e2 cdna from a tre	ubiquitin-like protein transferase activity		C3888074
+23638	23664	GO:0004842	a human e2 cdna from a tre	ubiquitin-protein transferase activity		C3888151
+23638	23664	GO:0061657	a human e2 cdna from a tre	UFM1 conjugating enzyme activity		C3889565
+23638	23664	GO:0019789	a human e2 cdna from a tre	SUMO conjugating enzyme activity		C3889566
+23638	23664	GO:0019788	a human e2 cdna from a tre	NEDD8 conjugating enzyme activity		C3889567
+23638	23664	GO:0061658	a human e2 cdna from a tre	URM1 conjugating enzyme activity		C3889568
+23638	23664	GO:0061653	a human e2 cdna from a tre	E2	ISG15 conjugating enxyme activity	C3889569
+23638	23664	GO:0061631	a human e2 cdna from a tre	ubiquitin conjugating enzyme activity		C1151883
+23638	23664	GO:0061652	a human e2 cdna from a tre	FAT10 conjugating enzyme activity		C1151887
+23638	23664	GO:0061651	a human e2 cdna from a tre	Atg12 conjugating enzyme activity		C2612339
+23638	23664	GO:0061655	a human e2 cdna from a tre	Pup conjugating enzyme activity		C3156549
+23638	23664	GO:0061656	a human e2 cdna from a tre	SUMO conjugating enzyme activity		C3889566
+23638	23664	GO:0061654	a human e2 cdna from a tre	NEDD8 conjugating enzyme activity		C3889567
+23836	23845	GO:0004842	human e2.	ubiquitin conjugating enzyme activity		C1151883
+23836	23845	GO:0061650	human e2.	ubiquitin-like protein conjugating enzyme activity		C1151884
+23836	23845	GO:0019775	human e2.	FAT10 conjugating enzyme activity		C1151887
+23836	23845	GO:0019777	human e2.	Atg12 conjugating enzyme activity		C2612339
+23836	23845	GO:0072496	human e2.	Pup conjugating enzyme activity		C3156549
+23836	23845	GO:0019787	human e2.	ubiquitin-like protein transferase activity		C3888074
+23836	23845	GO:0004842	human e2.	ubiquitin-protein transferase activity		C3888151
+23836	23845	GO:0061657	human e2.	UFM1 conjugating enzyme activity		C3889565
+23836	23845	GO:0019789	human e2.	SUMO conjugating enzyme activity		C3889566
+23836	23845	GO:0019788	human e2.	NEDD8 conjugating enzyme activity		C3889567
+23836	23845	GO:0061658	human e2.	URM1 conjugating enzyme activity		C3889568
+23836	23845	GO:0061653	human e2.	E2	ISG15 conjugating enxyme activity	C3889569
+23836	23845	GO:0061631	human e2.	ubiquitin conjugating enzyme activity		C1151883
+23836	23845	GO:0061652	human e2.	FAT10 conjugating enzyme activity		C1151887
+23836	23845	GO:0061651	human e2.	Atg12 conjugating enzyme activity		C2612339
+23836	23845	GO:0061655	human e2.	Pup conjugating enzyme activity		C3156549
+23836	23845	GO:0061656	human e2.	SUMO conjugating enzyme activity		C3889566
+23836	23845	GO:0061654	human e2.	NEDD8 conjugating enzyme activity		C3889567
+24013	24033	GO:0004842	the tre-e2 transgene	ubiquitin conjugating enzyme activity		C1151883
+24013	24033	GO:0061650	the tre-e2 transgene	ubiquitin-like protein conjugating enzyme activity		C1151884
+24013	24033	GO:0019775	the tre-e2 transgene	FAT10 conjugating enzyme activity		C1151887
+24013	24033	GO:0019777	the tre-e2 transgene	Atg12 conjugating enzyme activity		C2612339
+24013	24033	GO:0072496	the tre-e2 transgene	Pup conjugating enzyme activity		C3156549
+24013	24033	GO:0019787	the tre-e2 transgene	ubiquitin-like protein transferase activity		C3888074
+24013	24033	GO:0004842	the tre-e2 transgene	ubiquitin-protein transferase activity		C3888151
+24013	24033	GO:0061657	the tre-e2 transgene	UFM1 conjugating enzyme activity		C3889565
+24013	24033	GO:0019789	the tre-e2 transgene	SUMO conjugating enzyme activity		C3889566
+24013	24033	GO:0019788	the tre-e2 transgene	NEDD8 conjugating enzyme activity		C3889567
+24013	24033	GO:0061658	the tre-e2 transgene	URM1 conjugating enzyme activity		C3889568
+24013	24033	GO:0061653	the tre-e2 transgene	E2	ISG15 conjugating enxyme activity	C3889569
+24013	24033	GO:0061631	the tre-e2 transgene	ubiquitin conjugating enzyme activity		C1151883
+24013	24033	GO:0061652	the tre-e2 transgene	FAT10 conjugating enzyme activity		C1151887
+24013	24033	GO:0061651	the tre-e2 transgene	Atg12 conjugating enzyme activity		C2612339
+24013	24033	GO:0061655	the tre-e2 transgene	Pup conjugating enzyme activity		C3156549
+24013	24033	GO:0061656	the tre-e2 transgene	SUMO conjugating enzyme activity		C3889566
+24013	24033	GO:0061654	the tre-e2 transgene	NEDD8 conjugating enzyme activity		C3889567
+24140	24158	GO:0004842	the human e2 cdna,	ubiquitin conjugating enzyme activity		C1151883
+24140	24158	GO:0061650	the human e2 cdna,	ubiquitin-like protein conjugating enzyme activity		C1151884
+24140	24158	GO:0019775	the human e2 cdna,	FAT10 conjugating enzyme activity		C1151887
+24140	24158	GO:0019777	the human e2 cdna,	Atg12 conjugating enzyme activity		C2612339
+24140	24158	GO:0072496	the human e2 cdna,	Pup conjugating enzyme activity		C3156549
+24140	24158	GO:0019787	the human e2 cdna,	ubiquitin-like protein transferase activity		C3888074
+24140	24158	GO:0004842	the human e2 cdna,	ubiquitin-protein transferase activity		C3888151
+24140	24158	GO:0061657	the human e2 cdna,	UFM1 conjugating enzyme activity		C3889565
+24140	24158	GO:0019789	the human e2 cdna,	SUMO conjugating enzyme activity		C3889566
+24140	24158	GO:0019788	the human e2 cdna,	NEDD8 conjugating enzyme activity		C3889567
+24140	24158	GO:0061658	the human e2 cdna,	URM1 conjugating enzyme activity		C3889568
+24140	24158	GO:0061653	the human e2 cdna,	E2	ISG15 conjugating enxyme activity	C3889569
+24140	24158	GO:0061631	the human e2 cdna,	ubiquitin conjugating enzyme activity		C1151883
+24140	24158	GO:0061652	the human e2 cdna,	FAT10 conjugating enzyme activity		C1151887
+24140	24158	GO:0061651	the human e2 cdna,	Atg12 conjugating enzyme activity		C2612339
+24140	24158	GO:0061655	the human e2 cdna,	Pup conjugating enzyme activity		C3156549
+24140	24158	GO:0061656	the human e2 cdna,	SUMO conjugating enzyme activity		C3889566
+24140	24158	GO:0061654	the human e2 cdna,	NEDD8 conjugating enzyme activity		C3889567
+24216	24241	GO:0043631	polyadenylation sequence.	RNA polyadenylation	Polyadenylation	C0949765
+24313	24348	GO:0004842	western blot analysis of e2 protein	ubiquitin conjugating enzyme activity		C1151883
+24313	24348	GO:0061650	western blot analysis of e2 protein	ubiquitin-like protein conjugating enzyme activity		C1151884
+24313	24348	GO:0019775	western blot analysis of e2 protein	FAT10 conjugating enzyme activity		C1151887
+24313	24348	GO:0019777	western blot analysis of e2 protein	Atg12 conjugating enzyme activity		C2612339
+24313	24348	GO:0072496	western blot analysis of e2 protein	Pup conjugating enzyme activity		C3156549
+24313	24348	GO:0019787	western blot analysis of e2 protein	ubiquitin-like protein transferase activity		C3888074
+24313	24348	GO:0004842	western blot analysis of e2 protein	ubiquitin-protein transferase activity		C3888151
+24313	24348	GO:0061657	western blot analysis of e2 protein	UFM1 conjugating enzyme activity		C3889565
+24313	24348	GO:0019789	western blot analysis of e2 protein	SUMO conjugating enzyme activity		C3889566
+24313	24348	GO:0019788	western blot analysis of e2 protein	NEDD8 conjugating enzyme activity		C3889567
+24313	24348	GO:0061658	western blot analysis of e2 protein	URM1 conjugating enzyme activity		C3889568
+24313	24348	GO:0061653	western blot analysis of e2 protein	E2	ISG15 conjugating enxyme activity	C3889569
+24313	24348	GO:0061631	western blot analysis of e2 protein	ubiquitin conjugating enzyme activity		C1151883
+24313	24348	GO:0061652	western blot analysis of e2 protein	FAT10 conjugating enzyme activity		C1151887
+24313	24348	GO:0061651	western blot analysis of e2 protein	Atg12 conjugating enzyme activity		C2612339
+24313	24348	GO:0061655	western blot analysis of e2 protein	Pup conjugating enzyme activity		C3156549
+24313	24348	GO:0061656	western blot analysis of e2 protein	SUMO conjugating enzyme activity		C3889566
+24313	24348	GO:0061654	western blot analysis of e2 protein	NEDD8 conjugating enzyme activity		C3889567
+24407	24437	GO:0004842	the amount of human e2 protein	ubiquitin conjugating enzyme activity		C1151883
+24407	24437	GO:0061650	the amount of human e2 protein	ubiquitin-like protein conjugating enzyme activity		C1151884
+24407	24437	GO:0019775	the amount of human e2 protein	FAT10 conjugating enzyme activity		C1151887
+24407	24437	GO:0019777	the amount of human e2 protein	Atg12 conjugating enzyme activity		C2612339
+24407	24437	GO:0072496	the amount of human e2 protein	Pup conjugating enzyme activity		C3156549
+24407	24437	GO:0019787	the amount of human e2 protein	ubiquitin-like protein transferase activity		C3888074
+24407	24437	GO:0004842	the amount of human e2 protein	ubiquitin-protein transferase activity		C3888151
+24407	24437	GO:0061657	the amount of human e2 protein	UFM1 conjugating enzyme activity		C3889565
+24407	24437	GO:0019789	the amount of human e2 protein	SUMO conjugating enzyme activity		C3889566
+24407	24437	GO:0019788	the amount of human e2 protein	NEDD8 conjugating enzyme activity		C3889567
+24407	24437	GO:0061658	the amount of human e2 protein	URM1 conjugating enzyme activity		C3889568
+24407	24437	GO:0061653	the amount of human e2 protein	E2	ISG15 conjugating enxyme activity	C3889569
+24407	24437	GO:0061631	the amount of human e2 protein	ubiquitin conjugating enzyme activity		C1151883
+24407	24437	GO:0061652	the amount of human e2 protein	FAT10 conjugating enzyme activity		C1151887
+24407	24437	GO:0061651	the amount of human e2 protein	Atg12 conjugating enzyme activity		C2612339
+24407	24437	GO:0061655	the amount of human e2 protein	Pup conjugating enzyme activity		C3156549
+24407	24437	GO:0061656	the amount of human e2 protein	SUMO conjugating enzyme activity		C3889566
+24407	24437	GO:0061654	the amount of human e2 protein	NEDD8 conjugating enzyme activity		C3889567
+24546	24579	GO:0004842	similar to the amount of mouse e2	ubiquitin conjugating enzyme activity		C1151883
+24546	24579	GO:0061650	similar to the amount of mouse e2	ubiquitin-like protein conjugating enzyme activity		C1151884
+24546	24579	GO:0019775	similar to the amount of mouse e2	FAT10 conjugating enzyme activity		C1151887
+24546	24579	GO:0019777	similar to the amount of mouse e2	Atg12 conjugating enzyme activity		C2612339
+24546	24579	GO:0072496	similar to the amount of mouse e2	Pup conjugating enzyme activity		C3156549
+24546	24579	GO:0019787	similar to the amount of mouse e2	ubiquitin-like protein transferase activity		C3888074
+24546	24579	GO:0004842	similar to the amount of mouse e2	ubiquitin-protein transferase activity		C3888151
+24546	24579	GO:0061657	similar to the amount of mouse e2	UFM1 conjugating enzyme activity		C3889565
+24546	24579	GO:0019789	similar to the amount of mouse e2	SUMO conjugating enzyme activity		C3889566
+24546	24579	GO:0019788	similar to the amount of mouse e2	NEDD8 conjugating enzyme activity		C3889567
+24546	24579	GO:0061658	similar to the amount of mouse e2	URM1 conjugating enzyme activity		C3889568
+24546	24579	GO:0061653	similar to the amount of mouse e2	E2	ISG15 conjugating enxyme activity	C3889569
+24546	24579	GO:0061631	similar to the amount of mouse e2	ubiquitin conjugating enzyme activity		C1151883
+24546	24579	GO:0061652	similar to the amount of mouse e2	FAT10 conjugating enzyme activity		C1151887
+24546	24579	GO:0061651	similar to the amount of mouse e2	Atg12 conjugating enzyme activity		C2612339
+24546	24579	GO:0061655	similar to the amount of mouse e2	Pup conjugating enzyme activity		C3156549
+24546	24579	GO:0061656	similar to the amount of mouse e2	SUMO conjugating enzyme activity		C3889566
+24546	24579	GO:0061654	similar to the amount of mouse e2	NEDD8 conjugating enzyme activity		C3889567
+24615	24648	GO:0042571	probing with a c-myc tag antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+24712	24739	GO:0004842	human e2 in transgenic mice	ubiquitin conjugating enzyme activity		C1151883
+24712	24739	GO:0061650	human e2 in transgenic mice	ubiquitin-like protein conjugating enzyme activity		C1151884
+24712	24739	GO:0019775	human e2 in transgenic mice	FAT10 conjugating enzyme activity		C1151887
+24712	24739	GO:0019777	human e2 in transgenic mice	Atg12 conjugating enzyme activity		C2612339
+24712	24739	GO:0072496	human e2 in transgenic mice	Pup conjugating enzyme activity		C3156549
+24712	24739	GO:0019787	human e2 in transgenic mice	ubiquitin-like protein transferase activity		C3888074
+24712	24739	GO:0004842	human e2 in transgenic mice	ubiquitin-protein transferase activity		C3888151
+24712	24739	GO:0061657	human e2 in transgenic mice	UFM1 conjugating enzyme activity		C3889565
+24712	24739	GO:0019789	human e2 in transgenic mice	SUMO conjugating enzyme activity		C3889566
+24712	24739	GO:0019788	human e2 in transgenic mice	NEDD8 conjugating enzyme activity		C3889567
+24712	24739	GO:0061658	human e2 in transgenic mice	URM1 conjugating enzyme activity		C3889568
+24712	24739	GO:0061653	human e2 in transgenic mice	E2	ISG15 conjugating enxyme activity	C3889569
+24712	24739	GO:0061631	human e2 in transgenic mice	ubiquitin conjugating enzyme activity		C1151883
+24712	24739	GO:0061652	human e2 in transgenic mice	FAT10 conjugating enzyme activity		C1151887
+24712	24739	GO:0061651	human e2 in transgenic mice	Atg12 conjugating enzyme activity		C2612339
+24712	24739	GO:0061655	human e2 in transgenic mice	Pup conjugating enzyme activity		C3156549
+24712	24739	GO:0061656	human e2 in transgenic mice	SUMO conjugating enzyme activity		C3889566
+24712	24739	GO:0061654	human e2 in transgenic mice	NEDD8 conjugating enzyme activity		C3889567
+24873	24893	GO:0004842	e2 in those tissues.	ubiquitin conjugating enzyme activity		C1151883
+24873	24893	GO:0061650	e2 in those tissues.	ubiquitin-like protein conjugating enzyme activity		C1151884
+24873	24893	GO:0019775	e2 in those tissues.	FAT10 conjugating enzyme activity		C1151887
+24873	24893	GO:0019777	e2 in those tissues.	Atg12 conjugating enzyme activity		C2612339
+24873	24893	GO:0072496	e2 in those tissues.	Pup conjugating enzyme activity		C3156549
+24873	24893	GO:0019787	e2 in those tissues.	ubiquitin-like protein transferase activity		C3888074
+24873	24893	GO:0004842	e2 in those tissues.	ubiquitin-protein transferase activity		C3888151
+24873	24893	GO:0061657	e2 in those tissues.	UFM1 conjugating enzyme activity		C3889565
+24873	24893	GO:0019789	e2 in those tissues.	SUMO conjugating enzyme activity		C3889566
+24873	24893	GO:0019788	e2 in those tissues.	NEDD8 conjugating enzyme activity		C3889567
+24873	24893	GO:0061658	e2 in those tissues.	URM1 conjugating enzyme activity		C3889568
+24873	24893	GO:0061653	e2 in those tissues.	E2	ISG15 conjugating enxyme activity	C3889569
+24873	24893	GO:0061631	e2 in those tissues.	ubiquitin conjugating enzyme activity		C1151883
+24873	24893	GO:0061652	e2 in those tissues.	FAT10 conjugating enzyme activity		C1151887
+24873	24893	GO:0061651	e2 in those tissues.	Atg12 conjugating enzyme activity		C2612339
+24873	24893	GO:0061655	e2 in those tissues.	Pup conjugating enzyme activity		C3156549
+24873	24893	GO:0061656	e2 in those tissues.	SUMO conjugating enzyme activity		C3889566
+24873	24893	GO:0061654	e2 in those tissues.	NEDD8 conjugating enzyme activity		C3889567
+24912	24941	GO:0042571	probed with an actin antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+25169	25190	GO:0004842	the tre-e2 transgene.	ubiquitin conjugating enzyme activity		C1151883
+25169	25190	GO:0061650	the tre-e2 transgene.	ubiquitin-like protein conjugating enzyme activity		C1151884
+25169	25190	GO:0019775	the tre-e2 transgene.	FAT10 conjugating enzyme activity		C1151887
+25169	25190	GO:0019777	the tre-e2 transgene.	Atg12 conjugating enzyme activity		C2612339
+25169	25190	GO:0072496	the tre-e2 transgene.	Pup conjugating enzyme activity		C3156549
+25169	25190	GO:0019787	the tre-e2 transgene.	ubiquitin-like protein transferase activity		C3888074
+25169	25190	GO:0004842	the tre-e2 transgene.	ubiquitin-protein transferase activity		C3888151
+25169	25190	GO:0061657	the tre-e2 transgene.	UFM1 conjugating enzyme activity		C3889565
+25169	25190	GO:0019789	the tre-e2 transgene.	SUMO conjugating enzyme activity		C3889566
+25169	25190	GO:0019788	the tre-e2 transgene.	NEDD8 conjugating enzyme activity		C3889567
+25169	25190	GO:0061658	the tre-e2 transgene.	URM1 conjugating enzyme activity		C3889568
+25169	25190	GO:0061653	the tre-e2 transgene.	E2	ISG15 conjugating enxyme activity	C3889569
+25169	25190	GO:0061631	the tre-e2 transgene.	ubiquitin conjugating enzyme activity		C1151883
+25169	25190	GO:0061652	the tre-e2 transgene.	FAT10 conjugating enzyme activity		C1151887
+25169	25190	GO:0061651	the tre-e2 transgene.	Atg12 conjugating enzyme activity		C2612339
+25169	25190	GO:0061655	the tre-e2 transgene.	Pup conjugating enzyme activity		C3156549
+25169	25190	GO:0061656	the tre-e2 transgene.	SUMO conjugating enzyme activity		C3889566
+25169	25190	GO:0061654	the tre-e2 transgene.	NEDD8 conjugating enzyme activity		C3889567
+25869	25906	GO:0004842	transgenic tre-e2 mice from each line	ubiquitin conjugating enzyme activity		C1151883
+25869	25906	GO:0061650	transgenic tre-e2 mice from each line	ubiquitin-like protein conjugating enzyme activity		C1151884
+25869	25906	GO:0019775	transgenic tre-e2 mice from each line	FAT10 conjugating enzyme activity		C1151887
+25869	25906	GO:0019777	transgenic tre-e2 mice from each line	Atg12 conjugating enzyme activity		C2612339
+25869	25906	GO:0072496	transgenic tre-e2 mice from each line	Pup conjugating enzyme activity		C3156549
+25869	25906	GO:0019787	transgenic tre-e2 mice from each line	ubiquitin-like protein transferase activity		C3888074
+25869	25906	GO:0004842	transgenic tre-e2 mice from each line	ubiquitin-protein transferase activity		C3888151
+25869	25906	GO:0061657	transgenic tre-e2 mice from each line	UFM1 conjugating enzyme activity		C3889565
+25869	25906	GO:0019789	transgenic tre-e2 mice from each line	SUMO conjugating enzyme activity		C3889566
+25869	25906	GO:0019788	transgenic tre-e2 mice from each line	NEDD8 conjugating enzyme activity		C3889567
+25869	25906	GO:0061658	transgenic tre-e2 mice from each line	URM1 conjugating enzyme activity		C3889568
+25869	25906	GO:0061653	transgenic tre-e2 mice from each line	E2	ISG15 conjugating enxyme activity	C3889569
+25869	25906	GO:0061631	transgenic tre-e2 mice from each line	ubiquitin conjugating enzyme activity		C1151883
+25869	25906	GO:0061652	transgenic tre-e2 mice from each line	FAT10 conjugating enzyme activity		C1151887
+25869	25906	GO:0061651	transgenic tre-e2 mice from each line	Atg12 conjugating enzyme activity		C2612339
+25869	25906	GO:0061655	transgenic tre-e2 mice from each line	Pup conjugating enzyme activity		C3156549
+25869	25906	GO:0061656	transgenic tre-e2 mice from each line	SUMO conjugating enzyme activity		C3889566
+25869	25906	GO:0061654	transgenic tre-e2 mice from each line	NEDD8 conjugating enzyme activity		C3889567
+26016	26049	GO:0004842	heterozygous for the e2 knockout.	ubiquitin conjugating enzyme activity		C1151883
+26016	26049	GO:0061650	heterozygous for the e2 knockout.	ubiquitin-like protein conjugating enzyme activity		C1151884
+26016	26049	GO:0019775	heterozygous for the e2 knockout.	FAT10 conjugating enzyme activity		C1151887
+26016	26049	GO:0019777	heterozygous for the e2 knockout.	Atg12 conjugating enzyme activity		C2612339
+26016	26049	GO:0072496	heterozygous for the e2 knockout.	Pup conjugating enzyme activity		C3156549
+26016	26049	GO:0019787	heterozygous for the e2 knockout.	ubiquitin-like protein transferase activity		C3888074
+26016	26049	GO:0004842	heterozygous for the e2 knockout.	ubiquitin-protein transferase activity		C3888151
+26016	26049	GO:0061657	heterozygous for the e2 knockout.	UFM1 conjugating enzyme activity		C3889565
+26016	26049	GO:0019789	heterozygous for the e2 knockout.	SUMO conjugating enzyme activity		C3889566
+26016	26049	GO:0019788	heterozygous for the e2 knockout.	NEDD8 conjugating enzyme activity		C3889567
+26016	26049	GO:0061658	heterozygous for the e2 knockout.	URM1 conjugating enzyme activity		C3889568
+26016	26049	GO:0061653	heterozygous for the e2 knockout.	E2	ISG15 conjugating enxyme activity	C3889569
+26016	26049	GO:0061631	heterozygous for the e2 knockout.	ubiquitin conjugating enzyme activity		C1151883
+26016	26049	GO:0061652	heterozygous for the e2 knockout.	FAT10 conjugating enzyme activity		C1151887
+26016	26049	GO:0061651	heterozygous for the e2 knockout.	Atg12 conjugating enzyme activity		C2612339
+26016	26049	GO:0061655	heterozygous for the e2 knockout.	Pup conjugating enzyme activity		C3156549
+26016	26049	GO:0061656	heterozygous for the e2 knockout.	SUMO conjugating enzyme activity		C3889566
+26016	26049	GO:0061654	heterozygous for the e2 knockout.	NEDD8 conjugating enzyme activity		C3889567
+26150	26171	GO:0004842	the tre-e2 transgene,	ubiquitin conjugating enzyme activity		C1151883
+26150	26171	GO:0061650	the tre-e2 transgene,	ubiquitin-like protein conjugating enzyme activity		C1151884
+26150	26171	GO:0019775	the tre-e2 transgene,	FAT10 conjugating enzyme activity		C1151887
+26150	26171	GO:0019777	the tre-e2 transgene,	Atg12 conjugating enzyme activity		C2612339
+26150	26171	GO:0072496	the tre-e2 transgene,	Pup conjugating enzyme activity		C3156549
+26150	26171	GO:0019787	the tre-e2 transgene,	ubiquitin-like protein transferase activity		C3888074
+26150	26171	GO:0004842	the tre-e2 transgene,	ubiquitin-protein transferase activity		C3888151
+26150	26171	GO:0061657	the tre-e2 transgene,	UFM1 conjugating enzyme activity		C3889565
+26150	26171	GO:0019789	the tre-e2 transgene,	SUMO conjugating enzyme activity		C3889566
+26150	26171	GO:0019788	the tre-e2 transgene,	NEDD8 conjugating enzyme activity		C3889567
+26150	26171	GO:0061658	the tre-e2 transgene,	URM1 conjugating enzyme activity		C3889568
+26150	26171	GO:0061653	the tre-e2 transgene,	E2	ISG15 conjugating enxyme activity	C3889569
+26150	26171	GO:0061631	the tre-e2 transgene,	ubiquitin conjugating enzyme activity		C1151883
+26150	26171	GO:0061652	the tre-e2 transgene,	FAT10 conjugating enzyme activity		C1151887
+26150	26171	GO:0061651	the tre-e2 transgene,	Atg12 conjugating enzyme activity		C2612339
+26150	26171	GO:0061655	the tre-e2 transgene,	Pup conjugating enzyme activity		C3156549
+26150	26171	GO:0061656	the tre-e2 transgene,	SUMO conjugating enzyme activity		C3889566
+26150	26171	GO:0061654	the tre-e2 transgene,	NEDD8 conjugating enzyme activity		C3889567
+26176	26192	GO:0004842	the e2 knockout.	ubiquitin conjugating enzyme activity		C1151883
+26176	26192	GO:0061650	the e2 knockout.	ubiquitin-like protein conjugating enzyme activity		C1151884
+26176	26192	GO:0019775	the e2 knockout.	FAT10 conjugating enzyme activity		C1151887
+26176	26192	GO:0019777	the e2 knockout.	Atg12 conjugating enzyme activity		C2612339
+26176	26192	GO:0072496	the e2 knockout.	Pup conjugating enzyme activity		C3156549
+26176	26192	GO:0019787	the e2 knockout.	ubiquitin-like protein transferase activity		C3888074
+26176	26192	GO:0004842	the e2 knockout.	ubiquitin-protein transferase activity		C3888151
+26176	26192	GO:0061657	the e2 knockout.	UFM1 conjugating enzyme activity		C3889565
+26176	26192	GO:0019789	the e2 knockout.	SUMO conjugating enzyme activity		C3889566
+26176	26192	GO:0019788	the e2 knockout.	NEDD8 conjugating enzyme activity		C3889567
+26176	26192	GO:0061658	the e2 knockout.	URM1 conjugating enzyme activity		C3889568
+26176	26192	GO:0061653	the e2 knockout.	E2	ISG15 conjugating enxyme activity	C3889569
+26176	26192	GO:0061631	the e2 knockout.	ubiquitin conjugating enzyme activity		C1151883
+26176	26192	GO:0061652	the e2 knockout.	FAT10 conjugating enzyme activity		C1151887
+26176	26192	GO:0061651	the e2 knockout.	Atg12 conjugating enzyme activity		C2612339
+26176	26192	GO:0061655	the e2 knockout.	Pup conjugating enzyme activity		C3156549
+26176	26192	GO:0061656	the e2 knockout.	SUMO conjugating enzyme activity		C3889566
+26176	26192	GO:0061654	the e2 knockout.	NEDD8 conjugating enzyme activity		C3889567
+26443	26465	GO:0004842	homozygous e2 knockout	ubiquitin conjugating enzyme activity		C1151883
+26443	26465	GO:0061650	homozygous e2 knockout	ubiquitin-like protein conjugating enzyme activity		C1151884
+26443	26465	GO:0019775	homozygous e2 knockout	FAT10 conjugating enzyme activity		C1151887
+26443	26465	GO:0019777	homozygous e2 knockout	Atg12 conjugating enzyme activity		C2612339
+26443	26465	GO:0072496	homozygous e2 knockout	Pup conjugating enzyme activity		C3156549
+26443	26465	GO:0019787	homozygous e2 knockout	ubiquitin-like protein transferase activity		C3888074
+26443	26465	GO:0004842	homozygous e2 knockout	ubiquitin-protein transferase activity		C3888151
+26443	26465	GO:0061657	homozygous e2 knockout	UFM1 conjugating enzyme activity		C3889565
+26443	26465	GO:0019789	homozygous e2 knockout	SUMO conjugating enzyme activity		C3889566
+26443	26465	GO:0019788	homozygous e2 knockout	NEDD8 conjugating enzyme activity		C3889567
+26443	26465	GO:0061658	homozygous e2 knockout	URM1 conjugating enzyme activity		C3889568
+26443	26465	GO:0061653	homozygous e2 knockout	E2	ISG15 conjugating enxyme activity	C3889569
+26443	26465	GO:0061631	homozygous e2 knockout	ubiquitin conjugating enzyme activity		C1151883
+26443	26465	GO:0061652	homozygous e2 knockout	FAT10 conjugating enzyme activity		C1151887
+26443	26465	GO:0061651	homozygous e2 knockout	Atg12 conjugating enzyme activity		C2612339
+26443	26465	GO:0061655	homozygous e2 knockout	Pup conjugating enzyme activity		C3156549
+26443	26465	GO:0061656	homozygous e2 knockout	SUMO conjugating enzyme activity		C3889566
+26443	26465	GO:0061654	homozygous e2 knockout	NEDD8 conjugating enzyme activity		C3889567
+26905	26954	GO:0004842	the neonatal lethal phenotype of the e2 knockout.	ubiquitin conjugating enzyme activity		C1151883
+26905	26954	GO:0061650	the neonatal lethal phenotype of the e2 knockout.	ubiquitin-like protein conjugating enzyme activity		C1151884
+26905	26954	GO:0019775	the neonatal lethal phenotype of the e2 knockout.	FAT10 conjugating enzyme activity		C1151887
+26905	26954	GO:0019777	the neonatal lethal phenotype of the e2 knockout.	Atg12 conjugating enzyme activity		C2612339
+26905	26954	GO:0072496	the neonatal lethal phenotype of the e2 knockout.	Pup conjugating enzyme activity		C3156549
+26905	26954	GO:0019787	the neonatal lethal phenotype of the e2 knockout.	ubiquitin-like protein transferase activity		C3888074
+26905	26954	GO:0004842	the neonatal lethal phenotype of the e2 knockout.	ubiquitin-protein transferase activity		C3888151
+26905	26954	GO:0061657	the neonatal lethal phenotype of the e2 knockout.	UFM1 conjugating enzyme activity		C3889565
+26905	26954	GO:0019789	the neonatal lethal phenotype of the e2 knockout.	SUMO conjugating enzyme activity		C3889566
+26905	26954	GO:0019788	the neonatal lethal phenotype of the e2 knockout.	NEDD8 conjugating enzyme activity		C3889567
+26905	26954	GO:0061658	the neonatal lethal phenotype of the e2 knockout.	URM1 conjugating enzyme activity		C3889568
+26905	26954	GO:0061653	the neonatal lethal phenotype of the e2 knockout.	E2	ISG15 conjugating enxyme activity	C3889569
+26905	26954	GO:0061631	the neonatal lethal phenotype of the e2 knockout.	ubiquitin conjugating enzyme activity		C1151883
+26905	26954	GO:0061652	the neonatal lethal phenotype of the e2 knockout.	FAT10 conjugating enzyme activity		C1151887
+26905	26954	GO:0061651	the neonatal lethal phenotype of the e2 knockout.	Atg12 conjugating enzyme activity		C2612339
+26905	26954	GO:0061655	the neonatal lethal phenotype of the e2 knockout.	Pup conjugating enzyme activity		C3156549
+26905	26954	GO:0061656	the neonatal lethal phenotype of the e2 knockout.	SUMO conjugating enzyme activity		C3889566
+26905	26954	GO:0061654	the neonatal lethal phenotype of the e2 knockout.	NEDD8 conjugating enzyme activity		C3889567
+27378	27418	GO:0004842	homozygous for knockout of endogenous e2	ubiquitin conjugating enzyme activity		C1151883
+27378	27418	GO:0061650	homozygous for knockout of endogenous e2	ubiquitin-like protein conjugating enzyme activity		C1151884
+27378	27418	GO:0019775	homozygous for knockout of endogenous e2	FAT10 conjugating enzyme activity		C1151887
+27378	27418	GO:0019777	homozygous for knockout of endogenous e2	Atg12 conjugating enzyme activity		C2612339
+27378	27418	GO:0072496	homozygous for knockout of endogenous e2	Pup conjugating enzyme activity		C3156549
+27378	27418	GO:0019787	homozygous for knockout of endogenous e2	ubiquitin-like protein transferase activity		C3888074
+27378	27418	GO:0004842	homozygous for knockout of endogenous e2	ubiquitin-protein transferase activity		C3888151
+27378	27418	GO:0061657	homozygous for knockout of endogenous e2	UFM1 conjugating enzyme activity		C3889565
+27378	27418	GO:0019789	homozygous for knockout of endogenous e2	SUMO conjugating enzyme activity		C3889566
+27378	27418	GO:0019788	homozygous for knockout of endogenous e2	NEDD8 conjugating enzyme activity		C3889567
+27378	27418	GO:0061658	homozygous for knockout of endogenous e2	URM1 conjugating enzyme activity		C3889568
+27378	27418	GO:0061653	homozygous for knockout of endogenous e2	E2	ISG15 conjugating enxyme activity	C3889569
+27378	27418	GO:0061631	homozygous for knockout of endogenous e2	ubiquitin conjugating enzyme activity		C1151883
+27378	27418	GO:0061652	homozygous for knockout of endogenous e2	FAT10 conjugating enzyme activity		C1151887
+27378	27418	GO:0061651	homozygous for knockout of endogenous e2	Atg12 conjugating enzyme activity		C2612339
+27378	27418	GO:0061655	homozygous for knockout of endogenous e2	Pup conjugating enzyme activity		C3156549
+27378	27418	GO:0061656	homozygous for knockout of endogenous e2	SUMO conjugating enzyme activity		C3889566
+27378	27418	GO:0061654	homozygous for knockout of endogenous e2	NEDD8 conjugating enzyme activity		C3889567
+27457	27474	GO:0004842	tre-e2 transgenes	ubiquitin conjugating enzyme activity		C1151883
+27457	27474	GO:0061650	tre-e2 transgenes	ubiquitin-like protein conjugating enzyme activity		C1151884
+27457	27474	GO:0019775	tre-e2 transgenes	FAT10 conjugating enzyme activity		C1151887
+27457	27474	GO:0019777	tre-e2 transgenes	Atg12 conjugating enzyme activity		C2612339
+27457	27474	GO:0072496	tre-e2 transgenes	Pup conjugating enzyme activity		C3156549
+27457	27474	GO:0019787	tre-e2 transgenes	ubiquitin-like protein transferase activity		C3888074
+27457	27474	GO:0004842	tre-e2 transgenes	ubiquitin-protein transferase activity		C3888151
+27457	27474	GO:0061657	tre-e2 transgenes	UFM1 conjugating enzyme activity		C3889565
+27457	27474	GO:0019789	tre-e2 transgenes	SUMO conjugating enzyme activity		C3889566
+27457	27474	GO:0019788	tre-e2 transgenes	NEDD8 conjugating enzyme activity		C3889567
+27457	27474	GO:0061658	tre-e2 transgenes	URM1 conjugating enzyme activity		C3889568
+27457	27474	GO:0061653	tre-e2 transgenes	E2	ISG15 conjugating enxyme activity	C3889569
+27457	27474	GO:0061631	tre-e2 transgenes	ubiquitin conjugating enzyme activity		C1151883
+27457	27474	GO:0061652	tre-e2 transgenes	FAT10 conjugating enzyme activity		C1151887
+27457	27474	GO:0061651	tre-e2 transgenes	Atg12 conjugating enzyme activity		C2612339
+27457	27474	GO:0061655	tre-e2 transgenes	Pup conjugating enzyme activity		C3156549
+27457	27474	GO:0061656	tre-e2 transgenes	SUMO conjugating enzyme activity		C3889566
+27457	27474	GO:0061654	tre-e2 transgenes	NEDD8 conjugating enzyme activity		C3889567
+28036	28051	GO:0003824	enzyme activity	enzyme activity		C0243102
+28391	28431	GO:1902698	the results of blood amino acid analysis	acidogenesis		C3823112
+28391	28431	GO:1902705	the results of blood amino acid analysis	acidogenesis		C3823112
+28391	28431	GO:1902706	the results of blood amino acid analysis	acidogenesis		C3823112
+28391	28431	GO:1902699	the results of blood amino acid analysis	acidogenesis		C3823112
+28721	28724	GO:0007601	see	vision	Vision	C0042789
+28894	28939	GO:1902698	summary of additional blood amino acid levels	acidogenesis		C3823112
+28894	28939	GO:1902705	summary of additional blood amino acid levels	acidogenesis		C3823112
+28894	28939	GO:1902706	summary of additional blood amino acid levels	acidogenesis		C3823112
+28894	28939	GO:1902699	summary of additional blood amino acid levels	acidogenesis		C3823112
+29342	29375	GO:0004842	expression of transgenic human e2	ubiquitin conjugating enzyme activity		C1151883
+29342	29375	GO:0061650	expression of transgenic human e2	ubiquitin-like protein conjugating enzyme activity		C1151884
+29342	29375	GO:0019775	expression of transgenic human e2	FAT10 conjugating enzyme activity		C1151887
+29342	29375	GO:0019777	expression of transgenic human e2	Atg12 conjugating enzyme activity		C2612339
+29342	29375	GO:0072496	expression of transgenic human e2	Pup conjugating enzyme activity		C3156549
+29342	29375	GO:0019787	expression of transgenic human e2	ubiquitin-like protein transferase activity		C3888074
+29342	29375	GO:0004842	expression of transgenic human e2	ubiquitin-protein transferase activity		C3888151
+29342	29375	GO:0061657	expression of transgenic human e2	UFM1 conjugating enzyme activity		C3889565
+29342	29375	GO:0019789	expression of transgenic human e2	SUMO conjugating enzyme activity		C3889566
+29342	29375	GO:0019788	expression of transgenic human e2	NEDD8 conjugating enzyme activity		C3889567
+29342	29375	GO:0061658	expression of transgenic human e2	URM1 conjugating enzyme activity		C3889568
+29342	29375	GO:0061653	expression of transgenic human e2	E2	ISG15 conjugating enxyme activity	C3889569
+29342	29375	GO:0061631	expression of transgenic human e2	ubiquitin conjugating enzyme activity		C1151883
+29342	29375	GO:0061652	expression of transgenic human e2	FAT10 conjugating enzyme activity		C1151887
+29342	29375	GO:0061651	expression of transgenic human e2	Atg12 conjugating enzyme activity		C2612339
+29342	29375	GO:0061655	expression of transgenic human e2	Pup conjugating enzyme activity		C3156549
+29342	29375	GO:0061656	expression of transgenic human e2	SUMO conjugating enzyme activity		C3889566
+29342	29375	GO:0061654	expression of transgenic human e2	NEDD8 conjugating enzyme activity		C3889567
+29442	29463	GO:0003863	bckdh enzyme activity	BCKDH activity		C2256840
+29468	29498	GO:0004842	production of human e2 protein	ubiquitin conjugating enzyme activity		C1151883
+29468	29498	GO:0061650	production of human e2 protein	ubiquitin-like protein conjugating enzyme activity		C1151884
+29468	29498	GO:0019775	production of human e2 protein	FAT10 conjugating enzyme activity		C1151887
+29468	29498	GO:0019777	production of human e2 protein	Atg12 conjugating enzyme activity		C2612339
+29468	29498	GO:0072496	production of human e2 protein	Pup conjugating enzyme activity		C3156549
+29468	29498	GO:0019787	production of human e2 protein	ubiquitin-like protein transferase activity		C3888074
+29468	29498	GO:0004842	production of human e2 protein	ubiquitin-protein transferase activity		C3888151
+29468	29498	GO:0061657	production of human e2 protein	UFM1 conjugating enzyme activity		C3889565
+29468	29498	GO:0019789	production of human e2 protein	SUMO conjugating enzyme activity		C3889566
+29468	29498	GO:0019788	production of human e2 protein	NEDD8 conjugating enzyme activity		C3889567
+29468	29498	GO:0061658	production of human e2 protein	URM1 conjugating enzyme activity		C3889568
+29468	29498	GO:0061653	production of human e2 protein	E2	ISG15 conjugating enxyme activity	C3889569
+29468	29498	GO:0061631	production of human e2 protein	ubiquitin conjugating enzyme activity		C1151883
+29468	29498	GO:0061652	production of human e2 protein	FAT10 conjugating enzyme activity		C1151887
+29468	29498	GO:0061651	production of human e2 protein	Atg12 conjugating enzyme activity		C2612339
+29468	29498	GO:0061655	production of human e2 protein	Pup conjugating enzyme activity		C3156549
+29468	29498	GO:0061656	production of human e2 protein	SUMO conjugating enzyme activity		C3889566
+29468	29498	GO:0061654	production of human e2 protein	NEDD8 conjugating enzyme activity		C3889567
+29542	29575	GO:0003863	bckdh enzymatic activity in liver	BCKDH activity		C2256840
+29627	29677	GO:0003824	of the enzymatic activity present in control liver	enzyme activity		C0243102
+29710	29732	GO:0004842	the amount of human e2	ubiquitin conjugating enzyme activity		C1151883
+29710	29732	GO:0061650	the amount of human e2	ubiquitin-like protein conjugating enzyme activity		C1151884
+29710	29732	GO:0019775	the amount of human e2	FAT10 conjugating enzyme activity		C1151887
+29710	29732	GO:0019777	the amount of human e2	Atg12 conjugating enzyme activity		C2612339
+29710	29732	GO:0072496	the amount of human e2	Pup conjugating enzyme activity		C3156549
+29710	29732	GO:0019787	the amount of human e2	ubiquitin-like protein transferase activity		C3888074
+29710	29732	GO:0004842	the amount of human e2	ubiquitin-protein transferase activity		C3888151
+29710	29732	GO:0061657	the amount of human e2	UFM1 conjugating enzyme activity		C3889565
+29710	29732	GO:0019789	the amount of human e2	SUMO conjugating enzyme activity		C3889566
+29710	29732	GO:0019788	the amount of human e2	NEDD8 conjugating enzyme activity		C3889567
+29710	29732	GO:0061658	the amount of human e2	URM1 conjugating enzyme activity		C3889568
+29710	29732	GO:0061653	the amount of human e2	E2	ISG15 conjugating enxyme activity	C3889569
+29710	29732	GO:0061631	the amount of human e2	ubiquitin conjugating enzyme activity		C1151883
+29710	29732	GO:0061652	the amount of human e2	FAT10 conjugating enzyme activity		C1151887
+29710	29732	GO:0061651	the amount of human e2	Atg12 conjugating enzyme activity		C2612339
+29710	29732	GO:0061655	the amount of human e2	Pup conjugating enzyme activity		C3156549
+29710	29732	GO:0061656	the amount of human e2	SUMO conjugating enzyme activity		C3889566
+29710	29732	GO:0061654	the amount of human e2	NEDD8 conjugating enzyme activity		C3889567
+29846	29867	GO:0004842	the level of human e2	ubiquitin conjugating enzyme activity		C1151883
+29846	29867	GO:0061650	the level of human e2	ubiquitin-like protein conjugating enzyme activity		C1151884
+29846	29867	GO:0019775	the level of human e2	FAT10 conjugating enzyme activity		C1151887
+29846	29867	GO:0019777	the level of human e2	Atg12 conjugating enzyme activity		C2612339
+29846	29867	GO:0072496	the level of human e2	Pup conjugating enzyme activity		C3156549
+29846	29867	GO:0019787	the level of human e2	ubiquitin-like protein transferase activity		C3888074
+29846	29867	GO:0004842	the level of human e2	ubiquitin-protein transferase activity		C3888151
+29846	29867	GO:0061657	the level of human e2	UFM1 conjugating enzyme activity		C3889565
+29846	29867	GO:0019789	the level of human e2	SUMO conjugating enzyme activity		C3889566
+29846	29867	GO:0019788	the level of human e2	NEDD8 conjugating enzyme activity		C3889567
+29846	29867	GO:0061658	the level of human e2	URM1 conjugating enzyme activity		C3889568
+29846	29867	GO:0061653	the level of human e2	E2	ISG15 conjugating enxyme activity	C3889569
+29846	29867	GO:0061631	the level of human e2	ubiquitin conjugating enzyme activity		C1151883
+29846	29867	GO:0061652	the level of human e2	FAT10 conjugating enzyme activity		C1151887
+29846	29867	GO:0061651	the level of human e2	Atg12 conjugating enzyme activity		C2612339
+29846	29867	GO:0061655	the level of human e2	Pup conjugating enzyme activity		C3156549
+29846	29867	GO:0061656	the level of human e2	SUMO conjugating enzyme activity		C3889566
+29846	29867	GO:0061654	the level of human e2	NEDD8 conjugating enzyme activity		C3889567
+29872	29917	GO:0004842	approximately equal to the amount of mouse e2	ubiquitin conjugating enzyme activity		C1151883
+29872	29917	GO:0061650	approximately equal to the amount of mouse e2	ubiquitin-like protein conjugating enzyme activity		C1151884
+29872	29917	GO:0019775	approximately equal to the amount of mouse e2	FAT10 conjugating enzyme activity		C1151887
+29872	29917	GO:0019777	approximately equal to the amount of mouse e2	Atg12 conjugating enzyme activity		C2612339
+29872	29917	GO:0072496	approximately equal to the amount of mouse e2	Pup conjugating enzyme activity		C3156549
+29872	29917	GO:0019787	approximately equal to the amount of mouse e2	ubiquitin-like protein transferase activity		C3888074
+29872	29917	GO:0004842	approximately equal to the amount of mouse e2	ubiquitin-protein transferase activity		C3888151
+29872	29917	GO:0061657	approximately equal to the amount of mouse e2	UFM1 conjugating enzyme activity		C3889565
+29872	29917	GO:0019789	approximately equal to the amount of mouse e2	SUMO conjugating enzyme activity		C3889566
+29872	29917	GO:0019788	approximately equal to the amount of mouse e2	NEDD8 conjugating enzyme activity		C3889567
+29872	29917	GO:0061658	approximately equal to the amount of mouse e2	URM1 conjugating enzyme activity		C3889568
+29872	29917	GO:0061653	approximately equal to the amount of mouse e2	E2	ISG15 conjugating enxyme activity	C3889569
+29872	29917	GO:0061631	approximately equal to the amount of mouse e2	ubiquitin conjugating enzyme activity		C1151883
+29872	29917	GO:0061652	approximately equal to the amount of mouse e2	FAT10 conjugating enzyme activity		C1151887
+29872	29917	GO:0061651	approximately equal to the amount of mouse e2	Atg12 conjugating enzyme activity		C2612339
+29872	29917	GO:0061655	approximately equal to the amount of mouse e2	Pup conjugating enzyme activity		C3156549
+29872	29917	GO:0061656	approximately equal to the amount of mouse e2	SUMO conjugating enzyme activity		C3889566
+29872	29917	GO:0061654	approximately equal to the amount of mouse e2	NEDD8 conjugating enzyme activity		C3889567
+29998	30044	GO:0004842	these near normal amounts of e2 protein result	ubiquitin conjugating enzyme activity		C1151883
+29998	30044	GO:0061650	these near normal amounts of e2 protein result	ubiquitin-like protein conjugating enzyme activity		C1151884
+29998	30044	GO:0019775	these near normal amounts of e2 protein result	FAT10 conjugating enzyme activity		C1151887
+29998	30044	GO:0019777	these near normal amounts of e2 protein result	Atg12 conjugating enzyme activity		C2612339
+29998	30044	GO:0072496	these near normal amounts of e2 protein result	Pup conjugating enzyme activity		C3156549
+29998	30044	GO:0019787	these near normal amounts of e2 protein result	ubiquitin-like protein transferase activity		C3888074
+29998	30044	GO:0004842	these near normal amounts of e2 protein result	ubiquitin-protein transferase activity		C3888151
+29998	30044	GO:0061657	these near normal amounts of e2 protein result	UFM1 conjugating enzyme activity		C3889565
+29998	30044	GO:0019789	these near normal amounts of e2 protein result	SUMO conjugating enzyme activity		C3889566
+29998	30044	GO:0019788	these near normal amounts of e2 protein result	NEDD8 conjugating enzyme activity		C3889567
+29998	30044	GO:0061658	these near normal amounts of e2 protein result	URM1 conjugating enzyme activity		C3889568
+29998	30044	GO:0061653	these near normal amounts of e2 protein result	E2	ISG15 conjugating enxyme activity	C3889569
+29998	30044	GO:0061631	these near normal amounts of e2 protein result	ubiquitin conjugating enzyme activity		C1151883
+29998	30044	GO:0061652	these near normal amounts of e2 protein result	FAT10 conjugating enzyme activity		C1151887
+29998	30044	GO:0061651	these near normal amounts of e2 protein result	Atg12 conjugating enzyme activity		C2612339
+29998	30044	GO:0061655	these near normal amounts of e2 protein result	Pup conjugating enzyme activity		C3156549
+29998	30044	GO:0061656	these near normal amounts of e2 protein result	SUMO conjugating enzyme activity		C3889566
+29998	30044	GO:0061654	these near normal amounts of e2 protein result	NEDD8 conjugating enzyme activity		C3889567
+30075	30090	GO:0003824	enzyme activity	enzyme activity		C0243102
+30122	30124	GO:0004842	e2	ubiquitin conjugating enzyme activity		C1151883
+30122	30124	GO:0061650	e2	ubiquitin-like protein conjugating enzyme activity		C1151884
+30122	30124	GO:0019775	e2	FAT10 conjugating enzyme activity		C1151887
+30122	30124	GO:0019777	e2	Atg12 conjugating enzyme activity		C2612339
+30122	30124	GO:0072496	e2	Pup conjugating enzyme activity		C3156549
+30122	30124	GO:0019787	e2	ubiquitin-like protein transferase activity		C3888074
+30122	30124	GO:0004842	e2	ubiquitin-protein transferase activity		C3888151
+30122	30124	GO:0061657	e2	UFM1 conjugating enzyme activity		C3889565
+30122	30124	GO:0019789	e2	SUMO conjugating enzyme activity		C3889566
+30122	30124	GO:0019788	e2	NEDD8 conjugating enzyme activity		C3889567
+30122	30124	GO:0061658	e2	URM1 conjugating enzyme activity		C3889568
+30122	30124	GO:0061653	e2	E2	ISG15 conjugating enxyme activity	C3889569
+30122	30124	GO:0061631	e2	ubiquitin conjugating enzyme activity		C1151883
+30122	30124	GO:0061652	e2	FAT10 conjugating enzyme activity		C1151887
+30122	30124	GO:0061651	e2	Atg12 conjugating enzyme activity		C2612339
+30122	30124	GO:0061655	e2	Pup conjugating enzyme activity		C3156549
+30122	30124	GO:0061656	e2	SUMO conjugating enzyme activity		C3889566
+30122	30124	GO:0061654	e2	NEDD8 conjugating enzyme activity		C3889567
+30246	30254	GO:0004842	human e2	ubiquitin conjugating enzyme activity		C1151883
+30246	30254	GO:0061650	human e2	ubiquitin-like protein conjugating enzyme activity		C1151884
+30246	30254	GO:0019775	human e2	FAT10 conjugating enzyme activity		C1151887
+30246	30254	GO:0019777	human e2	Atg12 conjugating enzyme activity		C2612339
+30246	30254	GO:0072496	human e2	Pup conjugating enzyme activity		C3156549
+30246	30254	GO:0019787	human e2	ubiquitin-like protein transferase activity		C3888074
+30246	30254	GO:0004842	human e2	ubiquitin-protein transferase activity		C3888151
+30246	30254	GO:0061657	human e2	UFM1 conjugating enzyme activity		C3889565
+30246	30254	GO:0019789	human e2	SUMO conjugating enzyme activity		C3889566
+30246	30254	GO:0019788	human e2	NEDD8 conjugating enzyme activity		C3889567
+30246	30254	GO:0061658	human e2	URM1 conjugating enzyme activity		C3889568
+30246	30254	GO:0061653	human e2	E2	ISG15 conjugating enxyme activity	C3889569
+30246	30254	GO:0061631	human e2	ubiquitin conjugating enzyme activity		C1151883
+30246	30254	GO:0061652	human e2	FAT10 conjugating enzyme activity		C1151887
+30246	30254	GO:0061651	human e2	Atg12 conjugating enzyme activity		C2612339
+30246	30254	GO:0061655	human e2	Pup conjugating enzyme activity		C3156549
+30246	30254	GO:0061656	human e2	SUMO conjugating enzyme activity		C3889566
+30246	30254	GO:0061654	human e2	NEDD8 conjugating enzyme activity		C3889567
+30255	30290	GO:0003824	interfered with enzymatic activity.	enzyme activity		C0243102
+30372	30454	GO:0045254	the carboxy terminus of an analogous subunit of the pyruvate dehydrogenase complex	pyruvate dehydrogenase complex location		C1167289
+30372	30454	GO:0045250	the carboxy terminus of an analogous subunit of the pyruvate dehydrogenase complex	pyruvate dehydrogenase complex location		C1167289
+30372	30454	GO:0005967	the carboxy terminus of an analogous subunit of the pyruvate dehydrogenase complex	pyruvate dehydrogenase complex location		C1167289
+30649	30662	GO:0004842	that human e2	ubiquitin conjugating enzyme activity		C1151883
+30649	30662	GO:0061650	that human e2	ubiquitin-like protein conjugating enzyme activity		C1151884
+30649	30662	GO:0019775	that human e2	FAT10 conjugating enzyme activity		C1151887
+30649	30662	GO:0019777	that human e2	Atg12 conjugating enzyme activity		C2612339
+30649	30662	GO:0072496	that human e2	Pup conjugating enzyme activity		C3156549
+30649	30662	GO:0019787	that human e2	ubiquitin-like protein transferase activity		C3888074
+30649	30662	GO:0004842	that human e2	ubiquitin-protein transferase activity		C3888151
+30649	30662	GO:0061657	that human e2	UFM1 conjugating enzyme activity		C3889565
+30649	30662	GO:0019789	that human e2	SUMO conjugating enzyme activity		C3889566
+30649	30662	GO:0019788	that human e2	NEDD8 conjugating enzyme activity		C3889567
+30649	30662	GO:0061658	that human e2	URM1 conjugating enzyme activity		C3889568
+30649	30662	GO:0061653	that human e2	E2	ISG15 conjugating enxyme activity	C3889569
+30649	30662	GO:0061631	that human e2	ubiquitin conjugating enzyme activity		C1151883
+30649	30662	GO:0061652	that human e2	FAT10 conjugating enzyme activity		C1151887
+30649	30662	GO:0061651	that human e2	Atg12 conjugating enzyme activity		C2612339
+30649	30662	GO:0061655	that human e2	Pup conjugating enzyme activity		C3156549
+30649	30662	GO:0061656	that human e2	SUMO conjugating enzyme activity		C3889566
+30649	30662	GO:0061654	that human e2	NEDD8 conjugating enzyme activity		C3889567
+30721	30733	GO:0061659	e3 subunits.	ubiquitin-like protein ligase activity		C1150682
+30721	30733	GO:0019777	e3 subunits.	Atg12 ligase activity		C1151885
+30721	30733	GO:0019787	e3 subunits.	ubiquitin-like protein transferase activity		C3888074
+30721	30733	GO:0004842	e3 subunits.	ubiquitin-protein transferase activity		C3888151
+30721	30733	GO:0061662	e3 subunits.	ISG15 ligase activity		C3890037
+30721	30733	GO:0061661	e3 subunits.	FAT10 ligase activity		C3890038
+30721	30733	GO:0061667	e3 subunits.	URM1 ligase activity		C3890039
+30721	30733	GO:0061664	e3 subunits.	Pup ligase activity		C3890040
+30721	30733	GO:0061666	e3 subunits.	UFM1 ligase activity		C3890041
+30721	30733	GO:0061665	e3 subunits.	SUMO ligase activity		C3890172
+30721	30733	GO:0061663	e3 subunits.	NEDD8 ligase activity		C3890173
+30721	30733	GO:0061660	e3 subunits.	Atg12 ligase activity		C1151885
+30734	30742	GO:0004842	human e2	ubiquitin conjugating enzyme activity		C1151883
+30734	30742	GO:0061650	human e2	ubiquitin-like protein conjugating enzyme activity		C1151884
+30734	30742	GO:0019775	human e2	FAT10 conjugating enzyme activity		C1151887
+30734	30742	GO:0019777	human e2	Atg12 conjugating enzyme activity		C2612339
+30734	30742	GO:0072496	human e2	Pup conjugating enzyme activity		C3156549
+30734	30742	GO:0019787	human e2	ubiquitin-like protein transferase activity		C3888074
+30734	30742	GO:0004842	human e2	ubiquitin-protein transferase activity		C3888151
+30734	30742	GO:0061657	human e2	UFM1 conjugating enzyme activity		C3889565
+30734	30742	GO:0019789	human e2	SUMO conjugating enzyme activity		C3889566
+30734	30742	GO:0019788	human e2	NEDD8 conjugating enzyme activity		C3889567
+30734	30742	GO:0061658	human e2	URM1 conjugating enzyme activity		C3889568
+30734	30742	GO:0061653	human e2	E2	ISG15 conjugating enxyme activity	C3889569
+30734	30742	GO:0061631	human e2	ubiquitin conjugating enzyme activity		C1151883
+30734	30742	GO:0061652	human e2	FAT10 conjugating enzyme activity		C1151887
+30734	30742	GO:0061651	human e2	Atg12 conjugating enzyme activity		C2612339
+30734	30742	GO:0061655	human e2	Pup conjugating enzyme activity		C3156549
+30734	30742	GO:0061656	human e2	SUMO conjugating enzyme activity		C3889566
+30734	30742	GO:0061654	human e2	NEDD8 conjugating enzyme activity		C3889567
+30750	30775	GO:0004842	~88% identity to mouse e2	ubiquitin conjugating enzyme activity		C1151883
+30750	30775	GO:0061650	~88% identity to mouse e2	ubiquitin-like protein conjugating enzyme activity		C1151884
+30750	30775	GO:0019775	~88% identity to mouse e2	FAT10 conjugating enzyme activity		C1151887
+30750	30775	GO:0019777	~88% identity to mouse e2	Atg12 conjugating enzyme activity		C2612339
+30750	30775	GO:0072496	~88% identity to mouse e2	Pup conjugating enzyme activity		C3156549
+30750	30775	GO:0019787	~88% identity to mouse e2	ubiquitin-like protein transferase activity		C3888074
+30750	30775	GO:0004842	~88% identity to mouse e2	ubiquitin-protein transferase activity		C3888151
+30750	30775	GO:0061657	~88% identity to mouse e2	UFM1 conjugating enzyme activity		C3889565
+30750	30775	GO:0019789	~88% identity to mouse e2	SUMO conjugating enzyme activity		C3889566
+30750	30775	GO:0019788	~88% identity to mouse e2	NEDD8 conjugating enzyme activity		C3889567
+30750	30775	GO:0061658	~88% identity to mouse e2	URM1 conjugating enzyme activity		C3889568
+30750	30775	GO:0061653	~88% identity to mouse e2	E2	ISG15 conjugating enxyme activity	C3889569
+30750	30775	GO:0061631	~88% identity to mouse e2	ubiquitin conjugating enzyme activity		C1151883
+30750	30775	GO:0061652	~88% identity to mouse e2	FAT10 conjugating enzyme activity		C1151887
+30750	30775	GO:0061651	~88% identity to mouse e2	Atg12 conjugating enzyme activity		C2612339
+30750	30775	GO:0061655	~88% identity to mouse e2	Pup conjugating enzyme activity		C3156549
+30750	30775	GO:0061656	~88% identity to mouse e2	SUMO conjugating enzyme activity		C3889566
+30750	30775	GO:0061654	~88% identity to mouse e2	NEDD8 conjugating enzyme activity		C3889567
+30776	30800	GO:1902698	at the amino acid level.	acidogenesis		C3823112
+30776	30800	GO:1902705	at the amino acid level.	acidogenesis		C3823112
+30776	30800	GO:1902706	at the amino acid level.	acidogenesis		C3823112
+30776	30800	GO:1902699	at the amino acid level.	acidogenesis		C3823112
+30847	30877	GO:0004842	expression of the e2 transgene	ubiquitin conjugating enzyme activity		C1151883
+30847	30877	GO:0061650	expression of the e2 transgene	ubiquitin-like protein conjugating enzyme activity		C1151884
+30847	30877	GO:0019775	expression of the e2 transgene	FAT10 conjugating enzyme activity		C1151887
+30847	30877	GO:0019777	expression of the e2 transgene	Atg12 conjugating enzyme activity		C2612339
+30847	30877	GO:0072496	expression of the e2 transgene	Pup conjugating enzyme activity		C3156549
+30847	30877	GO:0019787	expression of the e2 transgene	ubiquitin-like protein transferase activity		C3888074
+30847	30877	GO:0004842	expression of the e2 transgene	ubiquitin-protein transferase activity		C3888151
+30847	30877	GO:0061657	expression of the e2 transgene	UFM1 conjugating enzyme activity		C3889565
+30847	30877	GO:0019789	expression of the e2 transgene	SUMO conjugating enzyme activity		C3889566
+30847	30877	GO:0019788	expression of the e2 transgene	NEDD8 conjugating enzyme activity		C3889567
+30847	30877	GO:0061658	expression of the e2 transgene	URM1 conjugating enzyme activity		C3889568
+30847	30877	GO:0061653	expression of the e2 transgene	E2	ISG15 conjugating enxyme activity	C3889569
+30847	30877	GO:0061631	expression of the e2 transgene	ubiquitin conjugating enzyme activity		C1151883
+30847	30877	GO:0061652	expression of the e2 transgene	FAT10 conjugating enzyme activity		C1151887
+30847	30877	GO:0061651	expression of the e2 transgene	Atg12 conjugating enzyme activity		C2612339
+30847	30877	GO:0061655	expression of the e2 transgene	Pup conjugating enzyme activity		C3156549
+30847	30877	GO:0061656	expression of the e2 transgene	SUMO conjugating enzyme activity		C3889566
+30847	30877	GO:0061654	expression of the e2 transgene	NEDD8 conjugating enzyme activity		C3889567
+30953	30969	GO:0004842	expression of e2	ubiquitin conjugating enzyme activity		C1151883
+30953	30969	GO:0061650	expression of e2	ubiquitin-like protein conjugating enzyme activity		C1151884
+30953	30969	GO:0019775	expression of e2	FAT10 conjugating enzyme activity		C1151887
+30953	30969	GO:0019777	expression of e2	Atg12 conjugating enzyme activity		C2612339
+30953	30969	GO:0072496	expression of e2	Pup conjugating enzyme activity		C3156549
+30953	30969	GO:0019787	expression of e2	ubiquitin-like protein transferase activity		C3888074
+30953	30969	GO:0004842	expression of e2	ubiquitin-protein transferase activity		C3888151
+30953	30969	GO:0061657	expression of e2	UFM1 conjugating enzyme activity		C3889565
+30953	30969	GO:0019789	expression of e2	SUMO conjugating enzyme activity		C3889566
+30953	30969	GO:0019788	expression of e2	NEDD8 conjugating enzyme activity		C3889567
+30953	30969	GO:0061658	expression of e2	URM1 conjugating enzyme activity		C3889568
+30953	30969	GO:0061653	expression of e2	E2	ISG15 conjugating enxyme activity	C3889569
+30953	30969	GO:0061631	expression of e2	ubiquitin conjugating enzyme activity		C1151883
+30953	30969	GO:0061652	expression of e2	FAT10 conjugating enzyme activity		C1151887
+30953	30969	GO:0061651	expression of e2	Atg12 conjugating enzyme activity		C2612339
+30953	30969	GO:0061655	expression of e2	Pup conjugating enzyme activity		C3156549
+30953	30969	GO:0061656	expression of e2	SUMO conjugating enzyme activity		C3889566
+30953	30969	GO:0061654	expression of e2	NEDD8 conjugating enzyme activity		C3889567
+31683	31698	GO:0003824	enzyme activity	enzyme activity		C0243102
+32160	32171	GO:0032502	development	development	Biologic Development	C0678723
+32377	32429	GO:0007567	created by gene knockout of the e2 subunit of bckdh.	parturition	Birth	C0005615
+32540	32570	GO:0007567	born at the expected frequency	parturition	Birth	C0005615
+32575	32600	GO:0007567	appeared normal at birth.	parturition	Birth	C0005615
+32601	32622	GO:0007567	within a day of birth	parturition	Birth	C0005615
+32707	32741	GO:1902698	levels of the amino acids alanine,	acidogenesis		C3823112
+32707	32741	GO:1902705	levels of the amino acids alanine,	acidogenesis		C3823112
+32707	32741	GO:1902706	levels of the amino acids alanine,	acidogenesis		C3823112
+32707	32741	GO:1902699	levels of the amino acids alanine,	acidogenesis		C3823112
+32768	32783	GO:0009058	whose synthesis	anabolism	Anabolism	C0220781
+32806	32816	GO:0008152	metabolism	metabolism	Metabolism	C0025519
+32852	32873	GO:0003863	the activity of bckdh	BCKDH activity		C2256840
+32991	33016	GO:0004842	immunoreactive e2 protein	ubiquitin conjugating enzyme activity		C1151883
+32991	33016	GO:0061650	immunoreactive e2 protein	ubiquitin-like protein conjugating enzyme activity		C1151884
+32991	33016	GO:0019775	immunoreactive e2 protein	FAT10 conjugating enzyme activity		C1151887
+32991	33016	GO:0019777	immunoreactive e2 protein	Atg12 conjugating enzyme activity		C2612339
+32991	33016	GO:0072496	immunoreactive e2 protein	Pup conjugating enzyme activity		C3156549
+32991	33016	GO:0019787	immunoreactive e2 protein	ubiquitin-like protein transferase activity		C3888074
+32991	33016	GO:0004842	immunoreactive e2 protein	ubiquitin-protein transferase activity		C3888151
+32991	33016	GO:0061657	immunoreactive e2 protein	UFM1 conjugating enzyme activity		C3889565
+32991	33016	GO:0019789	immunoreactive e2 protein	SUMO conjugating enzyme activity		C3889566
+32991	33016	GO:0019788	immunoreactive e2 protein	NEDD8 conjugating enzyme activity		C3889567
+32991	33016	GO:0061658	immunoreactive e2 protein	URM1 conjugating enzyme activity		C3889568
+32991	33016	GO:0061653	immunoreactive e2 protein	E2	ISG15 conjugating enxyme activity	C3889569
+32991	33016	GO:0061631	immunoreactive e2 protein	ubiquitin conjugating enzyme activity		C1151883
+32991	33016	GO:0061652	immunoreactive e2 protein	FAT10 conjugating enzyme activity		C1151887
+32991	33016	GO:0061651	immunoreactive e2 protein	Atg12 conjugating enzyme activity		C2612339
+32991	33016	GO:0061655	immunoreactive e2 protein	Pup conjugating enzyme activity		C3156549
+32991	33016	GO:0061656	immunoreactive e2 protein	SUMO conjugating enzyme activity		C3889566
+32991	33016	GO:0061654	immunoreactive e2 protein	NEDD8 conjugating enzyme activity		C3889567
+33088	33096	GO:0007610	behavior	behavior	Behavior	C0004927
+33141	33179	GO:0007601	seen in newborn classic msud patients.	vision	Vision	C0042789
+33270	33284	GO:0003774	motor activity	motor activity	Molecular motor activity	C1321502
+33415	33453	GO:1902698	other similar neuroactive amino acids,	acidogenesis		C3823112
+33415	33453	GO:1902705	other similar neuroactive amino acids,	acidogenesis		C3823112
+33415	33453	GO:1902706	other similar neuroactive amino acids,	acidogenesis		C3823112
+33415	33453	GO:1902699	other similar neuroactive amino acids,	acidogenesis		C3823112
+33576	33606	GO:0007567	died within 72 hours of birth.	parturition	Birth	C0005615
+33900	33947	GO:0003863	approximately half of bckdh enzymatic activity.	BCKDH activity		C2256840
+34262	34304	GO:0004842	human e2 in the liver of e2 knockout mice.	ubiquitin conjugating enzyme activity		C1151883
+34262	34304	GO:0061650	human e2 in the liver of e2 knockout mice.	ubiquitin-like protein conjugating enzyme activity		C1151884
+34262	34304	GO:0019775	human e2 in the liver of e2 knockout mice.	FAT10 conjugating enzyme activity		C1151887
+34262	34304	GO:0019777	human e2 in the liver of e2 knockout mice.	Atg12 conjugating enzyme activity		C2612339
+34262	34304	GO:0072496	human e2 in the liver of e2 knockout mice.	Pup conjugating enzyme activity		C3156549
+34262	34304	GO:0019787	human e2 in the liver of e2 knockout mice.	ubiquitin-like protein transferase activity		C3888074
+34262	34304	GO:0004842	human e2 in the liver of e2 knockout mice.	ubiquitin-protein transferase activity		C3888151
+34262	34304	GO:0061657	human e2 in the liver of e2 knockout mice.	UFM1 conjugating enzyme activity		C3889565
+34262	34304	GO:0019789	human e2 in the liver of e2 knockout mice.	SUMO conjugating enzyme activity		C3889566
+34262	34304	GO:0019788	human e2 in the liver of e2 knockout mice.	NEDD8 conjugating enzyme activity		C3889567
+34262	34304	GO:0061658	human e2 in the liver of e2 knockout mice.	URM1 conjugating enzyme activity		C3889568
+34262	34304	GO:0061653	human e2 in the liver of e2 knockout mice.	E2	ISG15 conjugating enxyme activity	C3889569
+34262	34304	GO:0061631	human e2 in the liver of e2 knockout mice.	ubiquitin conjugating enzyme activity		C1151883
+34262	34304	GO:0061652	human e2 in the liver of e2 knockout mice.	FAT10 conjugating enzyme activity		C1151887
+34262	34304	GO:0061651	human e2 in the liver of e2 knockout mice.	Atg12 conjugating enzyme activity		C2612339
+34262	34304	GO:0061655	human e2 in the liver of e2 knockout mice.	Pup conjugating enzyme activity		C3156549
+34262	34304	GO:0061656	human e2 in the liver of e2 knockout mice.	SUMO conjugating enzyme activity		C3889566
+34262	34304	GO:0061654	human e2 in the liver of e2 knockout mice.	NEDD8 conjugating enzyme activity		C3889567
+34308	34355	GO:0004842	mentioned above, e2 knockouts without transgene	ubiquitin conjugating enzyme activity		C1151883
+34308	34355	GO:0061650	mentioned above, e2 knockouts without transgene	ubiquitin-like protein conjugating enzyme activity		C1151884
+34308	34355	GO:0019775	mentioned above, e2 knockouts without transgene	FAT10 conjugating enzyme activity		C1151887
+34308	34355	GO:0019777	mentioned above, e2 knockouts without transgene	Atg12 conjugating enzyme activity		C2612339
+34308	34355	GO:0072496	mentioned above, e2 knockouts without transgene	Pup conjugating enzyme activity		C3156549
+34308	34355	GO:0019787	mentioned above, e2 knockouts without transgene	ubiquitin-like protein transferase activity		C3888074
+34308	34355	GO:0004842	mentioned above, e2 knockouts without transgene	ubiquitin-protein transferase activity		C3888151
+34308	34355	GO:0061657	mentioned above, e2 knockouts without transgene	UFM1 conjugating enzyme activity		C3889565
+34308	34355	GO:0019789	mentioned above, e2 knockouts without transgene	SUMO conjugating enzyme activity		C3889566
+34308	34355	GO:0019788	mentioned above, e2 knockouts without transgene	NEDD8 conjugating enzyme activity		C3889567
+34308	34355	GO:0061658	mentioned above, e2 knockouts without transgene	URM1 conjugating enzyme activity		C3889568
+34308	34355	GO:0061653	mentioned above, e2 knockouts without transgene	E2	ISG15 conjugating enxyme activity	C3889569
+34308	34355	GO:0061631	mentioned above, e2 knockouts without transgene	ubiquitin conjugating enzyme activity		C1151883
+34308	34355	GO:0061652	mentioned above, e2 knockouts without transgene	FAT10 conjugating enzyme activity		C1151887
+34308	34355	GO:0061651	mentioned above, e2 knockouts without transgene	Atg12 conjugating enzyme activity		C2612339
+34308	34355	GO:0061655	mentioned above, e2 knockouts without transgene	Pup conjugating enzyme activity		C3156549
+34308	34355	GO:0061656	mentioned above, e2 knockouts without transgene	SUMO conjugating enzyme activity		C3889566
+34308	34355	GO:0061654	mentioned above, e2 knockouts without transgene	NEDD8 conjugating enzyme activity		C3889567
+34325	34327	GO:0004842	e2	ubiquitin conjugating enzyme activity		C1151883
+34325	34327	GO:0061650	e2	ubiquitin-like protein conjugating enzyme activity		C1151884
+34325	34327	GO:0019775	e2	FAT10 conjugating enzyme activity		C1151887
+34325	34327	GO:0019777	e2	Atg12 conjugating enzyme activity		C2612339
+34325	34327	GO:0072496	e2	Pup conjugating enzyme activity		C3156549
+34325	34327	GO:0019787	e2	ubiquitin-like protein transferase activity		C3888074
+34325	34327	GO:0004842	e2	ubiquitin-protein transferase activity		C3888151
+34325	34327	GO:0061657	e2	UFM1 conjugating enzyme activity		C3889565
+34325	34327	GO:0019789	e2	SUMO conjugating enzyme activity		C3889566
+34325	34327	GO:0019788	e2	NEDD8 conjugating enzyme activity		C3889567
+34325	34327	GO:0061658	e2	URM1 conjugating enzyme activity		C3889568
+34325	34327	GO:0061653	e2	E2	ISG15 conjugating enxyme activity	C3889569
+34325	34327	GO:0061631	e2	ubiquitin conjugating enzyme activity		C1151883
+34325	34327	GO:0061652	e2	FAT10 conjugating enzyme activity		C1151887
+34325	34327	GO:0061651	e2	Atg12 conjugating enzyme activity		C2612339
+34325	34327	GO:0061655	e2	Pup conjugating enzyme activity		C3156549
+34325	34327	GO:0061656	e2	SUMO conjugating enzyme activity		C3889566
+34325	34327	GO:0061654	e2	NEDD8 conjugating enzyme activity		C3889567
+34413	34452	GO:0004842	that expression of a human e2 transgene	ubiquitin conjugating enzyme activity		C1151883
+34413	34452	GO:0061650	that expression of a human e2 transgene	ubiquitin-like protein conjugating enzyme activity		C1151884
+34413	34452	GO:0019775	that expression of a human e2 transgene	FAT10 conjugating enzyme activity		C1151887
+34413	34452	GO:0019777	that expression of a human e2 transgene	Atg12 conjugating enzyme activity		C2612339
+34413	34452	GO:0072496	that expression of a human e2 transgene	Pup conjugating enzyme activity		C3156549
+34413	34452	GO:0019787	that expression of a human e2 transgene	ubiquitin-like protein transferase activity		C3888074
+34413	34452	GO:0004842	that expression of a human e2 transgene	ubiquitin-protein transferase activity		C3888151
+34413	34452	GO:0061657	that expression of a human e2 transgene	UFM1 conjugating enzyme activity		C3889565
+34413	34452	GO:0019789	that expression of a human e2 transgene	SUMO conjugating enzyme activity		C3889566
+34413	34452	GO:0019788	that expression of a human e2 transgene	NEDD8 conjugating enzyme activity		C3889567
+34413	34452	GO:0061658	that expression of a human e2 transgene	URM1 conjugating enzyme activity		C3889568
+34413	34452	GO:0061653	that expression of a human e2 transgene	E2	ISG15 conjugating enxyme activity	C3889569
+34413	34452	GO:0061631	that expression of a human e2 transgene	ubiquitin conjugating enzyme activity		C1151883
+34413	34452	GO:0061652	that expression of a human e2 transgene	FAT10 conjugating enzyme activity		C1151887
+34413	34452	GO:0061651	that expression of a human e2 transgene	Atg12 conjugating enzyme activity		C2612339
+34413	34452	GO:0061655	that expression of a human e2 transgene	Pup conjugating enzyme activity		C3156549
+34413	34452	GO:0061656	that expression of a human e2 transgene	SUMO conjugating enzyme activity		C3889566
+34413	34452	GO:0061654	that expression of a human e2 transgene	NEDD8 conjugating enzyme activity		C3889567
+34651	34665	GO:0003863	BCKDH activity	BCKDH activity		C2256840
+34927	34941	GO:0003863	BCKDH activity	BCKDH activity		C2256840
+35283	35301	GO:0007567	gene switch system	parturition	Birth	C0005615
+35283	35301	GO:0000003	gene switch system	reproduction	Reproduction	C0035150
+35634	35703	GO:0004842	the human e2 expression cassette by the potent tetracycline analogue,	ubiquitin conjugating enzyme activity		C1151883
+35634	35703	GO:0061650	the human e2 expression cassette by the potent tetracycline analogue,	ubiquitin-like protein conjugating enzyme activity		C1151884
+35634	35703	GO:0019775	the human e2 expression cassette by the potent tetracycline analogue,	FAT10 conjugating enzyme activity		C1151887
+35634	35703	GO:0019777	the human e2 expression cassette by the potent tetracycline analogue,	Atg12 conjugating enzyme activity		C2612339
+35634	35703	GO:0072496	the human e2 expression cassette by the potent tetracycline analogue,	Pup conjugating enzyme activity		C3156549
+35634	35703	GO:0019787	the human e2 expression cassette by the potent tetracycline analogue,	ubiquitin-like protein transferase activity		C3888074
+35634	35703	GO:0004842	the human e2 expression cassette by the potent tetracycline analogue,	ubiquitin-protein transferase activity		C3888151
+35634	35703	GO:0061657	the human e2 expression cassette by the potent tetracycline analogue,	UFM1 conjugating enzyme activity		C3889565
+35634	35703	GO:0019789	the human e2 expression cassette by the potent tetracycline analogue,	SUMO conjugating enzyme activity		C3889566
+35634	35703	GO:0019788	the human e2 expression cassette by the potent tetracycline analogue,	NEDD8 conjugating enzyme activity		C3889567
+35634	35703	GO:0061658	the human e2 expression cassette by the potent tetracycline analogue,	URM1 conjugating enzyme activity		C3889568
+35634	35703	GO:0061653	the human e2 expression cassette by the potent tetracycline analogue,	E2	ISG15 conjugating enxyme activity	C3889569
+35634	35703	GO:0061631	the human e2 expression cassette by the potent tetracycline analogue,	ubiquitin conjugating enzyme activity		C1151883
+35634	35703	GO:0061652	the human e2 expression cassette by the potent tetracycline analogue,	FAT10 conjugating enzyme activity		C1151887
+35634	35703	GO:0061651	the human e2 expression cassette by the potent tetracycline analogue,	Atg12 conjugating enzyme activity		C2612339
+35634	35703	GO:0061655	the human e2 expression cassette by the potent tetracycline analogue,	Pup conjugating enzyme activity		C3156549
+35634	35703	GO:0061656	the human e2 expression cassette by the potent tetracycline analogue,	SUMO conjugating enzyme activity		C3889566
+35634	35703	GO:0061654	the human e2 expression cassette by the potent tetracycline analogue,	NEDD8 conjugating enzyme activity		C3889567
+35874	35912	GO:0015074	the integration site of the transgenes	DNA integration	DNA Integration	C1158478
+36248	36260	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+36282	36296	GO:0003863	BCKDH activity	BCKDH activity		C2256840
+36604	36636	GO:0043840	this disease to bcat deficiency.	branched-chain amino acid:2-keto-4-methylthiobutyrate aminotransferase activity		C2248760
+37130	37159	GO:0007567	novel treatments such as gene	parturition	Birth	C0005615
+37130	37159	GO:0000003	novel treatments such as gene	reproduction	Reproduction	C0035150
+37172	37176	GO:0005623	cell	cell	Cells	C0007634
+37223	37243	GO:0009790	embryonic stem cells	embryo development	Embryonic Development	C0013936
+37251	37276	GO:0007567	relevant to gene therapy,	parturition	Birth	C0005615
+37251	37276	GO:0000003	relevant to gene therapy,	reproduction	Reproduction	C0035150
+37277	37310	GO:0007567	recent problems with gene therapy	parturition	Birth	C0005615
+37277	37310	GO:0000003	recent problems with gene therapy	reproduction	Reproduction	C0035150
+37350	37400	GO:0007567	critical need of animal models of genetic diseases	parturition	Birth	C0005615
+37350	37400	GO:0000003	critical need of animal models of genetic diseases	reproduction	Reproduction	C0035150
+37426	37445	GO:0007567	the testing of gene	parturition	Birth	C0005615
+37426	37445	GO:0000003	the testing of gene	reproduction	Reproduction	C0035150
+37450	37454	GO:0005623	cell	cell	Cells	C0007634
+38337	38341	GO:0005623	cell	cell	Cells	C0007634
+38430	38494	GO:0004842	dependent upon the presence of at least one e2 expressing allele	ubiquitin conjugating enzyme activity		C1151883
+38430	38494	GO:0061650	dependent upon the presence of at least one e2 expressing allele	ubiquitin-like protein conjugating enzyme activity		C1151884
+38430	38494	GO:0019775	dependent upon the presence of at least one e2 expressing allele	FAT10 conjugating enzyme activity		C1151887
+38430	38494	GO:0019777	dependent upon the presence of at least one e2 expressing allele	Atg12 conjugating enzyme activity		C2612339
+38430	38494	GO:0072496	dependent upon the presence of at least one e2 expressing allele	Pup conjugating enzyme activity		C3156549
+38430	38494	GO:0019787	dependent upon the presence of at least one e2 expressing allele	ubiquitin-like protein transferase activity		C3888074
+38430	38494	GO:0004842	dependent upon the presence of at least one e2 expressing allele	ubiquitin-protein transferase activity		C3888151
+38430	38494	GO:0061657	dependent upon the presence of at least one e2 expressing allele	UFM1 conjugating enzyme activity		C3889565
+38430	38494	GO:0019789	dependent upon the presence of at least one e2 expressing allele	SUMO conjugating enzyme activity		C3889566
+38430	38494	GO:0019788	dependent upon the presence of at least one e2 expressing allele	NEDD8 conjugating enzyme activity		C3889567
+38430	38494	GO:0061658	dependent upon the presence of at least one e2 expressing allele	URM1 conjugating enzyme activity		C3889568
+38430	38494	GO:0061653	dependent upon the presence of at least one e2 expressing allele	E2	ISG15 conjugating enxyme activity	C3889569
+38430	38494	GO:0061631	dependent upon the presence of at least one e2 expressing allele	ubiquitin conjugating enzyme activity		C1151883
+38430	38494	GO:0061652	dependent upon the presence of at least one e2 expressing allele	FAT10 conjugating enzyme activity		C1151887
+38430	38494	GO:0061651	dependent upon the presence of at least one e2 expressing allele	Atg12 conjugating enzyme activity		C2612339
+38430	38494	GO:0061655	dependent upon the presence of at least one e2 expressing allele	Pup conjugating enzyme activity		C3156549
+38430	38494	GO:0061656	dependent upon the presence of at least one e2 expressing allele	SUMO conjugating enzyme activity		C3889566
+38430	38494	GO:0061654	dependent upon the presence of at least one e2 expressing allele	NEDD8 conjugating enzyme activity		C3889567
+38629	38643	GO:0003863	BCKDH activity	BCKDH activity		C2256840
+38648	38705	GO:1902698	blood amino acid levels at the level of the whole animal.	acidogenesis		C3823112
+38648	38705	GO:1902705	blood amino acid levels at the level of the whole animal.	acidogenesis		C3823112
+38648	38705	GO:1902706	blood amino acid levels at the level of the whole animal.	acidogenesis		C3823112
+38648	38705	GO:1902699	blood amino acid levels at the level of the whole animal.	acidogenesis		C3823112
+39035	39047	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+39035	39080	GO:0000001	transferable to other mitochondrial disorders	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+39150	39161	GO:0032502	development	development	Biologic Development	C0678723
+39327	39339	GO:0009405	pathogenesis	pathogenesis	Pathogenesis	C0699748
+39405	39417	GO:0007567	such as gene	parturition	Birth	C0005615
+39405	39417	GO:0000003	such as gene	reproduction	Reproduction	C0035150
+39422	39426	GO:0005623	cell	cell	Cells	C0007634
+39451	39486	GO:0044237	this devastating metabolic disease.	cellular metabolic process	Metabolic Process, Cellular	C1524026
+39616	39642	GO:1902698	branched chain amino acids	acidogenesis		C3823112
+39616	39642	GO:1902705	branched chain amino acids	acidogenesis		C3823112
+39616	39642	GO:1902706	branched chain amino acids	acidogenesis		C3823112
+39616	39642	GO:1902699	branched chain amino acids	acidogenesis		C3823112
+39670	39677	GO:0043840	; bcat,	branched-chain amino acid:2-keto-4-methylthiobutyrate aminotransferase activity		C2248760
+39714	39718	GO:0005623	cell	cell	Cells	C0007634
+39720	39739	GO:0009790	embryonic stem cell	embryo development	Embryonic Development	C0013936
+39784	39811	GO:0009790	mouse embryonic fibroblast.	embryo development	Embryonic Development	C0013936
+39920	39923	GO:0004806	geh	triglyceride lipase activity		C2262029
+40043	40052	GO:0007610	conducted	behavior	Behavior	C0004927
+40453	40476	GO:0003904	pre-publication history	photoreactivating enzyme activity		C2257086
+40478	40520	GO:0003904	the pre-publication history for this paper	photoreactivating enzyme activity		C2257086
+40708	40750	GO:0004842	susan hutson for the gift of e2 antiserum.	ubiquitin conjugating enzyme activity		C1151883
+40708	40750	GO:0061650	susan hutson for the gift of e2 antiserum.	ubiquitin-like protein conjugating enzyme activity		C1151884
+40708	40750	GO:0019775	susan hutson for the gift of e2 antiserum.	FAT10 conjugating enzyme activity		C1151887
+40708	40750	GO:0019777	susan hutson for the gift of e2 antiserum.	Atg12 conjugating enzyme activity		C2612339
+40708	40750	GO:0072496	susan hutson for the gift of e2 antiserum.	Pup conjugating enzyme activity		C3156549
+40708	40750	GO:0019787	susan hutson for the gift of e2 antiserum.	ubiquitin-like protein transferase activity		C3888074
+40708	40750	GO:0004842	susan hutson for the gift of e2 antiserum.	ubiquitin-protein transferase activity		C3888151
+40708	40750	GO:0061657	susan hutson for the gift of e2 antiserum.	UFM1 conjugating enzyme activity		C3889565
+40708	40750	GO:0019789	susan hutson for the gift of e2 antiserum.	SUMO conjugating enzyme activity		C3889566
+40708	40750	GO:0019788	susan hutson for the gift of e2 antiserum.	NEDD8 conjugating enzyme activity		C3889567
+40708	40750	GO:0061658	susan hutson for the gift of e2 antiserum.	URM1 conjugating enzyme activity		C3889568
+40708	40750	GO:0061653	susan hutson for the gift of e2 antiserum.	E2	ISG15 conjugating enxyme activity	C3889569
+40708	40750	GO:0061631	susan hutson for the gift of e2 antiserum.	ubiquitin conjugating enzyme activity		C1151883
+40708	40750	GO:0061652	susan hutson for the gift of e2 antiserum.	FAT10 conjugating enzyme activity		C1151887
+40708	40750	GO:0061651	susan hutson for the gift of e2 antiserum.	Atg12 conjugating enzyme activity		C2612339
+40708	40750	GO:0061655	susan hutson for the gift of e2 antiserum.	Pup conjugating enzyme activity		C3156549
+40708	40750	GO:0061656	susan hutson for the gift of e2 antiserum.	SUMO conjugating enzyme activity		C3889566
+40708	40750	GO:0061654	susan hutson for the gift of e2 antiserum.	NEDD8 conjugating enzyme activity		C3889567
+40864	40894	GO:0044237	foster metabolic disease fund,	cellular metabolic process	Metabolic Process, Cellular	C1524026

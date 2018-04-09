@@ -1,0 +1,562 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+0	28	GO:0007567	the zebrafish moonshine gene	parturition	Birth	C0005615
+0	28	GO:0000003	the zebrafish moonshine gene	reproduction	Reproduction	C0035150
+37	80	GO:0000988	transcriptional intermediary factor 1gamma,	transcription factor activity		C1148759
+37	80	GO:0001070	transcriptional intermediary factor 1gamma,	transcription factor activity		C1148759
+37	80	GO:0001071	transcriptional intermediary factor 1gamma,	transcription factor activity		C1148759
+37	80	GO:0003700	transcriptional intermediary factor 1gamma,	transcription factor activity		C1148759
+107	120	GO:0030097	hematopoiesis	hematopoiesis	Hematopoiesis	C0018951
+132	145	GO:0030097	hematopoiesis	hematopoiesis	Hematopoiesis	C0018951
+159	212	GO:0003677	orchestrated by lineage-specific dna-binding proteins	DNA binding	dna binding	C1148673
+227	240	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+288	335	GO:0007567	mutations in the zebrafish moonshine (mon) gene	parturition	Birth	C0005615
+288	335	GO:0000003	mutations in the zebrafish moonshine (mon) gene	reproduction	Reproduction	C0035150
+357	371	GO:0009790	both embryonic	embryo development	Embryonic Development	C0013936
+382	395	GO:0030097	hematopoiesis	hematopoiesis	Hematopoiesis	C0018951
+427	431	GO:0005623	cell	cell	Cells	C0007634
+504	517	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+641	652	GO:0032502	development	development	Biologic Development	C0678723
+654	699	GO:0030097	hematopoietic progenitor cells in mon mutants	hematopoiesis	Hematopoiesis	C0018951
+716	769	GO:0030097	normal levels of hematopoietic transcription factors,	hematopoiesis	Hematopoiesis	C0018951
+799	808	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+799	808	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+940	990	GO:0035162	embryonic hematopoiesis in homozygous mon mutants.	embryonic hemopoiesis		C1523613
+1066	1113	GO:0030097	ventral mesoderm during hematopoietic stem cell	hematopoiesis	Hematopoiesis	C0018951
+1118	1165	GO:0009058	progenitor formation prior to gata1 expression.	anabolism	Anabolism	C0220781
+1227	1231	GO:0005623	cell	cell	Cells	C0007634
+1250	1301	GO:0030154	during the differentiation of erythroid precursors.	cell differentiation	Cell Differentiation process	C0007589
+1330	1334	GO:0005623	cell	cell	Cells	C0007634
+1458	1473	GO:0048469	cell maturation	cell maturation	Cell Maturation	C1516349
+1519	1532	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+1555	1600	GO:0030097	in the differentiation of hematopoietic cells	hematopoiesis	Hematopoiesis	C0018951
+1632	1645	GO:0030097	hematopoiesis	hematopoiesis	Hematopoiesis	C0018951
+1684	1702	GO:0008283	cell proliferation	cell proliferation	Cell Proliferation	C0596290
+1707	1771	GO:0048863	differentiation of a relatively small number of progenitor cells	stem cell differentiation	Stem Cell Differentiation	C1514964
+1821	1825	GO:0005623	cell	cell	Cells	C0007634
+1850	1863	GO:0030097	hematopoiesis	hematopoiesis	Hematopoiesis	C0018951
+1991	1995	GO:0005623	cell	cell	Cells	C0007634
+2009	2040	GO:0009790	both in their embryonic origins	embryo development	Embryonic Development	C0013936
+2041	2090	GO:0030154	and in the lineages of differentiated blood cells	cell differentiation	Cell Differentiation process	C0007589
+2181	2213	GO:0060215	primitive, wave of hematopoiesis	primitive hemopoiesis		C2262992
+2276	2280	GO:0005623	cell	cell	Cells	C0007634
+2287	2328	GO:0009790	differentiate in embryonic blood islands.	embryo development	Embryonic Development	C0013936
+2329	2364	GO:0060215	the primitive wave of hematopoiesis	primitive hemopoiesis		C2262992
+2374	2407	GO:0009790	a burst of embryonic erythrocytes	embryo development	Embryonic Development	C0013936
+2440	2473	GO:0060216	definitive, wave of hematopoiesis	definitive hemopoiesis		C2262993
+2505	2509	GO:0005623	cell	cell	Cells	C0007634
+2588	2629	GO:0060216	these definitive hematopoietic stem cells	definitive hemopoiesis		C2262993
+2710	2714	GO:0005623	cell	cell	Cells	C0007634
+2760	2764	GO:0005623	cell	cell	Cells	C0007634
+2804	2822	GO:0007567	a genetic approach	parturition	Birth	C0005615
+2804	2822	GO:0000003	a genetic approach	reproduction	Reproduction	C0035150
+2839	2844	GO:0007567	genes	parturition	Birth	C0005615
+2839	2844	GO:0000003	genes	reproduction	Reproduction	C0035150
+2858	2871	GO:0030097	hematopoiesis	hematopoiesis	Hematopoiesis	C0018951
+2966	2981	GO:0007567	genetic screen,	parturition	Birth	C0005615
+2966	2981	GO:0000003	genetic screen,	reproduction	Reproduction	C0035150
+3058	3145	GO:0000988	the erythroid transcription factor gata1 normally in embryonic hematopoietic precursors	transcription factor activity		C1148759
+3058	3145	GO:0001070	the erythroid transcription factor gata1 normally in embryonic hematopoietic precursors	transcription factor activity		C1148759
+3058	3145	GO:0001071	the erythroid transcription factor gata1 normally in embryonic hematopoietic precursors	transcription factor activity		C1148759
+3058	3145	GO:0003700	the erythroid transcription factor gata1 normally in embryonic hematopoietic precursors	transcription factor activity		C1148759
+3177	3222	GO:0007567	one of these zebrafish genes moonshine (mon),	parturition	Birth	C0005615
+3177	3222	GO:0000003	one of these zebrafish genes moonshine (mon),	reproduction	Reproduction	C0035150
+3332	3362	GO:0007567	that mutations in the mon gene	parturition	Birth	C0005615
+3332	3362	GO:0000003	that mutations in the mon gene	reproduction	Reproduction	C0035150
+3369	3409	GO:0009790	a disruption in both primitive embryonic	embryo development	Embryonic Development	C0013936
+3414	3445	GO:0060216	definitive adult hematopoiesis,	definitive hemopoiesis		C2262993
+3486	3490	GO:0005623	cell	cell	Cells	C0007634
+3514	3518	GO:0005623	cell	cell	Cells	C0007634
+3578	3630	GO:0030097	normal levels of hematopoietic transcription factors	hematopoiesis	Hematopoiesis	C0018951
+3643	3652	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+3643	3652	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+3737	3750	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+3824	3837	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+4330	4350	GO:0006338	chromatin remodeling	chromatin remodeling		C1156210
+4388	4454	GO:0005488	associate with a variety of ligand-bound nuclear hormone receptors	binding	Binding 	C1167622
+4510	4537	GO:1902698	for retinoic acid receptors	acidogenesis		C3823112
+4510	4537	GO:1902705	for retinoic acid receptors	acidogenesis		C3823112
+4510	4537	GO:1902706	for retinoic acid receptors	acidogenesis		C3823112
+4510	4537	GO:1902699	for retinoic acid receptors	acidogenesis		C3823112
+4679	4692	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+4847	4858	GO:0005488	bind to the	binding	Binding 	C1167622
+5111	5126	GO:0007567	tif1gamma genes	parturition	Birth	C0005615
+5111	5126	GO:0000003	tif1gamma genes	reproduction	Reproduction	C0035150
+5145	5185	GO:0007567	subjected to gene targeting experiments,	parturition	Birth	C0005615
+5145	5185	GO:0000003	subjected to gene targeting experiments,	reproduction	Reproduction	C0035150
+5250	5293	GO:0009790	required for postimplantation embryogenesis	embryo development	Embryonic Development	C0013936
+5447	5491	GO:0003677	dna-binding proteins with other coactivators	DNA binding	dna binding	C1148673
+5515	5526	GO:0032502	development	development	Biologic Development	C0678723
+5566	5614	GO:0009790	functions as an essential regulator of embryonic	embryo development	Embryonic Development	C0013936
+5625	5638	GO:0030097	hematopoiesis	hematopoiesis	Hematopoiesis	C0018951
+5655	5659	GO:0005623	cell	cell	Cells	C0007634
+5721	5725	GO:0005623	cell	cell	Cells	C0007634
+5744	5775	GO:0035162	during embryonic hematopoiesis.	embryonic hemopoiesis		C1523613
+5776	5794	GO:0007567	the tif1gamma gene	parturition	Birth	C0005615
+5776	5794	GO:0000003	the tif1gamma gene	reproduction	Reproduction	C0035150
+5845	5871	GO:0030097	hematopoietic progenitors,	hematopoiesis	Hematopoiesis	C0018951
+5877	5914	GO:0032502	downregulated as erythroid maturation	development	Biologic Development	C0678723
+5941	5985	GO:1990251	localizes to a novel class of nuclear bodies	nuclear body	Intranuclear body	C0230595
+5941	5985	GO:0033620	localizes to a novel class of nuclear bodies	nuclear body	Intranuclear body	C0230595
+5941	5985	GO:0016604	localizes to a novel class of nuclear bodies	nuclear body	Intranuclear body	C0230595
+5986	6026	GO:0009790	in both primary mouse embryo fibroblasts	embryo development	Embryonic Development	C0013936
+6047	6051	GO:0005623	cell	cell	Cells	C0007634
+6147	6163	GO:0048468	cell development	cell development	Cell development	C0815089
+6188	6210	GO:0007567	the zebrafish mon gene	parturition	Birth	C0005615
+6188	6210	GO:0000003	the zebrafish mon gene	reproduction	Reproduction	C0035150
+6247	6272	GO:0060318	definitive erythropoiesis	definitive erythrocyte differentiation		C2610444
+6301	6313	GO:0007567	the mon gene	parturition	Birth	C0005615
+6301	6313	GO:0000003	the mon gene	reproduction	Reproduction	C0035150
+6329	6340	GO:0032502	development	development	Biologic Development	C0678723
+6360	6389	GO:0030097	hematopoietic gene expression	hematopoiesis	Hematopoiesis	C0018951
+6394	6403	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+6394	6403	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+6448	6469	GO:0009790	during embryogenesis,	embryo development	Embryonic Development	C0013936
+6521	6525	GO:0005623	cell	cell	Cells	C0007634
+6534	6556	GO:0008015	visible in circulation	blood circulation	Blood Circulation	C0005775
+6647	6699	GO:0030097	in hematopoietic cells around the five-somite stage,	hematopoiesis	Hematopoiesis	C0018951
+6700	6728	GO:0009790	similar to wild-type embryos	embryo development	Embryonic Development	C0013936
+6811	6815	GO:0005623	cell	cell	Cells	C0007634
+6825	6871	GO:0097194	programmed cell death from the 12-somite stage	apoptosis	Apoptosis	C0162638
+6825	6871	GO:0006915	programmed cell death from the 12-somite stage	apoptosis	Apoptosis	C0162638
+7004	7049	GO:0030097	hematopoietic-specific markers such as gata1,	hematopoiesis	Hematopoiesis	C0018951
+7081	7119	GO:0009790	detected in the embryonic blood island	embryo development	Embryonic Development	C0013936
+7158	7181	GO:0030097	the hematopoietic cells	hematopoiesis	Hematopoiesis	C0018951
+7211	7262	GO:0009790	early during the development of mon mutant embryos,	embryo development	Embryonic Development	C0013936
+7292	7302	GO:0008219	cell death	cell death	Cell Death	C0007587
+7399	7420	GO:0001945	lymphoid development,	lymph vessel development		C1622375
+7435	7469	GO:0005623	in addition to the deficit of rbcs	cell	Cells	C0007634
+7609	7649	GO:0097152	extensive apoptosis of mesenchymal cells	mesenchymal cell apoptotic process		C3269099
+7650	7662	GO:0043198	in the trunk	dendritic shaft		C1523842
+7712	7724	GO:0007567	the mon gene	parturition	Birth	C0005615
+7712	7724	GO:0000003	the mon gene	reproduction	Reproduction	C0035150
+7753	7764	GO:0032502	development	development	Biologic Development	C0678723
+7817	7821	GO:0005623	cell	cell	Cells	C0007634
+7827	7855	GO:0031254	posterior mesenchymal cells.	cell trailing edge		C1621432
+7874	7956	GO:0060216	definitive hematopoiesis in rare surviving homozygous adult zebrafish mon mutants.	definitive hemopoiesis		C2262993
+8012	8023	GO:0032502	development	development	Biologic Development	C0678723
+8083	8124	GO:0009790	(approximately 1 in 500 bloodless embryos	embryo development	Embryonic Development	C0013936
+8335	8348	GO:0030097	hematopoiesis	hematopoiesis	Hematopoiesis	C0018951
+8430	8486	GO:0030099	myeloid populations at various stages of differentiation	myeloid cell differentiation	Myeloid Cell Differentiation	C1622499
+8546	8574	GO:0032502	a severe block in maturation	development	Biologic Development	C0678723
+8624	8660	GO:0030099	the differentiation of myeloid cells	myeloid cell differentiation	Myeloid Cell Differentiation	C1622499
+8714	8734	GO:0007567	the mon gene product	parturition	Birth	C0005615
+8714	8734	GO:0000003	the mon gene product	reproduction	Reproduction	C0035150
+8766	8792	GO:0060318	definitive erythropoiesis.	definitive erythrocyte differentiation		C2610444
+8892	8926	GO:0007567	the mon gene by positional cloning	parturition	Birth	C0005615
+8892	8926	GO:0000003	the mon gene by positional cloning	reproduction	Reproduction	C0035150
+9062	9081	GO:0007567	the mon mutant gene	parturition	Birth	C0005615
+9062	9081	GO:0000003	the mon mutant gene	reproduction	Reproduction	C0035150
+9100	9110	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+9433	9453	GO:0007567	0.3 cm from the gene	parturition	Birth	C0005615
+9433	9453	GO:0000003	0.3 cm from the gene	reproduction	Reproduction	C0035150
+9474	9527	GO:0005694	utilized as the starting point of a chromosomal walk.	chromosome	Chromosomes	C0008633
+9563	9573	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+9621	9642	GO:0007567	the genetic interval.	parturition	Birth	C0005615
+9621	9642	GO:0000003	the genetic interval.	reproduction	Reproduction	C0035150
+9734	9764	GO:0007567	the critical genetic interval.	parturition	Birth	C0005615
+9734	9764	GO:0000003	the critical genetic interval.	reproduction	Reproduction	C0035150
+9790	9827	GO:0051321	two recombinants out of 4,400 meioses	meiotic cell cycle		C1657605
+9828	9854	GO:0005696	telomeric of the mutation,	telomere		C0085187
+9828	9854	GO:0000781	telomeric of the mutation,	telomere		C0085187
+10098	10137	GO:0007567	a predicted zebrafish tif1 family gene.	parturition	Birth	C0005615
+10098	10137	GO:0000003	a predicted zebrafish tif1 family gene.	reproduction	Reproduction	C0035150
+10247	10261	GO:0007567	the same gene.	parturition	Birth	C0005615
+10247	10261	GO:0000003	the same gene.	reproduction	Reproduction	C0035150
+10263	10275	GO:0007567	the mon gene	parturition	Birth	C0005615
+10263	10275	GO:0000003	the mon gene	reproduction	Reproduction	C0035150
+10315	10328	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+10570	10581	GO:0007567	human genes	parturition	Birth	C0005615
+10570	10581	GO:0000003	human genes	reproduction	Reproduction	C0035150
+10629	10639	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+10666	10711	GO:0098687	syntenic to the region of human chromosome 1p	chromosome region	Region of chromosome	C1953345
+10726	10744	GO:0007567	the tif1gamma gene	parturition	Birth	C0005615
+10726	10744	GO:0000003	the tif1gamma gene	reproduction	Reproduction	C0035150
+10784	10813	GO:0007567	other orthologous gene pairs,	parturition	Birth	C0005615
+10784	10813	GO:0000003	other orthologous gene pairs,	reproduction	Reproduction	C0035150
+10945	10966	GO:0005694	chromosomal location,	chromosome	Chromosomes	C0008633
+10967	10989	GO:0007567	the zebrafish mon gene	parturition	Birth	C0005615
+10967	10989	GO:0000003	the zebrafish mon gene	reproduction	Reproduction	C0035150
+10993	11041	GO:0007567	the likely ortholog of the human tif1gamma gene.	parturition	Birth	C0005615
+10993	11041	GO:0000003	the likely ortholog of the human tif1gamma gene.	reproduction	Reproduction	C0035150
+11287	11291	GO:0005623	cell	cell	Cells	C0007634
+11355	11359	GO:0005623	cell	cell	Cells	C0007634
+11372	11449	GO:0008015	in comparison to the approximately 3,000 rbcs in the circulation of wild-type	blood circulation	Blood Circulation	C0005775
+11453	11497	GO:0009790	heterozygous embryos at the same time point.	embryo development	Embryonic Development	C0013936
+11596	11638	GO:1902698	a putative protein of only 40 amino acids.	acidogenesis		C3823112
+11596	11638	GO:1902705	a putative protein of only 40 amino acids.	acidogenesis		C3823112
+11596	11638	GO:1902706	a putative protein of only 40 amino acids.	acidogenesis		C3823112
+11596	11638	GO:1902699	a putative protein of only 40 amino acids.	acidogenesis		C3823112
+11683	11727	GO:0007567	lead to a complete loss of mon gene product,	parturition	Birth	C0005615
+11683	11727	GO:0000003	lead to a complete loss of mon gene product,	reproduction	Reproduction	C0035150
+11756	11794	GO:1902698	downstream at amino acid position 104.	acidogenesis		C3823112
+11756	11794	GO:1902705	downstream at amino acid position 104.	acidogenesis		C3823112
+11756	11794	GO:1902706	downstream at amino acid position 104.	acidogenesis		C3823112
+11756	11794	GO:1902699	downstream at amino acid position 104.	acidogenesis		C3823112
+11795	11851	GO:0006412	in vitro translation experiments in reticulocyte lysates	protein biosynthesis	Protein Biosynthesis	C0597295
+11864	11891	GO:0002188	reinitiation of translation	translation reinitiation		C3268334
+12236	12272	GO:0030097	expressed in hematopoietic mesoderm,	hematopoiesis	Hematopoiesis	C0018951
+12273	12344	GO:0009790	we next examined zebrafish embryos by whole-mount in situ hybridization	embryo development	Embryonic Development	C0013936
+12404	12431	GO:0009790	found throughout the embryo	embryo development	Embryonic Development	C0013936
+12463	12475	GO:0007369	gastrulation	gastrulation	Gastrulation	C0259902
+12480	12487	GO:0090504	epiboly	epiboly		C3548582
+12760	12812	GO:0006351	stem cell leukemiahematopoietic transcription factor	cellular transcription		C2755756
+12853	12857	GO:0005623	cell	cell	Cells	C0007634
+12927	12953	GO:0009790	the embryonic blood island	embryo development	Embryonic Development	C0013936
+12977	12995	GO:0007567	the tif1gamma gene	parturition	Birth	C0005615
+12977	12995	GO:0000003	the tif1gamma gene	reproduction	Reproduction	C0035150
+13062	13089	GO:0043198	the mesenchyme of the trunk	dendritic shaft		C1523842
+13191	13239	GO:0000184	consistent with nonsense-mediated message decay.	nonsense-mediated mRNA decay	Nonsense Mediated mRNA Decay	C1158013
+13349	13380	GO:0009790	and during the embryonic stages	embryo development	Embryonic Development	C0013936
+13386	13411	GO:0030097	hematopoietic progenitors	hematopoiesis	Hematopoiesis	C0018951
+13427	13436	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+13427	13436	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+13611	13615	GO:0060417	yolk	yolk		C2610566
+13870	13883	GO:0030097	hematopoiesis	hematopoiesis	Hematopoiesis	C0018951
+14173	14214	GO:0009790	a tif1-related cdna from embryonic 10-hpf	embryo development	Embryonic Development	C0013936
+14299	14338	GO:1902698	based on predicted amino acid sequences	acidogenesis		C3823112
+14299	14338	GO:1902705	based on predicted amino acid sequences	acidogenesis		C3823112
+14299	14338	GO:1902706	based on predicted amino acid sequences	acidogenesis		C3823112
+14299	14338	GO:1902699	based on predicted amino acid sequences	acidogenesis		C3823112
+14340	14343	GO:0007601	see	vision	Vision	C0042789
+14433	14477	GO:0098687	syntenic to the region of human chromosome 7	chromosome region	Region of chromosome	C1953345
+14492	14510	GO:0007567	the tif1alpha gene	parturition	Birth	C0005615
+14492	14510	GO:0000003	the tif1alpha gene	reproduction	Reproduction	C0035150
+14553	14582	GO:0007567	other orthologous gene pairs,	parturition	Birth	C0005615
+14553	14582	GO:0000003	other orthologous gene pairs,	reproduction	Reproduction	C0035150
+14689	14739	GO:0009790	the embryonic expression pattern of tif1alpha mrna	embryo development	Embryonic Development	C0013936
+14857	14895	GO:0007567	the predicted zebrafish tif1gamma gene	parturition	Birth	C0005615
+14857	14895	GO:0000003	the predicted zebrafish tif1gamma gene	reproduction	Reproduction	C0035150
+14918	14921	GO:0007601	see	vision	Vision	C0042789
+14988	15075	GO:0030097	the relatively high expression in the horseshoe-shaped region of hematopoietic mesoderm	hematopoiesis	Hematopoiesis	C0018951
+15076	15096	GO:0007601	seen with tif1gamma.	vision	Vision	C0042789
+15134	15174	GO:0009790	expressed throughout most of the embryo,	embryo development	Embryonic Development	C0013936
+15263	15267	GO:0005623	cell	cell	Cells	C0007634
+15389	15402	GO:0030097	hematopoiesis	hematopoiesis	Hematopoiesis	C0018951
+15443	15485	GO:0007567	a mutation in the zebrafish tif1gamma gene	parturition	Birth	C0005615
+15443	15485	GO:0000003	a mutation in the zebrafish tif1gamma gene	reproduction	Reproduction	C0035150
+15543	15568	GO:0009790	embryo rescue experiments	embryo development	Embryonic Development	C0013936
+15649	15653	GO:0005623	cell	cell	Cells	C0007634
+15668	15707	GO:0009058	the formation of embryonic erythrocytes	anabolism	Anabolism	C0220781
+15708	15767	GO:0009790	in genotyped mutant embryos without causing obvious defects	embryo development	Embryonic Development	C0013936
+15768	15791	GO:0009790	in embryonic patterning	embryo development	Embryonic Development	C0013936
+15795	15808	GO:0048513	organogenesis	organogenesis	Organogenesis	C0242290
+15820	15831	GO:0032502	development	development	Biologic Development	C0678723
+15901	15905	GO:0005623	cell	cell	Cells	C0007634
+15954	15958	GO:0005623	cell	cell	Cells	C0007634
+16149	16153	GO:0005623	cell	cell	Cells	C0007634
+16276	16280	GO:0005623	cell	cell	Cells	C0007634
+16289	16309	GO:0009790	in wild-type embryos	embryo development	Embryonic Development	C0013936
+16430	16471	GO:0009790	ectopic blood populations in the embryos,	embryo development	Embryonic Development	C0013936
+16560	16573	GO:0030097	hematopoiesis	hematopoiesis	Hematopoiesis	C0018951
+16607	16621	GO:0030218	erythropoiesis	erythropoiesis	Erythropoiesis	C0014819
+16691	16695	GO:0005623	cell	cell	Cells	C0007634
+16728	16732	GO:0005623	cell	cell	Cells	C0007634
+16773	16796	GO:0030097	in hematopoietic cells.	hematopoiesis	Hematopoiesis	C0018951
+16887	16891	GO:0005623	cell	cell	Cells	C0007634
+16910	16982	GO:0009790	green fluorescent protein (gfp) transgene into 48-hpf mon mutant embryos	embryo development	Embryonic Development	C0013936
+17138	17142	GO:0005623	cell	cell	Cells	C0007634
+17164	17193	GO:0009790	untransplanted mutant embryos	embryo development	Embryonic Development	C0013936
+17199	17239	GO:0009790	no embryonic blood cells in circulation.	embryo development	Embryonic Development	C0013936
+17267	17286	GO:0018995	mutant host embryos	host organism	Host 	C1167395
+17317	17338	GO:0009790	of 191 mutant embryos	embryo development	Embryonic Development	C0013936
+17371	17375	GO:0005623	cell	cell	Cells	C0007634
+17460	17464	GO:0005623	cell	cell	Cells	C0007634
+17558	17562	GO:0005623	cell	cell	Cells	C0007634
+17651	17655	GO:0005623	cell	cell	Cells	C0007634
+17677	17681	GO:0005623	cell	cell	Cells	C0007634
+17720	17746	GO:0009790	these transplanted embryos	embryo development	Embryonic Development	C0013936
+17774	17778	GO:0005623	cell	cell	Cells	C0007634
+17827	17831	GO:0005623	cell	cell	Cells	C0007634
+17833	17851	GO:0009790	in normal embryos.	embryo development	Embryonic Development	C0013936
+17891	17895	GO:0005623	cell	cell	Cells	C0007634
+17932	17951	GO:0036268	their swim bladders	swimming	Swimming	C0039003
+18172	18176	GO:0005623	cell	cell	Cells	C0007634
+18270	18274	GO:0005623	cell	cell	Cells	C0007634
+18324	18328	GO:0005623	cell	cell	Cells	C0007634
+18407	18431	GO:0043198	such as trunk mesenchyme	dendritic shaft		C1523842
+18463	18492	GO:0009790	required for embryo survival.	embryo development	Embryonic Development	C0013936
+18692	18738	GO:1902698	directed against the c-terminal 15 amino acids	acidogenesis		C3823112
+18692	18738	GO:1902705	directed against the c-terminal 15 amino acids	acidogenesis		C3823112
+18692	18738	GO:1902706	directed against the c-terminal 15 amino acids	acidogenesis		C3823112
+18692	18738	GO:1902699	directed against the c-terminal 15 amino acids	acidogenesis		C3823112
+18789	18841	GO:0009790	immunofluorescence of mouse embryo fibroblast nuclei	embryo development	Embryonic Development	C0013936
+18952	18989	GO:0008104	the localization of tif1gamma protein	protein localization	protein localization location	C0597704
+18952	18989	GO:0006886	the localization of tif1gamma protein	intracellular protein transport		C1159772
+19057	19085	GO:0007601	seen in studies of tif1alpha	vision	Vision	C0042789
+19205	19220	GO:0000792	heterochromatin	heterochromatin	Heterochromatin	C0019397
+19237	19266	GO:1902698	after retinoic acid treatment	acidogenesis		C3823112
+19237	19266	GO:1902705	after retinoic acid treatment	acidogenesis		C3823112
+19237	19266	GO:1902706	after retinoic acid treatment	acidogenesis		C3823112
+19237	19266	GO:1902699	after retinoic acid treatment	acidogenesis		C3823112
+19315	19327	GO:0051179	localization	establishment and maintenance of localization		C1744691
+19396	19417	GO:0032502	developmental process	developmental process	Developmental process	C1511806
+19524	19539	GO:0000792	heterochromatin	heterochromatin	Heterochromatin	C0019397
+19628	19679	GO:0007567	colocalize with promyelocytic leukemia gene product	parturition	Birth	C0005615
+19628	19679	GO:0000003	colocalize with promyelocytic leukemia gene product	reproduction	Reproduction	C0035150
+19686	19701	GO:1990251	nuclear bodies,	nuclear body	Intranuclear body	C0230595
+19686	19701	GO:0033620	nuclear bodies,	nuclear body	Intranuclear body	C0230595
+19686	19701	GO:0016604	nuclear bodies,	nuclear body	Intranuclear body	C0230595
+19702	19720	GO:1990391	DNA repair complex	DNA repair complex		C3896148
+19746	19759	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+19863	19903	GO:0030154	during the differentiation of g1e cells,	cell differentiation	Cell Differentiation process	C0007589
+19929	19933	GO:0005623	cell	cell	Cells	C0007634
+20004	20036	GO:0060209	estrogen receptor fusion protein	estrus	Estrus	C0014948
+20063	20083	GO:0060209	to estrogen exposure	estrus	Estrus	C0014948
+20174	20223	GO:0048468	decreases with terminal erythroid differentiation	terminal differentiation		C2752630
+20311	20380	GO:0048468	falls during the terminal maturation of the primitive erythroid cells	cell development	Cell development	C0815089
+20441	20445	GO:0005623	cell	cell	Cells	C0007634
+20576	20606	GO:0051179	this nuclear foci localization	establishment and maintenance of localization		C1744691
+20616	20643	GO:0030154	change with differentiation	cell differentiation	Cell Differentiation process	C0007589
+20760	20793	GO:0030154	during erythroid differentiation.	cell differentiation	Cell Differentiation process	C0007589
+20899	20914	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+21015	21030	GO:0007567	genetic screen,	parturition	Birth	C0005615
+21015	21030	GO:0000003	genetic screen,	reproduction	Reproduction	C0035150
+21110	21131	GO:0007567	in the zebrafish gene	parturition	Birth	C0005615
+21110	21131	GO:0000003	in the zebrafish gene	reproduction	Reproduction	C0035150
+21218	21231	GO:0007567	the mon gene,	parturition	Birth	C0005615
+21218	21231	GO:0000003	the mon gene,	reproduction	Reproduction	C0035150
+21267	21280	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+21315	21348	GO:0030097	during hematopoietic development.	hematopoiesis	Hematopoiesis	C0018951
+21350	21362	GO:0007567	the mon gene	parturition	Birth	C0005615
+21350	21362	GO:0000003	the mon gene	reproduction	Reproduction	C0035150
+21495	21528	GO:0007567	the zebrafish mon gene correctly,	parturition	Birth	C0005615
+21495	21528	GO:0000003	the zebrafish mon gene correctly,	reproduction	Reproduction	C0035150
+21589	21629	GO:0007567	present in the critical genetic interval	parturition	Birth	C0005615
+21589	21629	GO:0000003	present in the critical genetic interval	reproduction	Reproduction	C0035150
+21711	21714	GO:0007601	see	vision	Vision	C0042789
+21782	21827	GO:1902698	most similar in predicted amino acid sequence	acidogenesis		C3823112
+21782	21827	GO:1902705	most similar in predicted amino acid sequence	acidogenesis		C3823112
+21782	21827	GO:1902706	most similar in predicted amino acid sequence	acidogenesis		C3823112
+21782	21827	GO:1902699	most similar in predicted amino acid sequence	acidogenesis		C3823112
+21902	21914	GO:0007567	mouse genes.	parturition	Birth	C0005615
+21902	21914	GO:0000003	mouse genes.	reproduction	Reproduction	C0035150
+21938	21983	GO:0098687	located in a region of zebrafish chromosome 8	chromosome region	Region of chromosome	C1953345
+21984	22050	GO:0098687	syntenic to the region of human chromosome 1 containing tif1gamma.	chromosome region	Region of chromosome	C1953345
+22176	22186	GO:0006402	mRNA decay	mRNA decay	mRNA Decay	C1257758
+22231	22263	GO:0030097	expressed in hematopoietic cells	hematopoiesis	Hematopoiesis	C0018951
+22264	22306	GO:0009790	throughout embryogenesis in both zebrafish	embryo development	Embryonic Development	C0013936
+22318	22321	GO:0007601	see	vision	Vision	C0042789
+22417	22430	GO:0030097	hematopoiesis	hematopoiesis	Hematopoiesis	C0018951
+22467	22501	GO:0035162	hematopoiesis in wild-type embryos	embryonic hemopoiesis		C1523613
+22503	22506	GO:0007601	see	vision	Vision	C0042789
+22609	22639	GO:0009790	expressed in zebrafish embryos	embryo development	Embryonic Development	C0013936
+22718	22721	GO:0007601	see	vision	Vision	C0042789
+22820	22854	GO:0030097	in developing hematopoietic cells.	hematopoiesis	Hematopoiesis	C0018951
+22889	22935	GO:1902698	mammalian tif1-predicted amino acid sequences,	acidogenesis		C3823112
+22889	22935	GO:1902705	mammalian tif1-predicted amino acid sequences,	acidogenesis		C3823112
+22889	22935	GO:1902706	mammalian tif1-predicted amino acid sequences,	acidogenesis		C3823112
+22889	22935	GO:1902699	mammalian tif1-predicted amino acid sequences,	acidogenesis		C3823112
+23211	23253	GO:0000988	like the krab domain transcription factors	transcription factor activity		C1148759
+23211	23253	GO:0001070	like the krab domain transcription factors	transcription factor activity		C1148759
+23211	23253	GO:0001071	like the krab domain transcription factors	transcription factor activity		C1148759
+23211	23253	GO:0003700	like the krab domain transcription factors	transcription factor activity		C1148759
+23257	23262	GO:0005488	binds	binding	Binding 	C1167622
+23597	23610	GO:0030097	hematopoiesis	hematopoiesis	Hematopoiesis	C0018951
+23642	23651	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+23642	23651	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+23678	23727	GO:0030097	our examination of hematopoietic gene expression,	hematopoiesis	Hematopoiesis	C0018951
+23728	23737	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+23728	23737	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+23915	23936	GO:0097194	programmed cell death	apoptosis	Apoptosis	C0162638
+23915	23936	GO:0006915	programmed cell death	apoptosis	Apoptosis	C0162638
+23938	23941	GO:0007601	see	vision	Vision	C0042789
+24033	24037	GO:0005623	cell	cell	Cells	C0007634
+24068	24072	GO:0005623	cell	cell	Cells	C0007634
+24135	24165	GO:0097194	tunel-positive apoptotic cells	apoptosis	Apoptosis	C0162638
+24135	24165	GO:0006915	tunel-positive apoptotic cells	apoptosis	Apoptosis	C0162638
+24170	24217	GO:0061053	abundant by the 12-somite stage of development,	somite development		C2753274
+24232	24265	GO:0030097	all hematopoietic gene expression	hematopoiesis	Hematopoiesis	C0018951
+24283	24314	GO:0010467	the expression of marker genes,	gene expression	Gene Expression	C0017262
+24340	24382	GO:0030097	characteristic of hematopoietic stem cells	hematopoiesis	Hematopoiesis	C0018951
+24387	24423	GO:0060215	primitive hematopoietic progenitors,	primitive hemopoiesis		C2262992
+24437	24487	GO:0009790	detected in the embryonic blood islands of mutants	embryo development	Embryonic Development	C0013936
+24519	24549	GO:0030097	the mutant hematopoietic cells	hematopoiesis	Hematopoiesis	C0018951
+24654	24658	GO:0005623	cell	cell	Cells	C0007634
+24672	24681	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+24672	24681	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+24720	24724	GO:0005623	cell	cell	Cells	C0007634
+24779	24793	GO:0030218	erythropoiesis	erythropoiesis	Erythropoiesis	C0014819
+24916	24952	GO:0060216	required in definitive hematopoiesis	definitive hemopoiesis		C2262993
+24954	24957	GO:0007601	see	vision	Vision	C0042789
+25130	25143	GO:0030097	hematopoiesis	hematopoiesis	Hematopoiesis	C0018951
+25164	25177	GO:0048513	organogenesis	organogenesis	Organogenesis	C0242290
+25533	25547	GO:0030218	erythropoiesis	erythropoiesis	Erythropoiesis	C0014819
+25564	25620	GO:0030097	out essential functions in other hematopoietic lineages.	hematopoiesis	Hematopoiesis	C0018951
+25622	25664	GO:0030097	the hematopoietic phenotype of mon mutants	hematopoiesis	Hematopoiesis	C0018951
+25697	25701	GO:0005623	cell	cell	Cells	C0007634
+25703	25744	GO:0007601	seen in both mouse gata1 knockout embryos	vision	Vision	C0042789
+25778	25792	GO:0009790	mutant embryos	embryo development	Embryonic Development	C0013936
+25874	25908	GO:0007567	a genetic relationship between mon	parturition	Birth	C0005615
+25874	25908	GO:0000003	a genetic relationship between mon	reproduction	Reproduction	C0035150
+25954	25968	GO:0030218	erythropoiesis	erythropoiesis	Erythropoiesis	C0014819
+25999	26033	GO:0009790	into mon homozygous mutant embryos	embryo development	Embryonic Development	C0013936
+26066	26095	GO:0009790	into gata1 knock-down embryos	embryo development	Embryonic Development	C0013936
+26113	26126	GO:0030097	hematopoiesis	hematopoiesis	Hematopoiesis	C0018951
+26331	26367	GO:0007567	the mutations in each of these genes	parturition	Birth	C0005615
+26331	26367	GO:0000003	the mutations in each of these genes	reproduction	Reproduction	C0035150
+26375	26415	GO:0048468	cells at a similar stage of development,	cell development	Cell development	C0815089
+26519	26549	GO:0007567	that parallel genetic pathways	parturition	Birth	C0005615
+26519	26549	GO:0000003	that parallel genetic pathways	reproduction	Reproduction	C0035150
+26610	26648	GO:0006351	gene transcription within blood cells.	cellular transcription		C2755756
+26689	26714	GO:0060318	definitive erythropoiesis	definitive erythrocyte differentiation		C2610444
+26801	26877	GO:0030097	for the erythroid lineage-specific control of hematopoietic gene expression.	hematopoiesis	Hematopoiesis	C0018951
+26938	26951	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+26974	27007	GO:0030097	in hematopoietic progenitor cells	hematopoiesis	Hematopoiesis	C0018951
+27201	27214	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+27294	27335	GO:0003677	different classes of dna-binding proteins	DNA binding	dna binding	C1148673
+27340	27349	GO:0000785	chromatin	chromatin	chromatin location	C1325550
+27447	27450	GO:0007601	see	vision	Vision	C0042789
+27561	27576	GO:1990251	nuclear bodies,	nuclear body	Intranuclear body	C0230595
+27561	27576	GO:0033620	nuclear bodies,	nuclear body	Intranuclear body	C0230595
+27561	27576	GO:0016604	nuclear bodies,	nuclear body	Intranuclear body	C0230595
+27587	27598	GO:0016605	pml bodies.	PML body		C1167110
+27599	27624	GO:0051179	localization of tif1gamma	establishment and maintenance of localization		C1744691
+27625	27648	GO:1990251	to these nuclear bodies	nuclear body	Intranuclear body	C0230595
+27625	27648	GO:0033620	to these nuclear bodies	nuclear body	Intranuclear body	C0230595
+27625	27648	GO:0016604	to these nuclear bodies	nuclear body	Intranuclear body	C0230595
+27656	27699	GO:0043687	regulated by posttranslational modification	post-translational protein modification	Post-Translational Protein Processing	C0033666
+27888	27949	GO:0003677	multisubunit complexes with dna-binding transcription factors	DNA binding	dna binding	C1148673
+28006	28059	GO:0030154	during the early stages of erythroid differentiation.	cell differentiation	Cell Differentiation process	C0007589
+28222	28238	GO:0048468	cell development	cell development	Cell development	C0815089
+28645	28666	GO:0009291	constructed by mating	unidirectional conjugation		C1160186
+28645	28666	GO:0007618	constructed by mating	mating		C1260875
+28645	28666	GO:0000747	constructed by mating	conjugation with cellular fusion		C1748461
+28645	28666	GO:1990277	constructed by mating	parasexual conjugation with cellular fusion		C3812685
+28747	28762	GO:0009790	diploid embryos	embryo development	Embryonic Development	C0013936
+28829	28849	GO:0009790	stainings of embryos	embryo development	Embryonic Development	C0013936
+28915	28953	GO:0009790	in situ hybridization of mouse embryos	embryo development	Embryonic Development	C0013936
+29059	29078	GO:0005694	chromosomal walking	chromosome	Chromosomes	C0008633
+29195	29215	GO:0007567	for genetic mapping,	parturition	Birth	C0005615
+29195	29215	GO:0000003	for genetic mapping,	reproduction	Reproduction	C0035150
+29540	29544	GO:0005623	cell	cell	Cells	C0007634
+29582	29586	GO:0005623	cell	cell	Cells	C0007634
+29778	29794	GO:0009790	control embryos.	embryo development	Embryonic Development	C0013936
+29829	29833	GO:0005623	cell	cell	Cells	C0007634
+29840	29860	GO:0009790	injected per embryo.	embryo development	Embryonic Development	C0013936
+29861	29892	GO:0009790	individual transplanted embryos	embryo development	Embryonic Development	C0013936
+30017	30021	GO:0005623	cell	cell	Cells	C0007634
+30154	30165	GO:0042571	antibodies,	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+30297	30316	GO:0009058	(genemed synthesis,	anabolism	Anabolism	C0220781
+30388	30415	GO:0009790	mouse embryonic fibroblasts	embryo development	Embryonic Development	C0013936
+30566	30570	GO:0005623	cell	cell	Cells	C0007634
+30701	30745	GO:0042571	after incubation with the primary antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+30761	30765	GO:0005623	cell	cell	Cells	C0007634
+30805	30840	GO:0042571	incubated with secondary antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+30930	30934	GO:0005623	cell	cell	Cells	C0007634
+31162	31182	GO:0030154	cell differentiation	cell differentiation	Cell Differentiation process	C0007589
+31327	31331	GO:0005623	cell	cell	Cells	C0007634
+31350	31384	GO:0009790	gfp transgene into 2-d-old embryos	embryo development	Embryonic Development	C0013936
+31399	31413	GO:0030218	erythropoiesis	erythropoiesis	Erythropoiesis	C0014819
+31466	31488	GO:0009790	movies of live embryos	embryo development	Embryonic Development	C0013936
+31547	31562	GO:0008015	in circulation.	blood circulation	Blood Circulation	C0005775
+31576	31580	GO:0005623	cell	cell	Cells	C0007634
+31821	31825	GO:0005623	cell	cell	Cells	C0007634
+31855	31866	GO:0032502	development	development	Biologic Development	C0678723
+32000	32063	GO:0008015	visible in the circulation of three montg234 homozygous mutants	blood circulation	Blood Circulation	C0005775
+32199	32203	GO:0005623	cell	cell	Cells	C0007634
+32233	32244	GO:0032502	development	development	Biologic Development	C0678723
+32388	32461	GO:0008015	visible in the circulation of a representative montg234 homozygous mutant	blood circulation	Blood Circulation	C0005775
+32585	32616	GO:0007567	accession numbers for the genes	parturition	Birth	C0005615
+32585	32616	GO:0000003	accession numbers for the genes	reproduction	Reproduction	C0035150
+32621	32634	GO:0007567	gene products	parturition	Birth	C0005615
+32621	32634	GO:0000003	gene products	reproduction	Reproduction	C0035150
+33886	33927	GO:0007567	pml - promyelocytic leukemia gene product	parturition	Birth	C0005615
+33886	33927	GO:0000003	pml - promyelocytic leukemia gene product	reproduction	Reproduction	C0035150
+33946	33950	GO:0005623	cell	cell	Cells	C0007634
+33964	33968	GO:0005623	cell	cell	Cells	C0007634
+33985	34026	GO:0000988	tif - transcriptional intermediary factor	transcription factor activity		C1148759
+33985	34026	GO:0001070	tif - transcriptional intermediary factor	transcription factor activity		C1148759
+33985	34026	GO:0001071	tif - transcriptional intermediary factor	transcription factor activity		C1148759
+33985	34026	GO:0003700	tif - transcriptional intermediary factor	transcription factor activity		C1148759
+34111	34152	GO:0060215	severe defects in primitive hematopoiesis	primitive hemopoiesis		C2262992
+34190	34229	GO:0031254	that ventral-posterior mesodermal cells	cell trailing edge		C1621432
+34238	34247	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+34238	34247	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+34354	34391	GO:0009790	18-somite stage in genotyped embryos.	embryo development	Embryonic Development	C0013936
+34446	34455	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+34446	34455	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+34459	34479	GO:0043198	visible in the trunk	dendritic shaft		C1523842
+34527	34531	GO:0005623	cell	cell	Cells	C0007634
+34574	34585	GO:0032502	development	development	Biologic Development	C0678723
+34794	34798	GO:0005623	cell	cell	Cells	C0007634
+34805	34826	GO:0009790	embryonic macrophages	embryo development	Embryonic Development	C0013936
+34890	34894	GO:0005623	cell	cell	Cells	C0007634
+34998	35010	GO:0009790	old embryos.	embryo development	Embryonic Development	C0013936
+35054	35096	GO:0060216	severe defects in definitive hematopoiesis	definitive hemopoiesis		C2262993
+35359	35426	GO:0030154	the dramatic reduction of terminally differentiated erythroid cells	cell differentiation	Cell Differentiation process	C0007589
+35567	35602	GO:0007567	the mon gene as zebrafish tif1gamma	parturition	Birth	C0005615
+35567	35602	GO:0000003	the mon gene as zebrafish tif1gamma	reproduction	Reproduction	C0035150
+35651	35661	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+35847	35883	GO:0005694	a chromosomal walk in pac libraries.	chromosome	Chromosomes	C0008633
+36007	36046	GO:0007567	the critical interval for the mon gene.	parturition	Birth	C0005615
+36007	36046	GO:0000003	the critical interval for the mon gene.	reproduction	Reproduction	C0035150
+37026	37048	GO:0007567	the mon/tif1gamma gene	parturition	Birth	C0005615
+37026	37048	GO:0000003	the mon/tif1gamma gene	reproduction	Reproduction	C0035150
+37059	37094	GO:0030097	expressed in hematopoietic mesoderm	hematopoiesis	Hematopoiesis	C0018951
+37100	37142	GO:0009790	in situ hybridization of zebrafish embryos	embryo development	Embryonic Development	C0013936
+37157	37195	GO:0009790	the embryonic expression of tif1gamma.	embryo development	Embryonic Development	C0013936
+37386	37397	GO:0032502	development	development	Biologic Development	C0678723
+37570	37576	GO:0043198	trunk,	dendritic shaft		C1523842
+37627	37670	GO:0030097	in hematopoietic cells of the blood island.	hematopoiesis	Hematopoiesis	C0018951
+37843	37868	GO:0030097	in hematopoietic mesoderm	hematopoiesis	Hematopoiesis	C0018951
+38003	38068	GO:0009790	the embryonic blood island in comparison to tif1gamma expression.	embryo development	Embryonic Development	C0013936
+38070	38112	GO:0009790	(b) in situ hybridization of mouse embryos	embryo development	Embryonic Development	C0013936
+38151	38171	GO:0009790	at embryonic day 8.5	embryo development	Embryonic Development	C0013936
+38186	38190	GO:0060417	yolk	yolk		C2610566
+38218	38240	GO:0009790	at embryonic day 12.5,	embryo development	Embryonic Development	C0013936
+38303	38343	GO:0009790	broad expression in the embryonic brain,	embryo development	Embryonic Development	C0013936
+38432	38501	GO:0035162	marrow transplantation rescues embryonic hematopoiesis in mon mutants	embryonic hemopoiesis		C1523613
+38605	38616	GO:0032502	development	development	Biologic Development	C0678723
+38644	38694	GO:0008015	visible in the circulation of wild-type zebrafish,	blood circulation	Blood Circulation	C0005775
+38869	38883	GO:0030218	erythropoiesis	erythropoiesis	Erythropoiesis	C0014819
+39041	39045	GO:0005623	cell	cell	Cells	C0007634
+39064	39098	GO:0009790	gfp transgene into 2-d-old embryos	embryo development	Embryonic Development	C0013936
+39113	39127	GO:0030218	erythropoiesis	erythropoiesis	Erythropoiesis	C0014819
+39186	39220	GO:0009790	frames from movies of live embryos	embryo development	Embryonic Development	C0013936
+39279	39293	GO:0008015	in circulation	blood circulation	Blood Circulation	C0005775
+39314	39318	GO:0005623	cell	cell	Cells	C0007634
+39488	39491	GO:0007601	see	vision	Vision	C0042789
+39545	39572	GO:1990251	localizes to nuclear bodies	nuclear body	Intranuclear body	C0230595
+39545	39572	GO:0033620	localizes to nuclear bodies	nuclear body	Intranuclear body	C0230595
+39545	39572	GO:0016604	localizes to nuclear bodies	nuclear body	Intranuclear body	C0230595
+39587	39602	GO:0000792	heterochromatin	heterochromatin	Heterochromatin	C0019397
+39608	39690	GO:0009790	deconvolved immunofluorescence images of a mouse embryonic fibroblast cell nucleus	embryo development	Embryonic Development	C0013936
+39691	39730	GO:0042571	stained with an anti-tif1gamma antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+39735	39769	GO:0042571	stained with a monoclonal antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+39837	39869	GO:0005634	the merged images of the nucleus	cell nucleus	Cell Nucleus	C0007610
+39948	39963	GO:0000792	heterochromatin	heterochromatin	Heterochromatin	C0019397
+40038	40042	GO:0005623	cell	cell	Cells	C0007634
+40147	40200	GO:0032502	decreases during gata1-dependent erythroid maturation	development	Biologic Development	C0678723
+40338	40362	GO:0030097	hematopoietic phenotypes	hematopoiesis	Hematopoiesis	C0018951
+40422	40426	GO:0005623	cell	cell	Cells	C0007634
+40433	40473	GO:0009790	into embryos of the indicated genotypes.	embryo development	Embryonic Development	C0013936
+40474	40494	GO:0009790	for the mon embryos,	embryo development	Embryonic Development	C0013936
+40507	40511	GO:0005623	cell	cell	Cells	C0007634
+40554	40565	GO:0009790	the embryos	embryo development	Embryonic Development	C0013936
+40618	40644	GO:0043249	hemoglobin in mature rbcs.	erythrocyte maturation		C1523887
+40645	40659	GO:0009790	normal embryos	embryo development	Embryonic Development	C0013936
+40700	40704	GO:0005623	cell	cell	Cells	C0007634
+40740	40766	GO:0009790	given as number of embryos	embryo development	Embryonic Development	C0013936
+40830	40857	GO:0009790	percentage of total embryos	embryo development	Embryonic Development	C0013936
+40908	40921	GO:0030097	hematopoiesis	hematopoiesis	Hematopoiesis	C0018951
+40955	40996	GO:0009790	embryos with transplanted erythroid cells	embryo development	Embryonic Development	C0013936
+41034	41038	GO:0005623	cell	cell	Cells	C0007634
+41085	41114	GO:0009790	injected per zebrafish embryo	embryo development	Embryonic Development	C0013936
+41126	41157	GO:0009790	individual transplanted embryos	embryo development	Embryonic Development	C0013936
+41210	41214	GO:0005623	cell	cell	Cells	C0007634
+41245	41276	GO:0009790	the indicated number of embryos	embryo development	Embryonic Development	C0013936
+41312	41316	GO:0005623	cell	cell	Cells	C0007634
+41318	41333	GO:0008015	in circulation.	blood circulation	Blood Circulation	C0005775
+41383	41417	GO:0009790	the relative percentage of embryos	embryo development	Embryonic Development	C0013936
+41676	41680	GO:0008747	npl,	N-acetylneuraminate lyase activity		C1150873
+41704	41707	GO:0004740	pdk	pyruvate dehydrogenase	acetyl-transferring	C1150639
+41761	41765	GO:0008747	npl,	N-acetylneuraminate lyase activity		C1150873
+42024	42028	GO:0005623	cell	cell	Cells	C0007634
+42033	42044	GO:0032502	development	development	Biologic Development	C0678723
+42210	42238	GO:0007567	the zebrafish moonshine gene	parturition	Birth	C0005615
+42210	42238	GO:0000003	the zebrafish moonshine gene	reproduction	Reproduction	C0035150
+42247	42290	GO:0000988	transcriptional intermediary factor 1gamma,	transcription factor activity		C1148759
+42247	42290	GO:0001070	transcriptional intermediary factor 1gamma,	transcription factor activity		C1148759
+42247	42290	GO:0001071	transcriptional intermediary factor 1gamma,	transcription factor activity		C1148759
+42247	42290	GO:0003700	transcriptional intermediary factor 1gamma,	transcription factor activity		C1148759
+42317	42330	GO:0030097	hematopoiesis	hematopoiesis	Hematopoiesis	C0018951

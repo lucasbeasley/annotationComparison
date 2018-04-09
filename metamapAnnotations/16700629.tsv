@@ -1,0 +1,352 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+64	81	GO:0007530	sex determination	sex determination	Sex determination	C1367886
+93	102	GO:0007567	the genes	parturition	Birth	C0005615
+93	102	GO:0000003	the genes	reproduction	Reproduction	C0035150
+112	165	GO:0015074	members of the wingless-related mmtv integration site	DNA integration	DNA Integration	C1158478
+187	193	GO:0040007	growth	growth	Growth	C0018270
+227	233	GO:0040007	growth	growth	Growth	C0018270
+235	248	GO:0009653	morphogenesis	morphogenesis	Morphogenesis	C0026559
+254	293	GO:0030154	differentiation in many fields of cells	cell differentiation	Cell Differentiation process	C0007589
+301	312	GO:0032502	development	development	Biologic Development	C0678723
+389	406	GO:0007530	sex determination	sex determination	Sex determination	C1367886
+468	505	GO:0008584	results in partial testis development	male gonad development		C1160271
+572	602	GO:0019953	the male sex-determining gene,	sexual reproduction		C0871354
+692	698	GO:0040007	growth	growth	Growth	C0018270
+760	777	GO:0007530	sex determination	sex determination	Sex determination	C1367886
+1299	1316	GO:0007530	sex determination	sex determination	Sex determination	C1367886
+1385	1435	GO:0007165	an imbalance between these two signaling pathways.	signal transduction	Signal Transduction	C0037083
+1455	1466	GO:0032502	development	development	Biologic Development	C0678723
+1608	1619	GO:0032502	development	development	Biologic Development	C0678723
+1620	1657	GO:0009790	from the bipotential embryonic gonad.	embryo development	Embryonic Development	C0013936
+1684	1718	GO:0008406	divergent development of the gonad	gonad development		C1160264
+1890	1909	GO:0009790	the embryonic gonad	embryo development	Embryonic Development	C0013936
+1951	1955	GO:0005623	cell	cell	Cells	C0007634
+1961	1975	GO:0043025	somatic cells.	neuron cell body	Cell body of neuron	C0599444
+2021	2025	GO:0005623	cell	cell	Cells	C0007634
+2154	2158	GO:0005623	cell	cell	Cells	C0007634
+2202	2213	GO:0032502	development	development	Biologic Development	C0678723
+2226	2243	GO:0007567	some of the genes	parturition	Birth	C0005615
+2226	2243	GO:0000003	some of the genes	reproduction	Reproduction	C0035150
+2312	2418	GO:0002524	(dosage-sensitive sex reversal-congenital adrenal hypoplasia critical region on the x chromosome protein 1	hypersensitivity	Hypersensitivity	C0020517
+2465	2471	GO:0040007	growth	growth	Growth	C0018270
+2492	2533	GO:0015074	(wingless-related mmtv integration site 4	DNA integration	DNA Integration	C1158478
+2642	2659	GO:0007530	sex determination	sex determination	Sex determination	C1367886
+2695	2706	GO:0032502	development	development	Biologic Development	C0678723
+2728	2755	GO:0007567	the testis-determining gene	parturition	Birth	C0005615
+2728	2755	GO:0000003	the testis-determining gene	reproduction	Reproduction	C0035150
+2778	2816	GO:0008584	this program toward testis development	male gonad development		C1160271
+2878	2882	GO:0005623	cell	cell	Cells	C0007634
+2906	2944	GO:0009653	a male-specific morphogenetic program.	morphogenesis	Morphogenesis	C0026559
+3076	3094	GO:0016477	migration of cells	cell migration	Migration, Cell	C1622501
+3106	3127	GO:0009058	testis cord formation	anabolism	Anabolism	C0220781
+3173	3201	GO:0060008	Sertoli cell differentiation	Sertoli cell differentiation		C1817144
+3209	3236	GO:0097537	a y chromosome-linked gene,	Y-shaped link		C3821134
+3240	3283	GO:0019953	the primary sex-determining gene in mammals	sexual reproduction		C0871354
+3326	3340	GO:0009790	in xx embryos,	embryo development	Embryonic Development	C0013936
+3341	3357	GO:0009790	or in xy embryos	embryo development	Embryonic Development	C0013936
+3385	3389	GO:0005623	cell	cell	Cells	C0007634
+3411	3446	GO:0030154	an ovarian differentiation pathway.	cell differentiation	Cell Differentiation process	C0007589
+3447	3482	GO:0007567	genetic evidence from chimeric mice	parturition	Birth	C0005615
+3447	3482	GO:0000003	genetic evidence from chimeric mice	reproduction	Reproduction	C0035150
+3587	3645	GO:0044297	only in precursors of the somatic supporting cell lineage.	cell body		C2752549
+3685	3689	GO:0005623	cell	cell	Cells	C0007634
+3691	3721	GO:0030154	leads to their differentiation	cell differentiation	Cell Differentiation process	C0007589
+3749	3753	GO:0005623	cell	cell	Cells	C0007634
+3779	3783	GO:0005623	cell	cell	Cells	C0007634
+3799	3803	GO:0005623	cell	cell	Cells	C0007634
+3859	3863	GO:0005623	cell	cell	Cells	C0007634
+3877	3881	GO:0005623	cell	cell	Cells	C0007634
+3997	4001	GO:0005623	cell	cell	Cells	C0007634
+4028	4050	GO:0030154	testis differentiation	cell differentiation	Cell Differentiation process	C0007589
+4111	4132	GO:0030154	ovary differentiation	cell differentiation	Cell Differentiation process	C0007589
+4170	4204	GO:0010467	expression patterns of other genes	gene expression	Gene Expression	C0017262
+4236	4268	GO:0007567	the first gene downstream of sry	parturition	Birth	C0005615
+4236	4268	GO:0000003	the first gene downstream of sry	reproduction	Reproduction	C0035150
+4283	4337	GO:0001558	male-specific up-regulation in sertoli cell precursors	regulation of cell growth	Cell Growth Regulation	C0596286
+4341	4355	GO:0007567	a related gene	parturition	Birth	C0005615
+4341	4355	GO:0000003	a related gene	reproduction	Reproduction	C0035150
+4382	4407	GO:0009790	in the developing embryo,	embryo development	Embryonic Development	C0013936
+4556	4583	GO:0008584	leads to testis development	male gonad development		C1160271
+4650	4667	GO:0007530	sex determination	sex determination	Sex determination	C1367886
+4897	4901	GO:0005623	cell	cell	Cells	C0007634
+4950	4972	GO:0030154	testis differentiation	cell differentiation	Cell Differentiation process	C0007589
+5001	5005	GO:0005623	cell	cell	Cells	C0007634
+5044	5048	GO:0005623	cell	cell	Cells	C0007634
+5120	5124	GO:0005623	cell	cell	Cells	C0007634
+5160	5199	GO:0007165	mutations in several signaling pathways	signal transduction	Signal Transduction	C0037083
+5233	5259	GO:0005159	insulin-like growth factor	insulin-like growth factor	insulin-like growth factor activity	C1753359
+5421	5434	GO:0005576	extracellular	extracellular	Extracellular	C0521119
+5485	5510	GO:0007538	primary sex determination	primary sex determination		C1160557
+5637	5641	GO:0005623	cell	cell	Cells	C0007634
+5664	5682	GO:0008283	cell proliferation	cell proliferation	Cell Proliferation	C0596290
+5696	5710	GO:0016477	cell migration	cell migration	Migration, Cell	C1622501
+5712	5734	GO:0009058	testis cord formation,	anabolism	Anabolism	C0220781
+5739	5775	GO:0060008	the differentiation of sertoli cells	Sertoli cell differentiation		C1817144
+6114	6164	GO:0030154	some obvious aspects of testicular differentiation	cell differentiation	Cell Differentiation process	C0007589
+6204	6208	GO:0005623	cell	cell	Cells	C0007634
+6219	6261	GO:0030154	all downstream testicular differentiation,	cell differentiation	Cell Differentiation process	C0007589
+6279	6307	GO:0060008	that sertoli differentiation	Sertoli cell differentiation		C1817144
+6380	6384	GO:0005623	cell	cell	Cells	C0007634
+6522	6547	GO:0007538	primary sex determination	primary sex determination		C1160557
+6608	6640	GO:0007567	the genetic relationship of sry,	parturition	Birth	C0005615
+6608	6640	GO:0000003	the genetic relationship of sry,	reproduction	Reproduction	C0035150
+6822	6855	GO:0050789	the initial up-regulation of sox9	regulation of biological process	Regulation of biological process	C1327622
+6934	6956	GO:0030154	testis differentiation	cell differentiation	Cell Differentiation process	C0007589
+7009	7034	GO:0007567	the ovary-promoting gene,	parturition	Birth	C0005615
+7009	7034	GO:0000003	the ovary-promoting gene,	reproduction	Reproduction	C0035150
+7127	7131	GO:0005623	cell	cell	Cells	C0007634
+7140	7147	GO:0032940	secrete	secretion by cell	Cell secretion	C1327616
+7404	7427	GO:0007567	both male pathway genes	parturition	Birth	C0005615
+7404	7427	GO:0000003	both male pathway genes	reproduction	Reproduction	C0035150
+7475	7515	GO:0097537	in the absence of the y-linked gene sry.	Y-shaped link		C3821134
+7516	7537	GO:0007567	based on this genetic	parturition	Birth	C0005615
+7516	7537	GO:0000003	based on this genetic	reproduction	Reproduction	C0035150
+7729	7767	GO:0007150	sexually dimorphic patterns of growth,	growth pattern	cell growth pattern	C1623229
+7729	7767	GO:0040007	sexually dimorphic patterns of growth,	growth pattern	cell growth pattern	C1623229
+7768	7781	GO:0009653	morphogenesis	morphogenesis	Morphogenesis	C0026559
+7787	7812	GO:0030154	cellular differentiation.	cell differentiation	Cell Differentiation process	C0007589
+7914	7943	GO:0042571	an antibody specific to fgf9,	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+7981	7998	GO:0008406	gonad development	gonad development		C1160264
+8167	8202	GO:0009986	in cells near the surface of gonads	cell surface	Cell surface	C0699040
+8210	8214	GO:0005623	cell	cell	Cells	C0007634
+8396	8400	GO:0005623	cell	cell	Cells	C0007634
+8425	8429	GO:0005623	cell	cell	Cells	C0007634
+8431	8513	GO:0005886	based on the germ cell membrane marker platelet/endothelial cell adhesion molecule	plasma membrane	Plasma membrane	C0007603
+8578	8637	GO:0009790	agametic gonads from kitw/wv compound heterozygous embryos,	embryo development	Embryonic Development	C0013936
+8684	8688	GO:0005623	cell	cell	Cells	C0007634
+8771	8806	GO:0016791	where alkaline phosphatase staining	phosphoric monoester hydrolase activity		C1149880
+8836	8840	GO:0005623	cell	cell	Cells	C0007634
+8903	8907	GO:0005623	cell	cell	Cells	C0007634
+8975	8979	GO:0005623	cell	cell	Cells	C0007634
+9105	9130	GO:0030154	as testis differentiation	cell differentiation	Cell Differentiation process	C0007589
+9359	9364	GO:0007618	mated	mating		C1260875
+9747	9785	GO:0006355	that transcriptional regulation of sry	transcriptional control	Transcriptional Regulation	C1158770
+9931	9958	GO:0051170	sry import into the nucleus	nuclear import	Nuclear Import	C0887839
+10007	10057	GO:0005622	the intracellular distribution of the sry protein.	protoplasm	Protoplasm	C0175996
+10073	10103	GO:0050789	this aspect of sry regulation,	regulation of biological process	Regulation of biological process	C1327622
+10227	10278	GO:0005622	the endogenous intracellular sry expression pattern	protoplasm	Protoplasm	C0175996
+10291	10317	GO:0042571	an antibody against c-myc,	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+10337	10367	GO:0051179	nuclear localization of srymyc	establishment and maintenance of localization		C1744691
+10596	10610	GO:0007165	fgf9 signaling	signal transduction	Signal Transduction	C0037083
+10596	10610	GO:0023052	fgf9 signaling	biological signaling		C3537152
+10669	10688	GO:0008584	testis development.	male gonad development		C1160271
+10922	10974	GO:0060008	a consequence of the loss of sertoli differentiation	Sertoli cell differentiation		C1817144
+10987	11026	GO:0060004	a reflection of the genetic interaction	reflex	Reflex motion descriptor	C0439840
+11075	11123	GO:0000003	expressed in wild-type genital ridges of both xx	reproduction	Reproduction	C0035150
+11128	11150	GO:0009790	xy embryos at 10.5 dpc	embryo development	Embryonic Development	C0013936
+11346	11395	GO:0050789	involved in the up-regulation of sox9 expression.	regulation of biological process	Regulation of biological process	C1327622
+11404	11408	GO:0005623	cell	cell	Cells	C0007634
+11511	11515	GO:0005623	cell	cell	Cells	C0007634
+11525	11529	GO:0005623	cell	cell	Cells	C0007634
+11603	11623	GO:0031012	extracellular matrix	extracellular matrix	Extracellular Matrix	C0015350
+11746	11779	GO:0042571	monitored by an antibody specific	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+11794	11798	GO:0005623	cell	cell	Cells	C0007634
+11815	11819	GO:0005623	cell	cell	Cells	C0007634
+11847	11851	GO:0005623	cell	cell	Cells	C0007634
+11872	11876	GO:0005623	cell	cell	Cells	C0007634
+11900	11904	GO:0005623	cell	cell	Cells	C0007634
+11983	12008	GO:0050789	the up-regulation of sox9	regulation of biological process	Regulation of biological process	C1327622
+12015	12019	GO:0005623	cell	cell	Cells	C0007634
+12037	12058	GO:0050789	up-regulation of sox9	regulation of biological process	Regulation of biological process	C1327622
+12083	12106	GO:0007601	seen in whole xx gonads	vision	Vision	C0042789
+12224	12228	GO:0005623	cell	cell	Cells	C0007634
+12443	12463	GO:0031012	extracellular matrix	extracellular matrix	Extracellular Matrix	C0015350
+12691	12695	GO:0005623	cell	cell	Cells	C0007634
+12821	12848	GO:0007165	that ectopic fgf9 signaling	signal transduction	Signal Transduction	C0037083
+12821	12848	GO:0023052	that ectopic fgf9 signaling	biological signaling		C3537152
+12890	12894	GO:0005623	cell	cell	Cells	C0007634
+13049	13088	GO:0050789	essential for the up-regulation of sox9	regulation of biological process	Regulation of biological process	C1327622
+13308	13312	GO:0005623	cell	cell	Cells	C0007634
+13361	13372	GO:0032502	development	development	Biologic Development	C0678723
+13410	13414	GO:0005623	cell	cell	Cells	C0007634
+13652	13687	GO:0044297	somatic cells within fgf9-/- gonads	cell body		C2752549
+13796	13817	GO:0050789	up-regulation of sox9	regulation of biological process	Regulation of biological process	C1327622
+13980	13984	GO:0005623	cell	cell	Cells	C0007634
+14104	14142	GO:0050789	required for the up-regulation of sox9	regulation of biological process	Regulation of biological process	C1327622
+14221	14225	GO:0005623	cell	cell	Cells	C0007634
+14237	14268	GO:0050789	required for fgf9 up-regulation	regulation of biological process	Regulation of biological process	C1327622
+14307	14352	GO:0007567	the linear relationship among the three genes	parturition	Birth	C0005615
+14307	14352	GO:0000003	the linear relationship among the three genes	reproduction	Reproduction	C0035150
+14878	14906	GO:0009790	the sox9 null mutant embryos	embryo development	Embryonic Development	C0013936
+15844	15896	GO:0007567	a positive feed-forward loop between these two genes	parturition	Birth	C0005615
+15844	15896	GO:0000003	a positive feed-forward loop between these two genes	reproduction	Reproduction	C0035150
+15979	15997	GO:0008283	cell proliferation	cell proliferation	Cell Proliferation	C0596290
+16039	16057	GO:0008283	cell proliferation	cell proliferation	Cell Proliferation	C0596290
+16181	16199	GO:0008283	cell proliferation	cell proliferation	Cell Proliferation	C0596290
+16335	16339	GO:0005623	cell	cell	Cells	C0007634
+16389	16393	GO:0005623	cell	cell	Cells	C0007634
+16505	16523	GO:0008283	cell proliferation	cell proliferation	Cell Proliferation	C0596290
+16739	16776	GO:0085030	a mutual interdependence between sox9	mutualism	Mutualism	C0599514
+16836	16846	GO:0007567	both genes	parturition	Birth	C0005615
+16836	16846	GO:0000003	both genes	reproduction	Reproduction	C0035150
+16851	16895	GO:0044297	required for the expansion of somatic cells,	cell body		C2752549
+16914	16918	GO:0005623	cell	cell	Cells	C0007634
+17099	17130	GO:0007567	other genes in the male pathway	parturition	Birth	C0005615
+17099	17130	GO:0000003	other genes in the male pathway	reproduction	Reproduction	C0035150
+17174	17202	GO:0060008	Sertoli cell differentiation	Sertoli cell differentiation		C1817144
+17547	17560	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+17977	17981	GO:0005623	cell	cell	Cells	C0007634
+18345	18355	GO:0008219	cell death	cell death	Cell Death	C0007587
+18442	18446	GO:0005623	cell	cell	Cells	C0007634
+18508	18533	GO:0097194	an apoptotic cell marker.	apoptosis	Apoptosis	C0162638
+18508	18533	GO:0006915	an apoptotic cell marker.	apoptosis	Apoptosis	C0162638
+18534	18549	GO:0097194	apoptotic cells	apoptosis	Apoptosis	C0162638
+18534	18549	GO:0006915	apoptotic cells	apoptosis	Apoptosis	C0162638
+18676	18686	GO:0008219	cell death	cell death	Cell Death	C0007587
+18866	18876	GO:0008219	cell death	cell death	Cell Death	C0007587
+18877	18936	GO:0050789	but by the disruption of fgf9/sox9 feed-forward regulation.	regulation of biological process	Regulation of biological process	C1327622
+19070	19074	GO:0005623	cell	cell	Cells	C0007634
+19076	19112	GO:0046660	from male to female differentiation,	female sex differentiation		C1160574
+19149	19173	GO:0007567	an ovary-promoting gene.	parturition	Birth	C0005615
+19149	19173	GO:0000003	an ovary-promoting gene.	reproduction	Reproduction	C0035150
+19309	19350	GO:0050789	necessary for the down-regulation of wnt4	regulation of biological process	Regulation of biological process	C1327622
+19521	19567	GO:0007567	a genetic antagonism specifically between fgf9	parturition	Birth	C0005615
+19521	19567	GO:0000003	a genetic antagonism specifically between fgf9	reproduction	Reproduction	C0035150
+20511	20551	GO:0050789	sox9 up-regulation in xx wnt4+/- gonads,	regulation of biological process	Regulation of biological process	C1327622
+20877	20902	GO:0042571	an antibody against fgf9,	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+21276	21300	GO:0042571	an antibody against sox9	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+21744	21772	GO:0060008	Sertoli cell differentiation	Sertoli cell differentiation		C1817144
+21777	21798	GO:0009058	testis cord formation	anabolism	Anabolism	C0220781
+21844	21870	GO:0050789	that up-regulation of sox9	regulation of biological process	Regulation of biological process	C1327622
+22016	22033	GO:0007530	sex determination	sex determination	Sex determination	C1367886
+22148	22152	GO:0005623	cell	cell	Cells	C0007634
+22216	22220	GO:0005623	cell	cell	Cells	C0007634
+22265	22269	GO:0005623	cell	cell	Cells	C0007634
+22282	22286	GO:0005623	cell	cell	Cells	C0007634
+22311	22315	GO:0005623	cell	cell	Cells	C0007634
+22482	22486	GO:0005623	cell	cell	Cells	C0007634
+22523	22533	GO:0008219	cell death	cell death	Cell Death	C0007587
+22577	22581	GO:0005623	cell	cell	Cells	C0007634
+22720	22759	GO:0044297	somatic cell fate in the gonadal field.	cell body		C2752549
+22761	22788	GO:0000003	the drosophila genital disk	reproduction	Reproduction	C0035150
+22808	22812	GO:0005623	cell	cell	Cells	C0007634
+22926	22930	GO:0005623	cell	cell	Cells	C0007634
+22931	22950	GO:0000003	in the genital disk	reproduction	Reproduction	C0035150
+22965	22969	GO:0005623	cell	cell	Cells	C0007634
+23035	23052	GO:0007530	sex determination	sex determination	Sex determination	C1367886
+23102	23130	GO:0019953	the genetic sex of the cells	sexual reproduction		C0871354
+23212	23216	GO:0005623	cell	cell	Cells	C0007634
+23286	23336	GO:0050789	occurs through the sex-specific regulation of wnt,	regulation of biological process	Regulation of biological process	C1327622
+23359	23365	GO:0040007	growth	growth	Growth	C0018270
+23416	23422	GO:0040007	growth	growth	Growth	C0018270
+23424	23444	GO:0030154	cell differentiation	cell differentiation	Cell Differentiation process	C0007589
+23450	23463	GO:0009653	morphogenesis	morphogenesis	Morphogenesis	C0026559
+23485	23531	GO:0050789	sex-specific regulation of gonad organogenesis	regulation of biological process	Regulation of biological process	C1327622
+23589	23593	GO:0005623	cell	cell	Cells	C0007634
+23599	23603	GO:0005623	cell	cell	Cells	C0007634
+23716	23793	GO:0007165	occurs through the non-cell-autonomous activity of classic signaling pathways	signal transduction	Signal Transduction	C0037083
+23844	23850	GO:0040007	growth	growth	Growth	C0018270
+23852	23872	GO:0030154	cell differentiation	cell differentiation	Cell Differentiation process	C0007589
+23877	23904	GO:0035262	morphogenesis in the gonad.	gonad morphogenesis		C1523711
+23928	23932	GO:0005623	cell	cell	Cells	C0007634
+23952	23956	GO:0005623	cell	cell	Cells	C0007634
+24059	24063	GO:0005623	cell	cell	Cells	C0007634
+24117	24162	GO:0007165	that non-cell-autonomous signaling mechanisms	signal transduction	Signal Transduction	C0037083
+24241	24263	GO:0038001	that paracrine signals	paracrine signaling	Paracrine Communication	C0525011
+24314	24318	GO:0005623	cell	cell	Cells	C0007634
+24418	24422	GO:0005623	cell	cell	Cells	C0007634
+24607	24611	GO:0005623	cell	cell	Cells	C0007634
+24647	24651	GO:0005623	cell	cell	Cells	C0007634
+24870	24888	GO:0008283	cell proliferation	cell proliferation	Cell Proliferation	C0596290
+25108	25112	GO:0005623	cell	cell	Cells	C0007634
+25235	25264	GO:0038001	other male paracrine signals,	paracrine signaling	Paracrine Communication	C0525011
+25386	25404	GO:0008283	cell proliferation	cell proliferation	Cell Proliferation	C0596290
+25651	25666	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+25696	25714	GO:0008283	cell proliferation	cell proliferation	Cell Proliferation	C0596290
+25926	25949	GO:0050789	down-regulation of wnt4	regulation of biological process	Regulation of biological process	C1327622
+26322	26370	GO:0006355	both the transcriptional down-regulation of wnt4	transcriptional control	Transcriptional Regulation	C1158770
+26398	26458	GO:0016055	the destabilization of downstream wnt intracellular pathways	Wnt signaling pathway	Wnt Signaling Pathway	C1520113
+26504	26531	GO:0002062	chondrocyte differentiation	chondrocyte differentiation		C1817330
+26546	26590	GO:0005622	compete for intracellular signal transducers	protoplasm	Protoplasm	C0175996
+26786	26816	GO:0050789	the up-regulation of both sox9	regulation of biological process	Regulation of biological process	C1327622
+26978	27044	GO:0007530	strong implications for other vertebrate sex-determination systems	sex determination	Sex determination	C1367886
+27102	27123	GO:0050789	up-regulation of sox9	regulation of biological process	Regulation of biological process	C1327622
+27155	27189	GO:0008584	testis development in this mutant,	male gonad development		C1160271
+27429	27479	GO:0007165	the fine dosage balance in this signaling network.	signal transduction	Signal Transduction	C0037083
+27429	27479	GO:0023052	the fine dosage balance in this signaling network.	biological signaling		C3537152
+27862	27919	GO:1990430	possibly fgf-binding proteins in the extracellular matrix	extracellular matrix protein binding		C3896193
+28250	28259	GO:0007165	signaling	signal transduction	Signal Transduction	C0037083
+28250	28259	GO:0023052	signaling	biological signaling		C3537152
+28312	28366	GO:0050789	interfering with the up-regulation of sox9 expression.	regulation of biological process	Regulation of biological process	C1327622
+28367	28431	GO:0098687	one report of a duplication of the region of human chromosome 1,	chromosome region	Region of chromosome	C1953345
+28694	28722	GO:0060008	Sertoli cell differentiation	Sertoli cell differentiation		C1817144
+28874	28878	GO:0005623	cell	cell	Cells	C0007634
+29095	29112	GO:0007530	sex determination	sex determination	Sex determination	C1367886
+29191	29226	GO:0007165	antagonistic signaling between fgfs	signal transduction	Signal Transduction	C0037083
+29191	29226	GO:0023052	antagonistic signaling between fgfs	biological signaling		C3537152
+29355	29366	GO:0007567	any genetic	parturition	Birth	C0005615
+29355	29366	GO:0000003	any genetic	reproduction	Reproduction	C0035150
+29474	29478	GO:0005623	cell	cell	Cells	C0007634
+29538	29542	GO:0005623	cell	cell	Cells	C0007634
+29543	29587	GO:0007165	fates by counterbalanced signaling pathways,	signal transduction	Signal Transduction	C0037083
+30070	30113	GO:0050789	this results in the down-regulation of sox9	regulation of biological process	Regulation of biological process	C1327622
+30337	30398	GO:0007165	the antagonistic relationship of these two signaling pathways	signal transduction	Signal Transduction	C0037083
+31025	31039	GO:0009790	mutant embryos	embryo development	Embryonic Development	C0013936
+31064	31076	GO:0000806	Y chromosome	Y chromosome	Y Chromosome	C0043381
+31199	31252	GO:0007567	a germline-specific gene deletion system as described	parturition	Birth	C0005615
+31199	31252	GO:0000003	a germline-specific gene deletion system as described	reproduction	Reproduction	C0035150
+31678	31688	GO:0042571	antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+31763	31790	GO:0007165	(cell signaling technology,	signal transduction	Signal Transduction	C0037083
+32094	32109	GO:0007165	(cell signaling	signal transduction	Signal Transduction	C0037083
+32119	32135	GO:0019865	antibody binding	immunoglobulin binding		C1149306
+32155	32198	GO:0000746	fluorophore-conjugated secondary antibodies	conjugation		C1160466
+32375	32379	GO:0005623	cell	cell	Cells	C0007634
+32415	32460	GO:0042571	conjugated with peroxidase secondary antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+32579	32592	GO:0042571	this antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+32773	32777	GO:0005623	cell	cell	Cells	C0007634
+32788	32804	GO:0009790	11.5 dpc embryos	embryo development	Embryonic Development	C0013936
+32897	32917	GO:0000003	whole genital ridges	reproduction	Reproduction	C0035150
+33101	33110	GO:0007586	digestion	digestion	Digestion	C0012238
+33112	33116	GO:0005623	cell	cell	Cells	C0007634
+33226	33246	GO:0031012	extracellular matrix	extracellular matrix	Extracellular Matrix	C0015350
+33556	33560	GO:0005623	cell	cell	Cells	C0007634
+34122	34125	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+34238	34251	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+34634	34658	GO:0047991	hao chang for generating	hydroxylamine oxidase activity		C1324275
+34982	34988	GO:0040007	growth	growth	Growth	C0018270
+35026	35039	GO:0007155	cell adhesion	cell adhesion	Cell Adhesion	C0007577
+35113	35157	GO:0015074	wnt - wingless-related mmtv integration site	DNA integration	DNA Integration	C1158478
+35200	35204	GO:0005623	cell	cell	Cells	C0007634
+35233	35252	GO:0009790	in embryonic gonads	embryo development	Embryonic Development	C0013936
+35315	35332	GO:0008406	gonad development	gonad development		C1160264
+35618	35650	GO:0016791	stained for alkaline phosphatase	phosphoric monoester hydrolase activity		C1149880
+35741	35745	GO:0005623	cell	cell	Cells	C0007634
+35870	35874	GO:0005623	cell	cell	Cells	C0007634
+35899	35903	GO:0005623	cell	cell	Cells	C0007634
+36034	36038	GO:0005623	cell	cell	Cells	C0007634
+36065	36069	GO:0005623	cell	cell	Cells	C0007634
+36359	36363	GO:0005623	cell	cell	Cells	C0007634
+36381	36385	GO:0005623	cell	cell	Cells	C0007634
+36433	36437	GO:0005623	cell	cell	Cells	C0007634
+36651	36655	GO:0005623	cell	cell	Cells	C0007634
+36817	36821	GO:0005623	cell	cell	Cells	C0007634
+36827	36831	GO:0005623	cell	cell	Cells	C0007634
+36844	36848	GO:0005623	cell	cell	Cells	C0007634
+36942	36946	GO:0005623	cell	cell	Cells	C0007634
+36942	36947	GO:0005623	cells	cell	Cells	C0007634
+37231	37235	GO:0005623	cell	cell	Cells	C0007634
+37324	37328	GO:0005623	cell	cell	Cells	C0007634
+37549	37574	GO:0050789	the up-regulation of sox9	regulation of biological process	Regulation of biological process	C1327622
+37596	37600	GO:0005623	cell	cell	Cells	C0007634
+37738	37742	GO:0005623	cell	cell	Cells	C0007634
+38205	38223	GO:0008283	cell proliferation	cell proliferation	Cell Proliferation	C0596290
+38506	38510	GO:0005623	cell	cell	Cells	C0007634
+38799	38803	GO:0005623	cell	cell	Cells	C0007634
+38846	38869	GO:0007567	to female pathway genes	parturition	Birth	C0005615
+38846	38869	GO:0000003	to female pathway genes	reproduction	Reproduction	C0035150
+38871	38920	GO:0007567	(a-f) whole-mount in situ hybridization for genes	parturition	Birth	C0005615
+38871	38920	GO:0000003	(a-f) whole-mount in situ hybridization for genes	reproduction	Reproduction	C0035150
+39153	39163	GO:0008219	cell death	cell death	Cell Death	C0007587
+39191	39211	GO:0097194	an apoptotic marker,	apoptosis	Apoptosis	C0162638
+39191	39211	GO:0006915	an apoptotic marker,	apoptosis	Apoptosis	C0162638
+39249	39258	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+39249	39258	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+39338	39353	GO:0097194	apoptotic cells	apoptosis	Apoptosis	C0162638
+39338	39353	GO:0006915	apoptotic cells	apoptosis	Apoptosis	C0162638
+39798	39828	GO:0085030	mutual antagonism between fgf9	mutualism	Mutualism	C0599514
+39943	39992	GO:0050789	results in the down-regulation of wnt4 expression	regulation of biological process	Regulation of biological process	C1327622
+41084	41101	GO:0007530	sex determination	sex determination	Sex determination	C1367886
+41449	41458	GO:0007567	a genetic	parturition	Birth	C0005615
+41449	41458	GO:0000003	a genetic	reproduction	Reproduction	C0035150
+41585	41626	GO:0050789	occurs through the up-regulation of sox9.	regulation of biological process	Regulation of biological process	C1327622
+42454	42471	GO:0007530	sex determination	sex determination	Sex determination	C1367886

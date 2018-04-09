@@ -1,0 +1,518 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+33	107	GO:0007608	impaired olfactory memory by spatially controlled switch of ampa receptors	smell perception	Smell Perception	C0037361
+119	206	GO:0007567	genetic perturbations of alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionate receptors	parturition	Birth	C0005615
+119	206	GO:0000003	genetic perturbations of alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionate receptors	reproduction	Reproduction	C0035150
+243	282	GO:0007600	molecular mechanisms of sensory coding,	sensory perception	Esthesia	C0036658
+283	291	GO:0007612	learning	learning	Learning	C0023185
+297	303	GO:0007613	memory	memory	Memory	C0025260
+373	391	GO:0042048	olfactory behavior	olfactory behavior		C1154328
+626	659	GO:0007608	enhanced olfactory discrimination	smell perception	Smell Perception	C0037361
+675	683	GO:0007612	learning	learning	Learning	C0023185
+725	742	GO:0007608	olfactory memory,	smell perception	Smell Perception	C0037361
+876	918	GO:0007608	correlated with decreased olfactory memory	smell perception	Smell Perception	C0037361
+912	918	GO:0007613	memory	memory	Memory	C0025260
+1201	1209	GO:0007610	behavior	behavior	Behavior	C0004927
+1290	1308	GO:0008355	olfactory learning	olfactory learning	Olfactory Learning	C1154340
+1330	1336	GO:0007613	memory	memory	Memory	C0025260
+1366	1384	GO:0007608	the sense of smell	smell perception	Smell Perception	C0037361
+1469	1498	GO:0007608	long-lasting olfactory memory	smell perception	Smell Perception	C0037361
+1579	1587	GO:0007610	behavior	behavior	Behavior	C0004927
+1689	1711	GO:0009058	while in the formation	anabolism	Anabolism	C0220781
+1716	1723	GO:0051235	storage	storage	cellular entity storage	C1753314
+1790	1804	GO:0007608	olfactory bulb	smell perception	Smell Perception	C0037361
+1833	1876	GO:0042995	the cellular correlates for these processes	cellular process		C1325880
+1833	1876	GO:0009987	the cellular correlates for these processes	cellular process		C1325880
+1947	1966	GO:0007608	to olfactory memory	smell perception	Smell Perception	C0037361
+2019	2069	GO:0007608	unlikely for simple olfactory discrimination tasks	smell perception	Smell Perception	C0037361
+2120	2124	GO:0005623	cell	cell	Cells	C0007634
+2129	2158	GO:0007608	correlate of olfactory memory	smell perception	Smell Perception	C0037361
+2301	2305	GO:0005623	cell	cell	Cells	C0007634
+2385	2421	GO:0042995	cellular mechanisms for this process	cellular process		C1325880
+2385	2421	GO:0009987	cellular mechanisms for this process	cellular process		C1325880
+2432	2492	GO:0007608	attributed to the inhibitory circuitry of the olfactory bulb	smell perception	Smell Perception	C0037361
+2525	2552	GO:0046331	lateral inhibitory circuits	lateral inhibition		C1154415
+2799	2817	GO:0043336	rest in large part	site-specific telomere resolvase activity		C1622890
+2866	2873	GO:0045202	synapse	synapse	Synapses	C0039062
+2920	2924	GO:0005623	cell	cell	Cells	C0007634
+2965	2969	GO:0005623	cell	cell	Cells	C0007634
+2972	2994	GO:0007608	of the olfactory bulb.	smell perception	Smell Perception	C0037361
+3013	3020	GO:0045202	synapse	synapse	Synapses	C0039062
+3056	3104	GO:1902698	mediated by the gamma-aminobutyric acid-a system	acidogenesis		C3823112
+3056	3104	GO:1902705	mediated by the gamma-aminobutyric acid-a system	acidogenesis		C3823112
+3056	3104	GO:1902706	mediated by the gamma-aminobutyric acid-a system	acidogenesis		C3823112
+3056	3104	GO:1902699	mediated by the gamma-aminobutyric acid-a system	acidogenesis		C3823112
+3206	3262	GO:1902698	increased gamma-aminobutyric acid release by ca2+ influx	acidogenesis		C3823112
+3206	3262	GO:1902705	increased gamma-aminobutyric acid release by ca2+ influx	acidogenesis		C3823112
+3206	3262	GO:1902706	increased gamma-aminobutyric acid release by ca2+ influx	acidogenesis		C3823112
+3206	3262	GO:1902699	increased gamma-aminobutyric acid release by ca2+ influx	acidogenesis		C3823112
+3312	3315	GO:0007601	see	vision	Vision	C0042789
+3401	3418	GO:0007608	olfactory memory,	smell perception	Smell Perception	C0037361
+3419	3474	GO:0007268	rely on properties of fast excitatory neurotransmission	synaptic transmission	Synaptic Transmission	C0027793
+3580	3597	GO:0007567	by genetic means,	parturition	Birth	C0005615
+3580	3597	GO:0000003	by genetic means,	reproduction	Reproduction	C0035150
+3948	3973	GO:0009058	involved in the formation	anabolism	Anabolism	C0220781
+4286	4290	GO:0046930	pore	pore	Pore	C1325742
+4337	4348	GO:0009451	RNA editing	RNA editing	RNA Editing	C0162782
+4592	4626	GO:0007567	demonstrated in gene-targeted mice	parturition	Birth	C0005615
+4592	4626	GO:0000003	demonstrated in gene-targeted mice	reproduction	Reproduction	C0035150
+4702	4724	GO:0007608	in the olfactory bulb,	smell perception	Smell Perception	C0037361
+4769	4773	GO:0005623	cell	cell	Cells	C0007634
+4909	4930	GO:0007268	synaptic transmission	synaptic transmission	Synaptic Transmission	C0027793
+5390	5398	GO:0007610	behavior	behavior	Behavior	C0004927
+5529	5537	GO:0007610	behavior	behavior	Behavior	C0004927
+5655	5663	GO:0007610	behavior	behavior	Behavior	C0004927
+6003	6079	GO:0010467	with cre-recombinase expression in defined brain areas of gene-targeted mice	gene expression	Gene Expression	C0017262
+6125	6155	GO:0006310	for cre-mediated recombination	DNA recombination	Recombination, Genetic	C0034865
+6429	6440	GO:0032502	development	development	Biologic Development	C0678723
+6516	6534	GO:0042048	olfactory behavior	olfactory behavior		C1154328
+6580	6598	GO:0008355	olfactory learning	olfactory learning	Olfactory Learning	C1154340
+6620	6626	GO:0007613	memory	memory	Memory	C0025260
+6901	6960	GO:0007567	by ablating glur-b via gene-targeted, floxed glur-b alleles	parturition	Birth	C0005615
+6901	6960	GO:0000003	by ablating glur-b via gene-targeted, floxed glur-b alleles	reproduction	Reproduction	C0035150
+7047	7110	GO:0007608	by correlating glur-b levels in olfaction-related brain regions	smell perception	Smell Perception	C0037361
+7129	7137	GO:0007610	behavior	behavior	Behavior	C0004927
+7162	7214	GO:0007608	the dependence on glur-b of olfactory discrimination	smell perception	Smell Perception	C0037361
+7219	7225	GO:0007613	memory	memory	Memory	C0025260
+7266	7315	GO:0007608	involved in these distinctive olfactory processes	smell perception	Smell Perception	C0037361
+7566	7574	GO:0007612	learning	learning	Learning	C0023185
+7596	7602	GO:0007613	memory	memory	Memory	C0025260
+7662	7680	GO:0008355	olfactory learning	olfactory learning	Olfactory Learning	C1154340
+7712	7757	GO:0007268	the role of fast excitatory neurotransmission	synaptic transmission	Synaptic Transmission	C0027793
+7792	7824	GO:0007608	channels in olfactory processes,	smell perception	Smell Perception	C0037361
+7959	7962	GO:0007601	see	vision	Vision	C0042789
+8035	8076	GO:0007567	a gene-targeted glur-bneo allele in which	parturition	Birth	C0005615
+8035	8076	GO:0000003	a gene-targeted glur-bneo allele in which	reproduction	Reproduction	C0035150
+8099	8135	GO:0003904	critical for glur-b pre-mrna editing	photoreactivating enzyme activity		C2257086
+8155	8188	GO:0007567	replaced by a floxed tk-neo gene,	parturition	Birth	C0005615
+8155	8188	GO:0000003	replaced by a floxed tk-neo gene,	reproduction	Reproduction	C0035150
+8212	8243	GO:0008380	splicing of the modified intron	RNA splicing	RNA Splicing	C0035687
+8212	8243	GO:0045292	splicing of the modified intron	nuclear mRNA cis splicing, via spliceosome		C2610186
+8576	8601	GO:0007567	the intronic tk-neo gene,	parturition	Birth	C0005615
+8576	8601	GO:0000003	the intronic tk-neo gene,	reproduction	Reproduction	C0035150
+9050	9061	GO:0032502	development	development	Biologic Development	C0678723
+9132	9140	GO:0007610	behavior	behavior	Behavior	C0004927
+9277	9329	GO:0007608	in an automated go/no-go olfactory conditioning task	smell perception	Smell Perception	C0037361
+9736	9744	GO:0007612	learning	learning	Learning	C0023185
+9915	9923	GO:0007612	learning	learning	Learning	C0023185
+9959	9962	GO:0007601	see	vision	Vision	C0042789
+10367	10420	GO:0002524	a very sensitive assay for discrimination performance	hypersensitivity	Hypersensitivity	C0020517
+11000	11019	GO:0007608	the olfactory bulb,	smell perception	Smell Perception	C0037361
+11048	11056	GO:0007612	learning	learning	Learning	C0023185
+11061	11095	GO:0007608	enhanced olfactory discrimination.	smell perception	Smell Perception	C0037361
+11124	11170	GO:0007608	increased olfactory discrimination performance	smell perception	Smell Perception	C0037361
+11197	11215	GO:0008355	olfactory learning	olfactory learning	Olfactory Learning	C1154340
+11511	11543	GO:0007567	in gene-targeted glur-b2lox mice	parturition	Birth	C0005615
+11511	11543	GO:0000003	in gene-targeted glur-b2lox mice	reproduction	Reproduction	C0035150
+11702	11711	GO:0007601	see below	vision	Vision	C0042789
+11898	11913	GO:0007608	olfactory bulb,	smell perception	Smell Perception	C0037361
+12445	12456	GO:0032502	development	development	Biologic Development	C0678723
+13452	13463	GO:0032502	development	development	Biologic Development	C0678723
+13516	13524	GO:0007610	behavior	behavior	Behavior	C0004927
+13688	13696	GO:0007612	learning	learning	Learning	C0023185
+13828	13923	GO:0007608	nine littermate controls in the same automated associative go/no-go olfactory conditioning task	smell perception	Smell Perception	C0037361
+13950	13993	GO:0007608	even small phenotypic changes in olfaction,	smell perception	Smell Perception	C0037361
+14098	14109	GO:0046959	habituation	habituation	Psychological habituation	C0221711
+14467	14480	GO:1902698	valeric acid.	acidogenesis		C3823112
+14467	14480	GO:1902705	valeric acid.	acidogenesis		C3823112
+14467	14480	GO:1902706	valeric acid.	acidogenesis		C3823112
+14467	14480	GO:1902699	valeric acid.	acidogenesis		C3823112
+14551	14559	GO:0007612	learning	learning	Learning	C0023185
+15772	15790	GO:0008355	olfactory learning	olfactory learning	Olfactory Learning	C1154340
+15872	15894	GO:0007608	olfaction specificity,	smell perception	Smell Perception	C0037361
+15937	16007	GO:0008542	controls in a nonolfactory hippocampus-dependent spatial learning task	visual learning	Visual learning	C0582587
+16203	16252	GO:0007608	the enhanced olfactory discrimination performance	smell perception	Smell Perception	C0037361
+16269	16299	GO:0007608	specific to the sense of smell	smell perception	Smell Perception	C0037361
+16799	16817	GO:0008355	olfactory learning	olfactory learning	Olfactory Learning	C1154340
+16839	16855	GO:0007608	olfactory memory	smell perception	Smell Perception	C0037361
+16993	17011	GO:0042048	olfactory behavior	olfactory behavior		C1154328
+17058	17087	GO:0007608	channels on olfactory memory.	smell perception	Smell Perception	C0037361
+17097	17136	GO:0007608	olfactory memory in glur-bdeltafb mice,	smell perception	Smell Perception	C0037361
+17311	17323	GO:1902698	valeric acid	acidogenesis		C3823112
+17311	17323	GO:1902705	valeric acid	acidogenesis		C3823112
+17311	17323	GO:1902706	valeric acid	acidogenesis		C3823112
+17311	17323	GO:1902699	valeric acid	acidogenesis		C3823112
+17528	17534	GO:0007613	memory	memory	Memory	C0025260
+17607	17631	GO:0007608	reduced olfactory memory	smell perception	Smell Perception	C0037361
+17699	17707	GO:0007612	learning	learning	Learning	C0023185
+17760	17790	GO:0007608	a decrease in olfactory memory	smell perception	Smell Perception	C0037361
+17944	17950	GO:0007613	memory	memory	Memory	C0025260
+18040	18046	GO:0007613	memory	memory	Memory	C0025260
+18209	18215	GO:0007613	memory	memory	Memory	C0025260
+18280	18286	GO:0007613	memory	memory	Memory	C0025260
+18371	18408	GO:0007608	the observed olfactory memory deficit	smell perception	Smell Perception	C0037361
+18412	18441	GO:0007608	rather specific for olfaction	smell perception	Smell Perception	C0037361
+18539	18547	GO:0007612	learning	learning	Learning	C0023185
+18616	18622	GO:0007613	memory	memory	Memory	C0025260
+18758	18794	GO:0007608	this variability in olfactory memory	smell perception	Smell Perception	C0037361
+19179	19198	GO:0042571	with a cre-antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+19312	19351	GO:0015074	no differences of transgene integration	DNA integration	DNA Integration	C1158478
+19405	19438	GO:0007567	attributed to genetic differences	parturition	Birth	C0005615
+19405	19438	GO:0000003	attributed to genetic differences	reproduction	Reproduction	C0035150
+19505	19540	GO:0007608	the variability in olfactory memory	smell perception	Smell Perception	C0037361
+19693	19714	GO:0007608	poor olfactory memory	smell perception	Smell Perception	C0037361
+19698	19714	GO:0007608	olfactory memory	smell perception	Smell Perception	C0037361
+19919	19965	GO:0007608	the pronounced variability of olfactory memory	smell perception	Smell Perception	C0037361
+20134	20140	GO:0007613	memory	memory	Memory	C0025260
+20199	20205	GO:0007613	memory	memory	Memory	C0025260
+20216	20222	GO:0007613	memory	memory	Memory	C0025260
+20304	20319	GO:0007608	olfactory bulb,	smell perception	Smell Perception	C0037361
+20412	20418	GO:0007613	memory	memory	Memory	C0025260
+20600	20617	GO:0007608	olfactory memory,	smell perception	Smell Perception	C0037361
+20622	20628	GO:0007613	memory	memory	Memory	C0025260
+20828	20834	GO:0007613	memory	memory	Memory	C0025260
+20923	20954	GO:0007608	extracted from olfactory bulbs,	smell perception	Smell Perception	C0037361
+21228	21236	GO:0007612	learning	learning	Learning	C0023185
+21365	21371	GO:0007613	memory	memory	Memory	C0025260
+21565	21592	GO:0007608	found in the olfactory bulb	smell perception	Smell Perception	C0037361
+21691	21746	GO:0050789	that compensatory up-regulation of other ampar subunits	regulation of biological process	Regulation of biological process	C1327622
+21904	21931	GO:0007608	decreased olfactory memory,	smell perception	Smell Perception	C0037361
+22044	22052	GO:0007612	learning	learning	Learning	C0023185
+22134	22155	GO:0007608	in the olfactory bulb	smell perception	Smell Perception	C0037361
+22267	22275	GO:0007612	learning	learning	Learning	C0023185
+22455	22472	GO:0007608	olfactory memory,	smell perception	Smell Perception	C0037361
+22477	22495	GO:0008355	olfactory learning	olfactory learning	Olfactory Learning	C1154340
+22546	22588	GO:0007608	partial rescue of olfactory memory deficit	smell perception	Smell Perception	C0037361
+22805	22823	GO:0007608	(olfactory) cortex	smell perception	Smell Perception	C0037361
+22841	22872	GO:0007608	important for olfactory memory.	smell perception	Smell Perception	C0037361
+22873	22903	GO:0007608	the olfactory memory phenotype	smell perception	Smell Perception	C0037361
+22940	22959	GO:0007608	in olfactory cortex	smell perception	Smell Perception	C0037361
+22985	22993	GO:0007612	learning	learning	Learning	C0023185
+23067	23096	GO:0007608	glur-b in the olfactory bulb.	smell perception	Smell Perception	C0037361
+23215	23316	GO:0031386	expressed by transgenic means n-terminally green fluorescent protein (gfp)-tagged glur-b specifically	protein tag		C1818826
+23540	23546	GO:0007613	memory	memory	Memory	C0025260
+23664	23708	GO:0007567	the genetic background of glur-bdeltafb mice	parturition	Birth	C0005615
+23664	23708	GO:0000003	the genetic background of glur-bdeltafb mice	reproduction	Reproduction	C0035150
+23848	23861	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+24020	24023	GO:0007601	see	vision	Vision	C0042789
+24209	24236	GO:0004565	beta-galactosidase activity	beta-galactosidase activity		C1150053
+24428	24432	GO:0005623	cell	cell	Cells	C0007634
+24585	24633	GO:0007608	olfactory memory experiments with glur-brescue ,	smell perception	Smell Perception	C0037361
+24595	24601	GO:0007613	memory	memory	Memory	C0025260
+24967	25004	GO:0007608	olfactory memory in glur-brescue mice	smell perception	Smell Perception	C0037361
+25125	25131	GO:0007613	memory	memory	Memory	C0025260
+25221	25227	GO:0007613	memory	memory	Memory	C0025260
+25247	25253	GO:0007613	memory	memory	Memory	C0025260
+25484	25490	GO:0007613	memory	memory	Memory	C0025260
+25807	25813	GO:0007613	memory	memory	Memory	C0025260
+25928	25934	GO:0007613	memory	memory	Memory	C0025260
+26065	26068	GO:0007601	see	vision	Vision	C0042789
+26079	26085	GO:0007613	memory	memory	Memory	C0025260
+26113	26176	GO:0007608	in the olfactory memory experiments with glur-bdeltafb animals,	smell perception	Smell Perception	C0037361
+26120	26136	GO:0007608	olfactory memory	smell perception	Smell Perception	C0037361
+26340	26346	GO:0007613	memory	memory	Memory	C0025260
+26516	26552	GO:0007608	olfactory memory by approximately 9%	smell perception	Smell Perception	C0037361
+27210	27231	GO:0007608	in the olfactory bulb	smell perception	Smell Perception	C0037361
+27445	27451	GO:0007613	memory	memory	Memory	C0025260
+27471	27504	GO:0007608	enhanced olfactory discrimination	smell perception	Smell Perception	C0037361
+27509	27517	GO:0007612	learning	learning	Learning	C0023185
+27574	27622	GO:0007608	spatial dissections of olfactory discrimination,	smell perception	Smell Perception	C0037361
+27623	27631	GO:0007612	learning	learning	Learning	C0023185
+27637	27643	GO:0007613	memory	memory	Memory	C0025260
+27657	27670	GO:0007567	gene-targeted	parturition	Birth	C0005615
+27657	27670	GO:0000003	gene-targeted	reproduction	Reproduction	C0035150
+27863	27877	GO:0007608	olfactory bulb	smell perception	Smell Perception	C0037361
+27897	27901	GO:0005623	cell	cell	Cells	C0007634
+27913	27937	GO:0007608	olfactory discrimination	smell perception	Smell Perception	C0037361
+27942	27950	GO:0007612	learning	learning	Learning	C0023185
+27963	27980	GO:0007608	olfactory memory.	smell perception	Smell Perception	C0037361
+27997	28015	GO:0042048	olfactory behavior	olfactory behavior		C1154328
+28045	28065	GO:0035106	operant conditioning	operant conditioning	Operant Conditioning	C0009651
+28128	28136	GO:0007610	behavior	behavior	Behavior	C0004927
+28183	28237	GO:0007608	a striking variability in olfactory memory performance	smell perception	Smell Perception	C0037361
+28393	28460	GO:0006310	recombination within loxp-flanked segments of gene-targeted alleles	DNA recombination	Recombination, Genetic	C0034865
+28630	28636	GO:0007613	memory	memory	Memory	C0025260
+28638	28662	GO:0007608	olfactory discrimination	smell perception	Smell Perception	C0037361
+28667	28675	GO:0007612	learning	learning	Learning	C0023185
+28987	28993	GO:0007613	memory	memory	Memory	C0025260
+29022	29060	GO:0007608	the enhanced olfactory discrimination.	smell perception	Smell Perception	C0037361
+29088	29117	GO:0007608	that olfactory discrimination	smell perception	Smell Perception	C0037361
+29145	29207	GO:0007608	in ampar-mediated ca2+ permeability within the olfactory bulb,	smell perception	Smell Perception	C0037361
+29216	29232	GO:0007608	olfactory memory	smell perception	Smell Perception	C0037361
+29350	29374	GO:0007608	olfactory discrimination	smell perception	Smell Perception	C0037361
+29544	29562	GO:0008355	olfactory learning	olfactory learning	Olfactory Learning	C1154340
+30051	30112	GO:0007608	the characteristics of the olfactory discrimination phenotype	smell perception	Smell Perception	C0037361
+30336	30344	GO:0007612	learning	learning	Learning	C0023185
+30462	30470	GO:0007610	behavior	behavior	Behavior	C0004927
+30486	30551	GO:0008542	hippocampus-dependent spatial learning tasks such as matching-to-	visual learning	Visual learning	C0582587
+30575	30581	GO:0007613	memory	memory	Memory	C0025260
+30639	30685	GO:0007608	observed in the main olfactory sensory neurons	smell perception	Smell Perception	C0037361
+30693	30704	GO:0032502	development	development	Biologic Development	C0678723
+30747	30776	GO:0007608	olfactory epithelial function	smell perception	Smell Perception	C0037361
+30781	30819	GO:0007567	unaltered by the genetic modification.	parturition	Birth	C0005615
+30781	30819	GO:0000003	unaltered by the genetic modification.	reproduction	Reproduction	C0035150
+30946	30982	GO:0007608	in the olfactory discrimination task	smell perception	Smell Perception	C0037361
+31008	31011	GO:0007601	see	vision	Vision	C0042789
+31023	31031	GO:0007610	behavior	behavior	Behavior	C0004927
+31065	31120	GO:0007608	associated with the processing of olfactory information	smell perception	Smell Perception	C0037361
+31420	31428	GO:0007612	learning	learning	Learning	C0023185
+31586	31590	GO:0005623	cell	cell	Cells	C0007634
+31637	31645	GO:0007612	learning	learning	Learning	C0023185
+31721	31749	GO:0007608	most notably olfactory bulb,	smell perception	Smell Perception	C0037361
+31750	31767	GO:0007608	olfactory cortex,	smell perception	Smell Perception	C0037361
+31854	31862	GO:0007612	learning	learning	Learning	C0023185
+31936	31946	GO:0007567	(genetic "	parturition	Birth	C0005615
+31936	31946	GO:0000003	(genetic "	reproduction	Reproduction	C0035150
+32034	32056	GO:0007608	in the olfactory bulb,	smell perception	Smell Perception	C0037361
+32099	32107	GO:0007612	learning	learning	Learning	C0023185
+32130	32182	GO:0007608	consistent with a primary role of the olfactory bulb	smell perception	Smell Perception	C0037361
+32183	32210	GO:0007608	in olfactory discrimination	smell perception	Smell Perception	C0037361
+32215	32223	GO:0007612	learning	learning	Learning	C0023185
+32318	32326	GO:0007612	learning	learning	Learning	C0023185
+32350	32356	GO:0007613	memory	memory	Memory	C0025260
+32658	32666	GO:0007612	learning	learning	Learning	C0023185
+33110	33114	GO:0005623	cell	cell	Cells	C0007634
+33202	33206	GO:0005623	cell	cell	Cells	C0007634
+33484	33492	GO:0007612	learning	learning	Learning	C0023185
+33598	33605	GO:0045202	synapse	synapse	Synapses	C0039062
+33689	33729	GO:0098657	supported by kainate-induced co2+ uptake	import into cell	Import into cell	C3888108
+33763	33820	GO:0098657	considerably higher co2+ uptake via ca2+-permeable ampars	import into cell	Import into cell	C3888108
+34033	34040	GO:0045202	synapse	synapse	Synapses	C0039062
+34068	34072	GO:0005623	cell	cell	Cells	C0007634
+34215	34218	GO:0007601	see	vision	Vision	C0042789
+34283	34305	GO:0007608	in the olfactory bulb,	smell perception	Smell Perception	C0037361
+34350	34398	GO:0097458	between the principal neurons in this structure.	neuron part	neuron structure	C0682678
+34408	34458	GO:0007608	the improved olfactory discrimination capabilities	smell perception	Smell Perception	C0037361
+34555	34558	GO:0007601	see	vision	Vision	C0042789
+34909	34938	GO:0007608	models of the olfactory bulb,	smell perception	Smell Perception	C0037361
+35158	35166	GO:0007612	learning	learning	Learning	C0023185
+35290	35298	GO:0007610	behavior	behavior	Behavior	C0004927
+35637	35654	GO:0003904	simultaneous pre-	photoreactivating enzyme activity		C2257086
+35659	35699	GO:0005622	postsynaptic intracellular measurements.	protoplasm	Protoplasm	C0175996
+35701	35717	GO:0007608	olfactory memory	smell perception	Smell Perception	C0037361
+35833	35872	GO:0007608	olfactory memory of glur-bdeltafb mice,	smell perception	Smell Perception	C0037361
+36001	36009	GO:0007610	behavior	behavior	Behavior	C0004927
+36137	36143	GO:0007613	memory	memory	Memory	C0025260
+36291	36297	GO:0007613	memory	memory	Memory	C0025260
+36391	36415	GO:0007608	reduced olfactory memory	smell perception	Smell Perception	C0037361
+36582	36588	GO:0007613	memory	memory	Memory	C0025260
+36765	36771	GO:0007613	memory	memory	Memory	C0025260
+36796	36802	GO:0007613	memory	memory	Memory	C0025260
+36877	36883	GO:0007613	memory	memory	Memory	C0025260
+36949	36955	GO:0007613	memory	memory	Memory	C0025260
+37108	37164	GO:0007616	results in a specific loss of long-term olfactory memory	long-term memory	Memory, Long-Term	C0423909
+37224	37232	GO:0007612	learning	learning	Learning	C0023185
+37279	37287	GO:0007612	learning	learning	Learning	C0023185
+37293	37299	GO:0007613	memory	memory	Memory	C0025260
+37346	37350	GO:0005623	cell	cell	Cells	C0007634
+37522	37530	GO:0007610	behavior	behavior	Behavior	C0004927
+37583	37591	GO:0007612	learning	learning	Learning	C0023185
+37613	37630	GO:0007608	olfactory memory.	smell perception	Smell Perception	C0037361
+37716	37752	GO:0007608	cortical areas with olfactory memory	smell perception	Smell Perception	C0037361
+37850	37857	GO:0051235	storage	storage	cellular entity storage	C1753314
+37892	37900	GO:0007612	learning	learning	Learning	C0023185
+38191	38199	GO:0007612	learning	learning	Learning	C0023185
+38204	38210	GO:0007613	memory	memory	Memory	C0025260
+38286	38318	GO:0007608	hippocampus in olfactory memory,	smell perception	Smell Perception	C0037361
+38328	38363	GO:0007608	glur-b levels in the olfactory bulb	smell perception	Smell Perception	C0037361
+38397	38403	GO:0007613	memory	memory	Memory	C0025260
+38502	38508	GO:0007613	memory	memory	Memory	C0025260
+38679	38719	GO:0002524	the sensitivity of the behavioral assay.	hypersensitivity	Hypersensitivity	C0020517
+38783	38811	GO:0007608	those olfactory memory tasks	smell perception	Smell Perception	C0037361
+38863	38894	GO:0050890	other higher cognitive features	cognition	Cognition	C0009240
+38909	38970	GO:0009058	in particular, extensive lesions to the hippocampal formation	anabolism	Anabolism	C0220781
+38986	39027	GO:0007616	interfere with long-term olfactory memory	long-term memory	Memory, Long-Term	C0423909
+39028	39081	GO:0007608	in go/no-go successive olfactory discrimination tasks	smell perception	Smell Perception	C0037361
+39175	39220	GO:0007608	for the locus of the olfactory memory deficit	smell perception	Smell Perception	C0037361
+39306	39312	GO:0007613	memory	memory	Memory	C0025260
+39332	39340	GO:0007612	learning	learning	Learning	C0023185
+39391	39451	GO:0007608	potential mechanisms of specific olfactory memory impairment	smell perception	Smell Perception	C0037361
+39471	39475	GO:0005623	cell	cell	Cells	C0007634
+40011	40050	GO:0003904	hebbian dependence on simultaneous pre-	photoreactivating enzyme activity		C2257086
+40109	40115	GO:0007613	memory	memory	Memory	C0025260
+40266	40280	GO:0060291	no ltp changes	long-term potentiation	Long-Term Potentiation	C0206249
+40351	40371	GO:0060291	nmda-independent ltp	long-term potentiation	Long-Term Potentiation	C0206249
+40398	40405	GO:0045202	synapse	synapse	Synapses	C0039062
+40415	40434	GO:1990021	Schaffer collateral	Schaffer collateral	Schaffer Collaterals	C3544403
+40454	40458	GO:0005623	cell	cell	Cells	C0007634
+40586	40652	GO:0007608	potentially important for the processing of olfactory information,	smell perception	Smell Perception	C0037361
+40680	40695	GO:0007608	olfactory bulb,	smell perception	Smell Perception	C0037361
+40696	40712	GO:0060291	ltp measurements	long-term potentiation	Long-Term Potentiation	C0206249
+40742	40749	GO:0045202	synapse	synapse	Synapses	C0039062
+40823	40830	GO:0045202	synapse	synapse	Synapses	C0039062
+40893	40916	GO:0007165	ca2+ signaling via ampa	signal transduction	Signal Transduction	C0037083
+40893	40916	GO:0023052	ca2+ signaling via ampa	biological signaling		C3537152
+40985	40991	GO:0007613	memory	memory	Memory	C0025260
+41081	41118	GO:0007608	a prevalent role in olfactory memory.	smell perception	Smell Perception	C0037361
+41179	41194	GO:0016310	phosphorylation	phosphorylation	Phosphorylation	C0031715
+41179	41201	GO:0006468	glur-b phosphorylation	protein phosphorylation	Protein phosphorylation	C1158886
+41195	41237	GO:0060292	similar to cerebellar long-term depression	long term depression		C2610415
+41396	41463	GO:0007567	genetic modifications with completely undisturbed input structures.	parturition	Birth	C0005615
+41396	41463	GO:0000003	genetic modifications with completely undisturbed input structures.	reproduction	Reproduction	C0035150
+41609	41617	GO:0007610	behavior	behavior	Behavior	C0004927
+41629	41644	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+41725	41733	GO:0007612	learning	learning	Learning	C0023185
+41823	41829	GO:0007613	memory	memory	Memory	C0025260
+42042	42048	GO:0007613	memory	memory	Memory	C0025260
+42163	42166	GO:0007601	see	vision	Vision	C0042789
+42211	42219	GO:0007610	behavior	behavior	Behavior	C0004927
+42310	42366	GO:0007567	distinct genetic origins of different behavioral traits.	parturition	Birth	C0005615
+42456	42464	GO:0007610	behavior	behavior	Behavior	C0004927
+42660	42691	GO:0007567	differences in individual genes	parturition	Birth	C0005615
+42660	42691	GO:0000003	differences in individual genes	reproduction	Reproduction	C0035150
+42709	42747	GO:0007567	compared with the vast number of genes	parturition	Birth	C0005615
+42709	42747	GO:0000003	compared with the vast number of genes	reproduction	Reproduction	C0035150
+42790	42798	GO:0007610	behavior	behavior	Behavior	C0004927
+42959	42967	GO:0007610	behavior	behavior	Behavior	C0004927
+43017	43037	GO:0007567	the individual genes	parturition	Birth	C0005615
+43017	43037	GO:0000003	the individual genes	reproduction	Reproduction	C0035150
+43209	43267	GO:0007567	the advantages of "classical" genetic manipulation-namely,	parturition	Birth	C0005615
+43209	43267	GO:0000003	the advantages of "classical" genetic manipulation-namely,	reproduction	Reproduction	C0035150
+43429	43433	GO:0005623	cell	cell	Cells	C0007634
+43583	43591	GO:0007610	behavior	behavior	Behavior	C0004927
+43737	43774	GO:0008355	in olfactory discrimination/learning,	olfactory learning	Olfactory Learning	C1154340
+43779	43785	GO:0007613	memory	memory	Memory	C0025260
+43787	43820	GO:0007608	potentially in the olfactory bulb	smell perception	Smell Perception	C0037361
+43995	44001	GO:0007613	memory	memory	Memory	C0025260
+44033	44041	GO:0007612	learning	learning	Learning	C0023185
+44221	44229	GO:0007610	behavior	behavior	Behavior	C0004927
+44258	44285	GO:0007567	dosed genetic interference,	parturition	Birth	C0005615
+44258	44285	GO:0000003	dosed genetic interference,	reproduction	Reproduction	C0035150
+44414	44422	GO:0007610	behavior	behavior	Behavior	C0004927
+44600	44623	GO:0007567	nmri genetic background	parturition	Birth	C0005615
+44600	44623	GO:0000003	nmri genetic background	reproduction	Reproduction	C0035150
+44751	44789	GO:0007567	a gene-targeted glur-b allele in which	parturition	Birth	C0005615
+44751	44789	GO:0000003	a gene-targeted glur-b allele in which	reproduction	Reproduction	C0035150
+44846	44871	GO:0007567	replaced by a tk-neo gene	parturition	Birth	C0005615
+44846	44871	GO:0000003	replaced by a tk-neo gene	reproduction	Reproduction	C0035150
+44933	44978	GO:0007567	gene-targeted glur-b alleles in which exon 11	parturition	Birth	C0005615
+44933	44978	GO:0000003	gene-targeted glur-b alleles in which exon 11	reproduction	Reproduction	C0035150
+45009	45043	GO:0007567	were of c57bl/6 genetic background	parturition	Birth	C0005615
+45009	45043	GO:0000003	were of c57bl/6 genetic background	reproduction	Reproduction	C0035150
+45158	45161	GO:0007601	see	vision	Vision	C0042789
+45252	45262	GO:0045120	pronucleus	pronucleus	Pronucleus	C1167158
+45461	45471	GO:0045120	pronucleus	pronucleus	Pronucleus	C1167158
+46151	46189	GO:0007567	homozygous for the floxed glur-b gene,	parturition	Birth	C0005615
+46151	46189	GO:0000003	homozygous for the floxed glur-b gene,	reproduction	Reproduction	C0035150
+46194	46251	GO:0002524	positive for the tet-sensitive responder transgene tgocn1	hypersensitivity	Hypersensitivity	C0020517
+48193	48212	GO:0042571	primary antibodies,	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+48343	48381	GO:0042571	secondary goat anti-rabbit antibodies.	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+48383	48412	GO:0007608	the main olfactory epithelium	smell perception	Smell Perception	C0037361
+48490	48512	GO:0042571	(primary antibody cre,	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+48660	48675	GO:0007608	olfactory bulb,	smell perception	Smell Perception	C0037361
+48799	48809	GO:0042571	antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+49003	49029	GO:0042571	goat anti-mouse antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+49209	49217	GO:0007610	behavior	behavior	Behavior	C0004927
+49445	49453	GO:0007610	behavior	behavior	Behavior	C0004927
+49469	49494	GO:0007610	conducted during daytime.	behavior	Behavior	C0004927
+49833	49873	GO:0007608	all olfactory discrimination experiments	smell perception	Smell Perception	C0037361
+50612	50628	GO:1902698	pelargonic acid,	acidogenesis		C3823112
+50612	50628	GO:1902705	pelargonic acid,	acidogenesis		C3823112
+50612	50628	GO:1902706	pelargonic acid,	acidogenesis		C3823112
+50612	50628	GO:1902699	pelargonic acid,	acidogenesis		C3823112
+50629	50642	GO:1902698	valeric acid,	acidogenesis		C3823112
+50629	50642	GO:1902705	valeric acid,	acidogenesis		C3823112
+50629	50642	GO:1902706	valeric acid,	acidogenesis		C3823112
+50629	50642	GO:1902699	valeric acid,	acidogenesis		C3823112
+50735	50749	GO:0031214	in mineral oil	mineralization	Physiologic calcification	C0006660
+50913	50928	GO:0031214	in mineral oil.	mineralization	Physiologic calcification	C0006660
+50982	50993	GO:0046959	habituation	habituation	Psychological habituation	C0221711
+51098	51138	GO:0035106	standard operant-conditioning procedures	operant conditioning	Operant Conditioning	C0009651
+51173	51209	GO:0007567	each lick at the water delivery tube	parturition	Birth	C0005615
+51403	51434	GO:0031214	the carrier medium mineral oil.	mineralization	Physiologic calcification	C0006660
+51447	51454	GO:0007612	learned	learning	Learning	C0023185
+51639	51642	GO:0007601	see	vision	Vision	C0042789
+53454	53508	GO:0002524	a more sensitive measure of discrimination performance	hypersensitivity	Hypersensitivity	C0020517
+53642	53650	GO:0007610	behavior	behavior	Behavior	C0004927
+53953	54007	GO:0002524	a sensitive measure of the discrimination performance.	hypersensitivity	Hypersensitivity	C0020517
+54693	54704	GO:0046959	habituation	habituation	Psychological habituation	C0221711
+54928	54934	GO:0007613	memory	memory	Memory	C0025260
+54999	55007	GO:0007612	learning	learning	Learning	C0023185
+55016	55025	GO:0016234	inclusion	inclusion body	Inclusion Bodies	C0007637
+55096	55104	GO:0007612	learning	learning	Learning	C0023185
+55164	55172	GO:0007612	learning	learning	Learning	C0023185
+55484	55507	GO:0043336	after two days of rest,	site-specific telomere resolvase activity		C1622890
+55573	55599	GO:1902698	between 1% pelargonic acid	acidogenesis		C3823112
+55573	55599	GO:1902705	between 1% pelargonic acid	acidogenesis		C3823112
+55573	55599	GO:1902706	between 1% pelargonic acid	acidogenesis		C3823112
+55573	55599	GO:1902699	between 1% pelargonic acid	acidogenesis		C3823112
+55604	55643	GO:1902698	1% valeric acid for another 600 trials.	acidogenesis		C3823112
+55604	55643	GO:1902705	1% valeric acid for another 600 trials.	acidogenesis		C3823112
+55604	55643	GO:1902706	1% valeric acid for another 600 trials.	acidogenesis		C3823112
+55604	55643	GO:1902699	1% valeric acid for another 600 trials.	acidogenesis		C3823112
+55731	55758	GO:0007567	and between genetic groups,	parturition	Birth	C0005615
+55731	55758	GO:0000003	and between genetic groups,	reproduction	Reproduction	C0035150
+56011	56017	GO:0007613	memory	memory	Memory	C0025260
+56041	56047	GO:0007613	memory	memory	Memory	C0025260
+56081	56117	GO:1902698	discriminate between pelargonic acid	acidogenesis		C3823112
+56081	56117	GO:1902705	discriminate between pelargonic acid	acidogenesis		C3823112
+56081	56117	GO:1902706	discriminate between pelargonic acid	acidogenesis		C3823112
+56081	56117	GO:1902699	discriminate between pelargonic acid	acidogenesis		C3823112
+56122	56135	GO:1902698	valeric acid,	acidogenesis		C3823112
+56122	56135	GO:1902705	valeric acid,	acidogenesis		C3823112
+56122	56135	GO:1902706	valeric acid,	acidogenesis		C3823112
+56122	56135	GO:1902699	valeric acid,	acidogenesis		C3823112
+56136	56142	GO:0007613	memory	memory	Memory	C0025260
+56305	56311	GO:0007613	memory	memory	Memory	C0025260
+56721	56729	GO:0007612	learning	learning	Learning	C0023185
+56879	56887	GO:0007612	learning	learning	Learning	C0023185
+57204	57210	GO:0007613	memory	memory	Memory	C0025260
+57449	57455	GO:0007613	memory	memory	Memory	C0025260
+57449	57460	GO:0007613	mean memory	memory	Memory	C0025260
+57557	57563	GO:0007613	memory	memory	Memory	C0025260
+57661	57697	GO:0007567	forebrain-specific gene manipulation	parturition	Birth	C0005615
+57661	57697	GO:0000003	forebrain-specific gene manipulation	reproduction	Reproduction	C0035150
+58052	58079	GO:0004565	beta-galactosidase activity	beta-galactosidase activity		C1150053
+58329	58370	GO:0007608	olfactory bulb sections of the same mouse	smell perception	Smell Perception	C0037361
+58452	58479	GO:0004565	beta-galactosidase activity	beta-galactosidase activity		C1150053
+58529	58533	GO:0005623	cell	cell	Cells	C0007634
+58551	58555	GO:0005623	cell	cell	Cells	C0007634
+58972	58978	GO:0007613	memory	memory	Memory	C0025260
+59027	59033	GO:0007613	memory	memory	Memory	C0025260
+59190	59196	GO:0007613	memory	memory	Memory	C0025260
+59239	59245	GO:0007613	memory	memory	Memory	C0025260
+59551	59557	GO:0007613	memory	memory	Memory	C0025260
+59656	59662	GO:0007613	memory	memory	Memory	C0025260
+59846	59852	GO:0007613	memory	memory	Memory	C0025260
+60091	60097	GO:0007613	memory	memory	Memory	C0025260
+60233	60280	GO:0007608	in the main olfactory epithelium of tgcre4 mice	smell perception	Smell Perception	C0037361
+60286	60328	GO:0007608	overview of the main olfactory epithelium.	smell perception	Smell Perception	C0037361
+60373	60377	GO:0005623	cell	cell	Cells	C0007634
+60435	60439	GO:0005623	cell	cell	Cells	C0007634
+60497	60501	GO:0005623	cell	cell	Cells	C0007634
+61012	61020	GO:0007610	behavior	behavior	Behavior	C0004927
+61614	61627	GO:0000496	bp - basepair	base pairing	Base Pairing	C0600436
+61662	61688	GO:0060291	ltp - long-term plasticity	long-term potentiation	Long-Term Potentiation	C0206249
+61783	61791	GO:0007612	learning	learning	Learning	C0023185
+62122	62130	GO:0016020	membrane	membrane	Membrane	C0596901
+62606	62632	GO:0007567	licks at the delivery tube	parturition	Birth	C0005615
+63813	63821	GO:0007612	learning	learning	Learning	C0023185
+63863	63869	GO:0007613	memory	memory	Memory	C0025260
+64294	64302	GO:0007612	learning	learning	Learning	C0023185
+64546	64549	GO:0007601	see	vision	Vision	C0042789
+64851	64908	GO:0007608	olfactory memory performance for nine littermate controls	smell perception	Smell Perception	C0037361
+64952	64968	GO:0007608	olfactory memory	smell perception	Smell Perception	C0037361
+65166	65181	GO:1902698	pelargonic acid	acidogenesis		C3823112
+65166	65181	GO:1902705	pelargonic acid	acidogenesis		C3823112
+65166	65181	GO:1902706	pelargonic acid	acidogenesis		C3823112
+65166	65181	GO:1902699	pelargonic acid	acidogenesis		C3823112
+65188	65201	GO:1902698	valeric acid.	acidogenesis		C3823112
+65188	65201	GO:1902705	valeric acid.	acidogenesis		C3823112
+65188	65201	GO:1902706	valeric acid.	acidogenesis		C3823112
+65188	65201	GO:1902699	valeric acid.	acidogenesis		C3823112
+65375	65378	GO:0007601	see	vision	Vision	C0042789
+65440	65467	GO:0004565	beta-galactosidase activity	beta-galactosidase activity		C1150053
+65786	65802	GO:0007608	olfactory memory	smell perception	Smell Perception	C0037361
+65816	65824	GO:0007612	learning	learning	Learning	C0023185
+65938	65991	GO:0007608	the olfactory memory performance for 18 glur-bdeltafb	smell perception	Smell Perception	C0037361
+66482	66511	GO:0007608	olfactory bulb of one control	smell perception	Smell Perception	C0037361
+66664	66691	GO:0007608	olfactory bulb (ob) protein	smell perception	Smell Perception	C0037361
+66761	66783	GO:0042571	probed with antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+66965	66973	GO:0007612	learning	learning	Learning	C0023185
+66993	67021	GO:0007608	olfactory memory performance	smell perception	Smell Perception	C0037361
+67124	67156	GO:0007608	olfactory bulb protein extracts.	smell perception	Smell Perception	C0037361
+67157	67163	GO:0007613	memory	memory	Memory	C0025260
+67403	67409	GO:0007613	memory	memory	Memory	C0025260
+67545	67578	GO:0007608	only weakly in the olfactory bulb	smell perception	Smell Perception	C0037361
+67616	67624	GO:0007612	learning	learning	Learning	C0023185
+68438	68465	GO:0004565	beta-galactosidase activity	beta-galactosidase activity		C1150053
+68677	68706	GO:0042571	with an antibody against gfp.	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+69048	69054	GO:0007613	memory	memory	Memory	C0025260
+69090	69118	GO:0007608	olfactory memory experiments	smell perception	Smell Perception	C0037361
+69514	69520	GO:0007613	memory	memory	Memory	C0025260
+69534	69540	GO:0007613	memory	memory	Memory	C0025260
+69761	69767	GO:0007613	memory	memory	Memory	C0025260
+69831	69837	GO:0007613	memory	memory	Memory	C0025260
+69973	69979	GO:0007613	memory	memory	Memory	C0025260
+70558	70590	GO:0007608	olfactory behavioral experiments	smell perception	Smell Perception	C0037361
+70742	70750	GO:0007610	behavior	behavior	Behavior	C0004927
+70991	71066	GO:0007608	impaired olfactory memory by spatially controlled switch of ampa receptors.	smell perception	Smell Perception	C0037361

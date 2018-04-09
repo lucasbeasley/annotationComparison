@@ -38,16 +38,42 @@ public class averageJaccard {
         private int endIndex = -1;          //term's ending index in paper
 
         //getters/setters
-        public void setTerm(String term){ this.term = term; }
-        public void setID(String id){ this.id = id; }
-        private void setRef(String ref){ this.ref = ref; }
-        private void setStartIndex(int start){ this.startIndex = start; }
-        private void setEndIndex(int end){ this.endIndex = end; }
         public String getTerm(){ return this.term; }
         public String getID(){ return this.id; }
         private String getRef(){ return this.ref; }
         private int getStartIndex(){ return this.startIndex; }
         private int getEndIndex(){ return this.endIndex; }
+        public void setTerm(String term){ this.term = term; }
+        public void setID(String id){ this.id = id; }
+        private void setRef(String ref){ this.ref = ref; }
+        private void setStartIndex(int start){ this.startIndex = start; }
+        private void setEndIndex(int end){ this.endIndex = end; }
+
+    }
+
+    /***
+     * Annotation class for MetaMap annotations
+     */
+    public class mmAnnotation extends Annotation{
+        private String prefName = "";       //preferred name
+        private String cuid = "";           //CUID
+
+        //getters/setters
+        public String getPrefName(){ return this.prefName; }
+        public String getCuid(){ return this.cuid; }
+        private void setPrefName(String prefName){ this.prefName = prefName; }
+        private void setCuid(String cuid){ this.cuid = cuid; }
+    }
+
+    /***
+     * Annotation class for NCBO annotations
+     */
+    public class ncboAnnotation extends Annotation{
+        private String matchType = "";      //match type of annotation (pref or syn)
+
+        //getter/setter
+        public String getMatchType(){ return this.matchType; }
+        private void setMatchType(String matchType){ this.matchType = matchType; }
     }
 
     /***
@@ -70,21 +96,25 @@ public class averageJaccard {
         public String getToolID(){ return toolID; }
     }
 
-    public class CountsAndPartials{
+    private class CountsAndPartials{
         private int exacts = 0;                                     //total number of exact matches
         private int partials = 0;                                   //total number of partial matches
+        private int unique = 0;                                     //total number of unique GO:IDs
         private int newannotations = 0;                             //total number of new annotations
         private List<PartialMatch> matches = new ArrayList<>();     //list of partial matches
 
         //getters/setters
-        public void setExacts(int exacts){ this.exacts = exacts; }
-        public void setMatches(List<PartialMatch> matches){ this.matches = matches; }
-        public void setNewAnnotations(int newannotations){ this.newannotations = newannotations; }
-        public void setPartials(int partials){ this.partials = partials;}
-        public int getExacts(){ return exacts; }
-        public int getPartials(){ return partials; }
-        public int getNewAnnotations(){ return newannotations; }
-        public List<PartialMatch> getMatches(){ return matches; }
+        private int getExacts(){ return exacts; }
+        private int getPartials(){ return partials; }
+        private int getUnique(){ return unique; }
+        private int getNewAnnotations(){ return newannotations; }
+        private List<PartialMatch> getMatches(){ return matches; }
+        private void setExacts(int exacts){ this.exacts = exacts; }
+        private void setMatches(List<PartialMatch> matches){ this.matches = matches; }
+        private void setNewAnnotations(int newannotations){ this.newannotations = newannotations; }
+        private void setUnique(int unique){ this.unique = unique; }
+        private void setPartials(int partials){ this.partials = partials;}
+
     }
 
     public static void main(String[] args) {
@@ -96,6 +126,8 @@ public class averageJaccard {
         File ncbo = new File("ncboAnnotations");
         //Directory for Textpresso Annotations
         File textpresso = new File("textpressoAnnotations");
+        //Directory for MetaMap Annotations
+        File metamap = new File("metamapAnnotations");
         //GO Ontology file
         File ontology = new File("go.owl");
 
@@ -104,10 +136,35 @@ public class averageJaccard {
                                                     avgj.pullCRAFTAnnos(craft_bpmf));
         Map<String, List<Annotation>> ncbo_annos = avgj.pullAnnos(ncbo);
         Map<String, List<Annotation>> textpresso_annos = avgj.pullAnnos(textpresso);
+        Map<String, List<Annotation>> metamap_annos = avgj.pullAnnos(metamap);
 
         //Compare CRAFT annotations to tools, get the match counts (total, partial, new), and list of partial matches
         Map<String, CountsAndPartials> ncbo_counts = avgj.compareAnnotations(craft_annos, ncbo_annos);
         Map<String, CountsAndPartials> textpresso_counts = avgj.compareAnnotations(craft_annos, textpresso_annos);
+        Map<String, CountsAndPartials> metamap_counts = avgj.compareAnnotations(craft_annos, metamap_annos);
+
+        //Retrieve the total counts (exact, partial, new annotations, unique GO:IDs) for each tool and CRAFT
+        int[] craft_totals = {0, 0};
+        List<String> goids = new ArrayList<>();
+        for(String key: craft_annos.keySet()){
+            for(Annotation a: craft_annos.get(key)){
+                craft_totals[0]++;
+                if(!goids.contains(a.getID())){
+                    goids.add(a.getID());
+                }
+            }
+        }
+        craft_totals[1] = goids.size();
+        CountsAndPartials ncbo_total = avgj.totalCounts(ncbo_counts);
+        CountsAndPartials textpresso_total = avgj.totalCounts(textpresso_counts);
+        CountsAndPartials metamap_total = avgj.totalCounts(metamap_counts);
+        avgj.countUniqueGOs(ncbo_total, ncbo_annos);
+        avgj.countUniqueGOs(textpresso_total, textpresso_annos);
+        avgj.countUniqueGOs(metamap_total, metamap_annos);
+
+        //Write total counts to files
+        File totals_output = new File("output/totals");
+        avgj.writeOut(craft_totals, ncbo_total, textpresso_total, metamap_total, totals_output);
 
         //Setup the ontology
         avgj.setupOntology(ontology);
@@ -115,24 +172,29 @@ public class averageJaccard {
         //Calculate Jaccard values for each paper
         Map<String, double[]> ncbo_jaccards = avgj.calculateJaccards(ncbo_counts);
         Map<String, double[]> textpresso_jaccards = avgj.calculateJaccards(textpresso_counts);
+        Map<String, double[]> metamap_jaccards = avgj.calculateJaccards(metamap_counts);
 
         //Calculate mean of Jaccard values and their standard deviation for each paper
         Map<String, Double> ncbo_avg_jaccard = avgj.calculateMean(ncbo_jaccards);
         Map<String, Double> textpresso_avg_jaccard = avgj.calculateMean(textpresso_jaccards);
+        Map<String, Double> metamap_avg_jaccard = avgj.calculateMean(metamap_jaccards);
 
         //Write average Jaccards to files
         File ncbo_output = new File("output/ncbo_avg");
         File textpresso_output = new File("output/textpresso_avg");
+        File metamap_output = new File("output/metamap_avg");
         avgj.writeOut(ncbo_avg_jaccard, ncbo_output);
         avgj.writeOut(textpresso_avg_jaccard,textpresso_output);
+        avgj.writeOut(metamap_avg_jaccard, metamap_output);
 
         //Calculate average mean Jaccard value and average 2nd standard error of the mean for each tool
         double[] ncbo_avg_mean_and_dev = avgj.calculateAvgAndDevForTool(ncbo_avg_jaccard);
         double[] textpresso_avg_mean_and_dev = avgj.calculateAvgAndDevForTool(textpresso_avg_jaccard);
+        double[] metamap_avg_mean_and_dev = avgj.calculateAvgAndDevForTool(metamap_avg_jaccard);
 
         //Write overall average Jaccard and 2nd standard error of the mean for each tool to a file
         File tools_output = new File("output/tool_avgs");
-        avgj.writeOut(ncbo_avg_mean_and_dev, textpresso_avg_mean_and_dev, tools_output);
+        avgj.writeOut(ncbo_avg_mean_and_dev, textpresso_avg_mean_and_dev, metamap_avg_mean_and_dev, tools_output);
 
 
         boolean bool = true;
@@ -243,7 +305,7 @@ public class averageJaccard {
      * @return merged mapping of all CRAFT annotations
      */
     private Map<String, List<Annotation>> mergeMaps(Map<String, List<Annotation>> map1,
-                                                          Map<String, List<Annotation>> map2){
+                                                    Map<String, List<Annotation>> map2){
         List<Annotation> list1, list2;
 
         //check 2nd map
@@ -389,6 +451,40 @@ public class averageJaccard {
             }
         }
         return countsperpaper;
+    }
+
+    /***
+     * countUniqueGOs gets a total count of the unique GO:IDs for all annotations from a tool
+     * @param counts - CountsAndPartials object that stores the count for the unique GOs
+     * @param tool - map of annotations
+     */
+    private void countUniqueGOs(CountsAndPartials counts, Map<String, List<Annotation>> tool){
+        List<String> goids = new ArrayList<>();
+        for(String key: tool.keySet()){
+            for(Annotation a: tool.get(key)){
+                if(!goids.contains(a.getID())){
+                    goids.add(a.getID());
+                }
+            }
+        }
+        counts.setUnique(goids.size());
+    }
+
+    /***
+     * totalCounts gets the total of each count within the CountsAndPartials for a tool.
+     * @param tool - map of counts and partials for each file of a particular tool
+     * @return CountsAndPartials object that contains the total number of exact, partial, and new annotations for a tool.
+     */
+    private CountsAndPartials totalCounts(Map<String, CountsAndPartials> tool){
+        CountsAndPartials total = new CountsAndPartials(), temp;
+        //total up the counts from each file
+        for(String key : tool.keySet()){
+            temp = tool.get(key);
+            total.setExacts(total.getExacts() + temp.getExacts());
+            total.setPartials(total.getPartials() + temp.getPartials());
+            total.setNewAnnotations(total.getNewAnnotations() + temp.getNewAnnotations());
+        }
+        return total;
     }
 
     /***
@@ -608,16 +704,40 @@ public class averageJaccard {
     }
 
     /***
+     * writeOut writes the total number of exact, partial, new annotations, and unique GO:IDs for each tool to a single
+     * tab-separated file.
+     * @param ncbo - CountsAndPartials for NCBO
+     * @param textpresso - CountsAndPartials for Textpresso
+     * @param mm - CountsAndPartials for MetaMap
+     * @param filename - output file name
+     */
+    private void writeOut(int[] craft, CountsAndPartials ncbo, CountsAndPartials textpresso, CountsAndPartials mm, File filename){
+        try(PrintWriter writer = new PrintWriter(filename)){
+            writer.println("CRAFT\tTotal: " + craft[0] + "\tUnique GO:IDs: " + craft[1] + "\n");
+            writer.println("Tool\tExacts\tPartials\tNew\tUniqueGOs\n");
+            writer.println("NCBO\t" + ncbo.getExacts() + "\t" + ncbo.getPartials() + "\t" + ncbo.getNewAnnotations()
+                    + "\t" + ncbo.getUnique());
+            writer.println("Textpresso\t" + textpresso.getExacts() + "\t" + textpresso.getPartials()
+                    + "\t" + textpresso.getNewAnnotations() + "\t" + textpresso.getUnique());
+            writer.println("MetaMap\t" + mm.getExacts() + "\t" + mm.getPartials() + "\t" + mm.getNewAnnotations()
+                    + "\t" + mm.getUnique());
+        }catch(FileNotFoundException ex){
+            System.out.println("Error: Could not write to file " + filename);
+        }
+    }
+
+    /***
      * writeOut writes out the average mean and deviation for each tool to a file.
      * @param ncbovalues - average mean and deviation for NCBO
      * @param textpressovalues - average mean and deviation for Textpresso
-     * @param filename - name of output file
+     * @param filename - output file name
      */
-    private void writeOut(double[] ncbovalues, double[] textpressovalues, File filename){
+    private void writeOut(double[] ncbovalues, double[] textpressovalues, double[] metamapvalues, File filename){
         try(PrintWriter writer = new PrintWriter(filename)){
             writer.println("Tool\tAverageJaccard\tAverageDeviation");
             writer.println("NCBO\t" + ncbovalues[0] + "\t" + ncbovalues[1]);
             writer.println("Textpresso\t" + textpressovalues[0] + "\t" + textpressovalues[1]);
+            writer.println("MetaMap\t" + metamapvalues[0] + "\t" + metamapvalues[1]);
         }catch(FileNotFoundException ex){
             System.out.println("Error: Could not write to file " + filename);
         }

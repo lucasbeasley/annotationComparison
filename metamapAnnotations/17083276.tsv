@@ -1,0 +1,658 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+23	51	GO:0070828	heterochromatin organization	heterochromatin organization		C2753902
+52	82	GO:0009790	in pluripotent embryonic cells	embryo development	Embryonic Development	C0013936
+111	122	GO:0032502	development	development	Biologic Development	C0678723
+124	133	GO:0000785	chromatin	chromatin	chromatin location	C1325550
+252	270	GO:0031497	chromatin assembly	chromatin assembly	Chromatin Modeling	C1456459
+321	339	GO:0031497	chromatin assembly	chromatin assembly	Chromatin Modeling	C1456459
+357	393	GO:0003904	during pre-implantation development,	photoreactivating enzyme activity		C2257086
+429	469	GO:0007567	a targeted mutation in the gene encoding	parturition	Birth	C0005615
+429	469	GO:0000003	a targeted mutation in the gene encoding	reproduction	Reproduction	C0035150
+549	560	GO:0032502	development	development	Biologic Development	C0678723
+580	584	GO:0005623	cell	cell	Cells	C0007634
+613	629	GO:0009790	in these embryos	embryo development	Embryonic Development	C0013936
+660	720	GO:0070828	in the nuclear organization of constitutive heterochromatin.	heterochromatin organization		C2753902
+741	767	GO:0009790	that in wild-type embryos,	embryo development	Embryonic Development	C0013936
+768	790	GO:1990343	heterochromatin domain	heterochromatin domain		C3714912
+836	840	GO:0005623	cell	cell	Cells	C0007634
+887	891	GO:0005623	cell	cell	Cells	C0007634
+907	950	GO:0070828	the altered organization of heterochromatin	heterochromatin organization		C2753902
+993	1008	GO:0000792	heterochromatin	heterochromatin	Heterochromatin	C0019397
+1025	1029	GO:0005623	cell	cell	Cells	C0007634
+1036	1054	GO:0009790	wild-type embryos,	embryo development	Embryonic Development	C0013936
+1066	1076	GO:0031497	that caf-1	chromatin assembly	Chromatin Modeling	C1456459
+1080	1126	GO:0032502	required for the maturation of heterochromatin	development	Biologic Development	C0678723
+1150	1161	GO:0032502	development	development	Biologic Development	C0678723
+1163	1187	GO:0009790	in embryonic stem cells,	embryo development	Embryonic Development	C0013936
+1217	1233	GO:0016246	RNA interference	RNA interference	RNA Interference	C1136031
+1312	1335	GO:0005721	centric heterochromatin	centric heterochromatin	Centric heterochromatin	C1166670
+1358	1371	GO:0031497	loss of caf-1	chromatin assembly	Chromatin Modeling	C1456459
+1381	1385	GO:0005623	cell	cell	Cells	C0007634
+1427	1446	GO:0016571	histone methylation	histone methylation		C1156205
+1473	1496	GO:0005721	centric heterochromatin	centric heterochromatin	Centric heterochromatin	C1166670
+1519	1534	GO:0000792	heterochromatin	heterochromatin	Heterochromatin	C0019397
+1543	1599	GO:0009790	found in p150caf-1-depleted mouse embryonic fibroblasts,	embryo development	Embryonic Development	C0013936
+1610	1614	GO:0005623	cell	cell	Cells	C0007634
+1663	1673	GO:0031497	that caf-1	chromatin assembly	Chromatin Modeling	C1456459
+1703	1731	GO:0070828	heterochromatin organization	heterochromatin organization		C2753902
+1732	1763	GO:0009790	in pluripotent embryonic cells.	embryo development	Embryonic Development	C0013936
+1803	1821	GO:0031497	chromatin assembly	chromatin assembly	Chromatin Modeling	C1456459
+1909	1925	GO:0009790	in early embryos	embryo development	Embryonic Development	C0013936
+1930	1951	GO:0009790	embryonic stem cells.	embryo development	Embryonic Development	C0013936
+1963	1972	GO:0000785	chromatin	chromatin	chromatin location	C1325550
+1976	2015	GO:0007567	the support of our genetic information.	parturition	Birth	C0005615
+1976	2015	GO:0000003	the support of our genetic information.	reproduction	Reproduction	C0035150
+2065	2075	GO:0000786	nucleosome	nucleosome	nucleosome location	C1166675
+2078	2131	GO:0019013	in which dna wraps around a core of histone proteins.	nucleocapsid	viral nucleocapsid location	C1167518
+2195	2205	GO:0000786	nucleosome	nucleosome	nucleosome location	C1166675
+2212	2261	GO:0050789	major roles in the regulation of genome function.	regulation of biological process	Regulation of biological process	C1327622
+2336	2349	GO:0051301	cell division	cell division	Cell division	C0007590
+2381	2390	GO:0000785	chromatin	chromatin	chromatin location	C1325550
+2392	2430	GO:0007567	in addition to the genetic information	parturition	Birth	C0005615
+2392	2430	GO:0000003	in addition to the genetic information	reproduction	Reproduction	C0035150
+2471	2502	GO:0006260	that during genome replication,	DNA replication	DNA Replication	C0598312
+2513	2531	GO:0031497	chromatin assembly	chromatin assembly	Chromatin Modeling	C1456459
+2560	2570	GO:0000786	nucleosome	nucleosome	nucleosome location	C1166675
+2741	2759	GO:0031497	chromatin assembly	chromatin assembly	Chromatin Modeling	C1456459
+2775	2804	GO:0009790	in mouse embryonic stem cells	embryo development	Embryonic Development	C0013936
+2809	2823	GO:0009790	early embryos.	embryo development	Embryonic Development	C0013936
+2848	2858	GO:0031497	that caf-1	chromatin assembly	Chromatin Modeling	C1456459
+2848	2858	GO:0031497	that caf-1	chromatin assembly	Chromatin Modeling	C1456459
+2966	3025	GO:0044427	required for the proper spatial organization of chromosomes	chromosome component	Chromosome Structures	C0729606
+2966	3025	GO:0051276	required for the proper spatial organization of chromosomes	chromosome organization		C1523290
+3026	3041	GO:0005634	in the nucleus.	cell nucleus	Cell Nucleus	C0007610
+3112	3121	GO:0000785	chromatin	chromatin	chromatin location	C1325550
+3122	3172	GO:0009790	in the maintenance of embryonic stem cell identity	embryo development	Embryonic Development	C0013936
+3204	3246	GO:0003904	during mouse pre-implantation development,	photoreactivating enzyme activity		C2257086
+3305	3344	GO:0009790	required for embryonic gene expression,	embryo development	Embryonic Development	C0013936
+3381	3413	GO:0030154	the first differentiation events	cell differentiation	Cell Differentiation process	C0007589
+3475	3490	GO:0006306	DNA methylation	DNA methylation	DNA Methylation	C0376452
+3559	3568	GO:0000785	chromatin	chromatin	chromatin location	C1325550
+3661	3681	GO:0006338	chromatin remodeling	chromatin remodeling		C1156210
+3695	3712	GO:0043486	histone chaperone	histone chaperone		C2752385
+3695	3712	GO:0006334	histone chaperone	histone chaperone		C2752385
+3762	3766	GO:0005623	cell	cell	Cells	C0007634
+3768	3794	GO:0009790	derived from early embryos	embryo development	Embryonic Development	C0013936
+3823	3840	GO:0043486	histone chaperone	histone chaperone		C2752385
+3823	3840	GO:0006334	histone chaperone	histone chaperone		C2752385
+3846	3866	GO:0006338	chromatin remodeling	chromatin remodeling		C1156210
+3904	3923	GO:0006334	nucleosome assembly	nucleosome assembly		C1156189
+3986	4004	GO:0031497	chromatin assembly	chromatin assembly	Chromatin Modeling	C1456459
+4009	4038	GO:0021700	maturation during development	developmental maturation		C1818255
+4052	4069	GO:0043486	histone chaperone	histone chaperone		C2752385
+4052	4069	GO:0006334	histone chaperone	histone chaperone		C2752385
+4072	4090	GO:0031497	chromatin assembly	chromatin assembly	Chromatin Modeling	C1456459
+4227	4245	GO:0006260	during replication	DNA replication	DNA Replication	C0598312
+4249	4259	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+4282	4287	GO:0031497	caf-1	chromatin assembly	Chromatin Modeling	C1456459
+4330	4339	GO:0000785	chromatin	chromatin	chromatin location	C1325550
+4354	4379	GO:0006260	coupled to dna synthesis,	DNA replication	DNA Replication	C0598312
+4354	4379	GO:0071897	coupled to dna synthesis,	DNA biosynthetic process		C1817262
+4397	4414	GO:0043486	histone chaperone	histone chaperone		C2752385
+4397	4414	GO:0006334	histone chaperone	histone chaperone		C2752385
+4472	4510	GO:0006260	in a dna synthesis independent pathway	DNA replication	DNA Replication	C0598312
+4472	4510	GO:0071897	in a dna synthesis independent pathway	DNA biosynthetic process		C1817262
+4549	4567	GO:0031497	chromatin assembly	chromatin assembly	Chromatin Modeling	C1456459
+4578	4583	GO:0031497	caf-1	chromatin assembly	Chromatin Modeling	C1456459
+4627	4642	GO:0000792	heterochromatin	heterochromatin	Heterochromatin	C0019397
+4654	4669	GO:0000792	heterochromatin	heterochromatin	Heterochromatin	C0019397
+4698	4716	GO:0008327	methyl-CpG binding	methyl-CpG binding		C1148748
+4770	4817	GO:0008469	repressive histone methyltransferase activities	histone methyltransferase activity		C1152280
+4770	4817	GO:0042054	repressive histone methyltransferase activities	histone methyltransferase activity		C1152280
+4872	4916	GO:0005662	a replication-specific pool of hp1 molecules	DNA replication factor A complex location		C1167121
+4917	4968	GO:0006260	at replication sites in pericentric heterochromatin	DNA replication	DNA Replication	C0598312
+4985	4992	GO:0051320	S phase	S phase	S Phase	C0080129
+5034	5049	GO:0031497	roles for caf-1	chromatin assembly	Chromatin Modeling	C1456459
+5050	5085	GO:0031507	in the formation of heterochromatin	heterochromatin assembly		C1621524
+5182	5199	GO:0043486	histone chaperone	histone chaperone		C2752385
+5182	5199	GO:0006334	histone chaperone	histone chaperone		C2752385
+5309	5320	GO:0032502	development	development	Biologic Development	C0678723
+5351	5355	GO:0005623	cell	cell	Cells	C0007634
+5357	5391	GO:0009790	such as embryonic stem (es) cells.	embryo development	Embryonic Development	C0013936
+5415	5438	GO:0031497	the importance of caf-1	chromatin assembly	Chromatin Modeling	C1456459
+5439	5489	GO:0048806	during early mouse development by genetic ablation	genitalia development		C1820234
+5490	5505	GO:0009790	and in es cells	embryo development	Embryonic Development	C0013936
+5525	5541	GO:0016246	RNA interference	RNA interference	RNA Interference	C1136031
+5558	5568	GO:0031497	that caf-1	chromatin assembly	Chromatin Modeling	C1456459
+5596	5618	GO:0009790	in early mouse embryos	embryo development	Embryonic Development	C0013936
+5623	5632	GO:0009790	es cells.	embryo development	Embryonic Development	C0013936
+5653	5663	GO:0031497	that caf-1	chromatin assembly	Chromatin Modeling	C1456459
+5731	5753	GO:1990343	heterochromatin domain	heterochromatin domain		C3714912
+5755	5786	GO:0009790	in pluripotent embryonic cells.	embryo development	Embryonic Development	C0013936
+5805	5831	GO:0007567	gene targeting in es cells	parturition	Birth	C0005615
+5842	5868	GO:0007567	exon 3 in the chaf1a gene,	parturition	Birth	C0005615
+5842	5868	GO:0000003	exon 3 in the chaf1a gene,	reproduction	Reproduction	C0035150
+5926	5956	GO:0007567	born at a mendelian frequency,	parturition	Birth	C0005615
+6133	6164	GO:0009790	no homozygous chaf1a-/- embryos	embryo development	Embryonic Development	C0013936
+6170	6218	GO:0007566	detected at any of the post-implantation stages.	embryo implantation	Blastocyst Implantation, natural	C0029976
+6244	6280	GO:0009790	chaf1a-/- embryos at embryonic day 4	embryo development	Embryonic Development	C0013936
+6335	6357	GO:0009790	only 10% of e4 embryos	embryo development	Embryonic Development	C0013936
+6412	6464	GO:0009790	that more than half of the homozygous mutant embryos	embryo development	Embryonic Development	C0013936
+6450	6464	GO:0009790	mutant embryos	embryo development	Embryonic Development	C0013936
+6552	6556	GO:0005623	cell	cell	Cells	C0007634
+6558	6574	GO:0009790	at the e4 stage,	embryo development	Embryonic Development	C0013936
+6589	6593	GO:0005623	cell	cell	Cells	C0007634
+6769	6796	GO:0009790	p150caf-1-depleted embryos.	embryo development	Embryonic Development	C0013936
+6865	6869	GO:0005623	cell	cell	Cells	C0007634
+6945	6966	GO:0009790	present in the embryo	embryo development	Embryonic Development	C0013936
+6982	6986	GO:0005623	cell	cell	Cells	C0007634
+7082	7095	GO:0051301	cell division	cell division	Cell division	C0007590
+7104	7115	GO:0032502	development	development	Biologic Development	C0678723
+7153	7196	GO:0070828	the nuclear organization of heterochromatin	heterochromatin organization		C2753902
+7206	7250	GO:0005634	abnormal in the nuclei of chaf1a-/- embryos.	cell nucleus	Cell Nucleus	C0007610
+7255	7278	GO:0005721	centric heterochromatin	centric heterochromatin	Centric heterochromatin	C1166670
+7316	7331	GO:0000792	heterochromatin	heterochromatin	Heterochromatin	C0019397
+7361	7371	GO:0051325	interphase	interphase	Interphase	C0021798
+7477	7504	GO:0044297	and in mouse somatic cells,	cell body		C2752549
+7517	7539	GO:1990343	heterochromatin domain	heterochromatin domain		C3714912
+7580	7589	GO:0000785	chromatin	chromatin	chromatin location	C1325550
+7608	7620	GO:0010369	chromocenter	chromocenter		C2265493
+7707	7736	GO:0009790	detected in chaf1a-/- embryos	embryo development	Embryonic Development	C0013936
+7756	7765	GO:0000785	chromatin	chromatin	chromatin location	C1325550
+7949	7977	GO:0070828	heterochromatin organization	heterochromatin organization		C2753902
+7994	7998	GO:0005623	cell	cell	Cells	C0007634
+8029	8033	GO:0005623	cell	cell	Cells	C0007634
+8088	8098	GO:0099512	fibrillar,	supramolecular fiber		C4236633
+8181	8203	GO:1990343	heterochromatin domain	heterochromatin domain		C3714912
+8271	8275	GO:0005623	cell	cell	Cells	C0007634
+8283	8287	GO:0005623	cell	cell	Cells	C0007634
+8319	8343	GO:0051179	localization of hp1alpha	establishment and maintenance of localization		C1744691
+8429	8444	GO:0000792	heterochromatin	heterochromatin	Heterochromatin	C0019397
+8464	8507	GO:0070828	the nuclear organization of heterochromatin	heterochromatin organization		C2753902
+8524	8569	GO:0003904	modified during pre-implantation development,	photoreactivating enzyme activity		C2257086
+8586	8590	GO:0005623	cell	cell	Cells	C0007634
+8614	8638	GO:0009790	in chaf1a-/- e4 embryos,	embryo development	Embryonic Development	C0013936
+8684	8688	GO:0005623	cell	cell	Cells	C0007634
+8775	8802	GO:0005634	diffuse within the nucleus,	cell nucleus	Cell Nucleus	C0007610
+8834	8853	GO:0005730	around the nucleoli	nucleolus	Cell Nucleolus	C0007609
+8854	8888	GO:0005634	and at the periphery of the nuclei	cell nucleus	Cell Nucleus	C0007610
+8902	8926	GO:0051179	localization of hp1alpha	establishment and maintenance of localization		C1744691
+9001	9018	GO:0034399	nuclear periphery	nuclear periphery		C2612504
+9020	9043	GO:0005730	and around the nucleoli	nucleolus	Cell Nucleolus	C0007609
+9057	9102	GO:0070828	this abnormal organization of heterochromatin	heterochromatin organization		C2753902
+9103	9123	GO:0009790	in chaf1a-/- embryos	embryo development	Embryonic Development	C0013936
+9146	9174	GO:0070828	heterochromatin organization	heterochromatin organization		C2753902
+9197	9201	GO:0005623	cell	cell	Cells	C0007634
+9208	9225	GO:0009790	wild-type embryos	embryo development	Embryonic Development	C0013936
+9299	9335	GO:0003904	during pre-implantation development,	photoreactivating enzyme activity		C2257086
+9368	9427	GO:0070828	required for the proper 3-d organization of heterochromatin	heterochromatin organization		C2753902
+9428	9457	GO:0009790	within embryonic cell nuclei.	embryo development	Embryonic Development	C0013936
+9546	9550	GO:0005623	cell	cell	Cells	C0007634
+9597	9601	GO:0005623	cell	cell	Cells	C0007634
+9624	9635	GO:0032502	development	development	Biologic Development	C0678723
+9645	9675	GO:0009790	observed in chaf1a-/- embryos,	embryo development	Embryonic Development	C0013936
+9681	9685	GO:0005623	cell	cell	Cells	C0007634
+9708	9735	GO:0009790	directly from null embryos,	embryo development	Embryonic Development	C0013936
+9753	9769	GO:0016246	an rnai strategy	RNA interference	RNA Interference	C1136031
+9809	9813	GO:0005623	cell	cell	Cells	C0007634
+9876	9908	GO:0016246	p150caf-1 rnai-depleted es cells	RNA interference	RNA Interference	C1136031
+9951	9955	GO:0005623	cell	cell	Cells	C0007634
+10043	10076	GO:0005730	dapi staining around the nucleoli	nucleolus	Cell Nucleolus	C0007609
+10077	10112	GO:0005634	and at the periphery of the nucleus	cell nucleus	Cell Nucleus	C0007610
+10166	10219	GO:0005720	essential for nuclear organization of heterochromatin	nuclear heterochromatin	Nuclear heterochromatin	C1325554
+10166	10219	GO:0070828	essential for nuclear organization of heterochromatin	heterochromatin organization		C2753902
+10226	10230	GO:0005623	cell	cell	Cells	C0007634
+10249	10283	GO:0003904	to early pre-implantation embryos.	photoreactivating enzyme activity		C2257086
+10343	10371	GO:0070828	heterochromatin organization	heterochromatin organization		C2753902
+10372	10410	GO:0009790	in primary mouse embryonic fibroblasts	embryo development	Embryonic Development	C0013936
+10428	10456	GO:0016246	p150caf-1 depletion by rnai.	RNA interference	RNA Interference	C1136031
+10457	10484	GO:0009790	p150caf-1 depletion in mefs	embryo development	Embryonic Development	C0013936
+10506	10538	GO:0008285	inhibition of cell proliferation	inhibition of cell proliferation	Inhibition of Cell Proliferation	C1156236
+10595	10617	GO:1990343	heterochromatin domain	heterochromatin domain		C3714912
+10678	10682	GO:0005623	cell	cell	Cells	C0007634
+10699	10727	GO:0070828	heterochromatin organization	heterochromatin organization		C2753902
+10790	10809	GO:0009790	in the early embryo	embryo development	Embryonic Development	C0013936
+10817	10821	GO:0005623	cell	cell	Cells	C0007634
+10874	10878	GO:0005623	cell	cell	Cells	C0007634
+10905	10920	GO:0000792	heterochromatin	heterochromatin	Heterochromatin	C0019397
+10965	11017	GO:0006997	result in a more global loss of nuclear organization	nucleus organization		C1156185
+11044	11112	GO:0042571	a specific antibody against the promyelocytic leukemia (pml) protein	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+11122	11157	GO:1990251	the fate of the pml nuclear bodies,	nuclear body	Intranuclear body	C0230595
+11122	11157	GO:0033620	the fate of the pml nuclear bodies,	nuclear body	Intranuclear body	C0230595
+11122	11157	GO:0016604	the fate of the pml nuclear bodies,	nuclear body	Intranuclear body	C0230595
+11286	11314	GO:1990251	aspect of pml nuclear bodies	nuclear body	Intranuclear body	C0230595
+11286	11314	GO:0033620	aspect of pml nuclear bodies	nuclear body	Intranuclear body	C0230595
+11286	11314	GO:0016604	aspect of pml nuclear bodies	nuclear body	Intranuclear body	C0230595
+11357	11361	GO:0005623	cell	cell	Cells	C0007634
+11577	11586	GO:0000785	chromatin	chromatin	chromatin location	C1325550
+11683	11708	GO:0009790	required in early embryos	embryo development	Embryonic Development	C0013936
+11719	11723	GO:0005623	cell	cell	Cells	C0007634
+11725	11799	GO:0070828	for the proper organization of the heterochromatin subnuclear compartment.	heterochromatin organization		C2753902
+11841	11845	GO:0005623	cell	cell	Cells	C0007634
+11895	11902	GO:0051320	S phase	S phase	S Phase	C0080129
+11940	11987	GO:0016246	that 3 d after transfection of the rnai vector,	RNA interference	RNA Interference	C1136031
+12007	12011	GO:0005623	cell	cell	Cells	C0007634
+12074	12103	GO:0006260	still active for replication,	DNA replication	DNA Replication	C0598312
+12219	12223	GO:0005623	cell	cell	Cells	C0007634
+12319	12323	GO:0005623	cell	cell	Cells	C0007634
+12326	12341	GO:0006260	DNA replication	DNA replication	DNA Replication	C0598312
+12382	12410	GO:0070828	heterochromatin organization	heterochromatin organization		C2753902
+12436	12440	GO:0005623	cell	cell	Cells	C0007634
+12526	12542	GO:0042995	cellular process	cellular process		C1325880
+12526	12542	GO:0009987	cellular process	cellular process		C1325880
+12544	12558	GO:0009790	as in embryos.	embryo development	Embryonic Development	C0013936
+12630	12634	GO:0005623	cell	cell	Cells	C0007634
+12640	12653	GO:0009790	early embryos	embryo development	Embryonic Development	C0013936
+12667	12702	GO:0070828	the organization of heterochromatin	heterochromatin organization		C2753902
+12703	12717	GO:0005634	in the nucleus	cell nucleus	Cell Nucleus	C0007610
+12745	12755	GO:0007049	cell cycle	cell cycle	Cell Cycle	C0007586
+12745	12755	GO:0000278	cell cycle	mitotic cell cycle	Mitotic Cell Cycle	C1155839
+12819	12847	GO:0070828	heterochromatin organization	heterochromatin organization		C2753902
+12862	12929	GO:0000785	two-color dna fluorescence in situ hybridization (fish) experiments	chromatin	chromatin location	C1325550
+12984	13012	GO:0098687	centric chromosomal regions,	chromosome region	Region of chromosome	C1953345
+13156	13166	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+13267	13277	GO:0051325	interphase	interphase	Interphase	C0021798
+13398	13431	GO:0016246	in p150caf-1 rnai-depleted cells,	RNA interference	RNA Interference	C1136031
+13464	13487	GO:0005721	centric heterochromatin	centric heterochromatin	Centric heterochromatin	C1166670
+13610	13620	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+13736	13740	GO:0005623	cell	cell	Cells	C0007634
+13801	13818	GO:0034399	nuclear periphery	nuclear periphery		C2612504
+13962	13986	GO:0005634	drawn across the nucleus	cell nucleus	Cell Nucleus	C0007610
+14094	14129	GO:0007165	signals in p150caf-1-depleted cells	signal transduction	Signal Transduction	C0037083
+14183	14206	GO:0005721	centric heterochromatin	centric heterochromatin	Centric heterochromatin	C1166670
+14294	14298	GO:0005623	cell	cell	Cells	C0007634
+14494	14517	GO:0005721	centric heterochromatin	centric heterochromatin	Centric heterochromatin	C1166670
+14599	14628	GO:0006260	associated with dna synthesis	DNA replication	DNA Replication	C0598312
+14599	14628	GO:0071897	associated with dna synthesis	DNA biosynthetic process		C1817262
+14686	14708	GO:0006325	chromatin organization	chromatin organization		C1156187
+14723	14760	GO:0034728	an aberrant nucleosomal organization.	nucleosome organization		C2612882
+14767	14774	GO:0004530	dnase i	deoxyribonuclease I activity		C1148702
+14906	14910	GO:0005623	cell	cell	Cells	C0007634
+15070	15079	GO:0000785	chromatin	chromatin	chromatin location	C1325550
+15104	15108	GO:0005623	cell	cell	Cells	C0007634
+15139	15170	GO:0016246	p150caf-1 rnai plasmid vectors.	RNA interference	RNA Interference	C1136031
+15171	15177	GO:0005634	nuclei	cell nucleus	Cell Nucleus	C0007610
+15347	15356	GO:0000785	chromatin	chromatin	chromatin location	C1325550
+15416	15420	GO:0005623	cell	cell	Cells	C0007634
+15502	15525	GO:0005721	centric heterochromatin	centric heterochromatin	Centric heterochromatin	C1166670
+15579	15607	GO:0034728	in nucleosomal organization.	nucleosome organization		C2612882
+15634	15670	GO:0051179	the nuclear localization of hp1alpha	establishment and maintenance of localization		C1744691
+15683	15711	GO:0009790	altered in chaf1a-/- embryos	embryo development	Embryonic Development	C0013936
+15738	15742	GO:0005623	cell	cell	Cells	C0007634
+15841	15864	GO:0005721	centric heterochromatin	centric heterochromatin	Centric heterochromatin	C1166670
+15866	15901	GO:0006306	we first tested dna cpg methylation	DNA methylation	DNA Methylation	C0376452
+16009	16013	GO:0005623	cell	cell	Cells	C0007634
+16042	16046	GO:0005623	cell	cell	Cells	C0007634
+16060	16088	GO:0016246	used in our rnai experiments	RNA interference	RNA Interference	C1136031
+16106	16110	GO:0005623	cell	cell	Cells	C0007634
+16117	16132	GO:0006306	DNA methylation	DNA methylation	DNA Methylation	C0376452
+16162	16166	GO:0005623	cell	cell	Cells	C0007634
+16202	16245	GO:0044028	that hypomethylation of pericentric repeats	DNA hypomethylation	Hypomethylation	C2613367
+16289	16311	GO:1990343	heterochromatin domain	heterochromatin domain		C3714912
+16338	16342	GO:0005623	cell	cell	Cells	C0007634
+16355	16400	GO:0016246	our rnai plasmid vector in a xy es cell line,	RNA interference	RNA Interference	C1136031
+16461	16489	GO:0070828	heterochromatin organization	heterochromatin organization		C2753902
+16521	16536	GO:0006306	DNA methylation	DNA methylation	DNA Methylation	C0376452
+16606	16626	GO:0016570	histone modification	histone modification		C1156199
+16636	16645	GO:0000785	chromatin	chromatin	chromatin location	C1325550
+16698	16707	GO:0000785	chromatin	chromatin	chromatin location	C1325550
+16818	16830	GO:0042571	] antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+17053	17076	GO:0005721	centric heterochromatin	centric heterochromatin	Centric heterochromatin	C1166670
+17378	17401	GO:0005721	centric heterochromatin	centric heterochromatin	Centric heterochromatin	C1166670
+17513	17517	GO:0005623	cell	cell	Cells	C0007634
+17594	17598	GO:0005623	cell	cell	Cells	C0007634
+17786	17790	GO:0005623	cell	cell	Cells	C0007634
+17968	17972	GO:0005623	cell	cell	Cells	C0007634
+18133	18147	GO:0097444	dense material	dense material		C3546235
+18208	18212	GO:0005623	cell	cell	Cells	C0007634
+18214	18284	GO:0070828	leads to a simultaneous disruption of heterochromatin 3-d organization	heterochromatin organization		C2753902
+18384	18435	GO:0009790	a crucial function during mouse early embryogenesis	embryo development	Embryonic Development	C0013936
+18446	18450	GO:0005623	cell	cell	Cells	C0007634
+18524	18539	GO:0006260	DNA replication	DNA replication	DNA Replication	C0598312
+18620	18633	GO:0051301	cell division	cell division	Cell division	C0007590
+18659	18670	GO:0032502	development	development	Biologic Development	C0678723
+18720	18724	GO:0005623	cell	cell	Cells	C0007634
+18754	18769	GO:0006260	DNA replication	DNA replication	DNA Replication	C0598312
+18822	18876	GO:0070828	in the nuclear organization of heterochromatin domains	heterochromatin organization		C2753902
+18890	18901	GO:0032502	development	development	Biologic Development	C0678723
+18912	18916	GO:0005623	cell	cell	Cells	C0007634
+18957	18961	GO:0005623	cell	cell	Cells	C0007634
+18970	18985	GO:0006260	DNA replication	DNA replication	DNA Replication	C0598312
+19038	19066	GO:0034728	in nucleosomal organization,	nucleosome organization		C2612882
+19074	19102	GO:0070828	heterochromatin organization	heterochromatin organization		C2753902
+19161	19190	GO:0016605	pml bodies in es cell nuclei,	PML body		C1167110
+19311	19324	GO:0051301	cell division	cell division	Cell division	C0007590
+19329	19339	GO:0008219	cell death	cell death	Cell Death	C0007587
+19377	19405	GO:0070828	heterochromatin organization	heterochromatin organization		C2753902
+19464	19475	GO:0032502	development	development	Biologic Development	C0678723
+19504	19522	GO:0008219	death in es cells.	cell death	Cell Death	C0007587
+19541	19587	GO:0070828	in the nuclear organization of heterochromatin	heterochromatin organization		C2753902
+19597	19618	GO:0051179	spatial localization,	establishment and maintenance of localization		C1744691
+19743	19747	GO:0005623	cell	cell	Cells	C0007634
+19759	19763	GO:0005623	cell	cell	Cells	C0007634
+19793	19833	GO:0009790	specific of pluripotent embryonic cells.	embryo development	Embryonic Development	C0013936
+19849	19862	GO:0009790	early embryos	embryo development	Embryonic Development	C0013936
+19870	19874	GO:0005623	cell	cell	Cells	C0007634
+19893	19925	GO:0044297	more plastic than somatic cells,	cell body		C2752549
+19942	19983	GO:0002524	a particularly sensitive context in which	hypersensitivity	Hypersensitivity	C0020517
+20011	20039	GO:0070828	heterochromatin organization	heterochromatin organization		C2753902
+20062	20066	GO:0005623	cell	cell	Cells	C0007634
+20089	20098	GO:0000785	chromatin	chromatin	chromatin location	C1325550
+20129	20133	GO:0005488	bind	binding	Binding 	C1167622
+20156	20165	GO:0000785	chromatin	chromatin	chromatin location	C1325550
+20180	20184	GO:0005623	cell	cell	Cells	C0007634
+20228	20243	GO:0000792	heterochromatin	heterochromatin	Heterochromatin	C0019397
+20324	20328	GO:0005623	cell	cell	Cells	C0007634
+20432	20436	GO:0005623	cell	cell	Cells	C0007634
+20520	20550	GO:0009790	in pluripotent embryonic cells	embryo development	Embryonic Development	C0013936
+20737	20749	GO:0010369	chromocenter	chromocenter		C2265493
+20836	20864	GO:0070828	heterochromatin organization	heterochromatin organization		C2753902
+20901	20905	GO:0005623	cell	cell	Cells	C0007634
+21106	21138	GO:0006997	that proper nuclear organization	nucleus organization		C1156185
+21169	21192	GO:0005721	centric heterochromatin	centric heterochromatin	Centric heterochromatin	C1166670
+21211	21215	GO:0005623	cell	cell	Cells	C0007634
+21233	21268	GO:0070828	3-d organization of heterochromatin	heterochromatin organization		C2753902
+21616	21640	GO:0007114	the budding yeast genome	cell budding	Cell budding	C1155616
+21658	21673	GO:0000792	heterochromatin	heterochromatin	Heterochromatin	C0019397
+21757	21772	GO:0000792	heterochromatin	heterochromatin	Heterochromatin	C0019397
+21861	21870	GO:0000785	chromatin	chromatin	chromatin location	C1325550
+22037	22046	GO:0000785	chromatin	chromatin	chromatin location	C1325550
+22061	22099	GO:0005698	outside of the centromeric h3 variant,	centromere	Centromere	C0007709
+22061	22099	GO:0000775	outside of the centromeric h3 variant,	centromere	Centromere	C0007709
+22176	22185	GO:0000785	chromatin	chromatin	chromatin location	C1325550
+22186	22243	GO:0006260	in a replication-independent fashion in higher eukaryotes	DNA replication	DNA Replication	C0598312
+22297	22312	GO:0000792	heterochromatin	heterochromatin	Heterochromatin	C0019397
+22356	22400	GO:0006260	a h3.1 replication-dependent loading complex	DNA replication	DNA Replication	C0598312
+22423	22491	GO:0031618	required for the nuclear organization of pericentric heterochromatin	nuclear pericentric heterochromatin		C1622664
+22492	22502	GO:0009790	in embryos	embryo development	Embryonic Development	C0013936
+22510	22514	GO:0005623	cell	cell	Cells	C0007634
+22589	22598	GO:0000785	chromatin	chromatin	chromatin location	C1325550
+22602	22678	GO:0005720	required for the proper nuclear organization of constitutive heterochromatin	nuclear heterochromatin	Nuclear heterochromatin	C1325554
+22602	22678	GO:0070828	required for the proper nuclear organization of constitutive heterochromatin	heterochromatin organization		C2753902
+22679	22703	GO:0009790	in an embryonic context.	embryo development	Embryonic Development	C0013936
+22848	22870	GO:1990343	heterochromatin domain	heterochromatin domain		C3714912
+22872	22897	GO:0009790	in p150caf-1 null embryos	embryo development	Embryonic Development	C0013936
+22905	22909	GO:0005623	cell	cell	Cells	C0007634
+22958	22973	GO:0000792	heterochromatin	heterochromatin	Heterochromatin	C0019397
+23084	23099	GO:0006260	DNA replication	DNA replication	DNA Replication	C0598312
+23129	23144	GO:0000792	heterochromatin	heterochromatin	Heterochromatin	C0019397
+23378	23393	GO:0000792	heterochromatin	heterochromatin	Heterochromatin	C0019397
+23394	23421	GO:0003904	in pre-implantation embryos	photoreactivating enzyme activity		C2257086
+23426	23474	GO:0006997	revealed drastic changes in nuclear organization	nucleus organization		C1156185
+23491	23495	GO:0005623	cell	cell	Cells	C0007634
+23562	23605	GO:0070828	the nuclear organization of heterochromatin	heterochromatin organization		C2753902
+23606	23623	GO:0005634	in es cell nuclei	cell nucleus	Cell Nucleus	C0007610
+23658	23662	GO:0005623	cell	cell	Cells	C0007634
+23683	23705	GO:0006913	after nuclear transfer	nucleocytoplasmic transport		C0872070
+23719	23765	GO:0070828	remodeling of heterochromatin 3-d organization	heterochromatin organization		C2753902
+23776	23830	GO:0009790	nuclear reprogramming toward an early embryonic status	embryo development	Embryonic Development	C0013936
+23831	23849	GO:0009790	in cloned embryos.	embryo development	Embryonic Development	C0013936
+23881	23909	GO:0070828	heterochromatin organization	heterochromatin organization		C2753902
+23963	23967	GO:0005623	cell	cell	Cells	C0007634
+24005	24009	GO:0005623	cell	cell	Cells	C0007634
+24095	24110	GO:0000792	heterochromatin	heterochromatin	Heterochromatin	C0019397
+24181	24219	GO:0006997	the importance of nuclear organization	nucleus organization		C1156185
+24220	24253	GO:0010468	in the control of gene expression	regulation of gene expression	Gene Expression Regulation	C0017263
+24339	24354	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+24355	24382	GO:0009790	during early embryogenesis.	embryo development	Embryonic Development	C0013936
+24442	24451	GO:0000785	chromatin	chromatin	chromatin location	C1325550
+24474	24485	GO:0032502	development	development	Biologic Development	C0678723
+24486	24521	GO:0009790	and in pluripotent embryonic cells.	embryo development	Embryonic Development	C0013936
+24564	24579	GO:0006306	DNA methylation	DNA methylation	DNA Methylation	C0376452
+24655	24673	GO:0031497	chromatin assembly	chromatin assembly	Chromatin Modeling	C1456459
+24724	24734	GO:0000786	nucleosome	nucleosome	nucleosome location	C1166675
+24790	24812	GO:1990343	heterochromatin domain	heterochromatin domain		C3714912
+24814	24830	GO:0009790	in early embryos	embryo development	Embryonic Development	C0013936
+24838	24842	GO:0005623	cell	cell	Cells	C0007634
+24906	24914	GO:0009790	embryos.	embryo development	Embryonic Development	C0013936
+25181	25185	GO:0005623	cell	cell	Cells	C0007634
+25236	25240	GO:0005623	cell	cell	Cells	C0007634
+25405	25409	GO:0005623	cell	cell	Cells	C0007634
+25438	25448	GO:0009790	e4 embryos	embryo development	Embryonic Development	C0013936
+25441	25448	GO:0009790	embryos	embryo development	Embryonic Development	C0013936
+26010	26038	GO:0016246	p150caf-1 depletion by rnai.	RNA interference	RNA Interference	C1136031
+26041	26064	GO:0016246	the rnai plasmid vector	RNA interference	RNA Interference	C1136031
+26127	26153	GO:0007567	a puromycin selection gene	parturition	Birth	C0005615
+26127	26153	GO:0000003	a puromycin selection gene	reproduction	Reproduction	C0035150
+26252	26269	GO:0007567	a gfp target gene	parturition	Birth	C0005615
+26252	26269	GO:0000003	a gfp target gene	reproduction	Reproduction	C0035150
+26280	26306	GO:0007567	extinction of target genes	parturition	Birth	C0005615
+26280	26306	GO:0000003	extinction of target genes	reproduction	Reproduction	C0035150
+26313	26317	GO:0005623	cell	cell	Cells	C0007634
+26353	26357	GO:0005623	cell	cell	Cells	C0007634
+26435	26439	GO:0005623	cell	cell	Cells	C0007634
+26603	26618	GO:0006401	RNA degradation	RNA degradation	RNA Degradation	C1257756
+26623	26627	GO:0005623	cell	cell	Cells	C0007634
+26793	26796	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+26837	26841	GO:0005623	cell	cell	Cells	C0007634
+26894	26920	GO:0016246	the p150caf-1 rnai vector,	RNA interference	RNA Interference	C1136031
+26993	26997	GO:0005623	cell	cell	Cells	C0007634
+27115	27119	GO:0005623	cell	cell	Cells	C0007634
+27141	27157	GO:0007567	the target gene.	parturition	Birth	C0005615
+27141	27157	GO:0000003	the target gene.	reproduction	Reproduction	C0035150
+27220	27248	GO:0016246	with the rnai plasmid vector	RNA interference	RNA Interference	C1136031
+27365	27369	GO:0005623	cell	cell	Cells	C0007634
+27466	27470	GO:0005623	cell	cell	Cells	C0007634
+27487	27491	GO:0005623	cell	cell	Cells	C0007634
+27525	27549	GO:0007567	used for gene targeting.	parturition	Birth	C0005615
+27525	27549	GO:0000003	used for gene targeting.	reproduction	Reproduction	C0035150
+27558	27562	GO:0005623	cell	cell	Cells	C0007634
+27569	27598	GO:0016246	used in all rnai experiments.	RNA interference	RNA Interference	C1136031
+27615	27619	GO:0005623	cell	cell	Cells	C0007634
+27697	27701	GO:0005623	cell	cell	Cells	C0007634
+27760	27784	GO:0009790	derived from e13 embryos	embryo development	Embryonic Development	C0013936
+27829	27833	GO:0005623	cell	cell	Cells	C0007634
+27954	27964	GO:0009790	e4 embryos	embryo development	Embryonic Development	C0013936
+27984	28008	GO:1902698	treated with tyrode acid	acidogenesis		C3823112
+27984	28008	GO:1902705	treated with tyrode acid	acidogenesis		C3823112
+27984	28008	GO:1902706	treated with tyrode acid	acidogenesis		C3823112
+27984	28008	GO:1902699	treated with tyrode acid	acidogenesis		C3823112
+28023	28037	GO:0035805	zona pellucida	zona pellucida	Zona Pellucida	C0043519
+28126	28130	GO:0005623	cell	cell	Cells	C0007634
+28133	28157	GO:0042571	antibodies anti-hp1alpha	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+28421	28451	GO:0042571	antibodies anti-mouse p150caf1	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+28542	28566	GO:0042571	all secondary antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+28669	28673	GO:0005623	cell	cell	Cells	C0007634
+28756	28784	GO:0042571	antibodies against p150caf-1	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+29068	29097	GO:0006412	generated by nick translation	protein biosynthesis	Protein Biosynthesis	C0597295
+29339	29358	GO:0005634	nuclei preparation,	cell nucleus	Cell Nucleus	C0007610
+29368	29377	GO:0007586	digestion	digestion	Digestion	C0012238
+29407	29416	GO:0000785	chromatin	chromatin	chromatin location	C1325550
+29422	29426	GO:0005623	cell	cell	Cells	C0007634
+29625	29631	GO:0005634	nuclei	cell nucleus	Cell Nucleus	C0007610
+29869	29887	GO:0005634	about 2.106 nuclei	cell nucleus	Cell Nucleus	C0007610
+29959	29966	GO:0004530	dnase i	deoxyribonuclease I activity		C1148702
+29984	29993	GO:0007586	digestion	digestion	Digestion	C0012238
+30041	30059	GO:0004530	2 min for dnase i.	deoxyribonuclease I activity		C1148702
+30060	30069	GO:0007586	digestion	digestion	Digestion	C0012238
+30133	30167	GO:0008233	prepared by proteinase k digestion	peptidase activity		C1150095
+30283	30292	GO:0000785	chromatin	chromatin	chromatin location	C1325550
+30322	30326	GO:0005623	cell	cell	Cells	C0007634
+30329	30344	GO:0005634	isolated nuclei	cell nucleus	Cell Nucleus	C0007610
+30636	30657	GO:0042571	a histone h3 antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+30694	30703	GO:0000785	chromatin	chromatin	chromatin location	C1325550
+30728	30738	GO:0000786	nucleosome	nucleosome	nucleosome location	C1166675
+30771	30774	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+30803	30850	GO:0042571	overnight with 10 mul of commercial antibodies.	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+30839	30849	GO:0042571	antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+31181	31203	GO:0042571	antibodies for h3k9me3	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+31693	31718	GO:0016246	by rnai with western blot	RNA interference	RNA Interference	C1136031
+31759	31763	GO:0005623	cell	cell	Cells	C0007634
+31800	31849	GO:0016246	p150caf-1 (p150) rnai plasmid vectors. beta-actin	RNA interference	RNA Interference	C1136031
+31891	31895	GO:0005623	cell	cell	Cells	C0007634
+32041	32045	GO:0005623	cell	cell	Cells	C0007634
+32117	32154	GO:0042571	immunostained with p150caf-1 antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+32240	32264	GO:0005634	drawn across the nucleus	cell nucleus	Cell Nucleus	C0007610
+32298	32336	GO:0016246	efficient p150caf-1 depletion by rnai.	RNA interference	RNA Interference	C1136031
+32468	32491	GO:0016246	the rnai plasmid vector	RNA interference	RNA Interference	C1136031
+32553	32557	GO:0005623	cell	cell	Cells	C0007634
+32585	32589	GO:0005623	cell	cell	Cells	C0007634
+32599	32631	GO:0007567	no inhibition of the target gene	parturition	Birth	C0005615
+32599	32631	GO:0000003	no inhibition of the target gene	reproduction	Reproduction	C0035150
+32633	32636	GO:0007601	see	vision	Vision	C0042789
+32725	32761	GO:0009790	caf-1-depleted embryonic fibroblasts	embryo development	Embryonic Development	C0013936
+32773	32788	GO:0006260	DNA replication	DNA replication	DNA Replication	C0598312
+32815	32830	GO:0000792	heterochromatin	heterochromatin	Heterochromatin	C0019397
+32948	32971	GO:0016246	p150caf-1 rnai vectors.	RNA interference	RNA Interference	C1136031
+33180	33189	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+33309	33314	GO:0007605	heard	hearing	Hearing	C0018767
+33405	33409	GO:0005623	cell	cell	Cells	C0007634
+33498	33502	GO:0005623	cell	cell	Cells	C0007634
+33508	33539	GO:0042571	nacerddine for the pml antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+33778	33796	GO:0031497	chromatin assembly	chromatin assembly	Chromatin Modeling	C1456459
+33814	33823	GO:0000785	chromatin	chromatin	chromatin location	C1325550
+33845	33865	GO:0009790	e4 - embryonic day 4	embryo development	Embryonic Development	C0013936
+33867	33886	GO:0009790	es - embryonic stem	embryo development	Embryonic Development	C0013936
+33989	34021	GO:0009790	mef - mouse embryonic fibroblast	embryo development	Embryonic Development	C0013936
+34044	34048	GO:0005623	cell	cell	Cells	C0007634
+34103	34119	GO:0016246	RNA interference	RNA interference	RNA Interference	C1136031
+34224	34235	GO:0032502	development	development	Biologic Development	C0678723
+34263	34291	GO:0070828	heterochromatin organization	heterochromatin organization		C2753902
+34326	34366	GO:0006310	by homologous recombination in es cells.	DNA recombination	Recombination, Genetic	C0034865
+34470	34493	GO:1902698	the acidic domain (ad).	acidogenesis		C3823112
+34470	34493	GO:1902705	the acidic domain (ad).	acidogenesis		C3823112
+34470	34493	GO:1902706	the acidic domain (ad).	acidogenesis		C3823112
+34470	34493	GO:1902699	the acidic domain (ad).	acidogenesis		C3823112
+34503	34539	GO:0007567	structure of the murine chaf1a gene.	parturition	Birth	C0005615
+34503	34539	GO:0000003	structure of the murine chaf1a gene.	reproduction	Reproduction	C0035150
+34621	34643	GO:0006413	translation initiation	translation initiation	Translation Initiation	C1519613
+34786	34811	GO:0007567	neomycin selection genes.	parturition	Birth	C0005615
+34786	34811	GO:0000003	neomycin selection genes.	reproduction	Reproduction	C0035150
+34832	34836	GO:0005623	cell	cell	Cells	C0007634
+34943	34991	GO:0009790	used for the production of e4 chaf1a-/- embryos.	embryo development	Embryonic Development	C0013936
+35219	35232	GO:0009790	in e4 embryos	embryo development	Embryonic Development	C0013936
+35292	35309	GO:0009790	chaf1a+/- embryos	embryo development	Embryonic Development	C0013936
+35448	35455	GO:0051320	S phase	S phase	S Phase	C0080129
+35481	35485	GO:0005623	cell	cell	Cells	C0007634
+35561	35565	GO:0005623	cell	cell	Cells	C0007634
+35778	35788	GO:0000785	pink color	chromatin	chromatin location	C1325550
+35832	35846	GO:0097444	dense material	dense material		C3546235
+35879	35909	GO:0005634	the magnification of a nucleus	cell nucleus	Cell Nucleus	C0007610
+35910	35940	GO:0009790	selected from the above embryo	embryo development	Embryonic Development	C0013936
+35993	36008	GO:0000792	heterochromatin	heterochromatin	Heterochromatin	C0019397
+36035	36074	GO:0009790	hp1alpha staining in wild-type embryos.	embryo development	Embryonic Development	C0013936
+36090	36123	GO:0009790	not visible in chaf1a-/- embryos.	embryo development	Embryonic Development	C0013936
+36155	36212	GO:0005634	diffuse within the nucleus of p150caf-1-depleted embryos,	cell nucleus	Cell Nucleus	C0007610
+36236	36253	GO:0034399	nuclear periphery	nuclear periphery		C2612504
+36274	36302	GO:0070828	heterochromatin organization	heterochromatin organization		C2753902
+36338	36355	GO:0009790	wild-type embryos	embryo development	Embryonic Development	C0013936
+36356	36383	GO:0009790	isolated at embryonic day 2	embryo development	Embryonic Development	C0013936
+36384	36388	GO:0004842	(e2,	ubiquitin conjugating enzyme activity		C1151883
+36384	36388	GO:0061650	(e2,	ubiquitin-like protein conjugating enzyme activity		C1151884
+36384	36388	GO:0019775	(e2,	FAT10 conjugating enzyme activity		C1151887
+36384	36388	GO:0019777	(e2,	Atg12 conjugating enzyme activity		C2612339
+36384	36388	GO:0072496	(e2,	Pup conjugating enzyme activity		C3156549
+36384	36388	GO:0019787	(e2,	ubiquitin-like protein transferase activity		C3888074
+36384	36388	GO:0004842	(e2,	ubiquitin-protein transferase activity		C3888151
+36384	36388	GO:0061657	(e2,	UFM1 conjugating enzyme activity		C3889565
+36384	36388	GO:0019789	(e2,	SUMO conjugating enzyme activity		C3889566
+36384	36388	GO:0019788	(e2,	NEDD8 conjugating enzyme activity		C3889567
+36384	36388	GO:0061658	(e2,	URM1 conjugating enzyme activity		C3889568
+36384	36388	GO:0061653	(e2,	E2	ISG15 conjugating enxyme activity	C3889569
+36384	36388	GO:0061631	(e2,	ubiquitin conjugating enzyme activity		C1151883
+36384	36388	GO:0061652	(e2,	FAT10 conjugating enzyme activity		C1151887
+36384	36388	GO:0061651	(e2,	Atg12 conjugating enzyme activity		C2612339
+36384	36388	GO:0061655	(e2,	Pup conjugating enzyme activity		C3156549
+36384	36388	GO:0061656	(e2,	SUMO conjugating enzyme activity		C3889566
+36384	36388	GO:0061654	(e2,	NEDD8 conjugating enzyme activity		C3889567
+36393	36397	GO:0005623	cell	cell	Cells	C0007634
+36401	36405	GO:0004842	e2.5	ubiquitin conjugating enzyme activity		C1151883
+36401	36405	GO:0061650	e2.5	ubiquitin-like protein conjugating enzyme activity		C1151884
+36401	36405	GO:0019775	e2.5	FAT10 conjugating enzyme activity		C1151887
+36401	36405	GO:0019777	e2.5	Atg12 conjugating enzyme activity		C2612339
+36401	36405	GO:0072496	e2.5	Pup conjugating enzyme activity		C3156549
+36401	36405	GO:0019787	e2.5	ubiquitin-like protein transferase activity		C3888074
+36401	36405	GO:0004842	e2.5	ubiquitin-protein transferase activity		C3888151
+36401	36405	GO:0061657	e2.5	UFM1 conjugating enzyme activity		C3889565
+36401	36405	GO:0019789	e2.5	SUMO conjugating enzyme activity		C3889566
+36401	36405	GO:0019788	e2.5	NEDD8 conjugating enzyme activity		C3889567
+36401	36405	GO:0061658	e2.5	URM1 conjugating enzyme activity		C3889568
+36401	36405	GO:0061653	e2.5	E2	ISG15 conjugating enxyme activity	C3889569
+36401	36405	GO:0061631	e2.5	ubiquitin conjugating enzyme activity		C1151883
+36401	36405	GO:0061652	e2.5	FAT10 conjugating enzyme activity		C1151887
+36401	36405	GO:0061651	e2.5	Atg12 conjugating enzyme activity		C2612339
+36401	36405	GO:0061655	e2.5	Pup conjugating enzyme activity		C3156549
+36401	36405	GO:0061656	e2.5	SUMO conjugating enzyme activity		C3889566
+36401	36405	GO:0061654	e2.5	NEDD8 conjugating enzyme activity		C3889567
+36412	36416	GO:0005623	cell	cell	Cells	C0007634
+36420	36422	GO:0061659	e3	ubiquitin-like protein ligase activity		C1150682
+36420	36422	GO:0019777	e3	Atg12 ligase activity		C1151885
+36420	36422	GO:0019787	e3	ubiquitin-like protein transferase activity		C3888074
+36420	36422	GO:0004842	e3	ubiquitin-protein transferase activity		C3888151
+36420	36422	GO:0061662	e3	ISG15 ligase activity		C3890037
+36420	36422	GO:0061661	e3	FAT10 ligase activity		C3890038
+36420	36422	GO:0061667	e3	URM1 ligase activity		C3890039
+36420	36422	GO:0061664	e3	Pup ligase activity		C3890040
+36420	36422	GO:0061666	e3	UFM1 ligase activity		C3890041
+36420	36422	GO:0061665	e3	SUMO ligase activity		C3890172
+36420	36422	GO:0061663	e3	NEDD8 ligase activity		C3890173
+36420	36422	GO:0061660	e3	Atg12 ligase activity		C1151885
+36430	36434	GO:0005623	cell	cell	Cells	C0007634
+36438	36442	GO:0061659	e3.5	ubiquitin-like protein ligase activity		C1150682
+36438	36442	GO:0019777	e3.5	Atg12 ligase activity		C1151885
+36438	36442	GO:0019787	e3.5	ubiquitin-like protein transferase activity		C3888074
+36438	36442	GO:0004842	e3.5	ubiquitin-protein transferase activity		C3888151
+36438	36442	GO:0061662	e3.5	ISG15 ligase activity		C3890037
+36438	36442	GO:0061661	e3.5	FAT10 ligase activity		C3890038
+36438	36442	GO:0061667	e3.5	URM1 ligase activity		C3890039
+36438	36442	GO:0061664	e3.5	Pup ligase activity		C3890040
+36438	36442	GO:0061666	e3.5	UFM1 ligase activity		C3890041
+36438	36442	GO:0061665	e3.5	SUMO ligase activity		C3890172
+36438	36442	GO:0061663	e3.5	NEDD8 ligase activity		C3890173
+36438	36442	GO:0061660	e3.5	Atg12 ligase activity		C1151885
+36447	36451	GO:0005623	cell	cell	Cells	C0007634
+36466	36470	GO:0005623	cell	cell	Cells	C0007634
+36484	36499	GO:0000792	heterochromatin	heterochromatin	Heterochromatin	C0019397
+36592	36622	GO:0005634	(f) magnification of a nucleus	cell nucleus	Cell Nucleus	C0007610
+36695	36721	GO:0005634	the nucleus of an es cell.	cell nucleus	Cell Nucleus	C0007610
+36791	36795	GO:0005623	cell	cell	Cells	C0007634
+36890	36907	GO:0016246	p150caf-1 by rnai	RNA interference	RNA Interference	C1136031
+36914	36918	GO:0005623	cell	cell	Cells	C0007634
+37056	37060	GO:0005623	cell	cell	Cells	C0007634
+37148	37176	GO:0070828	heterochromatin organization	heterochromatin organization		C2753902
+37271	37275	GO:0005623	cell	cell	Cells	C0007634
+37511	37539	GO:0070828	heterochromatin organization	heterochromatin organization		C2753902
+37801	37811	GO:0016605	pml bodies	PML body		C1167110
+37853	37857	GO:0005623	cell	cell	Cells	C0007634
+37895	37899	GO:0005623	cell	cell	Cells	C0007634
+38088	38116	GO:0070828	heterochromatin organization	heterochromatin organization		C2753902
+38144	38159	GO:0006260	DNA replication	DNA replication	DNA Replication	C0598312
+38166	38170	GO:0005623	cell	cell	Cells	C0007634
+38180	38184	GO:0005623	cell	cell	Cells	C0007634
+38281	38285	GO:0005623	cell	cell	Cells	C0007634
+38464	38468	GO:0005623	cell	cell	Cells	C0007634
+38617	38679	GO:0009058	no significant difference in the formation of replication foci	anabolism	Anabolism	C0220781
+38722	38726	GO:0005623	cell	cell	Cells	C0007634
+38869	38909	GO:0051726	a similar cell-cycle profile for control	cell cycle regulation	Cell Cycle Control	C1155872
+38869	38909	GO:1901987	a similar cell-cycle profile for control	regulation of cell cycle phase transition		C3544486
+38936	38940	GO:0005623	cell	cell	Cells	C0007634
+38986	38990	GO:0005623	cell	cell	Cells	C0007634
+38992	39023	GO:0022403	in each phase of the cell cycle	cell cycle phase	Cell Cycle Phase	C1516337
+39334	39355	GO:0051179	altered localization,	establishment and maintenance of localization		C1744691
+39382	39405	GO:0005721	centric heterochromatin	centric heterochromatin	Centric heterochromatin	C1166670
+39497	39507	GO:0051325	interphase	interphase	Interphase	C0021798
+39650	39654	GO:0005623	cell	cell	Cells	C0007634
+39689	39733	GO:0000775	pericentric regions from several chromosomes	chromosome, pericentric region		C1325561
+39769	39781	GO:0010369	chromocenter	chromocenter		C2265493
+40081	40085	GO:0005623	cell	cell	Cells	C0007634
+40147	40159	GO:0010369	chromocenter	chromocenter		C2265493
+40282	40299	GO:0034399	nuclear periphery	nuclear periphery		C2612504
+40337	40341	GO:0005623	cell	cell	Cells	C0007634
+40394	40418	GO:0005634	drawn across the nucleus	cell nucleus	Cell Nucleus	C0007610
+40511	40523	GO:0010369	chromocenter	chromocenter		C2265493
+40535	40565	GO:0030261	the condensed minor satellites	chromosome condensation	Chromosome Condensation	C1155631
+40583	40587	GO:0005623	cell	cell	Cells	C0007634
+40903	40915	GO:0010369	chromocenter	chromocenter		C2265493
+40953	40965	GO:0010369	chromocenter	chromocenter		C2265493
+41010	41034	GO:0034728	nucleosomal organization	nucleosome organization		C2612882
+41075	41079	GO:0005623	cell	cell	Cells	C0007634
+41082	41088	GO:0005634	nuclei	cell nucleus	Cell Nucleus	C0007610
+41111	41115	GO:0005623	cell	cell	Cells	C0007634
+41169	41175	GO:0005634	nuclei	cell nucleus	Cell Nucleus	C0007610
+41181	41224	GO:0004530	digested with increasing amounts of dnase i	deoxyribonuclease I activity		C1148702
+41245	41254	GO:0007586	digestion	digestion	Digestion	C0012238
+41442	41450	GO:0016020	membrane	membrane	Membrane	C0596901
+41556	41606	GO:0006306	dna cpg methylation at pericentric heterochromatin	DNA methylation	DNA Methylation	C0376452
+41647	41651	GO:0005623	cell	cell	Cells	C0007634
+41682	41686	GO:0005623	cell	cell	Cells	C0007634
+42005	42028	GO:0005721	centric heterochromatin	centric heterochromatin	Centric heterochromatin	C1166670
+42127	42150	GO:0005721	centric heterochromatin	centric heterochromatin	Centric heterochromatin	C1166670
+42291	42295	GO:0005623	cell	cell	Cells	C0007634
+42330	42357	GO:0042571	the antibody-bound fraction	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+42561	42569	GO:0016020	membrane	membrane	Membrane	C0596901
+42561	42573	GO:0016020	the membrane	membrane	Membrane	C0596901
+42817	42821	GO:0005623	cell	cell	Cells	C0007634
+42864	42868	GO:0005623	cell	cell	Cells	C0007634
+43065	43069	GO:0005623	cell	cell	Cells	C0007634
+43196	43200	GO:0005623	cell	cell	Cells	C0007634
+43654	43686	GO:0006983	10.1371/journal.pgen.0020181.eor	ER-overload response		C1155303

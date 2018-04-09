@@ -1,0 +1,380 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+65	124	GO:0007567	the candidate genes of small-effect quantitative trait loci	parturition	Birth	C0005615
+65	124	GO:0000003	the candidate genes of small-effect quantitative trait loci	reproduction	Reproduction	C0035150
+215	252	GO:0010468	controlled by many small-effect genes	regulation of gene expression	Gene Expression Regulation	C0017263
+330	390	GO:0007567	the candidate genes for small-effect quantitative trait loci	parturition	Birth	C0005615
+330	390	GO:0000003	the candidate genes for small-effect quantitative trait loci	reproduction	Reproduction	C0035150
+638	653	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+691	710	GO:0007567	the candidate genes	parturition	Birth	C0005615
+691	710	GO:0000003	the candidate genes	reproduction	Reproduction	C0035150
+1019	1044	GO:0007567	of 22,000 screened genes,	parturition	Birth	C0005615
+1019	1044	GO:0000003	of 22,000 screened genes,	reproduction	Reproduction	C0035150
+1133	1152	GO:0007567	of these 117 genes,	parturition	Birth	C0005615
+1133	1152	GO:0000003	of these 117 genes,	reproduction	Reproduction	C0035150
+1238	1268	GO:0007567	considered as candidate genes.	parturition	Birth	C0005615
+1238	1268	GO:0000003	considered as candidate genes.	reproduction	Reproduction	C0035150
+1327	1352	GO:0010468	controlled by many genes,	regulation of gene expression	Gene Expression Regulation	C0017263
+1538	1562	GO:0007567	the genetic basis of ra,	parturition	Birth	C0005615
+1538	1562	GO:0000003	the genetic basis of ra,	reproduction	Reproduction	C0035150
+1834	1861	GO:0007567	small genetic contributions	parturition	Birth	C0005615
+1834	1861	GO:0000003	small genetic contributions	reproduction	Reproduction	C0035150
+1876	1916	GO:0007601	seen from the susceptibility genes of ra	vision	Vision	C0042789
+2048	2078	GO:0007567	the other susceptibility genes	parturition	Birth	C0005615
+2048	2078	GO:0000003	the other susceptibility genes	reproduction	Reproduction	C0035150
+2146	2173	GO:0007567	small genetic contributions	parturition	Birth	C0005615
+2146	2173	GO:0000003	small genetic contributions	reproduction	Reproduction	C0035150
+2601	2627	GO:0007567	other susceptibility genes	parturition	Birth	C0005615
+2601	2627	GO:0000003	other susceptibility genes	reproduction	Reproduction	C0035150
+2807	2843	GO:0007567	the genetic basis of these diseases.	parturition	Birth	C0005615
+2807	2843	GO:0000003	the genetic basis of these diseases.	reproduction	Reproduction	C0035150
+2895	2924	GO:0007567	the known genetic background,	parturition	Birth	C0005615
+2895	2924	GO:0000003	the known genetic background,	reproduction	Reproduction	C0035150
+2961	2992	GO:0007567	search for susceptibility genes	parturition	Birth	C0005615
+2961	2992	GO:0000003	search for susceptibility genes	reproduction	Reproduction	C0035150
+3210	3278	GO:0007567	approximately 20 quantitative trait genes (qtgs) in the mouse genome	parturition	Birth	C0005615
+3210	3278	GO:0000003	approximately 20 quantitative trait genes (qtgs) in the mouse genome	reproduction	Reproduction	C0035150
+3323	3332	GO:0007567	most qtgs	parturition	Birth	C0005615
+3323	3332	GO:0000003	most qtgs	reproduction	Reproduction	C0035150
+3440	3465	GO:0043687	protein structure changes	post-translational protein modification	Post-Translational Protein Processing	C0033666
+3440	3465	GO:0006464	protein structure changes	protein modification process		C2263112
+3440	3465	GO:0036211	protein structure changes	protein modification process		C2263112
+3655	3670	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+3789	3804	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+3880	3891	GO:0032502	development	development	Biologic Development	C0678723
+3893	3898	GO:0007567	genes	parturition	Birth	C0005615
+3893	3898	GO:0000003	genes	reproduction	Reproduction	C0035150
+3977	4008	GO:0007567	signature genes of the diseases	parturition	Birth	C0005615
+3977	4008	GO:0000003	signature genes of the diseases	reproduction	Reproduction	C0035150
+4089	4093	GO:0005623	cell	cell	Cells	C0007634
+4241	4246	GO:0007567	genes	parturition	Birth	C0005615
+4241	4246	GO:0000003	genes	reproduction	Reproduction	C0035150
+4241	4246	GO:0007567	genes	parturition	Birth	C0005615
+4241	4246	GO:0000003	genes	reproduction	Reproduction	C0035150
+4452	4456	GO:0005623	cell	cell	Cells	C0007634
+4612	4617	GO:0007567	genes	parturition	Birth	C0005615
+4612	4617	GO:0000003	genes	reproduction	Reproduction	C0035150
+4762	4785	GO:0007567	besides detecting genes	parturition	Birth	C0005615
+4762	4785	GO:0000003	besides detecting genes	reproduction	Reproduction	C0035150
+4857	4882	GO:0007567	the genetic polymorphisms	parturition	Birth	C0005615
+4857	4882	GO:0000003	the genetic polymorphisms	reproduction	Reproduction	C0035150
+4894	4909	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+5085	5127	GO:0007567	the potential candidate genes inside them,	parturition	Birth	C0005615
+5085	5127	GO:0000003	the potential candidate genes inside them,	reproduction	Reproduction	C0035150
+5470	5485	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+5564	5593	GO:0007567	the potential candidate genes	parturition	Birth	C0005615
+5564	5593	GO:0000003	the potential candidate genes	reproduction	Reproduction	C0035150
+6174	6222	GO:0003904	pre-approved by the state animal care committee.	photoreactivating enzyme activity		C2257086
+6457	6460	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+6703	6714	GO:0032502	development	development	Biologic Development	C0678723
+6882	6897	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+8300	8311	GO:0009877	lymph nodes	nodulation		C1160630
+8448	8505	GO:0005020	a commercial kit in accordance with the provided protocol	stem cell factor receptor activity		C1150635
+8544	8559	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+8564	8573	GO:0007610	conducted	behavior	Behavior	C0004927
+8643	8666	GO:0007567	more than 22,000 genes.	parturition	Birth	C0005615
+8643	8666	GO:0000003	more than 22,000 genes.	reproduction	Reproduction	C0035150
+8831	8852	GO:0007567	washing of gene chips	parturition	Birth	C0005615
+8831	8852	GO:0000003	washing of gene chips	reproduction	Reproduction	C0035150
+8942	8971	GO:0007567	(hewlett-packard gene scanner	parturition	Birth	C0005615
+8942	8971	GO:0000003	(hewlett-packard gene scanner	reproduction	Reproduction	C0035150
+9118	9133	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+9234	9264	GO:0007567	differentially expressed genes	parturition	Birth	C0005615
+9234	9264	GO:0000003	differentially expressed genes	reproduction	Reproduction	C0035150
+9663	9702	GO:0007567	the proportion of false-positive genes.	parturition	Birth	C0005615
+9663	9702	GO:0000003	the proportion of false-positive genes.	reproduction	Reproduction	C0035150
+9704	9732	GO:0007567	hierarchical gene clustering	parturition	Birth	C0005615
+9704	9732	GO:0000003	hierarchical gene clustering	reproduction	Reproduction	C0035150
+9778	9793	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+9815	9856	GO:0007567	the default clustering algorithm of genes	parturition	Birth	C0005615
+9815	9856	GO:0000003	the default clustering algorithm of genes	reproduction	Reproduction	C0035150
+9873	9903	GO:0007567	the distance between two genes	parturition	Birth	C0005615
+9873	9903	GO:0000003	the distance between two genes	reproduction	Reproduction	C0035150
+9936	10031	GO:0010467	the pearson correlation coefficient between the standardised expression values of the two genes	gene expression	Gene Expression	C0017262
+10073	10140	GO:0007567	the functional relationship between differentially expressed genes,	parturition	Birth	C0005615
+10073	10140	GO:0000003	the functional relationship between differentially expressed genes,	reproduction	Reproduction	C0035150
+10141	10179	GO:0003673	gene ontology (go) term classification	Gene_Ontology	Gene Ontology	C1138831
+10334	10346	GO:0007567	three genes.	parturition	Birth	C0005615
+10334	10346	GO:0000003	three genes.	reproduction	Reproduction	C0035150
+11057	11089	GO:0007567	the main candidate gene of cia2,	parturition	Birth	C0005615
+11057	11089	GO:0000003	the main candidate gene of cia2,	reproduction	Reproduction	C0035150
+11155	11166	GO:0032502	development	development	Biologic Development	C0678723
+11643	11653	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+11886	11900	GO:0033736	a lod score of	L-lysine 6-oxidase activity		C2247199
+12494	12504	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+12903	12913	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+12969	12979	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+13040	13050	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+13104	13114	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+13164	13174	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+13214	13260	GO:0007567	strain-specific differentially expressed genes	parturition	Birth	C0005615
+13214	13260	GO:0000003	strain-specific differentially expressed genes	reproduction	Reproduction	C0035150
+13278	13293	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+13488	13508	GO:0007567	the cv for each gene	parturition	Birth	C0005615
+13488	13508	GO:0000003	the cv for each gene	reproduction	Reproduction	C0035150
+13754	13812	GO:0007567	search for strain-specific differentially expressed genes,	parturition	Birth	C0005615
+13754	13812	GO:0000003	search for strain-specific differentially expressed genes,	reproduction	Reproduction	C0035150
+13841	13856	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+13990	13999	GO:0007567	361 genes	parturition	Birth	C0005615
+13990	13999	GO:0000003	361 genes	reproduction	Reproduction	C0035150
+14141	14150	GO:0007567	141 genes	parturition	Birth	C0005615
+14141	14150	GO:0000003	141 genes	reproduction	Reproduction	C0035150
+14222	14255	GO:0007567	85 differentially expressed genes	parturition	Birth	C0005615
+14222	14255	GO:0000003	85 differentially expressed genes	reproduction	Reproduction	C0035150
+14350	14397	GO:0007567	the lists of the differentially expressed genes	parturition	Birth	C0005615
+14350	14397	GO:0000003	the lists of the differentially expressed genes	reproduction	Reproduction	C0035150
+14433	14450	GO:0007567	overlapping genes	parturition	Birth	C0005615
+14433	14450	GO:0000003	overlapping genes	reproduction	Reproduction	C0035150
+14466	14475	GO:0007567	509 genes	parturition	Birth	C0005615
+14466	14475	GO:0000003	509 genes	reproduction	Reproduction	C0035150
+14513	14529	GO:0007567	twenty-one genes	parturition	Birth	C0005615
+14513	14529	GO:0000003	twenty-one genes	reproduction	Reproduction	C0035150
+14613	14636	GO:0007567	besides these 21 genes,	parturition	Birth	C0005615
+14613	14636	GO:0000003	besides these 21 genes,	reproduction	Reproduction	C0035150
+14637	14660	GO:0007567	only 3 additional genes	parturition	Birth	C0005615
+14637	14660	GO:0000003	only 3 additional genes	reproduction	Reproduction	C0035150
+14775	14822	GO:0007567	disease-specific differentially expressed genes	parturition	Birth	C0005615
+14775	14822	GO:0000003	disease-specific differentially expressed genes	reproduction	Reproduction	C0035150
+14836	14895	GO:0007567	the disease-specific differentially expressed genes in cia,	parturition	Birth	C0005615
+14836	14895	GO:0000003	the disease-specific differentially expressed genes in cia,	reproduction	Reproduction	C0035150
+14908	14917	GO:0007567	the genes	parturition	Birth	C0005615
+14908	14917	GO:0000003	the genes	reproduction	Reproduction	C0035150
+15107	15116	GO:0007567	102 genes	parturition	Birth	C0005615
+15107	15116	GO:0000003	102 genes	reproduction	Reproduction	C0035150
+15238	15251	GO:0007567	only 26 genes	parturition	Birth	C0005615
+15238	15251	GO:0000003	only 26 genes	reproduction	Reproduction	C0035150
+15320	15354	GO:0007567	184 differentially expressed genes	parturition	Birth	C0005615
+15320	15354	GO:0000003	184 differentially expressed genes	reproduction	Reproduction	C0035150
+15372	15401	GO:0007567	with 156 downregulated genes.	parturition	Birth	C0005615
+15372	15401	GO:0000003	with 156 downregulated genes.	reproduction	Reproduction	C0035150
+15402	15415	GO:0007567	only one gene	parturition	Birth	C0005615
+15402	15415	GO:0000003	only one gene	reproduction	Reproduction	C0035150
+15473	15491	GO:0007567	besides this gene,	parturition	Birth	C0005615
+15473	15491	GO:0000003	besides this gene,	reproduction	Reproduction	C0035150
+15506	15540	GO:0007567	six differentially expressed genes	parturition	Birth	C0005615
+15506	15540	GO:0000003	six differentially expressed genes	reproduction	Reproduction	C0035150
+15637	15688	GO:0007567	310 disease-specific differentially expressed genes	parturition	Birth	C0005615
+15637	15688	GO:0000003	310 disease-specific differentially expressed genes	reproduction	Reproduction	C0035150
+15794	15809	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+15843	15893	GO:0007567	hierarchical cluster analysis for these 310 genes.	parturition	Birth	C0005615
+15843	15893	GO:0000003	hierarchical cluster analysis for these 310 genes.	reproduction	Reproduction	C0035150
+15894	15911	GO:0007567	six gene clusters	parturition	Birth	C0005615
+15894	15911	GO:0000003	six gene clusters	reproduction	Reproduction	C0035150
+15980	15995	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+16035	16044	GO:0007567	16 genes,	parturition	Birth	C0005615
+16035	16044	GO:0000003	16 genes,	reproduction	Reproduction	C0035150
+16038	16043	GO:0007567	genes	parturition	Birth	C0005615
+16038	16043	GO:0000003	genes	reproduction	Reproduction	C0035150
+16110	16139	GO:0010467	the expression of these genes	gene expression	Gene Expression	C0017262
+16261	16276	GO:0006955	immune response	immune response	Immune response	C0301872
+16298	16306	GO:0007567	12 genes	parturition	Birth	C0005615
+16298	16306	GO:0000003	12 genes	reproduction	Reproduction	C0035150
+16398	16409	GO:0007567	these genes	parturition	Birth	C0005615
+16398	16409	GO:0000003	these genes	reproduction	Reproduction	C0035150
+16436	16451	GO:0006955	immune response	immune response	Immune response	C0301872
+16453	16471	GO:0031090	organelle membrane	organelle membrane		C1621975
+16476	16489	GO:0005576	extracellular	extracellular	Extracellular	C0521119
+16529	16537	GO:0007567	78 genes	parturition	Birth	C0005615
+16529	16537	GO:0000003	78 genes	reproduction	Reproduction	C0035150
+16582	16593	GO:0007567	these genes	parturition	Birth	C0005615
+16582	16593	GO:0000003	these genes	reproduction	Reproduction	C0035150
+16613	16635	GO:0005911	intercellular junction	intercellular junction	Intercellular Junctions	C0021721
+16637	16664	GO:0007567	more than half of the genes	parturition	Birth	C0005615
+16637	16664	GO:0000003	more than half of the genes	reproduction	Reproduction	C0035150
+16713	16767	GO:0007567	genes specifically downregultaed at the chronic phase.	parturition	Birth	C0005615
+16713	16767	GO:0000003	genes specifically downregultaed at the chronic phase.	reproduction	Reproduction	C0035150
+16768	16779	GO:0007567	these genes	parturition	Birth	C0005615
+16768	16779	GO:0000003	these genes	reproduction	Reproduction	C0035150
+16808	16832	GO:0046651	lymphocyte proliferation	lymphocyte proliferation		C0596873
+16834	16851	GO:0042110	T cell activation	T cell activation	T-Cell Activation	C1155065
+16853	16868	GO:0005515	protein binding	protein binding	Protein Binding	C0033618
+16925	16936	GO:0007567	eight genes	parturition	Birth	C0005615
+16925	16936	GO:0000003	eight genes	reproduction	Reproduction	C0035150
+16988	16996	GO:0007567	18 genes	parturition	Birth	C0005615
+16988	16996	GO:0000003	18 genes	reproduction	Reproduction	C0035150
+17107	17143	GO:0007567	enriched in these two gene clusters.	parturition	Birth	C0005615
+17107	17143	GO:0000003	enriched in these two gene clusters.	reproduction	Reproduction	C0035150
+17145	17192	GO:0007567	candidate genes for the small-effect qtl of cia	parturition	Birth	C0005615
+17145	17192	GO:0000003	candidate genes for the small-effect qtl of cia	reproduction	Reproduction	C0035150
+17206	17266	GO:0007567	candidate susceptibility genes for the cia small-effect qtl,	parturition	Birth	C0005615
+17206	17266	GO:0000003	candidate susceptibility genes for the cia small-effect qtl,	reproduction	Reproduction	C0035150
+17279	17337	GO:0007567	the list of strain-specific differentially expressed genes	parturition	Birth	C0005615
+17279	17337	GO:0000003	the list of strain-specific differentially expressed genes	reproduction	Reproduction	C0035150
+17338	17402	GO:0007567	with the list of disease-specific differentially expressed genes	parturition	Birth	C0005615
+17338	17402	GO:0000003	with the list of disease-specific differentially expressed genes	reproduction	Reproduction	C0035150
+17402	17413	GO:0007567	; 117 genes	parturition	Birth	C0005615
+17402	17413	GO:0000003	; 117 genes	reproduction	Reproduction	C0035150
+17481	17507	GO:0007567	positions of the 117 genes	parturition	Birth	C0005615
+17481	17507	GO:0000003	positions of the 117 genes	reproduction	Reproduction	C0035150
+17608	17618	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+17780	17796	GO:0007567	twenty-one genes	parturition	Birth	C0005615
+17780	17796	GO:0000003	twenty-one genes	reproduction	Reproduction	C0035150
+17892	17962	GO:0007567	6 potential candidate genes within the confidence intervals of loci 1,	parturition	Birth	C0005615
+17892	17962	GO:0000003	6 potential candidate genes within the confidence intervals of loci 1,	reproduction	Reproduction	C0035150
+18001	18018	GO:0007567	no candidate gene	parturition	Birth	C0005615
+18001	18018	GO:0000003	no candidate gene	reproduction	Reproduction	C0035150
+18071	18093	GO:0007567	the 21 candidate genes	parturition	Birth	C0005615
+18071	18093	GO:0000003	the 21 candidate genes	reproduction	Reproduction	C0035150
+18120	18130	GO:0007567	two genes,	parturition	Birth	C0005615
+18120	18130	GO:0000003	two genes,	reproduction	Reproduction	C0035150
+18237	18264	GO:0007567	except for these two genes,	parturition	Birth	C0005615
+18237	18264	GO:0000003	except for these two genes,	reproduction	Reproduction	C0035150
+18269	18283	GO:0007567	other 19 genes	parturition	Birth	C0005615
+18269	18283	GO:0000003	other 19 genes	reproduction	Reproduction	C0035150
+18332	18342	GO:0007567	all genes,	parturition	Birth	C0005615
+18332	18342	GO:0000003	all genes,	reproduction	Reproduction	C0035150
+18429	18439	GO:0007567	five genes	parturition	Birth	C0005615
+18429	18439	GO:0000003	five genes	reproduction	Reproduction	C0035150
+18541	18564	GO:0007567	among these five genes,	parturition	Birth	C0005615
+18541	18564	GO:0000003	among these five genes,	reproduction	Reproduction	C0035150
+18669	18689	GO:0007567	the other four genes	parturition	Birth	C0005615
+18669	18689	GO:0000003	the other four genes	reproduction	Reproduction	C0035150
+18897	18919	GO:0035556	protein kinase cascade	protein kinase cascade		C1155502
+18938	18973	GO:0007567	enriched in the 21 candidate genes.	parturition	Birth	C0005615
+18938	18973	GO:0000003	enriched in the 21 candidate genes.	reproduction	Reproduction	C0035150
+18974	19019	GO:0007567	this functional cluster contained four genes,	parturition	Birth	C0005615
+18974	19019	GO:0000003	this functional cluster contained four genes,	reproduction	Reproduction	C0035150
+19445	19474	GO:0007567	susceptibility genes for cia.	parturition	Birth	C0005615
+19445	19474	GO:0000003	susceptibility genes for cia.	reproduction	Reproduction	C0035150
+20196	20221	GO:0007567	some susceptibility genes	parturition	Birth	C0005615
+20196	20221	GO:0000003	some susceptibility genes	reproduction	Reproduction	C0035150
+20458	20472	GO:0071736	IgG2a antibody	IgG2a antibody		C2754946
+20576	20601	GO:0007567	a gene within this region	parturition	Birth	C0005615
+20576	20601	GO:0000003	a gene within this region	reproduction	Reproduction	C0035150
+20644	20658	GO:0071736	IgG2a antibody	IgG2a antibody		C2754946
+20698	20708	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+20746	20770	GO:0046651	lymphocyte proliferation	lymphocyte proliferation		C0596873
+20830	20840	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+20853	20900	GO:0030098	lymphocyte adherence during development of cia.	lymphocyte development		C3158359
+20912	20948	GO:0007567	the gene within the small-effect qtl	parturition	Birth	C0005615
+20912	20948	GO:0000003	the gene within the small-effect qtl	reproduction	Reproduction	C0035150
+21074	21089	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+21204	21219	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+21272	21287	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+21408	21438	GO:0007567	differentially regulated genes	parturition	Birth	C0005615
+21408	21438	GO:0000003	differentially regulated genes	reproduction	Reproduction	C0035150
+21498	21521	GO:0007567	a small number of genes	parturition	Birth	C0005615
+21498	21521	GO:0000003	a small number of genes	reproduction	Reproduction	C0035150
+21821	21850	GO:0007567	found in one cluster of genes	parturition	Birth	C0005615
+21821	21850	GO:0000003	found in one cluster of genes	reproduction	Reproduction	C0035150
+21875	21886	GO:0007567	these genes	parturition	Birth	C0005615
+21875	21886	GO:0000003	these genes	reproduction	Reproduction	C0035150
+21875	21886	GO:0007567	these genes	parturition	Birth	C0005615
+21875	21886	GO:0000003	these genes	reproduction	Reproduction	C0035150
+22095	22119	GO:0046651	lymphocyte proliferation	lymphocyte proliferation		C0596873
+22390	22400	GO:0007567	some genes	parturition	Birth	C0005615
+22390	22400	GO:0000003	some genes	reproduction	Reproduction	C0035150
+22416	22431	GO:0006955	immune response	immune response	Immune response	C0301872
+22545	22586	GO:0002377	a higher antibody response to collagen ii	antibody production	Antibody Formation	C0003261
+22741	22757	GO:0007567	twenty-one genes	parturition	Birth	C0005615
+22741	22757	GO:0000003	twenty-one genes	reproduction	Reproduction	C0035150
+22763	22802	GO:0007567	identified as potential candidate genes	parturition	Birth	C0005615
+22763	22802	GO:0000003	identified as potential candidate genes	reproduction	Reproduction	C0035150
+22860	22875	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+22925	22943	GO:0007567	no candidate genes	parturition	Birth	C0005615
+22925	22943	GO:0000003	no candidate genes	reproduction	Reproduction	C0035150
+22984	23034	GO:0007567	that qtg polymorphisms of the susceptibility genes	parturition	Birth	C0005615
+22984	23034	GO:0000003	that qtg polymorphisms of the susceptibility genes	reproduction	Reproduction	C0035150
+23101	23116	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+23118	23147	GO:0007567	two of the 21 candidate genes	parturition	Birth	C0005615
+23118	23147	GO:0000003	two of the 21 candidate genes	reproduction	Reproduction	C0035150
+23199	23227	GO:0007567	a candidate gene for locus 8	parturition	Birth	C0005615
+23199	23227	GO:0000003	a candidate gene for locus 8	reproduction	Reproduction	C0035150
+23232	23294	GO:0008284	also called p38 mitogen-activated protein kinase (mapk) alpha,	stimulation of cell proliferation	Stimulation of Cell Proliferation	C1156237
+23305	23353	GO:0001816	the production of arthritis-essential cytokines,	cytokine production		C1327413
+23354	23384	GO:0043120	such as tumour necrosis factor	tumor necrosis factor binding		C1323304
+23419	23441	GO:0008284	inhibitors of p38 mapk	stimulation of cell proliferation	Stimulation of Cell Proliferation	C1156237
+23433	23441	GO:0008284	p38 mapk	stimulation of cell proliferation	Stimulation of Cell Proliferation	C1156237
+23552	23580	GO:0007567	a candidate gene for loci 6,	parturition	Birth	C0005615
+23552	23580	GO:0000003	a candidate gene for loci 6,	reproduction	Reproduction	C0035150
+23619	23630	GO:0032502	development	development	Biologic Development	C0678723
+23635	23650	GO:0030154	differentiation	cell differentiation	Cell Differentiation process	C0007589
+23729	23740	GO:0032502	development	development	Biologic Development	C0678723
+23862	23866	GO:0005623	cell	cell	Cells	C0007634
+23958	23994	GO:0007567	search for potential candidate genes	parturition	Birth	C0005615
+23958	23994	GO:0000003	search for potential candidate genes	reproduction	Reproduction	C0035150
+24512	24527	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+24565	24603	GO:0007567	in the differentially expressed genes.	parturition	Birth	C0005615
+24565	24603	GO:0000003	in the differentially expressed genes.	reproduction	Reproduction	C0035150
+24617	24654	GO:0010467	the differential expression of a gene	gene expression	Gene Expression	C0017262
+24858	24895	GO:0007567	candidate genes for small-effect qtl.	parturition	Birth	C0005615
+24858	24895	GO:0000003	candidate genes for small-effect qtl.	reproduction	Reproduction	C0035150
+24930	24971	GO:0007567	21 candidate genes for 8 small-effect qtl	parturition	Birth	C0005615
+24930	24971	GO:0000003	21 candidate genes for 8 small-effect qtl	reproduction	Reproduction	C0035150
+24933	24948	GO:0007567	candidate genes	parturition	Birth	C0005615
+24933	24948	GO:0000003	candidate genes	reproduction	Reproduction	C0035150
+24933	24948	GO:0007567	candidate genes	parturition	Birth	C0005615
+24933	24948	GO:0000003	candidate genes	reproduction	Reproduction	C0035150
+25476	25497	GO:0007567	the role of the genes	parturition	Birth	C0005615
+25476	25497	GO:0000003	the role of the genes	reproduction	Reproduction	C0035150
+25596	25615	GO:0007567	the candidate genes	parturition	Birth	C0005615
+25596	25615	GO:0000003	the candidate genes	reproduction	Reproduction	C0035150
+25742	25746	GO:0097721	; cv	ciliary vesicle		C4318503
+25778	25793	GO:0003673	= gene ontology	Gene_Ontology	Gene Ontology	C1138831
+25793	25797	GO:0044805	; ln	late nucleophagy		C3714709
+25798	25810	GO:0009877	= lymph node	nodulation		C1160630
+25810	25815	GO:0033736	; lod	L-lysine 6-oxidase activity		C2247199
+25846	25880	GO:0008284	= mitogen-activated protein kinase	stimulation of cell proliferation	Stimulation of Cell Proliferation	C1156237
+25955	25980	GO:0007567	= quantitative trait gene	parturition	Birth	C0005615
+25955	25980	GO:0000003	= quantitative trait gene	reproduction	Reproduction	C0035150
+26211	26226	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+26470	26506	GO:0007567	summary information on the 509 genes	parturition	Birth	C0005615
+26470	26506	GO:0000003	summary information on the 509 genes	reproduction	Reproduction	C0035150
+26694	26728	GO:0007567	the differentially expressed genes	parturition	Birth	C0005615
+26694	26728	GO:0000003	the differentially expressed genes	reproduction	Reproduction	C0035150
+26755	26775	GO:0005488	bound of fold change	binding	Binding 	C1167622
+26974	27010	GO:0007567	summary information on the 311 genes	parturition	Birth	C0005615
+26974	27010	GO:0000003	summary information on the 311 genes	reproduction	Reproduction	C0035150
+27192	27226	GO:0007567	the differentially expressed genes	parturition	Birth	C0005615
+27192	27226	GO:0000003	the differentially expressed genes	reproduction	Reproduction	C0035150
+27253	27273	GO:0005488	bound of fold change	binding	Binding 	C1167622
+27472	27508	GO:0007567	summary information on the 117 genes	parturition	Birth	C0005615
+27472	27508	GO:0000003	summary information on the 117 genes	reproduction	Reproduction	C0035150
+27614	27649	GO:0007567	the physical positions of the genes	parturition	Birth	C0005615
+27614	27649	GO:0000003	the physical positions of the genes	reproduction	Reproduction	C0035150
+27895	27960	GO:0007567	differentially expressed genes between collagen-induced arthritis	parturition	Birth	C0005615
+27895	27960	GO:0000003	differentially expressed genes between collagen-induced arthritis	reproduction	Reproduction	C0035150
+28020	28035	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+28109	28138	GO:0007567	of the 22,000 screened genes,	parturition	Birth	C0005615
+28109	28138	GO:0000003	of the 22,000 screened genes,	reproduction	Reproduction	C0035150
+28234	28276	GO:0010468	361 genes at the naive control (nc) phase,	regulation of gene expression	Gene Expression Regulation	C0017263
+28277	28319	GO:0007567	141 genes at post-immunisation (pi) phase,	parturition	Birth	C0005615
+28277	28319	GO:0000003	141 genes at post-immunisation (pi) phase,	reproduction	Reproduction	C0035150
+28320	28366	GO:0007567	184 genes at the onset of arthritis (oa) phase	parturition	Birth	C0005615
+28320	28366	GO:0000003	184 genes at the onset of arthritis (oa) phase	reproduction	Reproduction	C0035150
+28371	28416	GO:0007567	85 genes at the chronic arthritis (ca) phase.	parturition	Birth	C0005615
+28371	28416	GO:0000003	85 genes at the chronic arthritis (ca) phase.	reproduction	Reproduction	C0035150
+28444	28475	GO:0007567	the number of overlapping genes	parturition	Birth	C0005615
+28444	28475	GO:0000003	the number of overlapping genes	reproduction	Reproduction	C0035150
+28540	28590	GO:0007567	differentially expressed genes in the dba/1 strain	parturition	Birth	C0005615
+28540	28590	GO:0000003	differentially expressed genes in the dba/1 strain	reproduction	Reproduction	C0035150
+28780	28822	GO:0007567	search for differentially expressed genes.	parturition	Birth	C0005615
+28780	28822	GO:0000003	search for differentially expressed genes.	reproduction	Reproduction	C0035150
+28851	28882	GO:0007567	the number of overlapping genes	parturition	Birth	C0005615
+28851	28882	GO:0000003	the number of overlapping genes	reproduction	Reproduction	C0035150
+28932	29002	GO:0007567	(b) hierarchical clustering of the 310 differentially expressed genes.	parturition	Birth	C0005615
+28932	29002	GO:0000003	(b) hierarchical clustering of the 310 differentially expressed genes.	reproduction	Reproduction	C0035150
+29053	29068	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+29124	29140	GO:0007567	individual genes	parturition	Birth	C0005615
+29124	29140	GO:0000003	individual genes	reproduction	Reproduction	C0035150
+29228	29251	GO:0005829	each cell in the matrix	cytosol	Cytoplasmic matrix	C1383501
+29263	29294	GO:0010467	the expression level of a gene,	gene expression	Gene Expression	C0017262
+29325	29338	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+29384	29394	GO:0007567	that gene,	parturition	Birth	C0005615
+29384	29394	GO:0000003	that gene,	reproduction	Reproduction	C0035150
+29471	29494	GO:0007567	six basic gene clusters	parturition	Birth	C0005615
+29471	29494	GO:0000003	six basic gene clusters	reproduction	Reproduction	C0035150
+29560	29575	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+29596	29639	GO:0010467	the expression patterns of the gene cluster	gene expression	Gene Expression	C0017262
+29818	29867	GO:0005694	the chromosomal locations of the small-effect qtl	chromosome	Chromosomes	C0008633
+29915	29936	GO:0007567	120 genes of interest	parturition	Birth	C0005615
+29915	29936	GO:0000003	120 genes of interest	reproduction	Reproduction	C0035150
+29942	29957	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+29985	30015	GO:0007567	the positions of the 120 genes	parturition	Birth	C0005615
+29985	30015	GO:0000003	the positions of the 120 genes	reproduction	Reproduction	C0035150
+30176	30191	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+30257	30262	GO:0097721	; cv,	ciliary vesicle		C4318503
+30287	30292	GO:0044805	; ln,	late nucleophagy		C3714709
+30293	30303	GO:0009877	lymph node	nodulation		C1160630
+30613	30660	GO:0007567	summary of the small-effect qtl candidate genes	parturition	Birth	C0005615
+30613	30660	GO:0000003	summary of the small-effect qtl candidate genes	reproduction	Reproduction	C0035150
+30874	30884	GO:0005694	chromosome	chromosome	Chromosomes	C0008633

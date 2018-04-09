@@ -1,0 +1,342 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+22	33	GO:0003723	RNA binding	RNA binding	RNA Binding	C1148846
+22	63	GO:0005515	ablation of the sam68 rna binding protein	protein binding	Protein Binding	C0033618
+126	133	GO:0000278	mitosis	mitosis	Mitosis	C0026255
+165	176	GO:0003723	RNA binding	RNA binding	RNA Binding	C1148846
+217	250	GO:0016070	several aspects of rna metabolism	RNA metabolic process		C0683143
+321	354	GO:0000278	the generation of sam68-null mice	mitosis	Mitosis	C0026255
+355	383	GO:0006310	by homologous recombination.	DNA recombination	Recombination, Genetic	C0034865
+384	402	GO:0000278	aged sam68-/- mice	mitosis	Mitosis	C0026255
+571	604	GO:0000278	of the 12-month-old sam68-/- mice	mitosis	Mitosis	C0026255
+675	689	GO:0000278	sam68-/- mice.	mitosis	Mitosis	C0026255
+690	724	GO:0000278	sam68-/- bone marrow stromal cells	mitosis	Mitosis	C0026255
+729	784	GO:0030154	a differentiation advantage for the osteogenic pathway.	cell differentiation	Cell Differentiation process	C0007589
+795	817	GO:0000278	the knockdown of sam68	mitosis	Mitosis	C0026255
+824	912	GO:0009790	short hairpin rna in the embryonic mesenchymal multipotential progenitor c3h10t1/2 cells	embryo development	Embryonic Development	C0013936
+913	995	GO:0002076	resulted in more pronounced expression of the mature osteoblast marker osteocalcin	osteoblast development		C1817344
+1001	1016	GO:0030154	differentiation	cell differentiation	Cell Differentiation process	C0007589
+1021	1063	GO:0060349	induced with bone morphogenetic protein-2.	bone morphogenesis		C2610491
+1064	1100	GO:0009790	cultures of mouse embryo fibroblasts	embryo development	Embryonic Development	C0013936
+1101	1124	GO:0000278	generated from sam68+/+	mitosis	Mitosis	C0026255
+1129	1149	GO:0000278	sam68-/- littermates	mitosis	Mitosis	C0026255
+1244	1281	GO:0000278	the sam68-/- mouse embryo fibroblasts	mitosis	Mitosis	C0026255
+1296	1331	GO:0045444	impaired adipocyte differentiation.	fat cell differentiation		C1159884
+1388	1419	GO:0000278	from 12-month-old sam68-/- mice	mitosis	Mitosis	C0026255
+1566	1582	GO:0000278	endogenous sam68	mitosis	Mitosis	C0026255
+1583	1635	GO:0045444	as a positive regulator of adipocyte differentiation	fat cell differentiation		C1159884
+1664	1690	GO:0001649	osteoblast differentiation	osteoblast differentiation		C1159974
+1701	1722	GO:0000278	consistent with sam68	mitosis	Mitosis	C0026255
+1756	1788	GO:0048762	mesenchymal cell differentiation	mesenchymal cell differentiation		C1820192
+1805	1815	GO:0008152	metabolism	metabolism	Metabolism	C0025519
+2238	2249	GO:0003723	RNA binding	RNA binding	RNA Binding	C1148846
+2238	2282	GO:0005515	deficient for the sam68 rna binding protein,	protein binding	Protein Binding	C0033618
+2371	2376	GO:0007568	aging	aging	Aging	C0001811
+2587	2635	GO:0030154	the differentiation of this mesenchymal lineage,	cell differentiation	Cell Differentiation process	C0007589
+2703	2708	GO:0007568	aging	aging	Aging	C0001811
+2843	2847	GO:0005623	cell	cell	Cells	C0007634
+2872	2882	GO:0008152	metabolism	metabolism	Metabolism	C0025519
+3023	3043	GO:0001501	skeletal development	skeletal development		C1160401
+3187	3208	GO:0001501	at skeletal maturity,	skeletal development		C1160401
+3339	3344	GO:0007568	aging	aging	Aging	C0001811
+3514	3525	GO:0032502	development	development	Biologic Development	C0678723
+3542	3547	GO:0007568	aging	aging	Aging	C0001811
+3685	3689	GO:0005623	cell	cell	Cells	C0007634
+3741	3747	GO:0040007	growth	growth	Growth	C0018270
+3773	3794	GO:0007567	genetic-based studies	parturition	Birth	C0005615
+3773	3794	GO:0000003	genetic-based studies	reproduction	Reproduction	C0035150
+3856	3872	GO:0060348	bone development	bone development	Bone Development	C0005939
+3964	3979	GO:0045453	bone resorption	bone resorption	Bone Resorption	C0005974
+4380	4384	GO:0005623	cell	cell	Cells	C0007634
+4505	4509	GO:0005623	cell	cell	Cells	C0007634
+4537	4591	GO:0045444	that favors differentiation down the adipocyte lineage	fat cell differentiation		C1159884
+4634	4639	GO:0007568	aging	aging	Aging	C0001811
+4841	4845	GO:0005623	cell	cell	Cells	C0007634
+4899	4956	GO:0045444	this age-induced switch toward adipogenic differentiation	adipogenesis	Adipogenesis	C0596843
+4899	4956	GO:0060612	this age-induced switch toward adipogenic differentiation	adipogenesis	Adipogenesis	C0596843
+5000	5013	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+5062	5085	GO:0001709	cell fate determination	cell fate determination		C1160037
+5130	5140	GO:0005777	peroxisome	peroxisome		C0752063
+5221	5232	GO:0003723	RNA binding	RNA binding	RNA Binding	C1148846
+5275	5286	GO:0003723	RNA binding	RNA binding	RNA Binding	C1148846
+5321	5360	GO:0030154	regulators of cellular differentiation.	cell differentiation	Cell Differentiation process	C0007589
+5624	5635	GO:0003723	RNA binding	RNA binding	RNA Binding	C1148846
+5624	5666	GO:0005515	a role for the quaking rna binding protein	protein binding	Protein Binding	C0033618
+5668	5679	GO:0042552	myelination	myelination		C0596991
+5749	5784	GO:0044249	led to the formation of glial cells	cellular biosynthetic process		C1523936
+5855	5878	GO:0001709	cell fate determination	cell fate determination		C1160037
+5969	5973	GO:0005623	cell	cell	Cells	C0007634
+6049	6071	GO:0042692	muscle differentiation	muscle cell differentiation		C1326080
+6154	6161	GO:0000278	mitosis	mitosis	Mitosis	C0026255
+6224	6235	GO:0003723	RNA binding	RNA binding	RNA Binding	C1148846
+6573	6592	GO:0003904	pre-mrna processing	photoreactivating enzyme activity		C2257086
+6757	6792	GO:0090644	resistance to age-related bone loss	age-related resistance		C4084934
+6920	6968	GO:0030154	the differentiation of bone marrow stromal cells	cell differentiation	Cell Differentiation process	C0007589
+6985	6989	GO:0005623	cell	cell	Cells	C0007634
+7026	7054	GO:0001503	enhanced osteogenic activity	osteogenesis	Osteogenesis	C0029433
+7059	7099	GO:0045444	decreased adipogenic activity than those	adipogenesis	Adipogenesis	C0596843
+7059	7099	GO:0060612	decreased adipogenic activity than those	adipogenesis	Adipogenesis	C0596843
+7151	7184	GO:0009790	sam68-/- mouse embryo fibroblasts	embryo development	Embryonic Development	C0013936
+7313	7345	GO:0048762	mesenchymal cell differentiation	mesenchymal cell differentiation		C1820192
+7412	7422	GO:0008152	metabolism	metabolism	Metabolism	C0025519
+7424	7436	GO:0031099	regeneration	regeneration	Natural regeneration	C0034963
+7442	7462	GO:0042060	repair during aging.	wound healing	Wound Healing	C0043240
+7482	7536	GO:0009790	expressed in the developing skeleton of embryonic mice	embryo development	Embryonic Development	C0013936
+7714	7734	GO:0009790	e16.5 embryonic mice	embryo development	Embryonic Development	C0013936
+7740	7806	GO:0042571	immunostained with the well-characterized ad1 anti-sam68 antibody,	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+7860	7890	GO:1902698	corresponds to amino acids 330	acidogenesis		C3823112
+7860	7890	GO:1902705	corresponds to amino acids 330	acidogenesis		C3823112
+7860	7890	GO:1902706	corresponds to amino acids 330	acidogenesis		C3823112
+7860	7890	GO:1902699	corresponds to amino acids 330	acidogenesis		C3823112
+8081	8109	GO:0007601	seen in the nucleus of cells	vision	Vision	C0042789
+8202	8221	GO:0030428	in the nasal septum	cell septum	Cell septum	C1327729
+8833	8874	GO:0009790	expressed in the developing mouse embryo,	embryo development	Embryonic Development	C0013936
+8970	8981	GO:0032502	development	development	Biologic Development	C0678723
+9096	9116	GO:0007567	5 of the sam68 gene,	parturition	Birth	C0005615
+9096	9116	GO:0000003	5 of the sam68 gene,	reproduction	Reproduction	C0035150
+9167	9178	GO:0003723	RNA binding	RNA binding	RNA Binding	C1148846
+9528	9545	GO:0042571	sc-333 antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+9643	9671	GO:0042571	a rabbit anti-sam68 antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+9681	9734	GO:1902698	raised against the c-terminal 20 amino acids of sam68	acidogenesis		C3823112
+9681	9734	GO:1902705	raised against the c-terminal 20 amino acids of sam68	acidogenesis		C3823112
+9681	9734	GO:1902706	raised against the c-terminal 20 amino acids of sam68	acidogenesis		C3823112
+9681	9734	GO:1902699	raised against the c-terminal 20 amino acids of sam68	acidogenesis		C3823112
+9985	10017	GO:0007567	died at birth of unknown causes.	parturition	Birth	C0005615
+10216	10223	GO:0000278	mitosis	mitosis	Mitosis	C0026255
+10565	10575	GO:0008152	metabolism	metabolism	Metabolism	C0025519
+11768	11806	GO:0031214	total body bone mineral content (bmc),	mineralization	Physiologic calcification	C0006660
+12062	12087	GO:0031214	a greater increase in bmc	mineralization	Physiologic calcification	C0006660
+12092	12109	GO:0007601	seen in the femur	vision	Vision	C0042789
+12145	12165	GO:0031214	bone mineral density	mineralization	Physiologic calcification	C0006660
+13115	13128	GO:0035188	(hatched bars	hatching		C0598016
+13654	13670	GO:0035188	red hatched line	hatching		C0598016
+13956	13971	GO:0046849	bone remodeling	bone remodeling	Bone remodeling	C0085268
+14225	14287	GO:0016791	in situ enzyme histochemical staining for alkaline phosphatase	phosphoric monoester hydrolase activity		C1149880
+14383	14419	GO:1902698	(tartrate-resistant acid phosphatase	acidogenesis		C3823112
+14383	14419	GO:1902705	(tartrate-resistant acid phosphatase	acidogenesis		C3823112
+14383	14419	GO:1902706	(tartrate-resistant acid phosphatase	acidogenesis		C3823112
+14383	14419	GO:1902699	(tartrate-resistant acid phosphatase	acidogenesis		C3823112
+14499	14520	GO:0007601	seen between sam68+/+	vision	Vision	C0042789
+14606	14625	GO:1902698	trap-positive cells	acidogenesis		C3823112
+14606	14625	GO:1902705	trap-positive cells	acidogenesis		C3823112
+14606	14625	GO:1902706	trap-positive cells	acidogenesis		C3823112
+14606	14625	GO:1902699	trap-positive cells	acidogenesis		C3823112
+14967	14996	GO:0007601	seen in high turnover disease	vision	Vision	C0042789
+15148	15168	GO:0009058	newly formed osteoid	anabolism	Anabolism	C0220781
+15182	15205	GO:0031214	mineral apposition rate	mineralization	Physiologic calcification	C0006660
+15701	15705	GO:0005623	cell	cell	Cells	C0007634
+16118	16132	GO:0060209	serum estrogen	estrus	Estrus	C0014948
+16631	16675	GO:0060209	not due primarily to altered estrogen status	estrus	Estrus	C0014948
+17243	17247	GO:0005623	cell	cell	Cells	C0007634
+17319	17345	GO:0001649	osteoblast differentiation	osteoblast differentiation		C1159974
+17454	17490	GO:0009877	more mineralized nodules at 18 days,	nodulation		C1160630
+17674	17700	GO:0001649	osteoblast differentiation	osteoblast differentiation		C1159974
+17885	17926	GO:0036179	short-term cultures of mature osteoclasts	osteoclast maturation		C3271673
+18088	18105	GO:0097187	in dentin slices,	dentinogenesis	Dentinogenesis	C0011435
+18323	18348	GO:0045444	adipocyte differentiation	fat cell differentiation		C1159884
+18362	18388	GO:0001649	osteoblast differentiation	osteoblast differentiation		C1159974
+18437	18441	GO:0005623	cell	cell	Cells	C0007634
+18549	18594	GO:0045444	in differentiation down the adipocyte lineage	fat cell differentiation		C1159884
+18670	18674	GO:0005623	cell	cell	Cells	C0007634
+18679	18713	GO:0001503	differentiate along the osteogenic	osteogenesis	Osteogenesis	C0029433
+18721	18744	GO:0045444	the adipogenic pathway.	adipogenesis	Adipogenesis	C0596843
+18721	18744	GO:0060612	the adipogenic pathway.	adipogenesis	Adipogenesis	C0596843
+19007	19054	GO:0045598	in the regulation of adipocyte differentiation,	regulation of fat cell differentiation		C1159885
+19111	19128	GO:0009790	sam68-/- embryos.	embryo development	Embryonic Development	C0013936
+19160	19190	GO:0030154	differentiated into adipocytes	cell differentiation	Cell Differentiation process	C0007589
+19258	19270	GO:0045444	adipogenesis	adipogenesis	Adipogenesis	C0596843
+19258	19270	GO:0060612	adipogenesis	adipogenesis	Adipogenesis	C0596843
+19272	19276	GO:0005623	cell	cell	Cells	C0007634
+19341	19353	GO:0045444	adipogenesis	adipogenesis	Adipogenesis	C0596843
+19341	19353	GO:0060612	adipogenesis	adipogenesis	Adipogenesis	C0596843
+19355	19367	GO:0045444	adipogenesis	adipogenesis	Adipogenesis	C0596843
+19355	19367	GO:0060612	adipogenesis	adipogenesis	Adipogenesis	C0596843
+19500	19528	GO:0045444	in adipocyte differentiation	fat cell differentiation		C1159884
+19541	19584	GO:0000988	the expression of key transcription factors	transcription factor activity		C1148759
+19541	19584	GO:0001070	the expression of key transcription factors	transcription factor activity		C1148759
+19541	19584	GO:0001071	the expression of key transcription factors	transcription factor activity		C1148759
+19541	19584	GO:0003700	the expression of key transcription factors	transcription factor activity		C1148759
+19622	19662	GO:0030154	impaired in sam68-/- differentiated mefs	cell differentiation	Cell Differentiation process	C0007589
+19717	19729	GO:0045444	adipogenesis	adipogenesis	Adipogenesis	C0596843
+19717	19729	GO:0060612	adipogenesis	adipogenesis	Adipogenesis	C0596843
+19932	19973	GO:0048762	the differentiation of mesenchymal cells.	mesenchymal cell differentiation		C1820192
+20014	20018	GO:0005623	cell	cell	Cells	C0007634
+20047	20115	GO:0009790	the embryonic mesenchymal multipotential progenitor cells c3h10t1/2.	embryo development	Embryonic Development	C0013936
+20146	20172	GO:0001649	osteoblast differentiation	osteoblast differentiation		C1159974
+20225	20268	GO:0010467	in expression of the osteocalcin (ocn) gene	gene expression	Gene Expression	C0017262
+20300	20304	GO:0005623	cell	cell	Cells	C0007634
+20601	20627	GO:0001649	osteoblast differentiation	osteoblast differentiation		C1159974
+20856	20860	GO:0005623	cell	cell	Cells	C0007634
+20933	20937	GO:0005623	cell	cell	Cells	C0007634
+20997	21053	GO:0009877	the apparent enhancement of mineralized nodule formation	nodulation		C1160630
+21086	21090	GO:0005623	cell	cell	Cells	C0007634
+21563	21577	GO:0031214	mineralization	mineralization	Physiologic calcification	C0006660
+22018	22070	GO:0048762	the differentiation of bone marrow mesenchymal cells	mesenchymal cell differentiation		C1820192
+22082	22107	GO:0045444	adipocyte differentiation	fat cell differentiation		C1159884
+22120	22146	GO:0001649	osteoblast differentiation	osteoblast differentiation		C1159974
+22288	22292	GO:0005623	cell	cell	Cells	C0007634
+22657	22662	GO:0007568	aging	aging	Aging	C0001811
+22664	22709	GO:0048863	the differentiation of bone marrow stem cells	stem cell differentiation	Stem Cell Differentiation	C1514964
+22742	22805	GO:0009790	embryonic mesenchymal multipotential progenitor cells c3h10t1/2	embryo development	Embryonic Development	C0013936
+22861	22887	GO:0001649	osteoblast differentiation	osteoblast differentiation		C1159974
+22948	22974	GO:0001649	osteoblast differentiation	osteoblast differentiation		C1159974
+23085	23110	GO:0045444	adipocyte differentiation	fat cell differentiation		C1159884
+23212	23242	GO:0045444	the balance between adipogenic	adipogenesis	Adipogenesis	C0596843
+23212	23242	GO:0060612	the balance between adipogenic	adipogenesis	Adipogenesis	C0596843
+23247	23292	GO:0001503	osteogenic differentiation of the bone marrow	osteogenesis	Osteogenesis	C0029433
+23336	23384	GO:0009790	observed throughout the developing mouse embryo,	embryo development	Embryonic Development	C0013936
+23540	23543	GO:0007601	see	vision	Vision	C0042789
+23608	23630	GO:0009790	of late-stage embryos.	embryo development	Embryonic Development	C0013936
+23827	23869	GO:0090398	altered in aging bone marrow stromal cells	cellular senescence	Cellular Senescence	C0007581
+23895	23899	GO:0005623	cell	cell	Cells	C0007634
+24065	24085	GO:0001501	skeletal development	skeletal development		C1160401
+24417	24428	GO:0032502	development	development	Biologic Development	C0678723
+24487	24525	GO:0009790	required during embryonic development.	embryo development	Embryonic Development	C0013936
+24983	25007	GO:0060209	serum levels of estrogen	estrus	Estrus	C0014948
+25021	25026	GO:0007568	aging	aging	Aging	C0001811
+25217	25220	GO:0007601	see	vision	Vision	C0042789
+25277	25282	GO:0007568	aging	aging	Aging	C0001811
+25940	25955	GO:0046849	bone remodeling	bone remodeling	Bone remodeling	C0085268
+26128	26146	GO:0032502	mature osteoclasts	development	Biologic Development	C0678723
+26189	26206	GO:0097187	ex vivo on dentin	dentinogenesis	Dentinogenesis	C0011435
+26427	26437	GO:0008152	metabolism	metabolism	Metabolism	C0025519
+26572	26587	GO:0045453	bone resorption	bone resorption	Bone Resorption	C0005974
+26660	26675	GO:0045453	bone resorption	bone resorption	Bone Resorption	C0005974
+27052	27113	GO:0030154	ex vivo differentiation of primary bone marrow stromal cells,	cell differentiation	Cell Differentiation process	C0007589
+27194	27242	GO:0001503	an osteogenic advantage in the cultures of cells	osteogenesis	Osteogenesis	C0029433
+27379	27383	GO:0005623	cell	cell	Cells	C0007634
+27446	27509	GO:0009790	embryonic mesenchymal multipotential progenitor cells c3h10t1/2	embryo development	Embryonic Development	C0013936
+27541	27572	GO:0030154	differentiated into osteoblasts	cell differentiation	Cell Differentiation process	C0007589
+27701	27736	GO:0045444	impaired adipocyte differentiation,	fat cell differentiation		C1159884
+27786	27812	GO:0001649	osteoblast differentiation	osteoblast differentiation		C1159974
+27857	27868	GO:0003723	RNA binding	RNA binding	RNA Binding	C1148846
+27857	27895	GO:0005515	sam68 as the first rna binding protein	protein binding	Protein Binding	C0033618
+27889	27921	GO:0048762	mesenchymal cell differentiation	mesenchymal cell differentiation		C1820192
+28249	28264	GO:0045453	bone resorption	bone resorption	Bone Resorption	C0005974
+28408	28414	GO:0040007	growth	growth	Growth	C0018270
+28879	28889	GO:0008152	metabolism	metabolism	Metabolism	C0025519
+28987	29002	GO:0045453	bone resorption	bone resorption	Bone Resorption	C0005974
+29109	29125	GO:0030154	differentiation.	cell differentiation	Cell Differentiation process	C0007589
+29195	29205	GO:0008152	metabolism	metabolism	Metabolism	C0025519
+29222	29259	GO:0072497	mesenchymal stem cell differentiation	mesenchymal stem cell differentiation		C3156550
+29615	29620	GO:0007568	aging	aging	Aging	C0001811
+29804	29818	GO:0009790	embryonic mice	embryo development	Embryonic Development	C0013936
+30137	30180	GO:0042571	600 dilution of the ad1 anti-sam68 antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+31253	31269	GO:0031214	mineral research	mineralization	Physiologic calcification	C0006660
+31296	31339	GO:0007567	with targeted disruption of the sam68 gene.	parturition	Birth	C0005615
+31296	31339	GO:0000003	with targeted disruption of the sam68 gene.	reproduction	Reproduction	C0035150
+32276	32316	GO:0007567	with a neomycin-resistant gene cassette.	parturition	Birth	C0005615
+32276	32316	GO:0000003	with a neomycin-resistant gene cassette.	reproduction	Reproduction	C0035150
+32442	32473	GO:0009790	into embryonic stem (es) cells.	embryo development	Embryonic Development	C0013936
+32474	32505	GO:0009790	approximately 1,000 es colonies	embryo development	Embryonic Development	C0013936
+32627	32644	GO:0009790	targeted es cells	embryo development	Embryonic Development	C0013936
+32777	32790	GO:0000785	by coat color	chromatin	chromatin location	C1325550
+32796	32819	GO:0007618	mated with balb/c mice.	mating		C1260875
+33660	33727	GO:0005579	the following oligonucleotides 5'-aaa tcc taa ccc tcc tca gtc ag-3'	membrane attack complex location		C1167383
+35670	35674	GO:0005623	cell	cell	Cells	C0007634
+35686	35722	GO:0030154	maintained in differentiation medium	cell differentiation	Cell Differentiation process	C0007589
+35841	35861	GO:0009877	mineralized nodules.	nodulation		C1160630
+35951	35966	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+36163	36167	GO:0005623	cell	cell	Cells	C0007634
+36201	36213	GO:0097187	or on dentin	dentinogenesis	Dentinogenesis	C0011435
+36240	36276	GO:0009504	plates for assessment of cell number	cell plate		C1166718
+36397	36410	GO:0097187	dentin slices	dentinogenesis	Dentinogenesis	C0011435
+36450	36454	GO:0005623	cell	cell	Cells	C0007634
+36928	36969	GO:0009790	preparation of mouse embryonic fibroblast	embryo development	Embryonic Development	C0013936
+36974	37013	GO:0045597	induction of adipocyte differentiation.	positive regulation of cell differentiation	Positive Regulation of Cell Differentiation	C1516343
+37025	37060	GO:0009790	prepared from 14.5-day-old embryos.	embryo development	Embryonic Development	C0013936
+37129	37167	GO:0045597	induction of adipocyte differentiation	positive regulation of cell differentiation	Positive Regulation of Cell Differentiation	C1516343
+37245	37249	GO:0005623	cell	cell	Cells	C0007634
+37336	37348	GO:0045444	adipogenesis	adipogenesis	Adipogenesis	C0596843
+37336	37348	GO:0060612	adipogenesis	adipogenesis	Adipogenesis	C0596843
+37374	37378	GO:0005623	cell	cell	Cells	C0007634
+37523	37526	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+37622	37635	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+37708	37734	GO:0045444	adipogenic differentiation	adipogenesis	Adipogenesis	C0596843
+37708	37734	GO:0060612	adipogenic differentiation	adipogenesis	Adipogenesis	C0596843
+38063	38084	GO:0050789	sam68 down-regulation	regulation of biological process	Regulation of biological process	C1327622
+38587	38590	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+38671	38680	GO:0042571	antibody.	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+38682	38737	GO:0001503	osteogenic differentiation analysis of c3ht101/2 cells.	osteogenesis	Osteogenesis	C0029433
+38739	38770	GO:0001503	for osteogenic differentiation,	osteogenesis	Osteogenesis	C0029433
+38788	38792	GO:0005623	cell	cell	Cells	C0007634
+38856	38860	GO:0005623	cell	cell	Cells	C0007634
+39015	39019	GO:0005623	cell	cell	Cells	C0007634
+39100	39115	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+39220	39241	GO:0051179	localization of sam68	establishment and maintenance of localization		C1744691
+39352	39367	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+40184	40210	GO:0016791	alp - alkaline phosphatase	phosphoric monoester hydrolase activity		C1149880
+40212	40238	GO:0031214	bmc - bone mineral content	mineralization	Physiologic calcification	C0006660
+40240	40266	GO:0031214	bmd - bone mineral density	mineralization	Physiologic calcification	C0006660
+40268	40304	GO:0060349	bmp-2 - bone morphogenetic protein-2	bone morphogenesis		C2610491
+40353	40382	GO:0009790	mef - mouse embryo fibroblast	embryo development	Embryonic Development	C0013936
+40396	40406	GO:0005777	peroxisome	peroxisome		C0752063
+40473	40515	GO:1902698	trap - tartrate-resistant acid phosphatase	acidogenesis		C3823112
+40473	40515	GO:1902705	trap - tartrate-resistant acid phosphatase	acidogenesis		C3823112
+40473	40515	GO:1902706	trap - tartrate-resistant acid phosphatase	acidogenesis		C3823112
+40473	40515	GO:1902699	trap - tartrate-resistant acid phosphatase	acidogenesis		C3823112
+40547	40588	GO:0051179	immunohistochemical localization of sam68	establishment and maintenance of localization		C1744691
+40589	40606	GO:0009790	in embryonic mice	embryo development	Embryonic Development	C0013936
+40592	40606	GO:0009790	embryonic mice	embryo development	Embryonic Development	C0013936
+40735	40752	GO:0009790	the entire embryo	embryo development	Embryonic Development	C0013936
+40757	40803	GO:0042571	immunostained with the ad1 anti-sam68 antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+40893	40935	GO:0009790	(b) embryonic soft tissues from the brain,	embryo development	Embryonic Development	C0013936
+40991	41029	GO:0042571	immunostained with anti-sam68 antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+41131	41151	GO:0007601	seen in chondrocytes	vision	Vision	C0042789
+41152	41171	GO:0030428	in the nasal septum	cell septum	Cell septum	C1327729
+41393	41409	GO:0042571	or with antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+41492	41525	GO:0005634	primarily in the nucleus of cells	cell nucleus	Cell Nucleus	C0007610
+41589	41598	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+41698	41738	GO:0009790	representative of three to five embryos.	embryo development	Embryonic Development	C0013936
+41837	41890	GO:0006310	targeted sam68 alleles after homologous recombination	DNA recombination	Recombination, Genetic	C0034865
+41905	41937	GO:0005574	the location of the dna fragment	DNA location		C1325786
+42158	42187	GO:0004618	with a pgk-neomycin cassette.	phosphoglycerate kinase activity		C1150521
+42511	42515	GO:0005623	cell	cell	Cells	C0007634
+42577	42601	GO:0042571	anti-sam68 ad1 antibody,	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+42602	42626	GO:0042571	the peptide antibody ad1	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+42668	42720	GO:1902698	corresponding to amino acids 330-348 of mouse sam68,	acidogenesis		C3823112
+42668	42720	GO:1902705	corresponding to amino acids 330-348 of mouse sam68,	acidogenesis		C3823112
+42668	42720	GO:1902706	corresponding to amino acids 330-348 of mouse sam68,	acidogenesis		C3823112
+42668	42720	GO:1902699	corresponding to amino acids 330-348 of mouse sam68,	acidogenesis		C3823112
+42721	42746	GO:0042571	anti-sam68 sc333 antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+42763	42802	GO:1902698	the c-terminal 20 amino acids of sam68,	acidogenesis		C3823112
+42763	42802	GO:1902705	the c-terminal 20 amino acids of sam68,	acidogenesis		C3823112
+42763	42802	GO:1902706	the c-terminal 20 amino acids of sam68,	acidogenesis		C3823112
+42763	42802	GO:1902699	the c-terminal 20 amino acids of sam68,	acidogenesis		C3823112
+42807	42848	GO:0042571	anti-actin antibodies as loading control.	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+44595	44609	GO:0035188	(hatched black	hatching		C0598016
+44879	44894	GO:0035188	; hatched black	hatching		C0598016
+45753	45757	GO:0005623	cell	cell	Cells	C0007634
+45855	45881	GO:0001649	osteoblast differentiation	osteoblast differentiation		C1159974
+46033	46053	GO:0009877	mineralized nodules.	nodulation		C1160630
+46146	46199	GO:0009877	significantly more mineralized nodules after 18 days.	nodulation		C1160630
+46345	46357	GO:0097187	or on dentin	dentinogenesis	Dentinogenesis	C0011435
+46444	46448	GO:0005623	cell	cell	Cells	C0007634
+46464	46475	GO:0005634	more nuclei	cell nucleus	Cell Nucleus	C0007610
+46528	46560	GO:0097187	excavated pits in dentin slices,	dentinogenesis	Dentinogenesis	C0011435
+46686	46690	GO:0005623	cell	cell	Cells	C0007634
+46744	46756	GO:0045444	adipogenesis	adipogenesis	Adipogenesis	C0596843
+46744	46756	GO:0060612	adipogenesis	adipogenesis	Adipogenesis	C0596843
+46817	46844	GO:0009790	isolated from mouse embryos	embryo development	Embryonic Development	C0013936
+46845	46867	GO:0009790	at embryonic day 14.5.	embryo development	Embryonic Development	C0013936
+46967	46992	GO:0045444	adipocyte differentiation	fat cell differentiation		C1159884
+47176	47192	GO:0005811	the fat droplets	lipid droplet	Lipid droplet	C0230704
+47242	47246	GO:0005623	cell	cell	Cells	C0007634
+47332	47336	GO:0005623	cell	cell	Cells	C0007634
+47345	47387	GO:0030154	isolated after differentiation of the mefs	cell differentiation	Cell Differentiation process	C0007589
+47497	47544	GO:0045444	the expression of adipogenic markers c/ebpbeta,	adipogenesis	Adipogenesis	C0596843
+47497	47544	GO:0060612	the expression of adipogenic markers c/ebpbeta,	adipogenesis	Adipogenesis	C0596843
+47679	47751	GO:0001503	enhanced osteogenic differentiation of the c3ht101/2 embryonic cell line	osteogenesis	Osteogenesis	C0029433
+47796	47800	GO:0005623	cell	cell	Cells	C0007634
+48071	48079	GO:0042571	antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+48084	48131	GO:0042571	anti-beta-actin antibodies as loading controls.	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+48133	48163	GO:0030183	(b) osteogenic differentiation	B cell differentiation	b cell differentiation	C1511002
+48256	48295	GO:0001503	the level of osteogenic differentiation	osteogenesis	Osteogenesis	C0029433
+48305	48309	GO:0005623	cell	cell	Cells	C0007634
+48554	48605	GO:0048539	protected from the development of fatty bone marrow	bone marrow development		C1659119
+48838	48852	GO:0031214	mineralization	mineralization	Physiologic calcification	C0006660
+49269	49295	GO:0031214	bone mineral density in 4-	mineralization	Physiologic calcification	C0006660
+49608	49612	GO:0016656	afr,	monodehydroascorbate reductase	NADH	C1151389
+49608	49612	GO:0033712	afr,	1,5-anhydro-D-fructose reductase	1,5-anhydro-D-mannitol-forming	C2243234
+49841	49873	GO:0006983	10.1371/journal.pgen.0010074.eor	ER-overload response		C1155303
+49976	49987	GO:0003723	RNA binding	RNA binding	RNA Binding	C1148846
+49976	50017	GO:0005515	ablation of the sam68 rna binding protein	protein binding	Protein Binding	C0033618

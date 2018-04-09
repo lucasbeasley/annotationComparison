@@ -1,0 +1,338 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+25	51	GO:0051179	localization of annexin a7	establishment and maintenance of localization		C1744691
+79	83	GO:0005623	cell	cell	Cells	C0007634
+184	212	GO:0005543	phospholipid-binding protein	phospholipid binding	Phospholipid Binding	C1148642
+286	301	GO:0061025	membrane fusion	membrane fusion	Membrane Fusion	C0025246
+405	474	GO:0005798	a key component in the process of the ca2+-dependent vesicle release,	vesicular component		C3893248
+475	511	GO:0042995	a process with which red blood cells	cell process	cell process structure	C0230625
+639	643	GO:0005623	cell	cell	Cells	C0007634
+777	798	GO:0061024	membrane organization	membrane organization		C2753244
+924	928	GO:0005623	cell	cell	Cells	C0007634
+981	985	GO:0005623	cell	cell	Cells	C0007634
+1042	1046	GO:0005623	cell	cell	Cells	C0007634
+1236	1251	GO:0061025	membrane fusion	membrane fusion	Membrane Fusion	C0025246
+1285	1289	GO:0005623	cell	cell	Cells	C0007634
+1321	1379	GO:0061024	involved in the organization of the membrane cytoskeleton.	membrane organization		C2753244
+1390	1394	GO:0005623	cell	cell	Cells	C0007634
+1466	1482	GO:0042995	cellular process	cellular process		C1325880
+1466	1482	GO:0009987	cellular process	cellular process		C1325880
+1574	1578	GO:0005623	cell	cell	Cells	C0007634
+1640	1644	GO:0005623	cell	cell	Cells	C0007634
+1682	1686	GO:0005623	cell	cell	Cells	C0007634
+1788	1803	GO:0061025	membrane fusion	membrane fusion	Membrane Fusion	C0025246
+1823	1827	GO:0005623	cell	cell	Cells	C0007634
+1874	1903	GO:0005543	phospholipid-binding protein,	phospholipid binding	Phospholipid Binding	C1148642
+1965	1983	GO:0042583	chromaffin granule	chromaffin granule	Chromaffin granule	C0008537
+1989	2021	GO:0061025	fusion of phospholipid membranes	membrane fusion	Membrane Fusion	C0025246
+2109	2154	GO:0006887	in the exocytotic secretion of catecholamines	exocytosis	Exocytosis	C0015283
+2371	2392	GO:0005543	phospholipid-binding,	phospholipid binding	Phospholipid Binding	C1148642
+2461	2508	GO:0005543	the binding to negatively charged phospholipids	phospholipid binding	Phospholipid Binding	C1148642
+2655	2676	GO:1902698	than 100 amino acids.	acidogenesis		C3823112
+2655	2676	GO:1902705	than 100 amino acids.	acidogenesis		C3823112
+2655	2676	GO:1902706	than 100 amino acids.	acidogenesis		C3823112
+2655	2676	GO:1902699	than 100 amino acids.	acidogenesis		C3823112
+2677	2697	GO:0008380	alternative splicing	RNA splicing	RNA Splicing	C0035687
+2677	2697	GO:0045292	alternative splicing	nuclear mRNA cis splicing, via spliceosome		C2610186
+2973	3009	GO:0001501	expressed in mature skeletal muscle.	skeletal development		C1160401
+3018	3022	GO:0005623	cell	cell	Cells	C0007634
+3067	3074	GO:0005829	cytosol	cytosol	Cytoplasmic matrix	C1383501
+3083	3098	GO:0005886	plasma membrane	plasma membrane	Plasma membrane	C0007603
+3100	3119	GO:0005634	around the nucleus,	cell nucleus	Cell Nucleus	C0007610
+3120	3143	GO:0031982	at vesicular structures	vesicle		C1622418
+3162	3180	GO:0042583	chromaffin granule	chromaffin granule	Chromaffin granule	C0008537
+3183	3209	GO:0030315	and at the t-tubule system	triad	Transverse tubule of muscle cell	C1179122
+3244	3252	GO:0016020	membrane	membrane	Membrane	C0596901
+3292	3317	GO:0005622	intracellular ca2+ levels	protoplasm	Protoplasm	C0175996
+3369	3389	GO:0005635	the nuclear membrane	nuclear envelope	Nuclear Envelope	C0028584
+3404	3425	GO:0097708	intracellular vesicle	intracellular vesicle		C4236736
+3468	3478	GO:0045121	lipid raft	lipid raft		C1167250
+3485	3495	GO:0045121	lipid raft	lipid raft		C1167250
+3516	3532	GO:0006900	membrane budding	membrane budding		C1749557
+3581	3591	GO:0006887	exocytosis	exocytosis	Exocytosis	C0015283
+3605	3612	GO:0005488	binding	binding	Binding 	C1167622
+3706	3713	GO:0005488	binding	binding	Binding 	C1167622
+3795	3813	GO:0005488	binds to membranes	binding	Binding 	C1167622
+3903	3921	GO:0005219	ryanodine receptor	ryanodine receptor	ryanodine receptor activity	C1753335
+4024	4042	GO:0005219	ryanodine receptor	ryanodine receptor	ryanodine receptor activity	C1753335
+4134	4141	GO:0005488	binding	binding	Binding 	C1167622
+4235	4242	GO:0005488	binding	binding	Binding 	C1167622
+4394	4412	GO:0005488	bind to each other	binding	Binding 	C1167622
+4503	4570	GO:0007048	a multifunctional oncogenic protein with an anti-apoptotic activity	oncogenesis	Neoplastic Cell Transformation	C0007621
+4584	4603	GO:0005615	extracellular space	extracellular space	Extracellular Space	C0015352
+4605	4619	GO:0005634	in the nucleus	cell nucleus	Cell Nucleus	C0007610
+4624	4633	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+4641	4653	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+4655	4664	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+4725	4737	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+4725	4749	GO:0000001	mitochondrial integrity.	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+4750	4779	GO:0050789	down regulation of annexin a7	regulation of biological process	Regulation of biological process	C1327622
+4789	4841	GO:0005640	galectin-3 translocation to the perinuclear membrane	nuclear outer membrane	Outer nuclear membrane	C1167072
+4928	4937	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+4928	4937	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+4954	4966	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+4954	4977	GO:0000001	mitochondrial integrity	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+5002	5006	GO:0005623	cell	cell	Cells	C0007634
+5094	5102	GO:0016020	membrane	membrane	Membrane	C0596901
+5138	5149	GO:0042592	homeostasis	homeostasis	Homeostasis	C0019868
+5154	5188	GO:0007165	ca2+-dependent signaling pathways.	signal transduction	Signal Transduction	C0037083
+5459	5476	GO:0030073	insulin secretion	insulin secretion		C1256369
+5584	5601	GO:0030073	insulin secretion	insulin secretion		C1256369
+5768	5772	GO:0005623	cell	cell	Cells	C0007634
+5833	5837	GO:0005623	cell	cell	Cells	C0007634
+5938	5978	GO:0044464	reported as component of red blood cells	cellular subcomponent	Cardinal cell part	C1178969
+5973	5977	GO:0005623	cell	cell	Cells	C0007634
+6290	6294	GO:0005623	cell	cell	Cells	C0007634
+6361	6365	GO:0005623	cell	cell	Cells	C0007634
+6435	6439	GO:0005623	cell	cell	Cells	C0007634
+6503	6510	GO:0031982	vesicle	vesicle		C1622418
+6524	6558	GO:1990266	nanovesicles with a size of 180 nm	neutrophil migration	Neutrophil migration, function	C0312860
+6563	6569	GO:1990266	60 nm,	neutrophil migration	Neutrophil migration, function	C0312860
+6639	6649	GO:0045121	lipid raft	lipid raft		C1167250
+6719	6731	GO:0009986	cell surface	cell surface	Cell surface	C0699040
+6782	6792	GO:0045121	lipid raft	lipid raft		C1167250
+6840	6864	GO:0005856	any cytoskeletal protein	cytoskeleton	Cytoskeleton	C0010853
+6934	6944	GO:0045121	lipid raft	lipid raft		C1167250
+6996	7041	GO:0006900	the vesicle formation goes along with several	membrane budding		C1749557
+7073	7077	GO:0005623	cell	cell	Cells	C0007634
+7078	7110	GO:0005856	like cytoskeletal rearrangements	cytoskeleton	Cytoskeleton	C0010853
+7155	7180	GO:0005886	in the cellular membrane.	plasma membrane	Plasma membrane	C0007603
+7226	7230	GO:0005623	cell	cell	Cells	C0007634
+7243	7247	GO:0005623	cell	cell	Cells	C0007634
+7440	7444	GO:0005623	cell	cell	Cells	C0007634
+7495	7521	GO:0045121	enriched in membrane rafts	lipid raft		C1167250
+7657	7661	GO:0005623	cell	cell	Cells	C0007634
+7989	7993	GO:0005623	cell	cell	Cells	C0007634
+8198	8206	GO:0042571	antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+8264	8268	GO:0005623	cell	cell	Cells	C0007634
+8336	8343	GO:0031982	vesicle	vesicle		C1622418
+8426	8447	GO:0061024	membrane organization	membrane organization		C2753244
+8532	8536	GO:0005623	cell	cell	Cells	C0007634
+8848	8887	GO:0022886	released after ca2+/ionophore treatment	ionophore activity	Ionophore activity	C1517596
+8891	8936	GO:0003990	determined by acetylcholine esterase activity	acetylcholinesterase activity		C1149827
+8996	9003	GO:0031982	vesicle	vesicle		C1622418
+9138	9145	GO:0031982	vesicle	vesicle		C1622418
+9214	9221	GO:0031982	vesicle	vesicle		C1622418
+9288	9300	GO:1990742	microvesicle	microvesicle	Cell-Derived Microparticles	C2350307
+9398	9406	GO:0016020	membrane	membrane	Membrane	C0596901
+9416	9494	GO:0009058	a key component in the process of the formation of red blood cell exovesicles.	anabolism	Anabolism	C0220781
+9561	9568	GO:0031982	vesicle	vesicle		C1622418
+9737	9741	GO:0005623	cell	cell	Cells	C0007634
+9744	9751	GO:0031982	vesicle	vesicle		C1622418
+9803	9843	GO:0022886	generated with ca2+/ionophore treatment,	ionophore activity	Ionophore activity	C1517596
+9936	9965	GO:0042571	a sorcin polyclonal antibody.	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+10127	10134	GO:0031982	vesicle	vesicle		C1622418
+10147	10209	GO:0003990	normalized according to their acetylcholine esterase activity.	acetylcholinesterase activity		C1149827
+10226	10230	GO:0005623	cell	cell	Cells	C0007634
+10343	10347	GO:0005623	cell	cell	Cells	C0007634
+10433	10440	GO:0005625	soluble	soluble		C1749467
+10532	10540	GO:0016020	membrane	membrane	Membrane	C0596901
+10549	10557	GO:0016020	membrane	membrane	Membrane	C0596901
+10575	10590	GO:0005886	plasma membrane	plasma membrane	Plasma membrane	C0007603
+10627	10636	GO:0043226	organelle	organelle	Organelles	C0029219
+10732	10739	GO:0005488	binding	binding	Binding 	C1167622
+10757	10765	GO:0016020	membrane	membrane	Membrane	C0596901
+10974	10981	GO:0031982	vesicle	vesicle		C1622418
+11168	11230	GO:0000267	sorcin with distinct red blood cell plasma membrane fractions.	cell fraction	Cell Fraction	C0805525
+11253	11257	GO:0005623	cell	cell	Cells	C0007634
+11462	11493	GO:0042571	the sorcin polyclonal antibody.	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+11536	11540	GO:0005623	cell	cell	Cells	C0007634
+11593	11631	GO:0044464	a component of red blood cell vesicles	cellular subcomponent	Cardinal cell part	C1178969
+11722	11726	GO:0005623	cell	cell	Cells	C0007634
+11827	11831	GO:0005623	cell	cell	Cells	C0007634
+11928	11932	GO:0005623	cell	cell	Cells	C0007634
+11979	11983	GO:0005623	cell	cell	Cells	C0007634
+12232	12236	GO:0005623	cell	cell	Cells	C0007634
+12292	12296	GO:0005623	cell	cell	Cells	C0007634
+12356	12360	GO:0005623	cell	cell	Cells	C0007634
+12528	12532	GO:0005623	cell	cell	Cells	C0007634
+12662	12670	GO:0016020	membrane	membrane	Membrane	C0596901
+12711	12723	GO:0005856	cytoskeleton	cytoskeleton	Cytoskeleton	C0010853
+12836	12849	GO:0005576	extracellular	extracellular	Extracellular	C0521119
+12918	12922	GO:0005623	cell	cell	Cells	C0007634
+12995	12999	GO:0005623	cell	cell	Cells	C0007634
+13038	13060	GO:0019835	up to a complete lysis	cytolysis	pathologic cytolysis	C1536403
+13089	13093	GO:0005623	cell	cell	Cells	C0007634
+13171	13209	GO:0044237	a higher degree of cellular metabolism	cellular metabolic process	Metabolic Process, Cellular	C1524026
+13222	13251	GO:0005622	the intracellular ion levels.	protoplasm	Protoplasm	C0175996
+13267	13271	GO:0005623	cell	cell	Cells	C0007634
+13375	13379	GO:0005623	cell	cell	Cells	C0007634
+13394	13402	GO:0016020	membrane	membrane	Membrane	C0596901
+13474	13478	GO:0005623	cell	cell	Cells	C0007634
+13529	13533	GO:0005623	cell	cell	Cells	C0007634
+13578	13582	GO:0005623	cell	cell	Cells	C0007634
+13650	13654	GO:0005623	cell	cell	Cells	C0007634
+13758	13762	GO:0005623	cell	cell	Cells	C0007634
+13845	13849	GO:0005623	cell	cell	Cells	C0007634
+13929	13994	GO:0005886	direct measurements of the red blood cell membrane deformability,	plasma membrane	Plasma membrane	C0007603
+14056	14064	GO:0016020	membrane	membrane	Membrane	C0596901
+14172	14176	GO:0005623	cell	cell	Cells	C0007634
+14284	14292	GO:0016020	membrane	membrane	Membrane	C0596901
+14306	14338	GO:0019835	lysis force in these experiments	cytolysis	pathologic cytolysis	C1536403
+14561	14565	GO:0005623	cell	cell	Cells	C0007634
+14618	14622	GO:0005623	cell	cell	Cells	C0007634
+14711	14724	GO:0005576	extracellular	extracellular	Extracellular	C0521119
+14792	14796	GO:0005623	cell	cell	Cells	C0007634
+14867	14871	GO:0005623	cell	cell	Cells	C0007634
+14910	14932	GO:0019835	up to a complete lysis	cytolysis	pathologic cytolysis	C1536403
+14969	14973	GO:0005623	cell	cell	Cells	C0007634
+15032	15036	GO:0005623	cell	cell	Cells	C0007634
+15194	15198	GO:0005623	cell	cell	Cells	C0007634
+15254	15261	GO:0005488	binding	binding	Binding 	C1167622
+15279	15286	GO:0031941	F-actin	F-actin	filamentous actin location	C1622186
+15347	15355	GO:0016020	membrane	membrane	Membrane	C0596901
+15389	15404	GO:0050801	ion homeostasis	ion homeostasis		C1326962
+15438	15457	GO:0007599	primary haemostasis	hemostasis	Hemostatic function	C0019116
+15501	15505	GO:0005623	cell	cell	Cells	C0007634
+15665	15669	GO:0005623	cell	cell	Cells	C0007634
+15711	15715	GO:0005623	cell	cell	Cells	C0007634
+15733	15737	GO:0005623	cell	cell	Cells	C0007634
+15760	15764	GO:0005623	cell	cell	Cells	C0007634
+16570	16591	GO:0070527	the platelet function	platelet aggregation	Platelet aggregation	C0032176
+16659	16678	GO:0030168	platelet activation	platelet activation	Platelet Activation	C0032173
+16717	16776	GO:0043336	from the resting discoid state to activated spherical cells	site-specific telomere resolvase activity		C1622890
+16777	16793	GO:0031143	with pseudopods.	pseudopodium	Pseudopodia	C0033827
+16820	16859	GO:0005856	are due to cytoskeletal rearrangements.	cytoskeleton	Cytoskeleton	C0010853
+16883	16887	GO:0005623	cell	cell	Cells	C0007634
+16927	16931	GO:0005623	cell	cell	Cells	C0007634
+17046	17065	GO:0030168	platelet activation	platelet activation	Platelet Activation	C0032173
+17821	17841	GO:0070527	platelet aggregation	platelet aggregation	Platelet aggregation	C0032176
+18946	18960	GO:0005481	vesicle fusion	vesicle fusion		C1326474
+18946	18960	GO:0006906	vesicle fusion	vesicle fusion		C1326474
+18995	19003	GO:0016020	membrane	membrane	Membrane	C0596901
+19055	19070	GO:0005886	plasma membrane	plasma membrane	Plasma membrane	C0007603
+19131	19138	GO:0005829	cytosol	cytosol	Cytoplasmic matrix	C1383501
+19172	19179	GO:0031982	vesicle	vesicle		C1622418
+19258	19262	GO:0005623	cell	cell	Cells	C0007634
+19296	19328	GO:0030154	terminally differentiated cells,	cell differentiation	Cell Differentiation process	C0007589
+19443	19447	GO:0005623	cell	cell	Cells	C0007634
+19564	19571	GO:0005488	binding	binding	Binding 	C1167622
+19663	19667	GO:0005623	cell	cell	Cells	C0007634
+19796	19800	GO:0005623	cell	cell	Cells	C0007634
+19852	19901	GO:0045121	enriched in membrane raft domains of nanovesicles	lipid raft		C1167250
+19924	19928	GO:0005623	cell	cell	Cells	C0007634
+19994	20015	GO:0061024	membrane organization	membrane organization		C2753244
+20112	20160	GO:0019867	cholesterol in the outer leaflet of the membrane	outer membrane		C1167331
+20112	20160	GO:0097478	cholesterol in the outer leaflet of the membrane	leaflet of membrane bilayer		C3821065
+20298	20306	GO:0016020	membrane	membrane	Membrane	C0596901
+20500	20508	GO:0016020	membrane	membrane	Membrane	C0596901
+20944	20959	GO:0061025	membrane fusion	membrane fusion	Membrane Fusion	C0025246
+21095	21133	GO:0007114	in budding of red blood cell vesicles.	cell budding	Cell budding	C1155616
+21185	21206	GO:0009058	nanovesicle formation	anabolism	Anabolism	C0220781
+21272	21276	GO:0005623	cell	cell	Cells	C0007634
+21314	21318	GO:0005623	cell	cell	Cells	C0007634
+21330	21353	GO:0007567	the single annexin gene	parturition	Birth	C0005615
+21330	21353	GO:0000003	the single annexin gene	reproduction	Reproduction	C0035150
+21412	21427	GO:0061025	membrane fusion	membrane fusion	Membrane Fusion	C0025246
+21700	21770	GO:0005886	fortuitous as a significant percentage of the red blood cell membrane,	plasma membrane	Plasma membrane	C0007603
+21845	21886	GO:0009058	involved in the formation of exovesicles.	anabolism	Anabolism	C0220781
+21971	21975	GO:0005623	cell	cell	Cells	C0007634
+22040	22048	GO:0016020	membrane	membrane	Membrane	C0596901
+22053	22061	GO:0016020	membrane	membrane	Membrane	C0596901
+22118	22126	GO:0005768	endosome	endosome	Endosomes	C0034850
+22154	22169	GO:0061025	membrane fusion	membrane fusion	Membrane Fusion	C0025246
+22174	22196	GO:0005768	the endosomal pathway,	endosome	Endosomes	C0034850
+22225	22245	GO:0044853	plasma membrane raft	plasma membrane raft		C3893364
+22306	22313	GO:0031982	vesicle	vesicle		C1622418
+22402	22418	GO:0051179	its localisation	establishment and maintenance of localization		C1744691
+22460	22508	GO:0048821	its expression during red blood cell development	erythrocyte development		C1820246
+22539	22573	GO:0006900	a direct role in vesicle formation	membrane budding		C1749557
+22578	22593	GO:0061025	membrane fusion	membrane fusion	Membrane Fusion	C0025246
+22640	22647	GO:0005488	binding	binding	Binding 	C1167622
+22727	22735	GO:0016020	membrane	membrane	Membrane	C0596901
+22848	22859	GO:0042592	homeostasis	homeostasis	Homeostasis	C0019868
+22877	22898	GO:0061024	membrane organization	membrane organization		C2753244
+23164	23168	GO:0005623	cell	cell	Cells	C0007634
+23223	23227	GO:0005623	cell	cell	Cells	C0007634
+23229	23243	GO:0008015	in circulation	blood circulation	Blood Circulation	C0005775
+23248	23301	GO:0003674	long range molecular functions of the plasma membrane	molecular_function		C1148560
+23306	23354	GO:0044425	the membrane associated part of the cytoskeleton	membrane part	Membrane Part	C1513111
+23390	23398	GO:0016020	membrane	membrane	Membrane	C0596901
+23412	23420	GO:0008091	spectrin	spectrin	spectrin location	C1166668
+23438	23471	GO:0005884	together by short actin filaments	microfilament	Microfilaments	C0025979
+23508	23569	GO:0005886	the entire cytoplasmic surface of the red blood cell membrane	plasma membrane	Plasma membrane	C0007603
+23576	23584	GO:0016020	membrane	membrane	Membrane	C0596901
+23618	23622	GO:0005623	cell	cell	Cells	C0007634
+23778	23810	GO:0043336	in the rest of the cell membrane	site-specific telomere resolvase activity		C1622890
+23876	23880	GO:0005623	cell	cell	Cells	C0007634
+23984	23992	GO:0016020	membrane	membrane	Membrane	C0596901
+24047	24055	GO:0016020	membrane	membrane	Membrane	C0596901
+24162	24177	GO:0005886	plasma membrane	plasma membrane	Plasma membrane	C0007603
+24260	24268	GO:0016020	membrane	membrane	Membrane	C0596901
+24305	24351	GO:0005886	key roles on the red blood cell membrane shape	plasma membrane	Plasma membrane	C0007603
+24403	24407	GO:0005488	bind	binding	Binding 	C1167622
+24420	24427	GO:0031941	F-actin	F-actin	filamentous actin location	C1622186
+24574	24582	GO:0016020	membrane	membrane	Membrane	C0596901
+24682	24686	GO:0005623	cell	cell	Cells	C0007634
+24705	24747	GO:0007165	interfering with other signaling pathways.	signal transduction	Signal Transduction	C0037083
+24804	24813	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+24859	24922	GO:0005622	that micromolar changes of the intracellular ca2+ concentration	protoplasm	Protoplasm	C0175996
+24954	24962	GO:0016020	membrane	membrane	Membrane	C0596901
+24998	25002	GO:0005623	cell	cell	Cells	C0007634
+25039	25061	GO:0005622	the intracellular ca2+	protoplasm	Protoplasm	C0175996
+25088	25096	GO:0016020	membrane	membrane	Membrane	C0596901
+25267	25271	GO:0005623	cell	cell	Cells	C0007634
+25331	25339	GO:0016020	membrane	membrane	Membrane	C0596901
+25370	25382	GO:0005856	cytoskeleton	cytoskeleton	Cytoskeleton	C0010853
+25412	25441	GO:0070527	a defect in platelet function	platelet aggregation	Platelet aggregation	C0032176
+25475	25495	GO:0070527	platelet aggregation	platelet aggregation	Platelet aggregation	C0032176
+26061	26088	GO:0007599	other haemostatic diseases,	hemostasis	Hemostatic function	C0019116
+26486	26490	GO:0005623	cell	cell	Cells	C0007634
+26644	26704	GO:0044091	not essential for the formation of specific membrane domains	membrane biogenesis		C0596898
+26713	26723	GO:0045121	lipid raft	lipid raft		C1167250
+26838	26846	GO:0016020	membrane	membrane	Membrane	C0596901
+26871	26875	GO:0005623	cell	cell	Cells	C0007634
+26907	26911	GO:0005623	cell	cell	Cells	C0007634
+27007	27019	GO:0005856	cytoskeleton	cytoskeleton	Cytoskeleton	C0010853
+27050	27057	GO:0031941	F-actin	F-actin	filamentous actin location	C1622186
+27121	27128	GO:0005488	binding	binding	Binding 	C1167622
+27264	27299	GO:0009405	kept under pathogen-free conditions	pathogenesis	Pathogenesis	C0699748
+27484	27495	GO:0007596	coagulation	blood coagulation	Blood coagulation	C0005778
+27484	27495	GO:0050817	coagulation	clotting	Coagulation process	C1328723
+28300	28304	GO:0005623	cell	cell	Cells	C0007634
+28389	28432	GO:0007567	the genetic background in common laboratory	parturition	Birth	C0005615
+28389	28432	GO:0000003	the genetic background in common laboratory	reproduction	Reproduction	C0035150
+28567	28582	GO:0007567	genetic defect.	parturition	Birth	C0005615
+28567	28582	GO:0000003	genetic defect.	reproduction	Reproduction	C0035150
+28651	28671	GO:0070527	platelet aggregation	platelet aggregation	Platelet aggregation	C0032176
+28804	28808	GO:0005623	cell	cell	Cells	C0007634
+28897	28901	GO:0005623	cell	cell	Cells	C0007634
+28967	29001	GO:0019835	collected in ice cold lysis buffer	cytolysis	pathologic cytolysis	C1536403
+29059	29079	GO:0004866	proteinase inhibitor	proteinase inhibitor	proteinase inhibitor activity	C2673177
+29403	29460	GO:0044464	mixed with thirteen parts of the red blood cell solution,	cellular subcomponent	Cardinal cell part	C1178969
+30007	30011	GO:0005623	cell	cell	Cells	C0007634
+30024	30028	GO:0005623	cell	cell	Cells	C0007634
+30093	30116	GO:0006900	these vesicle formation	membrane budding		C1749557
+30393	30397	GO:0005623	cell	cell	Cells	C0007634
+30492	30531	GO:0022886	adjusted to 5 mum ca2+ ionophore a23187	ionophore activity	Ionophore activity	C1517596
+30947	30951	GO:0005623	cell	cell	Cells	C0007634
+31251	31258	GO:0031982	vesicle	vesicle		C1622418
+31265	31308	GO:0003990	assayed for acetylcholine esterase activity	acetylcholinesterase activity		C1149827
+31400	31404	GO:0005623	cell	cell	Cells	C0007634
+31663	31683	GO:1902698	(2-nitrobenzoic acid	acidogenesis		C3823112
+31663	31683	GO:1902705	(2-nitrobenzoic acid	acidogenesis		C3823112
+31663	31683	GO:1902706	(2-nitrobenzoic acid	acidogenesis		C3823112
+31663	31683	GO:1902699	(2-nitrobenzoic acid	acidogenesis		C3823112
+31849	31890	GO:1990266	photometrically at a wavelength of 405 nm	neutrophil migration	Neutrophil migration, function	C0312860
+31984	31988	GO:0005623	cell	cell	Cells	C0007634
+32442	32477	GO:1990266	the extinction at 546 nm wavelength	neutrophil migration	Neutrophil migration, function	C0312860
+32543	32563	GO:0070527	platelet aggregation	platelet aggregation	Platelet aggregation	C0032176
+32754	32774	GO:0070527	platelet aggregation	platelet aggregation	Platelet aggregation	C0032176
+32822	32839	GO:0007567	developed by born	parturition	Birth	C0005615
+34099	34138	GO:0030097	for standard haematopoetic measurements	hematopoiesis	Hematopoiesis	C0018951
+34143	34147	GO:0005623	cell	cell	Cells	C0007634
+34255	34259	GO:0005623	cell	cell	Cells	C0007634
+34307	34311	GO:0005623	cell	cell	Cells	C0007634
+34439	34443	GO:0005623	cell	cell	Cells	C0007634
+34586	34590	GO:0005623	cell	cell	Cells	C0007634
+34624	34628	GO:0005623	cell	cell	Cells	C0007634
+34646	34650	GO:0005623	cell	cell	Cells	C0007634
+34673	34677	GO:0005623	cell	cell	Cells	C0007634
+34845	34851	GO:0060004	reflex	reflex	Reflex motion descriptor	C0439840
+34939	34980	GO:0051015	f-actin-binding of recombinant annexin a7	actin filament binding		C1523040
+35138	35148	GO:0042571	antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+35175	35220	GO:0019013	directed against mouse annexin a7 core domain	nucleocapsid	viral nucleocapsid location	C1167518
+35229	35269	GO:0042571	a polyclonal rabbit anti-sorcin antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+35804	35808	GO:0005623	cell	cell	Cells	C0007634
+35949	35953	GO:0005623	cell	cell	Cells	C0007634
+36046	36066	GO:0070527	platelet aggregation	platelet aggregation	Platelet aggregation	C0032176
+36161	36204	GO:0005856	the cytoskeletal activities of the protein,	cytoskeleton	Cytoskeleton	C0010853

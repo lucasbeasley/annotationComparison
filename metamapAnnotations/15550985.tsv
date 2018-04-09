@@ -1,0 +1,347 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+32	63	GO:0019230	in proprioceptive axon guidance	proprioception	Proprioception	C0033499
+75	89	GO:0043121	neurotrophin-3	neurotrophin binding		C1323315
+100	144	GO:0019230	required for proprioceptive neuron survival.	proprioception	Proprioception	C0033499
+145	182	GO:0007567	deletion of the proapoptotic gene bax	parturition	Birth	C0005615
+145	182	GO:0000003	deletion of the proapoptotic gene bax	reproduction	Reproduction	C0035150
+183	204	GO:0043121	in nt-3 knockout mice	neurotrophin binding		C1323315
+263	274	GO:0007409	axon growth	axon growth		C1749784
+275	308	GO:0038179	in the absence of nt-3 signaling.	neurotrophin signaling pathway	Neurotrophin Signaling Pathway	C2984256
+346	350	GO:0030424	axon	axon	Axon	C0004461
+500	507	GO:0005819	spindle	spindle	Spindle	C1166795
+538	542	GO:0030424	axon	axon	Axon	C0004461
+590	610	GO:0019230	proprioceptive axons	proprioception	Proprioception	C0033499
+675	682	GO:0031430	midline	midline	midline cell component	C1660780
+707	738	GO:0043121	chemoattractant effects of nt-3	neurotrophin binding		C1323315
+763	767	GO:0030424	axon	axon	Axon	C0004461
+787	860	GO:0043121	that survival factor nt-3 acts as a short-distance axon guidance molecule	neurotrophin binding		C1323315
+861	889	GO:0007600	for muscle sensory afferents	sensory perception	Esthesia	C0036658
+944	958	GO:0043121	neurotrophin-3	neurotrophin binding		C1323315
+995	1006	GO:0032502	development	development	Biologic Development	C0678723
+1095	1113	GO:0043121	deficient in nt-3,	neurotrophin binding		C1323315
+1150	1212	GO:0000988	or in trkc-positive neuron-specific transcription factor runx3	transcription factor activity		C1148759
+1150	1212	GO:0001070	or in trkc-positive neuron-specific transcription factor runx3	transcription factor activity		C1148759
+1150	1212	GO:0001071	or in trkc-positive neuron-specific transcription factor runx3	transcription factor activity		C1148759
+1150	1212	GO:0003700	or in trkc-positive neuron-specific transcription factor runx3	transcription factor activity		C1148759
+1273	1280	GO:0005819	spindle	spindle	Spindle	C1166795
+1287	1317	GO:0019230	loss of proprioceptive neurons	proprioception	Proprioception	C0033499
+1357	1361	GO:0030424	axon	axon	Axon	C0004461
+1509	1513	GO:0043121	nt-3	neurotrophin binding		C1323315
+1584	1631	GO:0030484	and in intrafusal bag fibers of muscle spindles	muscle fiber	Muscle Fibers	C0242697
+1584	1631	GO:0043292	and in intrafusal bag fibers of muscle spindles	muscle fiber	Muscle Fibers	C0242697
+1641	1652	GO:0032502	development	development	Biologic Development	C0678723
+1724	1737	GO:0007600	sensory axons	sensory perception	Esthesia	C0036658
+1746	1766	GO:0030484	developing myotubes,	muscle fiber	Muscle Fibers	C0242697
+1746	1766	GO:0043292	developing myotubes,	muscle fiber	Muscle Fibers	C0242697
+1779	1810	GO:0042692	muscle spindle differentiation,	muscle cell differentiation		C1326080
+1836	1848	GO:0043679	nerve ending	nerve ending	Nerve Endings	C0027747
+1863	1885	GO:0009790	in the chicken embryo,	embryo development	Embryonic Development	C0013936
+1904	1948	GO:0043121	anti-nt-3 antibody injections into limb buds	neurotrophin binding		C1323315
+1949	1993	GO:0007588	lead to elimination of trkc-positive neurons	excretion	Excretory function	C0221102
+2008	2019	GO:0060384	innervation	innervation	innervation aspect	C1619351
+2068	2077	GO:0043121	nt-3 only	neurotrophin binding		C1323315
+2078	2138	GO:0007600	a chemotrophic survival factor for muscle sensory afferents,	sensory perception	Esthesia	C0036658
+2179	2190	GO:0032502	development	development	Biologic Development	C0678723
+2255	2261	GO:0060004	reflex	reflex	Reflex motion descriptor	C0439840
+2292	2327	GO:0043121	that nt-3 acts as a chemoattractant	neurotrophin binding		C1323315
+2328	2406	GO:0007600	for sensory axons during the final phase of their target-directed pathfinding.	sensory perception	Esthesia	C0036658
+2527	2585	GO:0043121	allow for distinguishing survival effects of neurotrophins	neurotrophin binding		C1323315
+2606	2635	GO:0007600	bax-deficient sensory neurons	sensory perception	Esthesia	C0036658
+2654	2680	GO:0043121	neurotrophins for survival	neurotrophin binding		C1323315
+2754	2758	GO:0030424	axon	axon	Axon	C0004461
+2870	2880	GO:0007567	bax genes,	parturition	Birth	C0005615
+2870	2880	GO:0000003	bax genes,	reproduction	Reproduction	C0035150
+2885	2928	GO:0019230	examined proprioceptive axonal projections.	proprioception	Proprioception	C0033499
+2970	2981	GO:0007567	after birth	parturition	Birth	C0005615
+3150	3154	GO:0005623	cell	cell	Cells	C0007634
+3215	3231	GO:0009790	at embryonic day	embryo development	Embryonic Development	C0013936
+3259	3263	GO:0005623	cell	cell	Cells	C0007634
+3414	3418	GO:0005623	cell	cell	Cells	C0007634
+3459	3492	GO:0007567	in the bax+/+ genetic background,	parturition	Birth	C0005615
+3459	3492	GO:0000003	in the bax+/+ genetic background,	reproduction	Reproduction	C0035150
+3502	3506	GO:0005623	cell	cell	Cells	C0007634
+3664	3668	GO:0005623	cell	cell	Cells	C0007634
+3979	4065	GO:0019230	evidenced by the lack of expression of the proprioceptive molecular marker parvalbumin	proprioception	Proprioception	C0033499
+4114	4125	GO:0060384	innervation	innervation	innervation aspect	C1619351
+4447	4462	GO:0009790	bax ko embryos.	embryo development	Embryonic Development	C0013936
+4538	4580	GO:0019230	complete absence of proprioceptive fibers.	proprioception	Proprioception	C0033499
+4710	4720	GO:0007601	seen in wt	vision	Vision	C0042789
+4908	4912	GO:0030424	axon	axon	Axon	C0004461
+4975	4999	GO:0019230	proprioceptive afferents	proprioception	Proprioception	C0033499
+5306	5370	GO:0019230	consistent with a complete absence of proprioceptive innervation	proprioception	Proprioception	C0033499
+5433	5457	GO:0019230	proprioceptive afferents	proprioception	Proprioception	C0033499
+5669	5676	GO:0031430	midline	midline	midline cell component	C1660780
+5695	5702	GO:0031430	midline	midline	midline cell component	C1660780
+5850	5861	GO:0060384	innervation	innervation	innervation aspect	C1619351
+5927	5938	GO:0060384	innervation	innervation	innervation aspect	C1619351
+6085	6150	GO:0007409	corresponding to nerve growth factor-dependent nociceptive axons.	axon growth		C1749784
+6161	6176	GO:0009790	bax ko embryos,	embryo development	Embryonic Development	C0013936
+6177	6198	GO:0019230	proprioceptive fibers	proprioception	Proprioception	C0033499
+6271	6311	GO:0009790	the ventral horns of the nt-3 ko embryos	embryo development	Embryonic Development	C0013936
+6327	6338	GO:0060384	innervation	innervation	innervation aspect	C1619351
+6457	6464	GO:0031430	midline	midline	midline cell component	C1660780
+6560	6637	GO:0019230	point to a complete absence of proprioceptive innervation of the ventral horn	proprioception	Proprioception	C0033499
+6638	6706	GO:0021510	of the bax/nt-3 null spinal cord throughout the developmental stages	spinal cord development		C1818035
+6721	6741	GO:0007600	as the sensory axons	sensory perception	Esthesia	C0036658
+6767	6775	GO:0030425	dendrite	dendrite	Dendrites	C0011305
+6822	6828	GO:0060004	reflex	reflex	Reflex motion descriptor	C0439840
+6885	6914	GO:0007600	contact between sensory axons	sensory perception	Esthesia	C0036658
+6999	7003	GO:0030424	axon	axon	Axon	C0004461
+7036	7064	GO:0007600	in sensory axon maintenance.	sensory perception	Esthesia	C0036658
+7105	7116	GO:0060384	innervation	innervation	innervation aspect	C1619351
+7147	7158	GO:0060384	innervation	innervation	innervation aspect	C1619351
+7197	7204	GO:0005819	spindle	spindle	Spindle	C1166795
+7253	7260	GO:0005819	spindle	spindle	Spindle	C1166795
+7372	7393	GO:0019230	proprioceptive fibers	proprioception	Proprioception	C0033499
+7407	7420	GO:0005883	neurofilament	neurofilament	Neurofilaments	C0027834
+7508	7534	GO:0042571	labeled with s46 antibody,	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+7553	7564	GO:0032502	development	development	Biologic Development	C0678723
+7658	7665	GO:0005819	spindle	spindle	Spindle	C1166795
+7752	7759	GO:0005819	spindle	spindle	Spindle	C1166795
+7774	7781	GO:0005819	spindle	spindle	Spindle	C1166795
+7900	7904	GO:0005623	cell	cell	Cells	C0007634
+7930	7937	GO:0005819	spindle	spindle	Spindle	C1166795
+8007	8014	GO:0005819	spindle	spindle	Spindle	C1166795
+8025	8052	GO:0042571	observed with trkc antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+8158	8177	GO:0005883	nf-m-labeled fibers	neurofilament	Neurofilaments	C0027834
+8272	8283	GO:0043005	nerve fiber	nerve fiber	Nerve Fibers	C0027749
+8303	8344	GO:0030484	no trkc-positive fibers in these muscles,	muscle fiber	Muscle Fibers	C0242697
+8303	8344	GO:0043292	no trkc-positive fibers in these muscles,	muscle fiber	Muscle Fibers	C0242697
+8359	8384	GO:0005883	these nf-m-labeled fibers	neurofilament	Neurofilaments	C0027834
+8405	8409	GO:0030424	axon	axon	Axon	C0004461
+8430	8437	GO:0005819	spindle	spindle	Spindle	C1166795
+8465	8497	GO:0030154	in initiation of differentiation	cell differentiation	Cell Differentiation process	C0007589
+8498	8522	GO:0019230	by proprioceptive axons,	proprioception	Proprioception	C0033499
+8526	8549	GO:0032502	a failure of maturation	development	Biologic Development	C0678723
+8661	8668	GO:0005819	spindle	spindle	Spindle	C1166795
+8692	8724	GO:0005883	e17 with s46/nf-m immunostaining	neurofilament	Neurofilaments	C0027834
+8795	8802	GO:0005819	spindle	spindle	Spindle	C1166795
+8900	8907	GO:0005819	spindle	spindle	Spindle	C1166795
+8959	8981	GO:0009790	not in nt-3 ko embryos	embryo development	Embryonic Development	C0013936
+9039	9046	GO:0005819	spindle	spindle	Spindle	C1166795
+9076	9083	GO:0005819	spindle	spindle	Spindle	C1166795
+9099	9131	GO:0009790	observed in one leg of an embryo	embryo development	Embryonic Development	C0013936
+9251	9258	GO:0005819	spindle	spindle	Spindle	C1166795
+9440	9478	GO:0009058	they never formed ring-like structures	anabolism	Anabolism	C0220781
+9504	9511	GO:0005819	spindle	spindle	Spindle	C1166795
+9593	9635	GO:0007600	sensory fibers to the gastrocnemius muscle	sensory perception	Esthesia	C0036658
+9701	9705	GO:0030424	axon	axon	Axon	C0004461
+9716	9740	GO:0007601	seen in the tibial nerve	vision	Vision	C0042789
+9773	9777	GO:0030424	axon	axon	Axon	C0004461
+9816	9820	GO:0030424	axon	axon	Axon	C0004461
+9925	9945	GO:0019230	proprioceptive axons	proprioception	Proprioception	C0033499
+10105	10109	GO:0030424	axon	axon	Axon	C0004461
+10180	10198	GO:0007600	for sensory axons,	sensory perception	Esthesia	C0036658
+10241	10269	GO:0019230	proprioceptive axons in mice	proprioception	Proprioception	C0033499
+10349	10356	GO:0031430	midline	midline	midline cell component	C1660780
+10643	10647	GO:0030424	axon	axon	Axon	C0004461
+10754	10795	GO:0050918	a strong chemoattraction by 3 d in vitro,	positive chemotaxis		C1327543
+10978	11002	GO:0050918	the same chemoattraction	positive chemotaxis		C1327543
+11168	11172	GO:0030424	axon	axon	Axon	C0004461
+11203	11248	GO:0050918	strong chemoattraction towards the nt-3 beads	positive chemotaxis		C1327543
+11389	11396	GO:0005625	soluble	soluble		C1749467
+11465	11484	GO:0050918	the chemoattraction	positive chemotaxis		C1327543
+11542	11545	GO:0007601	see	vision	Vision	C0042789
+11784	11790	GO:0040007	growth	growth	Growth	C0018270
+11874	11878	GO:0030424	axon	axon	Axon	C0004461
+11898	11904	GO:0040007	growth	growth	Growth	C0018270
+12016	12023	GO:0031430	midline	midline	midline cell component	C1660780
+12532	12536	GO:0030424	axon	axon	Axon	C0004461
+12601	12605	GO:0030424	axon	axon	Axon	C0004461
+12687	12694	GO:0031430	midline	midline	midline cell component	C1660780
+12748	12759	GO:0007409	axon growth	axon growth		C1749784
+12952	12956	GO:0030424	axon	axon	Axon	C0004461
+13043	13054	GO:0007600	for sensory	sensory perception	Esthesia	C0036658
+13065	13069	GO:0030424	axon	axon	Axon	C0004461
+13089	13152	GO:0042056	chemoattractant action of the embryonic mouse maxillary process	chemoattractant activity		C1149381
+13343	13366	GO:0007600	that developing sensory	sensory perception	Esthesia	C0036658
+13377	13381	GO:0030424	axon	axon	Axon	C0004461
+13421	13459	GO:0043121	grow towards neurotrophin-soaked beads	neurotrophin binding		C1323315
+13526	13579	GO:0043121	soaked with neurotrophin function-blocking antibodies	neurotrophin binding		C1323315
+13580	13607	GO:0007600	led to reduction of sensory	sensory perception	Esthesia	C0036658
+13618	13629	GO:0007409	axon growth	axon growth		C1749784
+13749	13791	GO:0019230	the course of the proprioceptive afferents	proprioception	Proprioception	C0033499
+14022	14033	GO:0060384	innervation	innervation	innervation aspect	C1619351
+14051	14079	GO:0019230	by proprioceptive afferents.	proprioception	Proprioception	C0033499
+14089	14152	GO:0019230	earlier findings of normal proprioceptive afferent trajectories	proprioception	Proprioception	C0033499
+14153	14224	GO:0009790	in chicken embryos despite injection of function-blocking nt-3 antibody	embryo development	Embryonic Development	C0013936
+14329	14381	GO:0042571	assays on the effectiveness of antibody perturbation	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+14400	14404	GO:0005623	cell	cell	Cells	C0007634
+14556	14577	GO:0007600	central sensory axons	sensory perception	Esthesia	C0036658
+14693	14735	GO:0043121	another member of the neurotrophin family,	neurotrophin binding		C1323315
+14789	14806	GO:0007600	for sensory axons	sensory perception	Esthesia	C0036658
+14849	14904	GO:0010467	in a gene replacement strategy in which bdnf expression	gene expression	Gene Expression	C0017262
+14949	14953	GO:0030424	axon	axon	Axon	C0004461
+15073	15077	GO:0030424	axon	axon	Axon	C0004461
+15164	15203	GO:0007600	sensory axon growth during regeneration	sensory perception	Esthesia	C0036658
+15297	15301	GO:0030424	axon	axon	Axon	C0004461
+15407	15411	GO:0030424	axon	axon	Axon	C0004461
+15444	15451	GO:0031430	midline	midline	midline cell component	C1660780
+15642	15664	GO:0007600	for sensory afferents.	sensory perception	Esthesia	C0036658
+15698	15709	GO:0060384	innervation	innervation	innervation aspect	C1619351
+15857	15903	GO:0019230	sufficient for rescuing proprioceptive neurons	proprioception	Proprioception	C0033499
+15927	15972	GO:0007411	proper axonal pathfinding in the spinal cord.	axon guidance	Axon Guidance	C2984268
+16462	16465	GO:0007601	see	vision	Vision	C0042789
+16466	16534	GO:0019230	no proprioceptive afferents in the periphery of the double knockouts	proprioception	Proprioception	C0033499
+16544	16581	GO:0019230	that central proprioceptive afferents	proprioception	Proprioception	C0033499
+16820	16865	GO:0043121	in various manipulations of the neurotrophins	neurotrophin binding		C1323315
+16884	16931	GO:0019230	that molecular markers for proprioceptive axons	proprioception	Proprioception	C0033499
+16946	17018	GO:0007567	calcitonin gene-related peptide for nerve growth factor-responsive axons	parturition	Birth	C0005615
+17139	17173	GO:0019230	the extent of proprioceptive axons	proprioception	Proprioception	C0033499
+17391	17402	GO:0060384	innervation	innervation	innervation aspect	C1619351
+17537	17548	GO:0032502	development	development	Biologic Development	C0678723
+17589	17593	GO:0030424	axon	axon	Axon	C0004461
+17641	17667	GO:0019230	all proprioceptive neurons	proprioception	Proprioception	C0033499
+17776	17840	GO:0019230	proprioceptive axons in the vicinity of their peripheral target.	proprioception	Proprioception	C0033499
+17914	17925	GO:0060384	innervation	innervation	innervation aspect	C1619351
+17930	17937	GO:0005819	spindle	spindle	Spindle	C1166795
+18037	18041	GO:0030424	axon	axon	Axon	C0004461
+18104	18137	GO:0019230	that central proprioceptive axons	proprioception	Proprioception	C0033499
+18326	18330	GO:0030424	axon	axon	Axon	C0004461
+18379	18383	GO:0007601	seen	vision	Vision	C0042789
+18451	18455	GO:0030424	axon	axon	Axon	C0004461
+18470	18486	GO:0043195	terminal boutons	synaptic bouton	Presynaptic Terminals	C0206181
+18589	18593	GO:0030424	axon	axon	Axon	C0004461
+18672	18702	GO:0043195	terminal boutons at their tips	synaptic bouton	Presynaptic Terminals	C0206181
+18704	18707	GO:0007601	see	vision	Vision	C0042789
+18795	18808	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+18904	18916	GO:0030484	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+18904	18916	GO:0043292	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+18971	19014	GO:0019230	ventral projections of proprioceptive axons	proprioception	Proprioception	C0033499
+19048	19052	GO:0030424	axon	axon	Axon	C0004461
+19587	19591	GO:0005623	cell	cell	Cells	C0007634
+19601	19630	GO:0000988	the transcription factor er81	transcription factor activity		C1148759
+19601	19630	GO:0001070	the transcription factor er81	transcription factor activity		C1148759
+19601	19630	GO:0001071	the transcription factor er81	transcription factor activity		C1148759
+19601	19630	GO:0003700	the transcription factor er81	transcription factor activity		C1148759
+19646	19650	GO:0030424	axon	axon	Axon	C0004461
+19794	19819	GO:0019230	most proprioceptive axons	proprioception	Proprioception	C0033499
+19897	19901	GO:0030424	axon	axon	Axon	C0004461
+20194	20198	GO:0030424	axon	axon	Axon	C0004461
+20297	20313	GO:0032940	secreted by them	secretion by cell	Cell secretion	C1327616
+20327	20360	GO:0019230	a signal for proprioceptive axons	proprioception	Proprioception	C0033499
+20693	20718	GO:0009790	studies in embryonic mice	embryo development	Embryonic Development	C0013936
+20951	20955	GO:0005623	cell	cell	Cells	C0007634
+21243	21256	GO:0007411	axon guidance	axon guidance	Axon Guidance	C2984268
+21333	21336	GO:0007601	see	vision	Vision	C0042789
+21337	21376	GO:0050918	a strong chemoattraction of drg neurons	positive chemotaxis		C1327543
+21424	21435	GO:0007601	seen in wt,	vision	Vision	C0042789
+21501	21520	GO:0043121	other neurotrophins	neurotrophin binding		C1323315
+21539	21552	GO:0007411	axon guidance	axon guidance	Axon Guidance	C2984268
+21587	21616	GO:0007600	sensory axon response to nt-3	sensory perception	Esthesia	C0036658
+21729	21733	GO:0030424	axon	axon	Axon	C0004461
+21842	21867	GO:0061564	axons during development.	axon development		C3820918
+21930	21965	GO:0007600	to developing primary sensory axons	sensory perception	Esthesia	C0036658
+21986	22003	GO:0043121	this neurotrophin	neurotrophin binding		C1323315
+22027	22043	GO:0048668	axonal branching	axon branching		C3546325
+22151	22157	GO:0060004	reflex	reflex	Reflex motion descriptor	C0439840
+22204	22208	GO:0030424	axon	axon	Axon	C0004461
+22313	22320	GO:0031430	midline	midline	midline cell component	C1660780
+22364	22400	GO:0048668	capable of inducing axonal branching	axon branching		C3546325
+22505	22519	GO:0005488	bind to slits,	binding	Binding 	C1167622
+22524	22544	GO:0019230	proprioceptive axons	proprioception	Proprioception	C0033499
+22671	22675	GO:0030424	axon	axon	Axon	C0004461
+22779	22783	GO:0030424	axon	axon	Axon	C0004461
+22859	22912	GO:0048668	involved in terminal branching of propioceptive axons	axon branching		C3546325
+22944	22951	GO:0031430	midline	midline	midline cell component	C1660780
+23093	23097	GO:0030424	axon	axon	Axon	C0004461
+23112	23143	GO:0042692	muscle spindle differentiation.	muscle cell differentiation		C1326080
+23211	23241	GO:0007411	no defects in axon pathfinding	axon guidance	Axon Guidance	C2984268
+23265	23271	GO:0060004	reflex	reflex	Reflex motion descriptor	C0439840
+23276	23312	GO:0042692	or in muscle spindle differentiation	muscle cell differentiation		C1326080
+23405	23413	GO:0007610	behavior	behavior	Behavior	C0004927
+23492	23496	GO:0030424	axon	axon	Axon	C0004461
+23590	23614	GO:0019230	in proprioceptive cells.	proprioception	Proprioception	C0033499
+23676	23689	GO:0007411	axon guidance	axon guidance	Axon Guidance	C2984268
+23694	23728	GO:0019230	for proprioceptive axons centrally	proprioception	Proprioception	C0033499
+23793	23806	GO:0007411	axon guidance	axon guidance	Axon Guidance	C2984268
+23835	23839	GO:0030424	axon	axon	Axon	C0004461
+23952	23987	GO:0007600	terminal branching of sensory axons	sensory perception	Esthesia	C0036658
+24063	24076	GO:0007411	axon guidance	axon guidance	Axon Guidance	C2984268
+24139	24220	GO:0019230	proprioceptive neuron-specific receptors/ligands for numerous axon guidance cues.	proprioception	Proprioception	C0033499
+24514	24541	GO:0007567	heterozygous for both genes	parturition	Birth	C0005615
+24514	24541	GO:0000003	heterozygous for both genes	reproduction	Reproduction	C0035150
+25366	25392	GO:0009790	for embryonic experiments,	embryo development	Embryonic Development	C0013936
+25827	25852	GO:0042571	goat anti-trkc antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+25977	26004	GO:0042571	donkey anti-goat antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+26161	26207	GO:0042571	reacted with monoclonal mouse anti-pv antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+26295	26307	GO:0005020	on mouse kit	stem cell factor receptor activity		C1150635
+26422	26426	GO:0005623	cell	cell	Cells	C0007634
+26528	26535	GO:0005819	spindle	spindle	Spindle	C1166795
+26762	26800	GO:0042571	incubated with monoclonal s46 antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+26841	26848	GO:0005819	spindle	spindle	Spindle	C1166795
+26926	26958	GO:0005020	on mouse kit as described above,	stem cell factor receptor activity		C1150635
+26959	26996	GO:0042571	followed by rabbit anti-nf-m antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+27027	27052	GO:0042571	goat anti-rabbit antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+27143	27172	GO:0009790	placed in drgs of e17 embryos	embryo development	Embryonic Development	C0013936
+28051	28073	GO:0009790	p75 null mouse embryos	embryo development	Embryonic Development	C0013936
+28245	28275	GO:1902698	dissolved in 0.1m acetic acid,	acidogenesis		C3823112
+28245	28275	GO:1902705	dissolved in 0.1m acetic acid,	acidogenesis		C3823112
+28245	28275	GO:1902706	dissolved in 0.1m acetic acid,	acidogenesis		C3823112
+28245	28275	GO:1902699	dissolved in 0.1m acetic acid,	acidogenesis		C3823112
+28793	28826	GO:0043121	a single neurotrophin-loaded bead	neurotrophin binding		C1323315
+29269	29272	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+29371	29407	GO:0009790	out from swiss webster mouse embryos	embryo development	Embryonic Development	C0013936
+29683	29690	GO:0031430	midline	midline	midline cell component	C1660780
+30192	30203	GO:0060384	innervation	innervation	innervation aspect	C1619351
+30204	30231	GO:0009790	initiated in wt e17 embryos	embryo development	Embryonic Development	C0013936
+30341	30398	GO:0007600	through the ventral root in addition to the sensory axons	sensory perception	Esthesia	C0036658
+30430	30439	GO:0009790	wt embryo	embryo development	Embryonic Development	C0013936
+30448	30468	GO:0019230	proprioceptive axons	proprioception	Proprioception	C0033499
+30493	30501	GO:0030425	dendrite	dendrite	Dendrites	C0011305
+30532	30539	GO:0045202	synapse	synapse	Synapses	C0039062
+30660	30667	GO:0031430	midline	midline	midline cell component	C1660780
+30731	30739	GO:0030425	dendrite	dendrite	Dendrites	C0011305
+30785	30826	GO:0019230	arrows point to the proprioceptive fibers	proprioception	Proprioception	C0033499
+30929	30945	GO:0007600	no sensory axons	sensory perception	Esthesia	C0036658
+31192	31203	GO:0043005	nerve fiber	nerve fiber	Nerve Fibers	C0027749
+31229	31236	GO:0005819	spindle	spindle	Spindle	C1166795
+31266	31319	GO:0007600	the characteristic morphology of sensory nerve ending	sensory perception	Esthesia	C0036658
+31320	31351	GO:0030484	wrapped around muscle bag fiber	muscle fiber	Muscle Fibers	C0242697
+31320	31351	GO:0043292	wrapped around muscle bag fiber	muscle fiber	Muscle Fibers	C0242697
+31576	31592	GO:0042571	trkc antibodies,	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+31596	31627	GO:0042571	stockdale for the s46 antibody,	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+32094	32111	GO:0009790	e - embryonic day	embryo development	Embryonic Development	C0013936
+32135	32148	GO:0005883	neurofilament	neurofilament	Neurofilaments	C0027834
+32152	32173	GO:0043121	nt-3 - neurotrophin-3	neurotrophin binding		C1323315
+32743	32747	GO:0005623	cell	cell	Cells	C0007634
+32803	32807	GO:0005623	cell	cell	Cells	C0007634
+32832	32836	GO:0005623	cell	cell	Cells	C0007634
+32894	32898	GO:0005623	cell	cell	Cells	C0007634
+33025	33029	GO:0005623	cell	cell	Cells	C0007634
+33184	33188	GO:0030424	axon	axon	Axon	C0004461
+33259	33293	GO:0019230	rescued drg proprioceptive neurons	proprioception	Proprioception	C0033499
+33364	33368	GO:0030424	axon	axon	Axon	C0004461
+33403	33410	GO:0031430	midline	midline	midline cell component	C1660780
+33427	33434	GO:0031430	midline	midline	midline cell component	C1660780
+33490	33496	GO:0060004	reflex	reflex	Reflex motion descriptor	C0439840
+33629	33636	GO:0005819	spindle	spindle	Spindle	C1166795
+33710	33717	GO:0031430	midline	midline	midline cell component	C1660780
+33743	33758	GO:0043195	synaptic bouton	synaptic bouton	Presynaptic Terminals	C0206181
+33822	33835	GO:0007600	sensory axons	sensory perception	Esthesia	C0036658
+33919	33946	GO:0019230	notice proprioceptive axons	proprioception	Proprioception	C0033499
+34152	34156	GO:0030424	axon	axon	Axon	C0004461
+34419	34426	GO:0031430	midline	midline	midline cell component	C1660780
+34475	34482	GO:0005819	spindle	spindle	Spindle	C1166795
+34672	34679	GO:0005819	spindle	spindle	Spindle	C1166795
+34952	34959	GO:0005819	spindle	spindle	Spindle	C1166795
+34977	34984	GO:0005819	spindle	spindle	Spindle	C1166795
+35064	35071	GO:0005819	spindle	spindle	Spindle	C1166795
+35194	35206	GO:0030484	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+35194	35206	GO:0043292	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+35221	35228	GO:0005819	spindle	spindle	Spindle	C1166795
+35617	35633	GO:0051179	co-localization.	establishment and maintenance of localization		C1744691
+35658	35665	GO:0005819	spindle	spindle	Spindle	C1166795
+35736	35768	GO:0061642	chemoattraction of e13 drg axons	chemoattraction of axon		C3893420
+36197	36231	GO:0050918	chemoattraction towards nt-3 beads	positive chemotaxis		C1327543
+36311	36318	GO:0031430	midline	midline	midline cell component	C1660780
+36349	36353	GO:0030424	axon	axon	Axon	C0004461
+36595	36599	GO:0030424	axon	axon	Axon	C0004461
+36717	36721	GO:0030424	axon	axon	Axon	C0004461
+36798	36802	GO:0030424	axon	axon	Axon	C0004461
+36886	36890	GO:0030424	axon	axon	Axon	C0004461
+37292	37299	GO:0031430	midline	midline	midline cell component	C1660780
+37307	37311	GO:0030424	axon	axon	Axon	C0004461
+37361	37372	GO:0007409	axon growth	axon growth		C1749784
+37962	38018	GO:0042060	harvard medical school center for nervous system repair,	wound healing	Wound Healing	C0043240
+38163	38195	GO:0019230	in proprioceptive axon guidance.	proprioception	Proprioception	C0033499

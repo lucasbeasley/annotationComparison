@@ -1,0 +1,286 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+22	68	GO:0007567	characterization of the mouse acdp gene family	parturition	Birth	C0005615
+22	68	GO:0000003	characterization of the mouse acdp gene family	reproduction	Reproduction	C0035150
+134	153	GO:0007567	a novel gene family	parturition	Birth	C0005615
+134	153	GO:0000003	a novel gene family	reproduction	Reproduction	C0035150
+225	272	GO:0007567	the functional study of this novel gene family,	parturition	Birth	C0005615
+225	272	GO:0000003	the functional study of this novel gene family,	reproduction	Reproduction	C0035150
+312	362	GO:0007567	the mouse homologue of the human acdp gene family.	parturition	Birth	C0005615
+312	362	GO:0000003	the mouse homologue of the human acdp gene family.	reproduction	Reproduction	C0035150
+373	392	GO:0007567	the four acdp genes	parturition	Birth	C0005615
+373	392	GO:0000003	the four acdp genes	reproduction	Reproduction	C0035150
+543	559	GO:1902698	771 amino acids,	acidogenesis		C3823112
+543	559	GO:1902705	771 amino acids,	acidogenesis		C3823112
+543	559	GO:1902706	771 amino acids,	acidogenesis		C3823112
+543	559	GO:1902699	771 amino acids,	acidogenesis		C3823112
+574	594	GO:0007567	the mouse acdp genes	parturition	Birth	C0005615
+574	594	GO:0000003	the mouse acdp genes	reproduction	Reproduction	C0035150
+655	704	GO:1902698	amino acid sequences to their human counterparts.	acidogenesis		C3823112
+655	704	GO:1902705	amino acid sequences to their human counterparts.	acidogenesis		C3823112
+655	704	GO:1902706	amino acid sequences to their human counterparts.	acidogenesis		C3823112
+655	704	GO:1902699	amino acid sequences to their human counterparts.	acidogenesis		C3823112
+738	794	GO:1902698	amino acid sequences within the ancient conserved domain	acidogenesis		C3823112
+738	794	GO:1902705	amino acid sequences within the ancient conserved domain	acidogenesis		C3823112
+738	794	GO:1902706	amino acid sequences within the ancient conserved domain	acidogenesis		C3823112
+738	794	GO:1902699	amino acid sequences within the ancient conserved domain	acidogenesis		C3823112
+1036	1050	GO:0007567	the acdp genes	parturition	Birth	C0005615
+1036	1050	GO:0000003	the acdp genes	reproduction	Reproduction	C0035150
+1264	1314	GO:0051179	a predominant localization on the plasma membrane.	establishment and maintenance of localization		C1744691
+1328	1342	GO:0007567	the acdp genes	parturition	Birth	C0005615
+1328	1342	GO:0000003	the acdp genes	reproduction	Reproduction	C0035150
+1429	1440	GO:0032502	development	development	Biologic Development	C0678723
+1487	1505	GO:0007567	an essential gene.	parturition	Birth	C0005615
+1487	1505	GO:0000003	an essential gene.	reproduction	Reproduction	C0035150
+1594	1609	GO:0005886	plasma membrane	plasma membrane	Plasma membrane	C0007603
+1688	1701	GO:0006811	ion transport	ion transport	Ion Transport	C0162585
+1715	1719	GO:0005623	cell	cell	Cells	C0007634
+1776	1795	GO:0007567	a novel gene family	parturition	Birth	C0005615
+1776	1795	GO:0000003	a novel gene family	reproduction	Reproduction	C0035150
+1906	1922	GO:0007567	this gene family	parturition	Birth	C0005615
+1906	1922	GO:0000003	this gene family	reproduction	Reproduction	C0035150
+2156	2182	GO:0007567	associated with the genes.	parturition	Birth	C0005615
+2156	2182	GO:0000003	associated with the genes.	reproduction	Reproduction	C0035150
+2197	2245	GO:0007567	the functional analysis of the acdp gene family,	parturition	Birth	C0005615
+2197	2245	GO:0000003	the functional analysis of the acdp gene family,	reproduction	Reproduction	C0035150
+2280	2330	GO:0007567	the mouse homologue of the human acdp gene family.	parturition	Birth	C0005615
+2280	2330	GO:0000003	the mouse homologue of the human acdp gene family.	reproduction	Reproduction	C0035150
+2341	2382	GO:0007567	molecular cloning of the acdp gene family	parturition	Birth	C0005615
+2341	2382	GO:0000003	molecular cloning of the acdp gene family	reproduction	Reproduction	C0035150
+2393	2414	GO:0007567	the mouse acdp genes,	parturition	Birth	C0005615
+2393	2414	GO:0000003	the mouse acdp genes,	reproduction	Reproduction	C0035150
+2895	2947	GO:0007567	the 3' utr sequence for each corresponding acdp gene	parturition	Birth	C0005615
+2895	2947	GO:0000003	the 3' utr sequence for each corresponding acdp gene	reproduction	Reproduction	C0035150
+2980	3023	GO:0007567	5'-end coding sequences for the acdp genes,	parturition	Birth	C0005615
+2980	3023	GO:0000003	5'-end coding sequences for the acdp genes,	reproduction	Reproduction	C0035150
+3027	3036	GO:0007610	conducted	behavior	Behavior	C0004927
+3182	3211	GO:0007567	the corresponding acdp genes.	parturition	Birth	C0005615
+3182	3211	GO:0000003	the corresponding acdp genes.	reproduction	Reproduction	C0035150
+3381	3395	GO:0007567	the acdp1 gene	parturition	Birth	C0005615
+3381	3395	GO:0000003	the acdp1 gene	reproduction	Reproduction	C0035150
+3449	3495	GO:1902698	a predicted protein with 951 amino acids (aa).	acidogenesis		C3823112
+3449	3495	GO:1902705	a predicted protein with 951 amino acids (aa).	acidogenesis		C3823112
+3449	3495	GO:1902706	a predicted protein with 951 amino acids (aa).	acidogenesis		C3823112
+3449	3495	GO:1902699	a predicted protein with 951 amino acids (aa).	acidogenesis		C3823112
+3500	3522	GO:0007567	other three acdp genes	parturition	Birth	C0005615
+3500	3522	GO:0000003	other three acdp genes	reproduction	Reproduction	C0035150
+3610	3646	GO:1902698	deduced proteins of 874 amino acids,	acidogenesis		C3823112
+3610	3646	GO:1902705	deduced proteins of 874 amino acids,	acidogenesis		C3823112
+3610	3646	GO:1902706	deduced proteins of 874 amino acids,	acidogenesis		C3823112
+3610	3646	GO:1902699	deduced proteins of 874 amino acids,	acidogenesis		C3823112
+3647	3662	GO:1902698	713 amino acids	acidogenesis		C3823112
+3647	3662	GO:1902705	713 amino acids	acidogenesis		C3823112
+3647	3662	GO:1902706	713 amino acids	acidogenesis		C3823112
+3647	3662	GO:1902699	713 amino acids	acidogenesis		C3823112
+3667	3683	GO:1902698	771 amino acids,	acidogenesis		C3823112
+3667	3683	GO:1902705	771 amino acids,	acidogenesis		C3823112
+3667	3683	GO:1902706	771 amino acids,	acidogenesis		C3823112
+3667	3683	GO:1902699	771 amino acids,	acidogenesis		C3823112
+3720	3766	GO:0007567	northern blot analyses of the acdp gene family	parturition	Birth	C0005615
+3720	3766	GO:0000003	northern blot analyses of the acdp gene family	reproduction	Reproduction	C0035150
+3790	3798	GO:0016020	membrane	membrane	Membrane	C0596901
+4114	4168	GO:0007567	the same tissue distributions as the human acdp genes.	parturition	Birth	C0005615
+4114	4168	GO:0000003	the same tissue distributions as the human acdp genes.	reproduction	Reproduction	C0035150
+4466	4489	GO:0043336	in the rest of tissues.	site-specific telomere resolvase activity		C1622890
+5093	5111	GO:0008150	biological process	biological process	Biological Processes	C3714634
+5203	5250	GO:0007567	northern blot analyses of the acdp gene family.	parturition	Birth	C0005615
+5203	5250	GO:0000003	northern blot analyses of the acdp gene family.	reproduction	Reproduction	C0035150
+5394	5414	GO:0005694	chromosomal location	chromosome	Chromosomes	C0008633
+5456	5470	GO:0007567	the acdp1 gene	parturition	Birth	C0005615
+5456	5470	GO:0000003	the acdp1 gene	reproduction	Reproduction	C0035150
+5479	5489	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+5569	5583	GO:0007567	the acdp2 gene	parturition	Birth	C0005615
+5569	5583	GO:0000003	the acdp2 gene	reproduction	Reproduction	C0035150
+5626	5636	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+5719	5730	GO:0007567	acdp4 genes	parturition	Birth	C0005615
+5719	5730	GO:0000003	acdp4 genes	reproduction	Reproduction	C0035150
+5738	5748	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+5930	5950	GO:0007567	the mouse acdp genes	parturition	Birth	C0005615
+5930	5950	GO:0000003	the mouse acdp genes	reproduction	Reproduction	C0035150
+6007	6040	GO:0007567	sequences to the human acdp genes	parturition	Birth	C0005615
+6007	6040	GO:0000003	sequences to the human acdp genes	reproduction	Reproduction	C0035150
+6117	6137	GO:0007567	the mouse acdp2 gene	parturition	Birth	C0005615
+6117	6137	GO:0000003	the mouse acdp2 gene	reproduction	Reproduction	C0035150
+6547	6578	GO:0007567	for all acdp genes except acdp4	parturition	Birth	C0005615
+6547	6578	GO:0000003	for all acdp genes except acdp4	reproduction	Reproduction	C0035150
+7313	7342	GO:0009402	resistance to copper toxicity	toxin resistance		C1154741
+7313	7342	GO:0009636	resistance to copper toxicity	toxin resistance		C1154741
+7615	7636	GO:1902698	amino acid homologies	acidogenesis		C3823112
+7615	7636	GO:1902705	amino acid homologies	acidogenesis		C3823112
+7615	7636	GO:1902706	amino acid homologies	acidogenesis		C3823112
+7615	7636	GO:1902699	amino acid homologies	acidogenesis		C3823112
+7695	7753	GO:1902698	amino acid sequence homology alignment for all of the acdp	acidogenesis		C3823112
+7695	7753	GO:1902705	amino acid sequence homology alignment for all of the acdp	acidogenesis		C3823112
+7695	7753	GO:1902706	amino acid sequence homology alignment for all of the acdp	acidogenesis		C3823112
+7695	7753	GO:1902699	amino acid sequence homology alignment for all of the acdp	acidogenesis		C3823112
+7758	7791	GO:0007567	acdp genes within the acd domain.	parturition	Birth	C0005615
+7758	7791	GO:0000003	acdp genes within the acd domain.	reproduction	Reproduction	C0035150
+7792	7828	GO:0007567	the sequence data for the acdp genes	parturition	Birth	C0005615
+7792	7828	GO:0000003	the sequence data for the acdp genes	reproduction	Reproduction	C0035150
+7958	7979	GO:1902698	identical amino acids	acidogenesis		C3823112
+7958	7979	GO:1902705	identical amino acids	acidogenesis		C3823112
+7958	7979	GO:1902706	identical amino acids	acidogenesis		C3823112
+7958	7979	GO:1902699	identical amino acids	acidogenesis		C3823112
+7983	8022	GO:1902698	amino acids with very strong homologies	acidogenesis		C3823112
+7983	8022	GO:1902705	amino acids with very strong homologies	acidogenesis		C3823112
+7983	8022	GO:1902706	amino acids with very strong homologies	acidogenesis		C3823112
+7983	8022	GO:1902699	amino acids with very strong homologies	acidogenesis		C3823112
+8061	8082	GO:1902698	identical amino acids	acidogenesis		C3823112
+8061	8082	GO:1902705	identical amino acids	acidogenesis		C3823112
+8061	8082	GO:1902706	identical amino acids	acidogenesis		C3823112
+8061	8082	GO:1902699	identical amino acids	acidogenesis		C3823112
+8086	8125	GO:1902698	amino acids with very strong homologies	acidogenesis		C3823112
+8086	8125	GO:1902705	amino acids with very strong homologies	acidogenesis		C3823112
+8086	8125	GO:1902706	amino acids with very strong homologies	acidogenesis		C3823112
+8086	8125	GO:1902699	amino acids with very strong homologies	acidogenesis		C3823112
+8223	8252	GO:1902698	amino acid sequence alignment	acidogenesis		C3823112
+8223	8252	GO:1902705	amino acid sequence alignment	acidogenesis		C3823112
+8223	8252	GO:1902706	amino acid sequence alignment	acidogenesis		C3823112
+8223	8252	GO:1902699	amino acid sequence alignment	acidogenesis		C3823112
+8500	8536	GO:0007567	a gene product from d. melanogaster.	parturition	Birth	C0005615
+8500	8536	GO:0000003	a gene product from d. melanogaster.	reproduction	Reproduction	C0035150
+8537	8571	GO:0007567	the accession number for this gene	parturition	Birth	C0005615
+8537	8571	GO:0000003	the accession number for this gene	reproduction	Reproduction	C0035150
+9288	9323	GO:0016021	four distinct transmembrane domains	integral to membrane		C1167322
+9288	9323	GO:0044214	four distinct transmembrane domains	transmembrane	fully spanning the plasma membrane	C2752508
+9443	9470	GO:0005622	small intracellular modules	protoplasm	Protoplasm	C0175996
+9687	9709	GO:0016021	a transmembrane region	integral to membrane		C1167322
+9687	9709	GO:0044214	a transmembrane region	transmembrane	fully spanning the plasma membrane	C2752508
+9726	9811	GO:0005622	located in the n-terminus of the proteins adjacent to two intracellular cbs domains .	protoplasm	Protoplasm	C0175996
+9819	9826	GO:0005488	binding	binding	Binding 	C1167622
+9834	9881	GO:0030551	(cyclic nucleotide-monophosphate-binding domain	cyclic nucleotide binding		C1148917
+9925	9973	GO:0016021	four transmembrane domains within acdp4 protein.	integral to membrane		C1167322
+9925	9973	GO:0044214	four transmembrane domains within acdp4 protein.	transmembrane	fully spanning the plasma membrane	C2752508
+9930	9951	GO:0016021	transmembrane domains	integral to membrane		C1167322
+9930	9951	GO:0044214	transmembrane domains	transmembrane	fully spanning the plasma membrane	C2752508
+10916	10935	GO:0002377	antibody production	antibody production	Antibody Formation	C0003261
+10957	10981	GO:0051179	subcellular localization	establishment and maintenance of localization		C1744691
+11263	11301	GO:0042571	polyclonal antibodies for each peptide	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+11347	11381	GO:0042571	the specificity of the antibodies,	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+11385	11394	GO:0007610	conducted	behavior	Behavior	C0004927
+11470	11482	GO:0042571	the antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+11470	11482	GO:0042571	the antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+11470	11482	GO:0042571	the antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+11850	11881	GO:0042571	the specificity of the antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+11957	11961	GO:0005623	cell	cell	Cells	C0007634
+12010	12023	GO:0042571	this antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+12065	12069	GO:0005623	cell	cell	Cells	C0007634
+12123	12126	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+12146	12150	GO:0005623	cell	cell	Cells	C0007634
+12164	12167	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+12193	12197	GO:0005623	cell	cell	Cells	C0007634
+12253	12257	GO:0005623	cell	cell	Cells	C0007634
+12314	12318	GO:0005623	cell	cell	Cells	C0007634
+12411	12448	GO:0042571	the antibody against acdp1 c-terminus	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+12482	12530	GO:0042571	the specificity of the acdp1 c-terminus antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+12594	12598	GO:0005623	cell	cell	Cells	C0007634
+12693	12744	GO:0051179	its subcellular localization in hippocampus neurons	establishment and maintenance of localization		C1744691
+12745	12773	GO:0009790	isolated from mouse embryos.	embryo development	Embryonic Development	C0013936
+12919	12958	GO:0042571	the acdp1 c-terminus specific antibody.	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+13030	13045	GO:0005886	plasma membrane	plasma membrane	Plasma membrane	C0007603
+13073	13077	GO:0005623	cell	cell	Cells	C0007634
+13128	13136	GO:0016020	membrane	membrane	Membrane	C0596901
+13191	13247	GO:0016021	consistent with the observation of transmembrane domains	integral to membrane		C1167322
+13191	13247	GO:0044214	consistent with the observation of transmembrane domains	transmembrane	fully spanning the plasma membrane	C2752508
+13455	13475	GO:0042571	probed with antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+13634	13666	GO:0042571	probed with the acdp1 antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+13792	13796	GO:0005623	cell	cell	Cells	C0007634
+13814	13838	GO:0042571	probed with the antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+13884	13887	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+13930	13933	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+13950	13954	GO:0005623	cell	cell	Cells	C0007634
+13975	14008	GO:0051179	subcellular localization of acdp1	establishment and maintenance of localization		C1744691
+14084	14120	GO:0042571	stained with an anti-acdp1 antibody.	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+14257	14300	GO:0007567	the exact functions of the acdp gene family	parturition	Birth	C0005615
+14257	14300	GO:0000003	the exact functions of the acdp gene family	reproduction	Reproduction	C0035150
+14359	14374	GO:0007567	that acdp genes	parturition	Birth	C0005615
+14359	14374	GO:0000003	that acdp genes	reproduction	Reproduction	C0035150
+14405	14423	GO:0008150	biological process	biological process	Biological Processes	C3714634
+14434	14445	GO:0007567	these genes	parturition	Birth	C0005615
+14434	14445	GO:0000003	these genes	reproduction	Reproduction	C0035150
+14517	14541	GO:0007567	; second, multiple genes	parturition	Birth	C0005615
+14517	14541	GO:0000003	; second, multiple genes	reproduction	Reproduction	C0035150
+14575	14586	GO:0007567	these genes	parturition	Birth	C0005615
+14575	14586	GO:0000003	these genes	reproduction	Reproduction	C0035150
+14625	14636	GO:0032502	development	development	Biologic Development	C0678723
+14691	14737	GO:0007567	characterization of the mouse acdp gene family	parturition	Birth	C0005615
+14691	14737	GO:0000003	characterization of the mouse acdp gene family	reproduction	Reproduction	C0035150
+15121	15150	GO:0009402	resistance to cobalt toxicity	toxin resistance		C1154741
+15121	15150	GO:0009636	resistance to cobalt toxicity	toxin resistance		C1154741
+15460	15482	GO:0016021	transmembrane domains.	integral to membrane		C1167322
+15460	15482	GO:0044214	transmembrane domains.	transmembrane	fully spanning the plasma membrane	C2752508
+15503	15510	GO:0005488	binding	binding	Binding 	C1167622
+15633	15641	GO:0042571	antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+15739	15754	GO:0005886	plasma membrane	plasma membrane	Plasma membrane	C0007603
+15849	15873	GO:0005634	localized in the nucleus	cell nucleus	Cell Nucleus	C0007610
+15882	15886	GO:0005623	cell	cell	Cells	C0007634
+15893	15930	GO:0051179	the discrepancy for acdp localization	establishment and maintenance of localization		C1744691
+15943	15947	GO:0005623	cell	cell	Cells	C0007634
+15984	16005	GO:0042571	for previous antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+16069	16073	GO:0005623	cell	cell	Cells	C0007634
+16099	16128	GO:0042571	the acdp1 c-terminus antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+16211	16215	GO:0005623	cell	cell	Cells	C0007634
+16236	16268	GO:0042571	the specificity of the antibody.	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+16327	16340	GO:0006811	ion transport	ion transport	Ion Transport	C0162585
+16354	16358	GO:0005623	cell	cell	Cells	C0007634
+16503	16529	GO:0007567	described human acdp genes	parturition	Birth	C0005615
+16503	16529	GO:0000003	described human acdp genes	reproduction	Reproduction	C0035150
+16620	16656	GO:0007567	the existence of multiple acdp genes	parturition	Birth	C0005615
+16620	16656	GO:0000003	the existence of multiple acdp genes	reproduction	Reproduction	C0035150
+16721	16758	GO:0007567	a single copy gene in lower organisms	parturition	Birth	C0005615
+16721	16758	GO:0000003	a single copy gene in lower organisms	reproduction	Reproduction	C0035150
+16826	16870	GO:0007567	the evolutionary relationships of acdp genes	parturition	Birth	C0005615
+16826	16870	GO:0000003	the evolutionary relationships of acdp genes	reproduction	Reproduction	C0035150
+16939	16982	GO:0007567	characterization of murine acdp gene family	parturition	Birth	C0005615
+16939	16982	GO:0000003	characterization of murine acdp gene family	reproduction	Reproduction	C0035150
+16987	17032	GO:0007567	essential for study of this novel gene family	parturition	Birth	C0005615
+16987	17032	GO:0000003	essential for study of this novel gene family	reproduction	Reproduction	C0035150
+17142	17180	GO:1902698	amino acid conservations between mouse	acidogenesis		C3823112
+17142	17180	GO:1902705	amino acid conservations between mouse	acidogenesis		C3823112
+17142	17180	GO:1902706	amino acid conservations between mouse	acidogenesis		C3823112
+17142	17180	GO:1902699	amino acid conservations between mouse	acidogenesis		C3823112
+17185	17209	GO:0007567	human for each acdp gene	parturition	Birth	C0005615
+17185	17209	GO:0000003	human for each acdp gene	reproduction	Reproduction	C0035150
+17214	17241	GO:0007567	the whole acdp gene family,	parturition	Birth	C0005615
+17214	17241	GO:0000003	the whole acdp gene family,	reproduction	Reproduction	C0035150
+17368	17388	GO:0042571	generated antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+17431	17460	GO:0042571	the acdp1 c-terminus antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+17508	17522	GO:0042571	this antibody,	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+17589	17604	GO:0005886	plasma membrane	plasma membrane	Plasma membrane	C0007603
+17713	17738	GO:0007567	for the acdp gene family.	parturition	Birth	C0005615
+17713	17738	GO:0000003	for the acdp gene family.	reproduction	Reproduction	C0035150
+17763	17799	GO:0007567	cdna cloning of the acdp gene family	parturition	Birth	C0005615
+17763	17799	GO:0000003	cdna cloning of the acdp gene family	reproduction	Reproduction	C0035150
+18413	18470	GO:0007567	the specific mouse gene from the first round pcr products	parturition	Birth	C0005615
+18413	18470	GO:0000003	the specific mouse gene from the first round pcr products	reproduction	Reproduction	C0035150
+18471	18500	GO:0001660	at high annealing temperature	pyrexia	Fever	C0015967
+19048	19073	GO:0007567	probed for each acdp gene	parturition	Birth	C0005615
+19048	19073	GO:0000003	probed for each acdp gene	reproduction	Reproduction	C0035150
+19556	19575	GO:0002377	antibody production	antibody production	Antibody Formation	C0003261
+19720	19766	GO:0042571	used for generation of antibodies specifically	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+19912	19920	GO:0016020	membrane	membrane	Membrane	C0596901
+19980	20000	GO:0042571	secondary antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+20071	20094	GO:0050000	chromosome localization	chromosome localization		C1657114
+20176	20186	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+20513	20518	GO:0007567	(gene	parturition	Birth	C0005615
+20513	20518	GO:0000003	(gene	reproduction	Reproduction	C0035150
+21058	21062	GO:0005623	cell	cell	Cells	C0007634
+21209	21231	GO:0009790	out from mouse embryos	embryo development	Embryonic Development	C0013936
+21847	21851	GO:0005623	cell	cell	Cells	C0007634
+21991	21995	GO:0005623	cell	cell	Cells	C0007634
+22012	22016	GO:0005623	cell	cell	Cells	C0007634
+22082	22086	GO:0005623	cell	cell	Cells	C0007634
+22331	22335	GO:0005623	cell	cell	Cells	C0007634
+22429	22482	GO:0042571	incubated with a rabbit polyclonal anti-acdp antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+22579	22583	GO:0005623	cell	cell	Cells	C0007634
+22590	22646	GO:0000746	incubated with an alex 488 conjugated secondary antibody	conjugation		C1160466
+22803	22807	GO:0005623	cell	cell	Cells	C0007634
+22897	22901	GO:0005623	cell	cell	Cells	C0007634
+23074	23100	GO:0007567	gene bank accession number	parturition	Birth	C0005615
+23074	23100	GO:0000003	gene bank accession number	reproduction	Reproduction	C0035150
+23102	23145	GO:0007567	the cdna sequences for the acdp gene family	parturition	Birth	C0005615
+23102	23145	GO:0000003	the cdna sequences for the acdp gene family	reproduction	Reproduction	C0035150
+23164	23186	GO:0007567	deposited in gene bank	parturition	Birth	C0005615
+23164	23186	GO:0000003	deposited in gene bank	reproduction	Reproduction	C0035150
+23508	23527	GO:0002377	antibody production	antibody production	Antibody Formation	C0003261
+23545	23582	GO:0051179	immunostaining for acdp1 localization	establishment and maintenance of localization		C1744691
+23595	23599	GO:0005623	cell	cell	Cells	C0007634

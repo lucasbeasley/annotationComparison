@@ -1,0 +1,223 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+123	185	GO:0007567	the presence of two different mutant alleles of the same gene,	parturition	Birth	C0005615
+123	185	GO:0000003	the presence of two different mutant alleles of the same gene,	reproduction	Reproduction	C0035150
+429	448	GO:0007567	genetic background.	parturition	Birth	C0005615
+429	448	GO:0000003	genetic background.	reproduction	Reproduction	C0035150
+691	701	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+712	725	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+757	793	GO:0002524	ranging from elevated uv sensitivity	hypersensitivity	Hypersensitivity	C0020517
+1120	1133	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+1212	1223	GO:0032502	development	development	Biologic Development	C0678723
+2034	2038	GO:0005623	cell	cell	Cells	C0007634
+2312	2358	GO:0007567	two different mutant alleles of the same gene.	parturition	Birth	C0005615
+2312	2358	GO:0000003	two different mutant alleles of the same gene.	reproduction	Reproduction	C0035150
+2413	2459	GO:0007567	genetic interactions between recessive alleles	parturition	Birth	C0005615
+2413	2459	GO:0000003	genetic interactions between recessive alleles	reproduction	Reproduction	C0035150
+2904	2923	GO:0007567	genetic background.	parturition	Birth	C0005615
+2904	2923	GO:0000003	genetic background.	reproduction	Reproduction	C0035150
+2937	3016	GO:0000988	one of the two helicase components of basal transcription/dna repair factor iih	transcription factor activity		C1148759
+2937	3016	GO:0001070	one of the two helicase components of basal transcription/dna repair factor iih	transcription factor activity		C1148759
+2937	3016	GO:0001071	one of the two helicase components of basal transcription/dna repair factor iih	transcription factor activity		C1148759
+2937	3016	GO:0003700	one of the two helicase components of basal transcription/dna repair factor iih	transcription factor activity		C1148759
+3123	3136	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+3152	3218	GO:0006281	dna damage repair via the nucleotide excision repair (ner) pathway	DNA repair	DNA Repair	C0012899
+3287	3338	GO:0002524	associated with uv-sensitive, multisystem disorders	hypersensitivity	Hypersensitivity	C0020517
+3484	3496	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+3603	3609	GO:0040007	growth	growth	Growth	C0018270
+3763	3769	GO:0040007	growth	growth	Growth	C0018270
+3932	3971	GO:0009289	hallmark sulphur-deficient brittle hair	pilus	Bacterial Fimbria	C0031921
+4028	4041	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+4061	4065	GO:0005623	cell	cell	Cells	C0007634
+5403	5445	GO:0007568	ttd-associated premature segmental ageing,	aging	Aging	C0001811
+5466	5470	GO:0005623	cell	cell	Cells	C0007634
+5678	5704	GO:1902698	a single amino acid change	acidogenesis		C3823112
+5678	5704	GO:1902705	a single amino acid change	acidogenesis		C3823112
+5678	5704	GO:1902706	a single amino acid change	acidogenesis		C3823112
+5678	5704	GO:1902699	a single amino acid change	acidogenesis		C3823112
+5814	5846	GO:0009790	detected in embryonic stem cells	embryo development	Embryonic Development	C0013936
+6291	6318	GO:0007567	neither amongst live births	parturition	Birth	C0005615
+6323	6341	GO:0009790	embryonic day 13.5	embryo development	Embryonic Development	C0013936
+6353	6365	GO:0061659	e3.5 embryos	ubiquitin-like protein ligase activity		C1150682
+6583	6612	GO:0007567	as a result of gene targeting	parturition	Birth	C0005615
+6583	6612	GO:0000003	as a result of gene targeting	reproduction	Reproduction	C0035150
+6721	6764	GO:0009790	beyond the earliest stages of embryogenesis	embryo development	Embryonic Development	C0013936
+7137	7160	GO:0007567	removal of the neo gene	parturition	Birth	C0005615
+7137	7160	GO:0000003	removal of the neo gene	reproduction	Reproduction	C0035150
+7287	7318	GO:0007567	targeting of the mouse xpd gene	parturition	Birth	C0005615
+7287	7318	GO:0000003	targeting of the mouse xpd gene	reproduction	Reproduction	C0035150
+7580	7608	GO:0006412	the translational stop codon	protein biosynthesis	Protein Biosynthesis	C0597295
+7626	7653	GO:0043631	the polyadenylation signal.	RNA polyadenylation	Polyadenylation	C0949765
+7686	7732	GO:0000496	the 194-base pair (bp) human xpd cdna fragment	base pairing	Base Pairing	C0600436
+7859	7865	GO:0001524	globin	globin	globin activity	C1149093
+7859	7865	GO:0005344	globin	globin	globin activity	C1149093
+7984	7990	GO:0001524	globin	globin	globin activity	C1149093
+7984	7990	GO:0005344	globin	globin	globin activity	C1149093
+8340	8344	GO:0043863	hpai	4-hydroxy-2-ketopimelate aldolase activity		C2248788
+8439	8486	GO:0009790	xpdxp/wt recombinant embryonic stem cell clones	embryo development	Embryonic Development	C0013936
+8887	8929	GO:0009790	xpcs alleles in embryonic stem cell clones	embryo development	Embryonic Development	C0013936
+9525	9565	GO:0009790	compound heterozygous xpdxp/xpcs embryos	embryo development	Embryonic Development	C0013936
+9609	9620	GO:0032502	development	development	Biologic Development	C0678723
+9640	9644	GO:0009289	hair	pilus	Bacterial Fimbria	C0031921
+10009	10052	GO:0007567	born at the expected mendelian frequencies.	parturition	Birth	C0005615
+10248	10289	GO:0042571	because of a lack of available antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+10369	10409	GO:1902698	only by single amino acid substitutions,	acidogenesis		C3823112
+10369	10409	GO:1902705	only by single amino acid substitutions,	acidogenesis		C3823112
+10369	10409	GO:1902706	only by single amino acid substitutions,	acidogenesis		C3823112
+10369	10409	GO:1902699	only by single amino acid substitutions,	acidogenesis		C3823112
+10693	10718	GO:0009289	the hallmark brittle hair	pilus	Bacterial Fimbria	C0031921
+10908	10918	GO:0042633	hair cycle	hair cycle		C1327461
+10923	10961	GO:0042633	partial hair loss in subsequent cycles	hair cycle		C1327461
+11077	11087	GO:0042633	hair cycle	hair cycle		C1327461
+11130	11187	GO:0009289	scanning electron microscope analysis of xpdttd/xpcs hair	pilus	Bacterial Fimbria	C0031921
+11235	11269	GO:0009289	like features such as broken hairs	pilus	Bacterial Fimbria	C0031921
+11323	11342	GO:1902698	amino acid analysis	acidogenesis		C3823112
+11323	11342	GO:1902705	amino acid analysis	acidogenesis		C3823112
+11323	11342	GO:1902706	amino acid analysis	acidogenesis		C3823112
+11323	11342	GO:1902699	amino acid analysis	acidogenesis		C3823112
+11353	11409	GO:0009289	that cysteine levels in the hair of the xpdttd/xpcs mice	pilus	Bacterial Fimbria	C0031921
+11712	11723	GO:0032502	development	development	Biologic Development	C0678723
+11887	11919	GO:0009289	images of first-round hair loss.	pilus	Bacterial Fimbria	C0031921
+12280	12304	GO:0009289	cysteine content of hair	pilus	Bacterial Fimbria	C0031921
+13019	13023	GO:0005623	cell	cell	Cells	C0007634
+13151	13189	GO:0009289	(causing greasy appearance of the hair	pilus	Bacterial Fimbria	C0031921
+13340	13351	GO:0032502	development	development	Biologic Development	C0678723
+13754	13809	GO:0007568	ageing-related parameters in compound heterozygous mice	aging	Aging	C0001811
+13854	13934	GO:0031214	reduced bone mineral density as an indication of the early onset of osteoporosis	mineralization	Physiologic calcification	C0006660
+14988	15010	GO:0007568	ageing xpdttd/ttd mice	aging	Aging	C0001811
+15065	15098	GO:0031214	reduction of bone mineral density	mineralization	Physiologic calcification	C0006660
+15174	15177	GO:0007601	see	vision	Vision	C0042789
+15267	15332	GO:0031214	quantification of relative bone mineral density of tail vertebrae	mineralization	Physiologic calcification	C0006660
+15923	15927	GO:0005623	cell	cell	Cells	C0007634
+16279	16288	GO:0009289	hair loss	pilus	Bacterial Fimbria	C0031921
+16455	16462	GO:0007568	ageing-	aging	Aging	C0001811
+16904	16908	GO:0005623	cell	cell	Cells	C0007634
+16930	16976	GO:0006281	unscheduled dna synthesis after uv irradiation	DNA repair	DNA Repair	C0012899
+16987	17012	GO:0032774	recovery of rna synthesis	RNA biosynthesis	RNA chemical synthesis	C1623415
+17067	17096	GO:0006289	report on the ner subpathways	nucleotide-excision repair	Nucleotide Excision Repair	C0524550
+17097	17115	GO:0070911	(global genome ner	global genome nucleotide-excision repair		C2753994
+17120	17133	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+17151	17161	GO:0006289	total ner,	nucleotide-excision repair	Nucleotide Excision Repair	C0524550
+17208	17222	GO:0009411	response to UV	response to UV		C1154974
+17516	17520	GO:0005623	cell	cell	Cells	C0007634
+17669	17673	GO:0005623	cell	cell	Cells	C0007634
+17764	17768	GO:0005623	cell	cell	Cells	C0007634
+17804	17808	GO:0005623	cell	cell	Cells	C0007634
+17913	17917	GO:0005623	cell	cell	Cells	C0007634
+17975	17995	GO:0009790	because of embryonic	embryo development	Embryonic Development	C0013936
+18000	18004	GO:0005623	cell	cell	Cells	C0007634
+18190	18194	GO:0005623	cell	cell	Cells	C0007634
+18212	18234	GO:0002524	highly sensitive to uv	hypersensitivity	Hypersensitivity	C0020517
+18251	18255	GO:0005623	cell	cell	Cells	C0007634
+18405	18409	GO:0005623	cell	cell	Cells	C0007634
+18429	18453	GO:0009650	a level of uv resistance	ultraviolet resistance		C1817511
+18561	18579	GO:0006289	on ner subpathways	nucleotide-excision repair	Nucleotide Excision Repair	C0524550
+18602	18606	GO:0005623	cell	cell	Cells	C0007634
+18635	18639	GO:0005623	cell	cell	Cells	C0007634
+18807	18854	GO:0006289	exhibited synergism in an in vitro ner reaction	nucleotide-excision repair	Nucleotide Excision Repair	C0524550
+18951	19013	GO:0002524	consistent with interallelic complementation of uv sensitivity	hypersensitivity	Hypersensitivity	C0020517
+19017	19021	GO:0005623	cell	cell	Cells	C0007634
+19066	19107	GO:0042060	between uv-related repair characteristics	wound healing	Wound Healing	C0043240
+19239	19243	GO:0005623	cell	cell	Cells	C0007634
+19442	19446	GO:0005623	cell	cell	Cells	C0007634
+19615	19619	GO:0005623	cell	cell	Cells	C0007634
+19731	19765	GO:0070911	a measure of global genome repair.	global genome nucleotide-excision repair		C2753994
+19873	19877	GO:0005623	cell	cell	Cells	C0007634
+20064	20128	GO:0006283	a measure of transcription-coupled repair of uv-induced lesions.	transcription-coupled nucleotide-excision repair		C1158557
+20235	20239	GO:0005623	cell	cell	Cells	C0007634
+20368	20400	GO:0006289	in a reconstituted ner reaction.	nucleotide-excision repair	Nucleotide Excision Repair	C0524550
+20525	20534	GO:0016538	cyclin h,	cyclin-dependent protein kinase regulator activity		C1150565
+20605	20609	GO:0005662	rpa,	DNA replication factor A complex location		C1167121
+20614	20654	GO:0006289	a radiolabelled synthetic ner substrate.	nucleotide-excision repair	Nucleotide Excision Repair	C0524550
+21092	21096	GO:0005623	cell	cell	Cells	C0007634
+21245	21249	GO:0005623	cell	cell	Cells	C0007634
+21284	21288	GO:0005623	cell	cell	Cells	C0007634
+21332	21336	GO:0005623	cell	cell	Cells	C0007634
+21377	21381	GO:0005623	cell	cell	Cells	C0007634
+21410	21414	GO:0005623	cell	cell	Cells	C0007634
+21465	21469	GO:0005623	cell	cell	Cells	C0007634
+21503	21507	GO:0005623	cell	cell	Cells	C0007634
+21556	21560	GO:0005623	cell	cell	Cells	C0007634
+21629	21666	GO:0005634	from at least 50 nuclei per cell line	cell nucleus	Cell Nucleus	C0007610
+21719	21723	GO:0005623	cell	cell	Cells	C0007634
+21894	21898	GO:0005623	cell	cell	Cells	C0007634
+22165	22169	GO:0005623	cell	cell	Cells	C0007634
+22648	22683	GO:0007567	in accordance with the gene dosage,	parturition	Birth	C0005615
+22648	22683	GO:0000003	in accordance with the gene dosage,	reproduction	Reproduction	C0035150
+22770	22774	GO:0005623	cell	cell	Cells	C0007634
+22943	22947	GO:0005623	cell	cell	Cells	C0007634
+23034	23038	GO:0005623	cell	cell	Cells	C0007634
+23362	23395	GO:0009289	the ttd hair phenotype to normal.	pilus	Bacterial Fimbria	C0031921
+23430	23459	GO:0009289	a partial ttd hair phenotype,	pilus	Bacterial Fimbria	C0031921
+23543	23551	GO:0009289	wt hair,	pilus	Bacterial Fimbria	C0031921
+23777	23782	GO:0009289	(hair	pilus	Bacterial Fimbria	C0031921
+23917	23921	GO:0005623	cell	cell	Cells	C0007634
+24303	24322	GO:0007567	genetic background.	parturition	Birth	C0005615
+24303	24322	GO:0000003	genetic background.	reproduction	Reproduction	C0035150
+25425	25434	GO:0007601	see below	vision	Vision	C0042789
+25763	25788	GO:0009289	ranging from brittle hair	pilus	Bacterial Fimbria	C0031921
+25822	25835	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+25840	25846	GO:0042060	repair	wound healing	Wound Healing	C0043240
+26005	26018	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+26088	26107	GO:0009790	embryonic lethality	embryo development	Embryonic Development	C0013936
+26112	26136	GO:0048468	terminal differentiation	terminal differentiation		C2752630
+26167	26171	GO:0005623	cell	cell	Cells	C0007634
+26306	26319	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+26411	26430	GO:0009790	embryonic lethality	embryo development	Embryonic Development	C0013936
+26411	26430	GO:0009790	embryonic lethality	embryo development	Embryonic Development	C0013936
+26845	26858	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+26924	26948	GO:0048468	terminal differentiation	terminal differentiation		C2752630
+26958	26969	GO:0009418	hair-shaft,	pilus shaft		C1167055
+26980	26984	GO:0005623	cell	cell	Cells	C0007634
+27267	27297	GO:0009790	leading to embryonic lethality	embryo development	Embryonic Development	C0013936
+27311	27335	GO:0048468	terminal differentiation	terminal differentiation		C2752630
+27349	27354	GO:0009289	hair,	pilus	Bacterial Fimbria	C0031921
+27425	27438	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+27455	27490	GO:0009790	during early embryonic development,	embryo development	Embryonic Development	C0013936
+27554	27587	GO:0040007	later in the ontogenesis of skin,	growth	Growth	C0018270
+27588	27599	GO:0009418	hair-shaft,	pilus shaft		C1167055
+27610	27614	GO:0005623	cell	cell	Cells	C0007634
+27645	27690	GO:0042060	in its role in the repair of uv photolesions,	wound healing	Wound Healing	C0043240
+27926	27930	GO:0005623	cell	cell	Cells	C0007634
+28002	28056	GO:0042060	argues against complementation of this repair activity	wound healing	Wound Healing	C0043240
+28599	28603	GO:0005623	cell	cell	Cells	C0007634
+28694	28706	GO:0006289	ner activity	nucleotide-excision repair	Nucleotide Excision Repair	C0524550
+28801	28834	GO:0006289	at least during the ner reaction.	nucleotide-excision repair	Nucleotide Excision Repair	C0524550
+28878	28883	GO:0005488	bound	binding	Binding 	C1167622
+29120	29138	GO:0090734	site of DNA damage	site of DNA damage		C4329000
+29189	29238	GO:0006283	transcription-coupled repair of either uv-induced	transcription-coupled nucleotide-excision repair		C1158557
+29418	29431	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+29687	29700	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+30681	30715	GO:0009289	intermediate hair cysteine values.	pilus	Bacterial Fimbria	C0031921
+32347	32351	GO:0005623	cell	cell	Cells	C0007634
+32760	32783	GO:0007567	exist for the ctrf gene	parturition	Birth	C0005615
+32760	32783	GO:0000003	exist for the ctrf gene	reproduction	Reproduction	C0035150
+32784	32853	GO:0030849	implicated in the common autosomal recessive disorder cystic fibrosis	autosome	Autosome	C0596142
+33218	33281	GO:0030849	from autosomal recessive disease to normal phenotypic diversity	autosome	Autosome	C0596142
+34028	34055	GO:0009790	mouse embryonic fibroblasts	embryo development	Embryonic Development	C0013936
+34185	34204	GO:1902698	amino acid analysis	acidogenesis		C3823112
+34185	34204	GO:1902705	amino acid analysis	acidogenesis		C3823112
+34185	34204	GO:1902706	amino acid analysis	acidogenesis		C3823112
+34185	34204	GO:1902699	amino acid analysis	acidogenesis		C3823112
+34209	34218	GO:0007610	conducted	behavior	Behavior	C0004927
+34366	34395	GO:0031214	relative bone mineral density	mineralization	Physiologic calcification	C0006660
+34606	34645	GO:0007567	for genetic identification of organisms	parturition	Birth	C0005615
+34606	34645	GO:0000003	for genetic identification of organisms	reproduction	Reproduction	C0035150
+34689	34720	GO:0007610	conducted according to national	behavior	Behavior	C0004927
+34752	34767	GO:0002524	uv sensitivity,	hypersensitivity	Hypersensitivity	C0020517
+35044	35048	GO:0005623	cell	cell	Cells	C0007634
+35130	35134	GO:0005623	cell	cell	Cells	C0007634
+35292	35296	GO:0005623	cell	cell	Cells	C0007634
+35615	35667	GO:0009790	primary mouse embryonic fibroblasts at passages 2-5.	embryo development	Embryonic Development	C0013936
+35680	35684	GO:0005623	cell	cell	Cells	C0007634
+35730	35734	GO:0005623	cell	cell	Cells	C0007634
+35755	35759	GO:0005623	cell	cell	Cells	C0007634
+36921	36935	GO:0000496	bp - base pair	base pairing	Base Pairing	C0600436
+36969	36986	GO:0009790	] - embryonic day	embryo development	Embryonic Development	C0013936
+37012	37044	GO:0006289	ner - nucleotide excision repair	nucleotide-excision repair	Nucleotide Excision Repair	C0524550
+37080	37129	GO:0000988	tfiih - basal transcription/dna repair factor iih	transcription factor activity		C1148759
+37080	37129	GO:0001070	tfiih - basal transcription/dna repair factor iih	transcription factor activity		C1148759
+37080	37129	GO:0001071	tfiih - basal transcription/dna repair factor iih	transcription factor activity		C1148759
+37080	37129	GO:0003700	tfiih - basal transcription/dna repair factor iih	transcription factor activity		C1148759
+37158	37192	GO:0032774	uv-rrs - recovery of rna synthesis	RNA biosynthesis	RNA chemical synthesis	C1623415
+37224	37288	GO:0006281	uv-uds - unscheduled dna synthesis after ultraviolet irradiation	DNA repair	DNA Repair	C0012899
+37696	37700	GO:0005623	cell	cell	Cells	C0007634

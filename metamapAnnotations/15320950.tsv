@@ -1,0 +1,233 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+160	197	GO:0030849	a common autosomal-recessive disorder	autosome	Autosome	C0596142
+411	434	GO:0007567	a complete slc26a4 gene	parturition	Birth	C0005615
+411	434	GO:0000003	a complete slc26a4 gene	reproduction	Reproduction	C0035150
+765	769	GO:0005623	cell	cell	Cells	C0007634
+880	892	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+968	1014	GO:0016324	in apical membranes of spiral prominence cells	apical plasma membrane	Apical plasma membrane	C1167182
+1019	1026	GO:0005819	spindle	spindle	Spindle	C1166795
+1061	1076	GO:0097612	in outer sulcus	dinoflagellate sulcus		C3893558
+1086	1090	GO:0005623	cell	cell	Cells	C0007634
+1317	1321	GO:0005623	cell	cell	Cells	C0007634
+1381	1385	GO:0005623	cell	cell	Cells	C0007634
+1480	1484	GO:0005623	cell	cell	Cells	C0007634
+1523	1527	GO:0005623	cell	cell	Cells	C0007634
+1637	1645	GO:0016020	membrane	membrane	Membrane	C0596901
+1780	1792	GO:0005921	gap junction	gap junction	Gap Junctions	C0206117
+2052	2100	GO:0030849	a relatively common autosomal-recessive disorder	autosome	Autosome	C0596142
+2159	2203	GO:0007567	caused by mutations of the pds gene slc26a4,	parturition	Birth	C0005615
+2159	2203	GO:0000003	caused by mutations of the pds gene slc26a4,	reproduction	Reproduction	C0035150
+2444	2451	GO:0003006	puberty	puberty	Puberty	C0034011
+2573	2589	GO:0015705	iodide transport	iodide transport		C1159596
+2590	2650	GO:0016324	across the apical membrane of thyroid gland epithelial cells	apical plasma membrane	Apical plasma membrane	C1167182
+2822	2831	GO:0015297	exchanger	exchanger		C1621574
+3378	3399	GO:0035003	the endolymphatic sac	subapical complex location		C1325744
+3378	3399	GO:0071173	the endolymphatic sac	spindle assembly checkpoint		C2754376
+3728	3772	GO:0043687	changes in the expression levels of proteins	post-translational protein modification	Post-Translational Protein Processing	C0033666
+3728	3772	GO:0006464	changes in the expression levels of proteins	protein modification process		C2263112
+3728	3772	GO:0036211	changes in the expression levels of proteins	protein modification process		C2263112
+3818	3825	GO:0007605	hearing	hearing	Hearing	C0018767
+3944	4016	GO:0042571	possible due to the generation of a pendrin-specific polyclonal antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+4029	4040	GO:0032502	development	development	Biologic Development	C0678723
+4072	4119	GO:0007567	a targeted disruption of the mouse slc26a4 gene	parturition	Birth	C0005615
+4072	4119	GO:0000003	a targeted disruption of the mouse slc26a4 gene	reproduction	Reproduction	C0035150
+4441	4470	GO:0007567	a functional gene for pendrin	parturition	Birth	C0005615
+4441	4470	GO:0000003	a functional gene for pendrin	reproduction	Reproduction	C0035150
+4662	4666	GO:0005623	cell	cell	Cells	C0007634
+4747	4768	GO:0000785	differ in coat color.	chromatin	chromatin location	C1325550
+4784	4796	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+5893	5926	GO:0042571	with primary antibodies in pbs-tx	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+6247	6255	GO:0005243	connexin	connexin	connexin activity	C2262290
+6346	6399	GO:0042571	at 25 degrees c with appropriate secondary antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+6569	6584	GO:0005884	actin filaments	microfilament	Microfilaments	C0025979
+6613	6649	GO:0000746	with alexa 488 conjugated phalloidin	conjugation		C1160466
+7009	7021	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+7737	7746	GO:0007586	digestion	digestion	Digestion	C0012238
+8347	8368	GO:0007567	gene-specific primers	parturition	Birth	C0005615
+8347	8368	GO:0000003	gene-specific primers	reproduction	Reproduction	C0035150
+9366	9412	GO:0051320	s) of the log-linear phase of the growth curve	S phase	S Phase	C0080129
+10438	10484	GO:0002524	the signals from the phase-sensitive detectors	hypersensitivity	Hypersensitivity	C0020517
+10904	10912	GO:0016020	membrane	membrane	Membrane	C0596901
+11916	11920	GO:0005623	cell	cell	Cells	C0007634
+11976	12018	GO:0097612	on the lateral wall of the external sulcus	dinoflagellate sulcus		C3893558
+12202	12225	GO:0042571	an established antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+12256	12276	GO:0042571	the primary antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+12281	12320	GO:0003904	pre-absorbed with the antigenic peptide	photoreactivating enzyme activity		C2257086
+12381	12423	GO:0097612	not only in outer sulcus epithelial cells,	dinoflagellate sulcus		C3893558
+12487	12491	GO:0005623	cell	cell	Cells	C0007634
+12494	12559	GO:0016324	in apical membranes of spiral prominence surface epithelial cells	apical plasma membrane	Apical plasma membrane	C1167182
+12560	12607	GO:0016324	and in apical membranes of spindle-shaped cells	apical plasma membrane	Apical plasma membrane	C1167182
+12686	12693	GO:0005819	spindle	spindle	Spindle	C1166795
+12727	12731	GO:0005623	cell	cell	Cells	C0007634
+12733	12740	GO:0032940	secrete	secretion by cell	Cell secretion	C1327616
+12944	12948	GO:0005623	cell	cell	Cells	C0007634
+13029	13033	GO:0005623	cell	cell	Cells	C0007634
+13290	13310	GO:0008104	protein localization	protein localization	protein localization location	C0597704
+13290	13322	GO:0006886	protein localization of pendrin,	intracellular protein transport		C1159772
+13339	13357	GO:0031941	f actin in cochlea	F-actin	filamentous actin location	C1622186
+13598	13606	GO:0016020	membrane	membrane	Membrane	C0596901
+13612	13619	GO:0005819	spindle	spindle	Spindle	C1166795
+13634	13638	GO:0016029	smc,	subrhabdomeral cisterna		C1167267
+13655	13659	GO:0005623	cell	cell	Cells	C0007634
+13735	13739	GO:0005623	cell	cell	Cells	C0007634
+13775	13779	GO:0005623	cell	cell	Cells	C0007634
+13780	13785	GO:0046809	; rc,	replication compartment		C1167159
+13791	13795	GO:0005623	cell	cell	Cells	C0007634
+13802	13831	GO:0097612	outer sulcus epithelial cells	dinoflagellate sulcus		C3893558
+13838	13859	GO:0009289	vestibular hair cells	pilus	Bacterial Fimbria	C0031921
+13859	13865	GO:0005793	; vtc,	endoplasmic reticulum-Golgi intermediate compartment		C2611786
+13890	13894	GO:0005623	cell	cell	Cells	C0007634
+13918	13922	GO:0005623	cell	cell	Cells	C0007634
+13939	13943	GO:0005623	cell	cell	Cells	C0007634
+13992	14038	GO:0005911	tight junctions with surface epithelial cells.	intercellular junction	Intercellular Junctions	C0021721
+14094	14098	GO:0005623	cell	cell	Cells	C0007634
+14205	14209	GO:0005623	cell	cell	Cells	C0007634
+14222	14246	GO:0005923	a tight junction protein	zonula occludens	Tight Junctions	C0242358
+14265	14269	GO:0005623	cell	cell	Cells	C0007634
+14398	14405	GO:0005819	spindle	spindle	Spindle	C1166795
+14430	14474	GO:0009986	surface epithelial cells in stria vascularis	cell surface	Cell surface	C0699040
+14503	14507	GO:0005623	cell	cell	Cells	C0007634
+14571	14579	GO:0016020	membrane	membrane	Membrane	C0596901
+14673	14703	GO:0007600	expressed in non-sensory cells	sensory perception	Esthesia	C0036658
+14814	14869	GO:0016324	in the apical membrane of vestibular transitional cells	apical plasma membrane	Apical plasma membrane	C1167182
+14989	15029	GO:0009986	limited to vestibular transitional cells	cell surface	Cell surface	C0699040
+15042	15075	GO:0007600	extend to other non-sensory cells	sensory perception	Esthesia	C0036658
+15100	15104	GO:0005623	cell	cell	Cells	C0007634
+15190	15198	GO:0016020	membrane	membrane	Membrane	C0596901
+15234	15275	GO:0048839	during development of the mouse inner ear	inner ear development		C1820264
+15302	15323	GO:0009790	embryonic day (ed) 13	embryo development	Embryonic Development	C0013936
+15445	15454	GO:0009790	as ed 15,	embryo development	Embryonic Development	C0013936
+15575	15608	GO:0007600	sensory hair cells in the cochlea	sensory perception	Esthesia	C0036658
+15771	15805	GO:0007600	the survival of sensory hair cells	sensory perception	Esthesia	C0036658
+15911	15942	GO:0070451	critical for hair cell survival	cell hair		C2678510
+16133	16140	GO:0007605	hearing	hearing	Hearing	C0018767
+16859	16885	GO:0070451	degeneration of hair cells	cell hair		C2678510
+16996	17008	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+17129	17150	GO:0097683	perilymph at the apex	dinoflagellate apex		C3890171
+17248	17260	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+17361	17368	GO:0042603	capsule	capsule	Microbial anatomical capsule structure	C1325531
+17577	17589	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+17590	17615	GO:0007601	based on optical density.	vision	Vision	C0042789
+17765	17769	GO:0005623	cell	cell	Cells	C0007634
+17847	17851	GO:0005623	cell	cell	Cells	C0007634
+17888	17892	GO:0005623	cell	cell	Cells	C0007634
+17915	17927	GO:0005921	gap junction	gap junction	Gap Junctions	C0206117
+17944	17948	GO:0005623	cell	cell	Cells	C0007634
+18267	18271	GO:0005623	cell	cell	Cells	C0007634
+18335	18339	GO:0005623	cell	cell	Cells	C0007634
+18420	18424	GO:0005623	cell	cell	Cells	C0007634
+18471	18483	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+18485	18497	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+18593	18597	GO:0005623	cell	cell	Cells	C0007634
+18627	18639	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+19561	19570	GO:0007601	see below	vision	Vision	C0042789
+19939	19943	GO:0005623	cell	cell	Cells	C0007634
+20038	20042	GO:0005623	cell	cell	Cells	C0007634
+20480	20503	GO:0034023	78% pure, respectively.	5	carboxyamino	C2247561
+21576	21580	GO:0005623	cell	cell	Cells	C0007634
+21955	21975	GO:0008104	protein localization	protein localization	protein localization location	C0597704
+21955	21985	GO:0006886	protein localization of kcnj10	intracellular protein transport		C1159772
+22156	22164	GO:0016020	membrane	membrane	Membrane	C0596901
+22360	22364	GO:0005623	cell	cell	Cells	C0007634
+22382	22390	GO:0016020	membrane	membrane	Membrane	C0596901
+22579	22622	GO:0006900	with a large bulging of reissner's membrane	membrane budding		C1749557
+22841	22844	GO:0007601	see	vision	Vision	C0042789
+22942	22946	GO:0005623	cell	cell	Cells	C0007634
+23382	23385	GO:0007601	see	vision	Vision	C0042789
+23490	23502	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+23507	23568	GO:0005911	an irregular pattern of the tight junctions of marginal cells	intercellular junction	Intercellular Junctions	C0021721
+23535	23550	GO:0005923	tight junctions	zonula occludens	Tight Junctions	C0242358
+23620	23627	GO:0031941	F-actin	F-actin	filamentous actin location	C1622186
+23649	23653	GO:0005623	cell	cell	Cells	C0007634
+23906	23953	GO:0009986	perpendicular to the surface of marginal cells.	cell surface	Cell surface	C0699040
+24061	24092	GO:0097612	the surface of the outer sulcus	dinoflagellate sulcus		C3893558
+24446	24453	GO:0050975	touches	tactile sense	Touch sensation	C0702221
+24454	24470	GO:0097612	the inner sulcus	dinoflagellate sulcus		C3893558
+24697	24701	GO:0005623	cell	cell	Cells	C0007634
+24734	24749	GO:0005923	tight junctions	zonula occludens	Tight Junctions	C0242358
+24755	24777	GO:0031941	visualized by f actin.	F-actin	filamentous actin location	C1622186
+24845	24849	GO:0005623	cell	cell	Cells	C0007634
+24882	24886	GO:0005623	cell	cell	Cells	C0007634
+25017	25054	GO:0031941	mixed with images of f actin staining	F-actin	filamentous actin location	C1622186
+25083	25098	GO:0048770	pigment granule	pigment granule		C1820200
+25167	25171	GO:0005623	cell	cell	Cells	C0007634
+25180	25185	GO:0016029	(smc,	subrhabdomeral cisterna		C1167267
+25212	25216	GO:0005623	cell	cell	Cells	C0007634
+25262	25266	GO:0005623	cell	cell	Cells	C0007634
+25287	25291	GO:0005623	cell	cell	Cells	C0007634
+25367	25379	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+25442	25454	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+25514	25518	GO:0005623	cell	cell	Cells	C0007634
+25542	25546	GO:0005623	cell	cell	Cells	C0007634
+25692	25696	GO:0005623	cell	cell	Cells	C0007634
+25741	25756	GO:0005923	tight junctions	zonula occludens	Tight Junctions	C0242358
+25762	25783	GO:0031941	visualized by f actin	F-actin	filamentous actin location	C1622186
+25864	25876	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+25916	25920	GO:0005623	cell	cell	Cells	C0007634
+25935	25939	GO:0005623	cell	cell	Cells	C0007634
+25981	25993	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+26032	26053	GO:0031941	f actin localization.	F-actin	filamentous actin location	C1622186
+26142	26146	GO:0005623	cell	cell	Cells	C0007634
+26179	26183	GO:0005623	cell	cell	Cells	C0007634
+26331	26335	GO:0005623	cell	cell	Cells	C0007634
+26344	26349	GO:0016029	(smc,	subrhabdomeral cisterna		C1167267
+26374	26378	GO:0005623	cell	cell	Cells	C0007634
+26419	26423	GO:0005623	cell	cell	Cells	C0007634
+26445	26449	GO:0005623	cell	cell	Cells	C0007634
+26511	26523	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+26582	26586	GO:0005623	cell	cell	Cells	C0007634
+26608	26612	GO:0005623	cell	cell	Cells	C0007634
+26727	26802	GO:0009986	pendrin-expressing surface epithelial cells in the spiral prominence region	cell surface	Cell surface	C0699040
+26838	26842	GO:0005623	cell	cell	Cells	C0007634
+26855	26889	GO:0005923	interconnected by tight junctions,	zonula occludens	Tight Junctions	C0242358
+26895	26951	GO:0005911	additional tight junctions with surface epithelial cells	intercellular junction	Intercellular Junctions	C0021721
+27196	27203	GO:0031941	F-actin	F-actin	filamentous actin location	C1622186
+27211	27251	GO:0005923	associate with tight junction complexes.	zonula occludens	Tight Junctions	C0242358
+27261	27268	GO:0031941	F-actin	F-actin	filamentous actin location	C1622186
+27317	27321	GO:0005623	cell	cell	Cells	C0007634
+27334	27359	GO:0005911	a junction of basal cells	intercellular junction	Intercellular Junctions	C0021721
+27360	27409	GO:0009986	with surface epithelial cells in slc26a4-/- mice,	cell surface	Cell surface	C0699040
+27591	27595	GO:0005623	cell	cell	Cells	C0007634
+27751	27758	GO:0032940	secrete	secretion by cell	Cell secretion	C1327616
+27950	27992	GO:0007600	the reduced numbers of sensory hair cells,	sensory perception	Esthesia	C0036658
+28129	28137	GO:0032940	secretes	secretion by cell	Cell secretion	C1327616
+28154	28228	GO:0002524	the magnitude of the bumetanide-sensitive current exiting stria vascularis	hypersensitivity	Hypersensitivity	C0020517
+28229	28280	GO:0016324	across the apical membrane of strial marginal cells	apical plasma membrane	Apical plasma membrane	C1167182
+28501	28532	GO:0002524	sensitive to 10-5 m bumetanide,	hypersensitivity	Hypersensitivity	C0020517
+28607	28636	GO:0002524	bumetanide-sensitive currents	hypersensitivity	Hypersensitivity	C0020517
+28845	28882	GO:0032940	subunits of the secretory k+ channel,	secretion by cell	Cell secretion	C1327616
+28888	28948	GO:0016324	co-localized in the apical membrane of strial marginal cells	apical plasma membrane	Apical plasma membrane	C1167182
+28998	29059	GO:0016323	located in the basolateral membrane of strial marginal cells,	basolateral plasma membrane	Basolateral plasma membrane	C1167208
+29099	29111	GO:0005921	gap junction	gap junction	Gap Junctions	C0206117
+29198	29222	GO:0051179	co-localization of kcnq1	establishment and maintenance of localization		C1744691
+29279	29283	GO:0005623	cell	cell	Cells	C0007634
+29581	29585	GO:0005623	cell	cell	Cells	C0007634
+29606	29618	GO:0005921	gap junction	gap junction	Gap Junctions	C0206117
+29651	29671	GO:0008104	protein localization	protein localization	protein localization location	C0597704
+29651	29681	GO:0006886	protein localization of kcnq1,	intracellular protein transport		C1159772
+29789	29793	GO:0016029	smc,	subrhabdomeral cisterna		C1167267
+29810	29814	GO:0005623	cell	cell	Cells	C0007634
+29849	29853	GO:0005623	cell	cell	Cells	C0007634
+30201	30205	GO:0005623	cell	cell	Cells	C0007634
+30260	30292	GO:0098754	and by detoxifying free radicals	detoxification	Metabolic Detoxication, Drug	C0025516
+30363	30375	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+30427	30431	GO:0005623	cell	cell	Cells	C0007634
+30447	30451	GO:0005623	cell	cell	Cells	C0007634
+30528	30536	GO:0098754	detoxify	detoxification	Metabolic Detoxication, Drug	C0025516
+30613	30617	GO:0005623	cell	cell	Cells	C0007634
+30644	30659	GO:0043473	melanin pigment	pigmentation	Pigmentation	C0031911
+30719	30726	GO:0032940	secrete	secretion by cell	Cell secretion	C1327616
+30841	30854	GO:0005576	extracellular	extracellular	Extracellular	C0521119
+30924	30946	GO:0098657	the uptake of cysteine	import into cell	Import into cell	C3888108
+31301	31308	GO:0005829	cytosol	cytosol	Cytoplasmic matrix	C1383501
+31427	31431	GO:0005623	cell	cell	Cells	C0007634
+31518	31525	GO:0005829	cytosol	cytosol	Cytoplasmic matrix	C1383501
+31563	31594	GO:0044237	the metabolic state of the cell	cellular metabolic process	Metabolic Process, Cellular	C1524026
+31661	31665	GO:0005623	cell	cell	Cells	C0007634
+32638	32642	GO:0005623	cell	cell	Cells	C0007634
+32689	32719	GO:0042571	the pendrin-specific antibody.	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+32830	32853	GO:0003904	pre-publication history	photoreactivating enzyme activity		C2257086
+32855	32897	GO:0003904	the pre-publication history for this paper	photoreactivating enzyme activity		C2257086
+33039	33054	GO:0019013	core facilities	nucleocapsid	viral nucleocapsid location	C1167518
+33113	33129	GO:0019013	microscopy core,	nucleocapsid	viral nucleocapsid location	C1167518
+33130	33152	GO:0019013	molecular biology core	nucleocapsid	viral nucleocapsid location	C1167518

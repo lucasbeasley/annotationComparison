@@ -1,0 +1,198 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+0	18	GO:0007567	genetic background	parturition	Birth	C0005615
+0	18	GO:0000003	genetic background	reproduction	Reproduction	C0035150
+42	52	GO:0007599	hemostasis	hemostasis	Hemostatic function	C0019116
+355	373	GO:0001974	vessel remodeling.	blood vessel remodeling		C1622383
+401	434	GO:0007567	these diverse genetic backgrounds	parturition	Birth	C0005615
+401	434	GO:0000003	these diverse genetic backgrounds	reproduction	Reproduction	C0035150
+487	497	GO:0007599	hemostasis	hemostasis	Hemostatic function	C0019116
+558	568	GO:0007599	hemostasis	hemostasis	Hemostatic function	C0019116
+642	652	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+763	773	GO:0007599	hemostasis	hemostasis	Hemostatic function	C0019116
+999	1009	GO:0007599	hemostasis	hemostasis	Hemostatic function	C0019116
+1090	1100	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+1127	1137	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+1457	1474	GO:0007596	coagulation times	blood coagulation	Blood coagulation	C0005778
+1457	1474	GO:0050817	coagulation times	clotting	Coagulation process	C1328723
+1579	1589	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+1756	1766	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+1842	1852	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+2068	2079	GO:0007599	haemostasis	hemostasis	Hemostatic function	C0019116
+2137	2147	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+2363	2394	GO:0007567	the diverse genetic backgrounds	parturition	Birth	C0005615
+2363	2394	GO:0000003	the diverse genetic backgrounds	reproduction	Reproduction	C0035150
+2498	2574	GO:0007567	the potential for identifying novel genetic determinants of thrombotic risk.	parturition	Birth	C0005615
+2498	2574	GO:0000003	the potential for identifying novel genetic determinants of thrombotic risk.	reproduction	Reproduction	C0035150
+2677	2706	GO:0007567	a number of genetic mutations	parturition	Birth	C0005615
+2677	2706	GO:0000003	a number of genetic mutations	reproduction	Reproduction	C0035150
+2804	2858	GO:0009058	thrombus formation on fissured atherosclerotic plaques	anabolism	Anabolism	C0220781
+3110	3140	GO:0007567	influenced by multiple genetic	parturition	Birth	C0005615
+3110	3140	GO:0000003	influenced by multiple genetic	reproduction	Reproduction	C0035150
+3192	3225	GO:0007596	mutations in coagulation factors,	blood coagulation	Blood coagulation	C0005778
+3192	3225	GO:0050817	mutations in coagulation factors,	clotting	Coagulation process	C1328723
+3382	3434	GO:0007567	implicated as genetic determinants of susceptibility	parturition	Birth	C0005615
+3382	3434	GO:0000003	implicated as genetic determinants of susceptibility	reproduction	Reproduction	C0035150
+3662	3699	GO:0007567	and as yet undefined, genetic factors	parturition	Birth	C0005615
+3662	3699	GO:0000003	and as yet undefined, genetic factors	reproduction	Reproduction	C0035150
+3751	3781	GO:0007567	unclear how genetic background	parturition	Birth	C0005615
+3751	3781	GO:0000003	unclear how genetic background	reproduction	Reproduction	C0035150
+3793	3818	GO:0003674	the function of molecules	molecular_function		C1148560
+3850	3868	GO:0009058	thrombus formation	anabolism	Anabolism	C0220781
+3873	3878	GO:0019835	lysis	cytolysis	pathologic cytolysis	C1536403
+4376	4393	GO:0001974	vessel remodeling	blood vessel remodeling		C1622383
+4558	4572	GO:0009058	clot formation	anabolism	Anabolism	C0220781
+4577	4583	GO:0019835	lysis,	cytolysis	pathologic cytolysis	C1536403
+4632	4652	GO:0070527	platelet aggregation	platelet aggregation	Platelet aggregation	C0032176
+4654	4666	GO:0007596	coagulation,	blood coagulation	Blood coagulation	C0005778
+4654	4666	GO:0050817	coagulation,	clotting	Coagulation process	C1328723
+4937	4947	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+5237	5247	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+5418	5433	GO:0007567	genetic markers	parturition	Birth	C0005615
+5418	5433	GO:0000003	genetic markers	reproduction	Reproduction	C0035150
+5515	5525	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+5550	5560	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+5647	5655	GO:0005694	more css	chromosome	Chromosomes	C0008633
+5706	5716	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+5904	5932	GO:0005694	initial screens with the css	chromosome	Chromosomes	C0008633
+5967	6001	GO:0005694	several studies of this css panel,	chromosome	Chromosomes	C0008633
+6046	6054	GO:0007610	behavior	behavior	Behavior	C0004927
+6097	6122	GO:1902698	plasma amino acids levels	acidogenesis		C3823112
+6097	6122	GO:1902705	plasma amino acids levels	acidogenesis		C3823112
+6097	6122	GO:1902706	plasma amino acids levels	acidogenesis		C3823112
+6097	6122	GO:1902699	plasma amino acids levels	acidogenesis		C3823112
+6398	6421	GO:0007596	measures of coagulation	blood coagulation	Blood coagulation	C0005778
+6398	6421	GO:0050817	measures of coagulation	clotting	Coagulation process	C1328723
+6426	6438	GO:0042730	fibrinolysis	fibrinolysis	Fibrinolysis	C0016017
+6560	6584	GO:0007596	unrelated to coagulation	blood coagulation	Blood coagulation	C0005778
+6560	6584	GO:0050817	unrelated to coagulation	clotting	Coagulation process	C1328723
+6588	6608	GO:0070527	platelet aggregation	platelet aggregation	Platelet aggregation	C0032176
+6844	6894	GO:0007567	independent genetic determinants of susceptibility	parturition	Birth	C0005615
+6844	6894	GO:0000003	independent genetic determinants of susceptibility	reproduction	Reproduction	C0035150
+6895	6922	GO:0007599	to pathological haemostasis	hemostasis	Hemostatic function	C0019116
+7024	7090	GO:0007567	gene-targeted plasminogen (plg) activator inhibitor deficient mice	parturition	Birth	C0005615
+7024	7090	GO:0000003	gene-targeted plasminogen (plg) activator inhibitor deficient mice	reproduction	Reproduction	C0035150
+8311	8354	GO:0009058	thrombosis formation in the carotid artery,	anabolism	Anabolism	C0220781
+8495	8502	GO:0031430	midline	midline	midline cell component	C1660780
+9890	9902	GO:0007596	coagulation,	blood coagulation	Blood coagulation	C0005778
+9890	9902	GO:0050817	coagulation,	clotting	Coagulation process	C1328723
+9928	9939	GO:0005577	fibrinogen,	fibrinogen complex location		C1167394
+10243	10295	GO:0007596	inserted into the precalibrated coagulation analyzer	blood coagulation	Blood coagulation	C0005778
+10243	10295	GO:0050817	inserted into the precalibrated coagulation analyzer	clotting	Coagulation process	C1328723
+10506	10529	GO:0042571	as the capture antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+10679	10711	GO:0005577	determined by fibrin degradation	fibrinogen complex location		C1167394
+10904	10935	GO:0042571	detection with a mouse antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+10981	11011	GO:0005577	fibrinogen with an elisa assay	fibrinogen complex location		C1167394
+11012	11027	GO:0042571	with antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+11043	11059	GO:0005577	mouse fibrinogen	fibrinogen complex location		C1167394
+12122	12125	GO:0007601	see	vision	Vision	C0042789
+12237	12286	GO:0009058	marked differences in arterial thrombus formation	anabolism	Anabolism	C0220781
+14254	14290	GO:0007599	an indicator of hemostatic activity,	hemostasis	Hemostatic function	C0019116
+14743	14753	GO:0007599	hemostasis	hemostasis	Hemostatic function	C0019116
+14853	14873	GO:0070527	platelet aggregation	platelet aggregation	Platelet aggregation	C0032176
+14913	14935	GO:0070527	for platelet function.	platelet aggregation	Platelet aggregation	C0032176
+15404	15424	GO:0070527	platelet aggregation	platelet aggregation	Platelet aggregation	C0032176
+16900	16949	GO:0050789	differences in the regulation of the plg network.	regulation of biological process	Regulation of biological process	C1327622
+16968	16985	GO:0007596	blood coagulation	blood coagulation	Blood coagulation	C0005778
+17027	17053	GO:0007596	differences in coagulation	blood coagulation	Blood coagulation	C0005778
+17027	17053	GO:0050817	differences in coagulation	clotting	Coagulation process	C1328723
+17212	17262	GO:0007596	a measurement of the extrinsic coagulation pathway	blood coagulation	Blood coagulation	C0005778
+17212	17262	GO:0050817	a measurement of the extrinsic coagulation pathway	clotting	Coagulation process	C1328723
+17360	17387	GO:0002542	(activation of factors xii,	Factor XII activation		C1817995
+17525	17547	GO:0005577	fibrin clot formation.	fibrinogen complex location		C1167394
+17695	17718	GO:0007596	the coagulation pathway	blood coagulation	Blood coagulation	C0005778
+17695	17718	GO:0050817	the coagulation pathway	clotting	Coagulation process	C1328723
+17699	17710	GO:0007596	coagulation	blood coagulation	Blood coagulation	C0005778
+17699	17710	GO:0050817	coagulation	clotting	Coagulation process	C1328723
+18246	18256	GO:0005577	fibrinogen	fibrinogen complex location		C1167394
+18321	18353	GO:0043687	protein structure changes of plg	post-translational protein modification	Post-Translational Protein Processing	C0033666
+18321	18353	GO:0006464	protein structure changes of plg	protein modification process		C2263112
+18321	18353	GO:0036211	protein structure changes of plg	protein modification process		C2263112
+19544	19571	GO:0009289	observed in hair follicles,	pilus	Bacterial Fimbria	C0031921
+19760	19836	GO:0030220	the major platelet adhesive substratum for initiation of thrombus formation.	platelet formation		C1159962
+20448	20462	GO:0000785	the blue color	chromatin	chromatin location	C1325550
+20877	20887	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+20988	20998	GO:0007599	hemostasis	hemostasis	Hemostatic function	C0019116
+22984	22994	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+23122	23132	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+23422	23432	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+23821	23831	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+24021	24031	GO:0005577	fibrinogen	fibrinogen complex location		C1167394
+24449	24452	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+25710	25720	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+26034	26065	GO:0009058	for arterial thrombus formation	anabolism	Anabolism	C0220781
+26736	26765	GO:0007567	that interaction of the genes	parturition	Birth	C0005615
+26736	26765	GO:0000003	that interaction of the genes	reproduction	Reproduction	C0035150
+26769	26779	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+27017	27027	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+27574	27592	GO:0001974	vessel remodeling.	blood vessel remodeling		C1622383
+27777	27819	GO:0007567	from gene targeted mice of the plg network	parturition	Birth	C0005615
+27777	27819	GO:0000003	from gene targeted mice of the plg network	reproduction	Reproduction	C0035150
+27893	27926	GO:0070527	with a reduced platelet function.	platelet aggregation	Platelet aggregation	C0032176
+28087	28101	GO:0007596	in coagulation	blood coagulation	Blood coagulation	C0005778
+28087	28101	GO:0050817	in coagulation	clotting	Coagulation process	C1328723
+28105	28123	GO:0070527	platelet function.	platelet aggregation	Platelet aggregation	C0032176
+28159	28169	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+28171	28190	GO:0007567	that harbored genes	parturition	Birth	C0005615
+28171	28190	GO:0000003	that harbored genes	reproduction	Reproduction	C0035150
+28285	28295	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+28334	28344	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+28630	28640	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+28630	28653	GO:0005694	for two of chromosomes,	chromosome	Chromosomes	C0008633
+28907	28914	GO:0007567	genetic	parturition	Birth	C0005615
+28907	28914	GO:0000003	genetic	reproduction	Reproduction	C0035150
+29092	29110	GO:0009058	thrombus formation	anabolism	Anabolism	C0220781
+29824	29856	GO:0070527	with impaired platelet function,	platelet aggregation	Platelet aggregation	C0032176
+29861	29877	GO:0007596	coagulation time	blood coagulation	Blood coagulation	C0005778
+29861	29877	GO:0050817	coagulation time	clotting	Coagulation process	C1328723
+29965	29988	GO:0009058	thrombus formation time	anabolism	Anabolism	C0220781
+30086	30102	GO:0004283	plasmin activity	plasmin activity		C1150268
+30115	30138	GO:0019835	the rate of clot lysis,	cytolysis	pathologic cytolysis	C1536403
+30163	30203	GO:0009058	leading to occlusive thrombus formation.	anabolism	Anabolism	C0220781
+30336	30365	GO:0007596	coagulation proteins in mice.	blood coagulation	Blood coagulation	C0005778
+30336	30365	GO:0050817	coagulation proteins in mice.	clotting	Coagulation process	C1328723
+30529	30592	GO:0007567	] evaluated mice with gene deletions of the coagulation pathway	parturition	Birth	C0005615
+30804	30846	GO:0002524	a sensitive reporter of genetic influences	hypersensitivity	Hypersensitivity	C0020517
+30847	30868	GO:0009058	on thrombus formation	anabolism	Anabolism	C0220781
+30919	30957	GO:0070527	required for normal platelet function,	platelet aggregation	Platelet aggregation	C0032176
+31099	31119	GO:0070527	platelet aggregation	platelet aggregation	Platelet aggregation	C0032176
+31308	31334	GO:0009058	normal thrombus formation.	anabolism	Anabolism	C0220781
+31427	31465	GO:0007567	genetic factors other than coagulation	parturition	Birth	C0005615
+33370	33392	GO:0032963	metabolism of collagen	collagen metabolic process		C2246342
+33396	33416	GO:0031012	extracellular matrix	extracellular matrix	Extracellular Matrix	C0015350
+33548	33566	GO:0007567	the genes for plg,	parturition	Birth	C0005615
+33548	33566	GO:0000003	the genes for plg,	reproduction	Reproduction	C0035150
+33617	33627	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+34064	34103	GO:0007567	two allelic forms of the mouse plg gene	parturition	Birth	C0005615
+34064	34103	GO:0000003	two allelic forms of the mouse plg gene	reproduction	Reproduction	C0035150
+34448	34458	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+34476	34488	GO:0007567	the plg gene	parturition	Birth	C0005615
+34476	34488	GO:0000003	the plg gene	reproduction	Reproduction	C0035150
+34665	34690	GO:0007567	genes for other proteases	parturition	Birth	C0005615
+34665	34690	GO:0000003	genes for other proteases	reproduction	Reproduction	C0035150
+34726	34736	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+34740	34769	GO:0007567	in addition to unknown genes.	parturition	Birth	C0005615
+34740	34769	GO:0000003	in addition to unknown genes.	reproduction	Reproduction	C0035150
+34770	34816	GO:0000496	dna base pair sequence data for the pai-1 gene	base pairing	Base Pairing	C0600436
+34820	34853	GO:0007567	the alpha2-antiplasmin gene in b6	parturition	Birth	C0005615
+34820	34853	GO:0000003	the alpha2-antiplasmin gene in b6	reproduction	Reproduction	C0035150
+34906	34952	GO:0007567	regulatory genes upstream of the coding region	parturition	Birth	C0005615
+34906	34952	GO:0000003	regulatory genes upstream of the coding region	reproduction	Reproduction	C0035150
+35005	35018	GO:0007567	unknown genes	parturition	Birth	C0005615
+35005	35018	GO:0000003	unknown genes	reproduction	Reproduction	C0035150
+35183	35249	GO:0009058	in arterial thrombosis formation in a fecl3 vascular injury model,	anabolism	Anabolism	C0220781
+35363	35373	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+35439	35448	GO:0007567	the genes	parturition	Birth	C0005615
+35439	35448	GO:0000003	the genes	reproduction	Reproduction	C0035150
+35648	35682	GO:0007567	genetic determinants of thrombosis	parturition	Birth	C0005615
+35648	35682	GO:0000003	genetic determinants of thrombosis	reproduction	Reproduction	C0035150
+35687	35699	GO:0007599	haemostasis.	hemostasis	Hemostatic function	C0019116
+35755	35768	GO:0007567	unknown genes	parturition	Birth	C0005615
+35755	35768	GO:0000003	unknown genes	reproduction	Reproduction	C0035150
+35793	35802	GO:0007567	the genes	parturition	Birth	C0005615
+35793	35802	GO:0000003	the genes	reproduction	Reproduction	C0035150
+35898	35918	GO:0031012	extracellular matrix	extracellular matrix	Extracellular Matrix	C0015350
+36056	36117	GO:0007567	the discovery of new genetic determinants of thrombotic risk.	parturition	Birth	C0005615
+36056	36117	GO:0000003	the discovery of new genetic determinants of thrombotic risk.	reproduction	Reproduction	C0035150
+36155	36165	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+37217	37240	GO:0003904	pre-publication history	photoreactivating enzyme activity		C2257086
+37242	37284	GO:0003904	the pre-publication history for this paper	photoreactivating enzyme activity		C2257086

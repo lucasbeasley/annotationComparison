@@ -1,0 +1,537 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+115	119	GO:0005623	cell	cell	Cells	C0007634
+366	399	GO:0000988	ets family transcription factors.	transcription factor activity		C1148759
+366	399	GO:0001070	ets family transcription factors.	transcription factor activity		C1148759
+366	399	GO:0001071	ets family transcription factors.	transcription factor activity		C1148759
+366	399	GO:0003700	ets family transcription factors.	transcription factor activity		C1148759
+752	794	GO:0008594	the mechanism of photoreceptor development	photoreceptor cell morphogenesis		C1326034
+996	1032	GO:0016569	involved in chromatin modifications.	covalent chromatin modification		C1156198
+1121	1136	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+1279	1303	GO:0048468	terminal differentiation	terminal differentiation		C2752630
+1336	1349	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+1370	1420	GO:0020010	regulated by the cone-rod homeodomain protein crx.	conoid		C1166649
+1582	1604	GO:0005634	mainly in the nucleus,	cell nucleus	Cell Nucleus	C0007610
+1643	1647	GO:0005623	cell	cell	Cells	C0007634
+1713	1745	GO:0003677	fused to gal4 dna-binding domain	DNA binding	dna binding	C1148673
+1761	1774	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+1956	1969	GO:0007567	a novel gene,	parturition	Birth	C0005615
+1956	1969	GO:0000003	a novel gene,	reproduction	Reproduction	C0035150
+2150	2163	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+2193	2197	GO:0005623	cell	cell	Cells	C0007634
+2260	2271	GO:0032502	development	development	Biologic Development	C0678723
+2316	2320	GO:0005623	cell	cell	Cells	C0007634
+2386	2390	GO:0005623	cell	cell	Cells	C0007634
+2405	2409	GO:0005623	cell	cell	Cells	C0007634
+2460	2464	GO:0005623	cell	cell	Cells	C0007634
+2547	2553	GO:0020010	cones.	conoid		C1166649
+2591	2596	GO:0020010	cones	conoid		C1166649
+2630	2659	GO:0000785	responsible for color vision.	chromatin	chromatin location	C1325550
+2660	2677	GO:0007602	phototransduction	phototransduction	Light Signal Transduction	C0376451
+2821	2848	GO:0005488	bound by the opsin proteins	binding	Binding 	C1167622
+2872	2893	GO:0020010	cone opsins in cones.	conoid		C1166649
+2922	2939	GO:0007602	phototransduction	phototransduction	Light Signal Transduction	C0376451
+2991	3012	GO:0016020	membranous structure,	membrane	Membrane	C0596901
+3138	3160	GO:0007567	genetic perturbations.	parturition	Birth	C0005615
+3138	3160	GO:0000003	genetic perturbations.	reproduction	Reproduction	C0035150
+3210	3214	GO:0005623	cell	cell	Cells	C0007634
+3228	3239	GO:0032502	development	development	Biologic Development	C0678723
+3306	3337	GO:0007567	peaks around the time of birth.	parturition	Birth	C0005615
+3338	3358	GO:0020010	cone photoreceptors,	conoid		C1166649
+3368	3372	GO:0005623	cell	cell	Cells	C0007634
+3386	3390	GO:0005623	cell	cell	Cells	C0007634
+3405	3409	GO:0005623	cell	cell	Cells	C0007634
+3464	3468	GO:0005623	cell	cell	Cells	C0007634
+3520	3524	GO:0005623	cell	cell	Cells	C0007634
+3627	3631	GO:0005623	cell	cell	Cells	C0007634
+3649	3662	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+3666	3689	GO:0016569	chromatin modification.	covalent chromatin modification		C1156198
+3716	3784	GO:0000988	several important transcription factors of photoreceptor development	transcription factor activity		C1148759
+3716	3784	GO:0001070	several important transcription factors of photoreceptor development	transcription factor activity		C1148759
+3716	3784	GO:0001071	several important transcription factors of photoreceptor development	transcription factor activity		C1148759
+3716	3784	GO:0003700	several important transcription factors of photoreceptor development	transcription factor activity		C1148759
+3792	3822	GO:0007567	two otx family homeobox genes,	parturition	Birth	C0005615
+3792	3822	GO:0000003	two otx family homeobox genes,	reproduction	Reproduction	C0035150
+3867	3890	GO:0001709	cell fate determination	cell fate determination		C1160037
+3895	3919	GO:0048468	terminal differentiation	terminal differentiation		C2752630
+4010	4014	GO:0005623	cell	cell	Cells	C0007634
+4103	4165	GO:0006351	the transcription of various photoreceptor cell-specific genes	cellular transcription		C2755756
+4173	4219	GO:0009058	essential for the formation of outer segments,	anabolism	Anabolism	C0220781
+4220	4239	GO:0043195	synaptic terminals,	synaptic bouton	Presynaptic Terminals	C0206181
+4244	4261	GO:0007602	phototransduction	phototransduction	Light Signal Transduction	C0376451
+4346	4388	GO:0009790	at embryonic day 12.5 (e12.5) in the mouse	embryo development	Embryonic Development	C0013936
+4422	4435	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+4529	4533	GO:0005623	cell	cell	Cells	C0007634
+4636	4651	GO:0043473	visual pigments	pigmentation	Pigmentation	C0031911
+4672	4699	GO:0001750	photoreceptor outer segment	photoreceptor outer segment	Outer segment of photoreceptor	C1325525
+4705	4724	GO:0043195	a synaptic terminus	synaptic bouton	Presynaptic Terminals	C0206181
+4853	4893	GO:0030849	autosomal dominant cone-rod dystrophy 2,	autosome	Autosome	C0596142
+4894	4939	GO:0030849	autosomal dominant-type retinitis pigmentosa,	autosome	Autosome	C0596142
+5015	5049	GO:0008594	general photoreceptor development,	photoreceptor cell morphogenesis		C1326034
+5056	5084	GO:0000988	other transcription factors,	transcription factor activity		C1148759
+5056	5084	GO:0001070	other transcription factors,	transcription factor activity		C1148759
+5056	5084	GO:0001071	other transcription factors,	transcription factor activity		C1148759
+5056	5084	GO:0003700	other transcription factors,	transcription factor activity		C1148759
+5153	5157	GO:0005623	cell	cell	Cells	C0007634
+5511	5527	GO:0008181	tumor suppressor	tumor suppressor	tumor suppressor activity	C1325410
+5511	5527	GO:0051726	tumor suppressor	tumor suppressor	tumor suppressor activity	C1325410
+5534	5563	GO:0003723	the rna-binding protein smaug	RNA binding	RNA Binding	C1148846
+5602	5638	GO:0009291	yeast mating type signaling proteins	unidirectional conjugation		C1160186
+5651	5683	GO:0000988	ets family transcription factors	transcription factor activity		C1148759
+5651	5683	GO:0001070	ets family transcription factors	transcription factor activity		C1148759
+5651	5683	GO:0001071	ets family transcription factors	transcription factor activity		C1148759
+5651	5683	GO:0003700	ets family transcription factors	transcription factor activity		C1148759
+5714	5727	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+5755	5769	GO:0016458	gene silencing	gene silencing	Gene Silencing	C0598496
+5832	5866	GO:0010468	implicated in hox gene regulation.	regulation of gene expression	Gene Expression Regulation	C0017263
+5893	5943	GO:0016458	lies in stable silencing of specific sets of genes	gene silencing	Gene Silencing	C0598496
+5944	5976	GO:0016569	through chromatin modifications.	covalent chromatin modification		C1156198
+5977	6026	GO:0035102	a member of polycomb repressive complex 1 (prc1),	PRC1 complex location		C1325724
+6076	6088	GO:0035102	prc1 complex	PRC1 complex location		C1325724
+6201	6252	GO:0009058	the formation of a higher order chromatin structure	anabolism	Anabolism	C0220781
+6276	6309	GO:0007567	the repressed state of hox genes.	parturition	Birth	C0005615
+6276	6309	GO:0000003	the repressed state of hox genes.	reproduction	Reproduction	C0035150
+6340	6353	GO:0007567	a novel gene,	parturition	Birth	C0005615
+6340	6353	GO:0000003	a novel gene,	reproduction	Reproduction	C0035150
+6572	6596	GO:0048468	terminal differentiation	terminal differentiation		C2752630
+6693	6717	GO:0005634	localized in the nucleus	cell nucleus	Cell Nucleus	C0007610
+6815	6847	GO:0003677	fused to gal4 dna-binding domain	DNA binding	dna binding	C1148673
+6863	6876	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+6950	6983	GO:0017053	transcriptional repressor complex	transcriptional repressor complex		C1167149
+6984	7021	GO:0060041	in retinal photoreceptor development.	retinal development		C2610344
+7076	7093	GO:0007567	novel mouse genes	parturition	Birth	C0005615
+7076	7093	GO:0000003	novel mouse genes	reproduction	Reproduction	C0035150
+7668	7680	GO:0007567	a novel gene	parturition	Birth	C0005615
+7668	7680	GO:0000003	a novel gene	reproduction	Reproduction	C0035150
+7818	7840	GO:0006413	translation initiation	translation initiation	Translation Initiation	C1519613
+8140	8197	GO:1902698	the amino acid sequence of the sam domain of mr-s protein	acidogenesis		C3823112
+8140	8197	GO:1902705	the amino acid sequence of the sam domain of mr-s protein	acidogenesis		C3823112
+8140	8197	GO:1902706	the amino acid sequence of the sam domain of mr-s protein	acidogenesis		C3823112
+8140	8197	GO:1902699	the amino acid sequence of the sam domain of mr-s protein	acidogenesis		C3823112
+8761	8799	GO:0050000	the chromosomal localizations of mouse	chromosome localization		C1657114
+8804	8820	GO:0007567	human mr-s genes	parturition	Birth	C0005615
+8804	8820	GO:0000003	human mr-s genes	reproduction	Reproduction	C0035150
+8933	8943	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+8977	8987	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+9192	9213	GO:1902698	amino acid sequences.	acidogenesis		C3823112
+9192	9213	GO:1902705	amino acid sequences.	acidogenesis		C3823112
+9192	9213	GO:1902706	amino acid sequences.	acidogenesis		C3823112
+9192	9213	GO:1902699	amino acid sequences.	acidogenesis		C3823112
+9238	9249	GO:1902698	amino acids	acidogenesis		C3823112
+9238	9249	GO:1902705	amino acids	acidogenesis		C3823112
+9238	9249	GO:1902706	amino acids	acidogenesis		C3823112
+9238	9249	GO:1902699	amino acids	acidogenesis		C3823112
+9261	9278	GO:1902698	boxed amino acids	acidogenesis		C3823112
+9261	9278	GO:1902705	boxed amino acids	acidogenesis		C3823112
+9261	9278	GO:1902706	boxed amino acids	acidogenesis		C3823112
+9261	9278	GO:1902699	boxed amino acids	acidogenesis		C3823112
+9336	9375	GO:0051179	a putative nuclear localization signal.	establishment and maintenance of localization		C1744691
+9400	9446	GO:0043631	a putative polyadenylation termination signal.	RNA polyadenylation	Polyadenylation	C0949765
+9562	9591	GO:1902698	conserved amino acid residues	acidogenesis		C3823112
+9562	9591	GO:1902705	conserved amino acid residues	acidogenesis		C3823112
+9562	9591	GO:1902706	conserved amino acid residues	acidogenesis		C3823112
+9562	9591	GO:1902699	conserved amino acid residues	acidogenesis		C3823112
+9719	9730	GO:0006280	mutagenesis	mutagenesis	Mutagenesis Process	C0079866
+9813	9833	GO:1902698	amino acid sequences	acidogenesis		C3823112
+9813	9833	GO:1902705	amino acid sequences	acidogenesis		C3823112
+9813	9833	GO:1902706	amino acid sequences	acidogenesis		C3823112
+9813	9833	GO:1902699	amino acid sequences	acidogenesis		C3823112
+9967	10015	GO:1902698	schematic comparison of the amino acid sequences	acidogenesis		C3823112
+9967	10015	GO:1902705	schematic comparison of the amino acid sequences	acidogenesis		C3823112
+9967	10015	GO:1902706	schematic comparison of the amino acid sequences	acidogenesis		C3823112
+9967	10015	GO:1902699	schematic comparison of the amino acid sequences	acidogenesis		C3823112
+10386	10437	GO:0009790	whole mount in situ hybridization in mouse embryos.	embryo development	Embryonic Development	C0013936
+10558	10589	GO:0010467	the expression of the mr-s gene	gene expression	Gene Expression	C0017262
+11108	11112	GO:0005623	cell	cell	Cells	C0007634
+11145	11162	GO:0007602	phototransduction	phototransduction	Light Signal Transduction	C0376451
+11361	11394	GO:0008594	observed in mature photoreceptors	photoreceptor cell morphogenesis		C1326034
+11527	11538	GO:0032502	development	development	Biologic Development	C0678723
+11837	11865	GO:0007600	control with the sense probe	sensory perception	Esthesia	C0036658
+12065	12097	GO:0009790	extracted from e13 whole embryo,	embryo development	Embryonic Development	C0013936
+12113	12131	GO:0007601	except for the eye	vision	Vision	C0042789
+12264	12290	GO:0043473	retinal pigment epithelium	pigmentation	Pigmentation	C0031911
+12350	12354	GO:0005623	cell	cell	Cells	C0007634
+12471	12502	GO:0010467	the expression of the mr-s gene	gene expression	Gene Expression	C0017262
+12899	12905	GO:0031672	A band	A band		C0230715
+13075	13108	GO:0007567	many photoreceptor-specific genes	parturition	Birth	C0005615
+13075	13108	GO:0000003	many photoreceptor-specific genes	reproduction	Reproduction	C0035150
+13201	13221	GO:0009790	in the whole embryo,	embryo development	Embryonic Development	C0013936
+13404	13419	GO:0007567	pairs for genes	parturition	Birth	C0005615
+13404	13419	GO:0000003	pairs for genes	reproduction	Reproduction	C0035150
+13465	13484	GO:0009790	in e13 whole embryo	embryo development	Embryonic Development	C0013936
+13504	13522	GO:0007601	except for the eye	vision	Vision	C0042789
+13881	13913	GO:0006355	regulation of mr-s transcription	transcriptional control	Transcriptional Regulation	C1158770
+13942	13968	GO:0000988	transcription factors otx2	transcription factor activity		C1148759
+13942	13968	GO:0001070	transcription factors otx2	transcription factor activity		C1148759
+13942	13968	GO:0001071	transcription factors otx2	transcription factor activity		C1148759
+13942	13968	GO:0003700	transcription factors otx2	transcription factor activity		C1148759
+13993	14044	GO:0008594	key regulators of retinal photoreceptor development	photoreceptor cell morphogenesis		C1326034
+14123	14127	GO:0005623	cell	cell	Cells	C0007634
+14129	14153	GO:0009790	in the embryonic retina,	embryo development	Embryonic Development	C0013936
+14297	14310	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+14528	14543	GO:2000144	transactivation	transactivation	Trans-Activation, Genetic	C0040624
+14583	14596	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+14687	14700	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+14801	14814	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+14801	14824	GO:0006351	that mr-s transcription	transcription	Transcription, Genetic	C0040649
+15021	15034	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+15571	15584	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+15665	15672	GO:0005488	binding	binding	Binding 	C1167622
+15684	15719	GO:0045289	relative activity of the luciferase	luciferin monooxygenase activity		C1151115
+15993	15997	GO:0005623	cell	cell	Cells	C0007634
+16096	16109	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+16214	16240	GO:0007567	fused to a luciferase gene	parturition	Birth	C0005615
+16214	16240	GO:0000003	fused to a luciferase gene	reproduction	Reproduction	C0035150
+16410	16417	GO:0005488	binding	binding	Binding 	C1167622
+16460	16483	GO:0045289	the luciferase activity	luciferin monooxygenase activity		C1151115
+16597	16601	GO:0005623	cell	cell	Cells	C0007634
+16610	16633	GO:0045289	the luciferase activity	luciferin monooxygenase activity		C1151115
+16737	16750	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+16823	16846	GO:0007567	used as a reporter gene	parturition	Birth	C0005615
+16823	16846	GO:0000003	used as a reporter gene	reproduction	Reproduction	C0035150
+16915	16930	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+17120	17124	GO:0005623	cell	cell	Cells	C0007634
+17152	17156	GO:0005623	cell	cell	Cells	C0007634
+17308	17315	GO:0005488	binding	binding	Binding 	C1167622
+17538	17558	GO:0009790	at embryonic stages.	embryo development	Embryonic Development	C0013936
+17593	17606	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+17734	17741	GO:0005488	binding	binding	Binding 	C1167622
+18057	18072	GO:2000144	transactivation	transactivation	Trans-Activation, Genetic	C0040624
+18141	18148	GO:0005488	binding	binding	Binding 	C1167622
+18190	18203	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+18224	18279	GO:0006355	crucial for the direct regulation of mr-s transcription	transcriptional control	Transcriptional Regulation	C1158770
+18289	18321	GO:0043621	self-association of mr-s protein	protein self-association		C1819957
+18430	18481	GO:0005488	bind to various non-sam domain-containing proteins,	binding	Binding 	C1167622
+18785	18798	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+19151	19188	GO:0043621	this self-association of mr-s protein	protein self-association		C1819957
+19262	19326	GO:0008134	to the dna-binding domain of the yeast transcription factor gal4	transcription factor binding		C1149367
+19427	19440	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+19576	19583	GO:0005488	binding	binding	Binding 	C1167622
+19590	19616	GO:0007567	upstream of the lacz gene.	parturition	Birth	C0005615
+19590	19616	GO:0000003	upstream of the lacz gene.	reproduction	Reproduction	C0035150
+19756	19807	GO:1902698	the n-terminus 400 amino acid (aa) stretch of mr-s,	acidogenesis		C3823112
+19756	19807	GO:1902705	the n-terminus 400 amino acid (aa) stretch of mr-s,	acidogenesis		C3823112
+19756	19807	GO:1902706	the n-terminus 400 amino acid (aa) stretch of mr-s,	acidogenesis		C3823112
+19756	19807	GO:1902699	the n-terminus 400 amino acid (aa) stretch of mr-s,	acidogenesis		C3823112
+19866	19879	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+19909	19946	GO:1902698	the n-terminus 400 aa stretch of mr-s	acidogenesis		C3823112
+19909	19946	GO:1902705	the n-terminus 400 aa stretch of mr-s	acidogenesis		C3823112
+19909	19946	GO:1902706	the n-terminus 400 aa stretch of mr-s	acidogenesis		C3823112
+19909	19946	GO:1902699	the n-terminus 400 aa stretch of mr-s	acidogenesis		C3823112
+19966	19979	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+19995	20042	GO:1902698	with the same n-terminus 400 aa stretch of mr-s	acidogenesis		C3823112
+19995	20042	GO:1902705	with the same n-terminus 400 aa stretch of mr-s	acidogenesis		C3823112
+19995	20042	GO:1902706	with the same n-terminus 400 aa stretch of mr-s	acidogenesis		C3823112
+19995	20042	GO:1902699	with the same n-terminus 400 aa stretch of mr-s	acidogenesis		C3823112
+20070	20104	GO:1902698	the n-terminus 400 aa mr-s protein	acidogenesis		C3823112
+20070	20104	GO:1902705	the n-terminus 400 aa mr-s protein	acidogenesis		C3823112
+20070	20104	GO:1902706	the n-terminus 400 aa mr-s protein	acidogenesis		C3823112
+20070	20104	GO:1902699	the n-terminus 400 aa mr-s protein	acidogenesis		C3823112
+20127	20140	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+20269	20299	GO:1902698	the 391-542 aa stretch of mr-s	acidogenesis		C3823112
+20269	20299	GO:1902705	the 391-542 aa stretch of mr-s	acidogenesis		C3823112
+20269	20299	GO:1902706	the 391-542 aa stretch of mr-s	acidogenesis		C3823112
+20269	20299	GO:1902699	the 391-542 aa stretch of mr-s	acidogenesis		C3823112
+20571	20588	GO:0005634	the yeast nucleus	cell nucleus	Cell Nucleus	C0007610
+20605	20612	GO:0005488	binding	binding	Binding 	C1167622
+21366	21373	GO:0005488	binding	binding	Binding 	C1167622
+21459	21480	GO:1902698	(amino acids 1 to 400	acidogenesis		C3823112
+21459	21480	GO:1902705	(amino acids 1 to 400	acidogenesis		C3823112
+21459	21480	GO:1902706	(amino acids 1 to 400	acidogenesis		C3823112
+21459	21480	GO:1902699	(amino acids 1 to 400	acidogenesis		C3823112
+21513	21536	GO:1902698	(amino acids 391 to 542	acidogenesis		C3823112
+21513	21536	GO:1902705	(amino acids 391 to 542	acidogenesis		C3823112
+21513	21536	GO:1902706	(amino acids 391 to 542	acidogenesis		C3823112
+21513	21536	GO:1902699	(amino acids 391 to 542	acidogenesis		C3823112
+21551	21587	GO:0043621	self-association of the mr-s protein	protein self-association		C1819957
+21601	21605	GO:0005623	cell	cell	Cells	C0007634
+21668	21672	GO:0005623	cell	cell	Cells	C0007634
+22634	22638	GO:0005623	cell	cell	Cells	C0007634
+22754	22775	GO:1902698	(amino acids 1 to 542	acidogenesis		C3823112
+22754	22775	GO:1902705	(amino acids 1 to 542	acidogenesis		C3823112
+22754	22775	GO:1902706	(amino acids 1 to 542	acidogenesis		C3823112
+22754	22775	GO:1902699	(amino acids 1 to 542	acidogenesis		C3823112
+22787	22808	GO:1902698	(amino acids 1 to 400	acidogenesis		C3823112
+22787	22808	GO:1902705	(amino acids 1 to 400	acidogenesis		C3823112
+22787	22808	GO:1902706	(amino acids 1 to 400	acidogenesis		C3823112
+22787	22808	GO:1902699	(amino acids 1 to 400	acidogenesis		C3823112
+22814	22841	GO:1902698	sam (amino acids 401 to 542	acidogenesis		C3823112
+22814	22841	GO:1902705	sam (amino acids 401 to 542	acidogenesis		C3823112
+22814	22841	GO:1902706	sam (amino acids 401 to 542	acidogenesis		C3823112
+22814	22841	GO:1902699	sam (amino acids 401 to 542	acidogenesis		C3823112
+22964	22968	GO:0005623	cell	cell	Cells	C0007634
+22985	23028	GO:0042571	co-immunoprecipitated by anti-flag antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+23033	23062	GO:0042571	detected by anti-ha antibody.	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+23252	23293	GO:0042571	co-immunoprecipitated by anti-ha antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+23298	23329	GO:0042571	detected by anti-flag antibody.	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+23672	23679	GO:0005488	binding	binding	Binding 	C1167622
+23986	23993	GO:0005488	binding	binding	Binding 	C1167622
+24044	24051	GO:0005488	binding	binding	Binding 	C1167622
+24319	24363	GO:0008104	the subcellular localization of mr-s protein	protein localization	protein localization location	C0597704
+24319	24363	GO:0006886	the subcellular localization of mr-s protein	intracellular protein transport		C1159772
+24377	24381	GO:0005623	cell	cell	Cells	C0007634
+24384	24462	GO:0008104	the putative nuclear localization signal at the n-terminus of the mr-s protein	protein localization	protein localization location	C0597704
+24384	24462	GO:0006886	the putative nuclear localization signal at the n-terminus of the mr-s protein	intracellular protein transport		C1159772
+24516	24541	GO:0005634	localizes in the nucleus.	cell nucleus	Cell Nucleus	C0007610
+24555	24591	GO:0051179	the subcellular localization of mr-s	establishment and maintenance of localization		C1744691
+24605	24609	GO:0005623	cell	cell	Cells	C0007634
+24677	24681	GO:0005623	cell	cell	Cells	C0007634
+24743	24781	GO:0005634	mainly in the nucleus of hek293t cells	cell nucleus	Cell Nucleus	C0007610
+24807	24852	GO:0008104	the precise localization of the mr-s protein,	protein localization	protein localization location	C0597704
+24807	24852	GO:0006886	the precise localization of the mr-s protein,	intracellular protein transport		C1159772
+24964	24993	GO:0005634	preferentially to the nucleus	cell nucleus	Cell Nucleus	C0007610
+25007	25011	GO:0005623	cell	cell	Cells	C0007634
+25059	25097	GO:0006355	involved in transcriptional regulation	transcriptional control	Transcriptional Regulation	C1158770
+25131	25163	GO:0051179	subcellular localization of mr-s	establishment and maintenance of localization		C1744691
+25177	25181	GO:0005623	cell	cell	Cells	C0007634
+25255	25283	GO:0042571	detected by anti-ha antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+25322	25326	GO:0005623	cell	cell	Cells	C0007634
+25328	25363	GO:0042571	immunostained with anti-ha antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+25463	25476	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+25548	25577	GO:0043565	sequence-specific DNA binding	sequence-specific DNA binding		C1624609
+25608	25621	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+25722	25735	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+25780	25789	GO:0000785	chromatin	chromatin	chromatin location	C1325550
+25837	25867	GO:0003677	an obvious dna-binding domain.	DNA binding	dna binding	C1148673
+26038	26074	GO:0003677	fused to the gal4 dna-binding domain	DNA binding	dna binding	C1148673
+26141	26152	GO:0003677	DNA binding	DNA binding	dna binding	C1148673
+26174	26239	GO:0003694	no effect on the pgl3 promoter plasmid lacking gal4 binding sites	plasmid binding		C1621859
+26174	26239	GO:0003677	no effect on the pgl3 promoter plasmid lacking gal4 binding sites	plasmid binding		C1621859
+26316	26366	GO:0045289	dbd-mrs repressed luciferase activity by about 90%	luciferin monooxygenase activity		C1151115
+26419	26442	GO:0003677	gal4 dna-binding domain	DNA binding	dna binding	C1148673
+26722	26743	GO:1902698	(amino acids 1 to 400	acidogenesis		C3823112
+26722	26743	GO:1902705	(amino acids 1 to 400	acidogenesis		C3823112
+26722	26743	GO:1902706	(amino acids 1 to 400	acidogenesis		C3823112
+26722	26743	GO:1902699	(amino acids 1 to 400	acidogenesis		C3823112
+26771	26794	GO:1902698	(amino acids 391 to 542	acidogenesis		C3823112
+26771	26794	GO:1902705	(amino acids 391 to 542	acidogenesis		C3823112
+26771	26794	GO:1902706	(amino acids 391 to 542	acidogenesis		C3823112
+26771	26794	GO:1902699	(amino acids 391 to 542	acidogenesis		C3823112
+26939	26954	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+27033	27046	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+27188	27201	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+27300	27307	GO:0005488	binding	binding	Binding 	C1167622
+27510	27523	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+27602	27615	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+27673	27686	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+27851	27882	GO:1902698	dbd-sam (amino acids 384 to 462	acidogenesis		C3823112
+27851	27882	GO:1902705	dbd-sam (amino acids 384 to 462	acidogenesis		C3823112
+27851	27882	GO:1902706	dbd-sam (amino acids 384 to 462	acidogenesis		C3823112
+27851	27882	GO:1902699	dbd-sam (amino acids 384 to 462	acidogenesis		C3823112
+27973	27992	GO:0045289	luciferase activity	luciferin monooxygenase activity		C1151115
+28028	28051	GO:1902698	(amino acids 459 to 542	acidogenesis		C3823112
+28028	28051	GO:1902705	(amino acids 459 to 542	acidogenesis		C3823112
+28028	28051	GO:1902706	(amino acids 459 to 542	acidogenesis		C3823112
+28028	28051	GO:1902699	(amino acids 459 to 542	acidogenesis		C3823112
+28124	28137	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+28171	28175	GO:0005623	cell	cell	Cells	C0007634
+28260	28264	GO:0005623	cell	cell	Cells	C0007634
+28289	28376	GO:0045289	that dbd-mrs also reduced luciferase activity significantly in y79 retinoblastoma cells	luciferin monooxygenase activity		C1151115
+28315	28334	GO:0045289	luciferase activity	luciferin monooxygenase activity		C1151115
+28451	28455	GO:0005623	cell	cell	Cells	C0007634
+28499	28503	GO:0005623	cell	cell	Cells	C0007634
+28583	28587	GO:0005623	cell	cell	Cells	C0007634
+28618	28662	GO:0005622	that intracellular environment in y79 cells,	protoplasm	Protoplasm	C0175996
+28680	28684	GO:0005623	cell	cell	Cells	C0007634
+28853	28866	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+28947	28951	GO:0005623	cell	cell	Cells	C0007634
+29010	29023	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+29123	29146	GO:1902698	(amino acids 463 to 542	acidogenesis		C3823112
+29123	29146	GO:1902705	(amino acids 463 to 542	acidogenesis		C3823112
+29123	29146	GO:1902706	(amino acids 463 to 542	acidogenesis		C3823112
+29123	29146	GO:1902699	(amino acids 463 to 542	acidogenesis		C3823112
+29164	29177	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+29558	29571	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+29592	29621	GO:0008594	in photoreceptor development.	photoreceptor cell morphogenesis		C1326034
+29660	29692	GO:1902698	characteristic amino acid motifs	acidogenesis		C3823112
+29660	29692	GO:1902705	characteristic amino acid motifs	acidogenesis		C3823112
+29660	29692	GO:1902706	characteristic amino acid motifs	acidogenesis		C3823112
+29660	29692	GO:1902699	characteristic amino acid motifs	acidogenesis		C3823112
+29762	29777	GO:0007567	gene repression	parturition	Birth	C0005615
+29762	29777	GO:0000003	gene repression	reproduction	Reproduction	C0035150
+29847	29858	GO:0003677	DNA binding	DNA binding	dna binding	C1148673
+29881	29894	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+29918	29922	GO:0005623	cell	cell	Cells	C0007634
+30057	30061	GO:0005623	cell	cell	Cells	C0007634
+30228	30231	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+30460	30464	GO:0005623	cell	cell	Cells	C0007634
+30553	30575	GO:0045289	in luciferase activity	luciferin monooxygenase activity		C1151115
+30805	30808	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+30853	30857	GO:0005623	cell	cell	Cells	C0007634
+30868	30871	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+31195	31224	GO:1902698	conserved amino acid residues	acidogenesis		C3823112
+31195	31224	GO:1902705	conserved amino acid residues	acidogenesis		C3823112
+31195	31224	GO:1902706	conserved amino acid residues	acidogenesis		C3823112
+31195	31224	GO:1902699	conserved amino acid residues	acidogenesis		C3823112
+31321	31334	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+31479	31502	GO:1902698	(amino acids 463 to 542	acidogenesis		C3823112
+31479	31502	GO:1902705	(amino acids 463 to 542	acidogenesis		C3823112
+31479	31502	GO:1902706	(amino acids 463 to 542	acidogenesis		C3823112
+31479	31502	GO:1902699	(amino acids 463 to 542	acidogenesis		C3823112
+31554	31567	GO:0007567	a novel gene,	parturition	Birth	C0005615
+31554	31567	GO:0000003	a novel gene,	reproduction	Reproduction	C0035150
+31803	31842	GO:0007567	other photoreceptor genes around p6-p8.	parturition	Birth	C0005615
+31803	31842	GO:0000003	other photoreceptor genes around p6-p8.	reproduction	Reproduction	C0035150
+32016	32040	GO:0048468	terminal differentiation	terminal differentiation		C2752630
+32108	32165	GO:0008594	a key molecule in the late development of photoreceptors.	photoreceptor cell morphogenesis		C1326034
+32213	32257	GO:0008594	a critical role in photoreceptor development	photoreceptor cell morphogenesis		C1326034
+32295	32308	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+32525	32538	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+32560	32564	GO:0005623	cell	cell	Cells	C0007634
+32592	32596	GO:0005623	cell	cell	Cells	C0007634
+32764	32777	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+32835	32880	GO:0000988	a photoreceptor-specific transcription factor	transcription factor activity		C1148759
+32835	32880	GO:0001070	a photoreceptor-specific transcription factor	transcription factor activity		C1148759
+32835	32880	GO:0001071	a photoreceptor-specific transcription factor	transcription factor activity		C1148759
+32835	32880	GO:0003700	a photoreceptor-specific transcription factor	transcription factor activity		C1148759
+32967	32980	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+33209	33255	GO:0007567	included in 161 differentially expressed genes	parturition	Birth	C0005615
+33209	33255	GO:0000003	included in 161 differentially expressed genes	reproduction	Reproduction	C0035150
+33471	33514	GO:0098025	a helical, head-to-tail polymeric structure	tail structure	virus tail structure	C3537459
+33527	33579	GO:0009058	the formation of a higher order chromatin structure.	anabolism	Anabolism	C0220781
+34088	34092	GO:0005623	cell	cell	Cells	C0007634
+34365	34379	GO:0016458	gene silencing	gene silencing	Gene Silencing	C0598496
+34424	34433	GO:0000785	chromatin	chromatin	chromatin location	C1325550
+34933	34962	GO:0043565	sequence-specific DNA binding	sequence-specific DNA binding		C1624609
+34998	35021	GO:0005488	binds to specific sites	binding	Binding 	C1167622
+35194	35223	GO:0043565	sequence-specific DNA binding	sequence-specific DNA binding		C1624609
+35259	35266	GO:0005488	binding	binding	Binding 	C1167622
+35353	35366	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+35385	35397	GO:0035282	segmentation	segmentation	biologic segmentation	C1524109
+35412	35425	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+35616	35627	GO:0003677	DNA binding	DNA binding	dna binding	C1148673
+35661	35701	GO:0000988	a sequence-specific transcription factor	transcription factor activity		C1148759
+35661	35701	GO:0001070	a sequence-specific transcription factor	transcription factor activity		C1148759
+35661	35701	GO:0001071	a sequence-specific transcription factor	transcription factor activity		C1148759
+35661	35701	GO:0003700	a sequence-specific transcription factor	transcription factor activity		C1148759
+35761	35774	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+35881	35892	GO:0003677	DNA binding	DNA binding	dna binding	C1148673
+35925	35938	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+36184	36197	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+36499	36512	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+36529	36558	GO:0016564	the repressor activity of h-l	transcription repressor activity		C1148800
+36529	36558	GO:0003714	the repressor activity of h-l	transcription corepressor activity		C1149375
+36529	36558	GO:0045892	the repressor activity of h-l	transcription repressor activity		C1148800
+36659	36672	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+36835	36842	GO:0005488	binding	binding	Binding 	C1167622
+36897	36910	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+37139	37168	GO:1902698	a region from amino acids 463	acidogenesis		C3823112
+37139	37168	GO:1902705	a region from amino acids 463	acidogenesis		C3823112
+37139	37168	GO:1902706	a region from amino acids 463	acidogenesis		C3823112
+37139	37168	GO:1902699	a region from amino acids 463	acidogenesis		C3823112
+37179	37224	GO:0016564	mainly responsible for the repressor activity	transcription repressor activity		C1148800
+37179	37224	GO:0003714	mainly responsible for the repressor activity	transcription corepressor activity		C1149375
+37179	37224	GO:0045892	mainly responsible for the repressor activity	transcription repressor activity		C1148800
+37662	37671	GO:0000785	chromatin	chromatin	chromatin location	C1325550
+37760	37793	GO:0007567	a stable state of gene repression	parturition	Birth	C0005615
+37760	37793	GO:0000003	a stable state of gene repression	reproduction	Reproduction	C0035150
+37815	37835	GO:0006338	chromatin remodeling	chromatin remodeling		C1156210
+38083	38096	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+38334	38371	GO:0035102	more similar to that of prc1 complex.	PRC1 complex location		C1325724
+38472	38485	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+38542	38581	GO:0010467	temporal expression of the target genes	gene expression	Gene Expression	C0017262
+38582	38623	GO:0060041	during retinal photoreceptor development.	retinal development		C2610344
+38723	38746	GO:1902698	(amino acids 463 to 542	acidogenesis		C3823112
+38723	38746	GO:1902705	(amino acids 463 to 542	acidogenesis		C3823112
+38723	38746	GO:1902706	(amino acids 463 to 542	acidogenesis		C3823112
+38723	38746	GO:1902699	(amino acids 463 to 542	acidogenesis		C3823112
+38919	38943	GO:0048468	terminal differentiation	terminal differentiation		C2752630
+38965	38989	GO:0007567	the target genes of mr-s	parturition	Birth	C0005615
+38965	38989	GO:0000003	the target genes of mr-s	reproduction	Reproduction	C0035150
+38999	39023	GO:0007567	non-photoreceptor genes.	parturition	Birth	C0005615
+38999	39023	GO:0000003	non-photoreceptor genes.	reproduction	Reproduction	C0035150
+39056	39097	GO:0010467	the expression of non-photoreceptor genes	gene expression	Gene Expression	C0017262
+39109	39129	GO:0020010	cone photoreceptors.	conoid		C1166649
+39185	39233	GO:0043703	in cell fate determination of rod photoreceptors	photoreceptor cell fate determination		C2248601
+39241	39261	GO:0020010	cone photoreceptors.	conoid		C1166649
+39268	39287	GO:0020010	cone photoreceptors	conoid		C1166649
+39292	39354	GO:0007567	born during the early embryonic stages of mouse retinogenesis,	parturition	Birth	C0005615
+39378	39382	GO:0007567	born	parturition	Birth	C0005615
+39383	39414	GO:0009790	primarily in the late embryonic	embryo development	Embryonic Development	C0013936
+39540	39566	GO:0020010	not in cone photoreceptors	conoid		C1166649
+39605	39618	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+39663	39697	GO:0020010	cone photoreceptor-specific genes.	conoid		C1166649
+39709	39741	GO:0008150	the biological function of mr-s,	biological process	Biological Processes	C3714634
+40046	40075	GO:0008594	in photoreceptor development.	photoreceptor cell morphogenesis		C1326034
+40119	40143	GO:0005634	localizes in the nucleus	cell nucleus	Cell Nucleus	C0007610
+40255	40268	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+40346	40368	GO:1902698	(amino acid 463 to 542	acidogenesis		C3823112
+40346	40368	GO:1902705	(amino acid 463 to 542	acidogenesis		C3823112
+40346	40368	GO:1902706	(amino acid 463 to 542	acidogenesis		C3823112
+40346	40368	GO:1902699	(amino acid 463 to 542	acidogenesis		C3823112
+40431	40484	GO:0060041	involved in the development of retinal photoreceptors	retinal development		C2610344
+40632	40649	GO:0007567	novel mouse genes	parturition	Birth	C0005615
+40632	40649	GO:0000003	novel mouse genes	reproduction	Reproduction	C0035150
+40819	40870	GO:0007567	a weak homology with the polyhomeotic family genes.	parturition	Birth	C0005615
+40819	40870	GO:0000003	a weak homology with the polyhomeotic family genes.	reproduction	Reproduction	C0035150
+40918	40937	GO:1902698	amino acids 140-384	acidogenesis		C3823112
+40918	40937	GO:1902705	amino acids 140-384	acidogenesis		C3823112
+40918	40937	GO:1902706	amino acids 140-384	acidogenesis		C3823112
+40918	40937	GO:1902699	amino acids 140-384	acidogenesis		C3823112
+41380	41417	GO:0007567	the nucleotide sequence for mr-s gene	parturition	Birth	C0005615
+41380	41417	GO:0000003	the nucleotide sequence for mr-s gene	reproduction	Reproduction	C0035150
+41694	41698	GO:0005623	cell	cell	Cells	C0007634
+41733	41737	GO:0005623	cell	cell	Cells	C0007634
+41895	41898	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+41950	41954	GO:0005623	cell	cell	Cells	C0007634
+42063	42067	GO:0005623	cell	cell	Cells	C0007634
+42374	42377	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+42473	42481	GO:0016020	membrane	membrane	Membrane	C0596901
+42498	42505	GO:1990116	bio-rad	ribosome-associated ubiquitin-dependent protein catabolic process		C3811628
+42898	42901	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+43735	43741	GO:0040007	growth	growth	Growth	C0018270
+43873	43904	GO:0005020	rpm yeast plasmid isolation kit	stem cell factor receptor activity		C1150635
+44233	44251	GO:1902698	(amino acids 1-400	acidogenesis		C3823112
+44233	44251	GO:1902705	(amino acids 1-400	acidogenesis		C3823112
+44233	44251	GO:1902706	(amino acids 1-400	acidogenesis		C3823112
+44233	44251	GO:1902699	(amino acids 1-400	acidogenesis		C3823112
+44268	44288	GO:1902698	(amino acids 391-542	acidogenesis		C3823112
+44268	44288	GO:1902705	(amino acids 391-542	acidogenesis		C3823112
+44268	44288	GO:1902706	(amino acids 391-542	acidogenesis		C3823112
+44268	44288	GO:1902699	(amino acids 391-542	acidogenesis		C3823112
+44342	44376	GO:0000785	interactions by scoring blue color	chromatin	chromatin location	C1325550
+44603	44620	GO:1902698	amino acids 1-400	acidogenesis		C3823112
+44603	44620	GO:1902705	amino acids 1-400	acidogenesis		C3823112
+44603	44620	GO:1902706	amino acids 1-400	acidogenesis		C3823112
+44603	44620	GO:1902699	amino acids 1-400	acidogenesis		C3823112
+44683	44702	GO:1902698	amino acids 400-542	acidogenesis		C3823112
+44683	44702	GO:1902705	amino acids 400-542	acidogenesis		C3823112
+44683	44702	GO:1902706	amino acids 400-542	acidogenesis		C3823112
+44683	44702	GO:1902699	amino acids 400-542	acidogenesis		C3823112
+44945	44949	GO:0005623	cell	cell	Cells	C0007634
+45060	45064	GO:0005623	cell	cell	Cells	C0007634
+45338	45342	GO:0005623	cell	cell	Cells	C0007634
+45369	45372	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+46023	46031	GO:0016020	membrane	membrane	Membrane	C0596901
+46061	46068	GO:1990116	bio-rad	ribosome-associated ubiquitin-dependent protein catabolic process		C3811628
+46092	46141	GO:0042571	performed with rabbit polyclonal anti-ha antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+46178	46247	GO:0000746	detected with horseradish peroxidase- conjugated goat anti-rabbit igg	conjugation		C1160466
+46308	46341	GO:0051179	subcellular localization analysis	establishment and maintenance of localization		C1744691
+46419	46423	GO:0005623	cell	cell	Cells	C0007634
+46433	46437	GO:0005623	cell	cell	Cells	C0007634
+46641	46645	GO:0005623	cell	cell	Cells	C0007634
+46827	46831	GO:0005623	cell	cell	Cells	C0007634
+46945	46949	GO:0005623	cell	cell	Cells	C0007634
+46976	47016	GO:0000746	incubated with a cy3-conjugated goat igg	conjugation		C1160466
+47109	47113	GO:0005623	cell	cell	Cells	C0007634
+47264	47277	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+47372	47433	GO:0007567	by subcloning a 1.2-kb upstream genomic fragment of mr-s gene	parturition	Birth	C0005615
+47372	47433	GO:0000003	by subcloning a 1.2-kb upstream genomic fragment of mr-s gene	reproduction	Reproduction	C0035150
+47562	47601	GO:0010467	nrl genes into a pmik expression vector	gene expression	Gene Expression	C0017262
+47681	47688	GO:0005488	binding	binding	Binding 	C1167622
+47797	47804	GO:0005488	binding	binding	Binding 	C1167622
+47911	47918	GO:0005488	binding	binding	Binding 	C1167622
+48035	48042	GO:0005488	binding	binding	Binding 	C1167622
+48290	48303	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+48533	48544	GO:0003677	DNA binding	DNA binding	dna binding	C1148673
+48598	48601	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+48632	48635	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+48692	48696	GO:0005623	cell	cell	Cells	C0007634
+48746	48791	GO:0045289	luciferase activity 48 hr after transfection.	luciferin monooxygenase activity		C1151115
+48821	48838	GO:0020010	cone-rod homeobox	conoid		C1166649
+49047	49053	GO:0046875	ephrin	ephrin	ephrin receptor binding activity	C1323366
+49047	49053	GO:0005106	ephrin	ephrin	ephrin receptor binding activity	C1323366
+49074	49080	GO:0046875	ephrin	ephrin	ephrin receptor binding activity	C1323366
+49074	49080	GO:0005106	ephrin	ephrin	ephrin receptor binding activity	C1323366
+49399	49403	GO:0005623	cell	cell	Cells	C0007634
+49865	49944	GO:0009790	supported by precursory research for embryonic science and technology (presto),	embryo development	Embryonic Development	C0013936
+49945	50001	GO:0007420	dynamics of development systems molecular brain science,	brain development		C1160340

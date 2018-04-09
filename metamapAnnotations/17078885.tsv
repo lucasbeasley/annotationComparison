@@ -1,0 +1,408 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+0	44	GO:0007165	defective alk5 signaling in the neural crest	signal transduction	Signal Transduction	C0037083
+45	105	GO:0051402	leads to increased postmigratory neural crest cell apoptosis	apoptosis of neurons	Apoptosis of neurons	C1660771
+201	238	GO:0007567	the most common form of birth defects	parturition	Birth	C0005615
+350	365	GO:0030154	differentiation	cell differentiation	Cell Differentiation process	C0007589
+370	428	GO:0030061	patterning of pluripotent cardiac neural crest stem cells.	mitochondrial cristae	Mitochondrial cristae	C0230844
+435	465	GO:0007165	tgf-beta-superfamily signaling	signal transduction	Signal Transduction	C0037083
+435	465	GO:0023052	tgf-beta-superfamily signaling	biological signaling		C3537152
+498	527	GO:0014032	neural crest cell development	neural crest cell development		C1817633
+529	572	GO:0007165	the detailed molecular signaling mechanisms	signal transduction	Signal Transduction	C0037083
+529	572	GO:0023052	the detailed molecular signaling mechanisms	biological signaling		C3537152
+631	717	GO:0030061	the tgf-beta type i receptor alk5 specifically in the mouse neural crest cell lineage.	mitochondrial cristae	Mitochondrial cristae	C0230844
+718	738	GO:0007165	failure in signaling	signal transduction	Signal Transduction	C0037083
+718	738	GO:0023052	failure in signaling	biological signaling		C3537152
+867	899	GO:0035904	abnormal aortic sac development,	aorta development		C3271358
+942	972	GO:0043198	persistent truncus arteriosus.	dendritic shaft		C1523842
+1004	1031	GO:0001755	neural crest cell migration	neural crest cell migration		C1326503
+1071	1150	GO:0043524	an important role in the survival of post-migratory cardiac neural crest cells.	neuron survival		C1819944
+1188	1238	GO:0030061	that alk5-mediated signaling in neural crest cells	mitochondrial cristae	Mitochondrial cristae	C0230844
+1258	1262	GO:0005623	cell	cell	Cells	C0007634
+1301	1335	GO:0007507	cardiac outflow tract development.	cardiac development		C2263229
+1349	1399	GO:0007567	a considerable percentage of cardiac birth defects	parturition	Birth	C0005615
+1444	1459	GO:0030154	differentiation	cell differentiation	Cell Differentiation process	C0007589
+1463	1501	GO:0030061	patterning of the cardiac neural crest	mitochondrial cristae	Mitochondrial cristae	C0230844
+1509	1559	GO:0030061	this subset of pluripotent neural crest stem cells	mitochondrial cristae	Mitochondrial cristae	C0230844
+1668	1707	GO:0030061	subsequently cardiac neural crest cells	mitochondrial cristae	Mitochondrial cristae	C0230844
+1798	1802	GO:0005623	cell	cell	Cells	C0007634
+1908	1993	GO:0044249	contribute to the formation of the smooth muscle cell layer of endothelial structures	cellular biosynthetic process		C1523936
+2078	2104	GO:0035003	deeper into the aortic sac	subapical complex location		C1325744
+2078	2104	GO:0071173	deeper into the aortic sac	spindle assembly checkpoint		C2754376
+2113	2141	GO:0030428	the aortico-pulmonary septum	cell septum	Cell septum	C1327729
+2178	2212	GO:0043198	the pulmonary trunk from the aorta	dendritic shaft		C1523842
+2250	2297	GO:0007507	in the development of the cardiac outflow tract	cardiac development		C2263229
+2477	2513	GO:0043198	persistent truncus arteriosus (pta),	dendritic shaft		C1523842
+3028	3094	GO:0030061	neural crest cell specific abrogation of tgf-beta type ii receptor	mitochondrial cristae	Mitochondrial cristae	C0230844
+3151	3154	GO:0043198	pta	dendritic shaft		C1523842
+3180	3239	GO:0009058	required for proper formation of the outflow tract cushions	anabolism	Anabolism	C0220781
+3294	3305	GO:0032502	development	development	Biologic Development	C0678723
+3348	3411	GO:0030061	neural crest-specific deletion of the bmp type i receptors alk2	mitochondrial cristae	Mitochondrial cristae	C0230844
+3475	3484	GO:0000917	septation	septation		C1748481
+3524	3580	GO:0070022	tgf-beta subfamily ligands signal via a receptor complex	transforming growth factor beta receptor complex		C2610640
+3656	3663	GO:0005488	binding	binding	Binding 	C1167622
+3673	3688	GO:0016310	phosphorylation	phosphorylation	Phosphorylation	C0031715
+3673	3697	GO:0006468	leads to phosphorylation	protein phosphorylation	Protein phosphorylation	C1158886
+3768	3816	GO:0007165	a specific set of downstream signaling molecules	signal transduction	Signal Transduction	C0037083
+3768	3816	GO:0023052	a specific set of downstream signaling molecules	biological signaling		C3537152
+3859	3896	GO:0005488	bind to the tgf-beta type ii receptor	binding	Binding 	C1167622
+3994	4026	GO:0005488	bind to the bmp type ii receptor	binding	Binding 	C1167622
+4126	4154	GO:0007165	these signaling interactions	signal transduction	Signal Transduction	C0037083
+4126	4154	GO:0023052	these signaling interactions	biological signaling		C3537152
+4199	4238	GO:0009058	formation of heterotetrameric complexes	anabolism	Anabolism	C0220781
+4382	4433	GO:0005488	bind to entire different combinations of receptors.	binding	Binding 	C1167622
+4448	4454	GO:0040007	growth	growth	Growth	C0018270
+4502	4534	GO:0005488	bind to activin type ii receptor	binding	Binding 	C1167622
+4643	4647	GO:0005623	cell	cell	Cells	C0007634
+4697	4723	GO:0007601	seen in comparable mutants	vision	Vision	C0042789
+4767	4811	GO:0030061	that neural crest cell specific alk5 mutants	mitochondrial cristae	Mitochondrial cristae	C0230844
+4854	4865	GO:0032502	development	development	Biologic Development	C0678723
+4960	4996	GO:0007601	seen in corresponding tgfbr2 mutants	vision	Vision	C0042789
+5049	5117	GO:0030061	unique non-redundant signaling events in cardiac neural crest cells,	mitochondrial cristae	Mitochondrial cristae	C0230844
+5144	5182	GO:0009790	pharyngeal phenotypes of mouse embryos	embryo development	Embryonic Development	C0013936
+5191	5231	GO:0030061	alk5 specifically in neural crest cells.	mitochondrial cristae	Mitochondrial cristae	C0230844
+5361	5379	GO:0009790	the mutant embryos	embryo development	Embryonic Development	C0013936
+5388	5405	GO:0035003	severe aortic sac	subapical complex location		C1325744
+5388	5405	GO:0071173	severe aortic sac	spindle assembly checkpoint		C2754376
+5471	5480	GO:0000917	septation	septation		C1748481
+5611	5668	GO:0051402	in apoptosis of postmigratory cardiac neural crest cells.	apoptosis of neurons	Apoptosis of neurons	C1660771
+5715	5752	GO:0007601	seen in corresponding tgfbr2 mutants,	vision	Vision	C0042789
+5783	5819	GO:0007165	a wider spectrum of signaling events	signal transduction	Signal Transduction	C0037083
+5783	5819	GO:0023052	a wider spectrum of signaling events	biological signaling		C3537152
+5839	5846	GO:0005488	binding	binding	Binding 	C1167622
+5915	5937	GO:0060465	pharyngeal development	pharyngeal development		C2610617
+5949	5978	GO:0043198	persistent truncus arteriosus	dendritic shaft		C1523842
+6384	6397	GO:0007567	the alk5 gene	parturition	Birth	C0005615
+6384	6397	GO:0000003	the alk5 gene	reproduction	Reproduction	C0035150
+6609	6616	GO:0009790	embryos	embryo development	Embryonic Development	C0013936
+6655	6664	GO:0007565	gestation	gestation	Pregnancy	C0032961
+6767	6790	GO:0007567	either during the birth	parturition	Birth	C0005615
+6847	6879	GO:0007165	alk5-mediated tgf-beta-signaling	signal transduction	Signal Transduction	C0037083
+6847	6879	GO:0023052	alk5-mediated tgf-beta-signaling	biological signaling		C3537152
+6894	6905	GO:0032502	development	development	Biologic Development	C0678723
+6968	7006	GO:0009790	casting dye experiments on e17 embryos	embryo development	Embryonic Development	C0013936
+7020	7040	GO:0009790	in wild-type embryos	embryo development	Embryonic Development	C0013936
+7074	7109	GO:0043198	separated from the pulmonary trunk,	dendritic shaft		C1523842
+7235	7262	GO:0009790	alk5/wnt1cre mutant embryos	embryo development	Embryonic Development	C0013936
+7286	7319	GO:0043198	a single prominent arterial trunk	dendritic shaft		C1523842
+7339	7374	GO:0009790	corresponding tgfbr2 mutant embryos	embryo development	Embryonic Development	C0013936
+7894	7958	GO:0043198	originated from the right lateral aspect of the ascending trunk,	dendritic shaft		C1523842
+8018	8052	GO:0043198	right ventral aspects of the trunk	dendritic shaft		C1523842
+8256	8291	GO:0043198	out from the common arterial trunk.	dendritic shaft		C1523842
+8442	8473	GO:0007601	seen in tgfbr2/wnt1-cre mutants	vision	Vision	C0042789
+8511	8532	GO:0030061	in neural crest cells	mitochondrial cristae	Mitochondrial cristae	C0230844
+8533	8580	GO:0043198	leads to persistent truncus arteriosus type a2.	dendritic shaft		C1523842
+8614	8627	GO:0009653	morphogenesis	morphogenesis	Morphogenesis	C0026559
+8713	8762	GO:0043198	= truncus arteriosus with interrupted aortic arch	dendritic shaft		C1523842
+8848	8870	GO:0043198	arches of the truncus.	dendritic shaft		C1523842
+9008	9023	GO:0043198	pulmonary trunk	dendritic shaft		C1523842
+9033	9069	GO:0030428	separated by the conotruncal septum.	cell septum	Cell septum	C1327729
+9046	9068	GO:0030428	the conotruncal septum	cell septum	Cell septum	C1327729
+9207	9212	GO:0007601	seen.	vision	Vision	C0042789
+9252	9268	GO:0043198	from the truncus	dendritic shaft		C1523842
+9326	9331	GO:0043198	; pt,	dendritic shaft		C1523842
+9332	9347	GO:0043198	pulmonary trunk	dendritic shaft		C1523842
+9496	9526	GO:0043198	persistent truncus arteriosus.	dendritic shaft		C1523842
+9584	9618	GO:0035003	aortic sac in alk5/wnt1cre mutants	subapical complex location		C1325744
+9584	9618	GO:0071173	aortic sac in alk5/wnt1cre mutants	spindle assembly checkpoint		C2754376
+9620	9654	GO:0072358	during cardiovascular development,	cardiovascular system development		C3156318
+9620	9654	GO:0072359	during cardiovascular development,	circulatory system development		C3156319
+9655	9663	GO:1990295	the paas	post-anaphase microtubule array		C3814045
+9791	9814	GO:0007165	alk5-mediated signaling	signal transduction	Signal Transduction	C0037083
+9791	9814	GO:0023052	alk5-mediated signaling	biological signaling		C3537152
+9819	9850	GO:1990295	involved in remodeling of paas,	post-anaphase microtubule array		C3814045
+9911	9922	GO:0032502	development	development	Biologic Development	C0678723
+9982	10014	GO:1990295	obvious differences in the paas,	post-anaphase microtubule array		C3814045
+10113	10133	GO:0009058	the well-formed 3rd,	anabolism	Anabolism	C0220781
+10142	10151	GO:1990295	6th paas.	post-anaphase microtubule array		C3814045
+10217	10225	GO:1990295	4th paas	post-anaphase microtubule array		C3814045
+10335	10352	GO:1990295	4th pairs of paas	post-anaphase microtubule array		C3814045
+10391	10411	GO:1990295	the 6th pair of paas	post-anaphase microtubule array		C3814045
+10721	10738	GO:1990295	6th pairs of paas	post-anaphase microtubule array		C3814045
+10761	10792	GO:1990295	abnormal patterning of the paas	post-anaphase microtubule array		C3814045
+10884	10912	GO:1990295	the developing paas at e11.0	post-anaphase microtubule array		C3814045
+11242	11251	GO:1990295	6th paas.	post-anaphase microtubule array		C3814045
+11256	11271	GO:0043198	pulmonary trunk	dendritic shaft		C1523842
+11288	11307	GO:0043198	truncus arteriosus.	dendritic shaft		C1523842
+11323	11337	GO:0035003	the aortic sac	subapical complex location		C1325744
+11323	11337	GO:0071173	the aortic sac	spindle assembly checkpoint		C2754376
+11390	11436	GO:0007601	seen in frontal sections of the control sample	vision	Vision	C0042789
+11562	11606	GO:1990295	the left horn together with the left 4th paa	post-anaphase microtubule array		C3814045
+11680	11703	GO:0035003	the t-shaped aortic sac	subapical complex location		C1325744
+11680	11703	GO:0071173	the t-shaped aortic sac	spindle assembly checkpoint		C2754376
+11741	11752	GO:0043198	the truncus	dendritic shaft		C1523842
+11803	11824	GO:1990295	branched to the paas,	post-anaphase microtubule array		C3814045
+11825	11873	GO:1990295	particularly to the predominant pair of 6th paas	post-anaphase microtubule array		C3814045
+11976	12003	GO:0035003	derived from the aortic sac	subapical complex location		C1325744
+11976	12003	GO:0071173	derived from the aortic sac	spindle assembly checkpoint		C2754376
+12004	12025	GO:0009790	in late stage embryos	embryo development	Embryonic Development	C0013936
+12078	12120	GO:0043198	severe shortening of the ascending truncus	dendritic shaft		C1523842
+12158	12203	GO:0035003	abnormal aortic sac in alk5/wnt1-cre mutants.	subapical complex location		C1325744
+12158	12203	GO:0071173	abnormal aortic sac in alk5/wnt1-cre mutants.	spindle assembly checkpoint		C2754376
+12246	12294	GO:0035003	the typical t-shaped structure of the aortic sac	subapical complex location		C1325744
+12246	12294	GO:0071173	the typical t-shaped structure of the aortic sac	spindle assembly checkpoint		C2754376
+12295	12311	GO:0007601	seen in controls	vision	Vision	C0042789
+12335	12372	GO:0009790	frontal image of ink-injected embryos	embryo development	Embryonic Development	C0013936
+12498	12538	GO:0035003	d point to the aortic sac of the control	subapical complex location		C1325744
+12498	12538	GO:0071173	d point to the aortic sac of the control	spindle assembly checkpoint		C2754376
+12925	12946	GO:0009790	the resulting embryos	embryo development	Embryonic Development	C0013936
+13102	13121	GO:0009790	staining of embryos	embryo development	Embryonic Development	C0013936
+13268	13319	GO:0009790	serial transverse sectioning of whole mount embryos	embryo development	Embryonic Development	C0013936
+13376	13380	GO:0005623	cell	cell	Cells	C0007634
+13469	13478	GO:1990295	the paas,	post-anaphase microtubule array		C3814045
+13479	13489	GO:0035003	aortic sac	subapical complex location		C1325744
+13479	13489	GO:0071173	aortic sac	spindle assembly checkpoint		C2754376
+14069	14077	GO:1990295	f) paas.	post-anaphase microtubule array		C3814045
+14153	14180	GO:0004565	beta-galactosidase activity	beta-galactosidase activity		C1150053
+14183	14193	GO:0035003	aortic sac	subapical complex location		C1325744
+14183	14193	GO:0071173	aortic sac	spindle assembly checkpoint		C2754376
+14198	14261	GO:0030428	aortico-pulmonary septal defects in alk5/wnt1cre mutant embryos	cell septum	Cell septum	C1327729
+14263	14272	GO:0000917	septation	septation		C1748481
+14350	14376	GO:0035003	distally in the aortic sac	subapical complex location		C1325744
+14350	14376	GO:0071173	distally in the aortic sac	spindle assembly checkpoint		C2754376
+14426	14450	GO:0030261	the condensed mesenchyme	chromosome condensation	Chromosome Condensation	C1155631
+14471	14506	GO:0035003	forms in the base of the aortic sac	subapical complex location		C1325744
+14471	14506	GO:0071173	forms in the base of the aortic sac	spindle assembly checkpoint		C2754376
+14507	14533	GO:0007567	between the origins of 4th	parturition	Birth	C0005615
+14507	14533	GO:0000003	between the origins of 4th	reproduction	Reproduction	C0035150
+14538	14547	GO:1990295	6th paas.	post-anaphase microtubule array		C3814045
+14562	14620	GO:0030428	two prongs of the developing aortico-pulmonary (ap) septum	cell septum	Cell septum	C1327729
+14621	14653	GO:0043198	extend into the truncal cushions	dendritic shaft		C1523842
+14680	14689	GO:0000917	septation	septation		C1748481
+14706	14731	GO:0035003	the aortic sac cranially.	subapical complex location		C1325744
+14706	14731	GO:0071173	the aortic sac cranially.	spindle assembly checkpoint		C2754376
+14732	14773	GO:0009790	in ink-injected control embryos at e11.5,	embryo development	Embryonic Development	C0013936
+14825	14836	GO:0043198	the truncus	dendritic shaft		C1523842
+14856	14888	GO:0007601	seen as a twisted configuration,	vision	Vision	C0042789
+14913	14942	GO:0043198	in orientation of the truncal	dendritic shaft		C1523842
+15160	15211	GO:0035003	a dramatic reduction in the size of the aortic sac.	subapical complex location		C1325744
+15160	15211	GO:0071173	a dramatic reduction in the size of the aortic sac.	spindle assembly checkpoint		C2754376
+15263	15308	GO:0035003	the characteristic rotation of the aortic sac	subapical complex location		C1325744
+15263	15308	GO:0071173	the characteristic rotation of the aortic sac	spindle assembly checkpoint		C2754376
+15313	15343	GO:0043198	truncal oft at the level where	dendritic shaft		C1523842
+15351	15360	GO:0000917	septation	septation		C1748481
+15386	15449	GO:0030261	the presence of the distinctive condensed ap-septal mesenchyme,	chromosome condensation	Chromosome Condensation	C1155631
+15499	15518	GO:0043198	the pulmonary trunk	dendritic shaft		C1523842
+15654	15688	GO:0051145	differentiation into smooth muscle	smooth muscle cell differentiation		C1523169
+15724	15769	GO:0035003	the characteristic rotation of the aortic sac	subapical complex location		C1325744
+15724	15769	GO:0071173	the characteristic rotation of the aortic sac	spindle assembly checkpoint		C2754376
+15774	15785	GO:0043198	truncal oft	dendritic shaft		C1523842
+15823	15850	GO:0009058	a properly formed ap-septum	anabolism	Anabolism	C0220781
+16002	16006	GO:0005623	cell	cell	Cells	C0007634
+16052	16083	GO:1990295	the abnormally large sixth paas	post-anaphase microtubule array		C3814045
+16088	16099	GO:0043198	the truncus	dendritic shaft		C1523842
+16292	16322	GO:0035003	the rotation of the aortic sac	subapical complex location		C1325744
+16292	16322	GO:0071173	the rotation of the aortic sac	spindle assembly checkpoint		C2754376
+16327	16338	GO:0043198	truncal oft	dendritic shaft		C1523842
+16370	16400	GO:0007601	seen in alk5/wnt1-cre mutants.	vision	Vision	C0042789
+16426	16450	GO:1990295	the 6th pair of the paas	post-anaphase microtubule array		C3814045
+16522	16558	GO:0030428	a noticeable amount of septal tissue	cell septum	Cell septum	C1327729
+16579	16587	GO:1990295	6th paas	post-anaphase microtubule array		C3814045
+16601	16645	GO:0030261	the condensed septal mesenchyme lacking alk2	chromosome condensation	Chromosome Condensation	C1155631
+16663	16699	GO:0043198	the prongs into the truncal cushions	dendritic shaft		C1523842
+16712	16726	GO:0030428	the ap septum.	cell septum	Cell septum	C1327729
+16741	16753	GO:1990295	the 6th paas	post-anaphase microtubule array		C3814045
+16833	16842	GO:0000917	septation	septation		C1748481
+16881	16906	GO:0035003	migrate to the aortic sac	subapical complex location		C1325744
+16881	16906	GO:0071173	migrate to the aortic sac	spindle assembly checkpoint		C2754376
+16911	16936	GO:0043198	the truncal cushion level	dendritic shaft		C1523842
+17054	17082	GO:0007165	that alk2-mediated signaling	signal transduction	Signal Transduction	C0037083
+17054	17082	GO:0023052	that alk2-mediated signaling	biological signaling		C3537152
+17098	17132	GO:0051145	smooth muscle cell differentiation	smooth muscle cell differentiation		C1523169
+17239	17269	GO:0035003	the rotation of the aortic sac	subapical complex location		C1325744
+17239	17269	GO:0071173	the rotation of the aortic sac	spindle assembly checkpoint		C2754376
+17274	17290	GO:0043198	the truncal oft,	dendritic shaft		C1523842
+17291	17329	GO:0009058	and in the formation of the ap septum,	anabolism	Anabolism	C0220781
+17330	17378	GO:0009405	the pathogenetic mechanisms behind these defects	pathogenesis	Pathogenesis	C0699748
+17419	17434	GO:0043198	the truncal oft	dendritic shaft		C1523842
+17562	17584	GO:0009790	(c-d) embryos at e11.5	embryo development	Embryonic Development	C0013936
+17723	17739	GO:0007601	seen in control.	vision	Vision	C0042789
+17790	17801	GO:0035003	aortic sac.	subapical complex location		C1325744
+17790	17801	GO:0071173	aortic sac.	spindle assembly checkpoint		C2754376
+17811	17821	GO:0035003	aortic sac	subapical complex location		C1325744
+17811	17821	GO:0071173	aortic sac	spindle assembly checkpoint		C2754376
+17826	17833	GO:0043198	truncus	dendritic shaft		C1523842
+17856	17874	GO:0007165	signaling via alk5	signal transduction	Signal Transduction	C0037083
+17856	17874	GO:0023052	signaling via alk5	biological signaling		C3537152
+17932	17941	GO:0000917	septation	septation		C1748481
+18265	18276	GO:1990295	the 6th paa	post-anaphase microtubule array		C3814045
+18282	18292	GO:0035003	aortic sac	subapical complex location		C1325744
+18282	18292	GO:0071173	aortic sac	spindle assembly checkpoint		C2754376
+18298	18316	GO:0043198	truncus arteriosus	dendritic shaft		C1523842
+18333	18348	GO:0043198	pulmonary trunk	dendritic shaft		C1523842
+18384	18409	GO:0030428	the ap septal mesenchyme.	cell septum	Cell septum	C1327729
+18441	18497	GO:0051402	increased apoptosis of post-migratory neural crest cells	apoptosis of neurons	Apoptosis of neurons	C1660771
+18551	18591	GO:0030428	an inadequate amount of ap-septal tissue	cell septum	Cell septum	C1327729
+18592	18621	GO:0035003	in the base of the aortic sac	subapical complex location		C1325744
+18592	18621	GO:0071173	in the base of the aortic sac	spindle assembly checkpoint		C2754376
+18622	18648	GO:0007567	between the origins of 4th	parturition	Birth	C0005615
+18622	18648	GO:0000003	between the origins of 4th	reproduction	Reproduction	C0035150
+18653	18662	GO:1990295	6th paas.	post-anaphase microtubule array		C3814045
+18764	18773	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+18764	18773	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+18966	18970	GO:0005623	cell	cell	Cells	C0007634
+18995	19009	GO:0035003	the aortic sac	subapical complex location		C1325744
+18995	19009	GO:0071173	the aortic sac	spindle assembly checkpoint		C2754376
+19035	19054	GO:0030428	the ap-septum forms	cell septum	Cell septum	C1327729
+19110	19114	GO:0005623	cell	cell	Cells	C0007634
+19140	19144	GO:0005623	cell	cell	Cells	C0007634
+19323	19332	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+19323	19332	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+19360	19396	GO:0097194	apoptotic neural crest-derived cells	apoptosis	Apoptosis	C0162638
+19360	19396	GO:0006915	apoptotic neural crest-derived cells	apoptosis	Apoptosis	C0162638
+19438	19465	GO:0030428	the prongs of the ap septum	cell septum	Cell septum	C1327729
+19535	19544	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+19535	19544	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+19688	19727	GO:0009790	unlike in alk5/wnt1-cre mutant embryos,	embryo development	Embryonic Development	C0013936
+19738	19747	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+19738	19747	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+19823	19832	GO:0000917	septation	septation		C1748481
+19896	19905	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+19896	19905	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+20034	20043	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+20034	20043	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+20079	20102	GO:0035003	on the aortic sac level	subapical complex location		C1325744
+20079	20102	GO:0071173	on the aortic sac level	spindle assembly checkpoint		C2754376
+20311	20349	GO:0009790	tunel staining of lacz-stained embryos	embryo development	Embryonic Development	C0013936
+20363	20383	GO:0097194	that apoptotic cells	apoptosis	Apoptosis	C0162638
+20363	20383	GO:0006915	that apoptotic cells	apoptosis	Apoptosis	C0162638
+20384	20411	GO:0030061	are of neural crest origin.	mitochondrial cristae	Mitochondrial cristae	C0230844
+20439	20450	GO:0035003	aortic sac,	subapical complex location		C1325744
+20439	20450	GO:0071173	aortic sac,	spindle assembly checkpoint		C2754376
+20451	20494	GO:0097194	arrows point to clusters of apoptotic cells	apoptosis	Apoptosis	C0162638
+20451	20494	GO:0006915	arrows point to clusters of apoptotic cells	apoptosis	Apoptosis	C0162638
+20507	20522	GO:0035003	the aortic sac.	subapical complex location		C1325744
+20507	20522	GO:0071173	the aortic sac.	spindle assembly checkpoint		C2754376
+20612	20621	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+20612	20621	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+20622	20672	GO:1990295	coincides with the abnormal patterning of the paas	post-anaphase microtubule array		C3814045
+20677	20692	GO:0035003	the aortic sac,	subapical complex location		C1325744
+20677	20692	GO:0071173	the aortic sac,	spindle assembly checkpoint		C2754376
+20716	20725	GO:0000917	septation	septation		C1748481
+20746	20781	GO:0007165	a specific role for alk5 signaling,	signal transduction	Signal Transduction	C0037083
+20746	20781	GO:0023052	a specific role for alk5 signaling,	biological signaling		C3537152
+20847	20856	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+20847	20856	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+20884	20915	GO:0007601	seen in tgfbr2/wnt1-cre mutants	vision	Vision	C0042789
+21016	21049	GO:0060465	development of pharyngeal organs,	pharyngeal development		C2610617
+21138	21141	GO:0007601	see	vision	Vision	C0042789
+21303	21319	GO:0007601	seen in controls	vision	Vision	C0042789
+21450	21481	GO:0044326	bilaterally in the neck region,	dendritic spine neck		C3159206
+21498	21543	GO:0030061	surrounded by neural crest-derived mesenchyme	mitochondrial cristae	Mitochondrial cristae	C0230844
+21802	21813	GO:0032502	development	development	Biologic Development	C0678723
+21905	21936	GO:0044326	the thyroids in the neck region	dendritic spine neck		C3159206
+21940	21955	GO:0007601	seen in fig 8c.	vision	Vision	C0042789
+22294	22325	GO:0007601	seen in tgfbr2/wnt1-cre mutants	vision	Vision	C0042789
+22620	22624	GO:0007601	seen	vision	Vision	C0042789
+22675	22701	GO:0030061	surrounded by neural crest	mitochondrial cristae	Mitochondrial cristae	C0230844
+22736	22740	GO:0005623	cell	cell	Cells	C0007634
+23472	23521	GO:0007567	a powerful tool for tissue-specific gene deletion	parturition	Birth	C0005615
+23472	23521	GO:0000003	a powerful tool for tissue-specific gene deletion	reproduction	Reproduction	C0035150
+23612	23655	GO:0007567	the nc-specific deletion of the tgfbr2 gene	parturition	Birth	C0005615
+23612	23655	GO:0000003	the nc-specific deletion of the tgfbr2 gene	reproduction	Reproduction	C0035150
+23967	23974	GO:0005488	binding	binding	Binding 	C1167622
+24120	24168	GO:0043198	(truncus arteriosus with interrupted aortic arch	dendritic shaft		C1523842
+24224	24263	GO:1990295	earlier patterning defects of the paas,	post-anaphase microtubule array		C3814045
+24273	24322	GO:1990295	particularly obvious in the 3rd pair of the paas.	post-anaphase microtubule array		C3814045
+24367	24407	GO:0035003	an abnormal patterning of the aortic sac	subapical complex location		C1325744
+24367	24407	GO:0071173	an abnormal patterning of the aortic sac	spindle assembly checkpoint		C2754376
+24425	24434	GO:0000917	septation	septation		C1748481
+24475	24540	GO:0043198	= truncus artriosus with no main pulmonary artery segment present	dendritic shaft		C1523842
+24586	24631	GO:0035003	that significant hypoplasia of the aortic sac	subapical complex location		C1325744
+24586	24631	GO:0071173	that significant hypoplasia of the aortic sac	spindle assembly checkpoint		C2754376
+24632	24691	GO:0043198	leads to a severe shortening of the ascending truncal arch,	dendritic shaft		C1523842
+24704	24752	GO:1990295	possible defects in derivatives of the 4th paas,	post-anaphase microtubule array		C3814045
+24823	24911	GO:0051402	likely due to substantial apoptosis of alk5-deficient post-migratory neural crest cells,	apoptosis of neurons	Apoptosis of neurons	C1660771
+24974	24984	GO:0008219	cell death	cell death	Cell Death	C0007587
+25078	25112	GO:0007165	tgf-beta signaling in cardiac nccs	signal transduction	Signal Transduction	C0037083
+25078	25112	GO:0023052	tgf-beta signaling in cardiac nccs	biological signaling		C3537152
+25164	25180	GO:0043235	receptor complex	receptor complex		C1523873
+25201	25236	GO:0007165	signaling of other related ligands,	signal transduction	Signal Transduction	C0037083
+25201	25236	GO:0023052	signaling of other related ligands,	biological signaling		C3537152
+25389	25433	GO:0048179	a complex with the activin type iib receptor	activin receptor complex		C1325737
+25518	25524	GO:0040007	growth	growth	Growth	C0018270
+25765	25776	GO:0032502	development	development	Biologic Development	C0678723
+25830	25852	GO:0040007	that circulating gdfs,	growth	Growth	C0018270
+25948	25961	GO:0009653	morphogenesis	morphogenesis	Morphogenesis	C0026559
+25988	25997	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+25988	25997	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+26036	26049	GO:0030428	the ap-septum	cell septum	Cell septum	C1327729
+26050	26082	GO:0007567	forms between the origins of 4th	parturition	Birth	C0005615
+26050	26082	GO:0000003	forms between the origins of 4th	reproduction	Reproduction	C0035150
+26087	26096	GO:1990295	6th paas.	post-anaphase microtubule array		C3814045
+26124	26127	GO:0007601	see	vision	Vision	C0042789
+26136	26145	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+26136	26145	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+26205	26237	GO:0035003	the aortic sac at the site where	subapical complex location		C1325744
+26205	26237	GO:0071173	the aortic sac at the site where	spindle assembly checkpoint		C2754376
+26238	26270	GO:0030428	the prospective ap septum forms,	cell septum	Cell septum	C1327729
+26282	26292	GO:0008219	cell death	cell death	Cell Death	C0007587
+26302	26322	GO:0030428	the ap septal defect	cell septum	Cell septum	C1327729
+26323	26339	GO:0007601	seen in mutants.	vision	Vision	C0042789
+26365	26369	GO:0005623	cell	cell	Cells	C0007634
+26386	26424	GO:0030485	differentiating to smooth muscle cells	smooth muscle fiber	Myocytes, Smooth Muscle	C1135918
+26468	26514	GO:0030428	the ap septum forming in alk5/wnt1-cre mutants	cell septum	Cell septum	C1327729
+26580	26584	GO:0005623	cell	cell	Cells	C0007634
+26594	26607	GO:0030428	the ap septum	cell septum	Cell septum	C1327729
+26636	26646	GO:0008219	cell death	cell death	Cell Death	C0007587
+26682	26686	GO:0005623	cell	cell	Cells	C0007634
+26696	26709	GO:0030428	the ap-septum	cell septum	Cell septum	C1327729
+26746	26783	GO:0030485	differentiate to smooth muscle cells.	smooth muscle fiber	Myocytes, Smooth Muscle	C1135918
+26825	26869	GO:0007165	an indispensable role for tgf-beta-signaling	signal transduction	Signal Transduction	C0037083
+26825	26869	GO:0023052	an indispensable role for tgf-beta-signaling	biological signaling		C3537152
+26870	26896	GO:0030154	in differentiation of nccs	cell differentiation	Cell Differentiation process	C0007589
+26897	26922	GO:0030485	into smooth muscle cells.	smooth muscle fiber	Myocytes, Smooth Muscle	C1135918
+27008	27066	GO:0030154	defective ncc differentiation into alphasma-positive cells	cell differentiation	Cell Differentiation process	C0007589
+27067	27083	GO:0030428	in the ap septum	cell septum	Cell septum	C1327729
+27234	27257	GO:0007165	that signaling via alk5	signal transduction	Signal Transduction	C0037083
+27234	27257	GO:0023052	that signaling via alk5	biological signaling		C3537152
+27265	27307	GO:0051145	required for smooth muscle differentiation	smooth muscle cell differentiation		C1523169
+27437	27483	GO:0007601	seen in the velocardiofacial/digeorge syndrome	vision	Vision	C0042789
+27571	27581	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+27671	27700	GO:0007601	seen in alk5/wnt1-cre mutants	vision	Vision	C0042789
+27730	27746	GO:0007601	seen in vcf/dgs,	vision	Vision	C0042789
+27981	27991	GO:0008219	cell death	cell death	Cell Death	C0007587
+28163	28183	GO:0007601	seen in alk5 mutants	vision	Vision	C0042789
+28248	28253	GO:0007567	genes	parturition	Birth	C0005615
+28248	28253	GO:0000003	genes	reproduction	Reproduction	C0035150
+28689	28721	GO:0016477	the defective migration of cells	cell migration	Migration, Cell	C1622501
+28999	29036	GO:0007601	seen in the chick nc ablation models,	vision	Vision	C0042789
+29051	29078	GO:0035003	the hypoplastic aortic sac,	subapical complex location		C1325744
+29051	29078	GO:0071173	the hypoplastic aortic sac,	spindle assembly checkpoint		C2754376
+29255	29295	GO:0030061	in neural crest-specific mutants of alk5	mitochondrial cristae	Mitochondrial cristae	C0230844
+29321	29325	GO:0005623	cell	cell	Cells	C0007634
+29602	29639	GO:0030428	detectable septal mesenchyme present,	cell septum	Cell septum	C1327729
+29703	29754	GO:0030428	fails due to a lack of penetration of septal prongs	cell septum	Cell septum	C1327729
+29822	29850	GO:0030428	a sizeable septal mesenchyme	cell septum	Cell septum	C1327729
+29860	29864	GO:0007601	seen	vision	Vision	C0042789
+29866	29917	GO:0035003	still without any obvious looping of the aortic sac	subapical complex location		C1325744
+29866	29917	GO:0071173	still without any obvious looping of the aortic sac	spindle assembly checkpoint		C2754376
+29922	29934	GO:0043198	truncal oft,	dendritic shaft		C1523842
+29951	29994	GO:0030428	the mere presence of the septal mesenchyme,	cell septum	Cell septum	C1327729
+30011	30045	GO:0051145	smooth muscle cell differentiation	smooth muscle cell differentiation		C1523169
+30163	30225	GO:0007567	gene specifically in the mouse neural crest (nc) cell lineage.	parturition	Birth	C0005615
+30265	30269	GO:0005623	cell	cell	Cells	C0007634
+30304	30334	GO:0007165	non-redundant signaling events	signal transduction	Signal Transduction	C0037083
+30304	30334	GO:0023052	non-redundant signaling events	biological signaling		C3537152
+30458	30498	GO:0030061	observed in the nc-specific alk5 mutants	mitochondrial cristae	Mitochondrial cristae	C0230844
+30531	30560	GO:0007601	seen in corresponding mutants	vision	Vision	C0042789
+30611	30625	GO:0007165	that signaling	signal transduction	Signal Transduction	C0037083
+30611	30625	GO:0023052	that signaling	biological signaling		C3537152
+30692	30730	GO:0007507	during cardiac/pharyngeal development.	cardiac development		C2263229
+30787	30802	GO:0009790	control embryos	embryo development	Embryonic Development	C0013936
+30808	30836	GO:0009291	generated by mating alk5ko/+	unidirectional conjugation		C1160186
+30808	30836	GO:0007618	generated by mating alk5ko/+	mating		C1260875
+30808	30836	GO:0000747	generated by mating alk5ko/+	conjugation with cellular fusion		C1748461
+30808	30836	GO:1990277	generated by mating alk5ko/+	parasexual conjugation with cellular fusion		C3812685
+31350	31408	GO:0007618	mated during the dark period of the controlled light cycle	mating		C1260875
+31504	31511	GO:0009790	embryos	embryo development	Embryonic Development	C0013936
+31504	31511	GO:0009790	embryos	embryo development	Embryonic Development	C0013936
+31504	31511	GO:0009790	embryos	embryo development	Embryonic Development	C0013936
+31836	31863	GO:0004565	beta-galactosidase activity	beta-galactosidase activity		C1150053
+32279	32294	GO:0007165	(cell signaling	signal transduction	Signal Transduction	C0037083
+32279	32294	GO:0007165	(cell signaling	signal transduction	Signal Transduction	C0037083
+32333	32344	GO:0042571	antibodies.	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+32447	32459	GO:0009790	more embryos	embryo development	Embryonic Development	C0013936
+32452	32459	GO:0009790	embryos	embryo development	Embryonic Development	C0013936
+32452	32459	GO:0009790	embryos	embryo development	Embryonic Development	C0013936
+33383	33408	GO:0009790	the tgfbr2 mutant embryos	embryo development	Embryonic Development	C0013936
+33683	33721	GO:0009790	choudhary for tgfbr2/wnt1-cre embryos.	embryo development	Embryonic Development	C0013936

@@ -1,0 +1,178 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+12	53	GO:0007567	characterization of the mouse mcoln1 gene	parturition	Birth	C0005615
+12	53	GO:0000003	characterization of the mouse mcoln1 gene	reproduction	Reproduction	C0035150
+102	116	GO:0007601	seen in humans	vision	Vision	C0042789
+172	221	GO:0030849	an autosomal recessive lysosomal storage disorder	autosome	Autosome	C0596142
+300	314	GO:0007567	the mliv gene,	parturition	Birth	C0005615
+300	314	GO:0000003	the mliv gene,	reproduction	Reproduction	C0035150
+555	570	GO:0007601	seen in humans.	vision	Vision	C0042789
+595	606	GO:0007567	mouse genes	parturition	Birth	C0005615
+595	606	GO:0000003	mouse genes	reproduction	Reproduction	C0035150
+654	668	GO:1902698	91% amino acid	acidogenesis		C3823112
+654	668	GO:1902705	91% amino acid	acidogenesis		C3823112
+654	668	GO:1902706	91% amino acid	acidogenesis		C3823112
+654	668	GO:1902699	91% amino acid	acidogenesis		C3823112
+729	739	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+755	796	GO:1902698	an open reading frame of 580 amino acids,	acidogenesis		C3823112
+755	796	GO:1902705	an open reading frame of 580 amino acids,	acidogenesis		C3823112
+755	796	GO:1902706	an open reading frame of 580 amino acids,	acidogenesis		C3823112
+755	796	GO:1902699	an open reading frame of 580 amino acids,	acidogenesis		C3823112
+914	968	GO:0008380	that results from murine specific alternative splicing	RNA splicing	RNA Splicing	C0035687
+914	968	GO:0045292	that results from murine specific alternative splicing	nuclear mRNA cis splicing, via spliceosome		C2610186
+977	1001	GO:1902698	a 611 amino acid protein	acidogenesis		C3823112
+977	1001	GO:1902705	a 611 amino acid protein	acidogenesis		C3823112
+977	1001	GO:1902706	a 611 amino acid protein	acidogenesis		C3823112
+977	1001	GO:1902699	a 611 amino acid protein	acidogenesis		C3823112
+1084	1123	GO:0016021	especially in the transmembrane domains	integral to membrane		C1167322
+1084	1123	GO:0044214	especially in the transmembrane domains	transmembrane	fully spanning the plasma membrane	C2752508
+1132	1136	GO:0046930	pore	pore	Pore	C1325742
+1151	1196	GO:0005770	the late endosomal/lysosomal targeting signal	late endosome		C1166848
+1276	1292	GO:0012506	vesicle membrane	vesicle membrane		C1167317
+1425	1436	GO:0032502	development	development	Biologic Development	C0678723
+1537	1567	GO:0007567	alternate function of the gene	parturition	Birth	C0005615
+1537	1567	GO:0000003	alternate function of the gene	reproduction	Reproduction	C0035150
+1668	1717	GO:0030849	an autosomal recessive lysosomal storage disorder	autosome	Autosome	C0596142
+1781	1792	GO:0032502	development	development	Biologic Development	C0678723
+2053	2062	GO:0007588	excretion	excretion	Excretory function	C0221102
+2128	2161	GO:0005764	abnormal lysosomal storage bodies	lysosome	Lysosomes	C0024369
+2172	2179	GO:0005773	vacuole	vacuole	Vacuole	C0042219
+2261	2290	GO:0007567	prior to gene identification,	parturition	Birth	C0005615
+2261	2290	GO:0000003	prior to gene identification,	reproduction	Reproduction	C0035150
+2520	2541	GO:0007567	the human gene mcoln1	parturition	Birth	C0005615
+2520	2541	GO:0000003	the human gene mcoln1	reproduction	Reproduction	C0035150
+2570	2580	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+2630	2712	GO:0007567	a member of the transient receptor potential (trp) cation channel gene superfamily	parturition	Birth	C0005615
+2630	2712	GO:0000003	a member of the transient receptor potential (trp) cation channel gene superfamily	reproduction	Reproduction	C0035150
+2880	2920	GO:0005764	caused by defective lysosomal hydrolases	lysosome	Lysosomes	C0024369
+3093	3104	GO:0006897	endocytosis	endocytosis	Endocytosis	C0014139
+3128	3135	GO:0005773	vacuole	vacuole	Vacuole	C0042219
+3142	3191	GO:0006897	a decreased rate of endocytosed protein breakdown	endocytosis	Endocytosis	C0014139
+3199	3227	GO:0010467	over-expression of this gene	gene expression	Gene Expression	C0017262
+3338	3349	GO:0032502	development	development	Biologic Development	C0678723
+3531	3560	GO:1902698	the human amino acid sequence	acidogenesis		C3823112
+3531	3560	GO:1902705	the human amino acid sequence	acidogenesis		C3823112
+3531	3560	GO:1902706	the human amino acid sequence	acidogenesis		C3823112
+3531	3560	GO:1902699	the human amino acid sequence	acidogenesis		C3823112
+3882	3892	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+4145	4186	GO:0007567	transcript map of the mcoln1 gene region.	parturition	Birth	C0005615
+4145	4186	GO:0000003	transcript map of the mcoln1 gene region.	reproduction	Reproduction	C0035150
+4238	4248	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+4270	4280	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+4285	4311	GO:0007567	anchored by the genes insr	parturition	Birth	C0005615
+4285	4311	GO:0000003	anchored by the genes insr	reproduction	Reproduction	C0035150
+4680	4723	GO:0007567	the homologue of the human zinc finger gene	parturition	Birth	C0005615
+4680	4723	GO:0000003	the homologue of the human zinc finger gene	reproduction	Reproduction	C0035150
+4996	5041	GO:1902698	with an open reading frame of 580 amino acids	acidogenesis		C3823112
+4996	5041	GO:1902705	with an open reading frame of 580 amino acids	acidogenesis		C3823112
+4996	5041	GO:1902706	with an open reading frame of 580 amino acids	acidogenesis		C3823112
+4996	5041	GO:1902699	with an open reading frame of 580 amino acids	acidogenesis		C3823112
+5140	5148	GO:0007567	the gene	parturition	Birth	C0005615
+5140	5148	GO:0000003	the gene	reproduction	Reproduction	C0035150
+5187	5246	GO:0098687	a transcript map of the mcoln1 region of mouse chromosome 8	chromosome region	Region of chromosome	C1953345
+5312	5353	GO:0007567	a homologue of the human zinc finger gene	parturition	Birth	C0005615
+5312	5353	GO:0000003	a homologue of the human zinc finger gene	reproduction	Reproduction	C0035150
+5446	5510	GO:0007567	the mouse homologue of the human neuropathy target esterase gene	parturition	Birth	C0005615
+5446	5510	GO:0000003	the mouse homologue of the human neuropathy target esterase gene	reproduction	Reproduction	C0035150
+5527	5574	GO:0000496	130 base pairs after the polyadenylation signal	base pairing	Base Pairing	C0600436
+5726	5762	GO:0007567	the presence of the zinc finger gene	parturition	Birth	C0005615
+5726	5762	GO:0000003	the presence of the zinc finger gene	reproduction	Reproduction	C0035150
+5828	5838	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+5852	5862	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+6174	6209	GO:1902698	two mcoln1 amino acid substitutions	acidogenesis		C3823112
+6174	6209	GO:1902705	two mcoln1 amino acid substitutions	acidogenesis		C3823112
+6174	6209	GO:1902706	two mcoln1 amino acid substitutions	acidogenesis		C3823112
+6174	6209	GO:1902699	two mcoln1 amino acid substitutions	acidogenesis		C3823112
+6230	6261	GO:1902698	occur at conserved amino acids.	acidogenesis		C3823112
+6230	6261	GO:1902705	occur at conserved amino acids.	acidogenesis		C3823112
+6230	6261	GO:1902706	occur at conserved amino acids.	acidogenesis		C3823112
+6230	6261	GO:1902699	occur at conserved amino acids.	acidogenesis		C3823112
+6355	6390	GO:0016021	6 transmembrane domains with the n-	integral to membrane		C1167322
+6355	6390	GO:0044214	6 transmembrane domains with the n-	transmembrane	fully spanning the plasma membrane	C2752508
+6421	6430	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+6576	6598	GO:0016021	transmembrane domains,	integral to membrane		C1167322
+6576	6598	GO:0044214	transmembrane domains,	transmembrane	fully spanning the plasma membrane	C2752508
+6642	6646	GO:0046930	pore	pore	Pore	C1325742
+6673	6728	GO:0005770	the putative late endosomal/lysosomal targeting signal.	late endosome		C1166848
+6793	6817	GO:0009790	embryonic northern blots	embryo development	Embryonic Development	C0013936
+6905	6911	GO:0031672	A band	A band		C0230715
+7235	7244	GO:0007565	gestation	gestation	Pregnancy	C0032961
+7258	7279	GO:0007567	the human mcoln1 gene	parturition	Birth	C0005615
+7258	7279	GO:0000003	the human mcoln1 gene	reproduction	Reproduction	C0035150
+7719	7729	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+8375	8391	GO:0007567	the mcoln1 gene.	parturition	Birth	C0005615
+8375	8391	GO:0000003	the mcoln1 gene.	reproduction	Reproduction	C0035150
+9515	9531	GO:1902698	611 amino acids,	acidogenesis		C3823112
+9515	9531	GO:1902705	611 amino acids,	acidogenesis		C3823112
+9515	9531	GO:1902706	611 amino acids,	acidogenesis		C3823112
+9515	9531	GO:1902699	611 amino acids,	acidogenesis		C3823112
+9532	9546	GO:1902698	28 amino acids	acidogenesis		C3823112
+9532	9546	GO:1902705	28 amino acids	acidogenesis		C3823112
+9532	9546	GO:1902706	28 amino acids	acidogenesis		C3823112
+9532	9546	GO:1902699	28 amino acids	acidogenesis		C3823112
+9709	9732	GO:0016021	6 transmembrane domains	integral to membrane		C1167322
+9709	9732	GO:0044214	6 transmembrane domains	transmembrane	fully spanning the plasma membrane	C2752508
+9747	9751	GO:0046930	pore	pore	Pore	C1325742
+9783	9809	GO:1902698	diverge at amino acid 526.	acidogenesis		C3823112
+9783	9809	GO:1902705	diverge at amino acid 526.	acidogenesis		C3823112
+9783	9809	GO:1902706	diverge at amino acid 526.	acidogenesis		C3823112
+9783	9809	GO:1902699	diverge at amino acid 526.	acidogenesis		C3823112
+9810	9855	GO:1902698	the 55 amino acid c-terminal cytoplasmic tail	acidogenesis		C3823112
+9810	9855	GO:1902705	the 55 amino acid c-terminal cytoplasmic tail	acidogenesis		C3823112
+9810	9855	GO:1902706	the 55 amino acid c-terminal cytoplasmic tail	acidogenesis		C3823112
+9810	9855	GO:1902699	the 55 amino acid c-terminal cytoplasmic tail	acidogenesis		C3823112
+9892	9940	GO:1902698	completely different from the 86 amino acid tail	acidogenesis		C3823112
+9892	9940	GO:1902705	completely different from the 86 amino acid tail	acidogenesis		C3823112
+9892	9940	GO:1902706	completely different from the 86 amino acid tail	acidogenesis		C3823112
+9892	9940	GO:1902699	completely different from the 86 amino acid tail	acidogenesis		C3823112
+10427	10436	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+10470	10496	GO:0016021	the transmembrane domains.	integral to membrane		C1167322
+10470	10496	GO:0044214	the transmembrane domains.	transmembrane	fully spanning the plasma membrane	C2752508
+10544	10609	GO:1902698	amino acid sequence of the alternatively spliced mouse transcript	acidogenesis		C3823112
+10544	10609	GO:1902705	amino acid sequence of the alternatively spliced mouse transcript	acidogenesis		C3823112
+10544	10609	GO:1902706	amino acid sequence of the alternatively spliced mouse transcript	acidogenesis		C3823112
+10544	10609	GO:1902699	amino acid sequence of the alternatively spliced mouse transcript	acidogenesis		C3823112
+11275	11329	GO:1902698	a match to a putative 145 amino acid anonymous protein	acidogenesis		C3823112
+11275	11329	GO:1902705	a match to a putative 145 amino acid anonymous protein	acidogenesis		C3823112
+11275	11329	GO:1902706	a match to a putative 145 amino acid anonymous protein	acidogenesis		C3823112
+11275	11329	GO:1902699	a match to a putative 145 amino acid anonymous protein	acidogenesis		C3823112
+11722	11736	GO:1902698	the amino acid	acidogenesis		C3823112
+11722	11736	GO:1902705	the amino acid	acidogenesis		C3823112
+11722	11736	GO:1902706	the amino acid	acidogenesis		C3823112
+11722	11736	GO:1902699	the amino acid	acidogenesis		C3823112
+11759	11796	GO:0016021	all six of the transmembrane domains,	integral to membrane		C1167322
+11759	11796	GO:0044214	all six of the transmembrane domains,	transmembrane	fully spanning the plasma membrane	C2752508
+11927	11978	GO:0005770	act as a late endosomal/lysosomal targeting signal,	late endosome		C1166848
+12098	12119	GO:0051641	cellular localization	cellular localization		C1660642
+12169	12182	GO:0005770	late endosome	late endosome		C1166848
+12191	12199	GO:0005764	lysosome	lysosome	Lysosomes	C0024369
+12203	12224	GO:0007567	the mouse mcoln1 gene	parturition	Birth	C0005615
+12203	12224	GO:0000003	the mouse mcoln1 gene	reproduction	Reproduction	C0035150
+12310	12319	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+12328	12368	GO:1902698	the unique 86 amino acid c-terminal tail	acidogenesis		C3823112
+12328	12368	GO:1902705	the unique 86 amino acid c-terminal tail	acidogenesis		C3823112
+12328	12368	GO:1902706	the unique 86 amino acid c-terminal tail	acidogenesis		C3823112
+12328	12368	GO:1902699	the unique 86 amino acid c-terminal tail	acidogenesis		C3823112
+12375	12405	GO:0005764	the lysosomal targeting signal	lysosome	Lysosomes	C0024369
+12571	12609	GO:0051179	an alternate subcellular localization,	establishment and maintenance of localization		C1744691
+12634	12666	GO:0042571	once isoform-specific antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+12839	12854	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+12919	12933	GO:0007601	seen in humans	vision	Vision	C0042789
+13036	13050	GO:0007567	very few genes	parturition	Birth	C0005615
+13036	13050	GO:0000003	very few genes	reproduction	Reproduction	C0035150
+13131	13167	GO:0043209	myelin/oligodendrocyte glycoprotein,	myelin sheath	Myelin Sheath	C0026973
+13321	13343	GO:0016021	a transmembrane domain	integral to membrane		C1167322
+13321	13343	GO:0044214	a transmembrane domain	transmembrane	fully spanning the plasma membrane	C2752508
+13450	13497	GO:0007567	led to estimates of approximately 32,000 genes,	parturition	Birth	C0005615
+13450	13497	GO:0000003	led to estimates of approximately 32,000 genes,	reproduction	Reproduction	C0035150
+13687	13724	GO:0008380	a major role for alternative splicing	RNA splicing	RNA Splicing	C0035687
+13687	13724	GO:0045292	a major role for alternative splicing	nuclear mRNA cis splicing, via spliceosome		C2610186
+13725	13756	GO:0007567	in creating genetic complexity,	parturition	Birth	C0005615
+13725	13756	GO:0000003	in creating genetic complexity,	reproduction	Reproduction	C0035150
+13773	13805	GO:1905744	the study of splicing regulation	regulation of splicing		C4325940
+14048	14057	GO:0007610	conducted	behavior	Behavior	C0004927
+14438	14491	GO:0005020	the amplicycle sequencing kit from applied biosystems	stem cell factor receptor activity		C1150635
+14674	14677	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+15227	15235	GO:0016020	membrane	membrane	Membrane	C0596901
+15619	15661	GO:0009790	mouse embryo multiple-tissue northern blot	embryo development	Embryonic Development	C0013936
+15891	15894	GO:0007601	see	vision	Vision	C0042789
+16255	16311	GO:0005488	with the stripping of previously bound probes in between	binding	Binding 	C1167622

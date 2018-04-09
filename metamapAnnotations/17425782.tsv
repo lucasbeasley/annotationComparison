@@ -1,0 +1,433 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+10	38	GO:0007165	pygo2 roles in wnt signaling	signal transduction	Signal Transduction	C0037083
+10	38	GO:0023052	pygo2 roles in wnt signaling	biological signaling		C3537152
+52	70	GO:0001822	kidney development	kidney development		C1171312
+94	124	GO:0007567	the pygopus gene of drosophila	parturition	Birth	C0005615
+94	124	GO:0000003	the pygopus gene of drosophila	reproduction	Reproduction	C0035150
+188	216	GO:0005667	transcription factor complex	transcription factor complex		C1167128
+266	323	GO:0060070	the functions of pygopus-mediated canonical wnt signaling	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+327	345	GO:0001822	kidney development	kidney development		C1171312
+621	641	GO:0007567	shortly after birth,	parturition	Birth	C0005615
+684	690	GO:0040007	growth	growth	Growth	C0018270
+712	730	GO:0001822	kidney development	kidney development		C1171312
+859	870	GO:0032502	development	development	Biologic Development	C0678723
+970	1027	GO:0060070	the bat-gal transgene reporter of canonical wnt signaling	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+1164	1175	GO:0007567	pygo2 genes	parturition	Birth	C0005615
+1164	1175	GO:0000003	pygo2 genes	reproduction	Reproduction	C0035150
+1270	1274	GO:0005623	cell	cell	Cells	C0007634
+1428	1471	GO:0060675	branching morphogenesis of the ureteric bud	ureteric bud morphogenesis		C2752903
+1616	1672	GO:0030261	an expansion of the zone of condensed mesenchyme capping	chromosome condensation	Chromosome Condensation	C1155631
+1691	1709	GO:0009058	nephron formation,	anabolism	Anabolism	C0220781
+1766	1802	GO:0010467	changed expression of several genes,	gene expression	Gene Expression	C0017262
+1895	1913	GO:0001822	kidney development	kidney development		C1171312
+1928	1955	GO:0007567	the mammalian pygopus genes	parturition	Birth	C0005615
+1928	1955	GO:0000003	the mammalian pygopus genes	reproduction	Reproduction	C0035150
+1960	2023	GO:0060675	required for normal branching morphogenesis of the ureteric bud	ureteric bud morphogenesis		C2752903
+2031	2049	GO:0001822	kidney development	kidney development		C1171312
+2260	2281	GO:0007567	the pygo1/pygo2 genes	parturition	Birth	C0005615
+2260	2281	GO:0000003	the pygo1/pygo2 genes	reproduction	Reproduction	C0035150
+2301	2337	GO:0060070	required for canonical wnt signaling	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+2324	2337	GO:0007165	wnt signaling	signal transduction	Signal Transduction	C0037083
+2324	2337	GO:0023052	wnt signaling	biological signaling		C3537152
+2529	2547	GO:0001822	kidney development	kidney development		C1171312
+2549	2603	GO:0085030	mutual inductive interactions between the ureteric bud	mutualism	Mutualism	C0599514
+2608	2650	GO:0001822	metanephric mesenchyme drive nephrogenesis	kidney development		C1171312
+2828	2854	GO:0001822	required for nephrogenesis	kidney development		C1171312
+2880	2914	GO:0032940	secreted by the ureteric bud tips,	secretion by cell	Cell secretion	C1327616
+2972	2976	GO:0005623	cell	cell	Cells	C0007634
+3117	3138	GO:0009058	in nephron formation,	anabolism	Anabolism	C0220781
+3397	3434	GO:0060070	canonical wnt signaling in the kidney	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+3441	3470	GO:0007567	genetic studies in drosophila	parturition	Birth	C0005615
+3441	3470	GO:0000003	genetic studies in drosophila	reproduction	Reproduction	C0035150
+3487	3561	GO:0007567	the pygopus (pygo) gene as a critical component of canonical wnt signaling	parturition	Birth	C0005615
+3610	3671	GO:0009058	during the formation of the canonical transcriptional complex	anabolism	Anabolism	C0220781
+3722	3736	GO:0005634	in the nucleus	cell nucleus	Cell Nucleus	C0007610
+3747	3752	GO:0005488	binds	binding	Binding 	C1167622
+3925	3938	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+4044	4082	GO:0051179	a putative nuclear localization signal	establishment and maintenance of localization		C1744691
+4291	4300	GO:0007567	this gene	parturition	Birth	C0005615
+4291	4300	GO:0000003	this gene	reproduction	Reproduction	C0035150
+4336	4389	GO:0060070	canonical wnt signaling during drosophila development	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+4597	4659	GO:0007567	with a particular interest in the contributions of these genes	parturition	Birth	C0005615
+4597	4659	GO:0000003	with a particular interest in the contributions of these genes	reproduction	Reproduction	C0035150
+4660	4713	GO:0060070	to canonical wnt signaling during kidney development.	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+4714	4760	GO:0009790	the resulting double-homozygous mutant embryos	embryo development	Embryonic Development	C0013936
+4768	4824	GO:0060070	a context-dependent reduction in canonical wnt signaling	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+4875	4886	GO:0032502	development	development	Biologic Development	C0678723
+4927	4949	GO:0007567	with survival to birth	parturition	Birth	C0005615
+5058	5110	GO:0060675	altered branching morphogenesis of the ureteric bud,	ureteric bud morphogenesis		C2752903
+5115	5160	GO:0030261	expansion of the zone of condensed mesenchyme	chromosome condensation	Chromosome Condensation	C1155631
+5191	5231	GO:0009058	yet relatively normal nephron formation,	anabolism	Anabolism	C0220781
+5386	5426	GO:0060070	pygopus-mediated canonical wnt signaling	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+5566	5595	GO:0007567	pygo2 genes by inserting loxp	parturition	Birth	C0005615
+5566	5595	GO:0000003	pygo2 genes by inserting loxp	reproduction	Reproduction	C0035150
+5699	5733	GO:0007618	mated with transgenic cmv-cre mice	mating		C1260875
+5748	5776	GO:0006310	germline loxp recombination,	DNA recombination	Recombination, Genetic	C0034865
+5908	5923	GO:0007567	for both genes,	parturition	Birth	C0005615
+5908	5923	GO:0000003	for both genes,	reproduction	Reproduction	C0035150
+6116	6146	GO:0007165	pygo function in wnt signaling	signal transduction	Signal Transduction	C0037083
+6116	6146	GO:0023052	pygo function in wnt signaling	biological signaling		C3537152
+6247	6258	GO:0032502	development	development	Biologic Development	C0678723
+6307	6341	GO:0007567	the importance of the pygopus gene	parturition	Birth	C0005615
+6307	6341	GO:0000003	the importance of the pygopus gene	reproduction	Reproduction	C0035150
+6342	6373	GO:0007165	in wnt signaling in drosophila,	signal transduction	Signal Transduction	C0037083
+6342	6373	GO:0023052	in wnt signaling in drosophila,	biological signaling		C3537152
+6378	6444	GO:0010467	the reported expression during development of the mouse pygo1 gene	gene expression	Gene Expression	C0017262
+6607	6625	GO:0007567	survived to birth,	parturition	Birth	C0005615
+6760	6805	GO:0007165	despite known requirements for wnt signaling.	signal transduction	Signal Transduction	C0037083
+6760	6805	GO:0023052	despite known requirements for wnt signaling.	biological signaling		C3537152
+6843	6849	GO:0040007	growth	growth	Growth	C0018270
+7140	7151	GO:0032502	development	development	Biologic Development	C0678723
+7260	7271	GO:0032502	development	development	Biologic Development	C0678723
+7349	7360	GO:0032502	development	development	Biologic Development	C0678723
+7373	7400	GO:0009790	pygo1/pygo2 mutant embryos.	embryo development	Embryonic Development	C0013936
+7405	7437	GO:0009790	e18.5 pygo1-/-/pygo2+/- embryos,	embryo development	Embryonic Development	C0013936
+7507	7550	GO:0009790	homozygous mutant pygo1-/-/pygo2-/- embryos	embryo development	Embryonic Development	C0013936
+7565	7581	GO:0007601	with eye defects	vision	Vision	C0042789
+7630	7646	GO:0043473	pigmented retina	pigmentation	Pigmentation	C0031911
+7661	7707	GO:0009790	a small percentage of pygo1/pygo2 null embryos	embryo development	Embryonic Development	C0013936
+7796	7842	GO:0009790	null e18.5 embryos on a pygo1 null background.	embryo development	Embryonic Development	C0013936
+8302	8339	GO:0007567	pygo2 genes in the developing kidney.	parturition	Birth	C0005615
+8302	8339	GO:0000003	pygo2 genes in the developing kidney.	reproduction	Reproduction	C0035150
+8340	8350	GO:0007567	both genes	parturition	Birth	C0005615
+8340	8350	GO:0000003	both genes	reproduction	Reproduction	C0035150
+8382	8422	GO:0008104	nuclear localization of encoded proteins	protein localization	protein localization location	C0597704
+8382	8422	GO:0006886	nuclear localization of encoded proteins	intracellular protein transport		C1159772
+8476	8480	GO:0005623	cell	cell	Cells	C0007634
+8559	8581	GO:0007601	seen in stromal cells,	vision	Vision	C0042789
+8647	8651	GO:0005623	cell	cell	Cells	C0007634
+8927	8952	GO:0005634	localized in the nucleus,	cell nucleus	Cell Nucleus	C0007610
+8966	8976	GO:0007567	both genes	parturition	Birth	C0005615
+8966	8976	GO:0000003	both genes	reproduction	Reproduction	C0035150
+9112	9116	GO:0005623	cell	cell	Cells	C0007634
+9150	9154	GO:0005623	cell	cell	Cells	C0007634
+9223	9243	GO:0042571	e-cadherin antibody.	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+9421	9455	GO:0001822	any abnormalities in nephrogenesis	kidney development		C1171312
+9538	9549	GO:0032502	development	development	Biologic Development	C0678723
+9638	9648	GO:0042571	antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+9730	9742	GO:0042571	wt1 antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+9755	9769	GO:0072033	renal vesicles	renal vesicle formation		C2755050
+9793	9812	GO:0042571	antibodies to cdh1,	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+10256	10269	GO:0042571	antibodies to	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+10769	10793	GO:0030261	the condensed mesenchyme	chromosome condensation	Chromosome Condensation	C1155631
+11133	11165	GO:0001822	relatively normal nephrogenesis.	kidney development		C1171312
+11310	11351	GO:0001822	intermediate structures of nephrogenesis,	kidney development		C1171312
+11362	11377	GO:0072033	renal vesicles,	renal vesicle formation		C2755050
+12134	12155	GO:0007601	seen between pygo2+/-	vision	Vision	C0042789
+12160	12176	GO:0009790	pygo2+/+ embryos	embryo development	Embryonic Development	C0013936
+12225	12254	GO:0010467	expression of three wnt genes	gene expression	Gene Expression	C0017262
+12362	12410	GO:0001658	weakly in the tips of the branching ureteric bud	branching involved in ureteric bud morphogenesis		C1160418
+12416	12431	GO:0007567	all three genes	parturition	Birth	C0005615
+12416	12431	GO:0000003	all three genes	reproduction	Reproduction	C0035150
+13220	13278	GO:0060070	reduced canonical wnt signaling in pygo1/pygo2 mutant mice	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+13280	13337	GO:0060070	the bat-gal transgene reporter of canonical wnt signaling	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+13363	13387	GO:0007165	changes in wnt signaling	signal transduction	Signal Transduction	C0037083
+13363	13387	GO:0023052	changes in wnt signaling	biological signaling		C3537152
+13445	13463	GO:0009790	null e10.5 embryos	embryo development	Embryonic Development	C0013936
+13471	13508	GO:0060070	a decrease in canonical wnt signaling	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+13698	13719	GO:0007165	robust wnt signaling.	signal transduction	Signal Transduction	C0037083
+13698	13719	GO:0023052	robust wnt signaling.	biological signaling		C3537152
+13747	13771	GO:0007567	the mammalian pygo genes	parturition	Birth	C0005615
+13747	13771	GO:0000003	the mammalian pygo genes	reproduction	Reproduction	C0035150
+13776	13825	GO:0060070	significant modulators of canonical wnt signaling	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+13881	13921	GO:0060070	reduced canonical wnt signaling in pygo2	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+13926	13953	GO:0009790	pygo1/pygo2 mutant embryos.	embryo development	Embryonic Development	C0013936
+13954	13968	GO:0009790	e10.5 embryos,	embryo development	Embryonic Development	C0013936
+13969	14036	GO:0060070	all with the bat-gal transgene reporter of canonical wnt signaling.	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+14041	14066	GO:0009790	pygo1+/+/pygo2+/- embryos	embryo development	Embryonic Development	C0013936
+14146	14153	GO:0031982	vesicle	vesicle		C1622418
+14228	14258	GO:0009790	(b) pygo1+/-/pygo2-/- embryos,	embryo development	Embryonic Development	C0013936
+14416	14423	GO:0031982	vesicle	vesicle		C1622418
+14442	14467	GO:0009790	pygo1-/-/pygo2+/- embryo,	embryo development	Embryonic Development	C0013936
+14582	14625	GO:0009790	homozygous mutant pygo1-/-/pygo2-/- embryos	embryo development	Embryonic Development	C0013936
+14685	14718	GO:0060070	residual canonical wnt signaling.	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+14719	14736	GO:0009790	embryos in panels	embryo development	Embryonic Development	C0013936
+14813	14823	GO:0009790	embryos in	embryo development	Embryonic Development	C0013936
+15132	15146	GO:0007567	the pygo2 gene	parturition	Birth	C0005615
+15132	15146	GO:0000003	the pygo2 gene	reproduction	Reproduction	C0035150
+15150	15186	GO:0060070	required for canonical wnt signaling	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+15247	15265	GO:0009790	null e10.5 embryos	embryo development	Embryonic Development	C0013936
+16015	16039	GO:0009790	of the pygo2 null embryo	embryo development	Embryonic Development	C0013936
+16049	16083	GO:0009790	(b) pygo1-/-/pygo2+/- e10.5 embryo	embryo development	Embryonic Development	C0013936
+16084	16134	GO:0047963	with bat-gal reporter activity in the nephric duct	glycine N-choloyltransferase activity		C1324745
+16189	16213	GO:0009790	pygo1-/-/pygo-/- embryo,	embryo development	Embryonic Development	C0013936
+16371	16421	GO:0009790	from an e13.5 embryo without the bat-gal transgene	embryo development	Embryonic Development	C0013936
+16462	16489	GO:0004565	beta-galactosidase activity	beta-galactosidase activity		C1150053
+16514	16598	GO:0047963	with bat-gal reporter activity in the ureteric compartment of the developing kidney,	glycine N-choloyltransferase activity		C1324745
+16678	16728	GO:0047963	with marked reduction of bat-gal reporter activity	glycine N-choloyltransferase activity		C1324745
+17417	17421	GO:0005623	cell	cell	Cells	C0007634
+17567	17617	GO:0007601	seen in the ureteric tree components of the cortex	vision	Vision	C0042789
+18119	18133	GO:0007567	the pygo2 gene	parturition	Birth	C0005615
+18119	18133	GO:0000003	the pygo2 gene	reproduction	Reproduction	C0035150
+18169	18183	GO:0007567	the pygo1 gene	parturition	Birth	C0005615
+18169	18183	GO:0000003	the pygo1 gene	reproduction	Reproduction	C0035150
+18198	18246	GO:0060070	in canonical wnt signaling in the ureteric tree,	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+18402	18468	GO:0007567	a bat-gal transgenic kidney with at least one wild-type pygo2 gene	parturition	Birth	C0005615
+18402	18468	GO:0000003	a bat-gal transgenic kidney with at least one wild-type pygo2 gene	reproduction	Reproduction	C0035150
+18638	18684	GO:0060070	a significant loss of canonical wnt signaling.	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+18685	18734	GO:0007567	homozygous loss of the pygo1 gene alone, however,	parturition	Birth	C0005615
+18685	18734	GO:0000003	homozygous loss of the pygo1 gene alone, however,	reproduction	Reproduction	C0035150
+18834	18845	GO:0007567	pygo2 genes	parturition	Birth	C0005615
+18834	18845	GO:0000003	pygo2 genes	reproduction	Reproduction	C0035150
+18834	18845	GO:0007567	pygo2 genes	parturition	Birth	C0005615
+18834	18845	GO:0000003	pygo2 genes	reproduction	Reproduction	C0035150
+19423	19434	GO:0032502	development	development	Biologic Development	C0678723
+19467	19516	GO:0060070	a significant decrease in canonical wnt signaling	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+19636	19695	GO:0007601	seen in the ureteric branches of a pygo1+/-/pygo2+/- kidney	vision	Vision	C0042789
+19861	19865	GO:0005623	cell	cell	Cells	C0007634
+20148	20185	GO:0007567	a significant role for the pygo2 gene	parturition	Birth	C0005615
+20148	20185	GO:0000003	a significant role for the pygo2 gene	reproduction	Reproduction	C0035150
+20186	20233	GO:0060070	in canonical wnt signaling in the ureteric tree	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+20480	20502	GO:0007567	loss of the pygo2 gene	parturition	Birth	C0005615
+20480	20502	GO:0000003	loss of the pygo2 gene	reproduction	Reproduction	C0035150
+20816	20843	GO:0060070	in canonical wnt signaling.	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+21210	21248	GO:0007567	pygo2 genes in canonical wnt signaling	parturition	Birth	C0005615
+21249	21303	GO:0001822	during development of the ureteric tree of the kidney.	kidney development		C1171312
+22053	22076	GO:0072033	such as renal vesicles,	renal vesicle formation		C2755050
+22185	22223	GO:0060070	the absence of canonical wnt signaling	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+22297	22346	GO:0060070	argue for the presence of canonical wnt signaling	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+22435	22471	GO:0060070	act through canonical wnt signaling,	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+22508	22551	GO:0001822	nephrogenesis of the metanephric mesenchyme	kidney development		C1171312
+22626	22680	GO:0060070	canonical wnt signaling in the metanephric mesenchyme.	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+22793	22844	GO:0060070	canonical wnt signaling through inhibition of gsk3,	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+22854	22894	GO:0001822	functions as an inducer of nephrogenesis	kidney development		C1171312
+22990	23004	GO:0001822	nephrogenesis,	kidney development		C1171312
+23112	23159	GO:0060070	an accurate reporter of canonical wnt signaling	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+23309	23324	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+23412	23427	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+23514	23531	GO:0007165	to wnt signaling,	signal transduction	Signal Transduction	C0037083
+23514	23531	GO:0023052	to wnt signaling,	biological signaling		C3537152
+23577	23598	GO:0007567	changes of all genes,	parturition	Birth	C0005615
+23577	23598	GO:0000003	changes of all genes,	reproduction	Reproduction	C0035150
+23728	23736	GO:0007567	45 genes	parturition	Birth	C0005615
+23728	23736	GO:0000003	45 genes	reproduction	Reproduction	C0035150
+24023	24061	GO:0007567	other genes with significant decreases	parturition	Birth	C0005615
+24023	24061	GO:0000003	other genes with significant decreases	reproduction	Reproduction	C0035150
+24235	24286	GO:0030849	implicated in autosomal recessive renal glucosuria,	autosome	Autosome	C0596142
+24312	24326	GO:0046323	glucose uptake	glucose uptake		C1159527
+24483	24504	GO:0007567	the pygo1/pygo2 genes	parturition	Birth	C0005615
+24483	24504	GO:0000003	the pygo1/pygo2 genes	reproduction	Reproduction	C0035150
+24516	24544	GO:0072006	a role in nephron maturation	nephron development		C2755024
+24580	24585	GO:0007567	genes	parturition	Birth	C0005615
+24580	24585	GO:0000003	genes	reproduction	Reproduction	C0035150
+24721	24737	GO:0007567	noteworthy genes	parturition	Birth	C0005615
+24721	24737	GO:0000003	noteworthy genes	reproduction	Reproduction	C0035150
+24997	25014	GO:0048771	tissue remodeling	tissue remodeling		C1820201
+25020	25048	GO:0008217	regulation of blood pressure	blood pressure regulation		C0678863
+25223	25234	GO:0032502	development	development	Biologic Development	C0678723
+25328	25350	GO:0000988	a transcription factor	transcription factor activity		C1148759
+25328	25350	GO:0001070	a transcription factor	transcription factor activity		C1148759
+25328	25350	GO:0001071	a transcription factor	transcription factor activity		C1148759
+25328	25350	GO:0003700	a transcription factor	transcription factor activity		C1148759
+25367	25397	GO:0042752	regulation of circadian rhythm	regulation of circadian rhythm		C1325859
+25478	25510	GO:0001763	ureteric branching morphogenesis	morphogenesis of a branching structure		C1622374
+25767	25795	GO:0050789	significant down regulation.	regulation of biological process	Regulation of biological process	C1327622
+25808	25834	GO:0007567	the known wnt target genes	parturition	Birth	C0005615
+25808	25834	GO:0000003	the known wnt target genes	reproduction	Reproduction	C0035150
+25931	25973	GO:0016538	the expression of ccnd1 encoding cyclin d1	cyclin-dependent protein kinase regulator activity		C1150565
+26149	26209	GO:0010467	in expression of previously known wnt signaling target genes	gene expression	Gene Expression	C0017262
+26256	26271	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+26272	26311	GO:0007165	changes of common wnt signaling targets	signal transduction	Signal Transduction	C0037083
+26272	26311	GO:0023052	changes of common wnt signaling targets	biological signaling		C3537152
+26516	26554	GO:0007567	an initial gene list of 82 wnt targets	parturition	Birth	C0005615
+26516	26554	GO:0000003	an initial gene list of 82 wnt targets	reproduction	Reproduction	C0035150
+26576	26606	GO:0007567	reduced to a total of 40 genes	parturition	Birth	C0005615
+26576	26606	GO:0000003	reduced to a total of 40 genes	reproduction	Reproduction	C0035150
+26922	26932	GO:0007567	nine genes	parturition	Birth	C0005615
+26922	26932	GO:0000003	nine genes	reproduction	Reproduction	C0035150
+27091	27117	GO:0007567	that two of the nine genes	parturition	Birth	C0005615
+27091	27117	GO:0000003	that two of the nine genes	reproduction	Reproduction	C0035150
+27247	27262	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+27376	27392	GO:0007567	the pygopus gene	parturition	Birth	C0005615
+27376	27392	GO:0000003	the pygopus gene	reproduction	Reproduction	C0035150
+27396	27438	GO:0060070	a key mediator of canonical wnt signaling.	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+27453	27490	GO:0007165	12 distinct measures of wnt signaling	signal transduction	Signal Transduction	C0037083
+27453	27490	GO:0023052	12 distinct measures of wnt signaling	biological signaling		C3537152
+27560	27579	GO:0007601	eye imaginal discs.	vision	Vision	C0042789
+27601	27641	GO:0007165	a significant reduction of wnt signaling	signal transduction	Signal Transduction	C0037083
+27601	27641	GO:0023052	a significant reduction of wnt signaling	biological signaling		C3537152
+27820	27839	GO:0007507	cardiac development	cardiac development		C2263229
+27902	27921	GO:0007165	signal transduction	signal transduction	Signal Transduction	C0037083
+28101	28119	GO:0007567	developed to birth	parturition	Birth	C0005615
+28463	28494	GO:0007567	a failure of the gene targeting	parturition	Birth	C0005615
+28463	28494	GO:0000003	a failure of the gene targeting	reproduction	Reproduction	C0035150
+28537	28549	GO:0007567	pygo2 genes.	parturition	Birth	C0005615
+28537	28549	GO:0000003	pygo2 genes.	reproduction	Reproduction	C0035150
+28751	28767	GO:0007165	in wg signaling.	signal transduction	Signal Transduction	C0037083
+28751	28767	GO:0023052	in wg signaling.	biological signaling		C3537152
+28786	28821	GO:1902698	60 amino acids with seven cysteines	acidogenesis		C3823112
+28786	28821	GO:1902705	60 amino acids with seven cysteines	acidogenesis		C3823112
+28786	28821	GO:1902706	60 amino acids with seven cysteines	acidogenesis		C3823112
+28786	28821	GO:1902699	60 amino acids with seven cysteines	acidogenesis		C3823112
+28928	28950	GO:0000988	transcription factors,	transcription factor activity		C1148759
+28928	28950	GO:0001070	transcription factors,	transcription factor activity		C1148759
+28928	28950	GO:0001071	transcription factors,	transcription factor activity		C1148759
+28928	28950	GO:0003700	transcription factors,	transcription factor activity		C1148759
+28979	28999	GO:0006338	chromatin remodeling	chromatin remodeling		C1156210
+29116	29148	GO:1902698	amino acid 802 in the phd domain	acidogenesis		C3823112
+29116	29148	GO:1902705	amino acid 802 in the phd domain	acidogenesis		C3823112
+29116	29148	GO:1902706	amino acid 802 in the phd domain	acidogenesis		C3823112
+29116	29148	GO:1902699	amino acid 802 in the phd domain	acidogenesis		C3823112
+29182	29226	GO:0007165	wnt signaling function in both embryogenesis	signal transduction	Signal Transduction	C0037083
+29231	29256	GO:0007444	imaginal disc development	imaginal disc development		C1160285
+29398	29417	GO:0007567	for the pygo1 gene,	parturition	Birth	C0005615
+29398	29417	GO:0000003	for the pygo1 gene,	reproduction	Reproduction	C0035150
+29418	29468	GO:1902698	the coding region for 372 of 417 total amino acids	acidogenesis		C3823112
+29418	29468	GO:1902705	the coding region for 372 of 417 total amino acids	acidogenesis		C3823112
+29418	29468	GO:1902706	the coding region for 372 of 417 total amino acids	acidogenesis		C3823112
+29418	29468	GO:1902699	the coding region for 372 of 417 total amino acids	acidogenesis		C3823112
+29482	29505	GO:0007567	and for the pygo2 gene,	parturition	Birth	C0005615
+29482	29505	GO:0000003	and for the pygo2 gene,	reproduction	Reproduction	C0035150
+29517	29551	GO:1902698	coding for 354 of 405 amino acids.	acidogenesis		C3823112
+29517	29551	GO:1902705	coding for 354 of 405 amino acids.	acidogenesis		C3823112
+29517	29551	GO:1902706	coding for 354 of 405 amino acids.	acidogenesis		C3823112
+29517	29551	GO:1902699	coding for 354 of 405 amino acids.	acidogenesis		C3823112
+29740	29762	GO:0007165	in which wnt signaling	signal transduction	Signal Transduction	C0037083
+29740	29762	GO:0023052	in which wnt signaling	biological signaling		C3537152
+29807	29842	GO:0001822	in several stages of nephrogenesis.	kidney development		C1171312
+29828	29841	GO:0001822	nephrogenesis	kidney development		C1171312
+30036	30062	GO:0001822	required for nephrogenesis	kidney development		C1171312
+30239	30257	GO:0001822	kidney development	kidney development		C1171312
+30300	30339	GO:0060070	the presence of canonical wnt signaling	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+30469	30508	GO:0007165	significant reduction of wnt signaling.	signal transduction	Signal Transduction	C0037083
+30469	30508	GO:0023052	significant reduction of wnt signaling.	biological signaling		C3537152
+30667	30701	GO:0060070	a role for canonical wnt signaling	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+30702	30749	GO:0060675	in branching morphogenesis of the ureteric bud.	ureteric bud morphogenesis		C2752903
+30787	30828	GO:0007165	direct wnt signaling to the ureteric bud,	signal transduction	Signal Transduction	C0037083
+30787	30828	GO:0023052	direct wnt signaling to the ureteric bud,	biological signaling		C3537152
+30917	30973	GO:0007165	with altered wnt signaling to the metanephric mesenchyme	signal transduction	Signal Transduction	C0037083
+30917	30973	GO:0023052	with altered wnt signaling to the metanephric mesenchyme	biological signaling		C3537152
+30989	31026	GO:0007165	mesenchyme to ureteric bud signaling.	signal transduction	Signal Transduction	C0037083
+30989	31026	GO:0023052	mesenchyme to ureteric bud signaling.	biological signaling		C3537152
+31028	31115	GO:0060675	the pygo1/pygo2 mutant phenotype of reduced branching morphogenesis of the ureteric bud	ureteric bud morphogenesis		C2752903
+31372	31389	GO:0007567	the pygopus genes	parturition	Birth	C0005615
+31372	31389	GO:0000003	the pygopus genes	reproduction	Reproduction	C0035150
+31398	31422	GO:0060070	canonical wnt signaling.	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+31457	31503	GO:0007165	an altered feedback loop between wnt signaling	signal transduction	Signal Transduction	C0037083
+31457	31503	GO:0023052	an altered feedback loop between wnt signaling	biological signaling		C3537152
+31548	31582	GO:0007165	gdnf signaling from the mesenchyme	signal transduction	Signal Transduction	C0037083
+31548	31582	GO:0023052	gdnf signaling from the mesenchyme	biological signaling		C3537152
+31643	31687	GO:0007165	disrupted wnt signaling in the ureteric bud.	signal transduction	Signal Transduction	C0037083
+31643	31687	GO:0023052	disrupted wnt signaling in the ureteric bud.	biological signaling		C3537152
+31812	31871	GO:0072093	the mutant metanephric mesenchyme formed nephrons normally.	metanephric renal vesicle formation		C2755109
+31910	31947	GO:0007165	wnt9b signaling from the ureteric bud	signal transduction	Signal Transduction	C0037083
+31910	31947	GO:0023052	wnt9b signaling from the ureteric bud	biological signaling		C3537152
+32003	32044	GO:0001822	nephrogenesis via canonical wnt signaling	kidney development		C1171312
+32204	32220	GO:0007567	the pygopus gene	parturition	Birth	C0005615
+32204	32220	GO:0000003	the pygopus gene	reproduction	Reproduction	C0035150
+32230	32267	GO:0060070	required for canonical wnt signaling,	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+32285	32306	GO:0007567	the pygo1/pygo2 genes	parturition	Birth	C0005615
+32285	32306	GO:0000003	the pygo1/pygo2 genes	reproduction	Reproduction	C0035150
+32322	32364	GO:0060070	a smaller role in canonical wnt signaling.	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+32365	32422	GO:0060070	the bat-gal transgene reporter of canonical wnt signaling	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+32452	32500	GO:0009790	not absent signal in pygo1/pygo2 mutant embryos,	embryo development	Embryonic Development	C0013936
+32628	32639	GO:0032502	development	development	Biologic Development	C0678723
+32672	32685	GO:0048513	organogenesis	organogenesis	Organogenesis	C0242290
+32799	32833	GO:0007567	encoded by mammalian pygopus genes	parturition	Birth	C0005615
+32799	32833	GO:0000003	encoded by mammalian pygopus genes	reproduction	Reproduction	C0035150
+32838	32897	GO:0060070	often mere modulators of canonical wnt signaling intensity,	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+33113	33175	GO:0007567	the analysis of the activity levels of promoters of all genes.	parturition	Birth	C0005615
+33113	33175	GO:0000003	the analysis of the activity levels of promoters of all genes.	reproduction	Reproduction	C0035150
+33217	33241	GO:0010467	gene-expression profiles	gene expression	Gene Expression	C0017262
+33277	33287	GO:0007567	some genes	parturition	Birth	C0005615
+33277	33287	GO:0000003	some genes	reproduction	Reproduction	C0035150
+33461	33489	GO:0007567	the pygopus genes in mammals	parturition	Birth	C0005615
+33461	33489	GO:0000003	the pygopus genes in mammals	reproduction	Reproduction	C0035150
+33494	33531	GO:0060070	dedicated to canonical wnt signaling,	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+33576	33613	GO:0010467	the genes with expression differences	gene expression	Gene Expression	C0017262
+33670	33688	GO:0001822	kidney development	kidney development		C1171312
+33707	33718	GO:0007567	these genes	parturition	Birth	C0005615
+33707	33718	GO:0000003	these genes	reproduction	Reproduction	C0035150
+33807	33842	GO:0060070	removal of canonical wnt signaling.	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+33871	33895	GO:0007567	the mammalian pygo2 gene	parturition	Birth	C0005615
+33871	33895	GO:0000003	the mammalian pygo2 gene	reproduction	Reproduction	C0035150
+33899	33963	GO:0060675	required for normal branching morphogenesis of the ureteric bud,	ureteric bud morphogenesis		C2752903
+34161	34178	GO:0009058	nephron formation	anabolism	Anabolism	C0220781
+34289	34323	GO:0007567	the importance of the pygopus gene	parturition	Birth	C0005615
+34289	34323	GO:0000003	the importance of the pygopus gene	reproduction	Reproduction	C0035150
+34324	34365	GO:0060070	in canonical wnt signaling in drosophila,	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+34370	34411	GO:0060070	the importance of canonical wnt signaling	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+34412	34429	GO:0001822	in nephrogenesis.	kidney development		C1171312
+34453	34480	GO:0007567	the mammalian pygopus genes	parturition	Birth	C0005615
+34453	34480	GO:0000003	the mammalian pygopus genes	reproduction	Reproduction	C0035150
+34514	34561	GO:0007165	only quantitative transducers of wnt signaling.	signal transduction	Signal Transduction	C0037083
+34514	34561	GO:0023052	only quantitative transducers of wnt signaling.	biological signaling		C3537152
+34571	34575	GO:0005623	cell	cell	Cells	C0007634
+34724	34788	GO:0060070	an evolutionarily conserved function in canonical wnt signaling.	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+34889	34933	GO:0007567	the degree of importance of the pyg1/2 genes	parturition	Birth	C0005615
+34889	34933	GO:0000003	the degree of importance of the pyg1/2 genes	reproduction	Reproduction	C0035150
+34934	34950	GO:0007165	in wnt signaling	signal transduction	Signal Transduction	C0037083
+34934	34950	GO:0023052	in wnt signaling	biological signaling		C3537152
+35000	35013	GO:0048513	organogenesis	organogenesis	Organogenesis	C0242290
+35103	35114	GO:0007567	other genes	parturition	Birth	C0005615
+35103	35114	GO:0000003	other genes	reproduction	Reproduction	C0035150
+35120	35177	GO:0007567	partial functional redundancy with the two pygopus genes.	parturition	Birth	C0005615
+35120	35177	GO:0000003	partial functional redundancy with the two pygopus genes.	reproduction	Reproduction	C0035150
+35178	35223	GO:0005667	the beta-catenin transcription-factor complex	transcription factor complex		C1167128
+35298	35322	GO:0051179	the nuclear localization	establishment and maintenance of localization		C1744691
+35330	35343	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+35411	35449	GO:0007567	roles of these pygopus redundant genes	parturition	Birth	C0005615
+35411	35449	GO:0000003	roles of these pygopus redundant genes	reproduction	Reproduction	C0035150
+35525	35536	GO:0007567	pygo2 genes	parturition	Birth	C0005615
+35525	35536	GO:0000003	pygo2 genes	reproduction	Reproduction	C0035150
+35757	35783	GO:0007567	a neomycin-resistance gene	parturition	Birth	C0005615
+35757	35783	GO:0000003	a neomycin-resistance gene	reproduction	Reproduction	C0035150
+35887	35913	GO:0006310	for driving recombination,	DNA recombination	Recombination, Genetic	C0034865
+36070	36074	GO:0005623	cell	cell	Cells	C0007634
+36683	36687	GO:0005623	cell	cell	Cells	C0007634
+36716	36720	GO:0005623	cell	cell	Cells	C0007634
+36818	36846	GO:0007618	mated with swiss black mice,	mating		C1260875
+36973	37017	GO:0009291	generated by mating heterozygous floxed mice	unidirectional conjugation		C1160186
+36973	37017	GO:0007618	generated by mating heterozygous floxed mice	mating		C1260875
+36973	37017	GO:0000747	generated by mating heterozygous floxed mice	conjugation with cellular fusion		C1748461
+36973	37017	GO:1990277	generated by mating heterozygous floxed mice	parasexual conjugation with cellular fusion		C3812685
+37693	37704	GO:0042571	antibodies.	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+37751	37806	GO:0000746	with fluoroscein-conjugated dilichos biflorus aggutinin	conjugation		C1160466
+37893	37913	GO:0042571	with the antibodies.	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+37914	37936	GO:0042571	the primary antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+38108	38114	GO:0007601	vision	vision	Vision	C0042789
+38147	38171	GO:0042571	the secondary antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+38177	38209	GO:0000746	alexa 555-conjugated anti-rabbit	conjugation		C1160466
+38214	38254	GO:0000746	alexa 633-conjugated anti-rat antibodies	conjugation		C1160466
+38412	38420	GO:1990266	(488 nm)	neutrophil migration	Neutrophil migration, function	C0312860
+38441	38448	GO:1990266	(543 nm	neutrophil migration	Neutrophil migration, function	C0312860
+38453	38459	GO:1990266	633 nm	neutrophil migration	Neutrophil migration, function	C0312860
+38462	38498	GO:0007601	optical sections approximately 2 mum	vision	Vision	C0042789
+38682	38730	GO:0009790	one from each of the two kidneys of each embryo.	embryo development	Embryonic Development	C0013936
+39070	39089	GO:0002377	antibody production	antibody production	Antibody Formation	C0003261
+39138	39191	GO:0042571	anti-mouse pygo1 (anti-mpygo1) polyclonal antibodies,	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+39217	39276	GO:1902698	corresponding to amino-acid residues 80-327 of human pygo 2	acidogenesis		C3823112
+39217	39276	GO:1902705	corresponding to amino-acid residues 80-327 of human pygo 2	acidogenesis		C3823112
+39217	39276	GO:1902706	corresponding to amino-acid residues 80-327 of human pygo 2	acidogenesis		C3823112
+39217	39276	GO:1902699	corresponding to amino-acid residues 80-327 of human pygo 2	acidogenesis		C3823112
+39280	39321	GO:1902698	amino-acid residues 76-263 of mouse pygo1	acidogenesis		C3823112
+39280	39321	GO:1902705	amino-acid residues 76-263 of mouse pygo1	acidogenesis		C3823112
+39280	39321	GO:1902706	amino-acid residues 76-263 of mouse pygo1	acidogenesis		C3823112
+39280	39321	GO:1902699	amino-acid residues 76-263 of mouse pygo1	acidogenesis		C3823112
+39581	39600	GO:0002377	antibody production	antibody production	Antibody Formation	C0003261
+39725	39756	GO:0005488	bind to the gst affinity matrix	binding	Binding 	C1167622
+39767	39794	GO:0042571	any antibodies against gst.	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+39900	39922	GO:0005488	bind to the gst-hpygo2	binding	Binding 	C1167622
+39969	39988	GO:0005488	the bound antibodes	binding	Binding 	C1167622
+40040	40060	GO:0042571	antibody specficity,	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+40061	40084	GO:0042571	the purified antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+40102	40164	GO:0009790	incubated with pygo1/2 double-homozygous mutant embryo extract	embryo development	Embryonic Development	C0013936
+40178	40237	GO:0060070	bat-gal transgene reporter assay of canonical wnt signaling	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+40239	40269	GO:0009790	x-gal staining of both embryos	embryo development	Embryonic Development	C0013936
+40373	40400	GO:0004565	beta-galactosidase activity	beta-galactosidase activity		C1150053
+40595	40598	GO:0005020	kit	stem cell factor receptor activity		C1150635
+40941	40974	GO:0009790	pygo1/pygo2 compound null embryos	embryo development	Embryonic Development	C0013936
+40981	40997	GO:0005020	a commercial kit	stem cell factor receptor activity		C1150635
+40998	41038	GO:0005020	(stratagene absolutely rna microprep kit	stem cell factor receptor activity		C1150635
+41125	41141	GO:0005020	a commercial kit	stem cell factor receptor activity		C1150635
+41316	41354	GO:0007567	providing coverage of over 47000 genes	parturition	Birth	C0005615
+41316	41354	GO:0000003	providing coverage of over 47000 genes	reproduction	Reproduction	C0035150
+41349	41354	GO:0007567	genes	parturition	Birth	C0005615
+41349	41354	GO:0000003	genes	reproduction	Reproduction	C0035150
+41829	41866	GO:0007567	previously described wnt target genes	parturition	Birth	C0005615
+41829	41866	GO:0000003	previously described wnt target genes	reproduction	Reproduction	C0035150
+42107	42123	GO:0005020	a commercial kit	stem cell factor receptor activity		C1150635
+42124	42153	GO:0005020	(absolutely rna microprep kit	stem cell factor receptor activity		C1150635
+43394	43409	GO:0007567	the pygo genes,	parturition	Birth	C0005615
+43394	43409	GO:0000003	the pygo genes,	reproduction	Reproduction	C0035150
+43621	43641	GO:0042571	the pygo antibodies.	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580

@@ -1,0 +1,825 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+36	76	GO:0009790	essential functions during embryogenesis	embryo development	Embryonic Development	C0013936
+81	110	GO:0043277	not in apoptotic cell removal	apoptotic cell clearance		C1523908
+134	146	GO:0006909	phagocytosis	phagocytosis	Phagocytosis	C0031308
+191	202	GO:0032502	development	development	Biologic Development	C0678723
+204	219	GO:0002376	immune function	immune system process	Immune System Processes	C1817756
+224	244	GO:0019725	cellular homeostasis	cellular homeostasis		C2244223
+343	371	GO:0043652	engulfment of apoptotic cell	engulfment of apoptotic cell		C1819990
+373	408	GO:0007165	and in anti-inflammatory signaling.	signal transduction	Signal Transduction	C0037083
+373	408	GO:0023052	and in anti-inflammatory signaling.	biological signaling		C3537152
+422	480	GO:0008150	the biological function of the phosphatidylserine receptor	biological process	Biological Processes	C3714634
+505	533	GO:0007567	the ptdsr gene in the mouse.	parturition	Birth	C0005615
+505	533	GO:0000003	the ptdsr gene in the mouse.	reproduction	Reproduction	C0035150
+607	613	GO:0040007	growth	growth	Growth	C0018270
+641	665	GO:0048468	terminal differentiation	terminal differentiation		C2752630
+702	729	GO:0009790	lungs during embryogenesis.	embryo development	Embryonic Development	C0013936
+740	755	GO:0001654	eye development	eye development	Eye Development	C1517080
+804	830	GO:0030154	in retinal differentiation	cell differentiation	Cell Differentiation process	C0007589
+857	883	GO:0007601	bilateral absence of eyes.	vision	Vision	C0042789
+940	994	GO:0043473	with induction of ectopic retinal-pigmented epithelium	pigmentation	Pigmentation	C0031911
+1047	1071	GO:0043277	apoptotic cell clearance	apoptotic cell clearance		C1523908
+1111	1139	GO:0043652	engulfment of apoptotic cell	engulfment of apoptotic cell		C1819990
+1234	1288	GO:0007165	anti-inflammatory cytokine signaling after stimulation	signal transduction	Signal Transduction	C0037083
+1234	1288	GO:0023052	anti-inflammatory cytokine signaling after stimulation	biological signaling		C3537152
+1289	1309	GO:0097194	with apoptotic cells	apoptosis	Apoptosis	C0162638
+1289	1309	GO:0006915	with apoptotic cells	apoptosis	Apoptosis	C0162638
+1378	1389	GO:0032502	development	development	Biologic Development	C0678723
+1394	1428	GO:0030154	differentiation of multiple organs	cell differentiation	Cell Differentiation process	C0007589
+1429	1449	GO:0009790	during embryogenesis	embryo development	Embryonic Development	C0013936
+1454	1485	GO:0043277	not for apoptotic cell removal.	apoptotic cell clearance		C1523908
+1506	1596	GO:0048469	a novel, unexpected developmental function as an important differentiation-promoting gene.	functional differentiation		C2752631
+1633	1657	GO:0043277	apoptotic cell clearance	apoptotic cell clearance		C1523908
+1689	1751	GO:0050789	necessary for the regulation of macrophage cytokine responses.	regulation of biological process	Regulation of biological process	C1327622
+1862	1886	GO:0043277	apoptotic cell clearance	apoptotic cell clearance		C1523908
+1901	1923	GO:0097194	programmed cell death,	apoptosis	Apoptosis	C0162638
+1901	1923	GO:0006915	programmed cell death,	apoptosis	Apoptosis	C0162638
+1927	1936	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+1927	1936	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+1965	1976	GO:0032502	development	development	Biologic Development	C0678723
+2064	2068	GO:0005623	cell	cell	Cells	C0007634
+2146	2157	GO:0032502	development	development	Biologic Development	C0678723
+2171	2175	GO:0005623	cell	cell	Cells	C0007634
+2211	2215	GO:0005623	cell	cell	Cells	C0007634
+2217	2264	GO:0009790	produced during mammalian embryonic development	embryo development	Embryonic Development	C0013936
+2287	2297	GO:0008219	cell death	cell death	Cell Death	C0007587
+2342	2357	GO:0097194	apoptotic cells	apoptosis	Apoptosis	C0162638
+2342	2357	GO:0006915	apoptotic cells	apoptosis	Apoptosis	C0162638
+2404	2408	GO:0005623	cell	cell	Cells	C0007634
+2413	2456	GO:0097189	apoptotic bodies by professional phagocytes	apoptotic body	Apoptotic Bodies	C3269134
+2475	2479	GO:0005623	cell	cell	Cells	C0007634
+2559	2594	GO:0005622	immunogenic intracellular materials	protoplasm	Protoplasm	C0175996
+2634	2638	GO:0005623	cell	cell	Cells	C0007634
+2686	2698	GO:0006909	phagocytosis	phagocytosis	Phagocytosis	C0031308
+2837	2865	GO:0043652	engulfment of apoptotic cell	engulfment of apoptotic cell		C1819990
+2959	2979	GO:0009405	pathogen recognition	pathogenesis	Pathogenesis	C0699748
+2987	3026	GO:0023061	the release of pro-inflammatory signals	signal release		C2756020
+3044	3048	GO:0005623	cell	cell	Cells	C0007634
+3093	3111	GO:0097194	apoptotic cells by	apoptosis	Apoptosis	C0162638
+3093	3111	GO:0006915	apoptotic cells by	apoptosis	Apoptosis	C0162638
+3161	3185	GO:0005488	bind to specific ligands	binding	Binding 	C1167622
+3186	3205	GO:0097194	on apoptotic cells.	apoptosis	Apoptosis	C0162638
+3186	3205	GO:0006915	on apoptotic cells.	apoptosis	Apoptosis	C0162638
+3206	3244	GO:0007567	detailed genetic studies in drosophila	parturition	Birth	C0005615
+3206	3244	GO:0000003	detailed genetic studies in drosophila	reproduction	Reproduction	C0035150
+3373	3401	GO:0043652	engulfment of apoptotic cell	engulfment of apoptotic cell		C1819990
+3528	3540	GO:0006909	phagocytosis	phagocytosis	Phagocytosis	C0031308
+3857	3864	GO:0005488	binding	binding	Binding 	C1167622
+3866	3878	GO:0006909	phagocytosis	phagocytosis	Phagocytosis	C0031308
+3882	3923	GO:0007165	transduction of anti-inflammatory signals	signal transduction	Signal Transduction	C0037083
+3924	3955	GO:0097194	upon apoptotic cell recognition	apoptosis	Apoptosis	C0162638
+3924	3955	GO:0006915	upon apoptotic cell recognition	apoptosis	Apoptosis	C0162638
+4045	4069	GO:0043277	apoptotic cell clearance	apoptotic cell clearance		C1523908
+4165	4209	GO:0097194	key molecules for apoptotic cell recognition	apoptosis	Apoptosis	C0162638
+4165	4209	GO:0006915	key molecules for apoptotic cell recognition	apoptosis	Apoptosis	C0162638
+4214	4220	GO:0098657	uptake	import into cell	Import into cell	C3888108
+4341	4381	GO:0007567	in the tyrosine kinase receptor gene mer	parturition	Birth	C0005615
+4341	4381	GO:0000003	in the tyrosine kinase receptor gene mer	reproduction	Reproduction	C0035150
+4462	4485	GO:0005154	epidermal growth factor	epidermal growth factor	epidermal growth factor receptor binding activity	C1323367
+4564	4626	GO:0097478	in the outer leaflet of the plasma membrane of apoptotic cells	leaflet of membrane bilayer		C3821065
+4636	4699	GO:0043065	described as one of the hallmarks of the induction of apoptosis	positive regulation of apoptosis	Positive Regulation of Apoptosis	C1326205
+4758	4797	GO:0097194	required for apoptotic cell recognition	apoptosis	Apoptosis	C0162638
+4758	4797	GO:0006915	required for apoptotic cell recognition	apoptosis	Apoptosis	C0162638
+4816	4840	GO:0009986	a number of cell-surface	cell surface	Cell surface	C0699040
+4893	4912	GO:0097194	on apoptotic cells.	apoptosis	Apoptosis	C0162638
+4893	4912	GO:0006915	on apoptotic cells.	apoptosis	Apoptosis	C0162638
+4994	5000	GO:0040007	growth	growth	Growth	C0018270
+5042	5063	GO:0006956	complement activation	complement activation	Complement Activation	C0009528
+5288	5333	GO:0005102	a ligand for the tyrosine kinase receptor mer	receptor ligand		C1621296
+5354	5398	GO:0005488	bind to the vitronectin receptor alphavbeta3	binding	Binding 	C1167622
+5429	5433	GO:0005488	bind	binding	Binding 	C1167622
+5588	5591	GO:0007601	see	vision	Vision	C0042789
+5666	5671	GO:0005488	binds	binding	Binding 	C1167622
+5807	5836	GO:0098657	the uptake of apoptotic cells	import into cell	Import into cell	C3888108
+5866	5878	GO:0006909	phagocytosis	phagocytosis	Phagocytosis	C0031308
+5937	5944	GO:0005488	binding	binding	Binding 	C1167622
+5967	5989	GO:0042571	an anti-ptdsr antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+6006	6026	GO:0005102	the binding of ptdsr	receptor binding		C0597358
+6006	6026	GO:0001786	the binding of ptdsr	phosphatidylserine binding		C1323272
+6027	6051	GO:0097194	to ps on apoptotic cells	apoptosis	Apoptosis	C0162638
+6027	6051	GO:0006915	to ps on apoptotic cells	apoptosis	Apoptosis	C0162638
+6157	6163	GO:0040007	growth	growth	Growth	C0018270
+6228	6244	GO:0004842	prostaglandin e2	ubiquitin conjugating enzyme activity		C1151883
+6228	6244	GO:0061650	prostaglandin e2	ubiquitin-like protein conjugating enzyme activity		C1151884
+6228	6244	GO:0019775	prostaglandin e2	FAT10 conjugating enzyme activity		C1151887
+6228	6244	GO:0019777	prostaglandin e2	Atg12 conjugating enzyme activity		C2612339
+6228	6244	GO:0072496	prostaglandin e2	Pup conjugating enzyme activity		C3156549
+6228	6244	GO:0019787	prostaglandin e2	ubiquitin-like protein transferase activity		C3888074
+6228	6244	GO:0004842	prostaglandin e2	ubiquitin-protein transferase activity		C3888151
+6228	6244	GO:0061657	prostaglandin e2	UFM1 conjugating enzyme activity		C3889565
+6228	6244	GO:0019789	prostaglandin e2	SUMO conjugating enzyme activity		C3889566
+6228	6244	GO:0019788	prostaglandin e2	NEDD8 conjugating enzyme activity		C3889567
+6228	6244	GO:0061658	prostaglandin e2	URM1 conjugating enzyme activity		C3889568
+6228	6244	GO:0061653	prostaglandin e2	E2	ISG15 conjugating enxyme activity	C3889569
+6228	6244	GO:0061631	prostaglandin e2	ubiquitin conjugating enzyme activity		C1151883
+6228	6244	GO:0061652	prostaglandin e2	FAT10 conjugating enzyme activity		C1151887
+6228	6244	GO:0061651	prostaglandin e2	Atg12 conjugating enzyme activity		C2612339
+6228	6244	GO:0061655	prostaglandin e2	Pup conjugating enzyme activity		C3156549
+6228	6244	GO:0061656	prostaglandin e2	SUMO conjugating enzyme activity		C3889566
+6228	6244	GO:0061654	prostaglandin e2	NEDD8 conjugating enzyme activity		C3889567
+6309	6345	GO:0007165	a role as a crucial signaling switch	signal transduction	Signal Transduction	C0037083
+6309	6345	GO:0023052	a role as a crucial signaling switch	biological signaling		C3537152
+6382	6402	GO:0097194	with apoptotic cells	apoptosis	Apoptosis	C0162638
+6382	6402	GO:0006915	with apoptotic cells	apoptosis	Apoptosis	C0162638
+6451	6466	GO:0006955	immune response	immune response	Immune response	C0301872
+6468	6509	GO:0043277	to apoptotic cells before their clearance	apoptotic cell clearance		C1523908
+6560	6572	GO:0005634	cell nucleus	cell nucleus	Cell Nucleus	C0007610
+6574	6598	GO:0051179	its nuclear localization	establishment and maintenance of localization		C1744691
+6602	6660	GO:0051179	mediated by five independent nuclear localization signals,	establishment and maintenance of localization		C1744691
+6718	6730	GO:0005634	cell nucleus	cell nucleus	Cell Nucleus	C0007610
+6802	6859	GO:0008104	an exclusively nuclear localization for the ptdsr protein	protein localization	protein localization location	C0597704
+6802	6859	GO:0006886	an exclusively nuclear localization for the ptdsr protein	intracellular protein transport		C1159772
+6886	6919	GO:0051179	the nuclear localization of ptdsr	establishment and maintenance of localization		C1744691
+6940	6944	GO:0005623	cell	cell	Cells	C0007634
+6966	6978	GO:0006909	phagocytosis	phagocytosis	Phagocytosis	C0031308
+7076	7144	GO:0016021	an exclusively transmembrane receptor for apoptotic cell recognition	integral to membrane		C1167322
+7149	7177	GO:0007165	anti-inflammatory signaling.	signal transduction	Signal Transduction	C0037083
+7149	7177	GO:0023052	anti-inflammatory signaling.	biological signaling		C3537152
+7238	7253	GO:0010467	gene-expression	gene expression	Gene Expression	C0017262
+7258	7289	GO:0007567	gene-targeting studies in mice.	parturition	Birth	C0005615
+7258	7289	GO:0000003	gene-targeting studies in mice.	reproduction	Reproduction	C0035150
+7362	7385	GO:0009790	ptdsr-deficient embryos	embryo development	Embryonic Development	C0013936
+7427	7449	GO:0030154	organ differentiation.	cell differentiation	Cell Differentiation process	C0007589
+7691	7771	GO:0043277	a fundamentally different phenotype with regard to clearance of apoptotic cells.	apoptotic cell clearance		C1523908
+7880	7889	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+7880	7889	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+8056	8073	GO:0007567	by gene targeting	parturition	Birth	C0005615
+8056	8073	GO:0000003	by gene targeting	reproduction	Reproduction	C0035150
+8166	8217	GO:0009790	bruce4 embryonic stem (es) cells for gene targeting	embryo development	Embryonic Development	C0013936
+8281	8282	GO:0034023	5	5	carboxyamino	C2247561
+8609	8629	GO:0009790	in ptdsr -/- embryos	embryo development	Embryonic Development	C0013936
+8902	8937	GO:0009790	the stages of embryonic development	embryo development	Embryonic Development	C0013936
+9036	9047	GO:0009790	of embryos.	embryo development	Embryonic Development	C0013936
+9061	9113	GO:0009790	fewer than the expected number of homozygous embryos	embryo development	Embryonic Development	C0013936
+9149	9178	GO:0009790	from a total of 1,031 embryos	embryo development	Embryonic Development	C0013936
+9196	9205	GO:0007565	gestation	gestation	Pregnancy	C0032961
+9243	9277	GO:0009790	ptdsr-deficient homozygous embryos	embryo development	Embryonic Development	C0013936
+9337	9386	GO:0009790	associated with a low rate of embryonic lethality	embryo development	Embryonic Development	C0013936
+9418	9436	GO:0009790	ptdsr -/-  embryos	embryo development	Embryonic Development	C0013936
+9503	9524	GO:0009790	most ptdsr -/-embryos	embryo development	Embryonic Development	C0013936
+9571	9593	GO:0009790	all homozygous embryos	embryo development	Embryonic Development	C0013936
+9609	9615	GO:0040007	growth	growth	Growth	C0018270
+9691	9702	GO:0032502	development	development	Biologic Development	C0678723
+9886	9901	GO:0001654	eye development	eye development	Eye Development	C1517080
+9915	9955	GO:0009790	affected in 14.1% of homozygous embryos.	embryo development	Embryonic Development	C0013936
+10012	10041	GO:0007601	bilateral absence of the eyes	vision	Vision	C0042789
+10128	10146	GO:0009790	homozygous embryos	embryo development	Embryonic Development	C0013936
+10251	10281	GO:0009790	ptdsr -/- embryos until e18.5,	embryo development	Embryonic Development	C0013936
+10335	10339	GO:0007567	born	parturition	Birth	C0005615
+10347	10383	GO:0009291	careful observation of timed matings	unidirectional conjugation		C1160186
+10347	10383	GO:0007618	careful observation of timed matings	mating		C1260875
+10347	10383	GO:0000747	careful observation of timed matings	conjugation with cellular fusion		C1748461
+10347	10383	GO:1990277	careful observation of timed matings	parasexual conjugation with cellular fusion		C3812685
+10446	10466	GO:0007567	died during delivery	parturition	Birth	C0005615
+10485	10497	GO:0007567	after birth.	parturition	Birth	C0005615
+10533	10539	GO:0040007	growth	growth	Growth	C0018270
+10659	10674	GO:0007601	absence of eyes	vision	Vision	C0042789
+10713	10739	GO:0007567	deletion of the ptdsr gene	parturition	Birth	C0005615
+10713	10739	GO:0000003	deletion of the ptdsr gene	reproduction	Reproduction	C0035150
+10846	10866	GO:0009790	during embryogenesis	embryo development	Embryonic Development	C0013936
+10974	10985	GO:0032502	development	development	Biologic Development	C0678723
+11063	11074	GO:0032502	development	development	Biologic Development	C0678723
+11131	11135	GO:0005623	cell	cell	Cells	C0007634
+11141	11177	GO:0009790	embryos at all developmental stages.	embryo development	Embryonic Development	C0013936
+11346	11399	GO:0007567	use of a ptdsr-beta-geo gene-trap reporter mouse line	parturition	Birth	C0005615
+11346	11399	GO:0000003	use of a ptdsr-beta-geo gene-trap reporter mouse line	reproduction	Reproduction	C0035150
+11400	11447	GO:0007567	generated from a ptdsr gene-trap es cell clone.	parturition	Birth	C0005615
+11497	11525	GO:0007567	in the 3' region of the gene	parturition	Birth	C0005615
+11497	11525	GO:0000003	in the 3' region of the gene	reproduction	Reproduction	C0035150
+11593	11616	GO:0009790	in heterozygous embryos	embryo development	Embryonic Development	C0013936
+11650	11661	GO:0032502	development	development	Biologic Development	C0678723
+11789	11810	GO:0009790	in ptdsr -/- embryos.	embryo development	Embryonic Development	C0013936
+12077	12108	GO:0009790	at this stage of embryogenesis,	embryo development	Embryonic Development	C0013936
+12196	12200	GO:0007601	eyes	vision	Vision	C0042789
+12253	12313	GO:0007601	with most intensive beta-galactosidase staining in the eyes,	vision	Vision	C0042789
+12392	12436	GO:0009790	transverse sections of x-gal-stained embryos	embryo development	Embryonic Development	C0013936
+13017	13058	GO:0007601	transverse sections of the developing eye	vision	Vision	C0042789
+13257	13261	GO:0005623	cell	cell	Cells	C0007634
+13517	13528	GO:0032502	development	development	Biologic Development	C0678723
+13546	13555	GO:0007601	see below	vision	Vision	C0042789
+13921	13955	GO:0009790	expressed throughout embryogenesis	embryo development	Embryonic Development	C0013936
+14049	14070	GO:0030154	organ differentiation	cell differentiation	Cell Differentiation process	C0007589
+14116	14127	GO:0032502	development	development	Biologic Development	C0678723
+14175	14190	GO:0009790	control embryos	embryo development	Embryonic Development	C0013936
+14275	14286	GO:0032502	development	development	Biologic Development	C0678723
+14321	14343	GO:0030154	tissue differentiation	cell differentiation	Cell Differentiation process	C0007589
+14565	14579	GO:0030154	differentiated	cell differentiation	Cell Differentiation process	C0007589
+14591	14595	GO:0005623	cell	cell	Cells	C0007634
+14623	14635	GO:0009986	cell surface	cell surface	Cell surface	C0699040
+14885	14947	GO:0030154	a similar delay in tissue differentiation of ptdsr -/- embryos	cell differentiation	Cell Differentiation process	C0007589
+14986	15016	GO:0009790	kidneys from ptdsr+/+  embryos	embryo development	Embryonic Development	C0013936
+15055	15112	GO:0030154	terminally differentiated glomeruli with bowman's capsule	cell differentiation	Cell Differentiation process	C0007589
+15167	15171	GO:0005623	cell	cell	Cells	C0007634
+15412	15445	GO:0030154	a delay in tissue differentiation	cell differentiation	Cell Differentiation process	C0007589
+15495	15506	GO:0032502	development	development	Biologic Development	C0678723
+15508	15525	GO:0009790	ptdsr -/- embryos	embryo development	Embryonic Development	C0013936
+15618	15638	GO:0009790	in wild-type embryos	embryo development	Embryonic Development	C0013936
+15652	15687	GO:0030154	intestinal cellular differentiation	cell differentiation	Cell Differentiation process	C0007589
+15743	15747	GO:0005623	cell	cell	Cells	C0007634
+15814	15818	GO:0005623	cell	cell	Cells	C0007634
+15825	15871	GO:0009790	absent from the intestine of ptdsr -/- embryos	embryo development	Embryonic Development	C0013936
+16601	16642	GO:0007567	almost normally developed lungs at birth.	parturition	Birth	C0005615
+16699	16727	GO:0032502	a slight delay in maturation	development	Biologic Development	C0678723
+16852	16895	GO:0009790	the delay in embryonic lung differentiation	embryo development	Embryonic Development	C0013936
+16908	16940	GO:0007567	normal lung morphology at birth.	parturition	Birth	C0005615
+17121	17182	GO:0030218	erythropoietic differentiation at an early erythroblast stage	erythropoiesis	Erythropoiesis	C0014819
+17363	17384	GO:0001654	in ocular development	eye development	Eye Development	C1517080
+17393	17425	GO:0009058	lead to formation of ectopic eye	anabolism	Anabolism	C0220781
+17517	17552	GO:0007601	that appeared normal with both eyes	vision	Vision	C0042789
+17690	17713	GO:0009790	mildly affected embryos	embryo development	Embryonic Development	C0013936
+17757	17819	GO:0009790	wild-type embryos in the differentiation of the developing eye	embryo development	Embryonic Development	C0013936
+17899	17935	GO:0030154	a comparable differentiation status,	cell differentiation	Cell Differentiation process	C0007589
+18006	18041	GO:0009790	retinal layers in ptdsr -/- embryos	embryo development	Embryonic Development	C0013936
+18065	18086	GO:0009790	in wild-type embryos,	embryo development	Embryonic Development	C0013936
+18103	18107	GO:0005623	cell	cell	Cells	C0007634
+18211	18228	GO:0009790	ptdsr -/- embryos	embryo development	Embryonic Development	C0013936
+18407	18449	GO:0030154	the differences in retinal differentiation	cell differentiation	Cell Differentiation process	C0007589
+18663	18690	GO:0030154	in cellular differentiation	cell differentiation	Cell Differentiation process	C0007589
+18892	18896	GO:0005623	cell	cell	Cells	C0007634
+19081	19114	GO:0007601	ocular malformations with defects	vision	Vision	C0042789
+19115	19156	GO:0030154	in differentiation of retinal structures.	cell differentiation	Cell Differentiation process	C0007589
+19158	19192	GO:0009790	we next examined ptdsr -/- embryos	embryo development	Embryonic Development	C0013936
+19222	19247	GO:0007601	bilateral absence of eyes	vision	Vision	C0042789
+19260	19298	GO:0009790	by serial sectioning of whole embryos.	embryo development	Embryonic Development	C0013936
+19299	19312	GO:0009790	these embryos	embryo development	Embryonic Development	C0013936
+19320	19361	GO:0007601	complex malformations of the optical cup,	vision	Vision	C0042789
+19433	19506	GO:0033059	pigmented epithelial cells in the nasal cavity of all ptdsr-knockout mice	cellular pigmentation		C2246453
+19583	19612	GO:0043473	black-colored pigmented cells	pigmentation	Pigmentation	C0031911
+19663	19718	GO:0043473	that resembled presumptive retinal-pigmented epithelium	pigmentation	Pigmentation	C0031911
+19786	19829	GO:0009058	the formation of a primitive eye structure,	anabolism	Anabolism	C0220781
+19904	19962	GO:0043473	immediately adjacent to the displaced pigmented epithelium	pigmentation	Pigmentation	C0031911
+20050	20098	GO:0009790	similar changes in any of the wild-type embryos.	embryo development	Embryonic Development	C0013936
+20123	20159	GO:0007601	a wide range of ocular malformations	vision	Vision	C0042789
+20189	20224	GO:0030154	ranged from differentiation defects	cell differentiation	Cell Differentiation process	C0007589
+20236	20240	GO:0005623	cell	cell	Cells	C0007634
+20380	20420	GO:0007601	associated with induction of ectopic eye	vision	Vision	C0042789
+20452	20464	GO:0006909	phagocytosis	phagocytosis	Phagocytosis	C0031308
+20469	20497	GO:0043277	clearance of apoptotic cells	apoptotic cell clearance		C1523908
+20578	20624	GO:0043277	required for the clearance of apoptotic cells.	apoptotic cell clearance		C1523908
+20661	20671	GO:0008219	cell death	cell death	Cell Death	C0007587
+20731	20740	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+20731	20740	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+20830	20841	GO:0032502	development	development	Biologic Development	C0678723
+21028	21038	GO:0008219	cell death	cell death	Cell Death	C0007587
+21185	21189	GO:0005623	cell	cell	Cells	C0007634
+21267	21277	GO:0008219	cell death	cell death	Cell Death	C0007587
+21424	21490	GO:0043277	associated with impaired clearance of apoptotic interdigital cells	apoptotic cell clearance		C1523908
+21498	21514	GO:0060173	limb development	limb development	Limb Development	C1517884
+21548	21574	GO:0043277	removal of apoptotic cells	apoptotic cell clearance		C1523908
+21721	21730	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+21721	21730	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+21755	21772	GO:0048771	tissue remodeling	tissue remodeling		C1820201
+21780	21791	GO:0032502	development	development	Biologic Development	C0678723
+21884	21888	GO:0005623	cell	cell	Cells	C0007634
+21941	21977	GO:0009790	six ptdsr -/- embryos in consecutive	embryo development	Embryonic Development	C0013936
+22085	22094	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+22085	22094	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+22126	22171	GO:0097194	tissue restructuring by programmed cell death	apoptosis	Apoptosis	C0162638
+22126	22171	GO:0006915	tissue restructuring by programmed cell death	apoptosis	Apoptosis	C0162638
+22306	22334	GO:0097194	h) with many apoptotic cells	apoptosis	Apoptosis	C0162638
+22306	22334	GO:0006915	h) with many apoptotic cells	apoptosis	Apoptosis	C0162638
+22461	22492	GO:0097194	distribution of apoptotic cells	apoptosis	Apoptosis	C0162638
+22461	22492	GO:0006915	distribution of apoptotic cells	apoptosis	Apoptosis	C0162638
+22509	22527	GO:0009790	ptdsr -/- embryos.	embryo development	Embryonic Development	C0013936
+22573	22588	GO:0097194	apoptotic cells	apoptosis	Apoptosis	C0162638
+22573	22588	GO:0006915	apoptotic cells	apoptosis	Apoptosis	C0162638
+22618	22636	GO:0009790	ptdsr -/- embryos,	embryo development	Embryonic Development	C0013936
+22681	22729	GO:0097194	any differences in the number of apoptotic cells	apoptosis	Apoptosis	C0162638
+22681	22729	GO:0006915	any differences in the number of apoptotic cells	apoptosis	Apoptosis	C0162638
+22815	22839	GO:0043277	apoptotic cell clearance	apoptotic cell clearance		C1523908
+22868	22898	GO:0009790	e18.5 of embryonic development	embryo development	Embryonic Development	C0013936
+22943	22974	GO:0097194	distribution of apoptotic cells	apoptosis	Apoptosis	C0162638
+22943	22974	GO:0006915	distribution of apoptotic cells	apoptosis	Apoptosis	C0162638
+23116	23130	GO:0000003	genital ridge,	reproduction	Reproduction	C0035150
+23131	23135	GO:0007601	eyes	vision	Vision	C0042789
+23182	23221	GO:0043277	no impairment in apoptotic cell removal	apoptotic cell clearance		C1523908
+23318	23322	GO:0005623	cell	cell	Cells	C0007634
+23331	23347	GO:0030324	lung development	lung development		C1160389
+23385	23416	GO:0043065	the rate of apoptosis induction	positive regulation of apoptosis	Positive Regulation of Apoptosis	C1326205
+23421	23425	GO:0005623	cell	cell	Cells	C0007634
+23582	23591	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+23582	23591	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+23627	23645	GO:0060425	lung morphogenesis	lung morphogenesis		C2610574
+23717	23748	GO:0097194	distribution of apoptotic cells	apoptosis	Apoptosis	C0162638
+23717	23748	GO:0006915	distribution of apoptotic cells	apoptosis	Apoptosis	C0162638
+23843	23851	GO:0070265	necrosis	necrosis	Necrosis	C0027540
+23843	23851	GO:0001906	necrosis	necrosis	Necrosis	C0027540
+23843	23851	GO:0019835	necrosis	necrosis	Necrosis	C0027540
+23843	23851	GO:0008220	necrosis	necrosis	Necrosis	C0027540
+23843	23851	GO:0008219	necrosis	necrosis	Necrosis	C0027540
+24006	24018	GO:0006954	Inflammation	Inflammation		C0021368
+24035	24046	GO:0032502	development	development	Biologic Development	C0678723
+24139	24148	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+24139	24148	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+24152	24183	GO:0009790	prominent during embryogenesis,	embryo development	Embryonic Development	C0013936
+24311	24344	GO:0051179	no co-localization of macrophages	establishment and maintenance of localization		C1744691
+24345	24366	GO:0097194	with apoptotic cells.	apoptosis	Apoptosis	C0162638
+24345	24366	GO:0006915	with apoptotic cells.	apoptosis	Apoptosis	C0162638
+24380	24402	GO:0009790	all embryonic tissues,	embryo development	Embryonic Development	C0013936
+24403	24418	GO:0097194	apoptotic cells	apoptosis	Apoptosis	C0162638
+24403	24418	GO:0006915	apoptotic cells	apoptosis	Apoptosis	C0162638
+24495	24498	GO:0007601	see	vision	Vision	C0042789
+24576	24587	GO:0032502	development	development	Biologic Development	C0678723
+24613	24617	GO:0005623	cell	cell	Cells	C0007634
+24628	24667	GO:0043277	involved in removal of apoptotic cells,	apoptotic cell clearance		C1523908
+24772	24796	GO:0043277	apoptotic cell clearance	apoptotic cell clearance		C1523908
+24797	24842	GO:0009790	in ptdsr-deficient embryos during development	embryo development	Embryonic Development	C0013936
+24869	24881	GO:0006909	phagocytosis	phagocytosis	Phagocytosis	C0031308
+24952	24956	GO:0005623	cell	cell	Cells	C0007634
+25023	25072	GO:0097194	impaired in the efficacy of apoptotic cell uptake	apoptosis	Apoptosis	C0162638
+25023	25072	GO:0006915	impaired in the efficacy of apoptotic cell uptake	apoptosis	Apoptosis	C0162638
+25096	25108	GO:0006909	phagocytosis	phagocytosis	Phagocytosis	C0031308
+25182	25194	GO:0006909	phagocytosis	phagocytosis	Phagocytosis	C0031308
+25202	25214	GO:0006909	phagocytosis	phagocytosis	Phagocytosis	C0031308
+25307	25311	GO:0005623	cell	cell	Cells	C0007634
+25350	25362	GO:0006909	phagocytosis	phagocytosis	Phagocytosis	C0031308
+25413	25468	GO:0097194	no differences in the efficacy of apoptotic cell uptake	apoptosis	Apoptosis	C0162638
+25413	25468	GO:0006915	no differences in the efficacy of apoptotic cell uptake	apoptosis	Apoptosis	C0162638
+25529	25572	GO:0097194	no differences in apoptotic cell engulfment	apoptosis	Apoptosis	C0162638
+25529	25572	GO:0006915	no differences in apoptotic cell engulfment	apoptosis	Apoptosis	C0162638
+25700	25704	GO:0005623	cell	cell	Cells	C0007634
+25751	25763	GO:0006909	phagocytosis	phagocytosis	Phagocytosis	C0031308
+25836	25861	GO:0097194	engulfed apoptotic cells,	apoptosis	Apoptosis	C0162638
+25836	25861	GO:0006915	engulfed apoptotic cells,	apoptosis	Apoptosis	C0162638
+25937	25949	GO:0006909	phagocytosed	phagocytosis	Phagocytosis	C0031308
+25999	26014	GO:0097194	apoptotic cells	apoptosis	Apoptosis	C0162638
+25999	26014	GO:0006915	apoptotic cells	apoptosis	Apoptosis	C0162638
+26040	26061	GO:0016234	engulfed by inclusion	inclusion body	Inclusion Bodies	C0007637
+26290	26314	GO:0097194	engulfed apoptotic cells	apoptosis	Apoptosis	C0162638
+26290	26314	GO:0006915	engulfed apoptotic cells	apoptosis	Apoptosis	C0162638
+26331	26388	GO:0006909	or in the relative number of phagocytosed apoptotic cells	phagocytosis	Phagocytosis	C0031308
+26404	26423	GO:0006909	(phagocytotic index	phagocytosis	Phagocytosis	C0031308
+26513	26550	GO:0097194	even more apoptotic target cells than	apoptosis	Apoptosis	C0162638
+26513	26550	GO:0006915	even more apoptotic target cells than	apoptosis	Apoptosis	C0162638
+26657	26672	GO:0097194	apoptotic cells	apoptosis	Apoptosis	C0162638
+26657	26672	GO:0006915	apoptotic cells	apoptosis	Apoptosis	C0162638
+26713	26725	GO:0006909	phagocytosis	phagocytosis	Phagocytosis	C0031308
+26744	26776	GO:0097194	undergone programmed cell death.	apoptosis	Apoptosis	C0162638
+26744	26776	GO:0006915	undergone programmed cell death.	apoptosis	Apoptosis	C0162638
+26939	26951	GO:0006909	phagocytosis	phagocytosis	Phagocytosis	C0031308
+27104	27133	GO:0043654	recognition of apoptotic cell	recognition of apoptotic cell		C1819992
+27227	27290	GO:0006925	anti-inflammatory cytokines after ingestion of apoptotic cells.	inflammatory cell apoptotic process		C1159843
+27413	27455	GO:0097194	and without co-culture of apoptotic cells.	apoptosis	Apoptosis	C0162638
+27413	27455	GO:0006915	and without co-culture of apoptotic cells.	apoptosis	Apoptosis	C0162638
+27580	27587	GO:0032940	secrete	secretion by cell	Cell secretion	C1327616
+27588	27656	GO:0006925	these anti-inflammatory cytokines upon ingestion of apoptotic cells,	inflammatory cell apoptotic process		C1159843
+27889	27917	GO:0043652	engulfment of apoptotic cell	engulfment of apoptotic cell		C1819990
+27940	27966	GO:0007165	pro-inflammatory signaling	signal transduction	Signal Transduction	C0037083
+27940	27966	GO:0023052	pro-inflammatory signaling	biological signaling		C3537152
+28071	28117	GO:0043120	measured levels of tumor necrosis factor-alpha	tumor necrosis factor binding		C1323304
+28217	28250	GO:0043120	significantly less tnf-alpha than	tumor necrosis factor binding		C1323304
+28278	28315	GO:1990774	the difference in tnf-alpha secretion	tumor necrosis factor secretion		C4235361
+28509	28551	GO:0043120	tnf-alpha release by ptdsr -/- macrophages	tumor necrosis factor binding		C1323304
+28571	28599	GO:0043652	engulfment of apoptotic cell	engulfment of apoptotic cell		C1819990
+28585	28600	GO:0097194	apoptotic cells	apoptosis	Apoptosis	C0162638
+28585	28600	GO:0006915	apoptotic cells	apoptosis	Apoptosis	C0162638
+28657	28691	GO:0043120	quantification of tnf-alpha levels	tumor necrosis factor binding		C1323304
+28760	28792	GO:0043120	less tnf-alpha after stimulation	tumor necrosis factor binding		C1323304
+28871	28886	GO:0097194	apoptotic cells	apoptosis	Apoptosis	C0162638
+28871	28886	GO:0006915	apoptotic cells	apoptosis	Apoptosis	C0162638
+28951	29009	GO:0043120	the lps-induced tnf-alpha release by ptdsr -/- macrophages	tumor necrosis factor binding		C1323304
+29019	29068	GO:0097194	inhibited by co-administration of apoptotic cells	apoptosis	Apoptosis	C0162638
+29019	29068	GO:0006915	inhibited by co-administration of apoptotic cells	apoptosis	Apoptosis	C0162638
+29101	29131	GO:0007601	seen in wild-type macrophages.	vision	Vision	C0042789
+29360	29408	GO:0009968	for the inhibition of pro-inflammatory signaling	inhibition of signal transduction	Signal Transduction Inhibition	C1519312
+29431	29459	GO:0043652	engulfment of apoptotic cell	engulfment of apoptotic cell		C1819990
+29628	29644	GO:0097194	apoptotic cells,	apoptosis	Apoptosis	C0162638
+29628	29644	GO:0006915	apoptotic cells,	apoptosis	Apoptosis	C0162638
+29727	29734	GO:0032940	secrete	secretion by cell	Cell secretion	C1327616
+29795	29853	GO:0030154	required for the differentiation of multiple organ systems	cell differentiation	Cell Differentiation process	C0007589
+29861	29872	GO:0032502	development	development	Biologic Development	C0678723
+29907	29970	GO:0007567	a null mutation in the phosphatidylserine receptor (ptdsr) gene	parturition	Birth	C0005615
+29907	29970	GO:0000003	a null mutation in the phosphatidylserine receptor (ptdsr) gene	reproduction	Reproduction	C0035150
+30020	30063	GO:0030154	results in profound differentiation defects	cell differentiation	Cell Differentiation process	C0007589
+30087	30116	GO:0009790	tissues during embryogenesis,	embryo development	Embryonic Development	C0013936
+30458	30490	GO:0007567	differ in the genetic background	parturition	Birth	C0005615
+30458	30490	GO:0000003	differ in the genetic background	reproduction	Reproduction	C0035150
+31025	31046	GO:0007567	in genetic background	parturition	Birth	C0005615
+31025	31046	GO:0000003	in genetic background	reproduction	Reproduction	C0035150
+31210	31216	GO:0040007	growth	growth	Growth	C0018270
+31264	31303	GO:0030154	associated with delayed differentiation	cell differentiation	Cell Differentiation process	C0007589
+31350	31377	GO:0009790	either during embryogenesis	embryo development	Embryonic Development	C0013936
+31417	31466	GO:0060441	no branching morphogenesis of the lung epithelium	epithelial tube branching involved in lung morphogenesis		C2610591
+31590	31614	GO:0048468	terminal differentiation	terminal differentiation		C2752630
+31663	31714	GO:0030154	in the number of differentiated collecting tubules.	cell differentiation	Cell Differentiation process	C0007589
+31725	31761	GO:0030154	the differentiation of the intestine	cell differentiation	Cell Differentiation process	C0007589
+31796	31807	GO:0032502	development	development	Biologic Development	C0678723
+31956	31999	GO:0051145	and of differentiated smooth muscle tissue.	smooth muscle cell differentiation		C1523169
+32037	32062	GO:0030154	intestine differentiation	cell differentiation	Cell Differentiation process	C0007589
+32190	32214	GO:0009790	ptdsr-/- embryos shortly	embryo development	Embryonic Development	C0013936
+32222	32227	GO:0007567	birth	parturition	Birth	C0005615
+32260	32285	GO:0030154	only mild differentiation	cell differentiation	Cell Differentiation process	C0007589
+32342	32351	GO:0007565	gestation	gestation	Pregnancy	C0032961
+32496	32523	GO:0030154	with differentiated alveoli	cell differentiation	Cell Differentiation process	C0007589
+32558	32597	GO:0097194	the occurrence of programmed cell death	apoptosis	Apoptosis	C0162638
+32558	32597	GO:0006915	the occurrence of programmed cell death	apoptosis	Apoptosis	C0162638
+32605	32621	GO:0030324	lung development	lung development		C1160389
+32639	32683	GO:0009790	ptdsr-knockout mice throughout embryogenesis	embryo development	Embryonic Development	C0013936
+32757	32766	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+32757	32766	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+32790	32808	GO:0060425	lung morphogenesis	lung morphogenesis		C2610574
+32843	32891	GO:0097194	any differences in the number of apoptotic cells	apoptosis	Apoptosis	C0162638
+32843	32891	GO:0006915	any differences in the number of apoptotic cells	apoptosis	Apoptosis	C0162638
+32972	33008	GO:0097194	apoptotic cells within lung tissues.	apoptosis	Apoptosis	C0162638
+32972	33008	GO:0006915	apoptotic cells within lung tissues.	apoptosis	Apoptosis	C0162638
+33094	33142	GO:0097194	that impaired clearance of apoptotic mesenchymal	apoptosis	Apoptosis	C0162638
+33094	33142	GO:0006915	that impaired clearance of apoptotic mesenchymal	apoptosis	Apoptosis	C0162638
+33158	33162	GO:0005623	cell	cell	Cells	C0007634
+33184	33202	GO:0060425	lung morphogenesis	lung morphogenesis		C2610574
+33288	33329	GO:1990401	on lung development during embryogenesis.	embryonic lung development		C3896163
+33343	33375	GO:0060431	formation of the epithelial lung	primary lung bud formation		C2610581
+33376	33403	GO:0001763	via branching morphogenesis	morphogenesis of a branching structure		C1622374
+33477	33506	GO:0009058	formation of the organ anlage	anabolism	Anabolism	C0220781
+33531	33586	GO:0009058	; second, primary bud formation by placode invagination	anabolism	Anabolism	C0220781
+33700	33724	GO:0048468	terminal differentiation	terminal differentiation		C2752630
+33783	33848	GO:0009790	in contrast to other invagination processes during embryogenesis,	embryo development	Embryonic Development	C0013936
+33857	33880	GO:0060592	mammary gland formation	mammary gland formation		C2752816
+33997	34006	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+33997	34006	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+34363	34450	GO:0048468	the idea of normal maturation of surfactant-producing type ii alveolar epithelial cells	cell development	Cell development	C0815089
+34854	34871	GO:0007507	heart development	heart development		C1749797
+35106	35121	GO:0001654	eye development	eye development	Eye Development	C1517080
+35131	35155	GO:0007567	a functional ptdsr gene.	parturition	Birth	C0005615
+35131	35155	GO:0000003	a functional ptdsr gene.	reproduction	Reproduction	C0035150
+35156	35179	GO:0009790	ptdsr-deficient embryos	embryo development	Embryonic Development	C0013936
+35281	35351	GO:0046148	that correlates with formation of ectopic retinal-pigmented epithelium	pigment biosynthetic process		C1157717
+35583	35614	GO:0007601	normal external eye structures,	vision	Vision	C0042789
+35637	35656	GO:0060041	retinal development	retinal development		C2610344
+35690	35699	GO:0007565	gestation	gestation	Pregnancy	C0032961
+35727	35740	GO:0009653	morphogenesis	morphogenesis	Morphogenesis	C0026559
+35777	35810	GO:0009790	at later stages of embryogenesis.	embryo development	Embryonic Development	C0013936
+35866	35916	GO:0010467	found in the expression pattern of the ptdsr gene.	gene expression	Gene Expression	C0017262
+36164	36222	GO:0007601	an important role in early events of ocular morphogenesis,	vision	Vision	C0042789
+36249	36272	GO:0007601	bisection of eye fields	vision	Vision	C0042789
+36277	36301	GO:0009058	formation of optic cups.	anabolism	Anabolism	C0220781
+36302	36333	GO:0007601	these early eye-formation steps	vision	Vision	C0042789
+36346	36394	GO:0030900	interconnected with development of the forebrain	forebrain development		C1326636
+36505	36547	GO:0009790	nasal structures in ptdsr-knockout embryos	embryo development	Embryonic Development	C0013936
+36598	36613	GO:0007601	see for example	vision	Vision	C0042789
+36614	36644	GO:0009790	the mutant embryo in figure 1g	embryo development	Embryonic Development	C0013936
+36675	36730	GO:0050789	involved in the regulation of differentiation processes	regulation of biological process	Regulation of biological process	C1327622
+36818	36838	GO:0007601	early eye formation.	vision	Vision	C0042789
+36912	36949	GO:0009058	the formation of retinal protrusions,	anabolism	Anabolism	C0220781
+36976	37031	GO:0030154	specific differentiation defects of retinal cell layers	cell differentiation	Cell Differentiation process	C0007589
+37095	37112	GO:0007601	the eye phenotype	vision	Vision	C0042789
+37136	37182	GO:0043277	explained by failed removal of apoptotic cells	apoptotic cell clearance		C1523908
+37190	37205	GO:0001654	eye development	eye development	Eye Development	C1517080
+37276	37300	GO:0043277	apoptotic cell clearance	apoptotic cell clearance		C1523908
+37302	37364	GO:0042465	a recent comprehensive kinetic analysis of apoptosis induction	kinesis	Kinesis	C0022699
+37378	37397	GO:0060041	retinal development	retinal development		C2610344
+37408	37448	GO:0097194	four major peaks of apoptotic cell death	apoptosis	Apoptosis	C0162638
+37408	37448	GO:0006915	four major peaks of apoptotic cell death	apoptosis	Apoptosis	C0162638
+37513	37523	GO:0008219	cell death	cell death	Cell Death	C0007587
+37574	37644	GO:0043065	followed by subsequent waves of apoptosis induction immediately before	positive regulation of apoptosis	Positive Regulation of Apoptosis	C1326205
+37649	37660	GO:0007567	after birth	parturition	Birth	C0005615
+37751	37785	GO:0009058	besides the formation of the inner	anabolism	Anabolism	C0220781
+37829	37844	GO:0001654	eye development	eye development	Eye Development	C1517080
+37846	37890	GO:0046666	other major phases of retinal cell apoptosis	retinal cell programmed cell death		C1159856
+37846	37890	GO:1990009	other major phases of retinal cell apoptosis	retinal cell apoptotic process		C3546725
+38014	38058	GO:0048468	cell death during normal retinal development	cell development	Cell development	C0815089
+38141	38209	GO:0030154	the most pronounced differentiation defects in the ptdsr -/- mutants	cell differentiation	Cell Differentiation process	C0007589
+38253	38311	GO:0007588	the postnatal elimination of apoptotic photoreceptor cells	excretion	Excretory function	C0221102
+38422	38477	GO:0042571	based on the monoclonal anti-ptdsr antibody mab 217g8e9	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+38487	38496	GO:0007601	see below	vision	Vision	C0042789
+38945	38976	GO:0097194	distribution of apoptotic cells	apoptosis	Apoptosis	C0162638
+38945	38976	GO:0006915	distribution of apoptotic cells	apoptosis	Apoptosis	C0162638
+38980	38993	GO:0030263	pyknotic cell	pyknosis	Karyopyknosis	C0333904
+39072	39082	GO:0008219	cell death	cell death	Cell Death	C0007587
+39086	39143	GO:0043277	diminished clearance of apoptotic neural progenitor cells	apoptotic cell clearance		C1523908
+39249	39292	GO:0030154	required for normal tissue differentiation,	cell differentiation	Cell Differentiation process	C0007589
+39319	39328	GO:0007565	gestation	gestation	Pregnancy	C0032961
+39353	39384	GO:0030154	the most severe differentiation	cell differentiation	Cell Differentiation process	C0007589
+39434	39480	GO:0030154	the multiple defects in tissue differentiation	cell differentiation	Cell Differentiation process	C0007589
+39515	39539	GO:0043277	apoptotic cell clearance	apoptotic cell clearance		C1523908
+39642	39707	GO:0009888	a novel, hitherto unexpected, role in promoting tissue maturation	histogenesis	Histogenic Process	C0178679
+39712	39736	GO:0048468	terminal differentiation	terminal differentiation		C2752630
+39888	39927	GO:0048469	function during tissue differentiation.	functional differentiation		C2752631
+39938	39988	GO:0043277	not essential for the clearance of apoptotic cells	apoptotic cell clearance		C1523908
+40032	40085	GO:0098657	a primary receptor for the uptake of apoptotic cells.	import into cell	Import into cell	C3888108
+40103	40127	GO:0043277	apoptotic cell clearance	apoptotic cell clearance		C1523908
+40128	40156	GO:0009790	in vivo in ptdsr -/- embryos	embryo development	Embryonic Development	C0013936
+40177	40208	GO:0043277	that removal of apoptotic cells	apoptotic cell clearance		C1523908
+40332	40392	GO:0009790	ptdsr -/- animals at several stages of embryonic development	embryo development	Embryonic Development	C0013936
+40428	40462	GO:0098657	impaired uptake of apoptotic cells	import into cell	Import into cell	C3888108
+40482	40493	GO:0032502	development	development	Biologic Development	C0678723
+40508	40520	GO:0006909	phagocytosis	phagocytosis	Phagocytosis	C0031308
+40590	40594	GO:0005623	cell	cell	Cells	C0007634
+40711	40715	GO:0005623	cell	cell	Cells	C0007634
+40778	40802	GO:0043277	apoptotic cell clearance	apoptotic cell clearance		C1523908
+41025	41050	GO:0097194	amount of apoptotic cells	apoptosis	Apoptosis	C0162638
+41025	41050	GO:0006915	amount of apoptotic cells	apoptosis	Apoptosis	C0162638
+41157	41168	GO:0032502	development	development	Biologic Development	C0678723
+41245	41254	GO:0007565	gestation	gestation	Pregnancy	C0032961
+41259	41304	GO:0097194	identified apoptotic cells by tunel staining.	apoptosis	Apoptosis	C0162638
+41259	41304	GO:0006915	identified apoptotic cells by tunel staining.	apoptosis	Apoptosis	C0162638
+41375	41379	GO:0005623	cell	cell	Cells	C0007634
+41395	41433	GO:0046666	by apoptosis in specific retina layers	retinal cell programmed cell death		C1159856
+41398	41407	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+41398	41407	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+41552	41563	GO:0042592	homeostasis	homeostasis	Homeostasis	C0019868
+41583	41594	GO:0007567	after birth	parturition	Birth	C0005615
+41645	41657	GO:0006954	Inflammation	Inflammation		C0021368
+41673	41689	GO:0030324	lung development	lung development		C1160389
+41720	41729	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+41720	41729	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+41784	41809	GO:0046666	apoptotic cells in retina	retinal cell programmed cell death		C1159856
+41813	41849	GO:0009790	lung tissue throughout embryogenesis	embryo development	Embryonic Development	C0013936
+41982	41993	GO:0032502	development	development	Biologic Development	C0678723
+42010	42027	GO:0009790	ptdsr -/- embryos	embryo development	Embryonic Development	C0013936
+42094	42098	GO:0005623	cell	cell	Cells	C0007634
+42100	42127	GO:0009790	in ptdsr-deficient embryos.	embryo development	Embryonic Development	C0013936
+42134	42173	GO:0051674	co-localization of tunel-positive cells	localization of cell		C1660153
+42221	42243	GO:0009790	that ptdsr -/- embryos	embryo development	Embryonic Development	C0013936
+42326	42330	GO:0005623	cell	cell	Cells	C0007634
+42390	42394	GO:0005623	cell	cell	Cells	C0007634
+42529	42533	GO:0005623	cell	cell	Cells	C0007634
+42637	42663	GO:0009790	that during embryogenesis,	embryo development	Embryonic Development	C0013936
+42664	42712	GO:0043277	macrophage-mediated clearance of apoptotic cells	apoptotic cell clearance		C1523908
+42739	42798	GO:0043277	the primary - mechanism for the removal of apoptotic cells.	apoptotic cell clearance		C1523908
+42799	42842	GO:0097194	in many tissues where programmed cell death	apoptosis	Apoptosis	C0162638
+42799	42842	GO:0006915	in many tissues where programmed cell death	apoptosis	Apoptosis	C0162638
+42871	42892	GO:0009790	during embryogenesis,	embryo development	Embryonic Development	C0013936
+42893	42932	GO:0000003	such as remodeling of the genital ridge	reproduction	Reproduction	C0035150
+42940	42959	GO:0035262	gonad morphogenesis	gonad morphogenesis		C1523711
+42964	42999	GO:0022008	differentiation of the neural tube,	neural cell differentiation		C2755962
+42964	42999	GO:0022620	differentiation of the neural tube,	vegetative cell differentiation		C3714713
+43016	43053	GO:0051674	no co-localization of apoptotic cells	localization of cell		C1660153
+43086	43134	GO:0043277	that in these cases clearance of apoptotic cells	apoptotic cell clearance		C1523908
+43183	43187	GO:0005623	cell	cell	Cells	C0007634
+43258	43267	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+43258	43267	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+43422	43462	GO:0009790	in macrophageless sfpi1-knockout embryos	embryo development	Embryonic Development	C0013936
+43472	43547	GO:0030097	deficient for the hematopoietic-lineage-specific transcription factor pu.1.	hematopoiesis	Hematopoiesis	C0018951
+43558	43570	GO:0006909	phagocytosis	phagocytosis	Phagocytosis	C0031308
+43590	43610	GO:0009790	during embryogenesis	embryo development	Embryonic Development	C0013936
+43762	43766	GO:0005623	cell	cell	Cells	C0007634
+43785	43796	GO:0006909	phagocytose	phagocytosis	Phagocytosis	C0031308
+43797	43813	GO:0097194	apoptotic cells,	apoptosis	Apoptosis	C0162638
+43797	43813	GO:0006915	apoptotic cells,	apoptosis	Apoptosis	C0162638
+43839	43863	GO:0043277	apoptotic cell clearance	apoptotic cell clearance		C1523908
+43903	43907	GO:0005623	cell	cell	Cells	C0007634
+44005	44052	GO:0098657	any impairment in the uptake of apoptotic cells	import into cell	Import into cell	C3888108
+44101	44113	GO:0006909	phagocytosis	phagocytosis	Phagocytosis	C0031308
+44214	44323	GO:0030097	thioglycollate-elicited peritoneal macrophages after adoptive transfer of ptdsr -/- hematopoietic stem cells.	hematopoiesis	Hematopoiesis	C0018951
+44444	44448	GO:0005623	cell	cell	Cells	C0007634
+44563	44576	GO:0030097	hematopoiesis	hematopoiesis	Hematopoiesis	C0018951
+44623	44664	GO:0045651	activation/differentiation of macrophages	activation of macrophage differentiation		C2249332
+44880	44881	GO:0034023	5	5	carboxyamino	C2247561
+44906	44946	GO:0007567	attributed to genetic background effects	parturition	Birth	C0005615
+44906	44946	GO:0000003	attributed to genetic background effects	reproduction	Reproduction	C0035150
+44948	45037	GO:0043652	comparison of apoptotic cell engulfment efficacies of thioglycollate-elicited macrophages	engulfment of apoptotic cell		C1819990
+45087	45127	GO:0097194	any differences in apoptotic cell uptake	apoptosis	Apoptosis	C0162638
+45087	45127	GO:0006915	any differences in apoptotic cell uptake	apoptosis	Apoptosis	C0162638
+45268	45291	GO:0006909	phagocytotic engulfment	phagocytosis	Phagocytosis	C0031308
+45504	45520	GO:0097194	apoptotic cells.	apoptosis	Apoptosis	C0162638
+45504	45520	GO:0006915	apoptotic cells.	apoptosis	Apoptosis	C0162638
+45544	45568	GO:0001775	that cellular activation	cell activation		C1326120
+45692	45713	GO:0042116	macrophage activation	macrophage activation	Macrophage Activation	C0024426
+45817	45858	GO:0008104	nuclear localization of the ptdsr protein	protein localization	protein localization location	C0597704
+45817	45858	GO:0006886	nuclear localization of the ptdsr protein	intracellular protein transport		C1159772
+45921	45941	GO:0007567	the genetic ablation	parturition	Birth	C0005615
+45921	45941	GO:0000003	the genetic ablation	reproduction	Reproduction	C0035150
+46124	46128	GO:0005623	cell	cell	Cells	C0007634
+46156	46174	GO:0016246	psr-1 rnai studies	RNA interference	RNA Interference	C1136031
+46449	46498	GO:0043652	in one of the two cell-corpse engulfment pathways	engulfment of apoptotic cell		C1819990
+46825	46837	GO:0006909	phagocytosis	phagocytosis	Phagocytosis	C0031308
+46862	46908	GO:0042571	the monoclonal anti-ptdsr antibody mab 217g8e9	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+46915	46928	GO:0042571	this antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+46947	46954	GO:0005488	binding	binding	Binding 	C1167622
+46981	47028	GO:0051179	as well as in subcellular localization studies,	establishment and maintenance of localization		C1744691
+47071	47095	GO:0016021	a transmembrane receptor	integral to membrane		C1167322
+47071	47095	GO:0044214	a transmembrane receptor	transmembrane	fully spanning the plasma membrane	C2752508
+47109	47128	GO:0007165	signal transduction	signal transduction	Signal Transduction	C0037083
+47187	47194	GO:0005488	binding	binding	Binding 	C1167622
+47454	47457	GO:0007601	see	vision	Vision	C0042789
+47573	47577	GO:0005623	cell	cell	Cells	C0007634
+47669	47673	GO:0005488	bind	binding	Binding 	C1167622
+47783	47795	GO:0042571	the antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+47842	47850	GO:0016020	membrane	membrane	Membrane	C0596901
+47874	47877	GO:0007601	see	vision	Vision	C0042789
+47941	47954	GO:0042571	this antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+48111	48144	GO:0030154	essential for the differentiation	cell differentiation	Cell Differentiation process	C0007589
+48149	48179	GO:0009888	maturation of multiple tissues	histogenesis	Histogenic Process	C0178679
+48180	48201	GO:0009790	during embryogenesis.	embryo development	Embryonic Development	C0013936
+48285	48298	GO:0009653	morphogenesis	morphogenesis	Morphogenesis	C0026559
+48322	48333	GO:0032502	development	development	Biologic Development	C0678723
+48360	48411	GO:0043277	explained by impaired clearance of apoptotic cells,	apoptotic cell clearance		C1523908
+48673	48709	GO:0097194	subsequent apoptotic cell engulfment	apoptosis	Apoptosis	C0162638
+48673	48709	GO:0006915	subsequent apoptotic cell engulfment	apoptosis	Apoptosis	C0162638
+48714	48741	GO:0007165	anti-inflammatory signaling	signal transduction	Signal Transduction	C0037083
+48714	48741	GO:0023052	anti-inflammatory signaling	biological signaling		C3537152
+48905	48916	GO:0006909	phagocytose	phagocytosis	Phagocytosis	C0031308
+48917	48933	GO:0097194	apoptotic cells,	apoptosis	Apoptosis	C0162638
+48917	48933	GO:0006915	apoptotic cells,	apoptosis	Apoptosis	C0162638
+49035	49101	GO:0003674	the molecular mechanisms of these newly recognized ptdsr functions	molecular_function		C1148560
+49109	49120	GO:0032502	development	development	Biologic Development	C0678723
+49220	49234	GO:0007567	gene-trap mice	parturition	Birth	C0005615
+49220	49234	GO:0000003	gene-trap mice	reproduction	Reproduction	C0035150
+49294	49304	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+49400	49435	GO:0005694	from a c57bl/6j genomic bac library	chromosome	Chromosomes	C0008633
+49576	49605	GO:0005694	subcloned from this bac clone	chromosome	Chromosomes	C0008633
+49663	49683	GO:0007567	ii of the ptdsr gene	parturition	Birth	C0005615
+49663	49683	GO:0000003	ii of the ptdsr gene	reproduction	Reproduction	C0035150
+49688	49755	GO:0007567	replaced by a 1.2 kb loxp-flanked neomycin-resistance gene cassette	parturition	Birth	C0005615
+49688	49755	GO:0000003	replaced by a 1.2 kb loxp-flanked neomycin-resistance gene cassette	reproduction	Reproduction	C0035150
+49764	49800	GO:0006310	homologous recombination in es cells	DNA recombination	Recombination, Genetic	C0034865
+49849	49853	GO:0005623	cell	cell	Cells	C0007634
+49937	49941	GO:0005623	cell	cell	Cells	C0007634
+50020	50079	GO:0006310	for homologous recombination events within the ptdsr locus.	DNA recombination	Recombination, Genetic	C0034865
+50182	50186	GO:0005623	cell	cell	Cells	C0007634
+50270	50281	GO:0032502	development	development	Biologic Development	C0678723
+50311	50339	GO:0007618	mated with c57bl/6j females.	mating		C1260875
+50365	50369	GO:0005623	cell	cell	Cells	C0007634
+50522	50557	GO:0000785	from black coat-color f1 offspring.	chromatin	chromatin location	C1325550
+50559	50574	GO:0007567	ptdsr gene-trap	parturition	Birth	C0005615
+50559	50574	GO:0000003	ptdsr gene-trap	reproduction	Reproduction	C0035150
+50619	50623	GO:0005623	cell	cell	Cells	C0007634
+50638	50684	GO:0007567	a beta-geo gene-trap vector in the ptdsr locus	parturition	Birth	C0005615
+50638	50684	GO:0000003	a beta-geo gene-trap vector in the ptdsr locus	reproduction	Reproduction	C0035150
+50823	50827	GO:0005623	cell	cell	Cells	C0007634
+50857	50883	GO:0007567	the gene-trap in intron v,	parturition	Birth	C0005615
+50857	50883	GO:0000003	the gene-trap in intron v,	reproduction	Reproduction	C0035150
+50904	50925	GO:0007567	vi of the ptdsr gene.	parturition	Birth	C0005615
+50904	50925	GO:0000003	vi of the ptdsr gene.	reproduction	Reproduction	C0035150
+51062	51094	GO:0007618	mated with 129p2/olahsd females.	mating		C1260875
+51095	51148	GO:0007567	germ-line transmission of the mutant gene-trap allele	parturition	Birth	C0005615
+51095	51148	GO:0000003	germ-line transmission of the mutant gene-trap allele	reproduction	Reproduction	C0035150
+51251	51275	GO:0009790	the genotypes of embryos	embryo development	Embryonic Development	C0013936
+51404	51412	GO:0016020	membrane	membrane	Membrane	C0596901
+52345	52348	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+52518	52526	GO:0016020	membrane	membrane	Membrane	C0596901
+53083	53116	GO:0009790	isolated from homogenized embryos	embryo development	Embryonic Development	C0013936
+53218	53221	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+53227	53250	GO:0009790	extracted from embryos,	embryo development	Embryonic Development	C0013936
+53294	53302	GO:0016020	membrane	membrane	Membrane	C0596901
+53602	53610	GO:0016020	membrane	membrane	Membrane	C0596901
+53756	53786	GO:0009790	that homozygous mutant embryos	embryo development	Embryonic Development	C0013936
+53818	53845	GO:0009790	heterozygous mutant embryos	embryo development	Embryonic Development	C0013936
+53838	53845	GO:0009790	embryos	embryo development	Embryonic Development	C0013936
+53959	53986	GO:0019835	homogenized in lysis buffer	cytolysis	pathologic cytolysis	C1536403
+54132	54135	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+54240	54248	GO:0016020	membrane	membrane	Membrane	C0596901
+54340	54368	GO:0042571	a specific antibody to ptdsr	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+54515	54535	GO:0042571	secondary antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+54949	55017	GO:0009405	in a specific pathogen-free environment with a 12 h light-dark cycle	pathogenesis	Pathogenesis	C0699748
+55099	55131	GO:0009405	screened for selected pathogens.	pathogenesis	Pathogenesis	C0699748
+55305	55325	GO:0009790	isolation of embryos	embryo development	Embryonic Development	C0013936
+55530	55562	GO:0009790	embryos at indicated time points	embryo development	Embryonic Development	C0013936
+55651	55676	GO:0009790	extra-embryonic membranes	embryo development	Embryonic Development	C0013936
+55712	55729	GO:0009790	ptdsr -/- embryos	embryo development	Embryonic Development	C0013936
+55842	55863	GO:0009790	embryos for histology	embryo development	Embryonic Development	C0013936
+56262	56294	GO:0043654	for detection of apoptotic cells	recognition of apoptotic cell		C1819992
+56325	56369	GO:0042571	an antibody specific for activated caspase 3	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+56464	56474	GO:0042571	antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+56545	56605	GO:0042571	indirect streptavidin with biotinylated secondary antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+56860	56874	GO:0009790	e13.5 embryos,	embryo development	Embryonic Development	C0013936
+57036	57056	GO:0009790	excised from embryos	embryo development	Embryonic Development	C0013936
+57167	57176	GO:0007586	digestion	digestion	Digestion	C0012238
+57386	57390	GO:0005623	cell	cell	Cells	C0007634
+57445	57449	GO:0005623	cell	cell	Cells	C0007634
+57802	57806	GO:0005623	cell	cell	Cells	C0007634
+57881	57893	GO:0006909	phagocytosis	phagocytosis	Phagocytosis	C0031308
+58021	58025	GO:0005623	cell	cell	Cells	C0007634
+58058	58100	GO:0097194	for preparation of apoptotic target cells,	apoptosis	Apoptosis	C0162638
+58058	58100	GO:0006915	for preparation of apoptotic target cells,	apoptosis	Apoptosis	C0162638
+58221	58230	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+58221	58230	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+58262	58266	GO:0005623	cell	cell	Cells	C0007634
+58343	58347	GO:0005623	cell	cell	Cells	C0007634
+58370	58405	GO:0043065	the efficacy of apoptosis induction	positive regulation of apoptosis	Positive Regulation of Apoptosis	C1326205
+58436	58440	GO:0005623	cell	cell	Cells	C0007634
+58496	58500	GO:0005623	cell	cell	Cells	C0007634
+58535	58545	GO:0097194	apoptotic,	apoptosis	Apoptosis	C0162638
+58535	58545	GO:0006915	apoptotic,	apoptosis	Apoptosis	C0162638
+58604	58608	GO:0005623	cell	cell	Cells	C0007634
+58615	58624	GO:0070265	necrotic,	necrosis	Necrosis	C0027540
+58615	58624	GO:0001906	necrotic,	necrosis	Necrosis	C0027540
+58615	58624	GO:0019835	necrotic,	necrosis	Necrosis	C0027540
+58615	58624	GO:0008220	necrotic,	necrosis	Necrosis	C0027540
+58615	58624	GO:0008219	necrotic,	necrosis	Necrosis	C0027540
+58687	58711	GO:0097194	the apoptotic thymocytes	apoptosis	Apoptosis	C0162638
+58687	58711	GO:0006915	the apoptotic thymocytes	apoptosis	Apoptosis	C0162638
+58796	58808	GO:0006909	phagocytosis	phagocytosis	Phagocytosis	C0031308
+58899	58928	GO:0098657	the uptake of apoptotic cells	import into cell	Import into cell	C3888108
+59025	59029	GO:0005623	cell	cell	Cells	C0007634
+59043	59055	GO:0006909	phagocytosis	phagocytosis	Phagocytosis	C0031308
+59149	59153	GO:0005623	cell	cell	Cells	C0007634
+59218	59253	GO:0042571	stained with an anti-f4/80 antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+59264	59296	GO:0042571	followed by a secondary antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+59476	59488	GO:0006909	phagocytosis	phagocytosis	Phagocytosis	C0031308
+59592	59622	GO:0097194	engulfed apoptotic thymocytes.	apoptosis	Apoptosis	C0162638
+59592	59622	GO:0006915	engulfed apoptotic thymocytes.	apoptosis	Apoptosis	C0162638
+59623	59645	GO:0006909	the phagocytotic index	phagocytosis	Phagocytosis	C0031308
+59627	59645	GO:0006909	phagocytotic index	phagocytosis	Phagocytosis	C0031308
+59744	59748	GO:0005623	cell	cell	Cells	C0007634
+59832	59836	GO:0005623	cell	cell	Cells	C0007634
+60036	60066	GO:0010934	macrophage cytokine production	macrophage cytokine production		C2612241
+60100	60120	GO:0097194	apoptotic thymocytes	apoptosis	Apoptosis	C0162638
+60100	60120	GO:0006915	apoptotic thymocytes	apoptosis	Apoptosis	C0162638
+60205	60220	GO:0097194	apoptotic cells	apoptosis	Apoptosis	C0162638
+60205	60220	GO:0006915	apoptotic cells	apoptosis	Apoptosis	C0162638
+60761	60773	GO:0006954	Inflammation	Inflammation		C0021368
+61119	61154	GO:0051674	the localization of apoptotic cells	localization of cell		C1660153
+61159	61208	GO:0009790	macrophages in the subcutis of developing embryos	embryo development	Embryonic Development	C0013936
+61412	61447	GO:0051674	the localization of apoptotic cells	localization of cell		C1660153
+61452	61501	GO:0009790	macrophages in the subcutis of developing embryos	embryo development	Embryonic Development	C0013936
+61989	61993	GO:0005623	cell	cell	Cells	C0007634
+62304	62308	GO:0005623	cell	cell	Cells	C0007634
+62408	62434	GO:0003674	human molecular physiology	molecular_function		C1148560
+62439	62487	GO:0015074	pathology through integrated functional genomics	DNA integration	DNA Integration	C1158478
+62561	62623	GO:0016458	targeted inactivation of the phosphatidylserine receptor gene.	gene silencing	Gene Silencing	C0598496
+62628	62658	GO:0007567	ptdsr gene-targeting strategy.	parturition	Birth	C0005615
+62628	62658	GO:0000003	ptdsr gene-targeting strategy.	reproduction	Reproduction	C0035150
+62659	62695	GO:0006310	homologous recombination in es cells	DNA recombination	Recombination, Genetic	C0034865
+62735	62762	GO:0007567	ii of the murine ptdsr gene	parturition	Birth	C0005615
+62735	62762	GO:0000003	ii of the murine ptdsr gene	reproduction	Reproduction	C0035150
+62763	62833	GO:0007567	through replacement of a loxp-flanked neomycin phosphotransferase gene	parturition	Birth	C0005615
+62763	62833	GO:0000003	through replacement of a loxp-flanked neomycin phosphotransferase gene	reproduction	Reproduction	C0035150
+63570	63595	GO:0009790	pcr genotyping of embryos	embryo development	Embryonic Development	C0013936
+63816	63834	GO:0009790	ptdsr -/- embryos.	embryo development	Embryonic Development	C0013936
+63922	63939	GO:0009790	ptdsr -/- embryos	embryo development	Embryonic Development	C0013936
+63946	63972	GO:0042571	a ptdsr-specific antibody.	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+63973	63984	GO:0032502	development	development	Biologic Development	C0678723
+64020	64029	GO:0007567	(h) birth	parturition	Birth	C0005615
+64153	64175	GO:0009790	the ptdsr -/-  embryos	embryo development	Embryonic Development	C0013936
+64280	64309	GO:0007601	bilateral absence of the eyes	vision	Vision	C0042789
+64524	64553	GO:0009790	during embryonic development.	embryo development	Embryonic Development	C0013936
+64558	64636	GO:0007567	schematic representation of the construction of the ptdsr gene-trap mouse line	parturition	Birth	C0005615
+64558	64636	GO:0000003	schematic representation of the construction of the ptdsr gene-trap mouse line	reproduction	Reproduction	C0035150
+64666	64696	GO:0009790	at different embryonic stages.	embryo development	Embryonic Development	C0013936
+64734	64771	GO:0007567	regulatory elements of the gene-trap,	parturition	Birth	C0005615
+64734	64771	GO:0000003	regulatory elements of the gene-trap,	reproduction	Reproduction	C0035150
+64931	65014	GO:0007567	(b) whole-mount beta-galactosidase staining of heterozygous ptdsr gene-trap embryos	parturition	Birth	C0005615
+65022	65031	GO:0007565	gestation	gestation	Pregnancy	C0032961
+65175	65194	GO:0007601	the developing eye.	vision	Vision	C0042789
+65201	65255	GO:0009790	sectioning of e12.5 beta-galactosidase-stained embryos	embryo development	Embryonic Development	C0013936
+65362	65367	GO:0007601	eyes.	vision	Vision	C0042789
+65368	65389	GO:0007601	expression in the eye	vision	Vision	C0042789
+65442	65446	GO:0005623	cell	cell	Cells	C0007634
+65765	65802	GO:0009790	ptdsr -/-organs during embryogenesis.	embryo development	Embryonic Development	C0013936
+65804	65826	GO:0009790	a-f) wild-type embryos	embryo development	Embryonic Development	C0013936
+65864	65901	GO:0009790	isolated at various embryonic stages,	embryo development	Embryonic Development	C0013936
+65949	65960	GO:0032502	development	development	Biologic Development	C0678723
+66030	66051	GO:0009790	(g) ptdsr -/- embryos	embryo development	Embryonic Development	C0013936
+66087	66106	GO:0009058	well-formed alveoli	anabolism	Anabolism	C0220781
+66255	66276	GO:0009790	(h) ptdsr -/- embryos	embryo development	Embryonic Development	C0013936
+66309	66342	GO:0097650	(b) wild-type, collecting tubules	B axonemal microtubule		C3893602
+66448	66489	GO:0009790	no intramural ganglia in ptdsr -/-embryos	embryo development	Embryonic Development	C0013936
+66473	66489	GO:0009790	ptdsr -/-embryos	embryo development	Embryonic Development	C0013936
+66825	66843	GO:0009790	wild-type embryos.	embryo development	Embryonic Development	C0013936
+66922	66942	GO:0009058	formation of alveoli	anabolism	Anabolism	C0220781
+67112	67152	GO:0030218	higher numbers of erythropoietic islands	erythropoiesis	Erythropoiesis	C0014819
+67153	67180	GO:0043249	and of mature erythrocytes.	erythrocyte maturation		C1523887
+67196	67203	GO:0005773	vacuole	vacuole	Vacuole	C0042219
+67258	67272	GO:0044237	metabolized in	cellular metabolic process	Metabolic Process, Cellular	C1524026
+67542	67553	GO:0032502	development	development	Biologic Development	C0678723
+67662	67691	GO:0009790	observed in ptdsr -/-embryos,	embryo development	Embryonic Development	C0013936
+68174	68189	GO:0001654	eye development	eye development	Eye Development	C1517080
+68211	68237	GO:0009790	eyeless ptdsr -/- embryos.	embryo development	Embryonic Development	C0013936
+68242	68276	GO:0009790	in anophthalmic ptdsr -/- embryos,	embryo development	Embryonic Development	C0013936
+68291	68320	GO:0007601	bilateral absence of the eyes	vision	Vision	C0042789
+68346	68411	GO:0009790	serial h&e-stained sagittal sections of homozygous mutant embryos	embryo development	Embryonic Development	C0013936
+68571	68626	GO:0043473	an ectopic misplacement of retinal-pigmented epithelium	pigmentation	Pigmentation	C0031911
+68663	68688	GO:0043473	the deposition of pigment	pigmentation	Pigmentation	C0031911
+68894	68927	GO:0097194	analysis of programmed cell death	apoptosis	Apoptosis	C0162638
+68894	68927	GO:0006915	analysis of programmed cell death	apoptosis	Apoptosis	C0162638
+68959	68992	GO:0043277	in the removal of apoptotic cells	apoptotic cell clearance		C1523908
+69010	69027	GO:0009790	ptdsr -/-embryos.	embryo development	Embryonic Development	C0013936
+69098	69124	GO:0009790	ptdsr -/- embryos at e13.5	embryo development	Embryonic Development	C0013936
+69162	69193	GO:0051674	localization of apoptotic cells	localization of cell		C1660153
+69345	69377	GO:0009790	(f-h) ptdsr -/- embryos at e12.5	embryo development	Embryonic Development	C0013936
+69383	69417	GO:0051402	apoptotic cells in the neural tube	apoptosis of neurons	Apoptosis of neurons	C1660771
+69519	69550	GO:0097194	total number of apoptotic cells	apoptosis	Apoptosis	C0162638
+69519	69550	GO:0006915	total number of apoptotic cells	apoptosis	Apoptosis	C0162638
+69668	69721	GO:0009790	ptdsr -/-embryos from different developmental stages.	embryo development	Embryonic Development	C0013936
+69862	69891	GO:0009790	(i) homozygous mutant embryos	embryo development	Embryonic Development	C0013936
+69943	69967	GO:0097194	close to apoptotic cells	apoptosis	Apoptosis	C0162638
+69943	69967	GO:0006915	close to apoptotic cells	apoptosis	Apoptosis	C0162638
+69968	69997	GO:0009790	during embryonic development.	embryo development	Embryonic Development	C0013936
+70015	70018	GO:0007601	see	vision	Vision	C0042789
+70132	70144	GO:0006909	phagocytosis	phagocytosis	Phagocytosis	C0031308
+70239	70262	GO:0009790	(c,d) ptdsr -/- embryos	embryo development	Embryonic Development	C0013936
+70313	70333	GO:0097194	apoptotic thymocytes	apoptosis	Apoptosis	C0162638
+70313	70333	GO:0006915	apoptotic thymocytes	apoptosis	Apoptosis	C0162638
+70454	70466	GO:0006909	phagocytosed	phagocytosis	Phagocytosis	C0031308
+70467	70482	GO:0097194	apoptotic cells	apoptosis	Apoptosis	C0162638
+70467	70482	GO:0006915	apoptotic cells	apoptosis	Apoptosis	C0162638
+70519	70531	GO:0006909	phagocytosis	phagocytosis	Phagocytosis	C0031308
+70654	70679	GO:0097194	engulfed apoptotic cells,	apoptosis	Apoptosis	C0162638
+70654	70679	GO:0006915	engulfed apoptotic cells,	apoptosis	Apoptosis	C0162638
+70695	70704	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+70695	70704	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+70771	70818	GO:0097194	quantification of the number of apoptotic cells	apoptosis	Apoptosis	C0162638
+70771	70818	GO:0006915	quantification of the number of apoptotic cells	apoptosis	Apoptosis	C0162638
+70819	70853	GO:0006909	phagocytosed by single macrophages	phagocytosis	Phagocytosis	C0031308
+70899	70903	GO:0005623	cell	cell	Cells	C0007634
+70905	70932	GO:0006909	phagocytosed per macrophage	phagocytosis	Phagocytosis	C0031308
+70950	71007	GO:0043277	differences in the efficacy of removal of apoptotic cells	apoptotic cell clearance		C1523908
+71059	71078	GO:0001816	cytokine production	cytokine production		C1327413
+71139	71155	GO:0097194	apoptotic cells.	apoptosis	Apoptosis	C0162638
+71139	71155	GO:0006915	apoptotic cells.	apoptosis	Apoptosis	C0162638
+71181	71198	GO:0009790	ptdsr -/- embryos	embryo development	Embryonic Development	C0013936
+71255	71270	GO:0097194	apoptotic cells	apoptosis	Apoptosis	C0162638
+71255	71270	GO:0097194	apoptotic cells	apoptosis	Apoptosis	C0162638
+71255	71270	GO:0006915	apoptotic cells	apoptosis	Apoptosis	C0162638
+71255	71270	GO:0006915	apoptotic cells	apoptosis	Apoptosis	C0162638

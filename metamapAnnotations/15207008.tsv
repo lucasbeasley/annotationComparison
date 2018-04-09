@@ -1,0 +1,499 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+0	73	GO:1902698	structure-function evolution of the transforming acidic coiled coil genes	acidogenesis		C3823112
+0	73	GO:1902705	structure-function evolution of the transforming acidic coiled coil genes	acidogenesis		C3823112
+0	73	GO:1902706	structure-function evolution of the transforming acidic coiled coil genes	acidogenesis		C3823112
+0	73	GO:1902699	structure-function evolution of the transforming acidic coiled coil genes	acidogenesis		C3823112
+156	192	GO:0007567	examination of ancient gene families	parturition	Birth	C0005615
+156	192	GO:0000003	examination of ancient gene families	reproduction	Reproduction	C0035150
+225	256	GO:0007567	the evolution of gene structure	parturition	Birth	C0005615
+225	256	GO:0000003	the evolution of gene structure	reproduction	Reproduction	C0035150
+333	383	GO:1902698	transforming acidic coiled coil (tacc) gene family	acidogenesis		C3823112
+333	383	GO:1902705	transforming acidic coiled coil (tacc) gene family	acidogenesis		C3823112
+333	383	GO:1902706	transforming acidic coiled coil (tacc) gene family	acidogenesis		C3823112
+333	383	GO:1902699	transforming acidic coiled coil (tacc) gene family	acidogenesis		C3823112
+1204	1211	GO:0005488	binding	binding	Binding 	C1167622
+1234	1258	GO:0004879	nuclear hormone receptor	nuclear hormone receptor	nuclear hormone receptor activity	C1753269
+1366	1381	GO:0072686	mitotic spindle	mitotic spindle	Mitotic Spindle Apparatus	C0026258
+1439	1471	GO:0006412	involved in protein translation,	protein biosynthesis	Protein Biosynthesis	C0597295
+1472	1486	GO:0006396	RNA processing	RNA processing	RNA Processing	C1158728
+1491	1504	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+1712	1736	GO:0004879	nuclear hormone receptor	nuclear hormone receptor	nuclear hormone receptor activity	C1753269
+1750	1771	GO:0000988	transcription factors	transcription factor activity		C1148759
+1750	1771	GO:0001070	transcription factors	transcription factor activity		C1148759
+1750	1771	GO:0001071	transcription factors	transcription factor activity		C1148759
+1750	1771	GO:0003700	transcription factors	transcription factor activity		C1148759
+1902	1912	GO:0005813	centrosome	centrosome	Centrosome	C0242608
+1976	1996	GO:0006338	chromatin remodeling	chromatin remodeling		C1156210
+1998	2011	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+2055	2059	GO:0005623	cell	cell	Cells	C0007634
+2118	2165	GO:0007567	associated with the generation of gene families	parturition	Birth	C0005615
+2118	2165	GO:0000003	associated with the generation of gene families	reproduction	Reproduction	C0035150
+2166	2249	GO:0007567	by the continual duplication of an initial relatively small set of ancestral genes.	parturition	Birth	C0005615
+2166	2249	GO:0000003	by the continual duplication of an initial relatively small set of ancestral genes.	reproduction	Reproduction	C0035150
+2323	2360	GO:0007567	exon shuffling between gene families,	parturition	Birth	C0005615
+2323	2360	GO:0000003	exon shuffling between gene families,	reproduction	Reproduction	C0035150
+2361	2366	GO:0007567	genes	parturition	Birth	C0005615
+2361	2366	GO:0000003	genes	reproduction	Reproduction	C0035150
+2597	2641	GO:0007567	fundamental questions in regard to how genes	parturition	Birth	C0005615
+2597	2641	GO:0000003	fundamental questions in regard to how genes	reproduction	Reproduction	C0035150
+2775	2806	GO:0007567	the lineage of particular genes	parturition	Birth	C0005615
+2775	2806	GO:0000003	the lineage of particular genes	reproduction	Reproduction	C0035150
+2811	2825	GO:0007567	gene families,	parturition	Birth	C0005615
+2811	2825	GO:0000003	gene families,	reproduction	Reproduction	C0035150
+2826	2872	GO:0007567	with related gene families in other organisms.	parturition	Birth	C0005615
+2826	2872	GO:0000003	with related gene families in other organisms.	reproduction	Reproduction	C0035150
+3025	3082	GO:0007567	the complex interplay between evolution of gene structure	parturition	Birth	C0005615
+3025	3082	GO:0000003	the complex interplay between evolution of gene structure	reproduction	Reproduction	C0035150
+3106	3153	GO:1902698	the first transforming acidic coiled coil gene,	acidogenesis		C3823112
+3106	3153	GO:1902705	the first transforming acidic coiled coil gene,	acidogenesis		C3823112
+3106	3153	GO:1902706	the first transforming acidic coiled coil gene,	acidogenesis		C3823112
+3106	3153	GO:1902699	the first transforming acidic coiled coil gene,	acidogenesis		C3823112
+3187	3198	GO:0032502	development	development	Biologic Development	C0678723
+3341	3381	GO:0098687	mapped to paralogous chromosomal regions	chromosome region	Region of chromosome	C1953345
+3391	3401	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+3454	3458	GO:0005007	FGFR	FGFR	FGFR activity	C1150619
+3497	3547	GO:0007567	together with identification of a single tacc gene	parturition	Birth	C0005615
+3497	3547	GO:0000003	together with identification of a single tacc gene	reproduction	Reproduction	C0035150
+3667	3671	GO:0005007	FGFR	FGFR	FGFR activity	C1150619
+3676	3686	GO:0007567	tacc genes	parturition	Birth	C0005615
+3676	3686	GO:0000003	tacc genes	reproduction	Reproduction	C0035150
+3775	3839	GO:0007567	subsequent successive duplications of the ancestral gene cluster	parturition	Birth	C0005615
+3775	3839	GO:0000003	subsequent successive duplications of the ancestral gene cluster	reproduction	Reproduction	C0035150
+3902	3906	GO:0005007	FGFR	FGFR	FGFR activity	C1150619
+4033	4037	GO:0005007	FGFR	FGFR	FGFR activity	C1150619
+4100	4118	GO:0007567	a fourth tacc gene	parturition	Birth	C0005615
+4100	4118	GO:0000003	a fourth tacc gene	reproduction	Reproduction	C0035150
+4176	4204	GO:0007567	only three active tacc genes	parturition	Birth	C0005615
+4176	4204	GO:0000003	only three active tacc genes	reproduction	Reproduction	C0035150
+4706	4764	GO:0007567	comparison of the phylogenetic relationship of these genes	parturition	Birth	C0005615
+4706	4764	GO:0000003	comparison of the phylogenetic relationship of these genes	reproduction	Reproduction	C0035150
+5280	5319	GO:0007567	the complete sequence of the tacc genes	parturition	Birth	C0005615
+5280	5319	GO:0000003	the complete sequence of the tacc genes	reproduction	Reproduction	C0035150
+5701	5742	GO:0007567	an ancient conservation of the tacc genes	parturition	Birth	C0005615
+5701	5742	GO:0000003	an ancient conservation of the tacc genes	reproduction	Reproduction	C0035150
+5858	5903	GO:0007567	complete characterization of these tacc genes	parturition	Birth	C0005615
+5858	5903	GO:0000003	complete characterization of these tacc genes	reproduction	Reproduction	C0035150
+6677	6705	GO:0008574	kinesin like proteins (klp),	kinesin activity		C1622129
+6775	6793	GO:0007567	a single tacc gene	parturition	Birth	C0005615
+6775	6793	GO:0000003	a single tacc gene	reproduction	Reproduction	C0035150
+6775	6793	GO:0007567	a single tacc gene	parturition	Birth	C0005615
+6775	6793	GO:0000003	a single tacc gene	reproduction	Reproduction	C0035150
+7309	7323	GO:0007567	the tacc genes	parturition	Birth	C0005615
+7309	7323	GO:0000003	the tacc genes	reproduction	Reproduction	C0035150
+7384	7449	GO:0007567	four tacc genes in the most "primitive" compact vertebrate genome	parturition	Birth	C0005615
+7384	7449	GO:0000003	four tacc genes in the most "primitive" compact vertebrate genome	reproduction	Reproduction	C0035150
+7503	7519	GO:0007567	with three genes	parturition	Birth	C0005615
+7503	7519	GO:0000003	with three genes	reproduction	Reproduction	C0035150
+7596	7643	GO:0005694	for genomic duplication of the chromosomal loci	chromosome	Chromosomes	C0008633
+7644	7662	GO:0007567	for the tacc genes	parturition	Birth	C0005615
+7644	7662	GO:0000003	for the tacc genes	reproduction	Reproduction	C0035150
+7682	7704	GO:0007567	a possible fourth gene	parturition	Birth	C0005615
+7682	7704	GO:0000003	a possible fourth gene	reproduction	Reproduction	C0035150
+7747	7762	GO:0007567	four tacc genes	parturition	Birth	C0005615
+7747	7762	GO:0000003	four tacc genes	reproduction	Reproduction	C0035150
+7805	7814	GO:0007567	two genes	parturition	Birth	C0005615
+7805	7814	GO:0000003	two genes	reproduction	Reproduction	C0035150
+7898	7914	GO:0007567	other two genes,	parturition	Birth	C0005615
+7898	7914	GO:0000003	other two genes,	reproduction	Reproduction	C0035150
+8095	8112	GO:0007567	the trtacc1b gene	parturition	Birth	C0005615
+8095	8112	GO:0000003	the trtacc1b gene	reproduction	Reproduction	C0035150
+8190	8199	GO:0007601	see below	vision	Vision	C0042789
+8258	8282	GO:0007567	gene prediction software	parturition	Birth	C0005615
+8258	8282	GO:0000003	gene prediction software	reproduction	Reproduction	C0035150
+8412	8417	GO:0007567	gene,	parturition	Birth	C0005615
+8412	8417	GO:0000003	gene,	reproduction	Reproduction	C0035150
+8634	8638	GO:0005623	cell	cell	Cells	C0007634
+8646	8689	GO:0005694	based upon the surrounding chromosomal loci	chromosome	Chromosomes	C0008633
+8691	8700	GO:0007601	see below	vision	Vision	C0042789
+8720	8734	GO:0007567	trtacc1b genes	parturition	Birth	C0005615
+8720	8734	GO:0000003	trtacc1b genes	reproduction	Reproduction	C0035150
+8750	8804	GO:0005694	arisen from the duplication of the chromosomal segment	chromosome	Chromosomes	C0008633
+9365	9393	GO:0000805	found on mouse chromosome x.	X chromosome	X Chromosome	C0043292
+9394	9403	GO:0007567	this gene	parturition	Birth	C0005615
+9394	9403	GO:0000003	this gene	reproduction	Reproduction	C0035150
+9748	9814	GO:0000775	spread over 22 kb of the centromeric region of human chromosome 10	chromosome, centromeric region		C2612372
+10197	10242	GO:0007567	functional evolution of the tacc gene family.	parturition	Birth	C0005615
+10197	10242	GO:0000003	functional evolution of the tacc gene family.	reproduction	Reproduction	C0035150
+10263	10285	GO:0098687	the chromosomal region	chromosome region	Region of chromosome	C1953345
+10297	10321	GO:0007567	the tacc gene precursors	parturition	Birth	C0005615
+10297	10321	GO:0000003	the tacc gene precursors	reproduction	Reproduction	C0035150
+10572	10584	GO:0007567	a tacc4 gene	parturition	Birth	C0005615
+10572	10584	GO:0000003	a tacc4 gene	reproduction	Reproduction	C0035150
+10888	10897	GO:0007567	this gene	parturition	Birth	C0005615
+10888	10897	GO:0000003	this gene	reproduction	Reproduction	C0035150
+11409	11418	GO:0007601	see below	vision	Vision	C0042789
+11465	11485	GO:0007567	between these genes,	parturition	Birth	C0005615
+11465	11485	GO:0000003	between these genes,	reproduction	Reproduction	C0035150
+12165	12211	GO:0007567	the product of reduplication of the tacc3 gene	parturition	Birth	C0005615
+12165	12211	GO:0000003	the product of reduplication of the tacc3 gene	reproduction	Reproduction	C0035150
+12555	12564	GO:1990266	nm_023500	neutrophil migration	Neutrophil migration, function	C0312860
+13180	13207	GO:0007567	placement of the rhamm gene	parturition	Birth	C0005615
+13180	13207	GO:0000003	placement of the rhamm gene	reproduction	Reproduction	C0035150
+13208	13255	GO:0007567	in the phylogeny of the coiled coil gene family	parturition	Birth	C0005615
+13208	13255	GO:0000003	in the phylogeny of the coiled coil gene family	reproduction	Reproduction	C0035150
+13397	13429	GO:0005694	its chromosomal location on 5q32	chromosome	Chromosomes	C0008633
+13532	13581	GO:0008104	the subcellular localization of the rhamm protein	protein localization	protein localization location	C0597704
+13532	13581	GO:0006886	the subcellular localization of the rhamm protein	intracellular protein transport		C1159772
+13589	13599	GO:0005813	centrosome	centrosome	Centrosome	C0242608
+13861	13888	GO:0007567	related genes in metazoans,	parturition	Birth	C0005615
+13861	13888	GO:0000003	related genes in metazoans,	reproduction	Reproduction	C0035150
+13989	14029	GO:0007567	a single rhamm gene in all deuterostomes	parturition	Birth	C0005615
+13989	14029	GO:0000003	a single rhamm gene in all deuterostomes	reproduction	Reproduction	C0035150
+14111	14124	GO:0007567	no rhamm gene	parturition	Birth	C0005615
+14111	14124	GO:0000003	no rhamm gene	reproduction	Reproduction	C0035150
+14185	14205	GO:0007567	the rhamm/tacc genes	parturition	Birth	C0005615
+14185	14205	GO:0000003	the rhamm/tacc genes	reproduction	Reproduction	C0035150
+14564	14611	GO:0007567	a direct descendant of the ancestral tacc gene.	parturition	Birth	C0005615
+14564	14611	GO:0000003	a direct descendant of the ancestral tacc gene.	reproduction	Reproduction	C0035150
+14613	14650	GO:0005694	evolution of the chromosomal segments	chromosome	Chromosomes	C0008633
+14662	14676	GO:0007567	the tacc genes	parturition	Birth	C0005615
+14662	14676	GO:0000003	the tacc genes	reproduction	Reproduction	C0035150
+14707	14711	GO:0005007	FGFR	FGFR	FGFR activity	C1150619
+14736	14773	GO:0007567	that of the vertebrate tacc1-3 genes.	parturition	Birth	C0005615
+14736	14773	GO:0000003	that of the vertebrate tacc1-3 genes.	reproduction	Reproduction	C0035150
+14784	14828	GO:0098687	detailed analyses of the chromosomal regions	chromosome region	Region of chromosome	C1953345
+14844	14848	GO:0005007	FGFR	FGFR	FGFR activity	C1150619
+14925	14976	GO:0005694	the conservation of paralogous chromosomal segments	chromosome	Chromosomes	C0008633
+15025	15028	GO:0007601	see	vision	Vision	C0042789
+15089	15119	GO:0005694	an ancient chromosomal segment	chromosome	Chromosomes	C0008633
+15225	15235	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+15260	15270	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+15392	15396	GO:0005007	FGFR	FGFR	FGFR activity	C1150619
+15469	15532	GO:0005694	subsequent divergence of these paralogous chromosomal segments,	chromosome	Chromosomes	C0008633
+15615	15648	GO:0007567	a fourth tacc gene in vertebrates	parturition	Birth	C0005615
+15615	15648	GO:0000003	a fourth tacc gene in vertebrates	reproduction	Reproduction	C0035150
+15655	15692	GO:0098687	reside in the same chromosomal region	chromosome region	Region of chromosome	C1953345
+15751	15800	GO:0007567	for the rhamm gene as a member of the tacc family	parturition	Birth	C0005615
+15751	15800	GO:0000003	for the rhamm gene as a member of the tacc family	reproduction	Reproduction	C0035150
+15827	15837	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+15855	15870	GO:0005488	bounded by gpx3	binding	Binding 	C1167622
+15902	15923	GO:0007567	two clusters of genes	parturition	Birth	C0005615
+15902	15923	GO:0000003	two clusters of genes	reproduction	Reproduction	C0035150
+15933	15943	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+16038	16048	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+16101	16122	GO:0007567	this cluster of genes	parturition	Birth	C0005615
+16101	16122	GO:0000003	this cluster of genes	reproduction	Reproduction	C0035150
+16203	16230	GO:0007567	linear organization of gene	parturition	Birth	C0005615
+16203	16230	GO:0000003	linear organization of gene	reproduction	Reproduction	C0035150
+16240	16293	GO:0005694	centering upon the chromosomal loci of the fgfr genes	chromosome	Chromosomes	C0008633
+16305	16321	GO:0007567	paralogous genes	parturition	Birth	C0005615
+16305	16321	GO:0000003	paralogous genes	reproduction	Reproduction	C0035150
+16433	16443	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+16474	16503	GO:0007567	a series of intervening genes	parturition	Birth	C0005615
+16474	16503	GO:0000003	a series of intervening genes	reproduction	Reproduction	C0035150
+16498	16503	GO:0007567	genes	parturition	Birth	C0005615
+16498	16503	GO:0000003	genes	reproduction	Reproduction	C0035150
+16606	16640	GO:0098687	syntenic mouse chromosomal regions	chromosome region	Region of chromosome	C1953345
+16719	16748	GO:0007567	more than one homologous gene	parturition	Birth	C0005615
+16719	16748	GO:0000003	more than one homologous gene	reproduction	Reproduction	C0035150
+16770	16821	GO:0007567	further details on the location of paralogous genes	parturition	Birth	C0005615
+16770	16821	GO:0000003	further details on the location of paralogous genes	reproduction	Reproduction	C0035150
+16839	16842	GO:0007601	see	vision	Vision	C0042789
+16872	16902	GO:0007567	the conservation of gene order	parturition	Birth	C0005615
+16872	16902	GO:0000003	the conservation of gene order	reproduction	Reproduction	C0035150
+16920	16962	GO:0010468	clues to the evolution of gene regulation,	regulation of gene expression	Gene Expression Regulation	C0017263
+17263	17299	GO:0005694	the presence of chromosomal segments	chromosome	Chromosomes	C0008633
+17658	17700	GO:0007567	the three human orthologues of these genes	parturition	Birth	C0005615
+17658	17700	GO:0000003	the three human orthologues of these genes	reproduction	Reproduction	C0035150
+17858	17890	GO:0007567	elements of these gene clusters,	parturition	Birth	C0005615
+17858	17890	GO:0000003	elements of these gene clusters,	reproduction	Reproduction	C0035150
+17930	17940	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+18042	18075	GO:0007567	like gene mapping on scaffold 407	parturition	Birth	C0005615
+18042	18075	GO:0000003	like gene mapping on scaffold 407	reproduction	Reproduction	C0035150
+18114	18136	GO:0007567	no evidence for a gene	parturition	Birth	C0005615
+18114	18136	GO:0000003	no evidence for a gene	reproduction	Reproduction	C0035150
+18137	18166	GO:0007567	corresponding to a tacc4 gene	parturition	Birth	C0005615
+18137	18166	GO:0000003	corresponding to a tacc4 gene	reproduction	Reproduction	C0035150
+18278	18320	GO:0007567	two tacc1 related genes in the pufferfish.	parturition	Birth	C0005615
+18278	18320	GO:0000003	two tacc1 related genes in the pufferfish.	reproduction	Reproduction	C0035150
+18410	18442	GO:0007567	the orthologues of several genes	parturition	Birth	C0005615
+18410	18442	GO:0000003	the orthologues of several genes	reproduction	Reproduction	C0035150
+18460	18470	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+18538	18549	GO:0005694	chromosomal	chromosome	Chromosomes	C0008633
+18616	18633	GO:0007567	the trtacc1a gene	parturition	Birth	C0005615
+18616	18633	GO:0000003	the trtacc1a gene	reproduction	Reproduction	C0035150
+18775	18804	GO:0007567	the predicted gene loc118711,	parturition	Birth	C0005615
+18775	18804	GO:0000003	the predicted gene loc118711,	reproduction	Reproduction	C0035150
+18916	18921	GO:0007567	genes	parturition	Birth	C0005615
+18916	18921	GO:0000003	genes	reproduction	Reproduction	C0035150
+18922	18964	GO:0098687	found in the regions of human chromosome 4	chromosome region	Region of chromosome	C1953345
+19099	19186	GO:0043194	resulting from the initial duplication of the ancestral paralogous chromosomal segment.	axon initial segment	Axon Initial Segment	C1179989
+19222	19269	GO:0007567	result from the initial clustering of the genes	parturition	Birth	C0005615
+19222	19269	GO:0000003	result from the initial clustering of the genes	reproduction	Reproduction	C0035150
+19380	19429	GO:0005694	correspond to the paralogous chromosomal segments	chromosome	Chromosomes	C0008633
+19557	19561	GO:0005007	FGFR	FGFR	FGFR activity	C1150619
+19767	19770	GO:0007601	see	vision	Vision	C0042789
+19825	19845	GO:0007567	no clusters of genes	parturition	Birth	C0005615
+19825	19845	GO:0000003	no clusters of genes	reproduction	Reproduction	C0035150
+19918	19949	GO:0007567	rhamm genes of c. intestinalis,	parturition	Birth	C0005615
+19918	19949	GO:0000003	rhamm genes of c. intestinalis,	reproduction	Reproduction	C0035150
+19966	20018	GO:0009058	the formation of the much larger paralogous segments	anabolism	Anabolism	C0220781
+20036	20040	GO:0005007	FGFR	FGFR	FGFR activity	C1150619
+20274	20324	GO:0005694	the second round of duplication of the chromosomal	chromosome	Chromosomes	C0008633
+20385	20397	GO:0007567	a tacc gene,	parturition	Birth	C0005615
+20385	20397	GO:0000003	a tacc gene,	reproduction	Reproduction	C0035150
+20406	20417	GO:0007567	such a gene	parturition	Birth	C0005615
+20406	20417	GO:0000003	such a gene	reproduction	Reproduction	C0035150
+20526	20599	GO:0043194	the final resolution of the initial evolution of these paralogous segment	axon initial segment	Axon Initial Segment	C1179989
+20684	20688	GO:0005007	FGFR	FGFR	FGFR activity	C1150619
+20745	20797	GO:0007567	other corresponding genes in this conserved segment.	parturition	Birth	C0005615
+20745	20797	GO:0000003	other corresponding genes in this conserved segment.	reproduction	Reproduction	C0035150
+20809	20835	GO:0009058	formation of protoclusters	anabolism	Anabolism	C0220781
+20967	20982	GO:0007567	trtacc1b genes.	parturition	Birth	C0005615
+20967	20982	GO:0000003	trtacc1b genes.	reproduction	Reproduction	C0035150
+20996	21026	GO:0007567	the site for the trtacc1a gene	parturition	Birth	C0005615
+20996	21026	GO:0000003	the site for the trtacc1a gene	reproduction	Reproduction	C0035150
+21036	21041	GO:0007567	genes	parturition	Birth	C0005615
+21036	21041	GO:0000003	genes	reproduction	Reproduction	C0035150
+21118	21128	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+21172	21275	GO:0005694	some of the characteristics of the predicted immediate ancestor of the tacc1/tacc2 chromosomal segment.	chromosome	Chromosomes	C0008633
+21326	21346	GO:0007567	orthologues of genes	parturition	Birth	C0005615
+21326	21346	GO:0000003	orthologues of genes	reproduction	Reproduction	C0035150
+21388	21398	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+21435	21451	GO:0007567	containing genes	parturition	Birth	C0005615
+21435	21451	GO:0000003	containing genes	reproduction	Reproduction	C0035150
+21522	21558	GO:0007567	genomic structure of the tacc genes.	parturition	Birth	C0005615
+21522	21558	GO:0000003	genomic structure of the tacc genes.	reproduction	Reproduction	C0035150
+21586	21590	GO:0005488	bind	binding	Binding 	C1167622
+21586	21590	GO:0005488	bind	binding	Binding 	C1167622
+21745	21750	GO:0005488	binds	binding	Binding 	C1167622
+21858	21900	GO:0007567	encoded by the 3' exons of the tacc genes.	parturition	Birth	C0005615
+21858	21900	GO:0000003	encoded by the 3' exons of the tacc genes.	reproduction	Reproduction	C0035150
+21933	21946	GO:0007567	for each gene	parturition	Birth	C0005615
+21933	21946	GO:0000003	for each gene	reproduction	Reproduction	C0035150
+22034	22087	GO:0007567	corresponding to the orthologous tacc genes of human,	parturition	Birth	C0005615
+22034	22087	GO:0000003	corresponding to the orthologous tacc genes of human,	reproduction	Reproduction	C0035150
+22223	22263	GO:0007567	the genomic structure of each tacc gene.	parturition	Birth	C0005615
+22223	22263	GO:0000003	the genomic structure of each tacc gene.	reproduction	Reproduction	C0035150
+22625	22664	GO:0007567	the general structure of the tacc genes	parturition	Birth	C0005615
+22625	22664	GO:0000003	the general structure of the tacc genes	reproduction	Reproduction	C0035150
+22919	22965	GO:0007567	encoded by two of the three exons of the gene.	parturition	Birth	C0005615
+22919	22965	GO:0000003	encoded by two of the three exons of the gene.	reproduction	Reproduction	C0035150
+23077	23115	GO:0007567	encoded by the final exons of the gene	parturition	Birth	C0005615
+23077	23115	GO:0000003	encoded by the final exons of the gene	reproduction	Reproduction	C0035150
+23142	23173	GO:0007567	seven in the deuterostome genes	parturition	Birth	C0005615
+23142	23173	GO:0000003	seven in the deuterostome genes	reproduction	Reproduction	C0035150
+23289	23303	GO:0007567	each tacc gene	parturition	Birth	C0005615
+23289	23303	GO:0000003	each tacc gene	reproduction	Reproduction	C0035150
+23408	23451	GO:0007567	the main difference between the tacc3 genes	parturition	Birth	C0005615
+23408	23451	GO:0000003	the main difference between the tacc3 genes	reproduction	Reproduction	C0035150
+23472	23481	GO:0007601	see below	vision	Vision	C0042789
+23575	23613	GO:1902698	a rodent-specific 24 amino acid repeat	acidogenesis		C3823112
+23575	23613	GO:1902705	a rodent-specific 24 amino acid repeat	acidogenesis		C3823112
+23575	23613	GO:1902706	a rodent-specific 24 amino acid repeat	acidogenesis		C3823112
+23575	23613	GO:1902699	a rodent-specific 24 amino acid repeat	acidogenesis		C3823112
+23625	23712	GO:0003682	responsible for the binding of the swi/snf chromatin remodeling complex component gas41	chromatin binding		C1148677
+23846	23893	GO:1902698	from 599 amino acids for the rat tacc3 protein,	acidogenesis		C3823112
+23846	23893	GO:1902705	from 599 amino acids for the rat tacc3 protein,	acidogenesis		C3823112
+23846	23893	GO:1902706	from 599 amino acids for the rat tacc3 protein,	acidogenesis		C3823112
+23846	23893	GO:1902699	from 599 amino acids for the rat tacc3 protein,	acidogenesis		C3823112
+23894	23940	GO:1902698	to 942 amino acids in the danio rerio protein.	acidogenesis		C3823112
+23894	23940	GO:1902705	to 942 amino acids in the danio rerio protein.	acidogenesis		C3823112
+23894	23940	GO:1902706	to 942 amino acids in the danio rerio protein.	acidogenesis		C3823112
+23894	23940	GO:1902699	to 942 amino acids in the danio rerio protein.	acidogenesis		C3823112
+24083	24139	GO:1902698	a conserved n-terminal region (cntr) of 108 amino acids,	acidogenesis		C3823112
+24083	24139	GO:1902705	a conserved n-terminal region (cntr) of 108 amino acids,	acidogenesis		C3823112
+24083	24139	GO:1902706	a conserved n-terminal region (cntr) of 108 amino acids,	acidogenesis		C3823112
+24083	24139	GO:1902699	a conserved n-terminal region (cntr) of 108 amino acids,	acidogenesis		C3823112
+24163	24195	GO:0007567	3 in each vertebrate tacc3 gene,	parturition	Birth	C0005615
+24163	24195	GO:0000003	3 in each vertebrate tacc3 gene,	reproduction	Reproduction	C0035150
+24714	24754	GO:1902698	composed of seven 24 amino acid repeats,	acidogenesis		C3823112
+24714	24754	GO:1902705	composed of seven 24 amino acid repeats,	acidogenesis		C3823112
+24714	24754	GO:1902706	composed of seven 24 amino acid repeats,	acidogenesis		C3823112
+24714	24754	GO:1902699	composed of seven 24 amino acid repeats,	acidogenesis		C3823112
+24807	24823	GO:0007567	rat tacc3 genes.	parturition	Birth	C0005615
+24807	24823	GO:0000003	rat tacc3 genes.	reproduction	Reproduction	C0035150
+25094	25120	GO:0009058	used in the cdna synthesis	anabolism	Anabolism	C0220781
+25512	25557	GO:0008380	alternative splicing in vertebrate tacc genes	RNA splicing	RNA Splicing	C0035687
+25592	25639	GO:0007567	the functional diversification of gene families	parturition	Birth	C0005615
+25592	25639	GO:0000003	the functional diversification of gene families	reproduction	Reproduction	C0035150
+25684	25730	GO:0008380	tissue specific alternative splicing of a gene	RNA splicing	RNA Splicing	C0035687
+25740	25791	GO:0007567	rise to functional diversification of a single gene	parturition	Birth	C0005615
+25740	25791	GO:0000003	rise to functional diversification of a single gene	reproduction	Reproduction	C0035150
+25803	25814	GO:0032502	development	development	Biologic Development	C0678723
+25840	25872	GO:0008380	no alternative splicing of tacc3	RNA splicing	RNA Splicing	C0035687
+25840	25872	GO:0045292	no alternative splicing of tacc3	nuclear mRNA cis splicing, via spliceosome		C2610186
+25920	25944	GO:0008380	tissue specific splicing	RNA splicing	RNA Splicing	C0035687
+25920	25944	GO:0045292	tissue specific splicing	nuclear mRNA cis splicing, via spliceosome		C2610186
+25974	25986	GO:0007567	tacc2 genes.	parturition	Birth	C0005615
+25974	25986	GO:0000003	tacc2 genes.	reproduction	Reproduction	C0035150
+26074	26137	GO:0007567	between the major splice variants of the vertebrate tacc2 genes	parturition	Birth	C0005615
+26074	26137	GO:0000003	between the major splice variants of the vertebrate tacc2 genes	reproduction	Reproduction	C0035150
+26143	26180	GO:0008380	the alternative splicing of this exon	RNA splicing	RNA Splicing	C0035687
+26143	26180	GO:0045292	the alternative splicing of this exon	nuclear mRNA cis splicing, via spliceosome		C2610186
+26450	26471	GO:0008380	alternative splicing,	RNA splicing	RNA Splicing	C0035687
+26450	26471	GO:0045292	alternative splicing,	nuclear mRNA cis splicing, via spliceosome		C2610186
+26531	26561	GO:0007567	noted for the human tacc1 gene	parturition	Birth	C0005615
+26531	26561	GO:0000003	noted for the human tacc1 gene	reproduction	Reproduction	C0035150
+26654	26702	GO:0008380	result from alternative splicing of exons 1b-4a.	RNA splicing	RNA Splicing	C0035687
+26654	26702	GO:0045292	result from alternative splicing of exons 1b-4a.	nuclear mRNA cis splicing, via spliceosome		C2610186
+26827	26834	GO:0005488	binding	binding	Binding 	C1167622
+26883	26915	GO:0051179	the nuclear localization signals	establishment and maintenance of localization		C1744691
+26920	26927	GO:0005488	binding	binding	Binding 	C1167622
+27049	27058	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+27180	27194	GO:0006396	RNA processing	RNA processing	RNA Processing	C1158728
+27278	27282	GO:0005623	cell	cell	Cells	C0007634
+27309	27355	GO:0044237	in cellular rna metabolism at multiple levels,	cellular metabolic process	Metabolic Process, Cellular	C1524026
+27428	27463	GO:0007048	associated with tumorigenic changes	oncogenesis	Neoplastic Cell Transformation	C0007621
+27499	27544	GO:0008380	alternative splicing of the human tacc1 gene.	RNA splicing	RNA Splicing	C0035687
+27747	27776	GO:0008380	alternative splicing of tacc1	RNA splicing	RNA Splicing	C0035687
+27747	27776	GO:0045292	alternative splicing of tacc1	nuclear mRNA cis splicing, via spliceosome		C2610186
+27822	27858	GO:0008380	splicing of the untranslated exon 1a	RNA splicing	RNA Splicing	C0035687
+27822	27858	GO:0045292	splicing of the untranslated exon 1a	nuclear mRNA cis splicing, via spliceosome		C2610186
+27875	27884	GO:0051235	retention	retention	cellular entity retention	C1753315
+28023	28030	GO:0005488	binding	binding	Binding 	C1167622
+28161	28204	GO:0051179	the predicted nuclear localization signals,	establishment and maintenance of localization		C1744691
+28213	28220	GO:0005488	binding	binding	Binding 	C1167622
+28331	28345	GO:0005488	bind to ch-tog	binding	Binding 	C1167622
+28373	28383	GO:0005813	centrosome	centrosome	Centrosome	C0242608
+29028	29043	GO:0072686	mitotic spindle	mitotic spindle	Mitotic Spindle Apparatus	C0026258
+29359	29370	GO:0005874	microtubule	microtubule	Microtubules	C0026046
+29584	29594	GO:0005813	centrosome	centrosome	Centrosome	C0242608
+29652	29662	GO:0005813	centrosome	centrosome	Centrosome	C0242608
+29667	29682	GO:0072686	mitotic spindle	mitotic spindle	Mitotic Spindle Apparatus	C0026258
+30095	30138	GO:0007567	the radiation of the vertebrate tacc genes.	parturition	Birth	C0005615
+30095	30138	GO:0000003	the radiation of the vertebrate tacc genes.	reproduction	Reproduction	C0035150
+30140	30188	GO:0008104	the localization of the vertebrate tacc proteins	protein localization	protein localization location	C0597704
+30140	30188	GO:0006886	the localization of the vertebrate tacc proteins	intracellular protein transport		C1159772
+30196	30206	GO:0051325	interphase	interphase	Interphase	C0021798
+30305	30315	GO:0005813	centrosome	centrosome	Centrosome	C0242608
+30320	30341	GO:0000226	microtubule dynamics.	microtubule cytoskeleton organization		C1156019
+30427	30485	GO:0015074	integrated new unique functions as the evolving tacc genes	DNA integration	DNA Integration	C1158478
+30725	30752	GO:0005488	binds to c. elegans lin15a,	binding	Binding 	C1167622
+30797	30840	GO:0044430	cetac to other elements of the cytoskeleton	cytoskeletal part		C1820038
+30845	30856	GO:0005874	microtubule	microtubule	Microtubules	C0026046
+30898	30906	GO:0005840	ribosome	ribosome	Ribosomes	C0035553
+30932	30941	GO:0000785	chromatin	chromatin	chromatin location	C1325550
+31047	31075	GO:0000988	and to transcription factors	transcription factor activity		C1148759
+31047	31075	GO:0001070	and to transcription factors	transcription factor activity		C1148759
+31047	31075	GO:0001071	and to transcription factors	transcription factor activity		C1148759
+31047	31075	GO:0003700	and to transcription factors	transcription factor activity		C1148759
+31110	31134	GO:0004879	nuclear hormone receptor	nuclear hormone receptor	nuclear hormone receptor activity	C1753269
+31261	31272	GO:0003723	RNA binding	RNA binding	RNA Binding	C1148846
+31313	31385	GO:0016514	thus indirectly with the drosophila swi/snf chromatin remodeling complex	SWI/SNF complex		C1167093
+31390	31418	GO:0006281	dna damage repair machinery.	DNA repair	DNA Repair	C0012899
+31489	31499	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+32069	32073	GO:0005488	bind	binding	Binding 	C1167622
+32104	32117	GO:0005488	binds to tbph	binding	Binding 	C1167622
+32154	32174	GO:0006338	chromatin remodeling	chromatin remodeling		C1156210
+32227	32254	GO:0006281	dna damage repair machinery	DNA repair	DNA Repair	C0012899
+32272	32284	GO:0008380	RNA splicing	RNA splicing	RNA Splicing	C0035687
+32300	32324	GO:0006412	translational machinery.	protein biosynthesis	Protein Biosynthesis	C0597295
+32438	32462	GO:0004879	nuclear hormone receptor	nuclear hormone receptor	nuclear hormone receptor activity	C1753269
+33063	33081	GO:0007601	seen in c. elegans	vision	Vision	C0042789
+33541	33554	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+33691	33731	GO:0006355	implicated in transcriptional regulation	transcriptional control	Transcriptional Regulation	C1158770
+33736	33744	GO:0008380	splicing	RNA splicing	RNA Splicing	C0035687
+33736	33744	GO:0045292	splicing	nuclear mRNA cis splicing, via spliceosome		C2610186
+33875	33928	GO:0000988	corresponding to glutamine rich transcription factors	transcription factor activity		C1148759
+33875	33928	GO:0001070	corresponding to glutamine rich transcription factors	transcription factor activity		C1148759
+33875	33928	GO:0001071	corresponding to glutamine rich transcription factors	transcription factor activity		C1148759
+33875	33928	GO:0003700	corresponding to glutamine rich transcription factors	transcription factor activity		C1148759
+33956	33963	GO:0005488	binding	binding	Binding 	C1167622
+34408	34418	GO:0005813	centrosome	centrosome	Centrosome	C0242608
+34461	34489	GO:0010468	involved in gene regulation,	regulation of gene expression	Gene Expression Regulation	C0017263
+34513	34526	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+34542	34556	GO:0006396	RNA processing	RNA processing	RNA Processing	C1158728
+34561	34572	GO:0006412	translation	protein biosynthesis	Protein Biosynthesis	C0597295
+34713	34743	GO:0043234	be in the same protein complex	protein complex location		C1523872
+34821	34831	GO:0005813	centrosome	centrosome	Centrosome	C0242608
+34836	34876	GO:0030472	the dynamics of mitotic spindle assembly	mitotic spindle organization in nucleus		C1155676
+35096	35103	GO:0000278	mitosis	mitosis	Mitosis	C0026255
+35494	35531	GO:0005515	a binding site for the eif4e protein,	protein binding	Protein Binding	C0033618
+35494	35531	GO:0008190	a binding site for the eif4e protein,	eukaryotic initiation factor 4E binding		C1149297
+35541	35597	GO:0043631	a function in the coordinated control of polyadenylation	RNA polyadenylation	Polyadenylation	C0949765
+35602	35635	GO:0006412	translation in the xenopus oocyte	protein biosynthesis	Protein Biosynthesis	C0597295
+36018	36030	GO:0008380	RNA splicing	RNA splicing	RNA Splicing	C0035687
+36216	36247	GO:0005488	bind to the human tacc proteins	binding	Binding 	C1167622
+36667	36691	GO:0004879	nuclear hormone receptor	nuclear hormone receptor	nuclear hormone receptor activity	C1753269
+36724	36770	GO:0005515	interacts with the cetac binding protein lin36	protein binding	Protein Binding	C0033618
+37249	37262	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+37313	37350	GO:0000988	with the arnt transcription factor [7	transcription factor activity		C1148759
+37313	37350	GO:0001070	with the arnt transcription factor [7	transcription factor activity		C1148759
+37313	37350	GO:0001071	with the arnt transcription factor [7	transcription factor activity		C1148759
+37313	37350	GO:0003700	with the arnt transcription factor [7	transcription factor activity		C1148759
+37439	37517	GO:0016514	a component/accessory factor of the human swi/snf chromatin remodeling complex	SWI/SNF complex		C1167093
+37890	37903	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+38142	38156	GO:0015074	integrated one	DNA integration	DNA Integration	C1158478
+38677	38726	GO:0004886	5% input of in vitro translated rxr-beta protein.	9-cis retinoic acid receptor activity	RXR activity	C1148772
+38908	38961	GO:0007567	examination of the evolution of ancient gene families	parturition	Birth	C0005615
+38908	38961	GO:0000003	examination of the evolution of ancient gene families	reproduction	Reproduction	C0035150
+38971	39005	GO:0007567	an insight into how gene structure	parturition	Birth	C0005615
+38971	39005	GO:0000003	an insight into how gene structure	reproduction	Reproduction	C0035150
+39082	39099	GO:0007567	such gene family.	parturition	Birth	C0005615
+39082	39099	GO:0000003	such gene family.	reproduction	Reproduction	C0035150
+39211	39226	GO:0072686	mitotic spindle	mitotic spindle	Mitotic Spindle Apparatus	C0026258
+39446	39495	GO:0043234	components of several different protein complexes	protein complex location		C1523872
+39496	39526	GO:0006281	involved in dna damage repair,	DNA repair	DNA Repair	C0012899
+39527	39547	GO:0006412	protein translation,	protein biosynthesis	Protein Biosynthesis	C0597295
+39548	39562	GO:0006396	RNA processing	RNA processing	RNA Processing	C1158728
+39567	39580	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+39868	39892	GO:0004879	nuclear hormone receptor	nuclear hormone receptor	nuclear hormone receptor activity	C1753269
+39925	39946	GO:0000988	transcription factors	transcription factor activity		C1148759
+39925	39946	GO:0001070	transcription factors	transcription factor activity		C1148759
+39925	39946	GO:0001071	transcription factors	transcription factor activity		C1148759
+39925	39946	GO:0003700	transcription factors	transcription factor activity		C1148759
+40099	40112	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+40148	40161	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+40257	40301	GO:0000988	interact with the transcription factor stat5	transcription factor activity		C1148759
+40257	40301	GO:0001070	interact with the transcription factor stat5	transcription factor activity		C1148759
+40257	40301	GO:0001071	interact with the transcription factor stat5	transcription factor activity		C1148759
+40257	40301	GO:0003700	interact with the transcription factor stat5	transcription factor activity		C1148759
+40364	40406	GO:0005488	bind to nuclear histone acetyltransferases	binding	Binding 	C1167622
+40476	40489	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+40496	40516	GO:0006338	chromatin remodeling	chromatin remodeling		C1156210
+40696	40700	GO:0005623	cell	cell	Cells	C0007634
+40845	40859	GO:0006396	RNA processing	RNA processing	RNA Processing	C1158728
+40912	40950	GO:0008380	alternative splicing of the tacc1 gene	RNA splicing	RNA Splicing	C0035687
+41048	41055	GO:0005488	binding	binding	Binding 	C1167622
+41076	41118	GO:0043234	the potential protein complexes with which	protein complex location		C1523872
+41495	41516	GO:0000988	transcription factors	transcription factor activity		C1148759
+41495	41516	GO:0001070	transcription factors	transcription factor activity		C1148759
+41495	41516	GO:0001071	transcription factors	transcription factor activity		C1148759
+41495	41516	GO:0003700	transcription factors	transcription factor activity		C1148759
+41567	41612	GO:0008380	the tissue specific splicing of the 5 kb exon	RNA splicing	RNA Splicing	C0035687
+41567	41612	GO:0045292	the tissue specific splicing of the 5 kb exon	nuclear mRNA cis splicing, via spliceosome		C2610186
+41820	41825	GO:0007567	genes	parturition	Birth	C0005615
+41820	41825	GO:0000003	genes	reproduction	Reproduction	C0035150
+42048	42064	GO:0007567	gene predictions	parturition	Birth	C0005615
+42048	42064	GO:0000003	gene predictions	reproduction	Reproduction	C0035150
+42648	42651	GO:0007601	see	vision	Vision	C0042789
+42876	42917	GO:0005694	potential paralogous chromosomal segments	chromosome	Chromosomes	C0008633
+44339	44360	GO:0001171	reverse transcription	reverse transcription	Reverse Transcription	C0035380
+44423	44426	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+44465	44509	GO:0009058	as template for first strand cdna synthesis.	anabolism	Anabolism	C0220781
+44623	44627	GO:0005623	cell	cell	Cells	C0007634
+44651	44723	GO:0019013	sequenced by the roswell park cancer institute biopolymer core facility.	nucleocapsid	viral nucleocapsid location	C1167518
+46323	46326	GO:0007601	see	vision	Vision	C0042789
+46725	46747	GO:0006412	predicted translations	protein biosynthesis	Protein Biosynthesis	C0597295
+48085	48103	GO:0009877	shown at the node.	nodulation		C1160630
+48639	48643	GO:0005623	cell	cell	Cells	C0007634
+48793	48797	GO:0005623	cell	cell	Cells	C0007634
+49149	49162	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+49571	49585	GO:0005488	bound proteins	binding	Binding 	C1167622
+50255	50294	GO:0007567	assembly of t. rubripes gene sequences,	parturition	Birth	C0005615
+50255	50294	GO:0000003	assembly of t. rubripes gene sequences,	reproduction	Reproduction	C0035150
+50449	50477	GO:0007567	location of paralogous genes	parturition	Birth	C0005615
+50449	50477	GO:0000003	location of paralogous genes	reproduction	Reproduction	C0035150
+50499	50508	GO:0097047	5q31-ter,	DNA replication termination region		C3157085
+50509	50519	GO:0097047	10q23-ter,	DNA replication termination region		C3157085
+50527	50537	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+50541	50559	GO:0007567	positions of genes	parturition	Birth	C0005615
+50541	50559	GO:0000003	positions of genes	reproduction	Reproduction	C0035150
+50585	50593	GO:0005696	telomere	telomere		C0085187
+50585	50593	GO:0000781	telomere	telomere		C0085187
+50631	50653	GO:0007567	blue highlighted genes	parturition	Birth	C0005615
+50631	50653	GO:0000003	blue highlighted genes	reproduction	Reproduction	C0035150
+50751	50761	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+50766	50789	GO:0007567	green highlighted genes	parturition	Birth	C0005615
+50766	50789	GO:0000003	green highlighted genes	reproduction	Reproduction	C0035150
+50869	50917	GO:0098687	the partially duplicated region on chromosome 2.	chromosome region	Region of chromosome	C1953345
+50919	50941	GO:0007567	pink highlighted genes	parturition	Birth	C0005615
+50919	50941	GO:0000003	pink highlighted genes	reproduction	Reproduction	C0035150
+51095	51118	GO:0007567	black highlighted genes	parturition	Birth	C0005615
+51095	51118	GO:0000003	black highlighted genes	reproduction	Reproduction	C0035150
+51304	51328	GO:0007567	purple highlighted genes	parturition	Birth	C0005615
+51304	51328	GO:0000003	purple highlighted genes	reproduction	Reproduction	C0035150
+51405	51443	GO:0006310	or from interchromosomal recombination	DNA recombination	Recombination, Genetic	C0034865
+51653	51664	GO:0032502	development	development	Biologic Development	C0678723
+51725	51787	GO:0019013	core grant 2p30ca016056-27 from the national cancer institute.	nucleocapsid	viral nucleocapsid location	C1167518

@@ -1,0 +1,438 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+0	8	GO:0016020	membrane	membrane	Membrane	C0596901
+25	37	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+25	52	GO:0000001	mitochondrial abnormalities	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+98	102	GO:0005623	cell	cell	Cells	C0007634
+360	372	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+360	410	GO:0000001	leads to deposition of mitochondrial atp synthase,	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+667	671	GO:0005623	cell	cell	Cells	C0007634
+816	820	GO:0005623	cell	cell	Cells	C0007634
+841	866	GO:0030154	differentiated into map-2	cell differentiation	Cell Differentiation process	C0007589
+898	902	GO:0005623	cell	cell	Cells	C0007634
+943	947	GO:0005623	cell	cell	Cells	C0007634
+1102	1108	GO:0040007	growth	growth	Growth	C0018270
+1169	1184	GO:0003824	enzyme activity	enzyme activity		C0243102
+1216	1230	GO:0005764	lysosomal size	lysosome	Lysosomes	C0024369
+1265	1276	GO:0006897	endocytosis	endocytosis	Endocytosis	C0014139
+1302	1314	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+1341	1345	GO:0005623	cell	cell	Cells	C0007634
+1494	1516	GO:0031090	intracellular membrane	intracellular membrane	Intracellular Membranes	C0021868
+1533	1545	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+1533	1556	GO:0000001	mitochondrial function.	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+1652	1690	GO:0043524	particularly impact neuronal survival.	neuron survival		C1819944
+1901	1919	GO:0050890	cognitive decline,	cognition	Cognition	C0009240
+1941	1967	GO:0007567	the primary genetic defect	parturition	Birth	C0005615
+1941	1967	GO:0000003	the primary genetic defect	reproduction	Reproduction	C0035150
+1982	1992	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+2014	2062	GO:0007567	a 1.02 kb genomic dna deletion in the cln3 gene,	parturition	Birth	C0005615
+2014	2062	GO:0000003	a 1.02 kb genomic dna deletion in the cln3 gene,	reproduction	Reproduction	C0035150
+2261	2273	GO:0044754	autolysosome	autolysosome	Autolysosome	C0230822
+2313	2325	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+2313	2376	GO:0000001	enriched in subunit c of the mitochondrial atp synthase complex	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+2454	2458	GO:0005623	cell	cell	Cells	C0007634
+2767	2794	GO:0034045	multi-pass membrane protein	pre-autophagosomal structure membrane		C2247584
+2821	2829	GO:0005764	lysosome	lysosome	Lysosomes	C0024369
+2834	2862	GO:0031982	other vesicular compartments	vesicle		C1622418
+2970	3017	GO:0005764	implicated battenin in lysosomal ph homeostasis	lysosome	Lysosomes	C0024369
+3022	3042	GO:0006865	amino acid transport	amino acid transport		C0596078
+3069	3081	GO:0009405	pathogenesis	pathogenesis	Pathogenesis	C0699748
+3296	3322	GO:0042571	detectable with antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+3490	3494	GO:0005623	cell	cell	Cells	C0007634
+3545	3553	GO:0007610	behavior	behavior	Behavior	C0004927
+3651	3663	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+3651	3705	GO:0000001	leads to abnormal turnover of mitochondrial subunit c,	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+3772	3776	GO:0005623	cell	cell	Cells	C0007634
+3841	3859	GO:0008150	biological process	biological process	Biological Processes	C3714634
+3924	3928	GO:0005623	cell	cell	Cells	C0007634
+3998	4002	GO:0005623	cell	cell	Cells	C0007634
+4055	4086	GO:0031090	a survey of membrane organelles	organelle membrane		C1621975
+4067	4075	GO:0016020	membrane	membrane	Membrane	C0596901
+4129	4141	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+4262	4266	GO:0005623	cell	cell	Cells	C0007634
+4286	4345	GO:0007567	a precise genetic, neuron-derived jncl cell culture system,	parturition	Birth	C0005615
+4519	4523	GO:0005623	cell	cell	Cells	C0007634
+4634	4683	GO:0002524	temperature-sensitive tsa58 sv40 large t antigen.	hypersensitivity	Hypersensitivity	C0020517
+4684	4690	GO:0040007	growth	growth	Growth	C0018270
+4848	4861	GO:0097426	gfap-negative	glial filament	Glial Fibrillary Acidic Protein	C0017626
+4873	4877	GO:0005623	cell	cell	Cells	C0007634
+4953	4957	GO:0005623	cell	cell	Cells	C0007634
+5033	5064	GO:0016887	sv40 large t antigen expression	SV40 T-antigen		C2243368
+5086	5099	GO:0051301	cell division	cell division	Cell division	C0007590
+5112	5116	GO:0005623	cell	cell	Cells	C0007634
+5198	5249	GO:0030182	upon addition of neuronal differentiation cocktail,	neuron differentiation		C1159970
+5198	5249	GO:0022008	upon addition of neuronal differentiation cocktail,	neural cell differentiation		C2755962
+5260	5264	GO:0005623	cell	cell	Cells	C0007634
+5526	5530	GO:0005623	cell	cell	Cells	C0007634
+5568	5612	GO:0042571	by immunofluorescence with marker antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+5678	5697	GO:0097426	not gfap expression	glial filament	Glial Fibrillary Acidic Protein	C0017626
+5750	5798	GO:0030154	upon stimulation with a differentiation cocktail	cell differentiation	Cell Differentiation process	C0007589
+5800	5803	GO:0007601	see	vision	Vision	C0042789
+5824	5828	GO:0005623	cell	cell	Cells	C0007634
+5863	5887	GO:0044297	with rounded cell bodies	cell body		C2752549
+5978	5982	GO:0005623	cell	cell	Cells	C0007634
+6094	6098	GO:0005623	cell	cell	Cells	C0007634
+6244	6248	GO:0005623	cell	cell	Cells	C0007634
+6336	6340	GO:0005623	cell	cell	Cells	C0007634
+6512	6572	GO:0042571	detectable by batp1 antibody recognizing c-terminal epitopes	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+6634	6638	GO:0005623	cell	cell	Cells	C0007634
+6774	6778	GO:0005623	cell	cell	Cells	C0007634
+7014	7018	GO:0005623	cell	cell	Cells	C0007634
+7041	7096	GO:0031410	reduced cytoplasmic, vesicular staining pattern as that	cytoplasmic vesicle	Cytoplasmic Vesicles	C0887884
+7097	7121	GO:0007601	seen in wild-type cells.	vision	Vision	C0042789
+7145	7184	GO:0005764	some overlap with the lysosomal marker,	lysosome	Lysosomes	C0024369
+7230	7244	GO:0005769	early endosome	early endosome	Early endosome	C0887883
+7266	7292	GO:0005770	the late endosomal marker,	late endosome		C1166848
+7347	7365	GO:0055037	recycling endosome	recycling endosome		C2262706
+7460	7496	GO:0005769	eea1 immunocytochemical distribution	early endosome	Early endosome	C0887883
+7541	7545	GO:0005623	cell	cell	Cells	C0007634
+7599	7603	GO:0005623	cell	cell	Cells	C0007634
+7683	7687	GO:0005623	cell	cell	Cells	C0007634
+7729	7733	GO:0005623	cell	cell	Cells	C0007634
+7868	7891	GO:0007601	seen in wild-type cells	vision	Vision	C0042789
+7986	7990	GO:0005623	cell	cell	Cells	C0007634
+8137	8141	GO:0005623	cell	cell	Cells	C0007634
+8162	8166	GO:0005623	cell	cell	Cells	C0007634
+8451	8460	GO:0005764	lysosomal	lysosome	Lysosomes	C0024369
+8465	8481	GO:0005768	endosomal marker	endosome	Endosomes	C0034850
+8560	8564	GO:0005623	cell	cell	Cells	C0007634
+8685	8689	GO:0005623	cell	cell	Cells	C0007634
+8722	8730	GO:0005764	lysosome	lysosome	Lysosomes	C0024369
+8742	8756	GO:0005769	early endosome	early endosome	Early endosome	C0887883
+8770	8783	GO:0005770	late endosome	late endosome		C1166848
+8835	8844	GO:0005769	with eea1	early endosome	Early endosome	C0887883
+8907	8921	GO:0007601	seen as yellow	vision	Vision	C0042789
+9094	9099	GO:0007601	seen.	vision	Vision	C0042789
+9100	9149	GO:0007165	batp1 signal in homozygous cbcln3deltaex7/8 cells	signal transduction	Signal Transduction	C0037083
+9180	9209	GO:0005769	significant overlap with eea1	early endosome	Early endosome	C0887883
+9259	9273	GO:0007601	seen as yellow	vision	Vision	C0042789
+9327	9344	GO:0005769	eea1 localization	early endosome	Early endosome	C0887883
+9438	9442	GO:0005623	cell	cell	Cells	C0007634
+9593	9599	GO:0040007	growth	growth	Growth	C0018270
+9662	9666	GO:0005623	cell	cell	Cells	C0007634
+9698	9727	GO:0016234	subunit c inclusion formation	inclusion body	Inclusion Bodies	C0007637
+9760	9764	GO:0005623	cell	cell	Cells	C0007634
+9845	9849	GO:0005623	cell	cell	Cells	C0007634
+10213	10217	GO:0005623	cell	cell	Cells	C0007634
+10278	10303	GO:0016234	electron dense inclusions	inclusion body	Inclusion Bodies	C0007637
+10343	10356	GO:0005776	autophagosome	autophagosome	Autophagosome	C3887595
+10358	10395	GO:0019013	that contained dense core structures,	nucleocapsid	viral nucleocapsid location	C1167518
+10409	10421	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+10440	10447	GO:0031982	vesicle	vesicle		C1622418
+10460	10476	GO:0016234	inclusion bodies	inclusion body	Inclusion Bodies	C0007637
+10481	10494	GO:0005776	autophagosome	autophagosome	Autophagosome	C3887595
+10665	10669	GO:0005623	cell	cell	Cells	C0007634
+10787	10791	GO:0005623	cell	cell	Cells	C0007634
+10936	10940	GO:0005623	cell	cell	Cells	C0007634
+11494	11498	GO:0005623	cell	cell	Cells	C0007634
+11645	11657	GO:0009461	cytochrome c	cytochrome c	cytochrome c activity	C1153524
+11645	11657	GO:0045155	cytochrome c	cytochrome c	cytochrome c activity	C1153524
+11694	11720	GO:0097197	tem analysis of inclusions	tetraspanin-enriched microdomain		C3714516
+11774	11778	GO:0005623	cell	cell	Cells	C0007634
+11798	11811	GO:0005776	autophagosome	autophagosome	Autophagosome	C3887595
+11832	11840	GO:0016020	membrane	membrane	Membrane	C0596901
+11878	11890	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+11897	11917	GO:0019013	electron dense cores	nucleocapsid	viral nucleocapsid location	C1167518
+11944	11979	GO:0031982	other smaller vesicular structures.	vesicle		C1622418
+11980	12013	GO:0016234	a large electron-dense inclusion,	inclusion body	Inclusion Bodies	C0007637
+12069	12081	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+12136	12140	GO:0005623	cell	cell	Cells	C0007634
+12330	12377	GO:0009056	required for atp synthase subunit c degradation	catabolism	Catabolism	C0699900
+12385	12393	GO:0005764	lysosome	lysosome	Lysosomes	C0024369
+12442	12489	GO:0042995	processing in homozygous cbcln3deltaex7/8 cells	cell process	cell process structure	C0230625
+12520	12545	GO:0042571	anti-cathepsin d antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+12670	12674	GO:0005623	cell	cell	Cells	C0007634
+12703	12747	GO:0031982	punctate vesicular cathepsin d distribution,	vesicle		C1622418
+12805	12822	GO:0045045	secretory pathway	secretory pathway	Secretory Pathway	C1159342
+12827	12851	GO:0007567	delivery to the lysosome	parturition	Birth	C0005615
+12903	12907	GO:0005623	cell	cell	Cells	C0007634
+12939	12953	GO:0031982	less vesicular	vesicle		C1622418
+13003	13007	GO:0005623	cell	cell	Cells	C0007634
+13053	13057	GO:0005623	cell	cell	Cells	C0007634
+13323	13391	GO:0032502	the 31 kda heavy chain of the double-chain form of the mature enzyme	development	Biologic Development	C0678723
+13429	13433	GO:0005623	cell	cell	Cells	C0007634
+13590	13615	GO:0016049	the cellular growth media	cell growth		C0007595
+13763	13767	GO:0005623	cell	cell	Cells	C0007634
+13883	13907	GO:0051179	cathepsin d localization	establishment and maintenance of localization		C1744691
+13968	13972	GO:0005623	cell	cell	Cells	C0007634
+14047	14051	GO:0005623	cell	cell	Cells	C0007634
+14113	14151	GO:0043687	processed forms of cathepsin d protein	post-translational protein modification	Post-Translational Protein Processing	C0033666
+14172	14176	GO:0005623	cell	cell	Cells	C0007634
+14219	14228	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+14248	14303	GO:0007165	cathepsin d signal in homozygous cbcln3deltaex7/8 cells	signal transduction	Signal Transduction	C0037083
+14356	14365	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+14417	14421	GO:0005623	cell	cell	Cells	C0007634
+14572	14576	GO:0005623	cell	cell	Cells	C0007634
+14709	14713	GO:0005623	cell	cell	Cells	C0007634
+14728	14762	GO:0032502	with lower levels of mature enzyme	development	Biologic Development	C0678723
+15024	15038	GO:0032502	mature enzyme.	development	Biologic Development	C0678723
+15089	15110	GO:0003824	on enzymatic activity	enzyme activity		C0243102
+15143	15169	GO:0003824	altered enzymatic activity	enzyme activity		C0243102
+15248	15268	GO:0004192	cathepsin D activity	cathepsin D activity		C1150114
+15357	15361	GO:0005623	cell	cell	Cells	C0007634
+15379	15382	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+15416	15420	GO:0005623	cell	cell	Cells	C0007634
+15438	15441	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+15467	15522	GO:0003824	a consistent trend towards increased enzymatic activity	enzyme activity		C0243102
+15533	15537	GO:0005623	cell	cell	Cells	C0007634
+15641	15645	GO:0005623	cell	cell	Cells	C0007634
+15664	15687	GO:0003824	that enzymatic activity	enzyme activity		C0243102
+15754	15758	GO:0005623	cell	cell	Cells	C0007634
+15774	15782	GO:0016020	membrane	membrane	Membrane	C0596901
+15858	15866	GO:0016020	membrane	membrane	Membrane	C0596901
+15922	15926	GO:0005623	cell	cell	Cells	C0007634
+15985	16019	GO:0031090	morphology of membrane organelles.	organelle membrane		C1621975
+16038	16055	GO:0045045	secretory pathway	secretory pathway	Secretory Pathway	C1159342
+16075	16085	GO:0005794	cis-golgi,	Golgi apparatus	Golgi Apparatus	C0018042
+16090	16102	GO:0005794	trans-golgi,	Golgi apparatus	Golgi Apparatus	C0018042
+16194	16228	GO:0003756	protein disulfide isomerase (pdi),	protein disulfide isomerase activity		C1150347
+16275	16297	GO:0005764	the lysosomal markers,	lysosome	Lysosomes	C0024369
+16325	16391	GO:0007165	significantly altered signal in homozygous cbcln3deltaex7/8 cells,	signal transduction	Signal Transduction	C0037083
+16409	16413	GO:0005623	cell	cell	Cells	C0007634
+16426	16430	GO:0005623	cell	cell	Cells	C0007634
+16459	16467	GO:0005764	lysosome	lysosome	Lysosomes	C0024369
+16561	16569	GO:0005764	lysosome	lysosome	Lysosomes	C0024369
+16601	16608	GO:0031982	vesicle	vesicle		C1622418
+16652	16661	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+16858	16862	GO:0005623	cell	cell	Cells	C0007634
+16944	16952	GO:0005764	lysosome	lysosome	Lysosomes	C0024369
+16957	16977	GO:0051179	altered localization	establishment and maintenance of localization		C1744691
+17081	17116	GO:1902698	accumulates in acidic compartments,	acidogenesis		C3823112
+17081	17116	GO:1902705	accumulates in acidic compartments,	acidogenesis		C3823112
+17081	17116	GO:1902706	accumulates in acidic compartments,	acidogenesis		C3823112
+17081	17116	GO:1902699	accumulates in acidic compartments,	acidogenesis		C3823112
+17127	17175	GO:0005764	the most marked reduction in lysosomal labeling.	lysosome	Lysosomes	C0024369
+17205	17226	GO:0005764	altered lysosomal ph,	lysosome	Lysosomes	C0024369
+17355	17363	GO:0005764	lysosome	lysosome	Lysosomes	C0024369
+17439	17443	GO:0005623	cell	cell	Cells	C0007634
+17466	17481	GO:0042571	lamp 2 antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+17558	17566	GO:0005764	lysosome	lysosome	Lysosomes	C0024369
+17582	17590	GO:0005764	lysosome	lysosome	Lysosomes	C0024369
+17705	17709	GO:0005623	cell	cell	Cells	C0007634
+17763	17770	GO:0031982	vesicle	vesicle		C1622418
+17864	17921	GO:1990256	reduced signal intensity with less perinuclear clustering	signal clustering		C3824459
+17953	17957	GO:0005623	cell	cell	Cells	C0007634
+18203	18217	GO:0005769	early endosome	early endosome	Early endosome	C0887883
+18276	18299	GO:0006907	fluid-phase endocytosis	pinocytosis	Pinocytosis	C0031945
+18348	18352	GO:0005623	cell	cell	Cells	C0007634
+18358	18389	GO:0098657	measured by dextran-fitc uptake	import into cell	Import into cell	C3888108
+18494	18498	GO:0005623	cell	cell	Cells	C0007634
+18528	18552	GO:0005769	large endocytic vesicles	early endosome	Early endosome	C0887883
+18637	18641	GO:0005623	cell	cell	Cells	C0007634
+18722	18729	GO:0031982	vesicle	vesicle		C1622418
+18756	18765	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+18790	18801	GO:0006897	endocytosis	endocytosis	Endocytosis	C0014139
+18861	18865	GO:0005623	cell	cell	Cells	C0007634
+18956	18960	GO:0005623	cell	cell	Cells	C0007634
+19061	19065	GO:0005623	cell	cell	Cells	C0007634
+19091	19144	GO:0031982	observed in a perinuclear-clustered vesicular pattern	vesicle		C1622418
+19168	19175	GO:0031982	vesicle	vesicle		C1622418
+19304	19308	GO:0005623	cell	cell	Cells	C0007634
+19360	19367	GO:0031982	vesicle	vesicle		C1622418
+19520	19532	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+19520	19543	GO:0000001	a mitochondrial protein	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+19559	19613	GO:0000422	proceeds through autophagic engulfment of mitochondria	mitochondrion autophagy	Mitochondrial Degradation	C1820119
+19660	19664	GO:0005623	cell	cell	Cells	C0007634
+19704	19767	GO:0048311	mitochondrial distribution in homozygous cbcln3deltaex7/8 cells	mitochondrion distribution		C1522855
+19822	19826	GO:0005623	cell	cell	Cells	C0007634
+19866	19878	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+19938	19950	GO:0097197	tem analysis	tetraspanin-enriched microdomain		C3714516
+19987	19999	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+20090	20102	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+20161	20173	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+20161	20180	GO:0000001	mitochondrial width	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+20228	20232	GO:0005623	cell	cell	Cells	C0007634
+20300	20304	GO:0005623	cell	cell	Cells	C0007634
+20335	20339	GO:0005623	cell	cell	Cells	C0007634
+20367	20371	GO:0005623	cell	cell	Cells	C0007634
+20547	20557	GO:0008152	metabolism	metabolism	Metabolism	C0025519
+20562	20588	GO:0006950	oxidative stress response.	response to stress	biological adaptation to stress	C0149784
+20633	20645	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+20705	20717	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+20705	20729	GO:0000001	mitochondrial morphology	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+20802	20806	GO:0005623	cell	cell	Cells	C0007634
+20824	20852	GO:0097197	tem micrographs of wild-type	tetraspanin-enriched microdomain		C3714516
+20885	20897	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+20885	20937	GO:0000001	homozygous cbcln3deltaex7/8 mitochondrial morphology	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+20945	20973	GO:0005743	inner mitochondrial membrane	inner mitochondrial membrane	Inner mitochondrial membrane	C0230840
+21023	21035	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+21116	21128	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+21165	21191	GO:0048311	mitochondrial distribution	mitochondrion distribution		C1522855
+21274	21286	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+21297	21322	GO:0097197	observed by tem analysis.	tetraspanin-enriched microdomain		C3714516
+21346	21350	GO:0005623	cell	cell	Cells	C0007634
+21435	21439	GO:0005623	cell	cell	Cells	C0007634
+21518	21522	GO:0005623	cell	cell	Cells	C0007634
+21581	21585	GO:0005623	cell	cell	Cells	C0007634
+21758	21762	GO:0005623	cell	cell	Cells	C0007634
+21921	21925	GO:0005623	cell	cell	Cells	C0007634
+22019	22023	GO:0005623	cell	cell	Cells	C0007634
+22038	22072	GO:0002524	more sensitive to oxidative stress	hypersensitivity	Hypersensitivity	C0020517
+22169	22173	GO:0005623	cell	cell	Cells	C0007634
+22263	22267	GO:0005623	cell	cell	Cells	C0007634
+22453	22457	GO:0005623	cell	cell	Cells	C0007634
+22566	22570	GO:0005623	cell	cell	Cells	C0007634
+22614	22626	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+22614	22672	GO:0000001	jncl-hallmark mitochondrial atpase subunit c accumulation,	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+22659	22678	GO:0090398	upon aging of cells	cellular senescence	Cellular Senescence	C0007581
+22740	22778	GO:0010008	recessive endosomal/lysosomal membrane	endosomal membrane	Wall of endosome	C1179907
+22803	22815	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+22803	22828	GO:0000001	mitochondrial dysfunction	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+23024	23057	GO:0051179	abnormal cathepsin d localization	establishment and maintenance of localization		C1744691
+23062	23109	GO:0042995	processing in homozygous cbcln3deltaex7/8 cells	cell process	cell process structure	C0230625
+23150	23167	GO:0031982	altered vesicular	vesicle		C1622418
+23187	23200	GO:0005764	lysosomal ph,	lysosome	Lysosomes	C0024369
+23297	23301	GO:0005623	cell	cell	Cells	C0007634
+23311	23323	GO:0005764	lysosomal ph	lysosome	Lysosomes	C0024369
+23361	23385	GO:0005764	lysosomal ph homeostasis	lysosome	Lysosomes	C0024369
+23626	23630	GO:0005623	cell	cell	Cells	C0007634
+23633	23663	GO:0004192	cathepsin d enzymatic activity	cathepsin D activity		C1150114
+23711	23731	GO:0004192	cathepsin D activity	cathepsin D activity		C1150114
+23792	23834	GO:0090398	aging of homozygous cbcln3deltaex7/8 cells	cellular senescence	Cellular Senescence	C0007581
+23926	23934	GO:0016020	membrane	membrane	Membrane	C0596901
+24019	24023	GO:0005623	cell	cell	Cells	C0007634
+24058	24063	GO:0007568	aging	aging	Aging	C0001811
+24079	24088	GO:0005764	lysosomal	lysosome	Lysosomes	C0024369
+24093	24107	GO:0005768	endosomal size	endosome	Endosomes	C0034850
+24142	24154	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+24294	24302	GO:0016020	membrane	membrane	Membrane	C0596901
+24392	24400	GO:0005764	lysosome	lysosome	Lysosomes	C0024369
+24487	24499	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+24487	24515	GO:0000001	mitochondrial abnormalities,	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+24636	24645	GO:0016236	autophagy	autophagy	Autophagy	C0004391
+24636	24645	GO:0006914	autophagy	autophagy	Autophagy	C0004391
+24647	24675	GO:0005764	a lysosomal-targeted pathway	lysosome	Lysosomes	C0024369
+24747	24759	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+24747	24798	GO:0000001	impact mitochondrial function upstream of turnover,	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+24802	24814	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+24856	24893	GO:0034982	processing of mitochondrial proteins.	mitochondrial protein processing		C2613151
+24934	24938	GO:0005623	cell	cell	Cells	C0007634
+24987	25000	GO:0005770	late endosome	late endosome		C1166848
+25140	25175	GO:0005768	co-localizes with endosomal markers	endosome	Endosomes	C0034850
+25312	25332	GO:0008104	protein localization	protein localization	protein localization location	C0597704
+25312	25346	GO:0006886	cln3/battenin protein localization	intracellular protein transport		C1159772
+25377	25390	GO:0005770	late endosome	late endosome		C1166848
+25396	25404	GO:0005764	lysosome	lysosome	Lysosomes	C0024369
+25440	25448	GO:0005764	lysosome	lysosome	Lysosomes	C0024369
+25451	25462	GO:0019717	synaptosome	synaptosome	Synaptosomes	C0039067
+25472	25480	GO:0005768	endosome	endosome	Endosomes	C0034850
+25543	25588	GO:0031982	resides in a subset of vesicular compartments	vesicle		C1622418
+25606	25614	GO:0016020	membrane	membrane	Membrane	C0596901
+25645	25679	GO:0016192	functioning in vesicular transport	vesicle-mediated transport		C1325417
+25709	25737	GO:0005764	lysosomal-targeted pathways,	lysosome	Lysosomes	C0024369
+25748	25760	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+25834	25842	GO:0016020	membrane	membrane	Membrane	C0596901
+25859	25871	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+25859	25881	GO:0000001	mitochondrial deficits	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+25923	25927	GO:0005623	cell	cell	Cells	C0007634
+25982	25999	GO:0007268	neurotransmission	synaptic transmission	Synaptic Transmission	C0027793
+26008	26045	GO:0030658	relies on membrane vesicle transport,	transport vesicle membrane	Transport vesicle membrane	C1166756
+26064	26074	GO:0008152	metabolism	metabolism	Metabolism	C0025519
+26226	26230	GO:0005623	cell	cell	Cells	C0007634
+26310	26322	GO:0009405	pathogenesis	pathogenesis	Pathogenesis	C0699748
+26334	26342	GO:0042571	antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+26347	26351	GO:0005623	cell	cell	Cells	C0007634
+26396	26399	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+26427	26430	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+26464	26467	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+26472	26493	GO:0042571	monoclonal antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+26517	26528	GO:0032502	development	development	Biologic Development	C0678723
+26637	26640	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+26676	26699	GO:0042571	anti-subunit c antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+26705	26708	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+26786	26807	GO:0042571	additional antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+26825	26830	GO:0097426	gfap,	glial filament	Glial Fibrillary Acidic Protein	C0017626
+26894	26897	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+26911	26927	GO:0016887	; sv40 t antigen	SV40 T-antigen		C2243368
+26941	26944	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+26941	26949	GO:0043739	2 mug/ml	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+27033	27045	GO:0009461	cytochrome c	cytochrome c	cytochrome c activity	C1153524
+27033	27045	GO:0045155	cytochrome c	cytochrome c	cytochrome c activity	C1153524
+27122	27125	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+27166	27169	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+27177	27189	GO:0009293	transduction	transduction		C1160185
+27256	27270	GO:0005769	early endosome	early endosome	Early endosome	C0887883
+27291	27294	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+27335	27338	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+27370	27406	GO:0042571	all fluorescent secondary antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+27466	27501	GO:0000746	hrp-conjugated secondary antibodies	conjugation		C1160466
+27554	27558	GO:0005623	cell	cell	Cells	C0007634
+27686	27710	GO:1990266	500 nm (molecular probes	neutrophil migration	Neutrophil migration, function	C0312860
+27742	27803	GO:0030154	differentiation of cbcln3 cerebellar neuronal precursor lines	cell differentiation	Cell Differentiation process	C0007589
+28297	28304	GO:0004530	dnase i	deoxyribonuclease I activity		C1148702
+28310	28313	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+28549	28579	GO:0022008	in granule neuron growth media	neurogenesis	Neurogenesis	C0814002
+28794	28845	GO:0002524	the temperature-sensitive tsa58/u19 large t antigen	hypersensitivity	Hypersensitivity	C0020517
+28998	29004	GO:0040007	growth	growth	Growth	C0018270
+29063	29069	GO:0040007	growth	growth	Growth	C0018270
+29095	29098	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+29368	29372	GO:0005623	cell	cell	Cells	C0007634
+29387	29391	GO:0005623	cell	cell	Cells	C0007634
+29604	29628	GO:0030182	neuronal differentiation	neuron differentiation		C1159970
+29604	29628	GO:0022008	neuronal differentiation	neural cell differentiation		C2755962
+29725	29736	GO:1990266	200 nm tpa,	neutrophil migration	Neutrophil migration, function	C0312860
+29852	29856	GO:0005623	cell	cell	Cells	C0007634
+30464	30468	GO:0005623	cell	cell	Cells	C0007634
+30542	30546	GO:0005623	cell	cell	Cells	C0007634
+30636	30640	GO:0005623	cell	cell	Cells	C0007634
+30675	30679	GO:0005623	cell	cell	Cells	C0007634
+30675	30680	GO:0005623	cells	cell	Cells	C0007634
+30985	30989	GO:0005623	cell	cell	Cells	C0007634
+31059	31063	GO:0005623	cell	cell	Cells	C0007634
+31199	31225	GO:0097197	processed for tem analysis	tetraspanin-enriched microdomain		C3714516
+31420	31456	GO:0042571	contribute to antibody label signal.	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+31518	31522	GO:0005623	cell	cell	Cells	C0007634
+31562	31566	GO:0005623	cell	cell	Cells	C0007634
+31837	31856	GO:0042571	(antibody-dependent	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+31859	31863	GO:0005623	cell	cell	Cells	C0007634
+32037	32056	GO:0042571	(antibody-dependent	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+32166	32182	GO:0042571	primary antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+32221	32239	GO:0042571	secondary antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+32753	32757	GO:0005623	cell	cell	Cells	C0007634
+32831	32839	GO:0016020	membrane	membrane	Membrane	C0596901
+32916	32919	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+32938	32941	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+32958	32961	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+33155	33158	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+33171	33209	GO:1990116	determined by bio-rad dc protein assay	ribosome-associated ubiquitin-dependent protein catabolic process		C3811628
+33374	33394	GO:0004192	cathepsin D activity	cathepsin D activity		C1150114
+33567	33571	GO:0005623	cell	cell	Cells	C0007634
+33792	33821	GO:1990116	the bio-rad dc protein assay.	ribosome-associated ubiquitin-dependent protein catabolic process		C3811628
+33828	33831	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+33878	33898	GO:0004192	cathepsin D activity	cathepsin D activity		C1150114
+33905	33976	GO:0004192	the fluorogenic innozymetm cathepsin d immunocapture activity assay kit	cathepsin D activity		C1150114
+34289	34318	GO:0015074	100,000 mus integration time.	DNA integration	DNA Integration	C1158478
+34320	34338	GO:0005764	lysosomal staining	lysosome	Lysosomes	C0024369
+34343	34359	GO:0098657	endocytic uptake	import into cell	Import into cell	C3888108
+34361	34365	GO:0005623	cell	cell	Cells	C0007634
+34405	34409	GO:0005623	cell	cell	Cells	C0007634
+34482	34488	GO:0040007	growth	growth	Growth	C0018270
+34499	34543	GO:0003904	exchanged for fresh, pre-warmed growth media	photoreactivating enzyme activity		C2257086
+34555	34573	GO:1990266	500 nm lysotracker	neutrophil migration	Neutrophil migration, function	C0312860
+34603	34607	GO:0005623	cell	cell	Cells	C0007634
+34603	34608	GO:0005623	cells	cell	Cells	C0007634
+35020	35032	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+35034	35054	GO:0097197	tem photomicrographs	tetraspanin-enriched microdomain		C3714516
+35177	35189	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+35247	35259	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+35523	35535	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+35523	35554	GO:0000001	unmagnified mitochondrial size,	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+35727	35731	GO:0005623	cell	cell	Cells	C0007634
+35815	35819	GO:0005623	cell	cell	Cells	C0007634
+36032	36036	GO:0005623	cell	cell	Cells	C0007634
+36254	36281	GO:1990603	dark adapted for 10 minutes	dark adaptation	Dark Adaptation	C0010985
+36376	36380	GO:0005623	cell	cell	Cells	C0007634
+36387	36427	GO:0009504	plated at a density of 10,000 cells/well	cell plate		C1166718
+36417	36421	GO:0005623	cell	cell	Cells	C0007634
+36767	36785	GO:0008283	cell proliferation	cell proliferation	Cell Proliferation	C0596290
+36933	36937	GO:0005623	cell	cell	Cells	C0007634
+36997	37009	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+36997	37035	GO:0000001	participated in mitochondrial analysis	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+37131	37135	GO:0005623	cell	cell	Cells	C0007634
+37163	37229	GO:0016032	virus-conditioned medium for conditional immortalization of cells.	viral infection	Virus Diseases	C0042769
+37392	37396	GO:0005623	cell	cell	Cells	C0007634
+37528	37549	GO:0042571	kominami for antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+37566	37578	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+37566	37603	GO:0000001	to subunit c of mitochondrial atpase,	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+37708	37726	GO:0097197	with tem analysis,	tetraspanin-enriched microdomain		C3714516
+37765	37776	GO:0006897	endocytosis	endocytosis	Endocytosis	C0014139
+37854	37874	GO:0004192	cathepsin D activity	cathepsin D activity		C1150114

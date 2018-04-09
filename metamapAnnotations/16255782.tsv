@@ -1,0 +1,313 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+0	26	GO:0000988	cebpg transcription factor	transcription factor activity		C1148759
+0	26	GO:0001070	cebpg transcription factor	transcription factor activity		C1148759
+0	26	GO:0001071	cebpg transcription factor	transcription factor activity		C1148759
+0	26	GO:0003700	cebpg transcription factor	transcription factor activity		C1148759
+59	69	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+407	433	GO:0007567	a set of antioxidant genes	parturition	Birth	C0005615
+407	433	GO:0000003	a set of antioxidant genes	reproduction	Reproduction	C0035150
+506	510	GO:0005623	cell	cell	Cells	C0007634
+569	617	GO:0005623	in unpublished studies of the same nbec samples,	cell	Cells	C0007634
+658	668	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+680	720	GO:0007567	correlated with these antioxidant genes.	parturition	Birth	C0005615
+680	720	GO:0000003	correlated with these antioxidant genes.	reproduction	Reproduction	C0035150
+775	785	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+819	845	GO:0000988	more transcription factors	transcription factor activity		C1148759
+819	845	GO:0001070	more transcription factors	transcription factor activity		C1148759
+819	845	GO:0001071	more transcription factors	transcription factor activity		C1148759
+819	845	GO:0003700	more transcription factors	transcription factor activity		C1148759
+922	957	GO:0000988	more of these transcription factors	transcription factor activity		C1148759
+922	957	GO:0001070	more of these transcription factors	transcription factor activity		C1148759
+922	957	GO:0001071	more of these transcription factors	transcription factor activity		C1148759
+922	957	GO:0003700	more of these transcription factors	transcription factor activity		C1148759
+1030	1081	GO:0000988	the putative transcription factor recognition sites	transcription factor activity		C1148759
+1030	1081	GO:0001070	the putative transcription factor recognition sites	transcription factor activity		C1148759
+1030	1081	GO:0001071	the putative transcription factor recognition sites	transcription factor activity		C1148759
+1030	1081	GO:0003700	the putative transcription factor recognition sites	transcription factor activity		C1148759
+1082	1120	GO:0007567	common to six of the antioxidant genes	parturition	Birth	C0005615
+1082	1120	GO:0000003	common to six of the antioxidant genes	reproduction	Reproduction	C0035150
+1219	1232	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+1290	1300	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+1419	1445	GO:0000988	cebpg transcription factor	transcription factor activity		C1148759
+1419	1445	GO:0001070	cebpg transcription factor	transcription factor activity		C1148759
+1419	1445	GO:0001071	cebpg transcription factor	transcription factor activity		C1148759
+1419	1445	GO:0003700	cebpg transcription factor	transcription factor activity		C1148759
+1519	1529	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+1697	1718	GO:0007567	for four of the genes	parturition	Birth	C0005615
+1697	1718	GO:0000003	for four of the genes	reproduction	Reproduction	C0035150
+1745	1749	GO:0004784	sod1	superoxide dismutase activity		C1151619
+1812	1838	GO:0000988	other transcription factor	transcription factor activity		C1148759
+1812	1838	GO:0001070	other transcription factor	transcription factor activity		C1148759
+1812	1838	GO:0001071	other transcription factor	transcription factor activity		C1148759
+1812	1838	GO:0003700	other transcription factor	transcription factor activity		C1148759
+1839	1885	GO:0007567	correlated with any of these five target genes	parturition	Birth	C0005615
+1839	1885	GO:0000003	correlated with any of these five target genes	reproduction	Reproduction	C0035150
+2146	2170	GO:0000988	the transcription factor	transcription factor activity		C1148759
+2146	2170	GO:0001070	the transcription factor	transcription factor activity		C1148759
+2146	2170	GO:0001071	the transcription factor	transcription factor activity		C1148759
+2146	2170	GO:0003700	the transcription factor	transcription factor activity		C1148759
+2208	2221	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+2245	2255	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+2342	2353	GO:0032502	development	development	Biologic Development	C0678723
+2379	2416	GO:0050789	sub-optimal regulation of antioxidant	regulation of biological process	Regulation of biological process	C1327622
+2421	2431	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+2726	2744	GO:0003910	dna repair enzymes	DNA repair enzyme activity		C1325315
+2726	2744	GO:0003911	dna repair enzymes	DNA repair enzyme activity		C1325315
+2837	2841	GO:0005623	cell	cell	Cells	C0007634
+2879	2883	GO:0005623	cell	cell	Cells	C0007634
+2897	2964	GO:0007567	inherited inter-individual variation in the function of these genes	parturition	Birth	C0005615
+2897	2964	GO:0000003	inherited inter-individual variation in the function of these genes	reproduction	Reproduction	C0035150
+3040	3073	GO:0005623	nbec from reactive oxygen species	cell	Cells	C0007634
+3107	3132	GO:0006805	metabolism of xenobiotics	xenobiotic metabolism		C1154744
+3194	3233	GO:0044237	produced by normal cellular metabolism.	cellular metabolic process	Metabolic Process, Cellular	C1524026
+3298	3323	GO:0030164	denaturation of proteins,	protein denaturation	Protein Denaturation	C0033627
+3365	3400	GO:0005634	modification of nucleic acid bases,	cell nucleus	Cell Nucleus	C0007610
+3431	3449	GO:0003910	dna repair enzymes	DNA repair enzyme activity		C1325315
+3431	3449	GO:0003911	dna repair enzymes	DNA repair enzyme activity		C1325315
+3435	3441	GO:0042060	repair	wound healing	Wound Healing	C0043240
+3638	3708	GO:0007567	an interactive transcript abundance index comprising antioxidant genes	parturition	Birth	C0005615
+3638	3708	GO:0000003	an interactive transcript abundance index comprising antioxidant genes	reproduction	Reproduction	C0035150
+3990	4000	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+4057	4067	GO:0007567	gene pairs	parturition	Birth	C0005615
+4057	4067	GO:0000003	gene pairs	reproduction	Reproduction	C0035150
+4128	4138	GO:0004784	gpx3/sod1.	superoxide dismutase activity		C1151619
+4198	4204	GO:0007567	genes.	parturition	Birth	C0005615
+4198	4204	GO:0000003	genes.	reproduction	Reproduction	C0035150
+4223	4236	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+4379	4438	GO:0050789	inter-individual variation in regulation of key antioxidant	regulation of biological process	Regulation of biological process	C1327622
+4443	4453	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+4470	4496	GO:0000988	more transcription factors	transcription factor activity		C1148759
+4470	4496	GO:0001070	more transcription factors	transcription factor activity		C1148759
+4470	4496	GO:0001071	more transcription factors	transcription factor activity		C1148759
+4470	4496	GO:0003700	more transcription factors	transcription factor activity		C1148759
+4509	4553	GO:0050789	that individuals with sub-optimal regulation	regulation of biological process	Regulation of biological process	C1327622
+4571	4582	GO:0032502	development	development	Biologic Development	C0678723
+4641	4679	GO:0000988	transcription factor recognition sites	transcription factor activity		C1148759
+4641	4679	GO:0001070	transcription factor recognition sites	transcription factor activity		C1148759
+4641	4679	GO:0001071	transcription factor recognition sites	transcription factor activity		C1148759
+4641	4679	GO:0003700	transcription factor recognition sites	transcription factor activity		C1148759
+4680	4747	GO:0007567	common to the regulatory regions of the above correlated gene pairs	parturition	Birth	C0005615
+4680	4747	GO:0000003	common to the regulatory regions of the above correlated gene pairs	reproduction	Reproduction	C0035150
+4910	4920	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+5885	5898	GO:0034062	transcriptase	transcriptase	Transcriptase activity	C2257077
+5885	5898	GO:0003899	transcriptase	transcriptase	Transcriptase activity	C2257077
+5885	5898	GO:0003968	transcriptase	transcriptase	Transcriptase activity	C2257077
+6060	6094	GO:0007567	an internal standard for each gene	parturition	Birth	C0005615
+6060	6094	GO:0000003	an internal standard for each gene	reproduction	Reproduction	C0035150
+6276	6312	GO:0005020	dna chips with dna 1000 kit reagents	stem cell factor receptor activity		C1150635
+6462	6478	GO:0007567	licensed to gene	parturition	Birth	C0005615
+6462	6478	GO:0000003	licensed to gene	reproduction	Reproduction	C0035150
+6564	6585	GO:0007567	obtained through gene	parturition	Birth	C0005615
+6564	6585	GO:0000003	obtained through gene	reproduction	Reproduction	C0035150
+6616	6665	GO:0007567	start-pcr reagents for each of the measured genes	parturition	Birth	C0005615
+6616	6665	GO:0000003	start-pcr reagents for each of the measured genes	reproduction	Reproduction	C0035150
+7741	7766	GO:0007567	with respect to the genes	parturition	Birth	C0005615
+7741	7766	GO:0000003	with respect to the genes	reproduction	Reproduction	C0035150
+7791	7804	GO:0007567	for each gene	parturition	Birth	C0005615
+7791	7804	GO:0000003	for each gene	reproduction	Reproduction	C0035150
+8154	8167	GO:0007567	gene-specific	parturition	Birth	C0005615
+8154	8167	GO:0000003	gene-specific	reproduction	Reproduction	C0035150
+8469	8502	GO:0007610	conducted in multiple experiments	behavior	Behavior	C0004927
+8528	8557	GO:0000988	the six transcription factors	transcription factor activity		C1148759
+8528	8557	GO:0001070	the six transcription factors	transcription factor activity		C1148759
+8528	8557	GO:0001071	the six transcription factors	transcription factor activity		C1148759
+8528	8557	GO:0003700	the six transcription factors	transcription factor activity		C1148759
+8586	8596	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+8718	8731	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+8772	8782	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+8937	8963	GO:0010467	in expression of each gene	gene expression	Gene Expression	C0017262
+9126	9139	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+9178	9188	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+9356	9425	GO:0007567	between virtually-multiplexed transcript abundance data for each gene	parturition	Birth	C0005615
+9356	9425	GO:0000003	between virtually-multiplexed transcript abundance data for each gene	reproduction	Reproduction	C0035150
+9559	9605	GO:0000988	transcription factor recognition site analysis	transcription factor activity		C1148759
+9559	9605	GO:0001070	transcription factor recognition site analysis	transcription factor activity		C1148759
+9559	9605	GO:0001071	transcription factor recognition site analysis	transcription factor activity		C1148759
+9559	9605	GO:0003700	transcription factor recognition site analysis	transcription factor activity		C1148759
+9695	9733	GO:0007567	the correlated genes within the genome	parturition	Birth	C0005615
+9695	9733	GO:0000003	the correlated genes within the genome	reproduction	Reproduction	C0035150
+9745	9784	GO:0000496	1101 base pairs of the promoter regions	base pairing	Base Pairing	C0600436
+9785	9813	GO:0000496	(1000 base pairs upstream of	base pairing	Base Pairing	C0600436
+9818	9866	GO:0000496	100 base pairs into the transcription start site	base pairing	Base Pairing	C0600436
+9868	9881	GO:0007567	for each gene	parturition	Birth	C0005615
+9868	9881	GO:0000003	for each gene	reproduction	Reproduction	C0035150
+9932	9960	GO:0000496	the 1101 base pair sequences	base pairing	Base Pairing	C0600436
+10036	10101	GO:0000988	for putative transcription factor recognition site identification	transcription factor activity		C1148759
+10036	10101	GO:0001070	for putative transcription factor recognition site identification	transcription factor activity		C1148759
+10036	10101	GO:0001071	for putative transcription factor recognition site identification	transcription factor activity		C1148759
+10036	10101	GO:0003700	for putative transcription factor recognition site identification	transcription factor activity		C1148759
+10160	10194	GO:0000988	sites for 11 transcription factors	transcription factor activity		C1148759
+10160	10194	GO:0001070	sites for 11 transcription factors	transcription factor activity		C1148759
+10160	10194	GO:0001071	sites for 11 transcription factors	transcription factor activity		C1148759
+10160	10194	GO:0003700	sites for 11 transcription factors	transcription factor activity		C1148759
+10290	10305	GO:0019013	core similarity	nucleocapsid	viral nucleocapsid location	C1167518
+10399	10412	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+10499	10525	GO:0000988	four transcription factors	transcription factor activity		C1148759
+10499	10525	GO:0001070	four transcription factors	transcription factor activity		C1148759
+10499	10525	GO:0001071	four transcription factors	transcription factor activity		C1148759
+10499	10525	GO:0003700	four transcription factors	transcription factor activity		C1148759
+10782	10792	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+10863	10885	GO:0007567	obtained for each gene	parturition	Birth	C0005615
+10863	10885	GO:0000003	obtained for each gene	reproduction	Reproduction	C0035150
+10966	11038	GO:0007567	a gene-specific inhibitor in sample 147 prevented amplification of e2f1.	parturition	Birth	C0005615
+10966	11038	GO:0000003	a gene-specific inhibitor in sample 147 prevented amplification of e2f1.	reproduction	Reproduction	C0035150
+11116	11160	GO:0007567	the presence of gene-specific pcr inhibition	parturition	Birth	C0005615
+11116	11160	GO:0000003	the presence of gene-specific pcr inhibition	reproduction	Reproduction	C0035150
+11613	11623	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+11665	11670	GO:0004784	sod1,	superoxide dismutase activity		C1151619
+11804	11814	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+11876	11903	GO:0000988	other transcription factors	transcription factor activity		C1148759
+11876	11903	GO:0001070	other transcription factors	transcription factor activity		C1148759
+11876	11903	GO:0001071	other transcription factors	transcription factor activity		C1148759
+11876	11903	GO:0003700	other transcription factors	transcription factor activity		C1148759
+11943	11947	GO:0004784	sod1	superoxide dismutase activity		C1151619
+12246	12263	GO:0007567	other four genes.	parturition	Birth	C0005615
+12246	12263	GO:0000003	other four genes.	reproduction	Reproduction	C0035150
+12304	12308	GO:0004784	sod1	superoxide dismutase activity		C1151619
+12304	12308	GO:0004784	sod1	superoxide dismutase activity		C1151619
+12304	12308	GO:0004784	sod1	superoxide dismutase activity		C1151619
+13124	13151	GO:0000988	other transcription factors	transcription factor activity		C1148759
+13124	13151	GO:0001070	other transcription factors	transcription factor activity		C1148759
+13124	13151	GO:0001071	other transcription factors	transcription factor activity		C1148759
+13124	13151	GO:0003700	other transcription factors	transcription factor activity		C1148759
+13194	13199	GO:0004784	sod1,	superoxide dismutase activity		C1151619
+13240	13255	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+13359	13390	GO:0007567	the only gene with a difference	parturition	Birth	C0005615
+13359	13390	GO:0000003	the only gene with a difference	reproduction	Reproduction	C0035150
+13568	13627	GO:0050789	inter-individual variation in regulation of key antioxidant	regulation of biological process	Regulation of biological process	C1327622
+13632	13642	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+13659	13686	GO:0000988	more transcription factors.	transcription factor activity		C1148759
+13659	13686	GO:0001070	more transcription factors.	transcription factor activity		C1148759
+13659	13686	GO:0001071	more transcription factors.	transcription factor activity		C1148759
+13659	13686	GO:0003700	more transcription factors.	transcription factor activity		C1148759
+13695	13739	GO:0050789	that individuals with sub-optimal regulation	regulation of biological process	Regulation of biological process	C1327622
+13757	13768	GO:0032502	development	development	Biologic Development	C0678723
+13934	13958	GO:0007567	each of the target genes	parturition	Birth	C0005615
+13934	13958	GO:0000003	each of the target genes	reproduction	Reproduction	C0035150
+14140	14150	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+14235	14265	GO:0007567	these genes in bc individuals.	parturition	Birth	C0005615
+14235	14265	GO:0000003	these genes in bc individuals.	reproduction	Reproduction	C0035150
+14336	14346	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+14541	14573	GO:0000988	other five transcription factors	transcription factor activity		C1148759
+14541	14573	GO:0001070	other five transcription factors	transcription factor activity		C1148759
+14541	14573	GO:0001071	other five transcription factors	transcription factor activity		C1148759
+14541	14573	GO:0003700	other five transcription factors	transcription factor activity		C1148759
+14587	14606	GO:0007567	these target genes.	parturition	Birth	C0005615
+14587	14606	GO:0000003	these target genes.	reproduction	Reproduction	C0035150
+14629	14672	GO:0007567	the lack of correlation of the target genes	parturition	Birth	C0005615
+14629	14672	GO:0000003	the lack of correlation of the target genes	reproduction	Reproduction	C0035150
+14691	14725	GO:0005488	binds to the same recognition site	binding	Binding 	C1167622
+14802	14812	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+14923	14933	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+15035	15045	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+15055	15090	GO:0000988	regulated by a transcription factor	transcription factor activity		C1148759
+15055	15090	GO:0001070	regulated by a transcription factor	transcription factor activity		C1148759
+15055	15090	GO:0001071	regulated by a transcription factor	transcription factor activity		C1148759
+15055	15090	GO:0003700	regulated by a transcription factor	transcription factor activity		C1148759
+15340	15350	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+15715	15720	GO:0004784	sod1,	superoxide dismutase activity		C1151619
+16024	16035	GO:0032502	development	development	Biologic Development	C0678723
+16151	16158	GO:0007610	conduct	behavior	Behavior	C0004927
+16259	16270	GO:0032502	development	development	Biologic Development	C0678723
+16416	16426	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+16663	16673	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+16912	16981	GO:0006355	responsible for optimal transcriptional regulation of key antioxidant	transcriptional control	Transcriptional Regulation	C1158770
+16985	16995	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+17028	17095	GO:0010468	inter-individual variation in the regulation of each of these genes	regulation of gene expression	Gene Expression Regulation	C0017263
+17229	17302	GO:0050789	combined with sub-optimal regulation of the largest number of antioxidant	regulation of biological process	Regulation of biological process	C1327622
+17307	17317	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+17307	17324	GO:0006281	dna repair genes.	DNA repair	DNA Repair	C0012899
+17521	17558	GO:0000988	a truncated cebp transcription factor	transcription factor activity		C1148759
+17521	17558	GO:0001070	a truncated cebp transcription factor	transcription factor activity		C1148759
+17521	17558	GO:0001071	a truncated cebp transcription factor	transcription factor activity		C1148759
+17521	17558	GO:0003700	a truncated cebp transcription factor	transcription factor activity		C1148759
+17606	17617	GO:0003677	DNA binding	DNA binding	dna binding	C1148673
+17622	17644	GO:0009058	heterodimer formation,	anabolism	Anabolism	C0220781
+17683	17698	GO:2000144	transactivation	transactivation	Trans-Activation, Genetic	C0040624
+17829	17842	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+17944	17948	GO:0005623	cell	cell	Cells	C0007634
+18050	18054	GO:0005623	cell	cell	Cells	C0007634
+18195	18211	GO:0007567	healthy at birth	parturition	Birth	C0005615
+18598	18608	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+18669	18698	GO:0007567	target gene transcript levels	parturition	Birth	C0005615
+18669	18698	GO:0000003	target gene transcript levels	reproduction	Reproduction	C0035150
+18798	18808	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+18813	18830	GO:0007567	antioxidant genes	parturition	Birth	C0005615
+18813	18830	GO:0000003	antioxidant genes	reproduction	Reproduction	C0035150
+19014	19024	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+19029	19064	GO:0007567	antioxidant genes in bc individuals	parturition	Birth	C0005615
+19029	19064	GO:0000003	antioxidant genes in bc individuals	reproduction	Reproduction	C0035150
+19242	19282	GO:0003910	transcription of dna repair enzyme genes	DNA repair enzyme activity		C1325315
+19242	19282	GO:0003911	transcription of dna repair enzyme genes	DNA repair enzyme activity		C1325315
+19292	19296	GO:0005623	cell	cell	Cells	C0007634
+19360	19364	GO:0005623	cell	cell	Cells	C0007634
+19420	19430	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+19490	19500	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+19995	20016	GO:0007567	resides within a gene	parturition	Birth	C0005615
+19995	20016	GO:0000003	resides within a gene	reproduction	Reproduction	C0035150
+20676	20689	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+20720	20747	GO:0000988	more transcription factors,	transcription factor activity		C1148759
+20720	20747	GO:0001070	more transcription factors,	transcription factor activity		C1148759
+20720	20747	GO:0001071	more transcription factors,	transcription factor activity		C1148759
+20720	20747	GO:0003700	more transcription factors,	transcription factor activity		C1148759
+20843	20866	GO:0007567	among those same genes,	parturition	Birth	C0005615
+20843	20866	GO:0000003	among those same genes,	reproduction	Reproduction	C0035150
+21047	21067	GO:0007567	in identifying genes	parturition	Birth	C0005615
+21047	21067	GO:0000003	in identifying genes	reproduction	Reproduction	C0035150
+21146	21178	GO:0050789	that affect regulation of xrcc1,	regulation of biological process	Regulation of biological process	C1327622
+21193	21198	GO:0004784	sod1,	superoxide dismutase activity		C1151619
+21386	21419	GO:0050789	that affect regulation with those	regulation of biological process	Regulation of biological process	C1327622
+21460	21470	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+21697	21783	GO:0007567	the observed inter-sample variation in the presence of gene-specific inhibitors of pcr	parturition	Birth	C0005615
+21697	21783	GO:0000003	the observed inter-sample variation in the presence of gene-specific inhibitors of pcr	reproduction	Reproduction	C0035150
+21813	21859	GO:0016234	the need for inclusion of an internal standard	inclusion body	Inclusion Bodies	C0007637
+22089	22100	GO:0032502	development	development	Biologic Development	C0678723
+22247	22280	GO:0007567	suited to identification of genes	parturition	Birth	C0005615
+22247	22280	GO:0000003	suited to identification of genes	reproduction	Reproduction	C0035150
+22380	22410	GO:0007567	an important property of genes	parturition	Birth	C0005615
+22380	22410	GO:0000003	an important property of genes	reproduction	Reproduction	C0035150
+22440	22453	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+22530	22543	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+22566	22576	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+22627	22643	GO:0050789	cebpg regulation	regulation of biological process	Regulation of biological process	C1327622
+22705	22715	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+22791	22826	GO:0007567	significant equity interest in gene	parturition	Birth	C0005615
+22791	22826	GO:0000003	significant equity interest in gene	reproduction	Reproduction	C0035150
+23392	23421	GO:0050789	according to irb regulations.	regulation of biological process	Regulation of biological process	C1327622
+23584	23607	GO:0003904	pre-publication history	photoreactivating enzyme activity		C2257086
+23609	23651	GO:0003904	the pre-publication history for this paper	photoreactivating enzyme activity		C2257086
+23878	23933	GO:0007567	start-pcr reagents for measurement of some of the genes	parturition	Birth	C0005615
+23878	23933	GO:0000003	start-pcr reagents for measurement of some of the genes	reproduction	Reproduction	C0035150
+23959	23966	GO:0007567	by gene	parturition	Birth	C0005615
+23959	23966	GO:0000003	by gene	reproduction	Reproduction	C0035150
+23962	23966	GO:0007567	gene	parturition	Birth	C0005615
+23962	23966	GO:0000003	gene	reproduction	Reproduction	C0035150
+24218	24258	GO:0000988	correlation of each transcription factor	transcription factor activity		C1148759
+24218	24258	GO:0001070	correlation of each transcription factor	transcription factor activity		C1148759
+24218	24258	GO:0001071	correlation of each transcription factor	transcription factor activity		C1148759
+24218	24258	GO:0003700	correlation of each transcription factor	transcription factor activity		C1148759
+24285	24290	GO:0004784	sod1,	superoxide dismutase activity		C1151619
+24374	24387	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+24692	24736	GO:0007567	nearly significant for each correlated gene,	parturition	Birth	C0005615
+24692	24736	GO:0000003	nearly significant for each correlated gene,	reproduction	Reproduction	C0035150
+25268	25272	GO:0005623	cell	cell	Cells	C0007634
+25316	25320	GO:0005623	cell	cell	Cells	C0007634
+25429	25443	GO:0030154	differentiated	cell differentiation	Cell Differentiation process	C0007589
+25672	25733	GO:0007567	virtually-multiplexed transcript abundance data for each gene	parturition	Birth	C0005615
+25672	25733	GO:0000003	virtually-multiplexed transcript abundance data for each gene	reproduction	Reproduction	C0035150
+26279	26313	GO:0007610	conducted in multiple experiments.	behavior	Behavior	C0004927
+26341	26351	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+26362	26399	GO:0000988	each of the six transcription factors	transcription factor activity		C1148759
+26362	26399	GO:0001070	each of the six transcription factors	transcription factor activity		C1148759
+26362	26399	GO:0001071	each of the six transcription factors	transcription factor activity		C1148759
+26362	26399	GO:0003700	each of the six transcription factors	transcription factor activity		C1148759
+26908	26918	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+26931	26957	GO:0000988	each transcription factor.	transcription factor activity		C1148759
+26931	26957	GO:0001070	each transcription factor.	transcription factor activity		C1148759
+26931	26957	GO:0001071	each transcription factor.	transcription factor activity		C1148759
+26931	26957	GO:0003700	each transcription factor.	transcription factor activity		C1148759
+27085	27098	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+27147	27157	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+27203	27261	GO:0010467	necessary due to the wide range of expression of each gene	gene expression	Gene Expression	C0017262
+27542	27555	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+27594	27604	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899

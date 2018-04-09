@@ -1,0 +1,424 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+0	34	GO:0051179	nuclear localization of annexin a7	establishment and maintenance of localization		C1744691
+49	66	GO:0007420	brain development	brain development		C1160340
+283	294	GO:0042592	homeostasis	homeostasis	Homeostasis	C0019868
+328	372	GO:0000003	altered ca2+-wave propagation in astrocytes.	reproduction	Reproduction	C0035150
+429	446	GO:0007420	brain development	brain development		C1160340
+534	601	GO:0009790	during mouse embryogenesis in the developing central nervous system	embryo development	Embryonic Development	C0013936
+669	673	GO:0005623	cell	cell	Cells	C0007634
+705	745	GO:0051179	a change in its subcellular localization	establishment and maintenance of localization		C1744691
+751	760	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+862	866	GO:0005623	cell	cell	Cells	C0007634
+937	944	GO:0005829	cytosol	cytosol	Cytoplasmic matrix	C1383501
+971	995	GO:0009790	at embryonic days e5-e8.	embryo development	Embryonic Development	C0013936
+1043	1050	GO:0005829	cytosol	cytosol	Cytoplasmic matrix	C1383501
+1074	1117	GO:0009844	located in the ventricular germinative zone	germination	Germination	C0242735
+1163	1184	GO:0009790	at embryonic day e16,	embryo development	Embryonic Development	C0013936
+1199	1203	GO:0005623	cell	cell	Cells	C0007634
+1261	1289	GO:0005634	translocates to the nucleus.	cell nucleus	Cell Nucleus	C0007610
+1299	1303	GO:0005623	cell	cell	Cells	C0007634
+1318	1371	GO:0005634	in the adult brain present annexin a7 in the nucleus,	cell nucleus	Cell Nucleus	C0007610
+1380	1438	GO:0097426	glial fibrillary acidic protein (gfap)-positive astrocytes	glial filament	Glial Fibrillary Acidic Protein	C0017626
+1380	1438	GO:0045101	glial fibrillary acidic protein (gfap)-positive astrocytes	glial fibrillary acidic protein	glial fibrillary acidic protein location	C1325793
+1380	1438	GO:0045098	glial fibrillary acidic protein (gfap)-positive astrocytes	glial fibrillary acidic protein	glial fibrillary acidic protein location	C1325793
+1455	1464	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+1559	1570	GO:0005654	nucleoplasm	nucleoplasm	Nucleoplasm	C0682537
+1571	1591	GO:0005634	from isolated nuclei	cell nucleus	Cell Nucleus	C0007610
+1630	1634	GO:0005623	cell	cell	Cells	C0007634
+1706	1724	GO:0005634	to nuclei of cells	cell nucleus	Cell Nucleus	C0007610
+1741	1758	GO:0007420	brain development	brain development		C1160340
+1790	1817	GO:0005634	in nuclei of neuronal cells	cell nucleus	Cell Nucleus	C0007610
+1862	1890	GO:0005634	in nuclei of differentiating	cell nucleus	Cell Nucleus	C0007610
+1895	1916	GO:0032502	mature neuronal cells	development	Biologic Development	C0678723
+2010	2014	GO:0005488	bind	binding	Binding 	C1167622
+2131	2170	GO:0019013	with a conserved c-terminal core domain	nucleocapsid	viral nucleocapsid location	C1167518
+2228	2251	GO:1902698	amino acid composition.	acidogenesis		C3823112
+2228	2251	GO:1902705	amino acid composition.	acidogenesis		C3823112
+2228	2251	GO:1902706	amino acid composition.	acidogenesis		C3823112
+2228	2251	GO:1902699	amino acid composition.	acidogenesis		C3823112
+2305	2354	GO:1902698	eightfold repeat of approximately 70 amino acids,	acidogenesis		C3823112
+2305	2354	GO:1902705	eightfold repeat of approximately 70 amino acids,	acidogenesis		C3823112
+2305	2354	GO:1902706	eightfold repeat of approximately 70 amino acids,	acidogenesis		C3823112
+2305	2354	GO:1902699	eightfold repeat of approximately 70 amino acids,	acidogenesis		C3823112
+2383	2390	GO:0005488	binding	binding	Binding 	C1167622
+2420	2440	GO:0005543	phospholipid binding	phospholipid binding	Phospholipid Binding	C1148642
+2755	2773	GO:0042583	chromaffin granule	chromaffin granule	Chromaffin granule	C0008537
+2779	2798	GO:0061025	fusion of membranes	membrane fusion	Membrane Fusion	C0025246
+2947	2951	GO:0005623	cell	cell	Cells	C0007634
+2976	2983	GO:0005829	cytosol	cytosol	Cytoplasmic matrix	C1383501
+2984	3032	GO:0016020	in close association with membranous structures,	membrane	Membrane	C0596901
+3049	3101	GO:0005634	described in the nucleus of adrenal chromaffin cells	cell nucleus	Cell Nucleus	C0007610
+3514	3518	GO:0005623	cell	cell	Cells	C0007634
+3581	3623	GO:0051179	the subcellular localization of annexin a7	establishment and maintenance of localization		C1744691
+3639	3663	GO:0045445	myoblast differentiation	myoblast differentiation		C1159966
+3685	3689	GO:0005623	cell	cell	Cells	C0007634
+3734	3741	GO:0005829	cytosol	cytosol	Cytoplasmic matrix	C1383501
+3746	3754	GO:0016020	membrane	membrane	Membrane	C0596901
+3765	3794	GO:0030154	while in differentiated cells	cell differentiation	Cell Differentiation process	C0007589
+3828	3836	GO:0016020	membrane	membrane	Membrane	C0596901
+3982	3986	GO:0005623	cell	cell	Cells	C0007634
+3989	4009	GO:0070527	platelet aggregation	platelet aggregation	Platelet aggregation	C0032176
+4169	4180	GO:0042592	homeostasis	homeostasis	Homeostasis	C0019868
+4281	4298	GO:0007420	brain development	brain development		C1160340
+4382	4421	GO:0009790	in the developing brain of mice embryos	embryo development	Embryonic Development	C0013936
+4496	4531	GO:0009790	expressed in the early mouse embryo	embryo development	Embryonic Development	C0013936
+4586	4590	GO:0005623	cell	cell	Cells	C0007634
+4637	4684	GO:0009790	the early stages of mouse embryonic development	embryo development	Embryonic Development	C0013936
+4849	4853	GO:0005623	cell	cell	Cells	C0007634
+4855	4880	GO:0009790	and at embryonic days e7,	embryo development	Embryonic Development	C0013936
+4944	4976	GO:0008380	result from alternative splicing	RNA splicing	RNA Splicing	C0035687
+4944	4976	GO:0045292	result from alternative splicing	nuclear mRNA cis splicing, via spliceosome		C2610186
+5028	5088	GO:0009790	similar annexin a7 mrna levels in the four embryonic stages.	embryo development	Embryonic Development	C0013936
+5295	5299	GO:0005623	cell	cell	Cells	C0007634
+5374	5378	GO:0005623	cell	cell	Cells	C0007634
+5503	5507	GO:0005623	cell	cell	Cells	C0007634
+5513	5524	GO:0009790	embryos e7,	embryo development	Embryonic Development	C0013936
+5762	5766	GO:0005623	cell	cell	Cells	C0007634
+5870	5874	GO:0005623	cell	cell	Cells	C0007634
+5965	5969	GO:0005623	cell	cell	Cells	C0007634
+6095	6103	GO:0016020	membrane	membrane	Membrane	C0596901
+6200	6219	GO:0042571	secondary antibody.	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+6340	6351	GO:0032502	development	development	Biologic Development	C0678723
+6486	6490	GO:0005623	cell	cell	Cells	C0007634
+6633	6658	GO:0009790	all tissues of the embryo	embryo development	Embryonic Development	C0013936
+6730	6755	GO:0007567	the origin of a cell type	parturition	Birth	C0005615
+6829	6860	GO:0008104	the localization of the protein	protein localization	protein localization location	C0597704
+6829	6860	GO:0006886	the localization of the protein	intracellular protein transport		C1159772
+7049	7056	GO:0005829	cytosol	cytosol	Cytoplasmic matrix	C1383501
+7146	7157	GO:0032502	development	development	Biologic Development	C0678723
+7170	7221	GO:0009790	annexin a7 immunoreactivity in early mouse embryos.	embryo development	Embryonic Development	C0013936
+7226	7251	GO:0009790	phase contrast, embryo e5	embryo development	Embryonic Development	C0013936
+7291	7295	GO:0005623	cell	cell	Cells	C0007634
+7362	7366	GO:0005623	cell	cell	Cells	C0007634
+7461	7491	GO:0000746	cy3-conjugated anti-mouse igg.	conjugation		C1160466
+7524	7528	GO:0005623	cell	cell	Cells	C0007634
+7633	7643	GO:0005634	the nuclei	cell nucleus	Cell Nucleus	C0007610
+7703	7735	GO:0042571	the secondary cy3-antibody only.	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+7826	7836	GO:0009790	embryo e8,	embryo development	Embryonic Development	C0013936
+7944	7998	GO:0000746	was with an alexa fluor 488-conjugated anti-mouse igg.	conjugation		C1160466
+8215	8222	GO:0005829	cytosol	cytosol	Cytoplasmic matrix	C1383501
+8279	8286	GO:0005829	cytosol	cytosol	Cytoplasmic matrix	C1383501
+8288	8319	GO:0009790	(g) phase contrast, embryo e13,	embryo development	Embryonic Development	C0013936
+8428	8470	GO:0000746	alexa fluor 488-conjugated anti-mouse igg.	conjugation		C1160466
+8498	8542	GO:0042571	the secondary alexa fluor 488-antibody only.	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+8576	8627	GO:0051179	its subcellular localization in the embryonic brain	establishment and maintenance of localization		C1744691
+8657	8661	GO:0005623	cell	cell	Cells	C0007634
+8749	8806	GO:0009790	at e13-e16 in transverse sections of the embryonic brain,	embryo development	Embryonic Development	C0013936
+8834	8838	GO:0005623	cell	cell	Cells	C0007634
+8844	8887	GO:0009844	present in the ventricular germinative zone	germination	Germination	C0242735
+9042	9049	GO:0005829	cytosol	cytosol	Cytoplasmic matrix	C1383501
+9085	9096	GO:0032502	development	development	Biologic Development	C0678723
+9110	9114	GO:0005623	cell	cell	Cells	C0007634
+9182	9189	GO:0005829	cytosol	cytosol	Cytoplasmic matrix	C1383501
+9295	9299	GO:0005623	cell	cell	Cells	C0007634
+9446	9450	GO:0005623	cell	cell	Cells	C0007634
+9498	9502	GO:0005623	cell	cell	Cells	C0007634
+9578	9623	GO:0009844	labelling in the ventricular germinative zone	germination	Germination	C0242735
+9650	9657	GO:0005829	cytosol	cytosol	Cytoplasmic matrix	C1383501
+9685	9710	GO:0005634	stained than the nucleus.	cell nucleus	Cell Nucleus	C0007610
+9722	9760	GO:0051179	subcellular localization of annexin a7	establishment and maintenance of localization		C1744691
+9761	9776	GO:0009790	in embryos e13,	embryo development	Embryonic Development	C0013936
+9790	9826	GO:0009790	paraffin sections of embryonic brain	embryo development	Embryonic Development	C0013936
+9882	9944	GO:0000746	visualized with alexa fluor 488-conjugated secondary antibody.	conjugation		C1160466
+9966	10032	GO:0097426	the immature gfap-negative cells of the forming cerebral neocortex	glial filament	Glial Fibrillary Acidic Protein	C0017626
+10228	10232	GO:0005623	cell	cell	Cells	C0007634
+10253	10260	GO:0005829	cytosol	cytosol	Cytoplasmic matrix	C1383501
+10304	10308	GO:0005623	cell	cell	Cells	C0007634
+10355	10362	GO:0005829	cytosol	cytosol	Cytoplasmic matrix	C1383501
+10434	10438	GO:0005623	cell	cell	Cells	C0007634
+10465	10509	GO:0009844	located between ventricular germinative zone	germination	Germination	C0242735
+10544	10551	GO:0007601	seen in	vision	Vision	C0042789
+10639	10671	GO:0097426	the immature gfap-negative cells	glial filament	Glial Fibrillary Acidic Protein	C0017626
+10901	10936	GO:0042551	mature neurons in adult mouse brain	neuron maturation		C1623343
+11168	11212	GO:0097426	determined by lack of gfap-immunoreactivity,	glial filament	Glial Fibrillary Acidic Protein	C0017626
+11213	11226	GO:0051179	localization,	establishment and maintenance of localization		C1744691
+11245	11254	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+11289	11303	GO:0097426	(gfap-positive	glial filament	Glial Fibrillary Acidic Protein	C0017626
+11305	11345	GO:0007420	in all areas of the mature murine brain.	brain development		C1160340
+11399	11456	GO:0005634	enriched in nuclei of neurons of all six cortical laminae	cell nucleus	Cell Nucleus	C0007610
+11565	11603	GO:0097426	characterized by a positive gfap-stain	glial filament	Glial Fibrillary Acidic Protein	C0017626
+11758	11762	GO:0005623	cell	cell	Cells	C0007634
+11861	11870	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+11878	11882	GO:0005623	cell	cell	Cells	C0007634
+11907	11911	GO:0005623	cell	cell	Cells	C0007634
+11976	11983	GO:0005634	nucleus	cell nucleus	Cell Nucleus	C0007610
+11988	11995	GO:0005829	cytosol	cytosol	Cytoplasmic matrix	C1383501
+12060	12093	GO:0097426	absence of gfap immunoreactivity.	glial filament	Glial Fibrillary Acidic Protein	C0017626
+12133	12156	GO:0005634	enriched in the nucleus	cell nucleus	Cell Nucleus	C0007610
+12256	12299	GO:0009058	hippocampal formation of 10-weeks-old mice.	anabolism	Anabolism	C0220781
+12384	12388	GO:0005623	cell	cell	Cells	C0007634
+12527	12545	GO:0097426	stained with gfap.	glial filament	Glial Fibrillary Acidic Protein	C0017626
+12786	12823	GO:0042571	stained with secondary antibody only.	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+13004	13026	GO:0097426	lack of gfap staining.	glial filament	Glial Fibrillary Acidic Protein	C0017626
+13076	13101	GO:0005634	pronounced in the nucleus	cell nucleus	Cell Nucleus	C0007610
+13164	13195	GO:0005634	annexin a7 in nuclei of neurons	cell nucleus	Cell Nucleus	C0007610
+13262	13271	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+13276	13296	GO:0005634	nuclei of astrocytes	cell nucleus	Cell Nucleus	C0007610
+13323	13339	GO:0097426	; gfap-confirmed	glial filament	Glial Fibrillary Acidic Protein	C0017626
+13459	13473	GO:0005634	in the nucleus	cell nucleus	Cell Nucleus	C0007610
+13486	13504	GO:0032502	of mature neurons.	development	Biologic Development	C0678723
+13587	13629	GO:0042571	stained with the annexin specific antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+13775	13795	GO:0042571	the primary antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+13885	13903	GO:0097426	anti-gfap-antibody	glial filament	Glial Fibrillary Acidic Protein	C0017626
+13951	13972	GO:0042571	the primary antibody.	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+13974	14002	GO:0009058	in the hippocampal formation	anabolism	Anabolism	C0220781
+14206	14210	GO:0005623	cell	cell	Cells	C0007634
+14260	14291	GO:0005634	the protein also in the nucleus	cell nucleus	Cell Nucleus	C0007610
+14300	14309	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+14450	14473	GO:0005634	localized to the nuclei	cell nucleus	Cell Nucleus	C0007610
+14485	14506	GO:0042571	polyclonal antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+14624	14656	GO:0042571	only with the secondary antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+14771	14797	GO:0007601	seen in the anxa7-/- brain	vision	Vision	C0042789
+14877	14898	GO:0042571	the primary antibody.	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+15086	15094	GO:0016020	membrane	membrane	Membrane	C0596901
+15099	15129	GO:0005615	a widened intercellular space.	extracellular space	Extracellular Space	C0015352
+15145	15190	GO:0019865	unspecific binding of the secondary antibody.	immunoglobulin binding		C1149306
+15268	15285	GO:0005634	nuclei of neurons	cell nucleus	Cell Nucleus	C0007610
+15394	15425	GO:0043025	poor in cell bodies of neurons,	neuron cell body	Cell body of neuron	C0599444
+15460	15492	GO:0005634	correspond to nuclei of neurons.	cell nucleus	Cell Nucleus	C0007610
+15537	15550	GO:0005634	in the nuclei	cell nucleus	Cell Nucleus	C0007610
+15555	15564	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+15845	15876	GO:0005634	an annexin a7 signal in nuclei,	cell nucleus	Cell Nucleus	C0007610
+15893	15902	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+15914	15929	GO:0005886	plasma membrane	plasma membrane	Plasma membrane	C0007603
+15979	15987	GO:0030425	dendrite	dendrite	Dendrites	C0011305
+16186	16193	GO:0043005	neurite	neurite	Neurites	C0085103
+16196	16200	GO:0030424	axon	axon	Axon	C0004461
+16255	16259	GO:0005623	cell	cell	Cells	C0007634
+16293	16297	GO:0030424	axon	axon	Axon	C0004461
+16348	16355	GO:0043005	neurite	neurite	Neurites	C0085103
+16435	16449	GO:0044301	climbing fiber	climbing fiber		C2752551
+16556	16563	GO:0043005	neurite	neurite	Neurites	C0085103
+16720	16724	GO:0005623	cell	cell	Cells	C0007634
+16802	16819	GO:0097426	stained for gfap.	glial filament	Glial Fibrillary Acidic Protein	C0017626
+16879	16915	GO:0042571	a polyclonal anti-annexina7 antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+17094	17098	GO:0005623	cell	cell	Cells	C0007634
+17201	17205	GO:0005623	cell	cell	Cells	C0007634
+17273	17317	GO:0005634	is due to staining of the nuclei of neurons.	cell nucleus	Cell Nucleus	C0007610
+17322	17372	GO:0005634	in addition to an intense staining of the nucleus,	cell nucleus	Cell Nucleus	C0007610
+17373	17386	GO:0043025	the cell body	neuron cell body	Cell body of neuron	C0599444
+17373	17386	GO:0044297	the cell body	cell body		C2752549
+17424	17432	GO:0030425	dendrite	dendrite	Dendrites	C0011305
+17538	17542	GO:0030424	axon	axon	Axon	C0004461
+17609	17613	GO:0005623	cell	cell	Cells	C0007634
+17929	17938	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+18095	18110	GO:0005886	plasma membrane	plasma membrane	Plasma membrane	C0007603
+18149	18164	GO:0097440	apical dendrite	apical dendrite		C3548420
+18221	18237	GO:0005634	in their nuclei.	cell nucleus	Cell Nucleus	C0007610
+18238	18253	GO:0097440	apical dendrite	apical dendrite		C3548420
+18413	18439	GO:0003904	change after pre-treatment	photoreactivating enzyme activity		C2257086
+18550	18565	GO:0097440	apical dendrite	apical dendrite		C3548420
+18595	18620	GO:0042571	labeled with the antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+18670	18694	GO:0030425	(b) a dendritic staining	dendrite	Dendrites	C0011305
+18704	18731	GO:0007601	seen in the molecular layer	vision	Vision	C0042789
+18844	18853	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+18959	19002	GO:0007601	seen at the cell membrane of the perikaryon	vision	Vision	C0042789
+19024	19039	GO:0097440	apical dendrite	apical dendrite		C3548420
+19084	19104	GO:0042571	the primary antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+19300	19323	GO:0005634	in nuclei from neuronal	cell nucleus	Cell Nucleus	C0007610
+19339	19343	GO:0005623	cell	cell	Cells	C0007634
+19346	19384	GO:0051179	the nuclear localisation of annexin a7	establishment and maintenance of localization		C1744691
+19414	19418	GO:0005623	cell	cell	Cells	C0007634
+19431	19459	GO:0030154	differentiated adult neurons	cell differentiation	Cell Differentiation process	C0007589
+19531	19555	GO:0003904	pre-treated with trypsin	photoreactivating enzyme activity		C2257086
+19556	19581	GO:0042571	before antibody staining.	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+19617	19631	GO:0042571	the antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+19718	19722	GO:0005623	cell	cell	Cells	C0007634
+19854	19887	GO:0006508	proteolytic pre-treatment methods	proteolysis	Proteolysis	C0597304
+20004	20038	GO:0042571	strong specific antibody staining,	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+20109	20134	GO:0003904	the optimal pre-treatment	photoreactivating enzyme activity		C2257086
+20227	20237	GO:0005634	in nuclei,	cell nucleus	Cell Nucleus	C0007610
+20273	20303	GO:0005634	purified nuclei from neuro-2a,	cell nucleus	Cell Nucleus	C0007610
+20318	20322	GO:0005623	cell	cell	Cells	C0007634
+20390	20401	GO:0005654	nucleoplasm	nucleoplasm	Nucleoplasm	C0682537
+20390	20405	GO:0005654	the nucleoplasm	nucleoplasm	Nucleoplasm	C0682537
+20433	20454	GO:0005634	the remaining nuclei,	cell nucleus	Cell Nucleus	C0007610
+20470	20481	GO:0005654	nucleoplasm	nucleoplasm	Nucleoplasm	C0682537
+20624	20635	GO:0005654	nucleoplasm	nucleoplasm	Nucleoplasm	C0682537
+20686	20690	GO:0005623	cell	cell	Cells	C0007634
+20772	20783	GO:0005654	nucleoplasm	nucleoplasm	Nucleoplasm	C0682537
+20792	20796	GO:0005623	cell	cell	Cells	C0007634
+20812	20841	GO:0042571	antibodies against lap2alpha,	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+20890	20901	GO:0005654	nucleoplasm	nucleoplasm	Nucleoplasm	C0682537
+20935	20943	GO:0016020	membrane	membrane	Membrane	C0596901
+21007	21040	GO:0005635	contaminated by nuclear membranes	nuclear envelope	Nuclear Envelope	C0028584
+21063	21072	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+21134	21138	GO:0005623	cell	cell	Cells	C0007634
+21165	21188	GO:0005634	observed in the nucleus	cell nucleus	Cell Nucleus	C0007610
+21293	21297	GO:0005623	cell	cell	Cells	C0007634
+21384	21417	GO:0003904	after pre-treatment with trypsin.	photoreactivating enzyme activity		C2257086
+21429	21464	GO:0051179	nuclear localization of annexin a7.	establishment and maintenance of localization		C1744691
+21494	21517	GO:0005634	from nuclei of neuronal	cell nucleus	Cell Nucleus	C0007610
+21554	21558	GO:0005623	cell	cell	Cells	C0007634
+21607	21611	GO:0005623	cell	cell	Cells	C0007634
+21622	21664	GO:0005635	corresponding amounts of nuclear membranes	nuclear envelope	Nuclear Envelope	C0028584
+21673	21684	GO:0005654	nucleoplasm	nucleoplasm	Nucleoplasm	C0682537
+21770	21821	GO:0005634	extractable from the nucleus of the indicated cells	cell nucleus	Cell Nucleus	C0007610
+21916	21924	GO:0016020	membrane	membrane	Membrane	C0596901
+22010	22021	GO:0005654	nucleoplasm	nucleoplasm	Nucleoplasm	C0682537
+22035	22052	GO:0005635	nuclear membranes	nuclear envelope	Nuclear Envelope	C0028584
+22071	22080	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+22116	22127	GO:0005654	nucleoplasm	nucleoplasm	Nucleoplasm	C0682537
+22202	22206	GO:0005623	cell	cell	Cells	C0007634
+22214	22218	GO:0005623	cell	cell	Cells	C0007634
+22476	22512	GO:0006397	during mouse development at the mrna	mRNA maturation		C1158729
+22573	22594	GO:0009790	during embryogenesis.	embryo development	Embryonic Development	C0013936
+22677	22713	GO:0009790	in all embryonic tissues from day e5	embryo development	Embryonic Development	C0013936
+22760	22764	GO:0005623	cell	cell	Cells	C0007634
+22802	22825	GO:0007567	the origin of the cells	parturition	Birth	C0005615
+22906	22913	GO:0005829	cytosol	cytosol	Cytoplasmic matrix	C1383501
+22948	22952	GO:0005623	cell	cell	Cells	C0007634
+22962	23012	GO:0008104	a similar subcellular localization of the protein.	protein localization	protein localization location	C0597704
+22962	23012	GO:0006886	a similar subcellular localization of the protein.	intracellular protein transport		C1159772
+23112	23171	GO:0005938	cells in the stratum germinativum of the neopallial cortex,	cell cortex		C1166657
+23271	23278	GO:0005829	cytosol	cytosol	Cytoplasmic matrix	C1383501
+23356	23390	GO:0005634	annexin a7 in the nucleus of cells	cell nucleus	Cell Nucleus	C0007610
+23505	23509	GO:0005623	cell	cell	Cells	C0007634
+23511	23592	GO:0009844	from the ventricular germinative zone to the marginal zone of the later neocortex	germination	Germination	C0242735
+23635	23646	GO:0032502	development	development	Biologic Development	C0678723
+23746	23750	GO:0005623	cell	cell	Cells	C0007634
+23812	23834	GO:0030154	differentiated neurons	cell differentiation	Cell Differentiation process	C0007589
+24101	24116	GO:0048469	cell maturation	cell maturation	Cell Maturation	C1516349
+24152	24194	GO:0051179	the subcellular localization of annexin a7	establishment and maintenance of localization		C1744691
+24206	24217	GO:0032502	development	development	Biologic Development	C0678723
+24230	24234	GO:0005623	cell	cell	Cells	C0007634
+24283	24320	GO:0051179	a nuclear localization for annexin a7	establishment and maintenance of localization		C1744691
+24368	24375	GO:0005829	cytosol	cytosol	Cytoplasmic matrix	C1383501
+24466	24470	GO:0005623	cell	cell	Cells	C0007634
+24502	24509	GO:0005829	cytosol	cytosol	Cytoplasmic matrix	C1383501
+24560	24567	GO:0043005	neurite	neurite	Neurites	C0085103
+24573	24581	GO:0030425	dendrite	dendrite	Dendrites	C0011305
+24800	24809	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+24814	24835	GO:0005634	nuclei of astrocytes,	cell nucleus	Cell Nucleus	C0007610
+25601	25609	GO:0030425	dendrite	dendrite	Dendrites	C0011305
+25973	25977	GO:0005623	cell	cell	Cells	C0007634
+26000	26009	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+26000	26009	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+26043	26047	GO:0005623	cell	cell	Cells	C0007634
+26049	26089	GO:0022886	treated with a ca2+-ionophore annexin a7	ionophore activity	Ionophore activity	C1517596
+26112	26121	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+26122	26143	GO:0005886	to cellular membranes	plasma membrane	Plasma membrane	C0007603
+26184	26251	GO:0002524	that annexin a7 in the sensitive neurons of the human autopsy brain	hypersensitivity	Hypersensitivity	C0020517
+26271	26309	GO:0005886	translocated to the cellular membrane.	plasma membrane	Plasma membrane	C0007603
+26345	26353	GO:0016020	membrane	membrane	Membrane	C0596901
+26392	26443	GO:0005020	commercially available kits for apoptosis detection	stem cell factor receptor activity		C1150635
+26637	26654	GO:0005634	from the nucleus.	cell nucleus	Cell Nucleus	C0007610
+26785	26789	GO:0005623	cell	cell	Cells	C0007634
+26834	26838	GO:0005623	cell	cell	Cells	C0007634
+26963	26967	GO:0005623	cell	cell	Cells	C0007634
+26986	27025	GO:0016458	the inactivation of the annexin a7 gene	gene silencing	Gene Silencing	C0598496
+27067	27078	GO:0032502	development	development	Biologic Development	C0678723
+27177	27181	GO:0005623	cell	cell	Cells	C0007634
+27262	27301	GO:0023052	for ca2+-dependent signaling processes,	biological signaling		C3537152
+27531	27542	GO:0042592	homeostasis	homeostasis	Homeostasis	C0019868
+27702	27754	GO:0050789	in the regulation of these ca2+-dependent processes,	regulation of biological process	Regulation of biological process	C1327622
+28008	28019	GO:0042592	homeostasis	homeostasis	Homeostasis	C0019868
+28022	28074	GO:0009790	an altered subcellular location during embryogenesis	embryo development	Embryonic Development	C0013936
+28110	28169	GO:0009790	the developing gray matter of the rat embryonic spinal cord	embryo development	Embryonic Development	C0013936
+28180	28226	GO:0051179	primarily nuclear localization of annexin a11,	establishment and maintenance of localization		C1744691
+28254	28274	GO:0005634	lost from the nuclei	cell nucleus	Cell Nucleus	C0007610
+28372	28379	GO:0005829	cytosol	cytosol	Cytoplasmic matrix	C1383501
+28398	28402	GO:0005623	cell	cell	Cells	C0007634
+28557	28564	GO:0005488	binding	binding	Binding 	C1167622
+28582	28590	GO:0016020	membrane	membrane	Membrane	C0596901
+28638	28645	GO:0005488	binding	binding	Binding 	C1167622
+28795	28810	GO:0005886	plasma membrane	plasma membrane	Plasma membrane	C0007603
+28819	28828	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+28856	28868	GO:0005856	cytoskeleton	cytoskeleton	Cytoskeleton	C0010853
+28938	28971	GO:0005634	at least partially in the nucleus	cell nucleus	Cell Nucleus	C0007610
+29072	29094	GO:0005634	present in the nucleus	cell nucleus	Cell Nucleus	C0007610
+29131	29138	GO:0005829	cytosol	cytosol	Cytoplasmic matrix	C1383501
+29153	29171	GO:0005622	intracellular ca2+	protoplasm	Protoplasm	C0175996
+29208	29232	GO:0005635	to the nuclear membrane.	nuclear envelope	Nuclear Envelope	C0028584
+29277	29329	GO:0005634	the ca2+-signal within the nuclei of the fibroblasts	cell nucleus	Cell Nucleus	C0007610
+29400	29404	GO:0005623	cell	cell	Cells	C0007634
+29407	29454	GO:0005622	in which high intracellular ca2+-concentrations	protoplasm	Protoplasm	C0175996
+29501	29541	GO:0051179	from its localization in the nucleoplasm	establishment and maintenance of localization		C1744691
+29542	29565	GO:0005635	to the nuclear membrane	nuclear envelope	Nuclear Envelope	C0028584
+29603	29640	GO:0051179	a typical nuclear localization signal	establishment and maintenance of localization		C1744691
+29664	29678	GO:0051170	nuclear import	nuclear import	Nuclear Import	C0887839
+29734	29759	GO:0051179	that nuclear localization	establishment and maintenance of localization		C1744691
+29818	29863	GO:0044548	a binding side for the s100 protein calcyclin	S100 protein binding		C3272083
+29956	29972	GO:0005635	nuclear envelope	nuclear envelope	Nuclear Envelope	C0028584
+29973	29998	GO:0009056	during nuclear breakdown.	catabolism	Catabolism	C0699900
+30065	30105	GO:0051179	the nuclear localization of the annexins	establishment and maintenance of localization		C1744691
+30201	30253	GO:1990665	controlled by sequestration of the anxa2/p11 complex	AnxA2-p11 complex		C3896467
+30267	30282	GO:0016310	phosphorylation	phosphorylation	Phosphorylation	C0031715
+30267	30295	GO:0006468	modulated by phosphorylation	protein phosphorylation	Protein phosphorylation	C1158886
+30292	30306	GO:0051168	nuclear export	nuclear export	Nuclear Export	C0887840
+30378	30393	GO:0005634	in the nucleus,	cell nucleus	Cell Nucleus	C0007610
+30422	30429	GO:0005488	binding	binding	Binding 	C1167622
+30477	30524	GO:0043234	as part of a primer recognition protein complex	protein complex location		C1523872
+30645	30649	GO:0005623	cell	cell	Cells	C0007634
+30711	30726	GO:0006260	DNA replication	DNA replication	DNA Replication	C0598312
+30856	30938	GO:0051179	concentrate on the identification of the nuclear localization signal of annexin a7	establishment and maintenance of localization		C1744691
+31075	31109	GO:0005634	to nuclei of differentiating cells	cell nucleus	Cell Nucleus	C0007610
+31186	31216	GO:0005634	detected in nuclei of neurons.	cell nucleus	Cell Nucleus	C0007610
+31249	31253	GO:0005623	cell	cell	Cells	C0007634
+31323	31330	GO:0005829	cytosol	cytosol	Cytoplasmic matrix	C1383501
+31331	31349	GO:0005634	and in the nuclei.	cell nucleus	Cell Nucleus	C0007610
+31356	31398	GO:0051179	the subcellular localisation of annexin a7	establishment and maintenance of localization		C1744691
+31414	31425	GO:0032502	development	development	Biologic Development	C0678723
+31442	31446	GO:0005623	cell	cell	Cells	C0007634
+31503	31512	GO:0005634	in nuclei	cell nucleus	Cell Nucleus	C0007610
+31620	31643	GO:0005634	from nuclei of neuronal	cell nucleus	Cell Nucleus	C0007610
+31654	31658	GO:0005623	cell	cell	Cells	C0007634
+32056	32063	GO:0009790	embryos	embryo development	Embryonic Development	C0013936
+32056	32063	GO:0009790	embryos	embryo development	Embryonic Development	C0013936
+32148	32156	GO:0016020	membrane	membrane	Membrane	C0596901
+32243	32254	GO:0032502	development	development	Biologic Development	C0678723
+32264	32280	GO:0032502	the mature brain	development	Biologic Development	C0678723
+32339	32350	GO:0009790	the embryos	embryo development	Embryonic Development	C0013936
+33117	33173	GO:0007610	conducted in accordance with the declaration of helsinki	behavior	Behavior	C0004927
+33254	33264	GO:0042571	antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+33254	33264	GO:0042571	antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+33313	33365	GO:0019013	directed against the core domain of mouse annexin a7	nucleocapsid	viral nucleocapsid location	C1167518
+33471	33517	GO:0042571	a polyclonal antibody against mouse annexin a7	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+33593	33614	GO:0005882	intermediate filament	intermediate filament	Intermediate Filaments	C0021770
+33647	33652	GO:0097426	(gfap	glial filament	Glial Fibrillary Acidic Protein	C0017626
+33879	33914	GO:0042571	mab 203-217 as the primary antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+33915	33968	GO:0000746	was with alexafluor488-conjugated goat anti-mouse igg	conjugation		C1160466
+33996	34012	GO:0016606	the nether-lands	LYSP100-associated nuclear domain		C1263424
+34017	34077	GO:0071736	cy3-labeled goat anti-mouse igg as the secondary antibodies.	IgG antibody		C2754943
+34078	34113	GO:0042571	polyclonal anti-annexin a7 antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+34118	34136	GO:0097426	anti-gfap-antibody	glial filament	Glial Fibrillary Acidic Protein	C0017626
+34142	34203	GO:0000746	combined with alexa fluor 568-conjugated goat anti-rabbit igg	conjugation		C1160466
+34261	34314	GO:0071736	detected with the anti-mouse-igg secondary antibodies	IgG antibody		C2754943
+34360	34379	GO:0042571	primary antibodies,	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+34604	34625	GO:0042571	for antibody staining	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+34927	34934	GO:0005488	binding	binding	Binding 	C1167622
+35070	35108	GO:0042571	incubation with the primary antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+35265	35313	GO:0042571	with the secondary antibody at room temperature,	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+35460	35492	GO:0042571	only with the secondary antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+35831	35867	GO:0042571	the monoclonal antibody mab 203-217.	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+35878	35891	GO:0003904	pre-treatment	photoreactivating enzyme activity		C2257086
+35878	35891	GO:0003904	pre-treatment	photoreactivating enzyme activity		C2257086
+35988	36033	GO:0071736	3 labeled anti-mouse igg secondary antibodies	IgG antibody		C2754943
+36082	36102	GO:0042571	the primary antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+36178	36182	GO:0005623	cell	cell	Cells	C0007634
+36195	36201	GO:0040007	growth	growth	Growth	C0018270
+36218	36222	GO:0005623	cell	cell	Cells	C0007634
+36326	36339	GO:0044101	(atcc ccl-131	(R)-citramalyl-CoA lyase activity		C2752420
+36410	36423	GO:0044101	(atcc ccl-107	(R)-citramalyl-CoA lyase activity		C2752420
+36519	36523	GO:0005623	cell	cell	Cells	C0007634
+36701	36705	GO:0005623	cell	cell	Cells	C0007634
+37059	37063	GO:0005623	cell	cell	Cells	C0007634
+37261	37277	GO:0005634	purified nuclei.	cell nucleus	Cell Nucleus	C0007610
+37308	37319	GO:0005654	nucleoplasm	nucleoplasm	Nucleoplasm	C0682537
+37339	37345	GO:0005634	nuclei	cell nucleus	Cell Nucleus	C0007610
+37476	37510	GO:0005634	; nuclei of 107cells/30 mul buffer	cell nucleus	Cell Nucleus	C0007610
+37925	37936	GO:0005654	nucleoplasm	nucleoplasm	Nucleoplasm	C0682537
+38011	38022	GO:0005654	nucleoplasm	nucleoplasm	Nucleoplasm	C0682537
+38110	38114	GO:0005623	cell	cell	Cells	C0007634
+38119	38137	GO:0000267	cellular fractions	cell fraction	Cell Fraction	C0805525
+38287	38326	GO:0042571	peroxidase-coupled secondary antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+38429	38465	GO:0009790	embryo multiple tissue northern blot	embryo development	Embryonic Development	C0013936
+38511	38515	GO:0005623	cell	cell	Cells	C0007634
+38521	38532	GO:0009790	embryos e7,	embryo development	Embryonic Development	C0013936
+38590	38638	GO:0009790	an embryo multiple tissue northern blot membrane	embryo development	Embryonic Development	C0013936
+38727	38730	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+38792	38803	GO:0032502	development	development	Biologic Development	C0678723
+38817	38821	GO:0005623	cell	cell	Cells	C0007634
+38827	38855	GO:0005020	isolated with the rneasy kit	stem cell factor receptor activity		C1150635
+38870	38878	GO:0016020	membrane	membrane	Membrane	C0596901
+39240	39277	GO:0042571	polyclonal anti-annexin a7 antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580

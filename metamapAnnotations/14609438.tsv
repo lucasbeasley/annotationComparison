@@ -1,0 +1,90 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+1488	1495	GO:0005488	binding	binding	Binding 	C1167622
+2052	2108	GO:0003824	leading to abolishment of the enzymatic activity of cln2	enzyme activity		C0243102
+2868	2873	GO:0030315	triad	triad	Transverse tubule of muscle cell	C1179122
+4527	4545	GO:0032502	during maturation,	development	Biologic Development	C0678723
+4745	4771	GO:1902698	consist of 563 amino acids	acidogenesis		C3823112
+4745	4771	GO:1902705	consist of 563 amino acids	acidogenesis		C3823112
+4745	4771	GO:1902706	consist of 563 amino acids	acidogenesis		C3823112
+4745	4771	GO:1902699	consist of 563 amino acids	acidogenesis		C3823112
+5749	5778	GO:0032502	the maturation cleavage point	development	Biologic Development	C0678723
+6512	6563	GO:1902698	lead to prediction of several incorrect amino acids	acidogenesis		C3823112
+6512	6563	GO:1902705	lead to prediction of several incorrect amino acids	acidogenesis		C3823112
+6512	6563	GO:1902706	lead to prediction of several incorrect amino acids	acidogenesis		C3823112
+6512	6563	GO:1902699	lead to prediction of several incorrect amino acids	acidogenesis		C3823112
+6680	6726	GO:0007567	corrected gene sequence of the zebrafish cln2.	parturition	Birth	C0005615
+6680	6726	GO:0000003	corrected gene sequence of the zebrafish cln2.	reproduction	Reproduction	C0035150
+6913	6971	GO:1902698	the available amino acid sequence of the fugu cln2 analog,	acidogenesis		C3823112
+6913	6971	GO:1902705	the available amino acid sequence of the fugu cln2 analog,	acidogenesis		C3823112
+6913	6971	GO:1902706	the available amino acid sequence of the fugu cln2 analog,	acidogenesis		C3823112
+6913	6971	GO:1902699	the available amino acid sequence of the fugu cln2 analog,	acidogenesis		C3823112
+7087	7150	GO:1902698	the only major difference in the translated amino acid sequence	acidogenesis		C3823112
+7087	7150	GO:1902705	the only major difference in the translated amino acid sequence	acidogenesis		C3823112
+7087	7150	GO:1902706	the only major difference in the translated amino acid sequence	acidogenesis		C3823112
+7087	7150	GO:1902699	the only major difference in the translated amino acid sequence	acidogenesis		C3823112
+7257	7282	GO:1902698	shorter by 30 amino acids	acidogenesis		C3823112
+7257	7282	GO:1902705	shorter by 30 amino acids	acidogenesis		C3823112
+7257	7282	GO:1902706	shorter by 30 amino acids	acidogenesis		C3823112
+7257	7282	GO:1902699	shorter by 30 amino acids	acidogenesis		C3823112
+8267	8281	GO:1902698	glutamic acids	acidogenesis		C3823112
+8267	8281	GO:1902705	glutamic acids	acidogenesis		C3823112
+8267	8281	GO:1902706	glutamic acids	acidogenesis		C3823112
+8267	8281	GO:1902699	glutamic acids	acidogenesis		C3823112
+8311	8316	GO:0030315	triad	triad	Transverse tubule of muscle cell	C1179122
+9127	9135	GO:0016020	membrane	membrane	Membrane	C0596901
+9180	9215	GO:0032502	corresponding to the mature enzyme,	development	Biologic Development	C0678723
+9234	9267	GO:0016021	the putative transmembrane anchor	integral to membrane		C1167322
+9234	9267	GO:0044214	the putative transmembrane anchor	transmembrane	fully spanning the plasma membrane	C2752508
+9350	9357	GO:0005625	soluble	soluble		C1749467
+9711	9745	GO:0005488	with a covalently-bound inhibitor,	binding	Binding 	C1167622
+9941	9978	GO:0004857	detectable, inhibitors of this enzyme	enzyme inhibitor activity		C1152555
+10171	10188	GO:0007601	seen in the model	vision	Vision	C0042789
+10414	10433	GO:0005488	bound to sedolisin.	binding	Binding 	C1167622
+10629	10646	GO:0000785	the colors scheme	chromatin	chromatin location	C1325550
+11520	11563	GO:0048788	ribbon diagram of the calpha trace of cln2,	pre-synaptic ribbon		C3541837
+11600	11647	GO:0019013	based on the highly conserved core of sedolisin	nucleocapsid	viral nucleocapsid location	C1167518
+11756	11800	GO:0007567	mutated in the genes of families of patients	parturition	Birth	C0005615
+11756	11800	GO:0000003	mutated in the genes of families of patients	reproduction	Reproduction	C0035150
+11917	11924	GO:0005488	binding	binding	Binding 	C1167622
+12062	12069	GO:0005488	binding	binding	Binding 	C1167622
+12690	12737	GO:0032502	refers to the sequence of the mature human cln2	development	Biologic Development	C0678723
+13615	13670	GO:0004866	a good inhibitor of the sedolisin family of peptidases.	proteinase inhibitor	proteinase inhibitor activity	C2673177
+14081	14085	GO:0007601	seen	vision	Vision	C0042789
+16152	16173	GO:0034701	tripeptidase activity	tripeptidase activity		C2612845
+16636	16697	GO:0043687	by some allowed changes in the torsion angles of the protein.	post-translational protein modification	Post-Translational Protein Processing	C0033666
+16636	16697	GO:0006464	by some allowed changes in the torsion angles of the protein.	protein modification process		C2263112
+16636	16697	GO:0036211	by some allowed changes in the torsion angles of the protein.	protein modification process		C2263112
+17011	17119	GO:0007567	found through a genetic survey of families of classic late-infantile neuronal ceroid lipofuscinosis patients	parturition	Birth	C0005615
+17011	17119	GO:0000003	found through a genetic survey of families of classic late-infantile neuronal ceroid lipofuscinosis patients	reproduction	Reproduction	C0035150
+17292	17331	GO:1902698	lead to single amino acid substitutions	acidogenesis		C3823112
+17292	17331	GO:1902705	lead to single amino acid substitutions	acidogenesis		C3823112
+17292	17331	GO:1902706	lead to single amino acid substitutions	acidogenesis		C3823112
+17292	17331	GO:1902699	lead to single amino acid substitutions	acidogenesis		C3823112
+17332	17353	GO:0032502	in the mature enzyme.	development	Biologic Development	C0678723
+17607	17630	GO:0003824	its enzymatic activity.	enzyme activity		C0243102
+17912	17950	GO:0003824	lead to the loss of enzymatic activity	enzyme activity		C0243102
+18149	18160	GO:0032502	development	development	Biologic Development	C0678723
+18375	18405	GO:0007567	found in the genes of patients	parturition	Birth	C0005615
+18375	18405	GO:0000003	found in the genes of patients	reproduction	Reproduction	C0035150
+18589	18639	GO:0005764	in lysosomal storage bodies in various cell types,	lysosome	Lysosomes	C0024369
+18746	18758	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+18746	18793	GO:0000001	intact subunit c of mitochondrial atp synthase,	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+19127	19158	GO:0000910	with the efficiency of cleavage	cytokinesis	Cytokinesis	C0010813
+19240	19268	GO:1902698	consisted of 14 amino acids,	acidogenesis		C3823112
+19240	19268	GO:1902705	consisted of 14 amino acids,	acidogenesis		C3823112
+19240	19268	GO:1902706	consisted of 14 amino acids,	acidogenesis		C3823112
+19240	19268	GO:1902699	consisted of 14 amino acids,	acidogenesis		C3823112
+19386	19443	GO:0042277	this peptide on the p side of the substrate-binding site,	peptide binding		C1149098
+19471	19478	GO:0005488	binding	binding	Binding 	C1167622
+20015	20022	GO:0005488	binding	binding	Binding 	C1167622
+20615	20622	GO:0005488	binding	binding	Binding 	C1167622
+20723	20743	GO:0008133	collagenase activity	collagenase activity		C1150174
+21679	21686	GO:0005488	binding	binding	Binding 	C1167622
+22379	22405	GO:0019013	in the core of the enzymes	nucleocapsid	viral nucleocapsid location	C1167518
+22879	22937	GO:1902698	the specific patterns of amino acid residue-type variation	acidogenesis		C3823112
+22879	22937	GO:1902705	the specific patterns of amino acid residue-type variation	acidogenesis		C3823112
+22879	22937	GO:1902706	the specific patterns of amino acid residue-type variation	acidogenesis		C3823112
+22879	22937	GO:1902699	the specific patterns of amino acid residue-type variation	acidogenesis		C3823112
+23473	23546	GO:0019013	aligned to the crystal structure-identified core regions of the sedolisin	nucleocapsid	viral nucleocapsid location	C1167518
+23889	23955	GO:0019013	the few places where highly conserved residues of the core regions	nucleocapsid	viral nucleocapsid location	C1167518
+24600	24612	GO:0019013	for the core	nucleocapsid	viral nucleocapsid location	C1167518

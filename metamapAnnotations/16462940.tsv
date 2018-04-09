@@ -1,0 +1,343 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+0	7	GO:0007567	genetic	parturition	Birth	C0005615
+0	7	GO:0000003	genetic	reproduction	Reproduction	C0035150
+116	155	GO:0015074	the integration of expression profiling	DNA integration	DNA Integration	C1158478
+217	222	GO:0007567	genes	parturition	Birth	C0005615
+217	222	GO:0000003	genes	reproduction	Reproduction	C0035150
+276	322	GO:0050789	on the regulation of many physiological traits	regulation of biological process	Regulation of biological process	C1327622
+674	714	GO:0044237	several "metabolic syndrome" phenotypes.	cellular metabolic process	Metabolic Process, Cellular	C1524026
+870	885	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+1029	1074	GO:0050789	a complex trait with sex-specific regulation.	regulation of biological process	Regulation of biological process	C1327622
+1168	1197	GO:0010468	regulation of gene expression	regulation of gene expression	Gene Expression Regulation	C0017263
+1433	1483	GO:0010468	on the genetic regulation of other complex traits.	regulation of gene expression	Gene Expression Regulation	C0017263
+1440	1447	GO:0007567	genetic	parturition	Birth	C0005615
+1440	1447	GO:0000003	genetic	reproduction	Reproduction	C0035150
+1877	1920	GO:0007567	the relationship between genetic variation,	parturition	Birth	C0005615
+1877	1920	GO:0000003	the relationship between genetic variation,	reproduction	Reproduction	C0035150
+1921	1944	GO:0007548	sexual differentiation,	sex differentiation	Sex Differentiation	C0036874
+2255	2270	GO:0007567	candidate genes	parturition	Birth	C0005615
+2255	2270	GO:0000003	candidate genes	reproduction	Reproduction	C0035150
+2349	2364	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+2470	2483	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+2628	2638	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+2750	2784	GO:0007567	a good candidate gene for obesity.	parturition	Birth	C0005615
+2750	2784	GO:0000003	a good candidate gene for obesity.	reproduction	Reproduction	C0035150
+2824	2861	GO:0007567	nearly identical genetic information,	parturition	Birth	C0005615
+2824	2861	GO:0000003	nearly identical genetic information,	reproduction	Reproduction	C0035150
+3267	3279	GO:0009405	pathogenesis	pathogenesis	Pathogenesis	C0699748
+3312	3320	GO:0007610	behavior	behavior	Behavior	C0004927
+3343	3377	GO:0007567	significant genetic determination,	parturition	Birth	C0005615
+3343	3377	GO:0000003	significant genetic determination,	reproduction	Reproduction	C0035150
+3417	3438	GO:0007567	the genetic component	parturition	Birth	C0005615
+3417	3438	GO:0000003	the genetic component	reproduction	Reproduction	C0035150
+3476	3509	GO:0007567	embedded in the genetic variation	parturition	Birth	C0005615
+3476	3509	GO:0000003	embedded in the genetic variation	reproduction	Reproduction	C0035150
+3640	3655	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+3761	3775	GO:0007567	the same genes	parturition	Birth	C0005615
+3761	3775	GO:0000003	the same genes	reproduction	Reproduction	C0035150
+4103	4128	GO:0044237	the genetics of metabolic	cellular metabolic process	Metabolic Process, Cellular	C1524026
+4200	4232	GO:0007567	induced mutants of single genes,	parturition	Birth	C0005615
+4200	4232	GO:0000003	induced mutants of single genes,	reproduction	Reproduction	C0035150
+4244	4300	GO:0007567	the complex endogenous genetic variation between strains	parturition	Birth	C0005615
+4244	4300	GO:0000003	the complex endogenous genetic variation between strains	reproduction	Reproduction	C0035150
+4301	4319	GO:0007567	in genetic crosses	parturition	Birth	C0005615
+4301	4319	GO:0000003	in genetic crosses	reproduction	Reproduction	C0035150
+4332	4354	GO:0007567	causative genetic loci	parturition	Birth	C0005615
+4332	4354	GO:0000003	causative genetic loci	reproduction	Reproduction	C0035150
+4522	4570	GO:0007567	the genetic composition of each individual mouse	parturition	Birth	C0005615
+4522	4570	GO:0000003	the genetic composition of each individual mouse	reproduction	Reproduction	C0035150
+4736	4783	GO:0098687	the identification of those chromosomal regions	chromosome region	Region of chromosome	C1953345
+4797	4816	GO:0007567	a genetic variation	parturition	Birth	C0005615
+4797	4816	GO:0000003	a genetic variation	reproduction	Reproduction	C0035150
+4886	4889	GO:0007601	see	vision	Vision	C0042789
+5004	5019	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+5078	5093	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+5179	5224	GO:0010468	the genetic regulation of complex phenotypes,	regulation of gene expression	Gene Expression Regulation	C0017263
+5290	5308	GO:0007567	to candidate gene.	parturition	Birth	C0005615
+5290	5308	GO:0000003	to candidate gene.	reproduction	Reproduction	C0035150
+5325	5368	GO:0015074	the application of this integrated approach	DNA integration	DNA Integration	C1158478
+5402	5440	GO:0007567	on the genetic determinants of obesity	parturition	Birth	C0005615
+5402	5440	GO:0000003	on the genetic determinants of obesity	reproduction	Reproduction	C0035150
+5445	5495	GO:0010468	the associated regulation of liver gene expression	regulation of gene expression	Gene Expression Regulation	C0017263
+5712	5761	GO:0044237	associated with the so-called metabolic syndrome.	cellular metabolic process	Metabolic Process, Cellular	C1524026
+5908	5923	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+6023	6075	GO:0010468	the genetic regulation of the gonadal fat mass trait	regulation of gene expression	Gene Expression Regulation	C0017263
+6092	6097	GO:0007567	genes	parturition	Birth	C0005615
+6092	6097	GO:0000003	genes	reproduction	Reproduction	C0035150
+6612	6636	GO:0007600	broad sense heritability	sensory perception	Esthesia	C0036658
+7025	7033	GO:0030849	autosome	autosome	Autosome	C0596142
+7455	7458	GO:0007601	see	vision	Vision	C0042789
+7736	7751	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+8310	8325	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+9149	9159	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+9185	9195	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+9525	9535	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+9685	9713	GO:0033736	lod score of maximal linkage	L-lysine 6-oxidase activity		C2247199
+9887	9915	GO:0033736	with very similar lod scores	L-lysine 6-oxidase activity		C2247199
+10033	10043	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+10183	10193	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+10231	10260	GO:0033736	a suggestive lod score of 3.7	L-lysine 6-oxidase activity		C2247199
+10395	10469	GO:0002524	the interaction terms to the qtl model significantly improved sensitivity,	hypersensitivity	Hypersensitivity	C0020517
+10474	10507	GO:0033736	a cqtl with a maximum lod of 7.56	L-lysine 6-oxidase activity		C2247199
+10824	10834	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+10930	10940	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+11167	11177	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+11486	11531	GO:0007600	consistent with the narrow sense heritability	sensory perception	Esthesia	C0036658
+11581	11622	GO:0050789	significant differences in the regulation	regulation of biological process	Regulation of biological process	C1327622
+12433	12456	GO:0007567	this selection of genes	parturition	Birth	C0005615
+12433	12456	GO:0000003	this selection of genes	reproduction	Reproduction	C0035150
+12792	12807	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+13076	13106	GO:0033736	lod scores for clinical traits	L-lysine 6-oxidase activity		C2247199
+14197	14223	GO:0007567	of the corresponding gene,	parturition	Birth	C0005615
+14197	14223	GO:0000003	of the corresponding gene,	reproduction	Reproduction	C0035150
+14284	14299	GO:0007567	within the gene	parturition	Birth	C0005615
+14284	14299	GO:0000003	within the gene	reproduction	Reproduction	C0035150
+14640	14650	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+14759	14769	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+14896	14909	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+15036	15046	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+15399	15435	GO:0033736	with increasing lod score thresholds	L-lysine 6-oxidase activity		C2247199
+15576	15589	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+15775	15812	GO:0010467	in trans on a given gene's expression	gene expression	Gene Expression	C0017262
+16009	16038	GO:0010468	regulation of gene expression	regulation of gene expression	Gene Expression Regulation	C0017263
+16055	16101	GO:0007567	candidate genes for the gonadal fat mass trait	parturition	Birth	C0005615
+16055	16101	GO:0000003	candidate genes for the gonadal fat mass trait	reproduction	Reproduction	C0035150
+16144	16159	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+16164	16207	GO:0010468	the genetic regulation of gonadal fat mass,	regulation of gene expression	Gene Expression Regulation	C0017263
+16308	16348	GO:0007567	potential candidate genes for our trait.	parturition	Birth	C0005615
+16308	16348	GO:0000003	potential candidate genes for our trait.	reproduction	Reproduction	C0035150
+16511	16541	GO:0007567	candidate genes for the trait.	parturition	Birth	C0005615
+16511	16541	GO:0000003	candidate genes for the trait.	reproduction	Reproduction	C0035150
+16542	16587	GO:0019953	those genes with significant sex interactions	sexual reproduction		C0871354
+16663	16681	GO:0007567	thousands of genes	parturition	Birth	C0005615
+16663	16681	GO:0000003	thousands of genes	reproduction	Reproduction	C0035150
+16958	16974	GO:0007567	the terms "gene,	parturition	Birth	C0005615
+16958	16974	GO:0000003	the terms "gene,	reproduction	Reproduction	C0035150
+16987	16993	GO:0007567	"gene-	parturition	Birth	C0005615
+16987	16993	GO:0000003	"gene-	reproduction	Reproduction	C0035150
+17008	17018	GO:0007567	the "gene-	parturition	Birth	C0005615
+17008	17018	GO:0000003	the "gene-	reproduction	Reproduction	C0035150
+17071	17085	GO:0007567	between a gene	parturition	Birth	C0005615
+17071	17085	GO:0000003	between a gene	reproduction	Reproduction	C0035150
+17244	17247	GO:0007601	see	vision	Vision	C0042789
+17438	17449	GO:0007567	4,613 genes	parturition	Birth	C0005615
+17438	17449	GO:0000003	4,613 genes	reproduction	Reproduction	C0035150
+17503	17518	GO:0007567	of these genes,	parturition	Birth	C0005615
+17503	17518	GO:0000003	of these genes,	reproduction	Reproduction	C0035150
+17538	17556	GO:0007567	significant "gene-	parturition	Birth	C0005615
+17538	17556	GO:0000003	significant "gene-	reproduction	Reproduction	C0035150
+17619	17659	GO:0010468	in the genetic regulation of this trait.	regulation of gene expression	Gene Expression Regulation	C0017263
+17660	17688	GO:0007567	a complete list of all genes	parturition	Birth	C0005615
+17660	17688	GO:0000003	a complete list of all genes	reproduction	Reproduction	C0035150
+17748	17766	GO:0007567	of the 4,613 genes	parturition	Birth	C0005615
+17748	17766	GO:0000003	of the 4,613 genes	reproduction	Reproduction	C0035150
+17881	17921	GO:0007567	for these correlated genes with the cqtl	parturition	Birth	C0005615
+17881	17921	GO:0000003	for these correlated genes with the cqtl	reproduction	Reproduction	C0035150
+17954	18011	GO:0007567	useful implications for the possible role of these genes.	parturition	Birth	C0005615
+17954	18011	GO:0000003	useful implications for the possible role of these genes.	reproduction	Reproduction	C0035150
+18005	18010	GO:0007567	genes	parturition	Birth	C0005615
+18005	18010	GO:0000003	genes	reproduction	Reproduction	C0035150
+18216	18255	GO:0007567	potential candidate genes for the trait	parturition	Birth	C0005615
+18216	18255	GO:0000003	potential candidate genes for the trait	reproduction	Reproduction	C0035150
+18280	18302	GO:0007567	a genetic variation in	parturition	Birth	C0005615
+18280	18302	GO:0000003	a genetic variation in	reproduction	Reproduction	C0035150
+18303	18312	GO:0007567	that gene	parturition	Birth	C0005615
+18303	18312	GO:0000003	that gene	reproduction	Reproduction	C0035150
+18370	18379	GO:0007567	the genes	parturition	Birth	C0005615
+18370	18379	GO:0000003	the genes	reproduction	Reproduction	C0035150
+18436	18460	GO:0007567	evidence for these genes	parturition	Birth	C0005615
+18436	18460	GO:0000003	evidence for these genes	reproduction	Reproduction	C0035150
+18512	18569	GO:0050789	the complex multiorgan regulation of adipose tissue mass,	regulation of biological process	Regulation of biological process	C1327622
+18590	18629	GO:0010468	the genetic regulation of all five loci	regulation of gene expression	Gene Expression Regulation	C0017263
+18731	18744	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+18799	18804	GO:0007567	genes	parturition	Birth	C0005615
+18799	18804	GO:0000003	genes	reproduction	Reproduction	C0035150
+19086	19117	GO:0007567	leading from the causative gene	parturition	Birth	C0005615
+19086	19117	GO:0000003	leading from the causative gene	reproduction	Reproduction	C0035150
+19171	19184	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+19196	19227	GO:0007567	regulated by the causative gene	parturition	Birth	C0005615
+19196	19227	GO:0000003	regulated by the causative gene	reproduction	Reproduction	C0035150
+19279	19325	GO:0007567	colocalizing trans-eqtls for correlated genes.	parturition	Birth	C0005615
+19279	19325	GO:0000003	colocalizing trans-eqtls for correlated genes.	reproduction	Reproduction	C0035150
+19488	19503	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+19614	19629	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+19683	19704	GO:0007567	for correlated genes,	parturition	Birth	C0005615
+19683	19704	GO:0000003	for correlated genes,	reproduction	Reproduction	C0035150
+19936	19939	GO:0007601	see	vision	Vision	C0042789
+20280	20290	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+20490	20500	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+20533	20567	GO:0010468	the genetic regulation of fat mass	regulation of gene expression	Gene Expression Regulation	C0017263
+20576	20586	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+20626	20641	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+20720	20730	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+20824	20834	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+20858	20871	GO:0007567	that 29 genes	parturition	Birth	C0005615
+20858	20871	GO:0000003	that 29 genes	reproduction	Reproduction	C0035150
+20982	20997	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+21182	21192	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+21246	21275	GO:0010468	regulation of gene expression	regulation of gene expression	Gene Expression Regulation	C0017263
+21391	21401	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+21592	21631	GO:0010468	trans genetic regulation of liver genes	regulation of gene expression	Gene Expression Regulation	C0017263
+21839	21879	GO:0010468	the genetic regulation of several traits	regulation of gene expression	Gene Expression Regulation	C0017263
+21880	21929	GO:0044237	associated with the so-called metabolic syndrome.	cellular metabolic process	Metabolic Process, Cellular	C1524026
+22041	22056	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+22282	22315	GO:0010468	on underlying genetic regulation.	regulation of gene expression	Gene Expression Regulation	C0017263
+22317	22378	GO:0050789	significant sex bias in the regulation of both complex traits	regulation of biological process	Regulation of biological process	C1327622
+22383	22398	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+23052	23062	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+23352	23362	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+23671	23681	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+23755	23765	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+23811	23821	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+24067	24085	GO:0010468	genetic regulation	regulation of gene expression	Gene Expression Regulation	C0017263
+24090	24116	GO:0007601	seen in this f2 population	vision	Vision	C0042789
+24437	24454	GO:0046879	hormone secretion	hormone secretion	Hormone secretion	C0312431
+24456	24504	GO:0010468	on the genetic regulation of this complex trait.	regulation of gene expression	Gene Expression Regulation	C0017263
+24506	24533	GO:0007567	the identification of genes	parturition	Birth	C0005615
+24506	24533	GO:0000003	the identification of genes	reproduction	Reproduction	C0035150
+24688	24701	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+24740	24775	GO:0007567	initial information for which genes	parturition	Birth	C0005615
+24740	24775	GO:0000003	initial information for which genes	reproduction	Reproduction	C0035150
+24887	24909	GO:0010468	the genetic regulation	regulation of gene expression	Gene Expression Regulation	C0017263
+24934	24949	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+25019	25032	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+25037	25077	GO:0007567	potential candidate genes for the trait.	parturition	Birth	C0005615
+25037	25077	GO:0000003	potential candidate genes for the trait.	reproduction	Reproduction	C0035150
+25174	25186	GO:0007567	4,998 genes,	parturition	Birth	C0005615
+25174	25186	GO:0000003	4,998 genes,	reproduction	Reproduction	C0035150
+25421	25434	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+25624	25653	GO:0010468	regulation of gene expression	regulation of gene expression	Gene Expression Regulation	C0017263
+25682	25697	GO:0007567	within the gene	parturition	Birth	C0005615
+25682	25697	GO:0000003	within the gene	reproduction	Reproduction	C0035150
+25725	25763	GO:0010468	genetic regulation of most transcripts	regulation of gene expression	Gene Expression Regulation	C0017263
+25915	25944	GO:0010468	regulation of gene expression	regulation of gene expression	Gene Expression Regulation	C0017263
+26696	26742	GO:0007567	some tantalizingly attractive candidate genes.	parturition	Birth	C0005615
+26696	26742	GO:0000003	some tantalizingly attractive candidate genes.	reproduction	Reproduction	C0035150
+26790	26810	GO:0007567	that candidate genes	parturition	Birth	C0005615
+26790	26810	GO:0000003	that candidate genes	reproduction	Reproduction	C0035150
+26972	26994	GO:0007567	genes with significant	parturition	Birth	C0005615
+26972	26994	GO:0000003	genes with significant	reproduction	Reproduction	C0035150
+27036	27078	GO:0007567	not strictly necessary for candidate genes	parturition	Birth	C0005615
+27036	27078	GO:0000003	not strictly necessary for candidate genes	reproduction	Reproduction	C0035150
+27162	27175	GO:0007567	gene function	parturition	Birth	C0005615
+27162	27175	GO:0000003	gene function	reproduction	Reproduction	C0035150
+27179	27211	GO:0043687	posttranslational modifications.	post-translational protein modification	Post-Translational Protein Processing	C0033666
+27305	27318	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+27438	27453	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+27498	27525	GO:0007567	the relevant causative gene	parturition	Birth	C0005615
+27498	27525	GO:0000003	the relevant causative gene	reproduction	Reproduction	C0035150
+27719	27752	GO:0007567	that analysis of correlated genes	parturition	Birth	C0005615
+27719	27752	GO:0000003	that analysis of correlated genes	reproduction	Reproduction	C0035150
+27747	27752	GO:0007567	genes	parturition	Birth	C0005615
+27747	27752	GO:0000003	genes	reproduction	Reproduction	C0035150
+27845	27884	GO:0050789	tissue-specific regulation of the trait	regulation of biological process	Regulation of biological process	C1327622
+27911	27916	GO:0007567	genes	parturition	Birth	C0005615
+27911	27916	GO:0000003	genes	reproduction	Reproduction	C0035150
+27957	27988	GO:0007567	not necessarily candidate genes	parturition	Birth	C0005615
+27957	27988	GO:0000003	not necessarily candidate genes	reproduction	Reproduction	C0035150
+28190	28201	GO:0007567	4,613 genes	parturition	Birth	C0005615
+28190	28201	GO:0000003	4,613 genes	reproduction	Reproduction	C0035150
+28351	28390	GO:0007567	several genes with detectable cis-eqtls	parturition	Birth	C0005615
+28351	28390	GO:0000003	several genes with detectable cis-eqtls	reproduction	Reproduction	C0035150
+28461	28492	GO:0007567	prioritized as candidate genes.	parturition	Birth	C0005615
+28461	28492	GO:0000003	prioritized as candidate genes.	reproduction	Reproduction	C0035150
+28548	28563	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+28934	28951	GO:0051179	this localization	establishment and maintenance of localization		C1744691
+29008	29026	GO:0007567	of the 4,613 genes	parturition	Birth	C0005615
+29008	29026	GO:0000003	of the 4,613 genes	reproduction	Reproduction	C0035150
+29193	29203	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+29401	29432	GO:0051179	the localization of their eqtls	establishment and maintenance of localization		C1744691
+29484	29510	GO:0007567	the genes with trans-eqtls	parturition	Birth	C0005615
+29484	29510	GO:0000003	the genes with trans-eqtls	reproduction	Reproduction	C0035150
+29521	29569	GO:0007567	downstream targets of candidate regulatory genes	parturition	Birth	C0005615
+29521	29569	GO:0000003	downstream targets of candidate regulatory genes	reproduction	Reproduction	C0035150
+29634	29643	GO:0007567	the genes	parturition	Birth	C0005615
+29634	29643	GO:0000003	the genes	reproduction	Reproduction	C0035150
+29658	29684	GO:0007567	but downstream of the gene	parturition	Birth	C0005615
+29658	29684	GO:0000003	but downstream of the gene	reproduction	Reproduction	C0035150
+29774	29803	GO:0044237	associated metabolic changes.	cellular metabolic process	Metabolic Process, Cellular	C1524026
+29865	29910	GO:0007567	overrepresentation of highly correlated genes	parturition	Birth	C0005615
+29865	29910	GO:0000003	overrepresentation of highly correlated genes	reproduction	Reproduction	C0035150
+30026	30036	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+30137	30163	GO:0007567	promoter analysis of genes	parturition	Birth	C0005615
+30137	30163	GO:0000003	promoter analysis of genes	reproduction	Reproduction	C0035150
+30226	30241	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+30355	30372	GO:0050789	trans regulation.	regulation of biological process	Regulation of biological process	C1327622
+30386	30425	GO:0015074	the integration of traditional genetics	DNA integration	DNA Integration	C1158478
+30741	30756	GO:0002524	the sensitivity	hypersensitivity	Hypersensitivity	C0020517
+30767	30797	GO:0010468	underlying genetic regulation,	regulation of gene expression	Gene Expression Regulation	C0017263
+31044	31059	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+31295	31322	GO:0007567	here on the initial genetic	parturition	Birth	C0005615
+31295	31322	GO:0000003	here on the initial genetic	reproduction	Reproduction	C0035150
+31415	31456	GO:0044237	associated with human metabolic syndrome.	cellular metabolic process	Metabolic Process, Cellular	C1524026
+31606	31642	GO:0010468	subtle effects of genetic regulation	regulation of gene expression	Gene Expression Regulation	C0017263
+31912	31927	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+32047	32063	GO:0007567	candidate genes.	parturition	Birth	C0005615
+32047	32063	GO:0000003	candidate genes.	reproduction	Reproduction	C0035150
+32083	32127	GO:0051179	that localization of a subset of liver genes	establishment and maintenance of localization		C1744691
+32174	32249	GO:0010468	relative tissue contributions to the genetic regulation of a complex trait.	regulation of gene expression	Gene Expression Regulation	C0017263
+32342	32383	GO:0010468	the elucidation of the genetic regulation	regulation of gene expression	Gene Expression Regulation	C0017263
+34385	34400	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+34685	34697	GO:0007567	a given gene	parturition	Birth	C0005615
+34685	34697	GO:0000003	a given gene	reproduction	Reproduction	C0035150
+35175	35183	GO:0030849	autosome	autosome	Autosome	C0596142
+35275	35297	GO:0007610	conducted by parallele	behavior	Behavior	C0004927
+35463	35478	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+35499	35508	GO:0007610	conducted	behavior	Behavior	C0004927
+36109	36122	GO:0033736	the lod score	L-lysine 6-oxidase activity		C2247199
+37688	37735	GO:0033736	the lod score threshold for significant linkage	L-lysine 6-oxidase activity		C2247199
+37854	37892	GO:0033736	* 10-5 equivalent to lod scores of 4.0	L-lysine 6-oxidase activity		C2247199
+39224	39249	GO:0007567	over a set of 3,000 genes	parturition	Birth	C0005615
+39224	39249	GO:0000003	over a set of 3,000 genes	reproduction	Reproduction	C0035150
+39259	39293	GO:0007567	selected from the set of all genes	parturition	Birth	C0005615
+39259	39293	GO:0000003	selected from the set of all genes	reproduction	Reproduction	C0035150
+39338	39351	GO:0007567	for each gene	parturition	Birth	C0005615
+39338	39351	GO:0000003	for each gene	reproduction	Reproduction	C0035150
+39511	39526	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+39564	39605	GO:0007567	the correlation structure among the genes	parturition	Birth	C0005615
+39564	39605	GO:0000003	the correlation structure among the genes	reproduction	Reproduction	C0035150
+39621	39660	GO:0033736	the fdr for a given lod score threshold	L-lysine 6-oxidase activity		C2247199
+39828	39872	GO:0007567	detected in the observed 3,000-gene dataset.	parturition	Birth	C0005615
+39828	39872	GO:0000003	detected in the observed 3,000-gene dataset.	reproduction	Reproduction	C0035150
+39918	39942	GO:0033736	the lod score threshold,	L-lysine 6-oxidase activity		C2247199
+40073	40083	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+40130	40160	GO:0033736	the qtl with the max lod score	L-lysine 6-oxidase activity		C2247199
+40169	40179	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+40563	40578	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+40644	40678	GO:0007567	detected in the set of 3,000 genes	parturition	Birth	C0005615
+40644	40678	GO:0000003	detected in the set of 3,000 genes	reproduction	Reproduction	C0035150
+42330	42336	GO:0007567	*gene"	parturition	Birth	C0005615
+42330	42336	GO:0000003	*gene"	reproduction	Reproduction	C0035150
+42713	42718	GO:0007567	genes	parturition	Birth	C0005615
+42713	42718	GO:0000003	genes	reproduction	Reproduction	C0035150
+42830	42854	GO:0007567	generated by these genes	parturition	Birth	C0005615
+42830	42854	GO:0000003	generated by these genes	reproduction	Reproduction	C0035150
+44225	44240	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+44274	44297	GO:0033736	lod - logarithm of odds	L-lysine 6-oxidase activity		C2247199
+44617	44627	GO:0033736	lod scores	L-lysine 6-oxidase activity		C2247199
+44828	44838	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+44868	44878	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+45093	45103	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+46002	46017	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+46019	46072	GO:0007567	over 2,300 of the most differentially expressed genes	parturition	Birth	C0005615
+46019	46072	GO:0000003	over 2,300 of the most differentially expressed genes	reproduction	Reproduction	C0035150
+46720	46730	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+46868	46887	GO:0033736	lod score increases	L-lysine 6-oxidase activity		C2247199
+47664	47711	GO:0007567	for trait-gene correlations between transcripts	parturition	Birth	C0005615
+47664	47711	GO:0000003	for trait-gene correlations between transcripts	reproduction	Reproduction	C0035150
+47833	47861	GO:0007567	generated by the 4,613 genes	parturition	Birth	C0005615
+47833	47861	GO:0000003	generated by the 4,613 genes	reproduction	Reproduction	C0035150
+47920	47931	GO:0007567	1,130 genes	parturition	Birth	C0005615
+47920	47931	GO:0000003	1,130 genes	reproduction	Reproduction	C0035150
+48425	48475	GO:0098687	one significantly enriched region on chromosome 19	chromosome region	Region of chromosome	C1953345
+48490	48500	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+48730	48745	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+49209	49219	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+49240	49250	GO:0005694	chromosome	chromosome	Chromosomes	C0008633
+49341	49356	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+49633	49652	GO:0007567	properties of genes	parturition	Birth	C0005615
+49633	49652	GO:0000003	properties of genes	reproduction	Reproduction	C0035150
+49809	49845	GO:0007567	strong candidate genes for the trait	parturition	Birth	C0005615
+49809	49845	GO:0000003	strong candidate genes for the trait	reproduction	Reproduction	C0035150
+50669	50676	GO:0007567	genetic	parturition	Birth	C0005615
+50669	50676	GO:0000003	genetic	reproduction	Reproduction	C0035150

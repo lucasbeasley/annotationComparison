@@ -1,0 +1,583 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+2	13	GO:0032502	development	development	Biologic Development	C0678723
+54	91	GO:0000988	to ets transcription factor signaling	transcription factor activity		C1148759
+54	91	GO:0001070	to ets transcription factor signaling	transcription factor activity		C1148759
+54	91	GO:0001071	to ets transcription factor signaling	transcription factor activity		C1148759
+54	91	GO:0003700	to ets transcription factor signaling	transcription factor activity		C1148759
+111	124	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+215	222	GO:0007600	sensory	sensory perception	Esthesia	C0036658
+301	341	GO:0030182	late aspects of neuronal differentiation	neuron differentiation		C1159970
+301	341	GO:0022008	late aspects of neuronal differentiation	neural cell differentiation		C2755962
+422	437	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+441	508	GO:0007600	an essential requirement for normal sensory neuron differentiation.	sensory perception	Esthesia	C0036658
+520	549	GO:0007567	genetic evidence in the mouse	parturition	Birth	C0005615
+520	549	GO:0000003	genetic evidence in the mouse	reproduction	Reproduction	C0035150
+550	603	GO:0007600	that precocious ets expression in drg sensory neurons	sensory perception	Esthesia	C0036658
+613	617	GO:0030424	axon	axon	Axon	C0004461
+652	676	GO:0048468	terminal differentiation	terminal differentiation		C2752630
+764	788	GO:0007600	that drg sensory neurons	sensory perception	Esthesia	C0036658
+808	819	GO:0032502	development	development	Biologic Development	C0678723
+872	953	GO:0000988	to ets transcription factor signaling at sequential steps of neuronal maturation.	transcription factor activity		C1148759
+872	953	GO:0001070	to ets transcription factor signaling at sequential steps of neuronal maturation.	transcription factor activity		C1148759
+872	953	GO:0001071	to ets transcription factor signaling at sequential steps of neuronal maturation.	transcription factor activity		C1148759
+872	953	GO:0003700	to ets transcription factor signaling at sequential steps of neuronal maturation.	transcription factor activity		C1148759
+969	993	GO:0030182	neuronal differentiation	neuron differentiation		C1159970
+969	993	GO:0022008	neuronal differentiation	neural cell differentiation		C2755962
+997	1054	GO:0043005	a protracted process during which newly generated neurons	neurite	Neurites	C0085103
+1072	1076	GO:0005623	cell	cell	Cells	C0007634
+1121	1144	GO:0032502	during their maturation	development	Biologic Development	C0678723
+1160	1164	GO:0030424	axon	axon	Axon	C0004461
+1219	1233	GO:0007416	synaptogenesis	synaptogenesis		C0597545
+1328	1341	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+1364	1368	GO:0005623	cell	cell	Cells	C0007634
+1430	1440	GO:0007049	cell cycle	cell cycle	Cell Cycle	C0007586
+1430	1450	GO:0000278	upon cell cycle exit	mitotic cell cycle	Mitotic Cell Cycle	C1155839
+1502	1515	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+1541	1552	GO:0032502	development	development	Biologic Development	C0678723
+1574	1584	GO:0007049	cell cycle	cell cycle	Cell Cycle	C0007586
+1574	1590	GO:0000278	cell cycle exit,	mitotic cell cycle	Mitotic Cell Cycle	C1155839
+1615	1658	GO:0030182	the progression of neuronal differentiation	neuron differentiation		C1159970
+1615	1658	GO:0022008	the progression of neuronal differentiation	neural cell differentiation		C2755962
+1705	1766	GO:0007600	the differentiation of sensory neurons of dorsal root ganglia	sensory perception	Esthesia	C0036658
+1940	1975	GO:0043524	in the control of neuronal survival	neuron survival		C1819944
+2077	2118	GO:0030182	later aspects of neuronal differentiation	neuron differentiation		C1159970
+2077	2118	GO:0022008	later aspects of neuronal differentiation	neural cell differentiation		C2755962
+2128	2162	GO:0007567	in particular, genetic experiments	parturition	Birth	C0005615
+2128	2162	GO:0000003	in particular, genetic experiments	reproduction	Reproduction	C0035150
+2239	2250	GO:0032502	development	development	Biologic Development	C0678723
+2291	2321	GO:0038179	both in neurotrophin signaling	neurotrophin signaling pathway	Neurotrophin Signaling Pathway	C2984256
+2322	2370	GO:0007567	and in the function of the proapoptotic gene bax	parturition	Birth	C0005615
+2322	2370	GO:0000003	and in the function of the proapoptotic gene bax	reproduction	Reproduction	C0035150
+2420	2447	GO:0038179	that neurotrophin signaling	neurotrophin signaling pathway	Neurotrophin Signaling Pathway	C2984256
+2548	2559	GO:0060384	innervation	innervation	innervation aspect	C1619351
+2586	2599	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+2689	2699	GO:0007049	cell cycle	cell cycle	Cell Cycle	C0007586
+2689	2704	GO:0000278	the cell cycle.	mitotic cell cycle	Mitotic Cell Cycle	C1155839
+2840	2853	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+2944	2968	GO:0048468	terminal differentiation	terminal differentiation		C2752630
+3161	3174	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+3192	3219	GO:0007600	pea3 in drg sensory neurons	sensory perception	Esthesia	C0036658
+3361	3388	GO:0019230	in proprioceptive afferents	proprioception	Proprioception	C0033499
+3404	3441	GO:0043121	mediated by peripheral neurotrophin 3	neurotrophin binding		C1323315
+3559	3604	GO:0019230	proprioceptive sensory neuron differentiation	proprioception	Proprioception	C0033499
+3609	3658	GO:0030182	pea3 directing motor neuron pool differentiation,	neuron differentiation		C1159970
+3609	3658	GO:0022008	pea3 directing motor neuron pool differentiation,	neural cell differentiation		C2755962
+3741	3752	GO:0007567	in the gene	parturition	Birth	C0005615
+3741	3752	GO:0000003	in the gene	reproduction	Reproduction	C0035150
+3753	3808	GO:0038179	or by deprivation of peripheral neurotrophin signaling,	neurotrophin signaling pathway	Neurotrophin Signaling Pathway	C2984256
+3809	3842	GO:0019230	group ia proprioceptive afferents	proprioception	Proprioception	C0033499
+3995	4046	GO:0000988	in induction of ets transcription factor expression	transcription factor activity		C1148759
+3995	4046	GO:0001070	in induction of ets transcription factor expression	transcription factor activity		C1148759
+3995	4046	GO:0001071	in induction of ets transcription factor expression	transcription factor activity		C1148759
+3995	4046	GO:0003700	in induction of ets transcription factor expression	transcription factor activity		C1148759
+4084	4136	GO:0007165	for the observed delay in the onset of ets signaling	signal transduction	Signal Transduction	C0037083
+4084	4136	GO:0023052	for the observed delay in the onset of ets signaling	biological signaling		C3537152
+4137	4161	GO:0042551	for neuronal maturation.	neuron maturation		C1623343
+4242	4296	GO:0007600	the appropriate sensory neuron developmental programs?	sensory perception	Esthesia	C0036658
+4392	4457	GO:0000988	the precise timing of onset of ets transcription factor signaling	transcription factor activity		C1148759
+4392	4457	GO:0001070	the precise timing of onset of ets transcription factor signaling	transcription factor activity		C1148759
+4392	4457	GO:0001071	the precise timing of onset of ets transcription factor signaling	transcription factor activity		C1148759
+4392	4457	GO:0003700	the precise timing of onset of ets transcription factor signaling	transcription factor activity		C1148759
+4461	4509	GO:0007600	essential for normal sensory neuron development.	sensory perception	Esthesia	C0036658
+4527	4582	GO:0023052	the biological effects of inducing ets signaling either	biological signaling		C3537152
+4598	4609	GO:0032502	development	development	Biologic Development	C0678723
+4643	4686	GO:0019230	that within proprioceptive sensory neurons,	proprioception	Proprioception	C0033499
+4687	4718	GO:0007165	the late onset of ets signaling	signal transduction	Signal Transduction	C0037083
+4687	4718	GO:0023052	the late onset of ets signaling	biological signaling		C3537152
+4722	4792	GO:0007600	essential for the establishment of normal sensory afferent projections	sensory perception	Esthesia	C0036658
+4813	4851	GO:0007165	precocious initiation of ets signaling	signal transduction	Signal Transduction	C0037083
+4813	4851	GO:0023052	precocious initiation of ets signaling	biological signaling		C3537152
+4902	4924	GO:0030182	neuron differentiation	neuron differentiation		C1159970
+4902	4946	GO:0022008	leads to abnormal drg neuron differentiation	neural cell differentiation		C2755962
+4925	4984	GO:0043121	characterized by neurotrophin-independent neurite outgrowth	neurotrophin binding		C1323315
+5015	5030	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+5163	5176	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+5215	5228	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+5248	5279	GO:0042551	crucial for neuronal maturation	neuron maturation		C1623343
+5373	5386	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+5401	5460	GO:0032502	crucial for the control of appropriate neuronal maturation,	development	Biologic Development	C0678723
+5472	5518	GO:0019230	the development of proprioceptive drg neurons,	proprioception	Proprioception	C0033499
+5525	5538	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+5698	5734	GO:0019230	proprioceptive afferent connectivity	proprioception	Proprioception	C0033499
+5784	5797	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+5919	5960	GO:0007600	within group ia afferent sensory neurons.	sensory perception	Esthesia	C0036658
+6028	6114	GO:0000988	the effects of precocious post-mitotic expression of the same ets transcription factor	transcription factor activity		C1148759
+6028	6114	GO:0001070	the effects of precocious post-mitotic expression of the same ets transcription factor	transcription factor activity		C1148759
+6028	6114	GO:0001071	the effects of precocious post-mitotic expression of the same ets transcription factor	transcription factor activity		C1148759
+6028	6114	GO:0003700	the effects of precocious post-mitotic expression of the same ets transcription factor	transcription factor activity		C1148759
+6115	6149	GO:0007600	on sensory neuron differentiation.	sensory perception	Esthesia	C0036658
+6250	6263	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+6319	6350	GO:0019230	within proprioceptive afferents	proprioception	Proprioception	C0033499
+6460	6473	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+6488	6525	GO:1902698	a high degree of amino acid identity,	acidogenesis		C3823112
+6488	6525	GO:1902705	a high degree of amino acid identity,	acidogenesis		C3823112
+6488	6525	GO:1902706	a high degree of amino acid identity,	acidogenesis		C3823112
+6488	6525	GO:1902699	a high degree of amino acid identity,	acidogenesis		C3823112
+6530	6534	GO:0005488	bind	binding	Binding 	C1167622
+6743	6784	GO:0019230	ia proprioceptive afferent projections to	proprioception	Proprioception	C0033499
+6934	7028	GO:0007567	a break-point fusion product between the amino-terminal domain of the ewing sarcoma (ews) gene	parturition	Birth	C0005615
+6934	7028	GO:0000003	a break-point fusion product between the amino-terminal domain of the ewing sarcoma (ews) gene	reproduction	Reproduction	C0035150
+7042	7053	GO:0003677	DNA binding	DNA binding	dna binding	C1148673
+7145	7149	GO:0005623	cell	cell	Cells	C0007634
+7203	7218	GO:2000144	transactivation	transactivation	Trans-Activation, Genetic	C0040624
+7332	7347	GO:2000144	transactivation	transactivation	Trans-Activation, Genetic	C0040624
+7393	7400	GO:0005488	binding	binding	Binding 	C1167622
+7450	7457	GO:0005488	binding	binding	Binding 	C1167622
+7512	7537	GO:0009790	in drg neurons of embryos	embryo development	Embryonic Development	C0013936
+7549	7572	GO:0015074	integration of ews-pea3	DNA integration	DNA Integration	C1158478
+7639	7702	GO:0005515	the expression level of the calcium-binding protein parvalbumin	protein binding	Protein Binding	C0033618
+7708	7736	GO:0019230	in proprioceptive afferents,	proprioception	Proprioception	C0033499
+7841	7866	GO:0009790	in er81ews-pea3/- embryos	embryo development	Embryonic Development	C0013936
+7905	7927	GO:0030182	neuron differentiation	neuron differentiation		C1159970
+7905	7959	GO:0022008	drg neuron differentiation in the presence of ews-pea3	neural cell differentiation		C2755962
+7956	7983	GO:0019230	in proprioceptive afferents	proprioception	Proprioception	C0033499
+8049	8082	GO:0043524	an influence on neuronal survival	neuron survival		C1819944
+8083	8146	GO:0010467	or on the expression of proprioceptive-afferent-specific genes.	gene expression	Gene Expression	C0017262
+8197	8249	GO:0019230	in the number of proprioceptive afferent cell bodies	proprioception	Proprioception	C0033499
+8278	8309	GO:0010467	the expression of several genes	gene expression	Gene Expression	C0017262
+8319	8357	GO:0019230	expressed by proprioceptive afferents,	proprioception	Proprioception	C0033499
+8362	8393	GO:0010467	the lack of expression of genes	gene expression	Gene Expression	C0017262
+8407	8444	GO:0019230	expressed in proprioceptive afferents	proprioception	Proprioception	C0033499
+8641	8656	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+8657	8689	GO:0019230	within proprioceptive afferents.	proprioception	Proprioception	C0033499
+8704	8766	GO:0019230	the extent of rescue of ia proprioceptive afferent projections	proprioception	Proprioception	C0033499
+8898	8902	GO:0030424	axon	axon	Axon	C0004461
+8960	8964	GO:0030424	axon	axon	Axon	C0004461
+9482	9489	GO:0045202	synapse	synapse	Synapses	C0039062
+9582	9647	GO:0005622	intracellular recordings from identified quadriceps motor neurons	protoplasm	Protoplasm	C0175996
+10032	10050	GO:0008150	biological process	biological process	Biological Processes	C3714634
+10117	10142	GO:0007416	the formation of synapses	synaptogenesis		C0597545
+10195	10222	GO:0000988	an ets transcription factor	transcription factor activity		C1148759
+10195	10222	GO:0001070	an ets transcription factor	transcription factor activity		C1148759
+10195	10222	GO:0001071	an ets transcription factor	transcription factor activity		C1148759
+10195	10222	GO:0003700	an ets transcription factor	transcription factor activity		C1148759
+10348	10352	GO:0030424	axon	axon	Axon	C0004461
+10386	10430	GO:0007165	the consequences of precocious ets signaling	signal transduction	Signal Transduction	C0037083
+10386	10430	GO:0023052	the consequences of precocious ets signaling	biological signaling		C3537152
+10431	10475	GO:0019230	for proprioceptive afferent differentiation,	proprioception	Proprioception	C0033499
+10563	10592	GO:0007567	a binary mouse genetic system	parturition	Birth	C0005615
+10563	10592	GO:0000003	a binary mouse genetic system	reproduction	Reproduction	C0035150
+10641	10654	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+10825	10920	GO:0006605	a membrane-targeted green fluorescent protein (mgfp) to trace axonal projections of drg neurons	protein targeting	Protein Targeting	C1159372
+10940	10977	GO:0009790	embryos positive for either isl1cre/+	embryo development	Embryonic Development	C0013936
+11129	11154	GO:0019230	proprioceptive afferents,	proprioception	Proprioception	C0033499
+11248	11326	GO:0043005	in early post-mitotic drg neurons on the establishment of afferent projections	neurite	Neurites	C0085103
+11476	11509	GO:0007600	restricted to drg sensory neurons	sensory perception	Esthesia	C0036658
+11510	11526	GO:0009790	at embryonic day	embryo development	Embryonic Development	C0013936
+11566	11626	GO:0019230	in contrast to wild-type proprioceptive afferent projections	proprioception	Proprioception	C0033499
+11643	11700	GO:0007600	gfp+ sensory afferents in tauews-pea3/+ isl1cre/+ embryos	sensory perception	Esthesia	C0036658
+11922	11962	GO:0007600	the path of sensory afferent projections	sensory perception	Esthesia	C0036658
+11963	12032	GO:0009790	towards the dorsal root entry zone in tauews-pea3/+ isl1cre/+ embryos	embryo development	Embryonic Development	C0013936
+12126	12170	GO:0007600	sensory afferents in e13.5 wild-type embryos	sensory perception	Esthesia	C0036658
+12322	12329	GO:0031430	midline	midline	midline cell component	C1660780
+12343	12395	GO:0007600	sensory afferents in tauews-pea3/+ isl1cre/+ embryos	sensory perception	Esthesia	C0036658
+12507	12514	GO:0031430	midline	midline	midline cell component	C1660780
+12572	12615	GO:0009790	present in tauews-pea3/+ isl1cre/+ embryos,	embryo development	Embryonic Development	C0013936
+12655	12662	GO:0031430	midline	midline	midline cell component	C1660780
+12920	12968	GO:0007600	sensory axons in tauews-pea3/+ isl1cre/+ embryos	sensory perception	Esthesia	C0036658
+12990	13030	GO:0043198	established major nerve trunks by e16.5,	dendritic shaft		C1523842
+13031	13070	GO:0007600	only rudimentary sensory axon branching	sensory perception	Esthesia	C0036658
+13194	13201	GO:0005819	spindle	spindle	Spindle	C1166795
+13203	13237	GO:0009790	in tauews-pea3/+ isl1cre/+ embryos	embryo development	Embryonic Development	C0013936
+13304	13315	GO:0060384	innervation	innervation	innervation aspect	C1619351
+13320	13339	GO:0010467	expression of genes	gene expression	Gene Expression	C0017262
+13364	13376	GO:0030484	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+13364	13376	GO:0043292	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+13489	13545	GO:0019230	the establishment of proprioceptive afferent projections	proprioception	Proprioception	C0033499
+13576	13630	GO:0007165	precocious expression of the same ets signaling factor	signal transduction	Signal Transduction	C0037083
+13576	13630	GO:0023052	precocious expression of the same ets signaling factor	biological signaling		C3537152
+13787	13820	GO:0043121	neurotrophin-independent survival	neurotrophin binding		C1323315
+13825	13842	GO:0031175	neurite outgrowth	neurite outgrowth		C3158384
+13868	13872	GO:0005623	cell	cell	Cells	C0007634
+13971	13982	GO:0032502	development	development	Biologic Development	C0678723
+14089	14134	GO:0000988	precocious ets transcription factor signaling	transcription factor activity		C1148759
+14089	14134	GO:0001070	precocious ets transcription factor signaling	transcription factor activity		C1148759
+14089	14134	GO:0001071	precocious ets transcription factor signaling	transcription factor activity		C1148759
+14089	14134	GO:0003700	precocious ets transcription factor signaling	transcription factor activity		C1148759
+14146	14163	GO:0043524	neuronal survival	neuron survival		C1819944
+14177	14194	GO:0031175	neurite outgrowth	neurite outgrowth		C3158384
+14366	14420	GO:0009790	tauews-pea3/+ isl1cre/+ embryos in the presence of ngf	embryo development	Embryonic Development	C0013936
+14429	14463	GO:0043121	or in the absence of neurotrophins	neurotrophin binding		C1323315
+14468	14494	GO:0043524	analyzed neuronal survival	neuron survival		C1819944
+14499	14516	GO:0031175	neurite outgrowth	neurite outgrowth		C3158384
+14706	14730	GO:0043524	led to neuronal survival	neuron survival		C1819944
+14735	14752	GO:0031175	neurite outgrowth	neurite outgrowth		C3158384
+14855	14872	GO:0031175	neurite outgrowth	neurite outgrowth		C3158384
+14947	14984	GO:0019230	survival of proprioceptive afferents,	proprioception	Proprioception	C0033499
+15015	15032	GO:0031175	neurite outgrowth	neurite outgrowth		C3158384
+15100	15145	GO:0009790	isolated from tauews-pea3/+ isl1cre/+ embryos	embryo development	Embryonic Development	C0013936
+15262	15269	GO:0043005	neurite	neurite	Neurites	C0085103
+15307	15324	GO:0031175	neurite outgrowth	neurite outgrowth		C3158384
+15329	15346	GO:0043524	neuronal survival	neuron survival		C1819944
+15450	15488	GO:0043121	neurotrophin dependence of drg neurons	neurotrophin binding		C1323315
+15723	15767	GO:0019230	restricted to pv+ proprioceptive drg neurons	proprioception	Proprioception	C0033499
+16090	16097	GO:0043005	neurite	neurite	Neurites	C0085103
+16240	16283	GO:0007165	not isochronic ets signaling in drg neurons	signal transduction	Signal Transduction	C0037083
+16240	16283	GO:0023052	not isochronic ets signaling in drg neurons	biological signaling		C3537152
+16322	16339	GO:0031175	neurite outgrowth	neurite outgrowth		C3158384
+16359	16375	GO:0043121	for neurotrophin	neurotrophin binding		C1323315
+16376	16385	GO:0007165	signaling	signal transduction	Signal Transduction	C0037083
+16376	16385	GO:0023052	signaling	biological signaling		C3537152
+16444	16476	GO:0043524	neuronal survival of drg neurons	neuron survival		C1819944
+16477	16552	GO:0009790	from tauews-pea3/+ isl1cre/+ embryos in the absence of neurotrophic support	embryo development	Embryonic Development	C0013936
+16653	16681	GO:0007567	in the proapoptotic gene bax	parturition	Birth	C0005615
+16653	16681	GO:0000003	in the proapoptotic gene bax	reproduction	Reproduction	C0035150
+16798	16815	GO:0031175	neurite outgrowth	neurite outgrowth		C3158384
+16862	16865	GO:0007601	see	vision	Vision	C0042789
+16901	16937	GO:0009790	from tauews-pea3/+ isl1cre/+ embryos	embryo development	Embryonic Development	C0013936
+16987	16990	GO:0007601	see	vision	Vision	C0042789
+16987	16990	GO:0007601	see	vision	Vision	C0042789
+17150	17193	GO:0043121	neurotrophin-independent neuronal survival,	neurotrophin binding		C1323315
+17261	17278	GO:0031175	neurite outgrowth	neurite outgrowth		C3158384
+17346	17400	GO:0038179	step of the neurotrophin signaling cascade drg neurons	neurotrophin signaling pathway	Neurotrophin Signaling Pathway	C2984256
+17401	17437	GO:0009790	from tauews-pea3/+ isl1cre/+ embryos	embryo development	Embryonic Development	C0013936
+17445	17491	GO:0043121	unresponsive to the addition of neurotrophins,	neurotrophin binding		C1323315
+17503	17543	GO:0043121	the expression of neurotrophin receptors	neurotrophin binding		C1323315
+17544	17578	GO:0009790	in tauews-pea3/+ isl1cre/+ embryos	embryo development	Embryonic Development	C0013936
+17599	17645	GO:0043121	expression of the neurotrophin receptors trka,	neurotrophin binding		C1323315
+17667	17707	GO:0007600	afferents of distinct sensory modalities	sensory perception	Esthesia	C0036658
+17708	17735	GO:0009790	in drg of wild-type embryos	embryo development	Embryonic Development	C0013936
+17759	17790	GO:0009790	tauews-pea3/+ isl1cre/+ embryos	embryo development	Embryonic Development	C0013936
+17933	17974	GO:0009790	in drg of tauews-pea3/+ isl1cre/+ embryos	embryo development	Embryonic Development	C0013936
+18167	18201	GO:0009790	in tauews-pea3/+ isl1cre/+ embryos	embryo development	Embryonic Development	C0013936
+18242	18252	GO:0008219	cell death	cell death	Cell Death	C0007587
+18318	18327	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+18318	18327	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+18366	18378	GO:0009790	= 3 embryos,	embryo development	Embryonic Development	C0013936
+18404	18445	GO:0009790	in drg of tauews-pea3/+ isl1cre/+ embryos	embryo development	Embryonic Development	C0013936
+18545	18593	GO:0009790	in lumbar drg of tauews-pea3/+ isl1cre/+ embryos	embryo development	Embryonic Development	C0013936
+18758	18809	GO:0009790	that drg neurons in tauews-pea3/+ isl1cre/+ embryos	embryo development	Embryonic Development	C0013936
+18822	18832	GO:0007049	cell cycle	cell cycle	Cell Cycle	C0007586
+18822	18836	GO:0000278	the cell cycle	mitotic cell cycle	Mitotic Cell Cycle	C1155839
+18849	18853	GO:0005623	cell	cell	Cells	C0007634
+18858	18870	GO:0009790	= 3 embryos,	embryo development	Embryonic Development	C0013936
+18992	19045	GO:0009790	that drg neurons from tauews-pea3/+ isl1cre/+ embryos	embryo development	Embryonic Development	C0013936
+19085	19097	GO:0002524	sensitive to	hypersensitivity	Hypersensitivity	C0020517
+19118	19128	GO:0008219	cell death	cell death	Cell Death	C0007587
+19226	19263	GO:0043687	changes in the expression of proteins	post-translational protein modification	Post-Translational Protein Processing	C0033666
+19226	19263	GO:0006464	changes in the expression of proteins	protein modification process		C2263112
+19226	19263	GO:0036211	changes in the expression of proteins	protein modification process		C2263112
+19276	19323	GO:0050789	involved in the regulation of neuronal survival	regulation of biological process	Regulation of biological process	C1327622
+19327	19337	GO:0008219	cell death	cell death	Cell Death	C0007587
+19347	19398	GO:0009790	detected in drg of tauews-pea3/+ isl1cre/+ embryos.	embryo development	Embryonic Development	C0013936
+19547	19582	GO:0043524	key regulators of neuronal survival	neuron survival		C1819944
+19715	19784	GO:0043066	the expression level of the anti-apoptotic bcl2 family members bcl-xl	negative regulation of apoptosis	Negative Regulation of Apoptosis	C1512772
+19954	20037	GO:0043524	a potential molecular explanation for the enhanced neuronal survival of drg neurons	neuron survival		C1819944
+20038	20114	GO:0009790	of tauews-pea3/+ isl1cre/+ embryos in the absence of trk receptor expression	embryo development	Embryonic Development	C0013936
+20142	20185	GO:0007165	not isochronic ets signaling in drg neurons	signal transduction	Signal Transduction	C0037083
+20142	20185	GO:0023052	not isochronic ets signaling in drg neurons	biological signaling		C3537152
+20229	20274	GO:0043524	the observed differences in neuronal survival	neuron survival		C1819944
+20279	20296	GO:0031175	neurite outgrowth	neurite outgrowth		C3158384
+20410	20425	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+20523	20555	GO:0007600	initiated in drg sensory neurons	sensory perception	Esthesia	C0036658
+20675	20717	GO:0007567	be due to the different genetic strategies	parturition	Birth	C0005615
+20675	20717	GO:0000003	be due to the different genetic strategies	reproduction	Reproduction	C0035150
+20750	20777	GO:0019230	in proprioceptive afferents	proprioception	Proprioception	C0033499
+20845	20875	GO:0009790	tauews-pea3/+ pvcre/+ embryos.	embryo development	Embryonic Development	C0013936
+20915	20921	GO:0007567	a gene	parturition	Birth	C0005615
+20915	20921	GO:0000003	a gene	reproduction	Reproduction	C0035150
+20922	20985	GO:0009790	downregulated in drg neurons of tauews-pea3/+ isl1cre/+ embryos	embryo development	Embryonic Development	C0013936
+21112	21141	GO:0009790	tauews-pea3/+ pvcre/+ embryos	embryo development	Embryonic Development	C0013936
+21188	21247	GO:0009790	expressed in drg neurons of tauews-pea3/+ isl1cre/+ embryos	embryo development	Embryonic Development	C0013936
+21268	21305	GO:0019230	expressed by proprioceptive afferents	proprioception	Proprioception	C0033499
+21328	21350	GO:0009790	er81ews-pea3/- embryos	embryo development	Embryonic Development	C0013936
+21352	21355	GO:0007601	see	vision	Vision	C0042789
+21394	21407	GO:0007567	several genes	parturition	Birth	C0005615
+21394	21407	GO:0000003	several genes	reproduction	Reproduction	C0035150
+21430	21491	GO:0009790	upregulated in drg neurons of tauews-pea3/+ isl1cre/+ embryos	embryo development	Embryonic Development	C0013936
+21552	21559	GO:0005488	binding	binding	Binding 	C1167622
+21646	21675	GO:0009790	tauews-pea3/+ pvcre/+ embryos	embryo development	Embryonic Development	C0013936
+21746	21808	GO:0009790	than 95% of all drg neurons of tauews-pea3/+ isl1cre/+ embryos	embryo development	Embryonic Development	C0013936
+21853	21904	GO:0009790	that drg neurons in tauews-pea3/+ isl1cre/+ embryos	embryo development	Embryonic Development	C0013936
+22119	22123	GO:0005623	cell	cell	Cells	C0007634
+22442	22481	GO:0006310	recombination in tauews-pea3/+ hb9cre/+	DNA recombination	Recombination, Genetic	C0034865
+22486	22512	GO:0009790	taumgfp/+ hb9cre/+ embryos	embryo development	Embryonic Development	C0013936
+22658	22681	GO:0006310	undergone recombination	DNA recombination	Recombination, Genetic	C0034865
+22696	22734	GO:0009790	observed in taumgfp/+ hb9cre/+ embryos	embryo development	Embryonic Development	C0013936
+22832	22835	GO:0007601	see	vision	Vision	C0042789
+22971	22975	GO:0005623	cell	cell	Cells	C0007634
+23039	23057	GO:0043524	neuronal survival,	neuron survival		C1819944
+23062	23079	GO:0031175	neurite outgrowth	neurite outgrowth		C3158384
+23136	23229	GO:0000988	a conserved role in the induction of defined programs of transcription factor expression late	transcription factor activity		C1148759
+23136	23229	GO:0001070	a conserved role in the induction of defined programs of transcription factor expression late	transcription factor activity		C1148759
+23136	23229	GO:0001071	a conserved role in the induction of defined programs of transcription factor expression late	transcription factor activity		C1148759
+23136	23229	GO:0003700	a conserved role in the induction of defined programs of transcription factor expression late	transcription factor activity		C1148759
+23230	23270	GO:0030182	in post-mitotic neuronal differentiation	neuron differentiation		C1159970
+23230	23270	GO:0022008	in post-mitotic neuronal differentiation	neural cell differentiation		C2755962
+23311	23360	GO:0000988	the late onset of transcription factor expression	transcription factor activity		C1148759
+23311	23360	GO:0001070	the late onset of transcription factor expression	transcription factor activity		C1148759
+23311	23360	GO:0001071	the late onset of transcription factor expression	transcription factor activity		C1148759
+23311	23360	GO:0003700	the late onset of transcription factor expression	transcription factor activity		C1148759
+23364	23424	GO:0030154	essential for many later aspects of neuronal differentiation	cell differentiation	Cell Differentiation process	C0007589
+23429	23447	GO:0009058	circuit formation.	anabolism	Anabolism	C0220781
+23532	23578	GO:0000988	respond to ets transcription factor signaling,	transcription factor activity		C1148759
+23532	23578	GO:0001070	respond to ets transcription factor signaling,	transcription factor activity		C1148759
+23532	23578	GO:0001071	respond to ets transcription factor signaling,	transcription factor activity		C1148759
+23532	23578	GO:0003700	respond to ets transcription factor signaling,	transcription factor activity		C1148759
+23605	23620	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+23625	23629	GO:0030424	axon	axon	Axon	C0004461
+23753	23804	GO:0000988	upregulation of ets transcription factor signaling.	transcription factor activity		C1148759
+23753	23804	GO:0001070	upregulation of ets transcription factor signaling.	transcription factor activity		C1148759
+23753	23804	GO:0001071	upregulation of ets transcription factor signaling.	transcription factor activity		C1148759
+23753	23804	GO:0003700	upregulation of ets transcription factor signaling.	transcription factor activity		C1148759
+23874	23887	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+23956	23967	GO:0032502	development	development	Biologic Development	C0678723
+23988	24034	GO:0042551	an important mechanism of neuronal maturation.	neuron maturation		C1623343
+24078	24120	GO:0007165	that precocious induction of ets signaling	signal transduction	Signal Transduction	C0037083
+24078	24120	GO:0023052	that precocious induction of ets signaling	biological signaling		C3537152
+24130	24169	GO:0043524	neuronal survival without a requirement	neuron survival		C1819944
+24260	24320	GO:0007165	ets signaling at the normal time of onset of er81 expression	signal transduction	Signal Transduction	C0037083
+24260	24320	GO:0023052	ets signaling at the normal time of onset of er81 expression	biological signaling		C3537152
+24330	24366	GO:0043524	result in enhanced neuronal survival	neuron survival		C1819944
+24367	24398	GO:0043121	in the absence of neurotrophins	neurotrophin binding		C1323315
+24459	24487	GO:0019230	in proprioceptive afferents.	proprioception	Proprioception	C0033499
+24515	24572	GO:0030528	very distinct activities of one transcriptional regulator	transcription regulator activity		C1152944
+24515	24572	GO:0006351	very distinct activities of one transcriptional regulator	transcription regulator activity		C1152944
+24586	24597	GO:0032502	development	development	Biologic Development	C0678723
+24695	24737	GO:0007165	upon precocious induction of ets signaling	signal transduction	Signal Transduction	C0037083
+24695	24737	GO:0023052	upon precocious induction of ets signaling	biological signaling		C3537152
+24791	24795	GO:0030424	axon	axon	Axon	C0004461
+24811	24849	GO:0007588	elimination of trka receptor signaling	excretion	Excretory function	C0221102
+25023	25056	GO:0007165	in the absence of nt-3 signaling,	signal transduction	Signal Transduction	C0037083
+25023	25056	GO:0023052	in the absence of nt-3 signaling,	biological signaling		C3537152
+25057	25068	GO:0032502	development	development	Biologic Development	C0678723
+25091	25137	GO:0019230	peripheral proprioceptive afferent projections	proprioception	Proprioception	C0033499
+25169	25212	GO:0007165	upon precocious induction of ets signaling,	signal transduction	Signal Transduction	C0037083
+25169	25212	GO:0023052	upon precocious induction of ets signaling,	biological signaling		C3537152
+25290	25333	GO:0043005	peripheral projections for all drg neurons.	neurite	Neurites	C0085103
+25364	25391	GO:0019230	in proprioceptive afferents	proprioception	Proprioception	C0033499
+25428	25432	GO:0030424	axon	axon	Axon	C0004461
+25488	25539	GO:0019230	only approximately 3 d after proprioceptive neurons	proprioception	Proprioception	C0033499
+25596	25675	GO:0000988	target-induced upregulation of ets transcription factor expression several days	transcription factor activity		C1148759
+25596	25675	GO:0001070	target-induced upregulation of ets transcription factor expression several days	transcription factor activity		C1148759
+25596	25675	GO:0001071	target-induced upregulation of ets transcription factor expression several days	transcription factor activity		C1148759
+25596	25675	GO:0003700	target-induced upregulation of ets transcription factor expression several days	transcription factor activity		C1148759
+25745	25779	GO:0007600	restricted to drg sensory neurons,	sensory perception	Esthesia	C0036658
+25864	25934	GO:0032502	implicated in controlling neuronal maturation of predetermined neurons	development	Biologic Development	C0678723
+26023	26083	GO:0031128	essential for the induction of mature peptidergic properties	developmental induction		C2756047
+26161	26174	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+26333	26346	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+26358	26399	GO:0042551	involved in terminal neuronal maturation.	neuron maturation		C1623343
+26471	26502	GO:0032502	their mature fate by sequential	development	Biologic Development	C0678723
+26657	26668	GO:0032502	development	development	Biologic Development	C0678723
+26878	26891	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+26938	26951	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+26961	27002	GO:0005694	mechanisms such as chromosomal remodeling	chromosome	Chromosomes	C0008633
+27027	27057	GO:0007567	access to certain target genes	parturition	Birth	C0005615
+27027	27057	GO:0000003	access to certain target genes	reproduction	Reproduction	C0035150
+27115	27161	GO:0000988	the action of particular transcription factors	transcription factor activity		C1148759
+27115	27161	GO:0001070	the action of particular transcription factors	transcription factor activity		C1148759
+27115	27161	GO:0001071	the action of particular transcription factors	transcription factor activity		C1148759
+27115	27161	GO:0003700	the action of particular transcription factors	transcription factor activity		C1148759
+27227	27240	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+27331	27364	GO:0010468	control of distinct target genes.	regulation of gene expression	Gene Expression Regulation	C0017263
+27380	27413	GO:0000988	several ets transcription factors	transcription factor activity		C1148759
+27380	27413	GO:0001070	several ets transcription factors	transcription factor activity		C1148759
+27380	27413	GO:0001071	several ets transcription factors	transcription factor activity		C1148759
+27380	27413	GO:0003700	several ets transcription factors	transcription factor activity		C1148759
+27493	27536	GO:0043687	and/or via post-translational modifications	post-translational protein modification	Post-Translational Protein Processing	C0033666
+27712	27750	GO:0002524	less sensitive to the cellular context	hypersensitivity	Hypersensitivity	C0020517
+27751	27793	GO:0000988	than endogenous ets transcription factors.	transcription factor activity		C1148759
+27751	27793	GO:0001070	than endogenous ets transcription factors.	transcription factor activity		C1148759
+27751	27793	GO:0001071	than endogenous ets transcription factors.	transcription factor activity		C1148759
+27751	27793	GO:0003700	than endogenous ets transcription factors.	transcription factor activity		C1148759
+27849	27897	GO:0007165	a profound change in the action of ets signaling	signal transduction	Signal Transduction	C0037083
+27849	27897	GO:0023052	a profound change in the action of ets signaling	biological signaling		C3537152
+27898	27940	GO:0006355	at the level of transcriptional regulation	transcriptional control	Transcriptional Regulation	C1158770
+28007	28020	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+28049	28130	GO:0050789	paired with the onset of appropriate regulation of neuronal subtype specification	regulation of biological process	Regulation of biological process	C1327622
+28152	28156	GO:0030424	axon	axon	Axon	C0004461
+28224	28279	GO:0000988	the temporal constraints of transcription factor action	transcription factor activity		C1148759
+28224	28279	GO:0001070	the temporal constraints of transcription factor action	transcription factor activity		C1148759
+28224	28279	GO:0001071	the temporal constraints of transcription factor action	transcription factor activity		C1148759
+28224	28279	GO:0003700	the temporal constraints of transcription factor action	transcription factor activity		C1148759
+28315	28319	GO:0005623	cell	cell	Cells	C0007634
+28369	28403	GO:0000988	during which transcription factors	transcription factor activity		C1148759
+28369	28403	GO:0001070	during which transcription factors	transcription factor activity		C1148759
+28369	28403	GO:0001071	during which transcription factors	transcription factor activity		C1148759
+28369	28403	GO:0003700	during which transcription factors	transcription factor activity		C1148759
+28419	28452	GO:0007567	distinct downstream target genes,	parturition	Birth	C0005615
+28419	28452	GO:0000003	distinct downstream target genes,	reproduction	Reproduction	C0035150
+28546	28580	GO:0000988	the transcription factor hunchback	transcription factor activity		C1148759
+28546	28580	GO:0001070	the transcription factor hunchback	transcription factor activity		C1148759
+28546	28580	GO:0001071	the transcription factor hunchback	transcription factor activity		C1148759
+28546	28580	GO:0003700	the transcription factor hunchback	transcription factor activity		C1148759
+28608	28649	GO:0007567	differentiation of early-born neuroblasts	parturition	Birth	C0005615
+28736	28740	GO:0005623	cell	cell	Cells	C0007634
+28848	28852	GO:0005623	cell	cell	Cells	C0007634
+28871	28913	GO:0000988	respond to a specific transcription factor	transcription factor activity		C1148759
+28871	28913	GO:0001070	respond to a specific transcription factor	transcription factor activity		C1148759
+28871	28913	GO:0001071	respond to a specific transcription factor	transcription factor activity		C1148759
+28871	28913	GO:0003700	respond to a specific transcription factor	transcription factor activity		C1148759
+28978	29031	GO:0030154	during the differentiation of hematopoietic lineages,	cell differentiation	Cell Differentiation process	C0007589
+29032	29061	GO:0000988	several transcription factors	transcription factor activity		C1148759
+29032	29061	GO:0001070	several transcription factors	transcription factor activity		C1148759
+29032	29061	GO:0001071	several transcription factors	transcription factor activity		C1148759
+29032	29061	GO:0003700	several transcription factors	transcription factor activity		C1148759
+29192	29230	GO:0000988	by which transcription factor programs	transcription factor activity		C1148759
+29192	29230	GO:0001070	by which transcription factor programs	transcription factor activity		C1148759
+29192	29230	GO:0001071	by which transcription factor programs	transcription factor activity		C1148759
+29192	29230	GO:0003700	by which transcription factor programs	transcription factor activity		C1148759
+29267	29308	GO:0007567	different complements of downstream genes	parturition	Birth	C0005615
+29267	29308	GO:0000003	different complements of downstream genes	reproduction	Reproduction	C0035150
+29352	29356	GO:0005623	cell	cell	Cells	C0007634
+29452	29482	GO:0000988	in which transcription factors	transcription factor activity		C1148759
+29452	29482	GO:0001070	in which transcription factors	transcription factor activity		C1148759
+29452	29482	GO:0001071	in which transcription factors	transcription factor activity		C1148759
+29452	29482	GO:0003700	in which transcription factors	transcription factor activity		C1148759
+29885	29918	GO:0006310	used for homologous recombination	DNA recombination	Recombination, Genetic	C0034865
+29929	29933	GO:0005623	cell	cell	Cells	C0007634
+29956	30003	GO:0007567	a fusion gene between the amino terminal of ews	parturition	Birth	C0005615
+29956	30003	GO:0000003	a fusion gene between the amino terminal of ews	reproduction	Reproduction	C0035150
+30511	30515	GO:0005623	cell	cell	Cells	C0007634
+30632	30658	GO:0006310	frequency of recombination	DNA recombination	Recombination, Genetic	C0034865
+30673	30677	GO:0005623	cell	cell	Cells	C0007634
+30940	30943	GO:0007601	see	vision	Vision	C0042789
+31038	31042	GO:0005623	cell	cell	Cells	C0007634
+31192	31222	GO:0006310	the frequency of recombination	DNA recombination	Recombination, Genetic	C0034865
+31237	31241	GO:0005623	cell	cell	Cells	C0007634
+31291	31327	GO:0009790	aggregated with morula stage embryos	embryo development	Embryonic Development	C0013936
+31451	31483	GO:0007567	were of mixed genetic background	parturition	Birth	C0005615
+31451	31483	GO:0000003	were of mixed genetic background	reproduction	Reproduction	C0035150
+31626	31657	GO:0009790	with early embryonic expression	embryo development	Embryonic Development	C0013936
+31822	31839	GO:0007565	timed pregnancies	gestation	Pregnancy	C0032961
+31864	31905	GO:0009790	embryos of different developmental stages	embryo development	Embryonic Development	C0013936
+31958	31989	GO:2000144	transcriptional transactivation	transcriptional transactivation		C3157292
+32035	32066	GO:2000144	transcriptional transactivation	transcriptional transactivation		C3157292
+32428	32435	GO:0005488	binding	binding	Binding 	C1167622
+32587	32594	GO:0005488	binding	binding	Binding 	C1167622
+32735	32739	GO:0005623	cell	cell	Cells	C0007634
+32772	32775	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+32945	32949	GO:0005623	cell	cell	Cells	C0007634
+33389	33399	GO:0042571	antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+33985	33998	GO:0005883	neurofilament	neurofilament	Neurofilaments	C0027834
+34086	34098	GO:0009058	(biogenesis,	anabolism	Anabolism	C0220781
+34319	34347	GO:0097194	apoptotic cells in e13.5 drg	apoptosis	Apoptosis	C0162638
+34319	34347	GO:0006915	apoptotic cells in e13.5 drg	apoptosis	Apoptosis	C0162638
+34481	34485	GO:0005623	cell	cell	Cells	C0007634
+34685	34716	GO:0007600	projections of sensory neurons,	sensory perception	Esthesia	C0036658
+34717	34745	GO:0000746	rhodamine-conjugated dextran	conjugation		C1160466
+35067	35110	GO:0000746	fluorophore-conjugated secondary antibodies	conjugation		C1160466
+35554	35567	GO:0009790	e14.5 embryos	embryo development	Embryonic Development	C0013936
+35814	35836	GO:0043121	without neurotrophins,	neurotrophin binding		C1323315
+36080	36109	GO:0009790	lumbar drg from e16.5 embryos	embryo development	Embryonic Development	C0013936
+36192	36222	GO:0019835	lysed in standard lysis buffer	cytolysis	pathologic cytolysis	C1536403
+36254	36289	GO:0016791	phosphatase inhibitors as described	phosphoric monoester hydrolase activity		C1149880
+36379	36402	GO:0042571	antibodies against akt,	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+36454	36481	GO:0007165	(cell signaling technology,	signal transduction	Signal Transduction	C0037083
+36892	36957	GO:0005622	intracellular recordings from identified quadriceps motor neurons	protoplasm	Protoplasm	C0175996
+37183	37209	GO:0060291	acquired with ltp software	long-term potentiation	Long-Term Potentiation	C0206249
+37221	37225	GO:0005623	cell	cell	Cells	C0007634
+37530	37545	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+37947	37960	GO:0009790	m-p) embryos.	embryo development	Embryonic Development	C0013936
+38106	38133	GO:0019230	ia proprioceptive afferents	proprioception	Proprioception	C0033499
+38213	38267	GO:0005622	b) representative traces from intracellular recordings	protoplasm	Protoplasm	C0175996
+38542	38546	GO:0005623	cell	cell	Cells	C0007634
+38802	38838	GO:0006310	targeted by homologous recombination	DNA recombination	Recombination, Genetic	C0034865
+38814	38838	GO:0006310	homologous recombination	DNA recombination	Recombination, Genetic	C0034865
+39073	39113	GO:0006310	tau locus after homologous recombination	DNA recombination	Recombination, Genetic	C0034865
+39155	39194	GO:0007588	into exon 2 with coincident elimination	excretion	Excretory function	C0221102
+39227	39261	GO:0015074	the integrated targeting cassettes	DNA integration	DNA Integration	C1158478
+39444	39457	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+39729	39742	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+40206	40214	GO:0009790	embryos.	embryo development	Embryonic Development	C0013936
+40571	40606	GO:0006310	screen for homologous recombination	DNA recombination	Recombination, Genetic	C0034865
+40666	40724	GO:0015074	the pv locus after the integration of an ires-cre cassette	DNA integration	DNA Integration	C1158478
+40736	40773	GO:0006412	to the translational stop codon of pv	protein biosynthesis	Protein Biosynthesis	C0597295
+40780	40817	GO:0006310	homologous recombination in es cells.	DNA recombination	Recombination, Genetic	C0034865
+41208	41223	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+41460	41471	GO:0009790	f) embryos.	embryo development	Embryonic Development	C0013936
+42032	42074	GO:0042571	ina kramer for providing runx3 antibodies,	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+42160	42202	GO:0007567	fruitful discussions on ets gene function,	parturition	Birth	C0005615
+42160	42202	GO:0000003	fruitful discussions on ets gene function,	reproduction	Reproduction	C0035150
+42680	42697	GO:0009790	e - embryonic day	embryo development	Embryonic Development	C0013936
+42727	42735	GO:0016020	membrane	membrane	Membrane	C0596901
+42772	42793	GO:0043121	nt-3 - neurotrophin 3	neurotrophin binding		C1323315
+43054	43090	GO:0006310	targeted by homologous recombination	DNA recombination	Recombination, Genetic	C0034865
+43066	43090	GO:0006310	homologous recombination	DNA recombination	Recombination, Genetic	C0034865
+43311	43358	GO:0015074	by ews-pea3 through the integration of ews-pea3	DNA integration	DNA Integration	C1158478
+43893	43901	GO:0009790	embryos.	embryo development	Embryonic Development	C0013936
+44080	44092	GO:0009790	(h) embryos.	embryo development	Embryonic Development	C0013936
+44155	44186	GO:2000144	transcriptional transactivation	transcriptional transactivation		C3157292
+44212	44293	GO:0003677	from a minimal reporter construct containing five consensus ets dna-binding sites	DNA binding	dna binding	C1148673
+44437	44465	GO:0045289	relative luciferase activity	luciferin monooxygenase activity		C1151115
+44526	44574	GO:0019230	rescue of ia proprioceptive afferent projections	proprioception	Proprioception	C0033499
+44728	44804	GO:0007600	all drg sensory afferents after application of fluorescently labeled dextran	sensory perception	Esthesia	C0036658
+45204	45300	GO:0019230	schematic summary diagrams of the morphological rescue of ia proprioceptive afferent projections	proprioception	Proprioception	C0033499
+45545	45605	GO:0007600	defects in the establishment of sensory afferent projections	sensory perception	Esthesia	C0036658
+45670	45720	GO:0007600	g-i) visualization of sensory afferent projections	sensory perception	Esthesia	C0036658
+45797	45819	GO:0009790	(g-i) embryos at e13.5	embryo development	Embryonic Development	C0013936
+46102	46144	GO:0007600	aberrant accumulation of sensory afferents	sensory perception	Esthesia	C0036658
+46184	46219	GO:0009790	in tauews-pea3/+ isl1cre/+ embryos.	embryo development	Embryonic Development	C0013936
+46235	46275	GO:0007600	analysis of sensory afferent projections	sensory perception	Esthesia	C0036658
+46411	46427	GO:0009790	embryos at e16.5	embryo development	Embryonic Development	C0013936
+46568	46580	GO:0030484	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+46568	46580	GO:0043292	muscle fiber	muscle fiber	Muscle Fibers	C0242697
+46658	46719	GO:0007600	(m-q) analysis of bifurcation of sensory afferent projections	sensory perception	Esthesia	C0036658
+46802	46861	GO:0009790	q) embryos after injection of fluorescently labeled dextran	embryo development	Embryonic Development	C0013936
+47072	47076	GO:0030424	axon	axon	Axon	C0004461
+47243	47285	GO:0043121	neurotrophin-independent neurite outgrowth	neurotrophin binding		C1323315
+47451	47461	GO:0009790	i) embryos	embryo development	Embryonic Development	C0013936
+47616	47629	GO:0005883	neurofilament	neurofilament	Neurofilaments	C0027834
+47643	47661	GO:0048675	axonal extensions.	axon extension		C1656935
+47741	47764	GO:0043121	depend on neurotrophins	neurotrophin binding		C1323315
+47865	47872	GO:0009790	embryos	embryo development	Embryonic Development	C0013936
+47998	48011	GO:0005883	neurofilament	neurofilament	Neurofilaments	C0027834
+48048	48065	GO:0048675	axonal extensions	axon extension		C1656935
+48096	48121	GO:0019230	proprioceptive afferents.	proprioception	Proprioception	C0033499
+48190	48223	GO:0043524	increased survival in drg neurons	neuron survival		C1819944
+48224	48253	GO:0007165	upon precocious ets signaling	signal transduction	Signal Transduction	C0037083
+48224	48253	GO:0023052	upon precocious ets signaling	biological signaling		C3537152
+48432	48446	GO:0009790	(g-i) embryos.	embryo development	Embryonic Development	C0013936
+48575	48586	GO:0009790	embryos for	embryo development	Embryonic Development	C0013936
+48591	48619	GO:0070997	neuronal cell death at e13.5	neuron death		C2754100
+48651	48655	GO:0005623	cell	cell	Cells	C0007634
+48898	48936	GO:0097194	of the mean number of apoptotic events	apoptosis	Apoptosis	C0162638
+48898	48936	GO:0006915	of the mean number of apoptotic events	apoptosis	Apoptosis	C0162638
+48986	49006	GO:0043524	neuronal survival in	neuron survival		C1819944
+49232	49239	GO:0009790	embryos	embryo development	Embryonic Development	C0013936
+49246	49270	GO:0042571	the following antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+49340	49383	GO:0004375	(p) quantitative analysis of protein levels	glycine dehydrogenase	decarboxylating	C1151818
+49576	49591	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+49633	49657	GO:0007165	isochronic ets signaling	signal transduction	Signal Transduction	C0037083
+49633	49657	GO:0023052	isochronic ets signaling	biological signaling		C3537152
+49942	49953	GO:0009790	h) embryos.	embryo development	Embryonic Development	C0013936
+50206	50216	GO:0007049	cell cycle	cell cycle	Cell Cycle	C0007586
+50206	50222	GO:0000278	cell cycle exit,	mitotic cell cycle	Mitotic Cell Cycle	C1155839
+50576	50600	GO:0007165	precocious ets signaling	signal transduction	Signal Transduction	C0037083
+50576	50600	GO:0023052	precocious ets signaling	biological signaling		C3537152
+50609	50624	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+50633	50637	GO:0005623	cell	cell	Cells	C0007634
+50825	50833	GO:0009790	embryos.	embryo development	Embryonic Development	C0013936
+50825	50833	GO:0009790	embryos.	embryo development	Embryonic Development	C0013936
+51163	51174	GO:0032502	development	development	Biologic Development	C0678723
+51183	51232	GO:0000988	in response to ets transcription factor signaling	transcription factor activity		C1148759
+51183	51232	GO:0001070	in response to ets transcription factor signaling	transcription factor activity		C1148759
+51183	51232	GO:0001071	in response to ets transcription factor signaling	transcription factor activity		C1148759
+51183	51232	GO:0003700	in response to ets transcription factor signaling	transcription factor activity		C1148759
+51273	51361	GO:0000988	the importance of temporally appropriate upregulation of transcription factor expression	transcription factor activity		C1148759
+51273	51361	GO:0001070	the importance of temporally appropriate upregulation of transcription factor expression	transcription factor activity		C1148759
+51273	51361	GO:0001071	the importance of temporally appropriate upregulation of transcription factor expression	transcription factor activity		C1148759
+51273	51361	GO:0003700	the importance of temporally appropriate upregulation of transcription factor expression	transcription factor activity		C1148759
+51398	51442	GO:0030182	for late aspects of neuronal differentiation	neuron differentiation		C1159970
+51398	51442	GO:0022008	for late aspects of neuronal differentiation	neural cell differentiation		C2755962
+51654	51690	GO:0019230	observed in proprioceptive afferents	proprioception	Proprioception	C0033499
+51719	51743	GO:0007165	precocious ets signaling	signal transduction	Signal Transduction	C0037083
+51719	51743	GO:0023052	precocious ets signaling	biological signaling		C3537152
+51768	51816	GO:0043005	in the establishment of drg neuronal projections	neurite	Neurites	C0085103
+51846	51861	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+51940	51964	GO:0007165	precocious ets signaling	signal transduction	Signal Transduction	C0037083
+51940	51964	GO:0023052	precocious ets signaling	biological signaling		C3537152
+51971	52037	GO:0019230	during progressive specification of proprioceptive sensory neurons	proprioception	Proprioception	C0033499
+52038	52080	GO:0030182	leads to aberrant neuronal differentiation	neuron differentiation		C1159970
+52038	52080	GO:0022008	leads to aberrant neuronal differentiation	neural cell differentiation		C2755962
+52171	52214	GO:0000988	onset of ets transcription factor signaling	transcription factor activity		C1148759
+52171	52214	GO:0001070	onset of ets transcription factor signaling	transcription factor activity		C1148759
+52171	52214	GO:0001071	onset of ets transcription factor signaling	transcription factor activity		C1148759
+52171	52214	GO:0003700	onset of ets transcription factor signaling	transcription factor activity		C1148759
+52231	52276	GO:0048468	appropriate terminal neuronal differentiation	terminal differentiation		C2752630
+52538	52549	GO:0032502	development	development	Biologic Development	C0678723
+52590	52628	GO:0000988	to ets transcription factor signaling.	transcription factor activity		C1148759
+52590	52628	GO:0001070	to ets transcription factor signaling.	transcription factor activity		C1148759
+52590	52628	GO:0001071	to ets transcription factor signaling.	transcription factor activity		C1148759
+52590	52628	GO:0003700	to ets transcription factor signaling.	transcription factor activity		C1148759

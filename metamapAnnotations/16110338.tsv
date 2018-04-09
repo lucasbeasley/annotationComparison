@@ -1,0 +1,755 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+47	102	GO:0020010	cone genes in a mouse model of enhanced s-cone syndrome	conoid		C1166649
+122	141	GO:0020010	cone photoreceptors	conoid		C1166649
+151	157	GO:0007601	vision	vision	Vision	C0042789
+286	301	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+405	409	GO:0005623	cell	cell	Cells	C0007634
+461	515	GO:0020010	a model for the human enhanced s-cone syndrome (escs).	conoid		C1166649
+591	638	GO:0000988	an orphan nuclear receptor transcription factor	transcription factor activity		C1148759
+591	638	GO:0001070	an orphan nuclear receptor transcription factor	transcription factor activity		C1148759
+591	638	GO:0001071	an orphan nuclear receptor transcription factor	transcription factor activity		C1148759
+591	638	GO:0003700	an orphan nuclear receptor transcription factor	transcription factor activity		C1148759
+639	655	GO:0020010	mutated in escs.	conoid		C1166649
+805	809	GO:0005623	cell	cell	Cells	C0007634
+847	860	GO:0020010	normal cones.	conoid		C1166649
+961	965	GO:0005623	cell	cell	Cells	C0007634
+1000	1020	GO:0020010	cone-specific genes.	conoid		C1166649
+1034	1074	GO:0007567	in situ hybridization screening of genes	parturition	Birth	C0005615
+1034	1074	GO:0000003	in situ hybridization screening of genes	reproduction	Reproduction	C0035150
+1150	1171	GO:0020010	ten new cone-specific	conoid		C1166649
+1175	1238	GO:0020010	cone-enriched genes with a wide range of biochemical functions,	conoid		C1166649
+1249	1258	GO:0007567	two genes	parturition	Birth	C0005615
+1249	1258	GO:0000003	two genes	reproduction	Reproduction	C0035150
+1272	1312	GO:0005977	involved in glucose/glycogen metabolism.	glycogen metabolic process		C0599784
+1415	1429	GO:0007601	seen in humans	vision	Vision	C0042789
+1430	1439	GO:0020010	with escs	conoid		C1166649
+1521	1525	GO:0005623	cell	cell	Cells	C0007634
+1573	1630	GO:0020010	the functional diversity of the novel cone-specific genes	conoid		C1166649
+1696	1701	GO:0020010	cones	conoid		C1166649
+1765	1771	GO:0007601	vision	vision	Vision	C0042789
+1799	1807	GO:0007601	the eye.	vision	Vision	C0042789
+1880	1902	GO:0007601	the inside of the eye.	vision	Vision	C0042789
+1944	1948	GO:0005623	cell	cell	Cells	C0007634
+2083	2089	GO:0020010	cones.	conoid		C1166649
+2125	2131	GO:0007601	vision	vision	Vision	C0042789
+2137	2154	GO:0020010	cones for daytime	conoid		C1166649
+2159	2172	GO:0000785	color vision.	chromatin	chromatin location	C1325550
+2239	2259	GO:0007567	with a gene mutation	parturition	Birth	C0005615
+2239	2259	GO:0000003	with a gene mutation	reproduction	Reproduction	C0035150
+2373	2405	GO:0020010	enhanced s-cone syndrome (escs).	conoid		C1166649
+2524	2530	GO:0020010	cones.	conoid		C1166649
+2707	2717	GO:0020010	with escs,	conoid		C1166649
+2764	2770	GO:0007601	vision	vision	Vision	C0042789
+2771	2792	GO:0007601	seen in this disease.	vision	Vision	C0042789
+2885	2891	GO:0020010	cones.	conoid		C1166649
+3005	3018	GO:0000785	color vision.	chromatin	chromatin location	C1325550
+3034	3058	GO:0020010	enhanced s-cone syndrome	conoid		C1166649
+3267	3282	GO:1990603	dark adaptation	dark adaptation	Dark Adaptation	C0010985
+3288	3323	GO:0002524	an increased sensitivity of the erg	hypersensitivity	Hypersensitivity	C0020517
+3392	3449	GO:0000988	in the orphan nuclear receptor transcription factor nr2e3	transcription factor activity		C1148759
+3392	3449	GO:0001070	in the orphan nuclear receptor transcription factor nr2e3	transcription factor activity		C1148759
+3392	3449	GO:0001071	in the orphan nuclear receptor transcription factor nr2e3	transcription factor activity		C1148759
+3392	3449	GO:0003700	in the orphan nuclear receptor transcription factor nr2e3	transcription factor activity		C1148759
+3544	3572	GO:0007567	recent human genetic studies	parturition	Birth	C0005615
+3544	3572	GO:0000003	recent human genetic studies	reproduction	Reproduction	C0035150
+3578	3618	GO:0007567	also demonstrated mutations in this gene	parturition	Birth	C0005615
+3578	3618	GO:0000003	also demonstrated mutations in this gene	reproduction	Reproduction	C0035150
+3650	3703	GO:0043473	many cases of clumped pigmentary retinal degeneration	pigmentation	Pigmentation	C0031911
+3808	3857	GO:0009881	rod photoreceptor system with persistent activity	photoreceptor activity		C1152655
+3858	3880	GO:0036367	under light adaptation	light adaption		C3549167
+3991	4010	GO:0020010	cone photoreceptors	conoid		C1166649
+4014	4019	GO:0020010	cones	conoid		C1166649
+4200	4204	GO:0005623	cell	cell	Cells	C0007634
+4210	4269	GO:0020010	an increase in the number of s-cone opsin-expressing cells.	conoid		C1166649
+4284	4312	GO:0020010	the overall density of cones	conoid		C1166649
+4436	4483	GO:0036367	contribute to the very large, light-adapted erg	light adaption		C3549167
+4484	4505	GO:0007601	seen in this disease.	vision	Vision	C0042789
+4563	4604	GO:0009058	dysmorphic retinas with rosette formation	anabolism	Anabolism	C0220781
+4605	4669	GO:0044297	in the outer nuclear layer (onl) where photoreceptor cell bodies	cell body		C2752549
+4976	4998	GO:0009058	with rosette formation	anabolism	Anabolism	C0220781
+5061	5076	GO:1990603	dark adaptation	dark adaptation	Dark Adaptation	C0010985
+5183	5187	GO:0005623	cell	cell	Cells	C0007634
+5275	5279	GO:0005623	cell	cell	Cells	C0007634
+5351	5406	GO:0020010	recently reported derepression of additional cone genes	conoid		C1166649
+5704	5708	GO:0005623	cell	cell	Cells	C0007634
+5714	5765	GO:0020010	widespread derepression of many cone-specific genes	conoid		C1166649
+5791	5795	GO:0005623	cell	cell	Cells	C0007634
+5844	5848	GO:0005623	cell	cell	Cells	C0007634
+5873	5901	GO:0020010	cone genes in the rd7 retina	conoid		C1166649
+5937	5941	GO:0005623	cell	cell	Cells	C0007634
+5985	5991	GO:0020010	cones.	conoid		C1166649
+6002	6040	GO:0020010	widespread up-regulation of cone genes	conoid		C1166649
+6418	6445	GO:0007567	contains over 34,000 genes.	parturition	Birth	C0005615
+6418	6445	GO:0000003	contains over 34,000 genes.	reproduction	Reproduction	C0035150
+6564	6576	GO:0007567	a given gene	parturition	Birth	C0005615
+6564	6576	GO:0000003	a given gene	reproduction	Reproduction	C0035150
+6618	6621	GO:0007601	see	vision	Vision	C0042789
+6690	6731	GO:0050789	widespread up-regulation of cone-specific	regulation of biological process	Regulation of biological process	C1327622
+6736	6774	GO:0020010	cone-enriched genes in the rd7 retina,	conoid		C1166649
+6832	6856	GO:0020010	most known cone-specific	conoid		C1166649
+6860	6879	GO:0020010	cone-enriched genes	conoid		C1166649
+6935	6947	GO:0007567	genes g1-g15	parturition	Birth	C0005615
+6935	6947	GO:0000003	genes g1-g15	reproduction	Reproduction	C0035150
+6950	6977	GO:0007567	the majority of these genes	parturition	Birth	C0005615
+6950	6977	GO:0000003	the majority of these genes	reproduction	Reproduction	C0035150
+7006	7023	GO:0007602	phototransduction	phototransduction	Light Signal Transduction	C0376451
+7064	7090	GO:0004528	phosphodiesterase subunits	phosphodiesterase activity		C1753334
+7093	7120	GO:0007567	in addition to these genes,	parturition	Birth	C0005615
+7093	7120	GO:0000003	in addition to these genes,	reproduction	Reproduction	C0035150
+7121	7174	GO:0020010	several novel cone-specific genes of unknown function	conoid		C1166649
+7240	7250	GO:0007567	genes g16,	parturition	Birth	C0005615
+7240	7250	GO:0000003	genes g16,	reproduction	Reproduction	C0035150
+7298	7326	GO:0007567	a wide range of other genes,	parturition	Birth	C0005615
+7298	7326	GO:0000003	a wide range of other genes,	reproduction	Reproduction	C0035150
+7547	7570	GO:0009790	around embryonic day 18	embryo development	Embryonic Development	C0013936
+7733	7748	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+7874	7904	GO:0007567	the gene riken cdna 4933409k07	parturition	Birth	C0005615
+7874	7904	GO:0000003	the gene riken cdna 4933409k07	reproduction	Reproduction	C0035150
+7916	7924	GO:0007567	gene g47	parturition	Birth	C0005615
+7916	7924	GO:0000003	gene g47	reproduction	Reproduction	C0035150
+7937	7950	GO:0007567	the only gene	parturition	Birth	C0005615
+7937	7950	GO:0000003	the only gene	reproduction	Reproduction	C0035150
+8004	8038	GO:0007567	additional discussion of this gene	parturition	Birth	C0005615
+8004	8038	GO:0000003	additional discussion of this gene	reproduction	Reproduction	C0035150
+8100	8147	GO:0020010	two distinct patterns of cone gene derepression	conoid		C1166649
+8265	8275	GO:0020010	cone genes	conoid		C1166649
+8388	8427	GO:0020010	the majority of the cone-specific genes	conoid		C1166649
+8556	8601	GO:0020010	two major patterns of cone gene derepression.	conoid		C1166649
+8664	8679	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+8716	8731	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+8945	9000	GO:0020010	sharply with the usual pattern of cone gene expression,	conoid		C1166649
+9029	9033	GO:0005623	cell	cell	Cells	C0007634
+9089	9134	GO:0020010	the second category of cone gene derepression	conoid		C1166649
+9243	9247	GO:0005623	cell	cell	Cells	C0007634
+9362	9366	GO:0005623	cell	cell	Cells	C0007634
+9475	9479	GO:0005623	cell	cell	Cells	C0007634
+9594	9598	GO:0005623	cell	cell	Cells	C0007634
+9612	9642	GO:0020010	the normal complement of cones	conoid		C1166649
+9671	9720	GO:0044297	their cell bodies to the scleral edge of the onl,	cell body		C2752549
+9744	9748	GO:0005623	cell	cell	Cells	C0007634
+9799	9803	GO:0005623	cell	cell	Cells	C0007634
+9840	9844	GO:0005623	cell	cell	Cells	C0007634
+9887	9920	GO:0020010	a probe for the s-cone opsin gene	conoid		C1166649
+10028	10032	GO:0005623	cell	cell	Cells	C0007634
+10073	10077	GO:0005623	cell	cell	Cells	C0007634
+10135	10139	GO:0005623	cell	cell	Cells	C0007634
+10226	10230	GO:0005623	cell	cell	Cells	C0007634
+10300	10304	GO:0005623	cell	cell	Cells	C0007634
+10333	10337	GO:0005623	cell	cell	Cells	C0007634
+10431	10435	GO:0005623	cell	cell	Cells	C0007634
+10477	10516	GO:0042571	by antibody staining of tissue sections	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+10561	10586	GO:0020010	the total number of cones	conoid		C1166649
+10628	10632	GO:0005623	cell	cell	Cells	C0007634
+10668	10686	GO:0020010	repressed in cones	conoid		C1166649
+10766	10770	GO:0005623	cell	cell	Cells	C0007634
+10868	10872	GO:0005623	cell	cell	Cells	C0007634
+11003	11007	GO:0005623	cell	cell	Cells	C0007634
+11051	11061	GO:0007567	this gene.	parturition	Birth	C0005615
+11051	11061	GO:0000003	this gene.	reproduction	Reproduction	C0035150
+11128	11132	GO:0005623	cell	cell	Cells	C0007634
+11168	11206	GO:0042571	a double antibody staining for s-opsin	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+11327	11354	GO:0001750	photoreceptor outer segment	photoreceptor outer segment	Outer segment of photoreceptor	C1325525
+11436	11440	GO:0005623	cell	cell	Cells	C0007634
+11474	11494	GO:0020010	normal "blue" cones.	conoid		C1166649
+11496	11521	GO:0020010	novel cone-specific genes	conoid		C1166649
+11557	11598	GO:0020010	the majority of known cone-specific genes	conoid		C1166649
+11645	11671	GO:0007567	additional candidate genes	parturition	Birth	C0005615
+11645	11671	GO:0000003	additional candidate genes	reproduction	Reproduction	C0035150
+11713	11752	GO:0020010	evaluated for cone-specific expression.	conoid		C1166649
+11822	11828	GO:0007567	genes,	parturition	Birth	C0005615
+11822	11828	GO:0000003	genes,	reproduction	Reproduction	C0035150
+11904	11928	GO:0020010	a definite cone-specific	conoid		C1166649
+11932	11967	GO:0020010	cone-enriched pattern of expression	conoid		C1166649
+12003	12016	GO:0007567	genes g26-g35	parturition	Birth	C0005615
+12003	12016	GO:0000003	genes g26-g35	reproduction	Reproduction	C0035150
+12151	12155	GO:0005623	cell	cell	Cells	C0007634
+12189	12243	GO:0020010	consistent with a cone-specific pattern of expression.	conoid		C1166649
+12244	12262	GO:0007567	all of these genes	parturition	Birth	C0005615
+12244	12262	GO:0000003	all of these genes	reproduction	Reproduction	C0035150
+12307	12350	GO:0020010	a number of these novel cone-specific genes	conoid		C1166649
+12358	12402	GO:0051179	a striking localization of their transcripts	establishment and maintenance of localization		C1744691
+12410	12437	GO:0001917	photoreceptor inner segment	photoreceptor inner segment	Inner segment of photoreceptor	C1523372
+12462	12479	GO:0051179	this localization	establishment and maintenance of localization		C1744691
+12647	12688	GO:0051179	such a pattern of transcript localization	establishment and maintenance of localization		C1744691
+12701	12732	GO:0007601	seen in many rod-specific genes	vision	Vision	C0042789
+12812	12847	GO:0020010	appreciated in cone-specific genes,	conoid		C1166649
+12848	12894	GO:0020010	possibly due to the relative scarcity of cones	conoid		C1166649
+12943	12953	GO:0007567	such genes	parturition	Birth	C0005615
+12943	12953	GO:0000003	such genes	reproduction	Reproduction	C0035150
+12983	13019	GO:0051179	a pattern of transcript localization	establishment and maintenance of localization		C1744691
+13045	13073	GO:0007567	in addition to the ten genes	parturition	Birth	C0005615
+13045	13073	GO:0000003	in addition to the ten genes	reproduction	Reproduction	C0035150
+13086	13135	GO:0020010	cone-specific expression in the wild-type retina,	conoid		C1166649
+13136	13158	GO:0007567	another 11 novel genes	parturition	Birth	C0005615
+13136	13158	GO:0000003	another 11 novel genes	reproduction	Reproduction	C0035150
+13230	13243	GO:0007567	genes g36-g46	parturition	Birth	C0005615
+13230	13243	GO:0000003	genes g36-g46	reproduction	Reproduction	C0035150
+13246	13265	GO:0007567	some of these genes	parturition	Birth	C0005615
+13246	13265	GO:0000003	some of these genes	reproduction	Reproduction	C0035150
+13273	13300	GO:0020010	faint expression in a cone-	conoid		C1166649
+13319	13322	GO:0007601	see	vision	Vision	C0042789
+13333	13343	GO:0007567	genes g36,	parturition	Birth	C0005615
+13333	13343	GO:0000003	genes g36,	reproduction	Reproduction	C0035150
+13433	13446	GO:0020010	in cones than	conoid		C1166649
+13466	13474	GO:0007567	gene g37	parturition	Birth	C0005615
+13466	13474	GO:0000003	gene g37	reproduction	Reproduction	C0035150
+13511	13516	GO:0007567	genes	parturition	Birth	C0005615
+13511	13516	GO:0000003	genes	reproduction	Reproduction	C0035150
+13530	13579	GO:0020010	detectable cone staining in the wild-type retina.	conoid		C1166649
+13580	13627	GO:0020010	despite this apparent absence of cone staining,	conoid		C1166649
+13677	13688	GO:0007567	these genes	parturition	Birth	C0005615
+13677	13688	GO:0000003	these genes	reproduction	Reproduction	C0035150
+13701	13727	GO:0020010	novel cone-specific genes,	conoid		C1166649
+13755	13822	GO:0002524	below the sensitivity threshold of our in situ hybridization assay.	hypersensitivity	Hypersensitivity	C0020517
+13839	13859	GO:0020010	the novel cone genes	conoid		C1166649
+13995	14039	GO:0051179	transcript localization to the inner segment	establishment and maintenance of localization		C1744691
+14161	14180	GO:0007567	each of these genes	parturition	Birth	C0005615
+14161	14180	GO:0000003	each of these genes	reproduction	Reproduction	C0035150
+14231	14251	GO:0020010	the novel cone genes	conoid		C1166649
+14282	14300	GO:0006006	glucose metabolism	glucose metabolism		C0596620
+14318	14339	GO:0006631	fatty acid metabolism	fatty acid metabolism		C0596563
+14350	14360	GO:0006281	DNA repair	DNA repair	DNA Repair	C0012899
+14370	14380	GO:0007049	cell cycle	cell cycle	Cell Cycle	C0007586
+14464	14485	GO:0005856	cytoskeletal function	cytoskeleton	Cytoskeleton	C0010853
+14507	14524	GO:0032475	otolith formation	otolith formation		C1819394
+14535	14618	GO:0020010	a relatively frequent finding among both previously identified cone-specific genes,	conoid		C1166649
+14701	14716	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+14977	15009	GO:0020010	two examples of known cone genes	conoid		C1166649
+15060	15090	GO:0020010	two of the 11 novel cone genes	conoid		C1166649
+15205	15216	GO:0007567	three genes	parturition	Birth	C0005615
+15205	15216	GO:0000003	three genes	reproduction	Reproduction	C0035150
+15490	15503	GO:0007567	genes g48-g50	parturition	Birth	C0005615
+15490	15503	GO:0000003	genes g48-g50	reproduction	Reproduction	C0035150
+15506	15560	GO:0009790	the embryonic expression pattern of two of these genes	embryo development	Embryonic Development	C0013936
+15583	15633	GO:0009790	the embryonic in situ hybridization for the third,	embryo development	Embryonic Development	C0013936
+15765	15776	GO:0007567	these genes	parturition	Birth	C0005615
+15765	15776	GO:0000003	these genes	reproduction	Reproduction	C0035150
+15789	15802	GO:0020010	cone-specific	conoid		C1166649
+15939	15967	GO:0020010	only two cone-specific genes	conoid		C1166649
+16496	16542	GO:0007601	seen in the ventral portion of the rd7 retina,	vision	Vision	C0042789
+16543	16584	GO:0007567	the normal dorsal repression of this gene	parturition	Birth	C0005615
+16543	16584	GO:0000003	the normal dorsal repression of this gene	reproduction	Reproduction	C0035150
+16777	16822	GO:0044297	the cell bodies of the m-opsin-positive cells	cell body		C2752549
+17019	17058	GO:0044297	the m-opsin-positive cell bodies in rd7	cell body		C2752549
+17181	17219	GO:0044297	the cell bodies of cone photoreceptors	cell body		C2752549
+17409	17483	GO:0020010	a short delay in the relocation of the m-opsin-expressing cone cell bodies	conoid		C1166649
+17517	17526	GO:0007567	rod genes	parturition	Birth	C0005615
+17517	17526	GO:0000003	rod genes	reproduction	Reproduction	C0035150
+17607	17631	GO:0020010	in cone gene expression,	conoid		C1166649
+17632	17650	GO:0007567	rod-specific genes	parturition	Birth	C0005615
+17632	17650	GO:0000003	rod-specific genes	reproduction	Reproduction	C0035150
+17718	17770	GO:0007567	in situ hybridization analysis of numerous rod genes	parturition	Birth	C0005615
+17718	17770	GO:0000003	in situ hybridization analysis of numerous rod genes	reproduction	Reproduction	C0035150
+17840	17843	GO:0007601	see	vision	Vision	C0042789
+17894	17928	GO:0007567	in addition to the three rod genes	parturition	Birth	C0005615
+17894	17928	GO:0000003	in addition to the three rod genes	reproduction	Reproduction	C0035150
+18019	18042	GO:0007567	pan-photoreceptor genes	parturition	Birth	C0005615
+18019	18042	GO:0000003	pan-photoreceptor genes	reproduction	Reproduction	C0035150
+18098	18120	GO:0007567	in two of these genes,	parturition	Birth	C0005615
+18098	18120	GO:0000003	in two of these genes,	reproduction	Reproduction	C0035150
+18249	18264	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+18594	18654	GO:0007567	in situ hybridization analysis of several rod-specific genes	parturition	Birth	C0005615
+18594	18654	GO:0000003	in situ hybridization analysis of several rod-specific genes	reproduction	Reproduction	C0035150
+18858	18866	GO:0007567	the gene	parturition	Birth	C0005615
+18858	18866	GO:0000003	the gene	reproduction	Reproduction	C0035150
+18920	18923	GO:0007601	see	vision	Vision	C0042789
+19015	19039	GO:0020010	many cone-specific genes	conoid		C1166649
+19110	19149	GO:0000988	changes in retinal transcription factor	transcription factor activity		C1148759
+19110	19149	GO:0001070	changes in retinal transcription factor	transcription factor activity		C1148759
+19110	19149	GO:0001071	changes in retinal transcription factor	transcription factor activity		C1148759
+19110	19149	GO:0003700	changes in retinal transcription factor	transcription factor activity		C1148759
+19167	19182	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+19191	19246	GO:0000988	analysis of several photoreceptor transcription factors	transcription factor activity		C1148759
+19191	19246	GO:0001070	analysis of several photoreceptor transcription factors	transcription factor activity		C1148759
+19191	19246	GO:0001071	analysis of several photoreceptor transcription factors	transcription factor activity		C1148759
+19191	19246	GO:0003700	analysis of several photoreceptor transcription factors	transcription factor activity		C1148759
+19343	19346	GO:0007601	see	vision	Vision	C0042789
+19395	19452	GO:0000988	a rod-specific, basic leucine zipper transcription factor	transcription factor activity		C1148759
+19395	19452	GO:0001070	a rod-specific, basic leucine zipper transcription factor	transcription factor activity		C1148759
+19395	19452	GO:0001071	a rod-specific, basic leucine zipper transcription factor	transcription factor activity		C1148759
+19395	19452	GO:0003700	a rod-specific, basic leucine zipper transcription factor	transcription factor activity		C1148759
+19453	19507	GO:0007567	required for the activation of many rod-specific genes	parturition	Birth	C0005615
+19453	19507	GO:0000003	required for the activation of many rod-specific genes	reproduction	Reproduction	C0035150
+19512	19554	GO:0020010	the repression of most cone-specific genes	conoid		C1166649
+19666	19697	GO:0000988	a homeobox transcription factor	transcription factor activity		C1148759
+19666	19697	GO:0001070	a homeobox transcription factor	transcription factor activity		C1148759
+19666	19697	GO:0001071	a homeobox transcription factor	transcription factor activity		C1148759
+19666	19697	GO:0003700	a homeobox transcription factor	transcription factor activity		C1148759
+19725	19730	GO:0020010	cones	conoid		C1166649
+19791	19810	GO:0020010	cone-specific genes	conoid		C1166649
+19840	19863	GO:0007601	seen in the nrl mutant,	vision	Vision	C0042789
+20056	20059	GO:0007601	see	vision	Vision	C0042789
+20184	20199	GO:0003677	the dna-binding	DNA binding	dna binding	C1148673
+20211	20218	GO:0005488	binding	binding	Binding 	C1167622
+20439	20452	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+20455	20464	GO:0007567	one gene,	parturition	Birth	C0005615
+20455	20464	GO:0000003	one gene,	reproduction	Reproduction	C0035150
+20498	20506	GO:0007567	gene g47	parturition	Birth	C0005615
+20498	20506	GO:0000003	gene g47	reproduction	Reproduction	C0035150
+20585	20594	GO:0007567	this gene	parturition	Birth	C0005615
+20585	20594	GO:0000003	this gene	reproduction	Reproduction	C0035150
+20585	20594	GO:0007567	this gene	parturition	Birth	C0005615
+20585	20594	GO:0000003	this gene	reproduction	Reproduction	C0035150
+20909	20913	GO:0005623	cell	cell	Cells	C0007634
+20969	20972	GO:0007601	see	vision	Vision	C0042789
+21083	21087	GO:0005623	cell	cell	Cells	C0007634
+21347	21351	GO:0005623	cell	cell	Cells	C0007634
+21414	21429	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+21439	21490	GO:0044297	the ultrastructure of the photoreceptor cell bodies	cell body		C2752549
+21523	21538	GO:0044297	the cell bodies	cell body		C2752549
+21666	21677	GO:0020010	cone somata	conoid		C1166649
+21777	21793	GO:0020010	cone cell bodies	conoid		C1166649
+21927	21950	GO:0005720	nuclear heterochromatin	nuclear heterochromatin	Nuclear heterochromatin	C1325554
+22077	22088	GO:0000791	euchromatin	euchromatin	euchromatin location	C1166669
+22140	22149	GO:0043226	organelle	organelle	Organelles	C0029219
+22173	22186	GO:0005634	their nuclei,	cell nucleus	Cell Nucleus	C0007610
+22212	22224	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+22300	22310	GO:0020010	such cone-	conoid		C1166649
+22315	22319	GO:0005623	cell	cell	Cells	C0007634
+22401	22413	GO:0043025	their somata	neuron cell body	Cell body of neuron	C0599444
+22507	22511	GO:0005623	cell	cell	Cells	C0007634
+22536	22546	GO:0020010	cone opsin	conoid		C1166649
+22594	22598	GO:0005623	cell	cell	Cells	C0007634
+22654	22672	GO:0006997	nuclear morphology	nuclear morphology		C1749565
+22716	22768	GO:0020010	cone opsin by dissociated cell in situ hybridization	conoid		C1166649
+22891	22895	GO:0005623	cell	cell	Cells	C0007634
+22898	22901	GO:0007601	see	vision	Vision	C0042789
+22930	22942	GO:0020010	these "cone-	conoid		C1166649
+22948	22952	GO:0005623	cell	cell	Cells	C0007634
+22993	23071	GO:0020010	supernumerary normal cones with an abnormal localization of their cell bodies.	conoid		C1166649
+23073	23107	GO:0020010	in contrast to the cone cell body,	conoid		C1166649
+23108	23130	GO:0043025	the wild-type rod soma	neuron cell body	Cell body of neuron	C0599444
+23196	23211	GO:0000792	heterochromatin	heterochromatin	Heterochromatin	C0019397
+23253	23264	GO:0000791	euchromatin	euchromatin	euchromatin location	C1166669
+23294	23303	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+23343	23347	GO:0005623	cell	cell	Cells	C0007634
+23469	23484	GO:0000792	heterochromatin	heterochromatin	Heterochromatin	C0019397
+23515	23526	GO:0000791	euchromatin	euchromatin	euchromatin location	C1166669
+23550	23554	GO:0005623	cell	cell	Cells	C0007634
+23566	23584	GO:0020010	features of cones.	conoid		C1166649
+23596	23607	GO:0000791	euchromatin	euchromatin	euchromatin location	C1166669
+23647	23651	GO:0005623	cell	cell	Cells	C0007634
+23848	23852	GO:0005623	cell	cell	Cells	C0007634
+23995	24025	GO:0044297	50 mutant rod-like cell bodies	cell body		C2752549
+24027	24030	GO:0007601	see	vision	Vision	C0042789
+24098	24137	GO:0043025	the average area of the rod-like somata	neuron cell body	Cell body of neuron	C0599444
+24148	24206	GO:0043025	approximately 30% larger than that of wild-type rod somata	neuron cell body	Cell body of neuron	C0599444
+24392	24432	GO:0043025	the standard deviation of the somal area	neuron cell body	Cell body of neuron	C0599444
+24544	24557	GO:0043025	in somal size	neuron cell body	Cell body of neuron	C0599444
+24683	24719	GO:0043025	selected for somal area quantitation	neuron cell body	Cell body of neuron	C0599444
+24747	24759	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+24822	24831	GO:0043226	organelle	organelle	Organelles	C0029219
+24854	24873	GO:0007601	seen in normal rods	vision	Vision	C0042789
+24896	24900	GO:0005623	cell	cell	Cells	C0007634
+24920	24935	GO:0020010	common in cones	conoid		C1166649
+25009	25013	GO:0005623	cell	cell	Cells	C0007634
+25094	25099	GO:0020010	cones	conoid		C1166649
+25150	25185	GO:0020010	cone-specific genes in these cells.	conoid		C1166649
+25237	25295	GO:0000988	the primary role of the rod-specific transcription factor,	transcription factor activity		C1148759
+25237	25295	GO:0001070	the primary role of the rod-specific transcription factor,	transcription factor activity		C1148759
+25237	25295	GO:0001071	the primary role of the rod-specific transcription factor,	transcription factor activity		C1148759
+25237	25295	GO:0003700	the primary role of the rod-specific transcription factor,	transcription factor activity		C1148759
+25318	25328	GO:0020010	cone genes	conoid		C1166649
+25386	25424	GO:0020010	two patterns of cone gene derepression	conoid		C1166649
+25562	25606	GO:0010467	consists of ectopic expression of cone genes	gene expression	Gene Expression	C0017262
+25631	25635	GO:0005623	cell	cell	Cells	C0007634
+25655	25659	GO:0005623	cell	cell	Cells	C0007634
+25690	25703	GO:0007567	all rod genes	parturition	Birth	C0005615
+25690	25703	GO:0000003	all rod genes	reproduction	Reproduction	C0035150
+25750	25765	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+25775	25779	GO:0005623	cell	cell	Cells	C0007634
+25885	25891	GO:0020010	cones.	conoid		C1166649
+25902	25907	GO:0007567	genes	parturition	Birth	C0005615
+25902	25907	GO:0000003	genes	reproduction	Reproduction	C0035150
+25977	25981	GO:0005623	cell	cell	Cells	C0007634
+26030	26041	GO:0007567	these genes	parturition	Birth	C0005615
+26030	26041	GO:0000003	these genes	reproduction	Reproduction	C0035150
+26082	26086	GO:0005623	cell	cell	Cells	C0007634
+26093	26150	GO:0020010	compared to their expression in s-opsin-expressing cones.	conoid		C1166649
+26158	26226	GO:0007567	close evaluation of the staining pattern of a number of type i genes	parturition	Birth	C0005615
+26158	26226	GO:0000003	close evaluation of the staining pattern of a number of type i genes	reproduction	Reproduction	C0035150
+26259	26262	GO:0007601	see	vision	Vision	C0042789
+26273	26282	GO:0007567	genes g9,	parturition	Birth	C0005615
+26273	26282	GO:0000003	genes g9,	reproduction	Reproduction	C0035150
+26420	26424	GO:0005623	cell	cell	Cells	C0007634
+26521	26549	GO:0020010	cone opsin-expressing cells.	conoid		C1166649
+26589	26600	GO:0007567	these genes	parturition	Birth	C0005615
+26589	26600	GO:0000003	these genes	reproduction	Reproduction	C0035150
+26649	26653	GO:0005623	cell	cell	Cells	C0007634
+26674	26678	GO:0005623	cell	cell	Cells	C0007634
+26728	26800	GO:0010467	derives from a comparison of the expression pattern of many type i genes	gene expression	Gene Expression	C0017262
+26866	26896	GO:0000988	a retinal transcription factor	transcription factor activity		C1148759
+26866	26896	GO:0001070	a retinal transcription factor	transcription factor activity		C1148759
+26866	26896	GO:0001071	a retinal transcription factor	transcription factor activity		C1148759
+26866	26896	GO:0003700	a retinal transcription factor	transcription factor activity		C1148759
+26956	26985	GO:0020010	into s-opsin-expressing cones	conoid		C1166649
+27049	27105	GO:0016458	required for the normal silencing of cone-specific genes	gene silencing	Gene Silencing	C0598496
+27169	27222	GO:0020010	more uniform derepression of many cone-specific genes	conoid		C1166649
+27250	27272	GO:0007601	seen in the rd7 retina	vision	Vision	C0042789
+27329	27382	GO:0020010	in addition to its repression of cone gene expression	conoid		C1166649
+27469	27500	GO:0020010	over cone genes either directly	conoid		C1166649
+27589	27611	GO:0007601	seen in the rd7 retina	vision	Vision	C0042789
+27667	27671	GO:0005623	cell	cell	Cells	C0007634
+27703	27747	GO:0020010	derepression of several cone-specific genes,	conoid		C1166649
+27760	27771	GO:0020010	cone opsin.	conoid		C1166649
+27807	27811	GO:0005623	cell	cell	Cells	C0007634
+27826	27839	GO:0020010	normal cones,	conoid		C1166649
+27840	27874	GO:0044297	albeit with displaced cell bodies.	cell body		C2752549
+27913	27938	GO:0020010	cone opsin-positive cells	conoid		C1166649
+28021	28062	GO:0042571	consistent with previous antibody studies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+28197	28227	GO:0020010	that cone genes in addition to	conoid		C1166649
+28230	28240	GO:0020010	cone opsin	conoid		C1166649
+28333	28374	GO:0007567	the levels of several rod-specific genes,	parturition	Birth	C0005615
+28333	28374	GO:0000003	the levels of several rod-specific genes,	reproduction	Reproduction	C0035150
+28856	28871	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+28964	29016	GO:0020010	derepression of a range of known cone-specific genes	conoid		C1166649
+29057	29111	GO:0010468	up-regulation by northern blot of two additional genes	regulation of gene expression	Gene Expression Regulation	C0017263
+29149	29164	GO:0007567	these two genes	parturition	Birth	C0005615
+29149	29164	GO:0000003	these two genes	reproduction	Reproduction	C0035150
+29229	29232	GO:0007601	see	vision	Vision	C0042789
+29287	29324	GO:0020010	a cone-enriched pattern of expression	conoid		C1166649
+29326	29329	GO:0007601	see	vision	Vision	C0042789
+29762	29792	GO:0007567	to the novel muller glial gene	parturition	Birth	C0005615
+29762	29792	GO:0000003	to the novel muller glial gene	reproduction	Reproduction	C0035150
+29852	29860	GO:0007567	gene g47	parturition	Birth	C0005615
+29852	29860	GO:0000003	gene g47	reproduction	Reproduction	C0035150
+30134	30171	GO:0020010	derepression of a cone-enriched gene.	conoid		C1166649
+30462	30473	GO:0032502	development	development	Biologic Development	C0678723
+30537	30567	GO:0020010	this early expression in cones	conoid		C1166649
+30602	30647	GO:0010467	the expression of cone-specific gene products	gene expression	Gene Expression	C0017262
+30927	30934	GO:0005488	binding	binding	Binding 	C1167622
+30976	31044	GO:0007567	very useful for future bioinformatic analyses of nr2e3 target genes.	parturition	Birth	C0005615
+30976	31044	GO:0000003	very useful for future bioinformatic analyses of nr2e3 target genes.	reproduction	Reproduction	C0035150
+31050	31065	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+31139	31168	GO:0010468	the scheme of gene regulation	regulation of gene expression	Gene Expression Regulation	C0017263
+31249	31296	GO:0020010	at least two different repressors of cone genes	conoid		C1166649
+31341	31402	GO:0000988	an additional unknown transcription factor downstream of nrl,	transcription factor activity		C1148759
+31341	31402	GO:0001070	an additional unknown transcription factor downstream of nrl,	transcription factor activity		C1148759
+31341	31402	GO:0001071	an additional unknown transcription factor downstream of nrl,	transcription factor activity		C1148759
+31341	31402	GO:0003700	an additional unknown transcription factor downstream of nrl,	transcription factor activity		C1148759
+31415	31440	GO:0000988	"transcription factor x."	transcription factor activity		C1148759
+31415	31440	GO:0001070	"transcription factor x."	transcription factor activity		C1148759
+31415	31440	GO:0001071	"transcription factor x."	transcription factor activity		C1148759
+31415	31440	GO:0003700	"transcription factor x."	transcription factor activity		C1148759
+31501	31519	GO:0020010	type ii cone genes	conoid		C1166649
+31566	31589	GO:0000988	transcription factor x-	transcription factor activity		C1148759
+31566	31589	GO:0001070	transcription factor x-	transcription factor activity		C1148759
+31566	31589	GO:0001071	transcription factor x-	transcription factor activity		C1148759
+31566	31589	GO:0003700	transcription factor x-	transcription factor activity		C1148759
+31592	31644	GO:0010468	primarily responsible for the regulation of the gene	regulation of gene expression	Gene Expression Regulation	C0017263
+31658	31686	GO:0007567	in the case of type i genes,	parturition	Birth	C0005615
+31658	31686	GO:0000003	in the case of type i genes,	reproduction	Reproduction	C0035150
+31722	31744	GO:0000988	transcription factor x	transcription factor activity		C1148759
+31722	31744	GO:0001070	transcription factor x	transcription factor activity		C1148759
+31722	31744	GO:0001071	transcription factor x	transcription factor activity		C1148759
+31722	31744	GO:0003700	transcription factor x	transcription factor activity		C1148759
+31773	31802	GO:0007567	in the case of type ii genes,	parturition	Birth	C0005615
+31773	31802	GO:0000003	in the case of type ii genes,	reproduction	Reproduction	C0035150
+31803	31825	GO:0000988	transcription factor x	transcription factor activity		C1148759
+31803	31825	GO:0001070	transcription factor x	transcription factor activity		C1148759
+31803	31825	GO:0001071	transcription factor x	transcription factor activity		C1148759
+31803	31825	GO:0003700	transcription factor x	transcription factor activity		C1148759
+31864	31877	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+31932	32014	GO:0020010	in contrast to the marked derepression of the vast majority of cone-specific genes	conoid		C1166649
+32034	32043	GO:0007567	two genes	parturition	Birth	C0005615
+32034	32043	GO:0000003	two genes	reproduction	Reproduction	C0035150
+32091	32116	GO:0007567	the gene encoding m-opsin	parturition	Birth	C0005615
+32091	32116	GO:0000003	the gene encoding m-opsin	reproduction	Reproduction	C0035150
+32243	32247	GO:0005623	cell	cell	Cells	C0007634
+32425	32462	GO:0020010	widespread derepression of cone genes	conoid		C1166649
+32594	32634	GO:0007567	a corresponding derepression of the gene	parturition	Birth	C0005615
+32594	32634	GO:0000003	a corresponding derepression of the gene	reproduction	Reproduction	C0035150
+33549	33553	GO:0005623	cell	cell	Cells	C0007634
+33707	33711	GO:0005623	cell	cell	Cells	C0007634
+33732	33764	GO:0020010	a variety of novel cone-specific	conoid		C1166649
+33768	33787	GO:0020010	cone-enriched genes	conoid		C1166649
+33822	33841	GO:0007567	one of these genes,	parturition	Birth	C0005615
+33822	33841	GO:0000003	one of these genes,	reproduction	Reproduction	C0035150
+33872	33890	GO:0006006	glucose metabolism	glucose metabolism		C0596620
+33915	33960	GO:0019243	required for detoxification of methylglyoxal,	methylglyoxal detoxification		C1621376
+33976	33986	GO:0006096	glycolysis	glycolysis	Glycolysis	C0017952
+33993	34005	GO:0007567	a third gene	parturition	Birth	C0005615
+33993	34005	GO:0000003	a third gene	reproduction	Reproduction	C0035150
+34018	34036	GO:0006006	glucose metabolism	glucose metabolism		C0596620
+34166	34193	GO:0020010	greater expression in cones	conoid		C1166649
+34208	34211	GO:0007601	see	vision	Vision	C0042789
+34233	34246	GO:0007567	a fourth gene	parturition	Birth	C0005615
+34233	34246	GO:0000003	a fourth gene	reproduction	Reproduction	C0035150
+34259	34277	GO:0006006	glucose metabolism	glucose metabolism		C0596620
+34523	34544	GO:0020010	a cone-enriched gene.	conoid		C1166649
+34568	34592	GO:0007567	that two of these genes,	parturition	Birth	C0005615
+34568	34592	GO:0000003	that two of these genes,	reproduction	Reproduction	C0035150
+34679	34694	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+34851	34869	GO:0006006	glucose metabolism	glucose metabolism		C0596620
+34895	34900	GO:0020010	cones	conoid		C1166649
+35016	35038	GO:0007567	mutations in this gene	parturition	Birth	C0005615
+35016	35038	GO:0000003	mutations in this gene	reproduction	Reproduction	C0035150
+35076	35083	GO:0051235	storage	storage	cellular entity storage	C1753314
+35380	35433	GO:0020010	an increase in the number of s-opsin-expressing cones	conoid		C1166649
+35595	35599	GO:0005623	cell	cell	Cells	C0007634
+35668	35672	GO:0005623	cell	cell	Cells	C0007634
+35728	35747	GO:0020010	cone-positive cells	conoid		C1166649
+35855	35859	GO:0005623	cell	cell	Cells	C0007634
+35943	35980	GO:0000988	loss of a single transcription factor	transcription factor activity		C1148759
+35943	35980	GO:0001070	loss of a single transcription factor	transcription factor activity		C1148759
+35943	35980	GO:0001071	loss of a single transcription factor	transcription factor activity		C1148759
+35943	35980	GO:0003700	loss of a single transcription factor	transcription factor activity		C1148759
+36042	36046	GO:0005623	cell	cell	Cells	C0007634
+36092	36104	GO:0020010	cones on the	conoid		C1166649
+36282	36296	GO:0020010	to s-cone fate	conoid		C1166649
+36334	36338	GO:0005623	cell	cell	Cells	C0007634
+36424	36439	GO:0007567	that early-born	parturition	Birth	C0005615
+36444	36458	GO:0007567	late-born rods	parturition	Birth	C0005615
+36687	36691	GO:0005623	cell	cell	Cells	C0007634
+36749	36770	GO:0007567	late-born population.	parturition	Birth	C0005615
+37134	37163	GO:0020010	assumption of the s-cone fate	conoid		C1166649
+37198	37202	GO:0005623	cell	cell	Cells	C0007634
+37286	37345	GO:0007567	such a stochastic, all-or-none mechanism of gene activation	parturition	Birth	C0005615
+37286	37345	GO:0000003	such a stochastic, all-or-none mechanism of gene activation	reproduction	Reproduction	C0035150
+37442	37472	GO:0007567	an unknown master control gene	parturition	Birth	C0005615
+37442	37472	GO:0000003	an unknown master control gene	reproduction	Reproduction	C0035150
+37552	37594	GO:0030154	an irreversible program of differentiation	cell differentiation	Cell Differentiation process	C0007589
+37604	37614	GO:0020010	cone fate,	conoid		C1166649
+37678	37682	GO:0005623	cell	cell	Cells	C0007634
+37738	37790	GO:0020010	the s-cone fate in an entirely probabilistic manner.	conoid		C1166649
+37917	37968	GO:0002524	preferentially sensitive to short-wavelength light,	hypersensitivity	Hypersensitivity	C0020517
+38022	38072	GO:0010842	abnormal retinal lamination with rosette formation	retina layer formation		C2612141
+38392	38450	GO:0009881	not attributable to the activity of a hybrid photoreceptor	photoreceptor activity		C1152655
+38552	38556	GO:0005623	cell	cell	Cells	C0007634
+38584	38594	GO:0020010	cone genes	conoid		C1166649
+38635	38652	GO:0020010	not s-cone opsin.	conoid		C1166649
+38802	38828	GO:0060004	by reflection densitometry	reflex	Reflex motion descriptor	C0439840
+39052	39076	GO:0020010	its rods into blue cones	conoid		C1166649
+39205	39209	GO:0005623	cell	cell	Cells	C0007634
+39274	39314	GO:0007567	gene regulatory differences between mice	parturition	Birth	C0005615
+39274	39314	GO:0000003	gene regulatory differences between mice	reproduction	Reproduction	C0035150
+39435	39457	GO:0007601	seen in the rd7 mouse,	vision	Vision	C0042789
+39520	39524	GO:0005623	cell	cell	Cells	C0007634
+39571	39601	GO:0020010	cones to hybrid photoreceptors	conoid		C1166649
+39731	39736	GO:0020010	cones	conoid		C1166649
+39932	39947	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+40187	40191	GO:0005623	cell	cell	Cells	C0007634
+40266	40293	GO:0020010	cone genes in the same cell	conoid		C1166649
+40315	40319	GO:0005623	cell	cell	Cells	C0007634
+40470	40498	GO:0009058	rosette formation in the onl	anabolism	Anabolism	C0220781
+40607	40620	GO:0007163	cell polarity	cell polarity	Cell Polarity	C0085304
+40648	40657	GO:0009058	formation	anabolism	Anabolism	C0220781
+40743	40756	GO:0007163	cell polarity	cell polarity	Cell Polarity	C0085304
+40786	40835	GO:0007567	of-function mutations in the polarity gene crumbs	parturition	Birth	C0005615
+40786	40835	GO:0000003	of-function mutations in the polarity gene crumbs	reproduction	Reproduction	C0035150
+40942	40967	GO:0009058	rosette formation in mice	anabolism	Anabolism	C0220781
+40989	41011	GO:0007601	seen in the rd7 mutant	vision	Vision	C0042789
+41238	41250	GO:0043473	pigmentation	pigmentation	Pigmentation	C0031911
+41426	41439	GO:0020010	in cones than	conoid		C1166649
+41582	41609	GO:0050789	the up-regulation of crumbs	regulation of biological process	Regulation of biological process	C1327622
+41663	41686	GO:0007601	seen in the rd7 mutant.	vision	Vision	C0042789
+41814	41844	GO:0005634	even to misalignment of nuclei	cell nucleus	Cell Nucleus	C0007610
+41888	41910	GO:0007601	seen in the rd7 retina	vision	Vision	C0042789
+42323	42328	GO:0020010	cones	conoid		C1166649
+42549	42564	GO:0050789	down-regulation	regulation of biological process	Regulation of biological process	C1327622
+42659	42663	GO:0005623	cell	cell	Cells	C0007634
+42795	42845	GO:1990603	for night vision in this strictly diurnal species.	dark adaptation	Dark Adaptation	C0010985
+43663	43696	GO:0005020	the array 900 kit from genisphere	stem cell factor receptor activity		C1150635
+43753	43756	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+44227	44230	GO:0007601	see	vision	Vision	C0042789
+44513	44517	GO:0030424	axon	axon	Axon	C0004461
+45795	45807	GO:0007567	genes in two	parturition	Birth	C0005615
+45795	45807	GO:0000003	genes in two	reproduction	Reproduction	C0035150
+46230	46233	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+46709	46718	GO:0007567	all genes	parturition	Birth	C0005615
+46709	46718	GO:0000003	all genes	reproduction	Reproduction	C0035150
+46859	46883	GO:0007567	the remaining gene lists	parturition	Birth	C0005615
+46859	46883	GO:0000003	the remaining gene lists	reproduction	Reproduction	C0035150
+47034	47081	GO:0007567	the most markedly up- and down-regulated genes.	parturition	Birth	C0005615
+47034	47081	GO:0000003	the most markedly up- and down-regulated genes.	reproduction	Reproduction	C0035150
+47134	47164	GO:0007567	(approximately 2% of all genes	parturition	Birth	C0005615
+47134	47164	GO:0000003	(approximately 2% of all genes	reproduction	Reproduction	C0035150
+47338	47349	GO:0007567	those genes	parturition	Birth	C0005615
+47338	47349	GO:0000003	those genes	reproduction	Reproduction	C0035150
+47338	47349	GO:0007567	those genes	parturition	Birth	C0005615
+47338	47349	GO:0000003	those genes	reproduction	Reproduction	C0035150
+48148	48152	GO:0005623	cell	cell	Cells	C0007634
+48449	48453	GO:0005623	cell	cell	Cells	C0007634
+48487	48491	GO:0005623	cell	cell	Cells	C0007634
+48672	48694	GO:0042571	for antibody staining,	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+48764	48782	GO:0042571	primary antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+48971	48991	GO:0042571	secondary antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+49010	49029	GO:0000746	cy3-conjugated goat	conjugation		C1160466
+49141	49159	GO:0042571	antibody staining,	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+49189	49195	GO:0005634	nuclei	cell nucleus	Cell Nucleus	C0007610
+49577	49585	GO:0007601	the eyes	vision	Vision	C0042789
+49694	49701	GO:0007601	the eye	vision	Vision	C0042789
+49799	49820	GO:1902698	(0.1 m cacodylic acid	acidogenesis		C3823112
+49799	49820	GO:1902705	(0.1 m cacodylic acid	acidogenesis		C3823112
+49799	49820	GO:1902706	(0.1 m cacodylic acid	acidogenesis		C3823112
+49799	49820	GO:1902699	(0.1 m cacodylic acid	acidogenesis		C3823112
+49933	49946	GO:0007601	the fixed eye	vision	Vision	C0042789
+49998	50005	GO:0031430	midline	midline	midline cell component	C1660780
+50144	50179	GO:0043473	attached retinal pigment epithelium	pigmentation	Pigmentation	C0031911
+51262	51266	GO:0005623	cell	cell	Cells	C0007634
+51365	51393	GO:1990266	cut at a thickness of 95 nm,	neutrophil migration	Neutrophil migration, function	C0312860
+51771	51810	GO:0044297	the area of the cell bodies of the rods	cell body		C2752549
+51826	51830	GO:0005623	cell	cell	Cells	C0007634
+52110	52128	GO:0044297	35-45 cell bodies.	cell body		C2752549
+52157	52186	GO:0044297	the area of those cell bodies	cell body		C2752549
+52216	52223	GO:0031430	midline	midline	midline cell component	C1660780
+52317	52321	GO:0005623	cell	cell	Cells	C0007634
+52378	52391	GO:0007601	chosen by eye	vision	Vision	C0042789
+52396	52429	GO:0005886	the outline of the cell membranes	plasma membrane	Plasma membrane	C0007603
+52695	52699	GO:0005623	cell	cell	Cells	C0007634
+52858	52870	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+52938	52942	GO:0005623	cell	cell	Cells	C0007634
+52965	52974	GO:0043226	organelle	organelle	Organelles	C0029219
+53050	53059	GO:0043226	organelle	organelle	Organelles	C0029219
+53136	53148	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+53189	53230	GO:0044297	serial sections of individual cell bodies	cell body		C2752549
+53295	53340	GO:0007567	the in situ hybridization images of all genes	parturition	Birth	C0005615
+53295	53340	GO:0000003	the in situ hybridization images of all genes	reproduction	Reproduction	C0035150
+53365	53368	GO:0007601	see	vision	Vision	C0042789
+53534	53554	GO:0007567	with the gene symbol	parturition	Birth	C0005615
+53534	53554	GO:0000003	with the gene symbol	reproduction	Reproduction	C0035150
+53683	53723	GO:0007567	labeled with the gene symbol of the gene	parturition	Birth	C0005615
+53683	53723	GO:0000003	labeled with the gene symbol of the gene	reproduction	Reproduction	C0035150
+53800	53834	GO:0009790	a designation of the embryonic day	embryo development	Embryonic Development	C0013936
+53878	53898	GO:0009790	= embryonic day 17.5	embryo development	Embryonic Development	C0013936
+54497	54540	GO:0007567	in situ hybridization images for genes 1-11	parturition	Birth	C0005615
+54497	54540	GO:0000003	in situ hybridization images for genes 1-11	reproduction	Reproduction	C0035150
+54617	54661	GO:0007567	in situ hybridization images for genes 12-22	parturition	Birth	C0005615
+54617	54661	GO:0000003	in situ hybridization images for genes 12-22	reproduction	Reproduction	C0035150
+54822	54826	GO:0005623	cell	cell	Cells	C0007634
+54999	55003	GO:0005623	cell	cell	Cells	C0007634
+55087	55100	GO:0020010	cone-specific	conoid		C1166649
+55105	55124	GO:0020010	cone-enriched genes	conoid		C1166649
+55340	55365	GO:0007567	corresponding to the gene	parturition	Birth	C0005615
+55340	55365	GO:0000003	corresponding to the gene	reproduction	Reproduction	C0035150
+55413	55435	GO:0007567	the region of the gene	parturition	Birth	C0005615
+55413	55435	GO:0000003	the region of the gene	reproduction	Reproduction	C0035150
+55623	55632	GO:0007567	rod genes	parturition	Birth	C0005615
+55623	55632	GO:0000003	rod genes	reproduction	Reproduction	C0035150
+55707	55767	GO:0007567	details about the in situ hybridization patterns of 22 genes	parturition	Birth	C0005615
+55707	55767	GO:0000003	details about the in situ hybridization patterns of 22 genes	reproduction	Reproduction	C0035150
+55936	55961	GO:0007567	corresponding to the gene	parturition	Birth	C0005615
+55936	55961	GO:0000003	corresponding to the gene	reproduction	Reproduction	C0035150
+56009	56031	GO:0007567	the region of the gene	parturition	Birth	C0005615
+56009	56031	GO:0000003	the region of the gene	reproduction	Reproduction	C0035150
+56109	56154	GO:0000785	the color coding of the in situ hybridization	chromatin	chromatin location	C1325550
+56985	57001	GO:0007567	summary of genes	parturition	Birth	C0005615
+56985	57001	GO:0000003	summary of genes	reproduction	Reproduction	C0035150
+57069	57079	GO:0007567	only genes	parturition	Birth	C0005615
+57069	57079	GO:0000003	only genes	reproduction	Reproduction	C0035150
+57396	57412	GO:0007567	summary of genes	parturition	Birth	C0005615
+57396	57412	GO:0000003	summary of genes	reproduction	Reproduction	C0035150
+57482	57492	GO:0007567	only genes	parturition	Birth	C0005615
+57482	57492	GO:0000003	only genes	reproduction	Reproduction	C0035150
+59992	60009	GO:0009790	] - embryonic day	embryo development	Embryonic Development	C0013936
+60045	60076	GO:0020010	escs - enhanced s-cone syndrome	conoid		C1166649
+60093	60097	GO:0005623	cell	cell	Cells	C0007634
+60214	60227	GO:0020010	cone-specific	conoid		C1166649
+60232	60251	GO:0020010	cone-enriched genes	conoid		C1166649
+60321	60345	GO:0000785	the color coding of text	chromatin	chromatin location	C1325550
+60346	60371	GO:0007567	in the column "gene name"	parturition	Birth	C0005615
+60346	60371	GO:0000003	in the column "gene name"	reproduction	Reproduction	C0035150
+60408	60413	GO:0007567	genes	parturition	Birth	C0005615
+60408	60413	GO:0000003	genes	reproduction	Reproduction	C0035150
+60460	60473	GO:0020010	cone-specific	conoid		C1166649
+60477	60513	GO:0020010	cone-enriched patterns of expression	conoid		C1166649
+60533	60549	GO:0020010	novel cone genes	conoid		C1166649
+60533	60549	GO:0020010	novel cone genes	conoid		C1166649
+60728	60744	GO:0007567	additional genes	parturition	Birth	C0005615
+60728	60744	GO:0000003	additional genes	reproduction	Reproduction	C0035150
+60840	60896	GO:0020010	inapparent cone-specific signal on in situ hybridization	conoid		C1166649
+60915	60931	GO:0007567	additional genes	parturition	Birth	C0005615
+60915	60931	GO:0000003	additional genes	reproduction	Reproduction	C0035150
+61140	61164	GO:0007567	refer to specific genes.	parturition	Birth	C0005615
+61140	61164	GO:0000003	refer to specific genes.	reproduction	Reproduction	C0035150
+61407	61429	GO:0007567	the region of the gene	parturition	Birth	C0005615
+61407	61429	GO:0000003	the region of the gene	reproduction	Reproduction	C0035150
+61746	61750	GO:0005623	cell	cell	Cells	C0007634
+61789	61809	GO:0007567	the gene in question	parturition	Birth	C0005615
+61789	61809	GO:0000003	the gene in question	reproduction	Reproduction	C0035150
+61927	61931	GO:0005623	cell	cell	Cells	C0007634
+61998	62018	GO:0007567	the gene in question	parturition	Birth	C0005615
+61998	62018	GO:0000003	the gene in question	reproduction	Reproduction	C0035150
+62140	62157	GO:0007601	seen for the gene	vision	Vision	C0042789
+62248	62253	GO:0007567	genes	parturition	Birth	C0005615
+62248	62253	GO:0000003	genes	reproduction	Reproduction	C0035150
+62376	62379	GO:0007601	see	vision	Vision	C0042789
+62692	62761	GO:0010467	a concise description of the wild-type expression pattern of the gene	gene expression	Gene Expression	C0017262
+62775	62795	GO:0007567	in the case of genes	parturition	Birth	C0005615
+62775	62795	GO:0000003	in the case of genes	reproduction	Reproduction	C0035150
+62969	62974	GO:0020010	"cone	conoid		C1166649
+62997	63005	GO:0007567	the gene	parturition	Birth	C0005615
+62997	63005	GO:0000003	the gene	reproduction	Reproduction	C0035150
+63063	63081	GO:0020010	in cones than rods	conoid		C1166649
+63081	63090	GO:0020010	; "cone?"	conoid		C1166649
+63101	63130	GO:0020010	very weak staining in a cone-	conoid		C1166649
+63162	63166	GO:0005623	cell	cell	Cells	C0007634
+63217	63248	GO:0019013	inner core segment localization	nucleocapsid	viral nucleocapsid location	C1167518
+63359	63386	GO:0043473	retinal pigment epithelium.	pigmentation	Pigmentation	C0031911
+63398	63402	GO:0020010	cone	conoid		C1166649
+63411	63426	GO:0010467	gene expression	gene expression	Gene Expression	C0017262
+63523	63578	GO:0020010	type ii cone gene derepression in the rd7 mutant retina	conoid		C1166649
+63638	63664	GO:0007567	several rod-specific genes	parturition	Birth	C0005615
+63638	63664	GO:0000003	several rod-specific genes	reproduction	Reproduction	C0035150
+63801	63814	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+63919	63935	GO:0007567	the gene symbols	parturition	Birth	C0005615
+63919	63935	GO:0000003	the gene symbols	reproduction	Reproduction	C0035150
+63991	63995	GO:0005623	cell	cell	Cells	C0007634
+64024	64078	GO:0042571	opsin/rhodopsin antibody staining on rd7 mutant retina	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+64100	64104	GO:0005623	cell	cell	Cells	C0007634
+64189	64193	GO:0005623	cell	cell	Cells	C0007634
+64305	64324	GO:0042571	stained by antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+64605	64652	GO:0010467	expression patterns of several novel cone genes	gene expression	Gene Expression	C0017262
+64740	64744	GO:0005623	cell	cell	Cells	C0007634
+64793	64816	GO:0020010	in a cone distribution.	conoid		C1166649
+64817	64833	GO:0007567	all of the genes	parturition	Birth	C0005615
+64817	64833	GO:0000003	all of the genes	reproduction	Reproduction	C0035150
+64846	64878	GO:0050789	up-regulation in the rd7 mutant.	regulation of biological process	Regulation of biological process	C1327622
+64899	64980	GO:0051179	transcript localization predominantly to the inner segment of the photoreceptors.	establishment and maintenance of localization		C1744691
+65047	65064	GO:0007567	some of the genes	parturition	Birth	C0005615
+65047	65064	GO:0000003	some of the genes	reproduction	Reproduction	C0035150
+65155	65195	GO:0020010	both previously characterized cone genes	conoid		C1166649
+65206	65264	GO:0009790	staining at the scleral edge of the embryonic mouse retina	embryo development	Embryonic Development	C0013936
+65268	65272	GO:0005623	cell	cell	Cells	C0007634
+65338	65358	GO:0020010	two novel cone genes	conoid		C1166649
+65519	65528	GO:0007567	genes g48	parturition	Birth	C0005615
+65519	65528	GO:0000003	genes g48	reproduction	Reproduction	C0035150
+65560	65571	GO:0007567	other genes	parturition	Birth	C0005615
+65560	65571	GO:0000003	other genes	reproduction	Reproduction	C0035150
+65728	65760	GO:0009790	staining in the embryonic retina	embryo development	Embryonic Development	C0013936
+66039	66073	GO:0007567	the majority of rod-specific genes	parturition	Birth	C0005615
+66039	66073	GO:0000003	the majority of rod-specific genes	reproduction	Reproduction	C0035150
+66293	66297	GO:0005623	cell	cell	Cells	C0007634
+66501	66505	GO:0005623	cell	cell	Cells	C0007634
+66537	66541	GO:0005623	cell	cell	Cells	C0007634
+66632	66636	GO:0005623	cell	cell	Cells	C0007634
+66668	66685	GO:0044297	their cell bodies	cell body		C2752549
+66810	66831	GO:0007601	seen in the wild type	vision	Vision	C0042789
+66919	66955	GO:0020010	with fewer supernumerary cone cells,	conoid		C1166649
+67293	67297	GO:0005623	cell	cell	Cells	C0007634
+67362	67406	GO:0020010	very similar to the supernumerary cone cells	conoid		C1166649
+67407	67414	GO:0007601	seen in	vision	Vision	C0042789
+67542	67546	GO:0005623	cell	cell	Cells	C0007634
+67656	67699	GO:0044297	the uniform distribution of rod cell bodies	cell body		C2752549
+67722	67737	GO:0044297	the cell bodies	cell body		C2752549
+67767	67798	GO:0005634	almost exclusively of a nucleus	cell nucleus	Cell Nucleus	C0007610
+67828	67843	GO:0000792	heterochromatin	heterochromatin	Heterochromatin	C0019397
+67881	67885	GO:0005623	cell	cell	Cells	C0007634
+67937	67952	GO:0000792	heterochromatin	heterochromatin	Heterochromatin	C0019397
+67960	67971	GO:0000791	euchromatin	euchromatin	euchromatin location	C1166669
+67994	68006	GO:0005739	mitochondria	mitochondria	Mitochondria	C0026237
+68033	68058	GO:0020010	a typical cone cell body.	conoid		C1166649
+68072	68076	GO:0005623	cell	cell	Cells	C0007634
+68128	68163	GO:0005739	a single juxtanuclear mitochondrion	mitochondria	Mitochondria	C0026237
+68310	68323	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+68575	68603	GO:0007567	the target genes in question	parturition	Birth	C0005615
+68575	68603	GO:0000003	the target genes in question	reproduction	Reproduction	C0035150
+68633	68678	GO:0000988	mediated by a downstream transcription factor	transcription factor activity		C1148759
+68633	68678	GO:0001070	mediated by a downstream transcription factor	transcription factor activity		C1148759
+68633	68678	GO:0001071	mediated by a downstream transcription factor	transcription factor activity		C1148759
+68633	68678	GO:0003700	mediated by a downstream transcription factor	transcription factor activity		C1148759
+68741	68754	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+68833	68879	GO:0007567	the weak activation of some rod-specific genes	parturition	Birth	C0005615
+68833	68879	GO:0000003	the weak activation of some rod-specific genes	reproduction	Reproduction	C0035150
+68981	68994	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+69412	69468	GO:0020010	cone genes in a mouse model of enhanced s-cone syndrome.	conoid		C1166649

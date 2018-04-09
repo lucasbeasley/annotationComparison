@@ -1,0 +1,820 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+0	87	GO:0045595	rb-mediated neuronal differentiation through cell-cycle-independent regulation of e2f3a	regulation of cell differentiation		C1160033
+176	199	GO:0022008	neural differentiation,	neural cell differentiation		C2755962
+271	281	GO:0007049	cell cycle	cell cycle	Cell Cycle	C0007586
+271	286	GO:0000278	cell cycle exit	mitotic cell cycle	Mitotic Cell Cycle	C1155839
+300	322	GO:0070997	death of some neurons,	neuron death		C2754100
+326	349	GO:0030154	differentiation defects	cell differentiation	Cell Differentiation process	C0007589
+388	430	GO:0030154	that abnormalities in both differentiation	cell differentiation	Cell Differentiation process	C0007589
+503	507	GO:0005623	cell	cell	Cells	C0007634
+547	556	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+547	556	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+569	627	GO:0000988	specifically by deleting e2f transcription factor (e2f) 1.	transcription factor activity		C1148759
+569	627	GO:0001070	specifically by deleting e2f transcription factor (e2f) 1.	transcription factor activity		C1148759
+569	627	GO:0001071	specifically by deleting e2f transcription factor (e2f) 1.	transcription factor activity		C1148759
+569	627	GO:0003700	specifically by deleting e2f transcription factor (e2f) 1.	transcription factor activity		C1148759
+651	655	GO:0005623	cell	cell	Cells	C0007634
+712	716	GO:0005623	cell	cell	Cells	C0007634
+897	903	GO:0048511	rhythm	rhythm	rhythmic process 	C1523018
+992	1048	GO:0030154	differentiation by potentiating tissue-specific factors.	cell differentiation	Cell Differentiation process	C0007589
+1082	1130	GO:0035003	sac differentiation by inhibiting e2f3 activity.	subapical complex location		C1325744
+1294	1325	GO:0044838	rb function in quiescent cells.	cell quiescence		C3820815
+1443	1477	GO:0035003	sac differentiation through e2f3a.	subapical complex location		C1325744
+1535	1567	GO:0022008	neural differentiation directly,	neural cell differentiation		C2755962
+1730	1746	GO:0008181	tumor suppressor	tumor suppressor	tumor suppressor activity	C1325410
+1730	1746	GO:0051726	tumor suppressor	tumor suppressor	tumor suppressor activity	C1325410
+1788	1824	GO:0000988	the e2f transcription factor family.	transcription factor activity		C1148759
+1788	1824	GO:0001070	the e2f transcription factor family.	transcription factor activity		C1148759
+1788	1824	GO:0001071	the e2f transcription factor family.	transcription factor activity		C1148759
+1788	1824	GO:0003700	the e2f transcription factor family.	transcription factor activity		C1148759
+1863	1933	GO:0030154	differentiation by potentiating tissue-specific transcription factors,	cell differentiation	Cell Differentiation process	C0007589
+1943	1983	GO:0030154	differentiation defects in rb null cells	cell differentiation	Cell Differentiation process	C0007589
+2131	2161	GO:0030154	differentiation in the retina.	cell differentiation	Cell Differentiation process	C0007589
+2262	2276	GO:0008219	death in cells	cell death	Cell Death	C0007587
+2286	2295	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+2286	2295	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+2310	2337	GO:0030154	both normal differentiation	cell differentiation	Cell Differentiation process	C0007589
+2360	2364	GO:0005623	cell	cell	Cells	C0007634
+2547	2582	GO:0030182	for rb in neuronal differentiation.	neuron differentiation		C1159970
+2547	2582	GO:0022008	for rb in neuronal differentiation.	neural cell differentiation		C2755962
+2610	2614	GO:0005623	cell	cell	Cells	C0007634
+2654	2674	GO:0030154	cell differentiation	cell differentiation	Cell Differentiation process	C0007589
+2709	2745	GO:0007049	this cell-cycle-independent activity	cell cycle	Cell Cycle	C0007586
+2709	2745	GO:0000278	this cell-cycle-independent activity	mitotic cell cycle	Mitotic Cell Cycle	C1155839
+2825	2877	GO:0030154	its role in the differentiation of other cell types.	cell differentiation	Cell Differentiation process	C0007589
+2956	2968	GO:0022008	neurogenesis	neurogenesis	Neurogenesis	C0814002
+2974	2985	GO:0032502	development	development	Biologic Development	C0678723
+3027	3085	GO:0072089	starting with retinal progenitor cell (rpc) proliferation,	stem cell proliferation		C2755105
+3086	3144	GO:0007567	followed by birth of post-mitotic retinal transition cells	parturition	Birth	C0005615
+3201	3225	GO:0048468	terminal differentiation	terminal differentiation		C2752630
+3303	3313	GO:0007049	cell cycle	cell cycle	Cell Cycle	C0007586
+3303	3317	GO:0000278	the cell cycle	mitotic cell cycle	Mitotic Cell Cycle	C1155839
+3369	3380	GO:0032502	development	development	Biologic Development	C0678723
+3386	3413	GO:0022414	this process of rtc "birth"	reproductive process	Reproductive process	C0442692
+3423	3450	GO:0030154	coupling of differentiation	cell differentiation	Cell Differentiation process	C0007589
+3455	3465	GO:0007049	cell cycle	cell cycle	Cell Cycle	C0007586
+3455	3471	GO:0000278	cell cycle exit.	mitotic cell cycle	Mitotic Cell Cycle	C1155839
+3477	3481	GO:0007567	born	parturition	Birth	C0005615
+3553	3566	GO:0020010	cones make up	conoid		C1166649
+3632	3636	GO:0005623	cell	cell	Cells	C0007634
+3650	3674	GO:0044297	muller glia cell bodies,	cell body		C2752549
+3752	3756	GO:0005623	cell	cell	Cells	C0007634
+3776	3780	GO:0005623	cell	cell	Cells	C0007634
+3924	3932	GO:0005623	inl/gcl,	cell	Cells	C0007634
+4020	4030	GO:0008219	cell death	cell death	Cell Death	C0007587
+4056	4075	GO:0060041	retinal development	retinal development		C2610344
+4136	4148	GO:0005634	green nuclei	cell nucleus	Cell Nucleus	C0007610
+4151	4166	GO:0044297	rpc cell bodies	cell body		C2752549
+4222	4232	GO:0007049	cell cycle	cell cycle	Cell Cycle	C0007586
+4222	4254	GO:0000278	progress through the cell cycle.	mitotic cell cycle	Mitotic Cell Cycle	C1155839
+4308	4318	GO:0005634	red nuclei	cell nucleus	Cell Nucleus	C0007610
+4411	4435	GO:0030154	more differentiated rods	cell differentiation	Cell Differentiation process	C0007589
+4444	4449	GO:0020010	cones	conoid		C1166649
+4524	4528	GO:0005623	cell	cell	Cells	C0007634
+4582	4586	GO:0005623	cell	cell	Cells	C0007634
+4600	4611	GO:0032502	development	development	Biologic Development	C0678723
+4664	4674	GO:0007049	cell cycle	cell cycle	Cell Cycle	C0007586
+4664	4674	GO:0000278	cell cycle	mitotic cell cycle	Mitotic Cell Cycle	C1155839
+4679	4688	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+4679	4688	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+4724	4794	GO:0030154	differentiation by potentiating tissue-specific transcription factors.	cell differentiation	Cell Differentiation process	C0007589
+4831	4896	GO:0030154	differentiation through the indirect effects of abnormal division	cell differentiation	Cell Differentiation process	C0007589
+4907	4964	GO:0030154	and/or through direct regulation of differentiation genes	cell differentiation	Cell Differentiation process	C0007589
+5054	5072	GO:0005634	stained for nuclei	cell nucleus	Cell Nucleus	C0007610
+5091	5102	GO:0051320	(c) s-phase	S phase	S Phase	C0080129
+5127	5136	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+5127	5136	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+5213	5217	GO:0005623	cell	cell	Cells	C0007634
+5238	5242	GO:0005623	cell	cell	Cells	C0007634
+5279	5283	GO:0005623	cell	cell	Cells	C0007634
+5329	5387	GO:0007567	e2f target genes in p8 retinas of the indicated genotypes.	parturition	Birth	C0005615
+5329	5387	GO:0000003	e2f target genes in p8 retinas of the indicated genotypes.	reproduction	Reproduction	C0035150
+5672	5682	GO:0007049	cell cycle	cell cycle	Cell Cycle	C0007586
+5672	5700	GO:0000278	critical for cell cycle exit	mitotic cell cycle	Mitotic Cell Cycle	C1155839
+5714	5718	GO:0005623	cell	cell	Cells	C0007634
+5825	5829	GO:0005623	cell	cell	Cells	C0007634
+5839	5848	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+5839	5848	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+5872	5882	GO:0007049	cell cycle	cell cycle	Cell Cycle	C0007586
+5898	5934	GO:0000988	inhibiting e2f transcription factors	transcription factor activity		C1148759
+5898	5934	GO:0001070	inhibiting e2f transcription factors	transcription factor activity		C1148759
+5898	5934	GO:0001071	inhibiting e2f transcription factors	transcription factor activity		C1148759
+5898	5934	GO:0003700	inhibiting e2f transcription factors	transcription factor activity		C1148759
+5961	5993	GO:0000988	defined as transcription factors	transcription factor activity		C1148759
+5961	5993	GO:0001070	defined as transcription factors	transcription factor activity		C1148759
+5961	5993	GO:0001071	defined as transcription factors	transcription factor activity		C1148759
+5961	5993	GO:0003700	defined as transcription factors	transcription factor activity		C1148759
+5999	6003	GO:0005488	bind	binding	Binding 	C1167622
+6004	6037	GO:0004842	adenoviral e2 regulatory elements	ubiquitin conjugating enzyme activity		C1151883
+6004	6037	GO:0061650	adenoviral e2 regulatory elements	ubiquitin-like protein conjugating enzyme activity		C1151884
+6004	6037	GO:0019775	adenoviral e2 regulatory elements	FAT10 conjugating enzyme activity		C1151887
+6004	6037	GO:0019777	adenoviral e2 regulatory elements	Atg12 conjugating enzyme activity		C2612339
+6004	6037	GO:0072496	adenoviral e2 regulatory elements	Pup conjugating enzyme activity		C3156549
+6004	6037	GO:0019787	adenoviral e2 regulatory elements	ubiquitin-like protein transferase activity		C3888074
+6004	6037	GO:0004842	adenoviral e2 regulatory elements	ubiquitin-protein transferase activity		C3888151
+6004	6037	GO:0061657	adenoviral e2 regulatory elements	UFM1 conjugating enzyme activity		C3889565
+6004	6037	GO:0019789	adenoviral e2 regulatory elements	SUMO conjugating enzyme activity		C3889566
+6004	6037	GO:0019788	adenoviral e2 regulatory elements	NEDD8 conjugating enzyme activity		C3889567
+6004	6037	GO:0061658	adenoviral e2 regulatory elements	URM1 conjugating enzyme activity		C3889568
+6004	6037	GO:0061653	adenoviral e2 regulatory elements	E2	ISG15 conjugating enxyme activity	C3889569
+6004	6037	GO:0061631	adenoviral e2 regulatory elements	ubiquitin conjugating enzyme activity		C1151883
+6004	6037	GO:0061652	adenoviral e2 regulatory elements	FAT10 conjugating enzyme activity		C1151887
+6004	6037	GO:0061651	adenoviral e2 regulatory elements	Atg12 conjugating enzyme activity		C2612339
+6004	6037	GO:0061655	adenoviral e2 regulatory elements	Pup conjugating enzyme activity		C3156549
+6004	6037	GO:0061656	adenoviral e2 regulatory elements	SUMO conjugating enzyme activity		C3889566
+6004	6037	GO:0061654	adenoviral e2 regulatory elements	NEDD8 conjugating enzyme activity		C3889567
+6076	6096	GO:0003750	cell cycle regulator	cell cycle regulator		C1325288
+6076	6096	GO:0051726	cell cycle regulator	cell cycle regulator		C1325288
+6110	6121	GO:0005488	bind to dna	binding	Binding 	C1167622
+6283	6296	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+6375	6386	GO:0005488	bound to rb	binding	Binding 	C1167622
+6394	6427	GO:0009790	ectopic division in rb ko embryos	embryo development	Embryonic Development	C0013936
+6742	6756	GO:0016458	gene silencing	gene silencing	Gene Silencing	C0598496
+6757	6769	GO:0044838	in quiescent	quiescence		C3820816
+6773	6794	GO:0030154	differentiated cells.	cell differentiation	Cell Differentiation process	C0007589
+6829	6858	GO:0046666	apoptosis in the rb ko retina	retinal cell programmed cell death		C1159856
+6904	6950	GO:0043065	the primary pro-apoptotic member of the family	pro-apoptosis		C3546359
+7052	7061	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+7052	7061	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+7152	7161	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+7152	7161	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+7256	7293	GO:0044346	e2f3-induced apoptosis in fibroblasts	fibroblast apoptotic process		C3159226
+7395	7404	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+7395	7404	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+7471	7502	GO:0070265	death in distinct rb ko tissues	necrosis	Necrosis	C0027540
+7471	7502	GO:0001906	death in distinct rb ko tissues	necrosis	Necrosis	C0027540
+7471	7502	GO:0019835	death in distinct rb ko tissues	necrosis	Necrosis	C0027540
+7471	7502	GO:0008220	death in distinct rb ko tissues	necrosis	Necrosis	C0027540
+7471	7502	GO:0008219	death in distinct rb ko tissues	necrosis	Necrosis	C0027540
+7876	7891	GO:0044838	quiescent cells	quiescence		C3820816
+7955	7980	GO:0044838	present in both quiescent	quiescence		C3820816
+7994	7998	GO:0005623	cell	cell	Cells	C0007634
+8001	8029	GO:0044838	and in quiescent fibroblasts	quiescence		C3820816
+8169	8173	GO:0005623	cell	cell	Cells	C0007634
+8372	8410	GO:0051179	regulated by subcellular localization.	establishment and maintenance of localization		C1744691
+8645	8669	GO:0030182	neuronal differentiation	neuron differentiation		C1159970
+8645	8669	GO:0022008	neuronal differentiation	neural cell differentiation		C2755962
+8733	8761	GO:0030154	that differentiation defects	cell differentiation	Cell Differentiation process	C0007589
+8849	8873	GO:0030154	differentiation directly	cell differentiation	Cell Differentiation process	C0007589
+8994	8998	GO:0005623	cell	cell	Cells	C0007634
+9026	9051	GO:0030154	differentiation directly,	cell differentiation	Cell Differentiation process	C0007589
+9125	9178	GO:0000988	by potentiating tissue-specific transcription factors	transcription factor activity		C1148759
+9125	9178	GO:0001070	by potentiating tissue-specific transcription factors	transcription factor activity		C1148759
+9125	9178	GO:0001071	by potentiating tissue-specific transcription factors	transcription factor activity		C1148759
+9125	9178	GO:0003700	by potentiating tissue-specific transcription factors	transcription factor activity		C1148759
+9311	9324	GO:0009653	morphogenesis	morphogenesis	Morphogenesis	C0026559
+9378	9421	GO:0030182	differentiation defects in any rb ko neuron	neuron differentiation		C1159970
+9378	9421	GO:0022008	differentiation defects in any rb ko neuron	neural cell differentiation		C2755962
+9477	9486	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+9477	9486	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+9530	9560	GO:0030154	differentiation of rb ko cells	cell differentiation	Cell Differentiation process	C0007589
+9793	9807	GO:0030154	differentiated	cell differentiation	Cell Differentiation process	C0007589
+9854	9893	GO:0030154	retina-specific differentiation factors	cell differentiation	Cell Differentiation process	C0007589
+10009	10081	GO:0035881	a differentiation defect in cholinergic starburst amacrine cells (sacs).	amacrine cell differentiation		C3271328
+10210	10216	GO:0048511	rhythm	rhythm	rhythmic process 	C1523018
+10244	10265	GO:0030154	their differentiation	cell differentiation	Cell Differentiation process	C0007589
+10337	10415	GO:0030154	differentiation through e2f-independent tissue-specific transcription factors,	cell differentiation	Cell Differentiation process	C0007589
+10444	10473	GO:0035003	sac development through e2f3.	subapical complex location		C1325744
+10474	10497	GO:0005623	defects in rb null sacs	cell	Cells	C0007634
+10548	10552	GO:0005623	cell	cell	Cells	C0007634
+10602	10628	GO:0030154	differentiated without rb.	cell differentiation	Cell Differentiation process	C0007589
+10763	10775	GO:0022008	neurogenesis	neurogenesis	Neurogenesis	C0814002
+10877	10897	GO:0035003	sac differentiation.	subapical complex location		C1325744
+10913	10949	GO:0044838	rb function in quiescent fibroblasts	quiescence		C3820816
+11103	11137	GO:0035003	sac differentiation through e2f3a.	subapical complex location		C1325744
+11221	11246	GO:0030182	neuronal differentiation,	neuron differentiation		C1159970
+11221	11246	GO:0022008	neuronal differentiation,	neural cell differentiation		C2755962
+11310	11354	GO:0030154	not tissue-specific differentiation factors.	cell differentiation	Cell Differentiation process	C0007589
+11453	11487	GO:0009790	floxed rb exon 19 at embryonic day	embryo development	Embryonic Development	C0013936
+12179	12192	GO:0051301	cell division	cell division	Cell division	C0007590
+12418	12448	GO:0006260	temporal ectopic dna synthesis	DNA replication	DNA Replication	C0598312
+12418	12448	GO:0071897	temporal ectopic dna synthesis	DNA biosynthetic process		C1817262
+12889	12937	GO:0051320	the ectopically positioned s-phase cells at e14,	S phase	S Phase	C0080129
+13150	13161	GO:0032502	development	development	Biologic Development	C0678723
+13183	13187	GO:0005623	cell	cell	Cells	C0007634
+13189	13241	GO:0042571	with anti-phosphohistone 3 (ph3)-specific antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+13380	13395	GO:0051320	ectopic s-phase	S phase	S Phase	C0080129
+13400	13407	GO:0000278	mitosis	mitosis	Mitosis	C0026255
+13608	13629	GO:0009790	cns of rb ko embryos,	embryo development	Embryonic Development	C0013936
+13771	13780	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+13771	13780	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+13820	13824	GO:0005623	cell	cell	Cells	C0007634
+13929	13953	GO:0008219	the death of these cells	cell death	Cell Death	C0007587
+14039	14052	GO:0097194	for apoptotic	apoptosis	Apoptosis	C0162638
+14039	14052	GO:0006915	for apoptotic	apoptosis	Apoptosis	C0162638
+14057	14061	GO:0005623	cell	cell	Cells	C0007634
+14159	14163	GO:0005623	cell	cell	Cells	C0007634
+14309	14319	GO:0008219	cell death	cell death	Cell Death	C0007587
+14435	14439	GO:0005623	cell	cell	Cells	C0007634
+14545	14563	GO:0005634	stained for nuclei	cell nucleus	Cell Nucleus	C0007610
+14610	14614	GO:0005623	cell	cell	Cells	C0007634
+14640	14645	GO:0020010	cones	conoid		C1166649
+14691	14695	GO:0005623	cell	cell	Cells	C0007634
+14792	14796	GO:0005623	cell	cell	Cells	C0007634
+14848	14852	GO:0005623	cell	cell	Cells	C0007634
+15240	15258	GO:1990603	under dark-adapted	dark adaptation	Dark Adaptation	C0010985
+15843	15854	GO:0007567	other genes	parturition	Birth	C0005615
+15843	15854	GO:0000003	other genes	reproduction	Reproduction	C0035150
+15873	15883	GO:0007049	cell cycle	cell cycle	Cell Cycle	C0007586
+15873	15887	GO:0000278	the cell cycle	mitotic cell cycle	Mitotic Cell Cycle	C1155839
+15888	15897	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+15888	15897	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+15930	15940	GO:0007049	cell cycle	cell cycle	Cell Cycle	C0007586
+15930	15949	GO:0000278	negative cell cycle	mitotic cell cycle	Mitotic Cell Cycle	C1155839
+15945	15965	GO:0097194	apoptotic regulators	apoptosis	Apoptosis	C0162638
+15945	15965	GO:0006915	apoptotic regulators	apoptosis	Apoptosis	C0162638
+16333	16381	GO:0030154	normal differentiation in the rb/e2f1 dko retina	cell differentiation	Cell Differentiation process	C0007589
+16546	16596	GO:0030154	differentiation independent of cell cycle effects.	cell differentiation	Cell Differentiation process	C0007589
+16700	16704	GO:0005623	cell	cell	Cells	C0007634
+16807	16811	GO:0005623	cell	cell	Cells	C0007634
+16975	16979	GO:0005623	cell	cell	Cells	C0007634
+17188	17207	GO:0044297	bipolar cell bodies	cell body		C2752549
+17599	17629	GO:0046530	photoreceptor differentiation,	photoreceptor cell differentiation		C1160021
+17630	17681	GO:0000988	possibly through rod-specific transcription factors	transcription factor activity		C1148759
+17630	17681	GO:0001070	possibly through rod-specific transcription factors	transcription factor activity		C1148759
+17630	17681	GO:0001071	possibly through rod-specific transcription factors	transcription factor activity		C1148759
+17630	17681	GO:0003700	possibly through rod-specific transcription factors	transcription factor activity		C1148759
+17729	17759	GO:0046530	photoreceptor differentiation,	photoreceptor cell differentiation		C1160021
+17791	17839	GO:0030154	not by potentiating rod differentiation factors,	cell differentiation	Cell Differentiation process	C0007589
+17914	17939	GO:0030154	differentiation directly,	cell differentiation	Cell Differentiation process	C0007589
+17953	17976	GO:0010467	the expression of genes	gene expression	Gene Expression	C0017262
+17991	18002	GO:0032502	maturation,	development	Biologic Development	C0678723
+18114	18123	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+18114	18123	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+18199	18203	GO:0005623	cell	cell	Cells	C0007634
+18563	18567	GO:0005623	cell	cell	Cells	C0007634
+18601	18605	GO:0005623	cell	cell	Cells	C0007634
+18810	18814	GO:0005623	cell	cell	Cells	C0007634
+18874	18878	GO:0005623	cell	cell	Cells	C0007634
+18934	18938	GO:0005623	cell	cell	Cells	C0007634
+19017	19026	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+19017	19026	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+19614	19672	GO:0030154	differentiation primarily through e2f-independent pathways	cell differentiation	Cell Differentiation process	C0007589
+19724	19761	GO:0030154	to completely normal differentiation.	cell differentiation	Cell Differentiation process	C0007589
+19932	19973	GO:0023052	visual signalling in the mammalian retina	biological signaling		C3537152
+20006	20010	GO:0005623	cell	cell	Cells	C0007634
+20037	20041	GO:0005623	cell	cell	Cells	C0007634
+20074	20093	GO:0020010	cone bipolar cells.	conoid		C1166649
+20250	20291	GO:0001775	due to the activation of on bipolar cells	cell activation		C1326120
+20324	20345	GO:0036367	light in dark-adapted	light adaption		C3549167
+20540	20544	GO:0005623	cell	cell	Cells	C0007634
+20560	20600	GO:0002524	the sensitivity of the residual response	hypersensitivity	Hypersensitivity	C0020517
+20965	20978	GO:0036367	light-adapted	light adaption		C3549167
+21024	21039	GO:0020010	the cone system	conoid		C1166649
+21068	21073	GO:0020010	cones	conoid		C1166649
+21275	21279	GO:0005623	cell	cell	Cells	C0007634
+21328	21345	GO:0020010	a product of cone	conoid		C1166649
+21656	21705	GO:0009790	required for maximal expansion of embryonic rpcs,	embryo development	Embryonic Development	C0013936
+21767	21771	GO:0005623	cell	cell	Cells	C0007634
+21802	21806	GO:0005623	cell	cell	Cells	C0007634
+21974	22001	GO:0020010	a reduction of cone numbers	conoid		C1166649
+22029	22065	GO:0020010	a "genuine" slight reduction in cone	conoid		C1166649
+22138	22177	GO:0030154	relate to a true differentiation defect	cell differentiation	Cell Differentiation process	C0007589
+22202	22206	GO:0005623	cell	cell	Cells	C0007634
+22402	22443	GO:0020010	cone system function in the rb ko retina.	conoid		C1166649
+22445	22499	GO:0035003	abnormal sac differentiation independent of cell cycle	subapical complex location		C1325744
+22570	22574	GO:0005623	cell	cell	Cells	C0007634
+22598	22637	GO:0030154	differentiation defects in other cells.	cell differentiation	Cell Differentiation process	C0007589
+22861	22874	GO:0007049	a cell-cycle-	cell cycle	Cell Cycle	C0007586
+22861	22874	GO:0000278	a cell-cycle-	mitotic cell cycle	Mitotic Cell Cycle	C1155839
+22879	22888	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+22879	22888	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+23007	23027	GO:0044297	ganglion cell bodies	cell body		C2752549
+23135	23158	GO:0007601	seen in the e2f1 ko ipl	vision	Vision	C0042789
+23323	23358	GO:0044297	calb2+ cell bodies in the rb ko inl	cell body		C2752549
+23386	23390	GO:0005623	cell	cell	Cells	C0007634
+23479	23516	GO:0030154	differentiation defects in rb ko sacs	cell differentiation	Cell Differentiation process	C0007589
+23588	23606	GO:0005634	stained for nuclei	cell nucleus	Cell Nucleus	C0007610
+23588	23606	GO:0005634	stained for nuclei	cell nucleus	Cell Nucleus	C0007610
+23886	23889	GO:0007601	see	vision	Vision	C0042789
+23901	23943	GO:0044297	quantification of dense calb2+ cell bodies	cell body		C2752549
+23956	23983	GO:0044297	total slc18a3+ cell bodies,	cell body		C2752549
+23988	24019	GO:0044297	camk2a+ cell bodies in the inl.	cell body		C2752549
+24340	24354	GO:0035003	are from sacs,	subapical complex location		C1325744
+24340	24354	GO:0071173	are from sacs,	spindle assembly checkpoint		C2754376
+24355	24413	GO:0097447	named after their extensive dendritic-tree-like morphology	dendritic tree		C3548414
+24420	24424	GO:0035003	sacs	subapical complex location		C1325744
+24420	24424	GO:0071173	sacs	spindle assembly checkpoint		C2754376
+24556	24562	GO:0048511	rhythm	rhythm	rhythmic process 	C1523018
+24600	24619	GO:0060041	retinal development	retinal development		C2610344
+24626	24649	GO:0035003	sacs in the inl synapse	subapical complex location		C1325744
+24719	24744	GO:0035003	displaced sacs in the gcl	subapical complex location		C1325744
+24719	24744	GO:0071173	displaced sacs in the gcl	spindle assembly checkpoint		C2754376
+24765	24772	GO:0045202	synapse	synapse	Synapses	C0039062
+24861	24881	GO:0032502	mature sac processes	developmental process	Developmental process	C1511806
+24913	24951	GO:0031982	(vesicular acetyl choline transporter,	vesicle		C1622418
+25120	25128	GO:0035003	also sac	subapical complex location		C1325744
+25120	25128	GO:0071173	also sac	spindle assembly checkpoint		C2754376
+25149	25165	GO:0044297	both cell bodies	cell body		C2752549
+25170	25194	GO:0032502	processes of mature sacs	developmental process	Developmental process	C1511806
+25210	25229	GO:0007601	seen in fewer cells	vision	Vision	C0042789
+25230	25257	GO:0032502	in the mature rb ko retina,	development	Biologic Development	C0678723
+25266	25285	GO:0043025	present in the soma	neuron cell body	Cell body of neuron	C0599444
+25365	25381	GO:0008021	synaptic vesicle	synaptic vesicle	Synaptic Vesicles	C0039065
+25390	25403	GO:0035003	found in sacs	subapical complex location		C1325744
+25390	25403	GO:0071173	found in sacs	spindle assembly checkpoint		C2754376
+25447	25468	GO:0035003	expressed on sac soma	subapical complex location		C1325744
+25473	25481	GO:0030425	dendrite	dendrite	Dendrites	C0011305
+25526	25530	GO:0005623	cell	cell	Cells	C0007634
+25536	25569	GO:1902698	; gamma-aminobutyric acid (gaba),	acidogenesis		C3823112
+25536	25569	GO:1902705	; gamma-aminobutyric acid (gaba),	acidogenesis		C3823112
+25536	25569	GO:1902706	; gamma-aminobutyric acid (gaba),	acidogenesis		C3823112
+25536	25569	GO:1902699	; gamma-aminobutyric acid (gaba),	acidogenesis		C3823112
+25635	25639	GO:0005623	cell	cell	Cells	C0007634
+25651	25656	GO:0035003	sacs,	subapical complex location		C1325744
+25651	25656	GO:0071173	sacs,	spindle assembly checkpoint		C2754376
+25769	25773	GO:0005623	cell	cell	Cells	C0007634
+25786	25805	GO:0035003	sac process faintly	subapical complex location		C1325744
+25786	25805	GO:0071173	sac process faintly	spindle assembly checkpoint		C2754376
+25910	25932	GO:0035003	on sac differentiation	subapical complex location		C1325744
+26055	26059	GO:0005623	cell	cell	Cells	C0007634
+26281	26304	GO:0035003	in sac differentiation.	subapical complex location		C1325744
+26340	26370	GO:0035003	a defect in sac specification,	subapical complex location		C1325744
+26340	26370	GO:0071173	a defect in sac specification,	spindle assembly checkpoint		C2754376
+26371	26384	GO:0035003	sac survival,	subapical complex location		C1325744
+26371	26384	GO:0071173	sac survival,	spindle assembly checkpoint		C2754376
+26461	26470	GO:0035003	both sacs	subapical complex location		C1325744
+26461	26470	GO:0071173	both sacs	spindle assembly checkpoint		C2754376
+26484	26488	GO:0005623	cell	cell	Cells	C0007634
+26484	26498	GO:0005623	ganglion cells	cell	Cells	C0007634
+26569	26607	GO:0035003	a specific sac marker in this context.	subapical complex location		C1325744
+26569	26607	GO:0071173	a specific sac marker in this context.	spindle assembly checkpoint		C2754376
+26640	26648	GO:0030425	dendrite	dendrite	Dendrites	C0011305
+26712	26738	GO:0043025	the number of camk2a+ soma	neuron cell body	Cell body of neuron	C0599444
+26808	26812	GO:0005623	cell	cell	Cells	C0007634
+26921	26946	GO:0035003	required for sac survival	subapical complex location		C1325744
+26921	26946	GO:0071173	required for sac survival	spindle assembly checkpoint		C2754376
+27094	27107	GO:0035003	gaba in sacs,	subapical complex location		C1325744
+27094	27107	GO:0071173	gaba in sacs,	spindle assembly checkpoint		C2754376
+27180	27199	GO:0044297	in some cell bodies	cell body		C2752549
+27273	27284	GO:0032502	development	development	Biologic Development	C0678723
+27345	27370	GO:0032502	in mature wt sacs slc18a3	development	Biologic Development	C0678723
+27393	27421	GO:0035003	but in early postnatal sacs,	subapical complex location		C1325744
+27393	27421	GO:0071173	but in early postnatal sacs,	spindle assembly checkpoint		C2754376
+27428	27451	GO:0043025	found in the cell body,	neuron cell body	Cell body of neuron	C0599444
+27428	27451	GO:0044297	found in the cell body,	cell body		C2752549
+27604	27619	GO:0044297	in cell bodies,	cell body		C2752549
+27698	27734	GO:0035003	virtually undetectable in rb ko sacs	subapical complex location		C1325744
+27698	27734	GO:0071173	virtually undetectable in rb ko sacs	spindle assembly checkpoint		C2754376
+27798	27826	GO:0009058	both the synthesis/stability	anabolism	Anabolism	C0220781
+27831	27856	GO:0035003	transport of sac markers.	subapical complex location		C1325744
+27831	27856	GO:0071173	transport of sac markers.	spindle assembly checkpoint		C2754376
+27868	27915	GO:0030154	e2f3 loss rescues differentiation of rb ko sacs	cell differentiation	Cell Differentiation process	C0007589
+27990	28008	GO:0005634	stained for nuclei	cell nucleus	Cell Nucleus	C0007610
+28023	28030	GO:0000278	mitosis	mitosis	Mitosis	C0026255
+28082	28106	GO:0035003	sac soma at early stages	subapical complex location		C1325744
+28151	28180	GO:0005634	mitotic ph3+ nuclei in rb ko,	cell nucleus	Cell Nucleus	C0007610
+28249	28256	GO:0000278	mitosis	mitosis	Mitosis	C0026255
+28261	28271	GO:0008219	cell death	cell death	Cell Death	C0007587
+28289	28304	GO:0035003	the sac defect.	subapical complex location		C1325744
+28289	28304	GO:0071173	the sac defect.	spindle assembly checkpoint		C2754376
+28368	28375	GO:0000278	mitosis	mitosis	Mitosis	C0026255
+28380	28384	GO:0005623	cell	cell	Cells	C0007634
+28411	28426	GO:0035003	the sac defect.	subapical complex location		C1325744
+28411	28426	GO:0071173	the sac defect.	spindle assembly checkpoint		C2754376
+28483	28490	GO:0000278	mitosis	mitosis	Mitosis	C0026255
+28492	28502	GO:0008219	cell death	cell death	Cell Death	C0007587
+28508	28520	GO:0035003	sac defects.	subapical complex location		C1325744
+28508	28520	GO:0071173	sac defects.	spindle assembly checkpoint		C2754376
+28526	28555	GO:0000267	the fraction of camk2a+ cells	cell fraction	Cell Fraction	C0805525
+28645	28663	GO:0005634	stained for nuclei	cell nucleus	Cell Nucleus	C0007610
+28754	28758	GO:0005623	cell	cell	Cells	C0007634
+28846	28864	GO:0005634	stained for nuclei	cell nucleus	Cell Nucleus	C0007610
+28879	28892	GO:0051301	cell division	cell division	Cell division	C0007590
+28943	28973	GO:0035003	double-labelled dividing sacs.	subapical complex location		C1325744
+28943	28973	GO:0071173	double-labelled dividing sacs.	spindle assembly checkpoint		C2754376
+28979	29006	GO:0000267	the fraction of isl1+ cells	cell fraction	Cell Fraction	C0805525
+29342	29374	GO:0035003	sac differentiation through e2f3	subapical complex location		C1325744
+29379	29384	GO:0005488	binds	binding	Binding 	C1167622
+29438	29442	GO:0005623	cell	cell	Cells	C0007634
+29509	29513	GO:0005488	bind	binding	Binding 	C1167622
+29529	29566	GO:0000988	tissue-specific transcription factors	transcription factor activity		C1148759
+29529	29566	GO:0001070	tissue-specific transcription factors	transcription factor activity		C1148759
+29529	29566	GO:0001071	tissue-specific transcription factors	transcription factor activity		C1148759
+29529	29566	GO:0003700	tissue-specific transcription factors	transcription factor activity		C1148759
+29580	29595	GO:0030154	differentiation	cell differentiation	Cell Differentiation process	C0007589
+29689	29709	GO:0035003	sac differentiation.	subapical complex location		C1325744
+29745	29781	GO:0030154	rb-dependent differentiation defects	cell differentiation	Cell Differentiation process	C0007589
+29798	29808	GO:0007049	cell cycle	cell cycle	Cell Cycle	C0007586
+29798	29823	GO:0000278	independent of cell cycle	mitotic cell cycle	Mitotic Cell Cycle	C1155839
+29897	29923	GO:0030154	some differentiation genes	cell differentiation	Cell Differentiation process	C0007589
+29984	30005	GO:0035003	rb ko sac maturation.	subapical complex location		C1325744
+30064	30071	GO:0000278	mitosis	mitosis	Mitosis	C0026255
+30078	30082	GO:0005623	cell	cell	Cells	C0007634
+30106	30121	GO:0035003	the sac defect,	subapical complex location		C1325744
+30106	30121	GO:0071173	the sac defect,	spindle assembly checkpoint		C2754376
+30243	30250	GO:0000278	mitosis	mitosis	Mitosis	C0026255
+30374	30396	GO:0035003	rb/e2f3 dko sac tracks	subapical complex location		C1325744
+30374	30396	GO:0071173	rb/e2f3 dko sac tracks	spindle assembly checkpoint		C2754376
+30501	30505	GO:0005623	cell	cell	Cells	C0007634
+30643	30653	GO:0008219	cell death	cell death	Cell Death	C0007587
+30670	30689	GO:0035003	sac differentiation	subapical complex location		C1325744
+30670	30689	GO:0035003	sac differentiation	subapical complex location		C1325744
+30905	30933	GO:0035003	the fraction of camk2a+ sacs	subapical complex location		C1325744
+30905	30933	GO:0071173	the fraction of camk2a+ sacs	spindle assembly checkpoint		C2754376
+30994	30998	GO:0005623	cell	cell	Cells	C0007634
+31238	31242	GO:0005623	cell	cell	Cells	C0007634
+31284	31288	GO:0005623	cell	cell	Cells	C0007634
+31305	31314	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+31305	31314	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+31358	31399	GO:0035003	on ectopic division specifically in sacs,	subapical complex location		C1325744
+31358	31399	GO:0071173	on ectopic division specifically in sacs,	spindle assembly checkpoint		C2754376
+31443	31465	GO:0035003	expressed in both sacs	subapical complex location		C1325744
+31443	31465	GO:0071173	expressed in both sacs	spindle assembly checkpoint		C2754376
+31479	31483	GO:0005623	cell	cell	Cells	C0007634
+31497	31501	GO:0005623	cell	cell	Cells	C0007634
+31518	31534	GO:0035003	exclusively sacs	subapical complex location		C1325744
+31518	31534	GO:0071173	exclusively sacs	spindle assembly checkpoint		C2754376
+31579	31583	GO:0005623	cell	cell	Cells	C0007634
+31660	31683	GO:0035003	an excellent sac marker	subapical complex location		C1325744
+31660	31683	GO:0071173	an excellent sac marker	spindle assembly checkpoint		C2754376
+31783	31787	GO:0005623	cell	cell	Cells	C0007634
+31844	31865	GO:0035003	analysis of sacs soon	subapical complex location		C1325744
+31844	31865	GO:0071173	analysis of sacs soon	spindle assembly checkpoint		C2754376
+31866	31891	GO:0007567	after their birth at ~e15	parturition	Birth	C0005615
+32013	32023	GO:0007049	cell cycle	cell cycle	Cell Cycle	C0007586
+32013	32056	GO:0000278	and prior to rb-independent cell cycle exit	mitotic cell cycle	Mitotic Cell Cycle	C1155839
+32045	32069	GO:0048468	terminal differentiation	terminal differentiation		C2752630
+32094	32098	GO:0005623	cell	cell	Cells	C0007634
+32206	32210	GO:0005623	cell	cell	Cells	C0007634
+32299	32303	GO:0005623	cell	cell	Cells	C0007634
+32516	32542	GO:0035003	only 1 +/- 1 dividing sac,	subapical complex location		C1325744
+32516	32542	GO:0071173	only 1 +/- 1 dividing sac,	spindle assembly checkpoint		C2754376
+32592	32614	GO:0035003	53 +/- 8 dividing sacs	subapical complex location		C1325744
+32592	32614	GO:0071173	53 +/- 8 dividing sacs	spindle assembly checkpoint		C2754376
+32693	32705	GO:0035003	newborn sacs	subapical complex location		C1325744
+32693	32705	GO:0071173	newborn sacs	spindle assembly checkpoint		C2754376
+32725	32729	GO:0005623	cell	cell	Cells	C0007634
+32755	32769	GO:0035003	in rb ko sacs,	subapical complex location		C1325744
+32755	32769	GO:0071173	in rb ko sacs,	spindle assembly checkpoint		C2754376
+32816	32845	GO:0030154	not aberrant differentiation,	cell differentiation	Cell Differentiation process	C0007589
+32820	32844	GO:0030154	aberrant differentiation	cell differentiation	Cell Differentiation process	C0007589
+32959	32966	GO:0035003	in sacs	subapical complex location		C1325744
+32959	32966	GO:0071173	in sacs	spindle assembly checkpoint		C2754376
+33041	33068	GO:0030154	the differentiation of sacs	cell differentiation	Cell Differentiation process	C0007589
+33115	33119	GO:0005623	cell	cell	Cells	C0007634
+33148	33152	GO:0005623	cell	cell	Cells	C0007634
+33631	33645	GO:0030154	differentiated	cell differentiation	Cell Differentiation process	C0007589
+33695	33699	GO:0005623	cell	cell	Cells	C0007634
+33789	33793	GO:0005623	cell	cell	Cells	C0007634
+33919	33945	GO:0035003	reminiscent of sac markers	subapical complex location		C1325744
+33919	33945	GO:0071173	reminiscent of sac markers	spindle assembly checkpoint		C2754376
+34000	34009	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+34234	34258	GO:0035003	present in both sac soma	subapical complex location		C1325744
+34263	34271	GO:0030425	dendrite	dendrite	Dendrites	C0011305
+34390	34397	GO:0035003	in sacs	subapical complex location		C1325744
+34390	34397	GO:0071173	in sacs	spindle assembly checkpoint		C2754376
+34424	34456	GO:0048468	present in mature ganglion cells	cell development	Cell development	C0815089
+34468	34472	GO:0005623	cell	cell	Cells	C0007634
+34492	34520	GO:0035003	rb staining in sac processes	subapical complex location		C1325744
+34492	34520	GO:0071173	rb staining in sac processes	spindle assembly checkpoint		C2754376
+34654	34672	GO:0035003	colocalize in sacs	subapical complex location		C1325744
+34654	34672	GO:0071173	colocalize in sacs	spindle assembly checkpoint		C2754376
+34696	34726	GO:0035003	defects in sac differentiation	subapical complex location		C1325744
+34810	34831	GO:0035003	rb expression in sacs	subapical complex location		C1325744
+34810	34831	GO:0071173	rb expression in sacs	spindle assembly checkpoint		C2754376
+35396	35414	GO:0005634	stained for nuclei	cell nucleus	Cell Nucleus	C0007610
+35500	35521	GO:0043025	double-labelled soma.	neuron cell body	Cell body of neuron	C0599444
+35628	35674	GO:0042551	present in a specific subset of mature neurons	neuron maturation		C1623343
+35878	35907	GO:0097426	or with the glial marker gfap	glial filament	Glial Fibrillary Acidic Protein	C0017626
+35926	35949	GO:0035003	unlike in retinal sacs,	subapical complex location		C1325744
+35926	35949	GO:0071173	unlike in retinal sacs,	spindle assembly checkpoint		C2754376
+36236	36259	GO:0030154	differentiation defects	cell differentiation	Cell Differentiation process	C0007589
+36380	36402	GO:0022008	neural differentiation	neural cell differentiation		C2755962
+36432	36470	GO:0051179	distinct localization of e2f3 isoforms	establishment and maintenance of localization		C1744691
+36497	36516	GO:0035003	rb staining in sacs	subapical complex location		C1325744
+36497	36516	GO:0071173	rb staining in sacs	spindle assembly checkpoint		C2754376
+36538	36547	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+36570	36582	GO:0042571	the antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+36780	36784	GO:0005623	cell	cell	Cells	C0007634
+36908	36917	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+36972	36983	GO:0032502	development	development	Biologic Development	C0678723
+36985	37020	GO:0042571	analysis with the pan-e2f3 antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+37519	37572	GO:0048468	in e2f3-expressing cells during wt retinal maturation	cell development	Cell development	C0815089
+37766	37775	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+38048	38057	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+38199	38229	GO:0000988	a nuclear transcription factor	transcription factor activity		C1148759
+38199	38229	GO:0001070	a nuclear transcription factor	transcription factor activity		C1148759
+38199	38229	GO:0001071	a nuclear transcription factor	transcription factor activity		C1148759
+38199	38229	GO:0003700	a nuclear transcription factor	transcription factor activity		C1148759
+38252	38256	GO:0005623	cell	cell	Cells	C0007634
+38313	38322	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+38362	38371	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+38603	38626	GO:0051179	that e2f3a localization	establishment and maintenance of localization		C1744691
+38634	38695	GO:0043687	regulated by as yet unknown post-translational modifications.	post-translational protein modification	Post-Translational Protein Processing	C0033666
+38759	38769	GO:0007049	cell cycle	cell cycle	Cell Cycle	C0007586
+38759	38809	GO:0000278	other cell cycle proteins in the developing retina	mitotic cell cycle	Mitotic Cell Cycle	C1155839
+38817	38826	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+39088	39097	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+39167	39207	GO:0030154	the differentiation defect in rb ko sacs	cell differentiation	Cell Differentiation process	C0007589
+39943	39981	GO:0007567	real-time rt-pcr analysis of e2f genes	parturition	Birth	C0005615
+39943	39981	GO:0000003	real-time rt-pcr analysis of e2f genes	reproduction	Reproduction	C0035150
+40229	40249	GO:0035003	rescue of rb ko sacs	subapical complex location		C1325744
+40229	40249	GO:0071173	rescue of rb ko sacs	spindle assembly checkpoint		C2754376
+40338	40356	GO:0005634	stained for nuclei	cell nucleus	Cell Nucleus	C0007610
+40371	40378	GO:0000279	M-phase	M-phase	Cell division phases	C0007591
+40397	40419	GO:0035003	the sac marker slc18a3	subapical complex location		C1325744
+40397	40419	GO:0071173	the sac marker slc18a3	spindle assembly checkpoint		C2754376
+40490	40505	GO:0035003	the sac defect.	subapical complex location		C1325744
+40490	40505	GO:0071173	the sac defect.	spindle assembly checkpoint		C2754376
+40600	40620	GO:0003750	cell cycle regulator	cell cycle regulator		C1325288
+40600	40620	GO:0051726	cell cycle regulator	cell cycle regulator		C1325288
+40629	40648	GO:0060041	retinal development	retinal development		C2610344
+40692	40701	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+40706	40720	GO:0005634	nucleus at p0,	cell nucleus	Cell Nucleus	C0007610
+40820	40829	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+40871	40915	GO:0035003	consistent with rb staining of sac processes	subapical complex location		C1325744
+40871	40915	GO:0071173	consistent with rb staining of sac processes	spindle assembly checkpoint		C2754376
+40929	40971	GO:0035003	and with the very small proportion of sacs	subapical complex location		C1325744
+40929	40971	GO:0071173	and with the very small proportion of sacs	spindle assembly checkpoint		C2754376
+41035	41044	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+41189	41218	GO:0051179	a nuclear localization signal	establishment and maintenance of localization		C1744691
+41239	41248	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+41275	41300	GO:0004861	the cdk inhibitors cdkn1a	cyclin-dependent protein kinase inhibitor activity		C1152568
+41381	41401	GO:0003750	cell cycle regulator	cell cycle regulator		C1325288
+41381	41401	GO:0051726	cell cycle regulator	cell cycle regulator		C1325288
+41531	41564	GO:0035003	sac differentiation through e2f3a	subapical complex location		C1325744
+41596	41646	GO:0035003	responsible for aberrant rb ko sac differentiation	subapical complex location		C1325744
+41798	41811	GO:0034062	transcriptase	transcriptase	Transcriptase activity	C2257077
+41798	41811	GO:0003899	transcriptase	transcriptase	Transcriptase activity	C2257077
+41798	41811	GO:0003968	transcriptase	transcriptase	Transcriptase activity	C2257077
+42230	42266	GO:0050789	were due to down-regulation of e2f3b	regulation of biological process	Regulation of biological process	C1327622
+42453	42463	GO:0007049	cell cycle	cell cycle	Cell Cycle	C0007586
+42453	42474	GO:0000278	cell cycle induction,	mitotic cell cycle	Mitotic Cell Cycle	C1155839
+42487	42498	GO:0035003	sac defects	subapical complex location		C1325744
+42487	42498	GO:0071173	sac defects	spindle assembly checkpoint		C2754376
+42517	42527	GO:0007049	cell cycle	cell cycle	Cell Cycle	C0007586
+42517	42550	GO:0000278	linked to cell cycle perturbation	mitotic cell cycle	Mitotic Cell Cycle	C1155839
+42622	42643	GO:0044838	rb in quiescent cells	cell quiescence		C3820815
+42689	42719	GO:0030154	differentiation in rb ko sacs.	cell differentiation	Cell Differentiation process	C0007589
+42769	42789	GO:0035003	the rb ko sac defect	subapical complex location		C1325744
+42769	42789	GO:0071173	the rb ko sac defect	spindle assembly checkpoint		C2754376
+42809	42854	GO:0051726	separate from its role in cell cycle control,	cell cycle regulation	Cell Cycle Control	C1155872
+42809	42854	GO:1901987	separate from its role in cell cycle control,	regulation of cell cycle phase transition		C3544486
+42855	42877	GO:0050789	rb regulation of e2f3a	regulation of biological process	Regulation of biological process	C1327622
+42900	42932	GO:0030182	proper neuronal differentiation.	neuron differentiation		C1159970
+42900	42932	GO:0022008	proper neuronal differentiation.	neural cell differentiation		C2755962
+42966	42979	GO:0051301	cell division	cell division	Cell division	C0007590
+43077	43087	GO:0007049	cell cycle	cell cycle	Cell Cycle	C0007586
+43077	43113	GO:0000278	defects in neuronal cell cycle exit,	mitotic cell cycle	Mitotic Cell Cycle	C1155839
+43108	43123	GO:0030154	differentiation	cell differentiation	Cell Differentiation process	C0007589
+43314	43324	GO:0007049	cell cycle	cell cycle	Cell Cycle	C0007586
+43314	43349	GO:0000278	cell cycle exit in newborn neurons,	mitotic cell cycle	Mitotic Cell Cycle	C1155839
+43357	43402	GO:0043524	required for survival of a subset of neurons,	neuron survival		C1819944
+43484	43499	GO:0030154	differentiation	cell differentiation	Cell Differentiation process	C0007589
+43626	43645	GO:0042551	neuronal maturation	neuron maturation		C1623343
+43800	43814	GO:0030154	differentiated	cell differentiation	Cell Differentiation process	C0007589
+43866	43889	GO:0020010	cone-mediated function,	conoid		C1166649
+43968	43972	GO:0005623	cell	cell	Cells	C0007634
+43988	43999	GO:0007567	death genes	parturition	Birth	C0005615
+43988	43999	GO:0000003	death genes	reproduction	Reproduction	C0035150
+44022	44026	GO:0005623	cell	cell	Cells	C0007634
+44126	44150	GO:0030154	differentiation targets,	cell differentiation	Cell Differentiation process	C0007589
+44191	44217	GO:0060041	in retinal cell maturation	retinal development		C2610344
+44364	44368	GO:0005623	cell	cell	Cells	C0007634
+44402	44423	GO:0000988	transcription factors	transcription factor activity		C1148759
+44402	44423	GO:0001070	transcription factors	transcription factor activity		C1148759
+44402	44423	GO:0001071	transcription factors	transcription factor activity		C1148759
+44402	44423	GO:0003700	transcription factors	transcription factor activity		C1148759
+44437	44452	GO:0030154	differentiation	cell differentiation	Cell Differentiation process	C0007589
+44530	44563	GO:0051301	cell-autonomous ectopic division,	cell division	Cell division	C0007590
+44575	44623	GO:0030154	differentiation defects in sporadic rb ko clones	cell differentiation	Cell Differentiation process	C0007589
+44827	44836	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+44827	44836	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+44983	44992	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+44983	44992	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+45155	45168	GO:0051301	cell division	cell division	Cell division	C0007590
+45182	45191	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+45182	45191	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+45422	45460	GO:0020010	restoration of the cone-bipolar system	conoid		C1166649
+45639	45650	GO:0032502	development	development	Biologic Development	C0678723
+45669	45673	GO:0005623	cell	cell	Cells	C0007634
+45685	45689	GO:0005623	cell	cell	Cells	C0007634
+45742	45759	GO:0035003	potentially sacs,	subapical complex location		C1325744
+45742	45759	GO:0071173	potentially sacs,	spindle assembly checkpoint		C2754376
+45831	45864	GO:0035003	sac differentiation through e2f3a	subapical complex location		C1325744
+45989	46023	GO:0035003	defects in rb ko cholinergic sacs.	subapical complex location		C1325744
+45989	46023	GO:0071173	defects in rb ko cholinergic sacs.	spindle assembly checkpoint		C2754376
+46045	46086	GO:0009058	e2f1-independent defects in the synthesis	anabolism	Anabolism	C0220781
+46091	46135	GO:0035003	transport of a large cohort of sac proteins.	subapical complex location		C1325744
+46171	46182	GO:0032502	development	development	Biologic Development	C0678723
+46311	46323	GO:0022008	neurogenesis	neurogenesis	Neurogenesis	C0814002
+46352	46357	GO:0005488	binds	binding	Binding 	C1167622
+46414	46418	GO:0005623	cell	cell	Cells	C0007634
+46471	46476	GO:0005488	binds	binding	Binding 	C1167622
+46493	46530	GO:0000988	tissue-specific transcription factors	transcription factor activity		C1148759
+46493	46530	GO:0001070	tissue-specific transcription factors	transcription factor activity		C1148759
+46493	46530	GO:0001071	tissue-specific transcription factors	transcription factor activity		C1148759
+46493	46530	GO:0003700	tissue-specific transcription factors	transcription factor activity		C1148759
+46544	46559	GO:0030154	differentiation	cell differentiation	Cell Differentiation process	C0007589
+46595	46648	GO:0042692	muscle differentiation by potentiating myod1 activity	muscle cell differentiation		C1326080
+46794	46826	GO:0035003	sac differentiation through e2f3	subapical complex location		C1325744
+47105	47141	GO:0030154	required for differentiation of rpcs	cell differentiation	Cell Differentiation process	C0007589
+47180	47210	GO:0007567	rtc birth to terminal mitosis,	parturition	Birth	C0005615
+47300	47333	GO:0035003	required for sac differentiation,	subapical complex location		C1325744
+47430	47454	GO:0048468	terminal differentiation	terminal differentiation		C2752630
+47476	47488	GO:0000785	colour codes	chromatin	chromatin location	C1325550
+47525	47561	GO:0050789	rb regulation of sac differentiation	regulation of biological process	Regulation of biological process	C1327622
+47637	47676	GO:0035003	e2f3 deletion rescued rb ko sac defects	subapical complex location		C1325744
+47637	47676	GO:0071173	e2f3 deletion rescued rb ko sac defects	spindle assembly checkpoint		C2754376
+47814	47834	GO:0035003	sac differentiation.	subapical complex location		C1325744
+47903	47922	GO:0035003	rb ko sac division.	subapical complex location		C1325744
+47903	47922	GO:0071173	rb ko sac division.	spindle assembly checkpoint		C2754376
+47997	48007	GO:0007049	cell cycle	cell cycle	Cell Cycle	C0007586
+47997	48033	GO:0000278	deregulated expression of cell cycle	mitotic cell cycle	Mitotic Cell Cycle	C1155839
+48012	48048	GO:0007567	apoptotic genes in the rb ko retina.	parturition	Birth	C0005615
+48117	48183	GO:0007049	specific cell-cycle-independent defects in rb ko forebrain neurons	cell cycle	Cell Cycle	C0007586
+48117	48183	GO:0000278	specific cell-cycle-independent defects in rb ko forebrain neurons	mitotic cell cycle	Mitotic Cell Cycle	C1155839
+48282	48319	GO:0030182	directly in neuronal differentiation.	neuron differentiation		C1159970
+48282	48319	GO:0022008	directly in neuronal differentiation.	neural cell differentiation		C2755962
+48370	48377	GO:0035003	in sacs	subapical complex location		C1325744
+48370	48377	GO:0071173	in sacs	spindle assembly checkpoint		C2754376
+48431	48447	GO:0030154	differentiation.	cell differentiation	Cell Differentiation process	C0007589
+48523	48549	GO:0044838	targets in quiescent cells	cell quiescence		C3820815
+48722	48755	GO:0035003	sac differentiation through e2f3a	subapical complex location		C1325744
+48850	48870	GO:0035003	sac differentiation,	subapical complex location		C1325744
+48992	49048	GO:0035003	sac differentiation through the activating e2f3 isoform.	subapical complex location		C1325744
+49069	49087	GO:0051179	e2f3b localization	establishment and maintenance of localization		C1744691
+49188	49226	GO:1902698	e2f3b share 110 c-terminal amino acids	acidogenesis		C3823112
+49188	49226	GO:1902705	e2f3b share 110 c-terminal amino acids	acidogenesis		C3823112
+49188	49226	GO:1902706	e2f3b share 110 c-terminal amino acids	acidogenesis		C3823112
+49188	49226	GO:1902699	e2f3b share 110 c-terminal amino acids	acidogenesis		C3823112
+49248	49260	GO:0003677	dna-binding,	DNA binding	dna binding	C1148673
+49273	49288	GO:2000144	transactivation	transactivation	Trans-Activation, Genetic	C0040624
+49297	49304	GO:0005488	binding	binding	Binding 	C1167622
+49349	49353	GO:0005623	cell	cell	Cells	C0007634
+49426	49435	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+49613	49618	GO:0005488	binds	binding	Binding 	C1167622
+49683	49707	GO:0051320	e2fs in mid-late s-phase	S phase	S Phase	C0080129
+49763	49768	GO:0005488	binds	binding	Binding 	C1167622
+49927	49943	GO:0051179	e2f localization	establishment and maintenance of localization		C1744691
+50015	50024	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+50094	50122	GO:0035003	colocalize to sac processes.	subapical complex location		C1325744
+50094	50122	GO:0071173	colocalize to sac processes.	spindle assembly checkpoint		C2754376
+50124	50157	GO:0051179	the nuclear localization of e2f3b	establishment and maintenance of localization		C1744691
+50230	50266	GO:0005634	where e2f5 switches from the nucleus	cell nucleus	Cell Nucleus	C0007610
+50270	50279	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+50525	50573	GO:0035003	in supporting sac differentiation through e2f3a.	subapical complex location		C1325744
+50543	50558	GO:0030154	differentiation	cell differentiation	Cell Differentiation process	C0007589
+50684	50688	GO:0005623	cell	cell	Cells	C0007634
+50700	50710	GO:0007049	cell cycle	cell cycle	Cell Cycle	C0007586
+50700	50714	GO:0000278	the cell cycle	mitotic cell cycle	Mitotic Cell Cycle	C1155839
+50860	50887	GO:0016049	expansion of cycling cells,	cell growth		C0007595
+50952	50997	GO:0051301	division in terminally differentiating cells.	cell division	Cell division	C0007590
+51041	51100	GO:0030154	aspects of differentiation go ahead relatively unperturbed.	cell differentiation	Cell Differentiation process	C0007589
+51143	51147	GO:0005623	cell	cell	Cells	C0007634
+51153	51179	GO:0007567	born in the absence of rb,	parturition	Birth	C0005615
+51426	51452	GO:0030154	differentiated enterocytes	cell differentiation	Cell Differentiation process	C0007589
+51551	51571	GO:0035003	in the case of sacs,	subapical complex location		C1325744
+51551	51571	GO:0071173	in the case of sacs,	spindle assembly checkpoint		C2754376
+51572	51599	GO:0030154	the differentiation defects	cell differentiation	Cell Differentiation process	C0007589
+51735	51739	GO:0005623	cell	cell	Cells	C0007634
+51809	51840	GO:0030154	many aspects of differentiation	cell differentiation	Cell Differentiation process	C0007589
+51853	51857	GO:0005623	cell	cell	Cells	C0007634
+51911	51955	GO:0051301	division of terminally differentiating cells	cell division	Cell division	C0007590
+52087	52107	GO:0035003	sac differentiation?	subapical complex location		C1325744
+52129	52176	GO:0035003	sac differentiation through its well known role	subapical complex location		C1325744
+52182	52195	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+52259	52268	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+52289	52326	GO:0010468	processes other than gene regulation.	regulation of gene expression	Gene Expression Regulation	C0017263
+52375	52396	GO:0030154	differentiation genes	cell differentiation	Cell Differentiation process	C0007589
+52410	52430	GO:0003750	cell cycle regulator	cell cycle regulator		C1325288
+52410	52430	GO:0051726	cell cycle regulator	cell cycle regulator		C1325288
+52454	52463	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+52492	52507	GO:0030154	differentiation	cell differentiation	Cell Differentiation process	C0007589
+52517	52543	GO:0000988	many transcription factors	transcription factor activity		C1148759
+52517	52543	GO:0001070	many transcription factors	transcription factor activity		C1148759
+52517	52543	GO:0001071	many transcription factors	transcription factor activity		C1148759
+52517	52543	GO:0003700	many transcription factors	transcription factor activity		C1148759
+52544	52567	GO:0005634	shuttle between nucleus	cell nucleus	Cell Nucleus	C0007610
+52572	52581	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+52671	52698	GO:0007567	e2f3a-specific target genes	parturition	Birth	C0005615
+52671	52698	GO:0000003	e2f3a-specific target genes	reproduction	Reproduction	C0035150
+52702	52711	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+52916	52953	GO:0030182	differentiation in non-neuronal cells	neuron differentiation		C1159970
+53045	53049	GO:0005623	cell	cell	Cells	C0007634
+53186	53190	GO:0005488	bind	binding	Binding 	C1167622
+53208	53223	GO:0030154	differentiation	cell differentiation	Cell Differentiation process	C0007589
+53243	53250	GO:0005488	binding	binding	Binding 	C1167622
+53337	53341	GO:0005488	bind	binding	Binding 	C1167622
+53365	53374	GO:0000785	chromatin	chromatin	chromatin location	C1325550
+53476	53489	GO:0006351	transcription	transcription	Transcription, Genetic	C0040649
+53690	53694	GO:0005623	cell	cell	Cells	C0007634
+53807	53853	GO:0030154	differentiation defects in other rb ko tissues	cell differentiation	Cell Differentiation process	C0007589
+55017	55038	GO:0051320	for s-phase analysis,	S phase	S Phase	C0080129
+55049	55052	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+55132	55136	GO:0005623	cell	cell	Cells	C0007634
+55158	55203	GO:0000746	a biotin-conjugated sheep polyclonal antibody	conjugation		C1160466
+55282	55298	GO:0042571	other antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+55412	55446	GO:1902698	in citric acid solution for 15 min	acidogenesis		C3823112
+55412	55446	GO:1902705	in citric acid solution for 15 min	acidogenesis		C3823112
+55412	55446	GO:1902706	in citric acid solution for 15 min	acidogenesis		C3823112
+55412	55446	GO:1902699	in citric acid solution for 15 min	acidogenesis		C3823112
+56011	56029	GO:0042571	primary antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+56042	56046	GO:0005623	cell	cell	Cells	C0007634
+56265	56271	GO:0005634	nuclei	cell nucleus	Cell Nucleus	C0007610
+56379	56383	GO:0005623	cell	cell	Cells	C0007634
+56819	56823	GO:0005623	cell	cell	Cells	C0007634
+56900	56904	GO:0005623	cell	cell	Cells	C0007634
+56961	56965	GO:0005623	cell	cell	Cells	C0007634
+57159	57185	GO:0051320	quantification of s-phase,	S phase	S Phase	C0080129
+57186	57193	GO:0000279	M-phase	M-phase	Cell division phases	C0007591
+57199	57214	GO:0097194	apoptotic cells	apoptosis	Apoptosis	C0162638
+57199	57214	GO:0006915	apoptotic cells	apoptosis	Apoptosis	C0162638
+57283	57326	GO:0030154	quantification of differentiated cell types	cell differentiation	Cell Differentiation process	C0007589
+57436	57443	GO:0007601	per eye	vision	Vision	C0042789
+57448	57481	GO:0007601	three eyes from different litters	vision	Vision	C0042789
+57513	57534	GO:0001171	reverse transcription	reverse transcription	Reverse Transcription	C0035380
+57675	57684	GO:0007586	digestion	digestion	Digestion	C0012238
+57825	57828	GO:0043739	MUG	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+57848	57896	GO:0009058	the superscript ii first-strand synthesis system	anabolism	Anabolism	C0220781
+58412	58435	GO:0000785	(0.73% blue food colour	chromatin	chromatin location	C1325550
+58531	58556	GO:0000785	(0.73% yellow food colour	chromatin	chromatin location	C1325550
+59252	59261	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+59317	59326	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+59543	59551	GO:0016020	membrane	membrane	Membrane	C0596901
+59558	59591	GO:0042571	incubated in the primary antibody	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+59716	59724	GO:0016020	membrane	membrane	Membrane	C0596901
+59752	59831	GO:0000746	at room temperature in the secondary horseradish peroxidase-conjugated antibody	conjugation		C1160466
+60077	60109	GO:0042571	the following primary antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+60470	60501	GO:1990603	recorded from dark-adapted mice	dark adaptation	Dark Adaptation	C0010985
+60540	60562	GO:1990603	dark-adapted overnight	dark adaptation	Dark Adaptation	C0010985
+60744	60771	GO:1990603	obtained under dark-adapted	dark adaptation	Dark Adaptation	C0010985
+60787	60800	GO:0036367	light-adapted	light adaption		C3549167
+60824	60840	GO:0036367	light adaptation	light adaption		C3549167
+61246	61282	GO:0000407	band-pass filter cut-off frequencies	pre-autophagosomal structure		C1820373
+61613	61623	GO:0008219	cell death	cell death	Cell Death	C0007587
+61713	61731	GO:0005634	stained for nuclei	cell nucleus	Cell Nucleus	C0007610
+61750	61761	GO:0051320	(a) s-phase	S phase	S Phase	C0080129
+61786	61795	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+61786	61795	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+61834	61838	GO:0005623	cell	cell	Cells	C0007634
+61896	61917	GO:0006260	ectopic dna synthesis	DNA replication	DNA Replication	C0598312
+61896	61917	GO:0071897	ectopic dna synthesis	DNA biosynthetic process		C1817262
+62136	62175	GO:0009790	apoptosis in the embryonic rb ko retina	embryo development	Embryonic Development	C0013936
+62247	62275	GO:0035003	the period during which sacs	subapical complex location		C1325744
+62247	62275	GO:0071173	the period during which sacs	spindle assembly checkpoint		C2754376
+62280	62284	GO:0007567	born	parturition	Birth	C0005615
+62291	62309	GO:0005634	stained for nuclei	cell nucleus	Cell Nucleus	C0007610
+62328	62342	GO:0051320	either s-phase	S phase	S Phase	C0080129
+62381	62390	GO:0097194	apoptosis	apoptosis	Apoptosis	C0162638
+62381	62390	GO:0006915	apoptosis	apoptosis	Apoptosis	C0162638
+62458	62462	GO:0005623	cell	cell	Cells	C0007634
+62471	62495	GO:0007601	seen in the inner retina	vision	Vision	C0042789
+62732	62739	GO:0000278	mitosis	mitosis	Mitosis	C0026255
+62834	62852	GO:0005634	stained for nuclei	cell nucleus	Cell Nucleus	C0007610
+62870	62877	GO:0000279	M-phase	M-phase	Cell division phases	C0007591
+62948	62952	GO:0005623	cell	cell	Cells	C0007634
+62991	62995	GO:0005623	cell	cell	Cells	C0007634
+63317	63327	GO:0008219	cell death	cell death	Cell Death	C0007587
+63432	63450	GO:0005634	stained for nuclei	cell nucleus	Cell Nucleus	C0007610
+63497	63501	GO:0005623	cell	cell	Cells	C0007634
+63527	63532	GO:0020010	cones	conoid		C1166649
+63578	63582	GO:0005623	cell	cell	Cells	C0007634
+63669	63673	GO:0005623	cell	cell	Cells	C0007634
+63669	63675	GO:0005623	cells.	cell	Cells	C0007634
+64129	64148	GO:0036367	under light adapted	light adaption		C3549167
+64341	64378	GO:0030154	differentiation defects in rb ko sacs	cell differentiation	Cell Differentiation process	C0007589
+64445	64463	GO:0005634	stained for nuclei	cell nucleus	Cell Nucleus	C0007610
+64519	64523	GO:0005623	cell	cell	Cells	C0007634
+64732	64758	GO:0035003	abnormal sacs in chx10-cre	subapical complex location		C1325744
+64732	64758	GO:0071173	abnormal sacs in chx10-cre	spindle assembly checkpoint		C2754376
+64850	64868	GO:0005634	stained for nuclei	cell nucleus	Cell Nucleus	C0007610
+65240	65266	GO:0035003	the inner gaba+ sac tracks	subapical complex location		C1325744
+65240	65266	GO:0071173	the inner gaba+ sac tracks	spindle assembly checkpoint		C2754376
+65274	65278	GO:0007601	seen	vision	Vision	C0042789
+65613	65622	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+65897	65906	GO:0005737	cytoplasm	cytoplasm	Cytoplasm	C0010834
+66003	66021	GO:0042571	list of antibodies	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+66026	66061	GO:0035003	marker patterns in rb/e2f1 dko sacs	subapical complex location		C1325744
+66026	66061	GO:0071173	marker patterns in rb/e2f1 dko sacs	spindle assembly checkpoint		C2754376
+66270	66307	GO:0007567	accession numbers for the major genes	parturition	Birth	C0005615
+66270	66307	GO:0000003	accession numbers for the major genes	reproduction	Reproduction	C0035150
+66312	66325	GO:0007567	gene products	parturition	Birth	C0005615
+66312	66325	GO:0000003	gene products	reproduction	Reproduction	C0035150
+66361	66371	GO:1990266	(nm_009792	neutrophil migration	Neutrophil migration, function	C0312860
+66379	66389	GO:1990266	(nm_009891	neutrophil migration	Neutrophil migration, function	C0312860
+66397	66407	GO:1990266	(nm_007891	neutrophil migration	Neutrophil migration, function	C0312860
+66415	66425	GO:1990266	(nm_177733	neutrophil migration	Neutrophil migration, function	C0312860
+66433	66443	GO:1990266	(nm_010093	neutrophil migration	Neutrophil migration, function	C0312860
+66449	66459	GO:1990266	(nm_009029	neutrophil migration	Neutrophil migration, function	C0312860
+66474	66484	GO:1990266	(nm_021712	neutrophil migration	Neutrophil migration, function	C0312860
+66615	66638	GO:0035003	as an early sac marker,	subapical complex location		C1325744
+66615	66638	GO:0071173	as an early sac marker,	spindle assembly checkpoint		C2754376
+66840	66861	GO:0042571	saari for antibodies.	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+67045	67062	GO:0009790	] - embryonic day	embryo development	Embryonic Development	C0013936
+67073	67103	GO:0000988	e2f - e2f transcription factor	transcription factor activity		C1148759
+67073	67103	GO:0001070	e2f - e2f transcription factor	transcription factor activity		C1148759
+67073	67103	GO:0001071	e2f - e2f transcription factor	transcription factor activity		C1148759
+67073	67103	GO:0003700	e2f - e2f transcription factor	transcription factor activity		C1148759
+67169	67199	GO:1902698	gaba - gamma-aminobutyric acid	acidogenesis		C3823112
+67169	67199	GO:1902705	gaba - gamma-aminobutyric acid	acidogenesis		C3823112
+67169	67199	GO:1902706	gaba - gamma-aminobutyric acid	acidogenesis		C3823112
+67169	67199	GO:1902699	gaba - gamma-aminobutyric acid	acidogenesis		C3823112
+67216	67220	GO:0005623	cell	cell	Cells	C0007634
+67495	67499	GO:0005623	cell	cell	Cells	C0007634
+67526	67530	GO:0005623	cell	cell	Cells	C0007634
+67549	67562	GO:0034062	transcriptase	transcriptase	Transcriptase activity	C2257077
+67549	67562	GO:0003899	transcriptase	transcriptase	Transcriptase activity	C2257077
+67549	67562	GO:0003968	transcriptase	transcriptase	Transcriptase activity	C2257077
+67568	67597	GO:0035003	sac - starburst amacrine cell	subapical complex location		C1325744

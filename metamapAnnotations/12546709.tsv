@@ -1,0 +1,274 @@
+StartIndex	EndIndex	GO:ID	Term	ConceptName	PreferredName	CUID
+236	278	GO:0007567	both of the alpha-crystallin gene products	parturition	Birth	C0005615
+236	278	GO:0000003	both of the alpha-crystallin gene products	reproduction	Reproduction	C0035150
+696	719	GO:0007567	alphab-crystallin genes	parturition	Birth	C0005615
+696	719	GO:0000003	alphab-crystallin genes	reproduction	Reproduction	C0035150
+1061	1065	GO:0005623	cell	cell	Cells	C0007634
+1094	1101	GO:0042603	capsule	capsule	Microbial anatomical capsule structure	C1325531
+1147	1178	GO:0005634	ectopical nucleic acid staining	cell nucleus	Cell Nucleus	C0007610
+1539	1581	GO:0044249	necessary for proper fiber cell formation,	cellular biosynthetic process		C1523936
+1627	1654	GO:0009058	lead to cataract formation.	anabolism	Anabolism	C0220781
+1790	1822	GO:1902698	55% amino acid sequence homology	acidogenesis		C3823112
+1790	1822	GO:1902705	55% amino acid sequence homology	acidogenesis		C3823112
+1790	1822	GO:1902706	55% amino acid sequence homology	acidogenesis		C3823112
+1790	1822	GO:1902699	55% amino acid sequence homology	acidogenesis		C3823112
+1878	1882	GO:0005623	cell	cell	Cells	C0007634
+2263	2267	GO:0005623	cell	cell	Cells	C0007634
+2294	2298	GO:0005623	cell	cell	Cells	C0007634
+2536	2540	GO:0005623	cell	cell	Cells	C0007634
+2795	2799	GO:0005623	cell	cell	Cells	C0007634
+2981	2988	GO:0005488	binding	binding	Binding 	C1167622
+3809	3842	GO:0008150	a variety of biological functions	biological process	Biological Processes	C3714634
+3881	3885	GO:0005623	cell	cell	Cells	C0007634
+3995	3999	GO:0005488	bind	binding	Binding 	C1167622
+4064	4088	GO:0005884	actin filament formation	microfilament	Microfilaments	C0025979
+4110	4164	GO:0030855	necessary for differentiation of lens epithelial cells	epithelial cell differentiation		C1326057
+4222	4251	GO:0030154	with actin in differentiation	cell differentiation	Cell Differentiation process	C0007589
+4317	4347	GO:0045098	type III intermediate filament	type III intermediate filament	Type III Intermediate Filament	C1519989
+4641	4667	GO:0002088	for lens fiber development	lens development in camera-type eye		C1817356
+4766	4770	GO:0005623	cell	cell	Cells	C0007634
+4827	4837	GO:0051325	interphase	interphase	Interphase	C0021798
+4881	4895	GO:0005634	in the nucleus	cell nucleus	Cell Nucleus	C0007610
+5003	5007	GO:0005623	cell	cell	Cells	C0007634
+5201	5205	GO:0005623	cell	cell	Cells	C0007634
+5215	5259	GO:0009058	resulted in the formation of lentoid bodies,	anabolism	Anabolism	C0220781
+5283	5325	GO:0030154	for these proteins in lens differentiation	cell differentiation	Cell Differentiation process	C0007589
+5540	5582	GO:0007567	both of the alpha-crystallin gene products	parturition	Birth	C0005615
+5540	5582	GO:0000003	both of the alpha-crystallin gene products	reproduction	Reproduction	C0035150
+5637	5685	GO:0007567	by targeted disruption of the mouse alphaa gene,	parturition	Birth	C0005615
+5637	5685	GO:0000003	by targeted disruption of the mouse alphaa gene,	reproduction	Reproduction	C0035150
+5726	5758	GO:0036438	maintenance of lens transparency	maintenance of lens transparency		C3820610
+5784	5809	GO:0005625	the solubility of alphab,	soluble		C1749467
+6111	6115	GO:0005623	cell	cell	Cells	C0007634
+6118	6162	GO:0007567	targeted disruption of the mouse alphab gene	parturition	Birth	C0005615
+6118	6162	GO:0000003	targeted disruption of the mouse alphab gene	reproduction	Reproduction	C0035150
+6240	6261	GO:0009058	no cataract formation	anabolism	Anabolism	C0220781
+6332	6336	GO:0005623	cell	cell	Cells	C0007634
+6889	6902	GO:0007567	alphab genes,	parturition	Birth	C0005615
+6889	6902	GO:0000003	alphab genes,	reproduction	Reproduction	C0035150
+7131	7172	GO:0044249	necessary for proper fiber cell formation	cellular biosynthetic process		C1523936
+7517	7539	GO:0007567	the hspb2 gene product	parturition	Birth	C0005615
+7517	7539	GO:0000003	the hspb2 gene product	reproduction	Reproduction	C0035150
+7696	7702	GO:0007601	vision	vision	Vision	C0042789
+7754	7767	GO:0007601	in ophthalmic	vision	Vision	C0042789
+7772	7778	GO:0007601	vision	vision	Vision	C0042789
+7829	7833	GO:0007601	eyes	vision	Vision	C0042789
+7958	7991	GO:0007601	both eyes from individual animals	vision	Vision	C0042789
+7963	7967	GO:0007601	eyes	vision	Vision	C0042789
+8587	8604	GO:0007601	along the optical	vision	Vision	C0042789
+8894	8902	GO:0016020	membrane	membrane	Membrane	C0596901
+9133	9146	GO:0005634	nucleic acids	cell nucleus	Cell Nucleus	C0007610
+9760	9791	GO:0007601	bisected along the optical axes	vision	Vision	C0042789
+11292	11299	GO:0005773	vacuole	vacuole	Vacuole	C0042219
+11337	11340	GO:0007601	see	vision	Vision	C0042789
+11337	11340	GO:0007601	see	vision	Vision	C0042789
+11674	11686	GO:0007601	from the eye	vision	Vision	C0042789
+11788	11827	GO:0007601	dissected from fixed eyes of alphaa/bko	vision	Vision	C0042789
+12024	12027	GO:0007601	see	vision	Vision	C0042789
+12308	12330	GO:0042603	posterior sub capsular	capsule	Microbial anatomical capsule structure	C1325531
+12550	12557	GO:0005773	vacuole	vacuole	Vacuole	C0042219
+12710	12717	GO:0042603	capsule	capsule	Microbial anatomical capsule structure	C1325531
+12944	12991	GO:0005634	nucleic acid staining between alphaa/bko lenses	cell nucleus	Cell Nucleus	C0007610
+13061	13087	GO:0005634	sytox green stained nuclei	cell nucleus	Cell Nucleus	C0007610
+13187	13198	GO:0005634	cell nuclei	cell nucleus	Cell Nucleus	C0007610
+13302	13321	GO:0005615	extracellular space	extracellular space	Extracellular Space	C0015352
+13453	13475	GO:0005634	stain for nucleic acid	cell nucleus	Cell Nucleus	C0007610
+13566	13590	GO:0005634	stained for nucleic acid	cell nucleus	Cell Nucleus	C0007610
+13748	13752	GO:0005623	cell	cell	Cells	C0007634
+13781	13788	GO:0042603	capsule	capsule	Microbial anatomical capsule structure	C1325531
+13830	13834	GO:0005623	cell	cell	Cells	C0007634
+13855	13906	GO:0009790	the anterior region of the embryonic/fetal nucleus,	embryo development	Embryonic Development	C0013936
+13878	13905	GO:0009790	the embryonic/fetal nucleus	embryo development	Embryonic Development	C0013936
+14184	14191	GO:0042603	capsule	capsule	Microbial anatomical capsule structure	C1325531
+14296	14338	GO:0005634	anterior subcapsular nucleic acid staining	cell nucleus	Cell Nucleus	C0007610
+14343	14370	GO:0009790	the embryonic-fetal nucleus	embryo development	Embryonic Development	C0013936
+14428	14435	GO:0042603	capsule	capsule	Microbial anatomical capsule structure	C1325531
+14448	14488	GO:0007601	representative confocal optical sections	vision	Vision	C0042789
+14577	14597	GO:0007601	all optical sections	vision	Vision	C0042789
+14661	14674	GO:0000785	the red color	chromatin	chromatin location	C1325550
+14700	14708	GO:0016020	membrane	membrane	Membrane	C0596901
+14717	14732	GO:0000785	the green color	chromatin	chromatin location	C1325550
+14943	14984	GO:0005634	representative anterior epithelial nuclei	cell nucleus	Cell Nucleus	C0007610
+15022	15078	GO:0007601	representative confocal optical sections from alphaa/bko	vision	Vision	C0042789
+15113	15133	GO:0007601	all optical sections	vision	Vision	C0042789
+15197	15210	GO:0000785	the red color	chromatin	chromatin location	C1325550
+15236	15244	GO:0016020	membrane	membrane	Membrane	C0596901
+15253	15268	GO:0000785	the green color	chromatin	chromatin location	C1325550
+15590	15614	GO:0009790	embryonic/fetal nucleus.	embryo development	Embryonic Development	C0013936
+15739	15743	GO:0005623	cell	cell	Cells	C0007634
+15826	15847	GO:0005634	representative nuclei	cell nucleus	Cell Nucleus	C0007610
+16865	16873	GO:0016020	membrane	membrane	Membrane	C0596901
+16921	16925	GO:0005623	cell	cell	Cells	C0007634
+17035	17043	GO:0016020	membrane	membrane	Membrane	C0596901
+17082	17129	GO:0005634	with no nucleic acid staining in these regions.	cell nucleus	Cell Nucleus	C0007610
+17184	17188	GO:0005623	cell	cell	Cells	C0007634
+17205	17265	GO:0098589	interspersed among regions of high membrane staining density	membrane region		C3821310
+17310	17317	GO:0005773	vacuole	vacuole	Vacuole	C0042219
+17395	17421	GO:0060004	reflected light microscopy	reflex	Reflex motion descriptor	C0439840
+17438	17446	GO:0016020	membrane	membrane	Membrane	C0596901
+17460	17464	GO:0005623	cell	cell	Cells	C0007634
+17509	17530	GO:0005634	nucleic acid staining	cell nucleus	Cell Nucleus	C0007610
+17584	17588	GO:0005623	cell	cell	Cells	C0007634
+17700	17704	GO:0005623	cell	cell	Cells	C0007634
+18062	18066	GO:0005623	cell	cell	Cells	C0007634
+18081	18093	GO:0005634	their nuclei	cell nucleus	Cell Nucleus	C0007610
+18199	18203	GO:0005623	cell	cell	Cells	C0007634
+18234	18241	GO:0042603	capsule	capsule	Microbial anatomical capsule structure	C1325531
+18462	18466	GO:0005623	cell	cell	Cells	C0007634
+18489	18503	GO:0005634	fetal nucleus.	cell nucleus	Cell Nucleus	C0007610
+18610	18614	GO:0005623	cell	cell	Cells	C0007634
+18854	18858	GO:0005623	cell	cell	Cells	C0007634
+19012	19016	GO:0005623	cell	cell	Cells	C0007634
+19025	19029	GO:0005623	cell	cell	Cells	C0007634
+19057	19064	GO:0042603	capsule	capsule	Microbial anatomical capsule structure	C1325531
+19113	19135	GO:0005634	nucleic acid staining,	cell nucleus	Cell Nucleus	C0007610
+19166	19202	GO:0031253	with numerous membrane projections.,	membrane extension		C1818669
+19314	19321	GO:0042603	capsule	capsule	Microbial anatomical capsule structure	C1325531
+19339	19343	GO:0005623	cell	cell	Cells	C0007634
+19363	19402	GO:0009790	observed in the embryonic/fetal nucleus	embryo development	Embryonic Development	C0013936
+19441	19445	GO:0005623	cell	cell	Cells	C0007634
+19472	19516	GO:0009790	appearance to embryonic/fetal nuclear fibers	embryo development	Embryonic Development	C0013936
+19522	19551	GO:0007601	seen at the posterior capsule	vision	Vision	C0042789
+19828	19832	GO:0005623	cell	cell	Cells	C0007634
+19860	19867	GO:0042603	capsule	capsule	Microbial anatomical capsule structure	C1325531
+20148	20152	GO:0005623	cell	cell	Cells	C0007634
+20251	20255	GO:0005623	cell	cell	Cells	C0007634
+20502	20506	GO:0005623	cell	cell	Cells	C0007634
+20508	20546	GO:0031253	with numerous cell surface projections	cell projection membrane	Cell Surface Extensions	C0887879
+20708	20712	GO:0005623	cell	cell	Cells	C0007634
+20822	20826	GO:0005623	cell	cell	Cells	C0007634
+21155	21159	GO:0005623	cell	cell	Cells	C0007634
+21161	21200	GO:0031253	with numerous cell surface projections.	cell projection membrane	Cell Surface Extensions	C0887879
+21201	21232	GO:0009790	in the fetal/embryonic nucleus,	embryo development	Embryonic Development	C0013936
+21249	21253	GO:0005623	cell	cell	Cells	C0007634
+21303	21311	GO:0097610	furrowed	cell surface furrow		C3893556
+21312	21320	GO:0016020	membrane	membrane	Membrane	C0596901
+21361	21365	GO:0005623	cell	cell	Cells	C0007634
+21414	21421	GO:0042603	capsule	capsule	Microbial anatomical capsule structure	C1325531
+21505	21509	GO:0005623	cell	cell	Cells	C0007634
+21719	21768	GO:0030112	fiber cells in contact with the posterior capsule	glycocalyx	Glycocalyx	C0061622
+22428	22470	GO:0007567	both of the alpha-crystallin gene products	parturition	Birth	C0005615
+22428	22470	GO:0000003	both of the alpha-crystallin gene products	reproduction	Reproduction	C0035150
+22525	22573	GO:0007567	by targeted disruption of the mouse alphaa gene,	parturition	Birth	C0005615
+22525	22573	GO:0000003	by targeted disruption of the mouse alphaa gene,	reproduction	Reproduction	C0035150
+22614	22646	GO:0036438	maintenance of lens transparency	maintenance of lens transparency		C3820610
+22672	22697	GO:0005625	the solubility of alphab,	soluble		C1749467
+22930	22975	GO:0007567	targeted disruption of the mouse alphab gene,	parturition	Birth	C0005615
+22930	22975	GO:0000003	targeted disruption of the mouse alphab gene,	reproduction	Reproduction	C0035150
+23549	23553	GO:0005623	cell	cell	Cells	C0007634
+23582	23589	GO:0042603	capsule	capsule	Microbial anatomical capsule structure	C1325531
+23624	23681	GO:0005634	nucleic acids in the posterior subcapsular region of 5 wk	cell nucleus	Cell Nucleus	C0007610
+24034	24056	GO:0007567	the hspb2 gene product	parturition	Birth	C0005615
+24034	24056	GO:0000003	the hspb2 gene product	reproduction	Reproduction	C0035150
+24328	24365	GO:0030154	an active role in the differentiation	cell differentiation	Cell Differentiation process	C0007589
+24370	24397	GO:0016049	growth of lens fiber cells.	cell growth		C0007595
+24398	24440	GO:0070306	normal differentiation of lens fiber cells	lens fiber cell differentiation		C2611003
+24501	24505	GO:0005623	cell	cell	Cells	C0007634
+24518	24527	GO:0005634	a nucleus	cell nucleus	Cell Nucleus	C0007610
+24553	24562	GO:0043226	organelle	organelle	Organelles	C0029219
+24611	24615	GO:0005623	cell	cell	Cells	C0007634
+24618	24634	GO:0005634	devoid of nuclei	cell nucleus	Cell Nucleus	C0007610
+24639	24648	GO:0043226	organelle	organelle	Organelles	C0029219
+24651	24686	GO:0030855	differentiation of epithelial cells	epithelial cell differentiation		C1326057
+24753	24757	GO:0005623	cell	cell	Cells	C0007634
+24806	24810	GO:0005623	cell	cell	Cells	C0007634
+24869	24873	GO:0005623	cell	cell	Cells	C0007634
+24931	24938	GO:0042603	capsule	capsule	Microbial anatomical capsule structure	C1325531
+25110	25114	GO:0005623	cell	cell	Cells	C0007634
+25281	25285	GO:0005623	cell	cell	Cells	C0007634
+25340	25347	GO:0042603	capsule	capsule	Microbial anatomical capsule structure	C1325531
+25413	25441	GO:0005634	a persistence of cell nuclei	cell nucleus	Cell Nucleus	C0007610
+25474	25493	GO:0005634	ectopic cell nuclei	cell nucleus	Cell Nucleus	C0007610
+25556	25583	GO:0005634	at 5 wks of age cell nuclei	cell nucleus	Cell Nucleus	C0007610
+25624	25631	GO:0042603	capsule	capsule	Microbial anatomical capsule structure	C1325531
+25695	25757	GO:0030154	in the normal differentiation pathway of lens epithelial cells	cell differentiation	Cell Differentiation process	C0007589
+25695	25757	GO:0030855	in the normal differentiation pathway of lens epithelial cells	epithelial cell differentiation		C1326057
+25769	25773	GO:0005623	cell	cell	Cells	C0007634
+26020	26055	GO:0007601	with the normal time of eye opening	vision	Vision	C0042789
+26081	26093	GO:0007567	after birth,	parturition	Birth	C0005615
+26116	26126	GO:0007601	their eyes	vision	Vision	C0042789
+26785	26829	GO:0005634	posterior subcapsular nucleic acid staining,	cell nucleus	Cell Nucleus	C0007610
+26889	26893	GO:0005623	cell	cell	Cells	C0007634
+27120	27178	GO:0005634	nucleic acid staining in the posterior subcapsular region.	cell nucleus	Cell Nucleus	C0007610
+27210	27267	GO:0005634	nucleic acid staining in the posterior subcapsular region	cell nucleus	Cell Nucleus	C0007610
+27271	27319	GO:0031252	consistent with either anterior epithelial cells	cell leading edge		C1621433
+27381	27385	GO:0005623	cell	cell	Cells	C0007634
+27472	27501	GO:0030154	differentiated in the methods	cell differentiation	Cell Differentiation process	C0007589
+27653	27711	GO:0005634	nucleic acid staining in the posterior subcapsular region.	cell nucleus	Cell Nucleus	C0007610
+27825	27870	GO:0005634	the fate of the nucleic acid-containing cells	cell nucleus	Cell Nucleus	C0007610
+27871	27921	GO:0042603	in the posterior capsular region of younger lenses	capsule	Microbial anatomical capsule structure	C1325531
+28050	28061	GO:0032502	development	development	Biologic Development	C0678723
+28103	28121	GO:0007601	seen in this study	vision	Vision	C0042789
+28300	28337	GO:0030154	an active role in the differentiation	cell differentiation	Cell Differentiation process	C0007589
+28342	28369	GO:0016049	growth of lens fiber cells.	cell growth		C0007595
+28513	28517	GO:0005623	cell	cell	Cells	C0007634
+28566	28570	GO:0005623	cell	cell	Cells	C0007634
+28584	28588	GO:0005623	cell	cell	Cells	C0007634
+28669	28673	GO:0005623	cell	cell	Cells	C0007634
+28715	28740	GO:0032502	until a mature fiber cell	development	Biologic Development	C0678723
+28751	28760	GO:0043226	organelle	organelle	Organelles	C0029219
+28762	28807	GO:0044249	with suture formation at the ends of the cell	cellular biosynthetic process		C1523936
+28819	28859	GO:0042995	this entire process from epithelial cell	cell process	cell process structure	C0230625
+28860	28880	GO:0032502	to mature fiber cell	development	Biologic Development	C0678723
+28884	28916	GO:0030154	defined as lens differentiation.	cell differentiation	Cell Differentiation process	C0007589
+29029	29074	GO:0030154	a consequence of the differentiation process,	cell differentiation	Cell Differentiation process	C0007589
+29113	29163	GO:0030154	not essential, role in the differentiation process	cell differentiation	Cell Differentiation process	C0007589
+29318	29349	GO:0030855	epithelial cell differentiation	epithelial cell differentiation		C1326057
+29355	29387	GO:0036438	maintenance of lens transparency	maintenance of lens transparency		C3820610
+29542	29560	GO:0051082	chaperone activity	chaperone activity		C1149552
+29542	29560	GO:0051131	chaperone activity	chaperone activity		C1149552
+29542	29560	GO:0006461	chaperone activity	chaperone activity		C1149552
+29542	29560	GO:0044183	chaperone activity	chaperone activity		C1149552
+29542	29560	GO:0003754	chaperone activity	chaperone activity		C1149552
+29542	29560	GO:0006457	chaperone activity	chaperone activity		C1149552
+29562	29569	GO:0005488	binding	binding	Binding 	C1167622
+29833	29837	GO:0005623	cell	cell	Cells	C0007634
+29937	29941	GO:0005623	cell	cell	Cells	C0007634
+29950	29961	GO:0032502	development	development	Biologic Development	C0678723
+29966	29981	GO:0030154	differentiation	cell differentiation	Cell Differentiation process	C0007589
+30010	30071	GO:0001649	expressed during the differentiation of mammalian osteoblasts	osteoblast differentiation		C1159974
+30098	30102	GO:0005623	cell	cell	Cells	C0007634
+30166	30172	GO:0040007	growth	growth	Growth	C0018270
+30212	30238	GO:0030225	macrophage differentiation	macrophage differentiation		C1159946
+30260	30292	GO:0048740	during myogenic differentiation,	myogenesis	Myogenesis	C0596997
+30260	30292	GO:0007519	during myogenic differentiation,	myogenesis	Myogenesis	C0596997
+30403	30413	GO:0048740	myogenesis	myogenesis	Myogenesis	C0596997
+30403	30413	GO:0007519	myogenesis	myogenesis	Myogenesis	C0596997
+30534	30538	GO:0005623	cell	cell	Cells	C0007634
+30546	30588	GO:0009058	leading to the formation of lentoid bodies	anabolism	Anabolism	C0220781
+30717	30721	GO:0005623	cell	cell	Cells	C0007634
+30790	30802	GO:0005634	cell nucleus	cell nucleus	Cell Nucleus	C0007610
+30841	30851	GO:0007049	cell cycle	cell cycle	Cell Cycle	C0007586
+30841	30856	GO:0000278	the cell cycle.	mitotic cell cycle	Mitotic Cell Cycle	C1155839
+30897	30936	GO:0005634	in cell nuclei in the absence of stress	cell nucleus	Cell Nucleus	C0007610
+31052	31056	GO:0005623	cell	cell	Cells	C0007634
+31101	31111	GO:0051325	interphase	interphase	Interphase	C0021798
+31166	31180	GO:0005634	in the nucleus	cell nucleus	Cell Nucleus	C0007610
+31228	31232	GO:0005623	cell	cell	Cells	C0007634
+31417	31428	GO:0016049	cell growth	cell growth		C0007595
+31540	31550	GO:0007049	cell cycle	cell cycle	Cell Cycle	C0007586
+31540	31555	GO:0000278	the cell cycle.	mitotic cell cycle	Mitotic Cell Cycle	C1155839
+31642	31656	GO:0005634	in the nucleus	cell nucleus	Cell Nucleus	C0007610
+31664	31685	GO:0051726	cell cycle regulation	cell cycle regulation	Cell Cycle Control	C1155872
+31732	31783	GO:0005634	the observation of a disorganized pattern of nuclei	cell nucleus	Cell Nucleus	C0007610
+31849	31884	GO:0005634	nucleic acid staining of structures	cell nucleus	Cell Nucleus	C0007610
+31970	32006	GO:0005634	for alpha-crystallin in the nucleus.	cell nucleus	Cell Nucleus	C0007610
+32100	32140	GO:0005856	a role in the cytoskeletal organization.	cytoskeleton	Cytoskeleton	C0010853
+32168	32172	GO:0005488	bind	binding	Binding 	C1167622
+32233	32257	GO:0005884	actin filament formation	microfilament	Microfilaments	C0025979
+32279	32337	GO:0030855	necessary for the differentiation of lens epithelial cells	epithelial cell differentiation		C1326057
+32402	32431	GO:0030154	with actin in differentiation	cell differentiation	Cell Differentiation process	C0007589
+32502	32532	GO:0045098	type III intermediate filament	type III intermediate filament	Type III Intermediate Filament	C1519989
+32742	32746	GO:0005623	cell	cell	Cells	C0007634
+32813	32817	GO:0005623	cell	cell	Cells	C0007634
+32850	32894	GO:0009058	that increased synthesis of alpha-crystallin	anabolism	Anabolism	C0220781
+32895	32951	GO:0030154	in epithelial cells early in the differentiation process	cell differentiation	Cell Differentiation process	C0007589
+32895	32951	GO:0030855	in epithelial cells early in the differentiation process	epithelial cell differentiation		C1326057
+32987	32999	GO:0005856	cytoskeleton	cytoskeleton	Cytoskeleton	C0010853
+33037	33041	GO:0005623	cell	cell	Cells	C0007634
+33107	33111	GO:0005623	cell	cell	Cells	C0007634
+33246	33295	GO:0005856	cytoskeletal organization in the alphaa/bko lens.	cytoskeleton	Cytoskeleton	C0010853
+33357	33360	GO:1990503	dlb	dendritic lamellar body		C3890365
+33744	33767	GO:0003904	pre-publication history	photoreactivating enzyme activity		C2257086
+33769	33811	GO:0003904	the pre-publication history for this paper	photoreactivating enzyme activity		C2257086
+33910	33916	GO:0007601	vision	vision	Vision	C0042789
