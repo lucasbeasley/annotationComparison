@@ -1,0 +1,241 @@
+StartIndex	EndIndex	GO:ID	Term	OntoTerm
+37	52	GO:0006351	Transcriptional	transcription, DNA-templated
+103	116	GO:0030097	Hematopoiesis	hemopoiesis
+128	141	GO:0030097	Hematopoiesis	hemopoiesis
+200	207	GO:0003675	protein	obsolete protein
+223	236	GO:0006351	transcription	transcription, DNA-templated
+378	392	GO:0030097	hematopoiesis,	hemopoiesis
+423	427	GO:0005623	cell	cell
+500	515	GO:0006351	transcriptional	transcription, DNA-templated
+500	515	GO:0006351	transcriptional	transcription, DNA-templated
+629	641	GO:0032502	development,	developmental process
+787	797	GO:0097194	apoptosis.	execution phase of apoptosis
+924	947	GO:0035162	embryonic hematopoiesis	embryonic hemopoiesis
+1109	1118	GO:0009058	formation	biosynthetic process
+1430	1446	GO:0048469	cell maturation.	cell maturation
+1604	1617	GO:0030097	Hematopoiesis	hemopoiesis
+1604	1617	GO:0030097	Hematopoiesis	hemopoiesis
+1656	1674	GO:0008283	cell proliferation	cell proliferation
+1738	1743	GO:0005623	cells	cell
+1738	1743	GO:0005623	cells	cell
+1738	1743	GO:0005623	cells	cell
+2172	2185	GO:0030097	hematopoiesis	hemopoiesis
+2172	2185	GO:0030097	hematopoiesis	hemopoiesis
+2172	2185	GO:0030097	hematopoiesis	hemopoiesis
+2830	2843	GO:0030097	hematopoiesis	hemopoiesis
+3403	3417	GO:0030097	hematopoiesis,	hemopoiesis
+3458	3464	GO:0005623	cells.	cell
+3615	3625	GO:0097194	apoptosis.	execution phase of apoptosis
+3709	3724	GO:0006351	transcriptional	transcription, DNA-templated
+3709	3724	GO:0006351	transcriptional	transcription, DNA-templated
+4394	4403	GO:0004879	receptors	RNA polymerase II transcription factor activity, ligand-activated sequence-specific DNA bindinghormone
+4789	4793	GO:0035851	bind	Krueppel-associated box domain bindingdomains that
+5200	5213	GO:0009793	embryogenesis	embryo development ending in seed dormancy
+5435	5447	GO:0032502	development.	developmental process
+5541	5554	GO:0030097	hematopoiesis	hemopoiesis
+5571	5575	GO:0005623	Cell	cell
+5633	5637	GO:0005623	cell	cell
+5663	5687	GO:0035162	embryonic hematopoiesis.	embryonic hemopoiesis
+5802	5822	GO:0043249	erythroid maturation	erythrocyte maturation
+5837	5844	GO:0003675	protein	obsolete protein
+5875	5889	GO:0033620	nuclear bodies	Mei2 nuclear dot complex
+6047	6063	GO:0048468	cell development	cell development
+6147	6172	GO:0060318	Definitive Erythropoiesis	definitive erythrocyte differentiation
+6229	6241	GO:0032502	development,	developmental process
+6229	6240	GO:0032502	development	developmental process
+6229	6241	GO:0032502	development,	developmental process
+6229	6240	GO:0032502	development	developmental process
+6274	6289	GO:0010467	gene expression	gene expression
+6294	6303	GO:0097194	apoptosis	execution phase of apoptosis
+6294	6303	GO:0097194	apoptosis	execution phase of apoptosis
+6355	6369	GO:0009793	embryogenesis,	embryo development ending in seed dormancy
+6421	6426	GO:0005623	cells	cell
+6741	6746	GO:0012501	death	programmed cell deathcell
+7192	7203	GO:0008219	cell death.	cell death
+7557	7562	GO:0043198	trunk	dendritic shaft
+7774	7798	GO:0060216	definitive hematopoiesis	definitive hemopoiesis
+7785	7798	GO:0030097	hematopoiesis	hemopoiesis
+7912	7923	GO:0032502	development	developmental process
+8666	8692	GO:0060318	definitive erythropoiesis.	definitive erythrocyte differentiation
+8996	9006	GO:0005694	Chromosome	chromosome
+9681	9685	GO:0004239	maps	obsolete methionyl aminopeptidase activity
+9681	9685	GO:0004239	maps	obsolete methionyl aminopeptidase activity
+9716	9723	GO:0051321	meioses	meiotic cell cycle
+10211	10226	GO:0006351	transcriptional	transcription, DNA-templated
+10521	10531	GO:0005694	Chromosome	chromosome
+10521	10531	GO:0005694	Chromosome	chromosome
+10718	10724	GO:0004239	mapped	obsolete methionyl aminopeptidase activity
+11491	11498	GO:0003675	protein	obsolete protein
+11688	11699	GO:0006412	translation	translation
+11688	11699	GO:0006412	translation	translation
+12335	12347	GO:0007369	gastrulation	gastrulation
+12352	12359	GO:0090504	epiboly	epiboly
+12944	12949	GO:0043198	trunk	dendritic shaft
+13279	13288	GO:0097194	apoptosis	execution phase of apoptosis
+13710	13724	GO:0030097	hematopoiesis.	hemopoiesis
+14285	14295	GO:0005694	Chromosome	chromosome
+14417	14423	GO:0004239	mapped	obsolete methionyl aminopeptidase activity
+15047	15052	GO:0005623	cells	cell
+15165	15178	GO:0030097	Hematopoiesis	hemopoiesis
+15444	15453	GO:0009058	formation	biosynthetic process
+15567	15581	GO:0048513	organogenesis.	organ development
+15592	15604	GO:0032502	development,	developmental process
+15673	15678	GO:0005623	cells	cell
+15726	15732	GO:0005623	cells)	cell
+16332	16346	GO:0030097	hematopoiesis.	hemopoiesis
+16379	16393	GO:0030218	Erythropoiesis	erythrocyte differentiation
+16459	16464	GO:0005623	cells	cell
+16459	16464	GO:0005623	cells	cell
+16459	16464	GO:0005623	cells	cell
+16459	16464	GO:0005623	cells	cell
+16459	16464	GO:0005623	cells	cell
+16459	16464	GO:0005623	cells	cell
+16459	16464	GO:0005623	cells	cell
+16459	16464	GO:0005623	cells	cell
+16459	16464	GO:0005623	cells	cell
+16459	16464	GO:0005623	cells	cell
+16459	16463	GO:0005623	cell	cell
+16525	16540	GO:0010467	gene expression	gene expression
+16696	16703	GO:0003675	protein	obsolete protein
+17042	17046	GO:0018995	host	host
+17659	17665	GO:0005623	cells,	cell
+17797	17802	GO:0016265	dying	death
+18346	18350	GO:0005623	cell	cell
+18346	18350	GO:0005623	cell	cell
+18377	18385	GO:0003675	protein,	obsolete protein
+18377	18384	GO:0003675	protein	obsolete protein
+18377	18384	GO:0003675	protein	obsolete protein
+18377	18384	GO:0003675	protein	obsolete protein
+18377	18384	GO:0003675	protein	obsolete protein
+18377	18384	GO:0003675	protein	obsolete protein
+18377	18384	GO:0003675	protein	obsolete protein
+18442	18447	GO:0004617	serum	phosphoglycerate dehydrogenase activity
+18583	18589	GO:0005634	nuclei	nucleus
+18696	18708	GO:0051179	localization	localization
+18696	18708	GO:0051179	localization	localization
+18696	18708	GO:0051179	localization	localization
+19080	19088	GO:0003675	proteins	obsolete protein
+19122	19145	GO:0032502	developmental processes	developmental process
+19246	19262	GO:0000792	heterochromatin,	heterochromatin
+19408	19415	GO:0016605	bodies,	PML bodynuclear
+19427	19436	GO:1990391	complexes	DNA repair complexrepair
+19460	19475	GO:0006351	transcriptional	transcription, DNA-templated
+19607	19613	GO:0005623	cells,	cell
+19714	19722	GO:0043627	estrogen	response to estrogento
+19904	19929	GO:0030218	erythroid differentiation	erythrocyte differentiation
+20461	20487	GO:0030218	erythroid differentiation.	erythrocyte differentiation
+20593	20608	GO:0010467	gene expression	gene expression
+20616	20629	GO:0030097	hematopoiesis	hemopoiesis
+20961	20976	GO:0006351	transcriptional	transcription, DNA-templated
+21026	21038	GO:0032502	development.	developmental process
+21641	21651	GO:0005694	Chromosome	chromosome
+21641	21651	GO:0005694	Chromosome	chromosome
+21838	21849	GO:0006402	mRNA decay.	mRNA catabolic process
+21929	21942	GO:0009793	embryogenesis	embryo development ending in seed dormancy
+22067	22080	GO:0030097	hematopoiesis	hemopoiesis
+22067	22080	GO:0030097	hematopoiesis	hemopoiesis
+22450	22457	GO:0003675	protein	obsolete protein
+22881	22886	GO:0008134	binds	transcription factor bindingfactors it
+23217	23231	GO:0030097	hematopoiesis.	hemopoiesis
+23258	23267	GO:0097194	Apoptosis	execution phase of apoptosis
+23327	23343	GO:0010467	gene expression,	gene expression
+23327	23342	GO:0010467	gene expression	gene expression
+23344	23354	GO:0097194	apoptosis,	execution phase of apoptosis
+23344	23354	GO:0097194	apoptosis,	execution phase of apoptosis
+23547	23552	GO:0012501	death	programmed cell deathcell
+23649	23654	GO:0005623	cells	cell
+23649	23654	GO:0005623	cells	cell
+23649	23654	GO:0005623	cells	cell
+23649	23654	GO:0005623	cells	cell
+23649	23654	GO:0005623	cells	cell
+23766	23775	GO:0097194	apoptotic	execution phase of apoptosis
+23821	23833	GO:0032502	development,	developmental process
+24540	24564	GO:0060216	definitive hematopoiesis	definitive hemopoiesis
+24734	24747	GO:0030097	hematopoiesis	hemopoiesis
+24768	24781	GO:0048513	organogenesis	organ development
+24847	24856	GO:0007567	eggs laid	parturition
+25133	25147	GO:0030218	erythropoiesis	erythrocyte differentiation
+25297	25302	GO:0005623	cells	cell
+25297	25302	GO:0005623	cells	cell
+25554	25569	GO:0030218	erythropoiesis.	erythrocyte differentiation
+25709	25722	GO:0030097	hematopoiesis	hemopoiesis
+25807	25815	GO:0003675	proteins	obsolete protein
+25995	26007	GO:0032502	development,	developmental process
+26199	26212	GO:0006351	transcription	transcription, DNA-templated
+26269	26294	GO:0060318	Definitive Erythropoiesis	definitive erythrocyte differentiation
+26437	26453	GO:0010467	gene expression.	gene expression
+26487	26494	GO:0003675	protein	obsolete protein
+26510	26525	GO:0006351	transcriptional	transcription, DNA-templated
+26766	26780	GO:0006351	transcription.	transcription, DNA-templated
+26885	26893	GO:0003675	proteins	obsolete protein
+26885	26893	GO:0003675	proteins	obsolete protein
+26940	26950	GO:0065007	regulatory	biological regulation
+27115	27130	GO:0033620	nuclear bodies,	Mei2 nuclear dot complex
+27115	27129	GO:0033620	nuclear bodies	Mei2 nuclear dot complex
+27141	27152	GO:0016605	PML bodies.	PML body
+27153	27165	GO:0051179	Localization	localization
+27219	27249	GO:0043687	posttranslational modification	post-translational protein modification
+27579	27605	GO:0030218	erythroid differentiation.	erythrocyte differentiation
+27760	27777	GO:0048468	cell development.	cell development
+28162	28169	GO:0004239	Mapping	obsolete methionyl aminopeptidase activity
+28198	28204	GO:0007618	mating	mating
+28745	28753	GO:0004239	mapping,	obsolete methionyl aminopeptidase activity
+29078	29082	GO:0005623	Cell	cell
+29120	29125	GO:0005623	cells	cell
+29120	29125	GO:0005623	cells	cell
+29120	29125	GO:0005623	cells	cell
+29245	29251	GO:0004617	serum,	phosphoglycerate dehydrogenase activity
+29692	29703	GO:0003823	Antibodies,	antigen binding
+29840	29850	GO:0009058	Synthesis,	biosynthetic process
+30092	30097	GO:0005623	cells	cell
+30092	30097	GO:0005623	cells	cell
+30202	30207	GO:0004617	serum	phosphoglycerate dehydrogenase activity
+30261	30271	GO:0003823	antibodies	antigen binding
+30261	30271	GO:0003823	antibodies	antigen binding
+30456	30461	GO:0005623	Cells	cell
+30688	30708	GO:0030154	cell differentiation	cell differentiation
+30853	30858	GO:0005623	cells	cell
+30853	30858	GO:0005623	cells	cell
+30925	30940	GO:0030218	erythropoiesis,	erythrocyte differentiation
+31347	31352	GO:0005623	Cells	cell
+31381	31392	GO:0032502	Development	developmental process
+31725	31730	GO:0005623	Cells	cell
+31759	31770	GO:0032502	Development	developmental process
+33285	33292	GO:0003675	protein	obsolete protein
+33483	33498	GO:0006351	transcriptional	transcription, DNA-templated
+33621	33644	GO:0060215	Primitive Hematopoiesis	primitive hemopoiesis
+33730	33739	GO:0097194	apoptosis	execution phase of apoptosis
+33938	33947	GO:0097194	apoptosis	execution phase of apoptosis
+33966	33971	GO:0043198	trunk	dendritic shaft
+34066	34077	GO:0032502	development	developmental process
+34286	34292	GO:0005623	cells,	cell
+34564	34588	GO:0060216	Definitive Hematopoiesis	definitive hemopoiesis
+34913	34918	GO:0005623	cells	cell
+35139	35149	GO:0005694	Chromosome	chromosome
+36316	36324	GO:0003675	proteins	obsolete protein
+36816	36828	GO:0032502	development.	developmental process
+36992	36998	GO:0043198	trunk,	dendritic shaft
+37861	37884	GO:0035162	Embryonic Hematopoiesis	embryonic hemopoiesis
+37980	37988	GO:0003675	protein.	obsolete protein
+37999	38011	GO:0032502	development,	developmental process
+38259	38273	GO:0030218	erythropoiesis	erythrocyte differentiation
+38431	38436	GO:0005623	cells	cell
+38431	38436	GO:0005623	cells	cell
+38503	38518	GO:0030218	erythropoiesis,	erythrocyte differentiation
+38923	38930	GO:0003675	Protein	obsolete protein
+38944	38958	GO:0033620	Nuclear Bodies	Mei2 nuclear dot complex
+38973	38988	GO:0000792	Heterochromatin	heterochromatin
+39064	39076	GO:0005634	cell nucleus	nucleus
+39069	39076	GO:0005634	nucleus	nucleus
+39104	39112	GO:0003823	antibody	antigen binding
+39104	39112	GO:0003823	antibody	antigen binding
+39318	39333	GO:0000792	heterochromatin	heterochromatin
+39439	39446	GO:0003675	protein	obsolete protein
+39538	39558	GO:0043249	erythroid maturation	erythrocyte maturation
+39620	39628	GO:0003675	protein.	obsolete protein
+40255	40268	GO:0030097	Hematopoiesis	hemopoiesis
+40338	40343	GO:0005623	Cells	cell
+40381	40386	GO:0005623	cells	cell
+40381	40386	GO:0005623	cells	cell
+40557	40563	GO:0005623	cells.	cell
+41371	41375	GO:0005623	Cell	cell

@@ -1,0 +1,211 @@
+StartIndex	EndIndex	GO:ID	Term	OntoTerm
+34	41	GO:0023052	Signals	signaling
+64	81	GO:0007530	Sex Determination	sex determination
+194	200	GO:0005104	factor	fibroblast growth factor receptor bindinggrowth
+227	234	GO:0040007	growth,	growth
+235	249	GO:0009653	morphogenesis,	anatomical structure morphogenesis
+288	293	GO:0005623	cells	cell
+301	313	GO:0032502	development.	developmental process
+389	407	GO:0007530	sex determination.	sex determination
+389	407	GO:0007530	sex determination.	sex determination
+389	406	GO:0007530	sex determination	sex determination
+487	505	GO:0008584	testis development	male gonad development
+560	567	GO:0023052	signals	signaling
+560	567	GO:0023052	signals	signaling
+1276	1284	GO:0023052	signals.	signaling
+1416	1435	GO:0007165	signaling pathways.	signal transduction
+1455	1466	GO:0032502	development	developmental process
+1455	1466	GO:0032502	development	developmental process
+1455	1466	GO:0032502	development	developmental process
+1951	1956	GO:0005623	cells	cell
+1951	1956	GO:0005623	cells	cell
+1951	1956	GO:0005623	cells	cell
+2396	2408	GO:0000805	X chromosome	X chromosome
+2409	2416	GO:0003675	protein	obsolete protein
+2642	2659	GO:0007530	sex determination	sex determination
+2689	2706	GO:0048513	organ development	organ development
+2798	2816	GO:0008584	testis development	male gonad development
+3118	3127	GO:0009058	formation	biosynthetic process
+3186	3202	GO:0060008	differentiation.	Sertoli cell differentiationcell
+3385	3390	GO:0005623	cells	cell
+3385	3389	GO:0005623	cell	cell
+3385	3389	GO:0005623	cell	cell
+4565	4583	GO:0008584	testis development	male gonad development
+4650	4668	GO:0007530	sex determination.	sex determination
+4654	4668	GO:0007538	determination.	primary sex determinationsex
+4897	4902	GO:0005623	cells	cell
+4897	4902	GO:0005623	cells	cell
+5181	5199	GO:0007165	signaling pathways	signal transduction
+5181	5199	GO:0007165	signaling pathways	signal transduction
+5421	5434	GO:0005576	extracellular	extracellular region
+5664	5683	GO:0008283	cell proliferation,	cell proliferation
+5696	5711	GO:0016477	cell migration,	cell migration
+5724	5734	GO:0009058	formation,	biosynthetic process
+5817	5824	GO:0023052	signals	signaling
+6534	6547	GO:0007538	determination	primary sex determinationsex
+6669	6679	GO:0065007	regulatory	biological regulation
+7652	7659	GO:0023052	signals	signaling
+7652	7659	GO:0023052	signals	signaling
+7760	7767	GO:0040007	growth,	growth
+7768	7782	GO:0009653	morphogenesis,	anatomical structure morphogenesis
+7917	7925	GO:0003823	antibody	antigen binding
+7981	7999	GO:0008406	gonad development.	gonad development
+8005	8012	GO:0003675	protein	obsolete protein
+8170	8175	GO:0005623	cells	cell
+8170	8175	GO:0005623	cells	cell
+8449	8462	GO:0005886	cell membrane	plasma membrane
+9359	9364	GO:0007618	mated	mating
+9453	9460	GO:0003675	protein	obsolete protein
+9752	9767	GO:0006351	transcriptional	transcription, DNA-templated
+9768	9778	GO:0065007	regulation	biological regulation
+9951	9958	GO:0051170	nucleus	nuclear importinto the
+10011	10024	GO:0005622	intracellular	intracellular
+10011	10024	GO:0005622	intracellular	intracellular
+10049	10057	GO:0003675	protein.	obsolete protein
+10092	10103	GO:0065007	regulation,	biological regulation
+10294	10302	GO:0003823	antibody	antigen binding
+10345	10357	GO:0051179	localization	localization
+10601	10610	GO:0023052	signaling	signaling
+10669	10688	GO:0008584	testis development.	male gonad development
+11404	11408	GO:0005623	cell	cell
+11404	11408	GO:0005623	cell	cell
+11404	11408	GO:0005623	cell	cell
+11525	11530	GO:0005623	cells	cell
+11525	11530	GO:0005623	cells	cell
+11525	11530	GO:0005623	cells	cell
+11525	11530	GO:0005623	cells	cell
+11525	11530	GO:0005623	cells	cell
+11603	11616	GO:0005576	extracellular	extracellular region
+11603	11623	GO:0031012	extracellular matrix	extracellular matrix
+11762	11770	GO:0003823	antibody	antigen binding
+11815	11821	GO:0005623	cells.	cell
+12341	12348	GO:0023052	signals	signaling
+12839	12848	GO:0023052	signaling	signaling
+12890	12896	GO:0005623	cells,	cell
+13308	13313	GO:0005623	cells	cell
+13308	13313	GO:0005623	cells	cell
+13361	13373	GO:0032502	development,	developmental process
+15951	15969	GO:0008283	Cell Proliferation	cell proliferation
+16011	16029	GO:0008283	cell proliferation	cell proliferation
+16011	16029	GO:0008283	cell proliferation	cell proliferation
+16011	16015	GO:0005623	cell	cell
+16011	16029	GO:0008283	cell proliferation	cell proliferation
+16291	16298	GO:0007067	mitotic	mitotic nuclear division
+16353	16358	GO:0005623	cells	cell
+17139	17155	GO:0060008	differentiation,	Sertoli cell differentiationcell
+17156	17178	GO:1990271	anti-Mullerian hormone	obsolete anti-Mullerian hormone
+17499	17514	GO:0006351	transcriptional	transcription, DNA-templated
+17929	17933	GO:0005623	cell	cell
+18297	18308	GO:0008219	cell death,	cell death
+18297	18307	GO:0008219	cell death	cell death
+18394	18399	GO:0005623	cells	cell
+18394	18399	GO:0005623	cells	cell
+18463	18472	GO:0097194	apoptotic	execution phase of apoptosis
+18486	18495	GO:0097194	Apoptotic	execution phase of apoptosis
+18877	18888	GO:0065007	regulation.	biological regulation
+19796	19804	GO:0003675	protein,	obsolete protein
+20144	20152	GO:0023052	signals,	signaling
+20832	20840	GO:0003823	antibody	antigen binding
+21231	21239	GO:0003823	antibody	antigen binding
+21709	21724	GO:0060008	differentiation	Sertoli cell differentiationcell
+21741	21750	GO:0009058	formation	biosynthetic process
+21968	21985	GO:0007530	sex determination	sex determination
+22043	22051	GO:0023052	signals.	signaling
+22100	22105	GO:0005623	cells	cell
+22100	22105	GO:0005623	cells	cell
+22475	22486	GO:0008219	cell death,	cell death
+22641	22648	GO:0023052	signals	signaling
+22760	22765	GO:0005623	cells	cell
+22760	22764	GO:0005623	cell	cell
+22760	22765	GO:0005623	cells	cell
+22760	22765	GO:0005623	cells	cell
+22760	22765	GO:0005623	cells	cell
+22987	23004	GO:0007530	sex determination	sex determination
+23270	23280	GO:0065007	regulation	biological regulation
+23270	23280	GO:0065007	regulation	biological regulation
+23325	23329	GO:0005160	beta	transforming growth factor beta receptor bindinggrowth factor
+23330	23340	GO:0023052	signaling,	signaling
+23376	23397	GO:0030154	cell differentiation,	cell differentiation
+23376	23396	GO:0030154	cell differentiation	cell differentiation
+23402	23415	GO:0009653	morphogenesis	anatomical structure morphogenesis
+23402	23415	GO:0009653	morphogenesis	anatomical structure morphogenesis
+23470	23483	GO:0048513	organogenesis	organ development
+23727	23745	GO:0007165	signaling pathways	signal transduction
+24009	24014	GO:0005623	cells	cell
+24009	24014	GO:0005623	cells	cell
+24009	24014	GO:0005623	cells	cell
+24092	24101	GO:0023052	signaling	signaling
+24196	24213	GO:0038001	paracrine signals	paracrine signaling
+24820	24839	GO:0008283	cell proliferation,	cell proliferation
+24820	24838	GO:0008283	cell proliferation	cell proliferation
+25194	25212	GO:0038001	paracrine signals,	paracrine signaling
+25599	25615	GO:0010467	gene expression,	gene expression
+25803	25810	GO:0003675	protein	obsolete protein
+26225	26232	GO:0023052	signals	signaling
+26225	26231	GO:0023052	signal	signaling
+26279	26294	GO:0006351	transcriptional	transcription, DNA-templated
+26384	26397	GO:0005622	intracellular	intracellular
+26384	26397	GO:0005622	intracellular	intracellular
+26452	26479	GO:0002062	chondrocyte differentiation	chondrocyte differentiation
+27103	27121	GO:0008584	testis development	male gonad development
+27344	27354	GO:0065007	regulatory	biological regulation
+27409	27418	GO:0023052	signaling	signaling
+27831	27839	GO:0003675	proteins	obsolete protein
+27847	27867	GO:0031012	extracellular matrix	extracellular matrix
+28198	28207	GO:0023052	signaling	signaling
+28198	28204	GO:0023052	signal	signaling
+28366	28376	GO:0005694	Chromosome	chromosome
+28655	28670	GO:0060008	differentiation	Sertoli cell differentiationcell
+28702	28709	GO:0003675	protein	obsolete protein
+28822	28828	GO:0005623	cells,	cell
+29043	29060	GO:0007530	sex determination	sex determination
+29152	29161	GO:0023052	signaling	signaling
+29422	29427	GO:0005623	cells	cell
+29422	29426	GO:0005623	cell	cell
+29516	29535	GO:0007165	signaling pathways,	signal transduction
+29516	29534	GO:0007165	signaling pathways	signal transduction
+31626	31636	GO:0003823	Antibodies	antigen binding
+31711	31716	GO:0005623	(Cell	cell
+31711	31716	GO:0005623	(Cell	cell
+31711	31716	GO:0005623	(Cell	cell
+31717	31726	GO:0023052	Signaling	signaling
+32048	32058	GO:0023052	Signaling;	signaling
+32067	32075	GO:0003823	Antibody	antigen binding
+32076	32083	GO:0005488	binding	binding
+32136	32146	GO:0003823	antibodies	antigen binding
+32400	32408	GO:0003823	antibody	antigen binding
+32400	32408	GO:0003823	antibody	antigen binding
+32721	32725	GO:0005623	cell	cell
+33041	33051	GO:0007586	digestion,	digestion
+33052	33057	GO:0005623	cells	cell
+33166	33186	GO:0031012	extracellular matrix	extracellular matrix
+33249	33254	GO:0004617	serum	phosphoglycerate dehydrogenase activity
+34161	34174	GO:0006351	Transcription	transcription, DNA-templated
+34879	34886	GO:0003675	protein	obsolete protein
+34912	34918	GO:0005104	factor	fibroblast growth factor receptor bindinggrowth
+35201	35208	GO:0003675	protein	obsolete protein
+35238	35256	GO:0008406	gonad development.	gonad development
+35397	35403	GO:0023052	signal	signaling
+35664	35668	GO:0005623	cell	cell
+36355	36362	GO:0005623	cells).	cell
+36431	36438	GO:0003675	protein	obsolete protein
+36738	36744	GO:0005623	cells.	cell
+36738	36743	GO:0005623	cells	cell
+36738	36743	GO:0005623	cells	cell
+36738	36743	GO:0005623	cells	cell
+36738	36743	GO:0005623	cells	cell
+36863	36868	GO:0005623	Cells	cell
+37516	37521	GO:0005623	cells	cell
+38093	38111	GO:0008283	cell proliferation	cell proliferation
+38382	38387	GO:0005623	cells	cell
+39024	39034	GO:0008219	cell death	cell death
+39065	39074	GO:0097194	apoptotic	execution phase of apoptosis
+39065	39074	GO:0097194	apoptotic	execution phase of apoptosis
+39219	39224	GO:0005623	cells	cell
+40935	40942	GO:0023052	Signals	signaling
+40952	40969	GO:0007530	Sex Determination	sex determination
+41308	41316	GO:0023052	signals.	signaling
+41308	41316	GO:0023052	signals.	signaling
+41308	41315	GO:0023052	signals	signaling
+42292	42299	GO:0023052	signals	signaling
+42322	42340	GO:0007530	sex determination.	sex determination

@@ -1,0 +1,347 @@
+StartIndex	EndIndex	GO:ID	Term	OntoTerm
+8	20	GO:0051179	localization	localization
+49	66	GO:0007420	brain development	brain development
+128	135	GO:0003675	protein	obsolete protein
+128	135	GO:0003675	protein	obsolete protein
+429	446	GO:0007420	brain development	brain development
+547	560	GO:0009793	embryogenesis	embryo development ending in seed dormancy
+669	674	GO:0005623	cells	cell
+669	673	GO:0005623	cell	cell
+669	674	GO:0005623	cells	cell
+669	674	GO:0005623	cells	cell
+669	674	GO:0005623	cells	cell
+669	674	GO:0005623	cells	cell
+669	673	GO:0005623	cell	cell
+733	745	GO:0051179	localization	localization
+751	760	GO:0005737	cytoplasm	cytoplasm
+764	771	GO:0005634	nucleus	nucleus
+937	944	GO:0005829	cytosol	cytosol
+937	944	GO:0005829	cytosol	cytosol
+1011	1018	GO:0003675	protein	obsolete protein
+1011	1018	GO:0045098	protein	type III intermediate filamentfibrillary acidic
+1101	1112	GO:0009844	germinative	obsolete germination
+1281	1289	GO:0005634	nucleus.	nucleus
+1363	1371	GO:0005634	nucleus,	nucleus
+1559	1570	GO:0005654	nucleoplasm	nucleoplasm
+1585	1591	GO:0005634	nuclei	nucleus
+1709	1715	GO:0005634	nuclei	nucleus
+1709	1715	GO:0005634	nuclei	nucleus
+1709	1715	GO:0005634	nuclei	nucleus
+1719	1724	GO:0005623	cells	cell
+1719	1724	GO:0005623	cells	cell
+1719	1724	GO:0005623	cells	cell
+1741	1758	GO:0007420	brain development	brain development
+1994	2003	GO:0003675	proteins,	obsolete protein
+1994	2002	GO:0003675	proteins	obsolete protein
+2010	2014	GO:0005488	bind	binding
+2159	2163	GO:0019013	core	viral nucleocapsid
+2420	2441	GO:0005543	phospholipid binding.	phospholipid binding
+2755	2774	GO:0042583	chromaffin granules	chromaffin granule
+2789	2798	GO:0016020	membranes	membrane
+2947	2952	GO:0005623	cells	cell
+2947	2952	GO:0005623	cells	cell
+2947	2952	GO:0005623	cells	cell
+2976	2983	GO:0005829	cytosol	cytosol
+2976	2983	GO:0005829	cytosol	cytosol
+3066	3073	GO:0005634	nucleus	nucleus
+3597	3609	GO:0051179	localization	localization
+3639	3664	GO:0045445	myoblast differentiation.	myoblast differentiation
+3695	3702	GO:0003675	protein	obsolete protein
+3746	3764	GO:0005624	membrane fractions	obsolete membrane fraction
+3746	3763	GO:0005624	membrane fraction	obsolete membrane fraction
+3989	4009	GO:0070527	platelet aggregation	platelet aggregation
+4281	4298	GO:0007420	brain development	brain development
+4586	4591	GO:0005623	cells	cell
+4586	4591	GO:0005623	cells	cell
+4673	4684	GO:0032502	development	developmental process
+4740	4747	GO:0003675	protein	obsolete protein
+4740	4747	GO:0003675	protein	obsolete protein
+4968	4976	GO:0045292	splicing	mRNA cis splicing, via spliceosome
+5497	5502	GO:0005623	cells	cell
+5497	5502	GO:0005623	cells	cell
+5732	5738	GO:0031672	band).	A band
+5926	5934	GO:0003675	Proteins	obsolete protein
+5956	5962	GO:0005623	cells,	cell
+6086	6096	GO:0016020	membranes.	membrane
+6201	6210	GO:0003823	antibody.	antigen binding
+6310	6317	GO:0003675	protein	obsolete protein
+6310	6317	GO:0003675	protein	obsolete protein
+6331	6343	GO:0032502	development.	developmental process
+6331	6343	GO:0032502	development.	developmental process
+6477	6481	GO:0005623	cell	cell
+6477	6481	GO:0005623	cell	cell
+6824	6836	GO:0051179	localization	localization
+7040	7047	GO:0005829	cytosol	cytosol
+7064	7069	GO:0005623	cells	cell
+7282	7286	GO:0005623	cell	cell
+7628	7634	GO:0005634	nuclei	nucleus
+8206	8214	GO:0005829	cytosol.	cytosol
+8206	8214	GO:0005829	cytosol.	cytosol
+8582	8594	GO:0051179	localization	localization
+8824	8829	GO:0005623	cells	cell
+8824	8829	GO:0005623	cells	cell
+8824	8829	GO:0005623	cells	cell
+8861	8872	GO:0009844	germinative	obsolete germination
+8861	8872	GO:0009844	germinative	obsolete germination
+9032	9039	GO:0005829	cytosol	cytosol
+9032	9039	GO:0005829	cytosol	cytosol
+9032	9039	GO:0005829	cytosol	cytosol
+9075	9086	GO:0032502	development	developmental process
+9488	9493	GO:0005623	Cells	cell
+9692	9700	GO:0005634	nucleus.	nucleus
+9724	9736	GO:0051179	localization	localization
+9925	9934	GO:0003823	antibody.	antigen binding
+9983	9988	GO:0005623	cells	cell
+9983	9988	GO:0005623	cells	cell
+9983	9988	GO:0005623	cells	cell
+9983	9988	GO:0005623	cells	cell
+9983	9988	GO:0005623	cells	cell
+10243	10250	GO:0005829	cytosol	cytosol
+10345	10353	GO:0005829	cytosol.	cytosol
+10483	10494	GO:0009844	germinative	obsolete germination
+11180	11184	GO:0045101	GFAP	obsolete glial fibrillary acidic protein
+11203	11216	GO:0051179	localization,	localization
+11235	11244	GO:0005737	cytoplasm	cytoplasm
+11401	11407	GO:0005634	nuclei	nucleus
+11748	11752	GO:0005623	cell	cell
+11748	11752	GO:0005623	cell	cell
+11837	11843	GO:0023052	signal	signaling
+11966	11973	GO:0005634	nucleus	nucleus
+11966	11973	GO:0005634	nucleus	nucleus
+11978	11986	GO:0005829	cytosol,	cytosol
+12374	12379	GO:0005623	cells	cell
+12454	12460	GO:0023052	signal	signaling
+12530	12535	GO:0045101	GFAP.	obsolete glial fibrillary acidic protein
+12530	12534	GO:0045101	GFAP	obsolete glial fibrillary acidic protein
+12799	12807	GO:0003823	antibody	antigen binding
+12799	12807	GO:0003823	antibody	antigen binding
+12799	12807	GO:0003823	antibody	antigen binding
+13084	13091	GO:0005634	nucleus	nucleus
+13084	13091	GO:0005634	nucleus	nucleus
+13168	13174	GO:0005634	nuclei	nucleus
+13168	13174	GO:0005634	nuclei	nucleus
+13252	13261	GO:0005737	cytoplasm	cytoplasm
+13441	13448	GO:0003675	protein	obsolete protein
+13643	13650	GO:0023052	signal.	signaling
+13953	13962	GO:0003823	antibody.	antigen binding
+14196	14201	GO:0005623	cells	cell
+14254	14261	GO:0003675	protein	obsolete protein
+14254	14261	GO:0003675	protein	obsolete protein
+14274	14281	GO:0005634	nucleus	nucleus
+14290	14299	GO:0005737	cytoplasm	cytoplasm
+14457	14463	GO:0005634	nuclei	nucleus
+14486	14496	GO:0003823	antibodies	antigen binding
+14638	14646	GO:0003823	antibody	antigen binding
+14879	14888	GO:0003823	antibody.	antigen binding
+14879	14888	GO:0003823	antibody.	antigen binding
+15076	15084	GO:0016020	membrane	membrane
+15099	15119	GO:0005615	intercellular space.	extracellular space
+15146	15153	GO:0005488	binding	binding
+15258	15264	GO:0005634	Nuclei	nucleus
+15392	15403	GO:0044297	cell bodies	cell body
+15464	15470	GO:0005634	nuclei	nucleus
+15464	15470	GO:0005634	nuclei	nucleus
+15545	15554	GO:0005737	cytoplasm	cytoplasm
+15545	15554	GO:0005737	cytoplasm	cytoplasm
+15577	15583	GO:0023052	signal	signaling
+15577	15583	GO:0023052	signal	signaling
+15577	15583	GO:0023052	signal	signaling
+15859	15866	GO:0005634	nuclei,	nucleus
+15904	15919	GO:0005886	plasma membrane	plasma membrane
+15969	15978	GO:0030425	dendrites	dendrite
+16176	16184	GO:0043005	neurites	neuron projection
+16176	16184	GO:0043005	neurites	neuron projection
+16185	16192	GO:0030424	(axons)	axon
+16186	16191	GO:0030424	axons	axon
+16425	16441	GO:0044301	climbing fibers.	climbing fiber
+16546	16555	GO:0043005	neurites.	neuron projection
+16710	16715	GO:0005623	cells	cell
+16804	16809	GO:0045101	GFAP.	obsolete glial fibrillary acidic protein
+16897	16905	GO:0003823	antibody	antigen binding
+17174	17178	GO:0031672	band	A band
+17289	17295	GO:0005634	nuclei	nucleus
+17354	17362	GO:0005634	nucleus,	nucleus
+17367	17376	GO:0044297	cell body	cell body
+17414	17423	GO:0030425	dendrites	dendrite
+17528	17533	GO:0030424	axons	axon
+17798	17802	GO:0007568	aged	aging
+17919	17929	GO:0005737	cytoplasm.	cytoplasm
+18085	18100	GO:0005886	plasma membrane	plasma membrane
+18110	18120	GO:0043204	perikaryon	perikaryon
+18139	18154	GO:0097440	apical dendrite	apical dendrite
+18189	18195	GO:0023052	signal	signaling
+18220	18227	GO:0005634	nuclei.	nucleus
+18228	18244	GO:0097440	Apical dendrites	apical dendrite
+18540	18556	GO:0097440	apical dendrites	apical dendrite
+18540	18555	GO:0097440	apical dendrite	apical dendrite
+18602	18610	GO:0003823	antibody	antigen binding
+18602	18610	GO:0003823	antibody	antigen binding
+18961	18974	GO:0005886	cell membrane	plasma membrane
+18982	18992	GO:0043204	perikaryon	perikaryon
+19289	19295	GO:0005634	nuclei	nucleus
+19325	19330	GO:0005623	cells	cell
+19344	19356	GO:0051179	localisation	localization
+19400	19405	GO:0005623	cells	cell
+19481	19487	GO:0023052	signal	signaling
+19549	19557	GO:0003823	antibody	antigen binding
+19549	19557	GO:0003823	antibody	antigen binding
+19607	19617	GO:0003823	antibodies	antigen binding
+20216	20223	GO:0005634	nuclei,	nucleus
+20216	20222	GO:0005634	nuclei	nucleus
+20216	20223	GO:0005634	nuclei,	nucleus
+20304	20309	GO:0005623	cells	cell
+20304	20308	GO:0005623	cell	cell
+20304	20308	GO:0005623	cell	cell
+20376	20387	GO:0005654	nucleoplasm	nucleoplasm
+20376	20387	GO:0005654	nucleoplasm	nucleoplasm
+20376	20387	GO:0005654	nucleoplasm	nucleoplasm
+20376	20387	GO:0005654	nucleoplasm	nucleoplasm
+20376	20387	GO:0005654	nucleoplasm	nucleoplasm
+20376	20387	GO:0005654	nucleoplasm	nucleoplasm
+20778	20784	GO:0005623	cells.	cell
+20798	20808	GO:0003823	antibodies	antigen binding
+21001	21018	GO:0031965	nuclear membranes	nuclear membrane
+21041	21050	GO:0005737	cytoplasm	cytoplasm
+21159	21166	GO:0005634	nucleus	nucleus
+21271	21277	GO:0005623	cells,	cell
+21415	21427	GO:0051179	localization	localization
+21477	21483	GO:0005634	nuclei	nucleus
+21532	21536	GO:0005623	cell	cell
+21585	21590	GO:0005623	cells	cell
+21585	21590	GO:0005623	cells	cell
+21585	21590	GO:0005623	cells	cell
+21625	21642	GO:0031965	nuclear membranes	nuclear membrane
+21625	21642	GO:0031965	nuclear membranes	nuclear membrane
+21651	21662	GO:0005654	nucleoplasm	nucleoplasm
+21651	21662	GO:0005654	nucleoplasm	nucleoplasm
+21651	21662	GO:0005654	nucleoplasm	nucleoplasm
+21769	21776	GO:0005634	nucleus	nucleus
+22041	22050	GO:0005737	cytoplasm	cytoplasm
+22184	22189	GO:0005623	Cells	cell
+22458	22469	GO:0032502	development	developmental process
+22486	22493	GO:0003675	protein	obsolete protein
+22549	22563	GO:0009793	embryogenesis.	embryo development ending in seed dormancy
+22729	22735	GO:0005623	cells,	cell
+22729	22734	GO:0005623	cells	cell
+22875	22883	GO:0005829	cytosol.	cytosol
+22953	22965	GO:0051179	localization	localization
+22973	22981	GO:0003675	protein.	obsolete protein
+23044	23048	GO:0005623	cell	cell
+23081	23086	GO:0005623	Cells	cell
+23240	23248	GO:0005829	cytosol.	cytosol
+23343	23350	GO:0005634	nucleus	nucleus
+23354	23359	GO:0005623	cells	cell
+23354	23359	GO:0005623	cells	cell
+23501	23512	GO:0009844	germinative	obsolete germination
+24070	24086	GO:0048469	cell maturation.	cell maturation
+24137	24149	GO:0051179	localization	localization
+24262	24274	GO:0051179	localization	localization
+24337	24346	GO:0005829	cytosolic	cytosol
+24337	24346	GO:0005829	cytosolic	cytosol
+24435	24439	GO:0005623	cell	cell
+24435	24440	GO:0005623	cells	cell
+24435	24439	GO:0005623	cell	cell
+24529	24537	GO:0043005	neurites	neuron projection
+24542	24552	GO:0030425	dendrites.	dendrite
+24542	24552	GO:0030425	dendrites.	dendrite
+24769	24778	GO:0005737	cytoplasm	cytoplasm
+24769	24778	GO:0005737	cytoplasm	cytoplasm
+24783	24789	GO:0005634	nuclei	nucleus
+24832	24838	GO:0023052	signal	signaling
+25846	25850	GO:0007568	aged	aging
+25969	25978	GO:0097194	apoptosis	execution phase of apoptosis
+25969	25978	GO:0097194	apoptosis	execution phase of apoptosis
+26094	26112	GO:0005886	cellular membranes	plasma membrane
+26103	26111	GO:0016020	membrane	membrane
+26260	26278	GO:0005886	cellular membrane.	plasma membrane
+26323	26330	GO:0005488	binding	binding
+26598	26605	GO:0003675	protein	obsolete protein
+26615	26623	GO:0005634	nucleus.	nucleus
+26803	26809	GO:0005623	cells.	cell
+27036	27047	GO:0032502	development	developmental process
+27146	27150	GO:0005623	cell	cell
+27250	27270	GO:0023052	signaling processes,	signaling
+27678	27688	GO:0065007	regulation	biological regulation
+28030	28043	GO:0009793	embryogenesis	embryo development ending in seed dormancy
+28167	28179	GO:0051179	localization	localization
+28167	28179	GO:0051179	localization	localization
+28237	28243	GO:0005634	nuclei	nucleus
+28237	28243	GO:0005634	nuclei	nucleus
+28341	28348	GO:0005829	cytosol	cytosol
+28341	28348	GO:0005829	cytosol	cytosol
+28356	28363	GO:0005634	nucleus	nucleus
+28356	28363	GO:0005634	nucleus	nucleus
+28356	28363	GO:0005634	nucleus	nucleus
+28367	28372	GO:0005623	cells	cell
+28526	28533	GO:0005488	binding	binding
+28551	28560	GO:0016020	membranes	membrane
+28607	28614	GO:0005488	Binding	binding
+28764	28780	GO:0005886	plasma membrane,	plasma membrane
+28788	28797	GO:0005737	cytoplasm	cytoplasm
+28825	28838	GO:0005856	cytoskeleton,	cytoskeleton
+29122	29135	GO:0005622	intracellular	intracellular
+29122	29135	GO:0005622	intracellular	intracellular
+29184	29201	GO:0031965	nuclear membrane.	nuclear membrane
+29184	29200	GO:0031965	nuclear membrane	nuclear membrane
+29369	29375	GO:0005623	cells,	cell
+29499	29510	GO:0005654	nucleoplasm	nucleoplasm
+29590	29602	GO:0051179	localization	localization
+29590	29602	GO:0051179	localization	localization
+29633	29647	GO:0051170	nuclear import	nuclear import
+29789	29796	GO:0005488	binding	binding
+29789	29796	GO:0005488	binding	binding
+29815	29822	GO:0003675	protein	obsolete protein
+29925	29941	GO:0005635	nuclear envelope	nuclear envelope
+29957	29967	GO:0009056	breakdown.	catabolic process
+30236	30251	GO:0016310	phosphorylation	phosphorylation
+30354	30362	GO:0005634	nucleus,	nucleus
+30478	30493	GO:0043234	protein complex	protein complex
+30676	30692	GO:0006260	DNA replication.	DNA replication
+31043	31049	GO:0005634	nuclei	nucleus
+31043	31049	GO:0005634	nuclei	nucleus
+31043	31049	GO:0005634	nuclei	nucleus
+31043	31049	GO:0005634	nuclei	nucleus
+31069	31074	GO:0005623	cells	cell
+31069	31073	GO:0005623	cell	cell
+31288	31295	GO:0005829	cytosol	cytosol
+31307	31314	GO:0005634	nuclei.	nucleus
+31337	31349	GO:0051179	localisation	localization
+32113	32122	GO:0016020	membranes	membrane
+33217	33227	GO:0003823	Antibodies	antigen binding
+33297	33301	GO:0019013	core	viral nucleocapsid
+33447	33455	GO:0003823	antibody	antigen binding
+33556	33577	GO:0005882	intermediate filament	intermediate filament
+33602	33609	GO:0045098	protein	type III intermediate filamentfibrillary acidic
+33610	33616	GO:0045101	(GFAP;	obsolete glial fibrillary acidic protein
+33862	33870	GO:0003823	antibody	antigen binding
+33862	33870	GO:0003823	antibody	antigen binding
+34022	34033	GO:0003823	antibodies.	antigen binding
+34022	34032	GO:0003823	antibodies	antigen binding
+34324	34335	GO:0003823	antibodies,	antigen binding
+34564	34572	GO:0003823	antibody	antigen binding
+34564	34572	GO:0003823	antibody	antigen binding
+34564	34572	GO:0003823	antibody	antigen binding
+35005	35010	GO:0004617	serum	phosphoglycerate dehydrogenase activity
+35054	35064	GO:0003823	antibodies	antigen binding
+35794	35802	GO:0003823	antibody	antigen binding
+35794	35802	GO:0003823	antibody	antigen binding
+35971	35981	GO:0003823	antibodies	antigen binding
+36126	36130	GO:0005623	Cell	cell
+36143	36149	GO:0040007	growth	growth
+36166	36170	GO:0005623	cell	cell
+36467	36472	GO:0005623	cells	cell
+36649	36654	GO:0005623	cells	cell
+37217	37224	GO:0005634	nuclei.	nucleus
+37217	37223	GO:0005634	nuclei	nucleus
+37217	37223	GO:0005634	nuclei	nucleus
+37255	37266	GO:0005654	nucleoplasm	nucleoplasm
+37871	37883	GO:0005654	nucleoplasm,	nucleoplasm
+37957	37968	GO:0005654	Nucleoplasm	nucleoplasm
+38056	38061	GO:0005623	Cells	cell
+38262	38272	GO:0003823	antibodies	antigen binding
+38457	38462	GO:0005623	cells	cell
+38457	38462	GO:0005623	cells	cell
+38576	38584	GO:0016020	membrane	membrane
+38737	38749	GO:0032502	development.	developmental process
+38815	38824	GO:0016020	membranes	membrane
+39205	39215	GO:0003823	antibodies	antigen binding

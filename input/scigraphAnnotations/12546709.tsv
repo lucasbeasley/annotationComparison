@@ -1,0 +1,186 @@
+StartIndex	EndIndex	GO:ID	Term	OntoTerm
+453	461	GO:0003675	protein,	obsolete protein
+1061	1066	GO:0005623	cells	cell
+1157	1169	GO:0005561	nucleic acid	obsolete nucleic acid
+1566	1570	GO:0005623	cell	cell
+1571	1581	GO:0009058	formation,	biosynthetic process
+1644	1654	GO:0009058	formation.	biosynthetic process
+1855	1863	GO:0003675	proteins	obsolete protein
+1855	1863	GO:0003675	proteins	obsolete protein
+1878	1883	GO:0005623	cells	cell
+2294	2300	GO:0005623	cells.	cell
+2775	2782	GO:0003675	protein	obsolete protein
+2775	2782	GO:0003675	protein	obsolete protein
+2970	2988	GO:0051087	chaperone, binding	chaperone binding
+3012	3021	GO:0003675	proteins,	obsolete protein
+3012	3020	GO:0003675	proteins	obsolete protein
+3122	3131	GO:0003675	proteins.	obsolete protein
+3995	3999	GO:0005488	bind	binding
+4064	4078	GO:0005884	actin filament	actin filament
+4070	4078	GO:0045098	filament	type III intermediate filamentIII intermediate
+4079	4088	GO:0009058	formation	biosynthetic process
+4079	4088	GO:0009058	formation	biosynthetic process
+4348	4355	GO:0003675	protein	obsolete protein
+4348	4356	GO:0003675	proteins	obsolete protein
+4656	4667	GO:0032502	development	developmental process
+4766	4772	GO:0005623	cells,	cell
+4827	4837	GO:0051325	interphase	interphase
+4838	4845	GO:0005634	nuclei,	nucleus
+4888	4895	GO:0005634	nucleus	nucleus
+5696	5703	GO:0003675	protein	obsolete protein
+5746	5759	GO:0036438	transparency,	maintenance of lens transparencyof lens
+5824	5833	GO:0003675	proteins,	obsolete protein
+6111	6117	GO:0005623	cells.	cell
+6252	6261	GO:0009058	formation	biosynthetic process
+6620	6628	GO:0003675	protein,	obsolete protein
+7158	7162	GO:0005623	cell	cell
+7163	7172	GO:0009058	formation	biosynthetic process
+7696	7702	GO:0007601	Vision	visual perception
+7696	7702	GO:0007601	Vision	visual perception
+8893	8903	GO:0016020	membranes,	membrane
+9132	9145	GO:0005561	nucleic acids	obsolete nucleic acid
+11019	11023	GO:0007568	aged	aging
+11290	11298	GO:0005773	vacuoles	vacuole
+12548	12556	GO:0005773	vacuoles	vacuole
+12708	12715	GO:0042603	capsule	capsule
+12942	12954	GO:0005561	nucleic acid	obsolete nucleic acid
+12942	12948	GO:0005634	nuclei	nucleus
+12942	12954	GO:0005561	nucleic acid	obsolete nucleic acid
+12942	12954	GO:0005561	nucleic acid	obsolete nucleic acid
+12942	12954	GO:0005561	nucleic acid	obsolete nucleic acid
+13185	13196	GO:0005634	Cell nuclei	nucleus
+13300	13320	GO:0005615	extracellular spaces	extracellular space
+13329	13334	GO:0005623	cells	cell
+13896	13904	GO:0005634	nucleus,	nucleus
+13896	13903	GO:0005634	nucleus	nucleus
+13896	13903	GO:0005634	nucleus	nucleus
+14182	14190	GO:0042603	capsule.	capsule
+14182	14190	GO:0042603	capsule.	capsule
+14697	14708	GO:0016020	(membrane),	membrane
+14976	14982	GO:0005634	nuclei	nucleus
+15233	15244	GO:0016020	(membrane),	membrane
+15604	15612	GO:0005634	nucleus.	nucleus
+15839	15845	GO:0005634	nuclei	nucleus
+16863	16873	GO:0016020	membranes,	membrane
+16863	16872	GO:0016020	membranes	membrane
+16863	16871	GO:0016020	membrane	membrane
+16863	16872	GO:0016020	membranes	membrane
+16919	16924	GO:0005623	cells	cell
+16919	16924	GO:0005623	cells	cell
+16919	16924	GO:0005623	cells	cell
+16919	16924	GO:0005623	cells	cell
+17088	17100	GO:0005561	nucleic acid	obsolete nucleic acid
+17088	17100	GO:0005561	nucleic acid	obsolete nucleic acid
+17308	17317	GO:0005773	vacuoles,	vacuole
+18085	18091	GO:0005634	nuclei	nucleus
+18197	18202	GO:0005623	cells	cell
+18197	18202	GO:0005623	cells	cell
+18197	18202	GO:0005623	cells	cell
+18232	18239	GO:0042603	capsule	capsule
+18493	18501	GO:0005634	nucleus.	nucleus
+19023	19028	GO:0005623	Cells	cell
+19055	19062	GO:0042603	capsule	capsule
+19055	19062	GO:0042603	capsule	capsule
+19055	19062	GO:0042603	capsule	capsule
+19111	19123	GO:0005561	nucleic acid	obsolete nucleic acid
+19178	19200	GO:0031253	membrane projections.,	cell projection membrane
+19312	19320	GO:0042603	capsule,	capsule
+19337	19343	GO:0005623	cells,	cell
+19337	19342	GO:0005623	cells	cell
+19337	19342	GO:0005623	cells	cell
+19393	19400	GO:0005634	nucleus	nucleus
+20146	20151	GO:0005623	cells	cell
+20146	20151	GO:0005623	cells	cell
+20146	20151	GO:0005623	cells	cell
+20146	20151	GO:0005623	cells	cell
+20146	20151	GO:0005623	cells	cell
+20146	20151	GO:0005623	cells	cell
+20146	20151	GO:0005623	cells	cell
+20146	20151	GO:0005623	cells	cell
+20520	20532	GO:0009986	cell surface	cell surface
+20520	20532	GO:0009986	cell surface	cell surface
+20706	20712	GO:0005623	cells,	cell
+21222	21230	GO:0005634	nucleus,	nucleus
+21301	21309	GO:0097610	furrowed	cell surface furrow
+21310	21319	GO:0016020	membranes	membrane
+21412	21419	GO:0042603	capsule	capsule
+21412	21419	GO:0042603	capsule	capsule
+22582	22589	GO:0003675	protein	obsolete protein
+22582	22589	GO:0003675	protein	obsolete protein
+22632	22645	GO:0036438	transparency,	maintenance of lens transparencyof lens
+22710	22719	GO:0003675	proteins,	obsolete protein
+23342	23350	GO:0003675	protein,	obsolete protein
+23547	23552	GO:0005623	cells	cell
+23622	23635	GO:0005561	nucleic acids	obsolete nucleic acid
+24368	24374	GO:0040007	growth	growth
+24389	24394	GO:0005623	cells	cell
+24389	24394	GO:0005623	cells	cell
+24389	24394	GO:0005623	cells	cell
+24389	24394	GO:0005623	cells	cell
+24389	24395	GO:0005623	cells.	cell
+24518	24525	GO:0005634	nucleus	nucleus
+24551	24562	GO:0043226	organelles,	organelle
+24609	24615	GO:0005623	cells,	cell
+24626	24632	GO:0005634	nuclei	nucleus
+24637	24648	GO:0043226	organelles.	organelle
+24929	24937	GO:0042603	capsule.	capsule
+24929	24937	GO:0042603	capsule.	capsule
+24929	24937	GO:0042603	capsule.	capsule
+25428	25439	GO:0005634	cell nuclei	nucleus
+25428	25439	GO:0005634	cell nuclei	nucleus
+26805	26817	GO:0005561	nucleic acid	obsolete nucleic acid
+26805	26817	GO:0005561	nucleic acid	obsolete nucleic acid
+26805	26817	GO:0005561	nucleic acid	obsolete nucleic acid
+26805	26817	GO:0005561	nucleic acid	obsolete nucleic acid
+26887	26893	GO:0005623	cells,	cell
+26887	26892	GO:0005623	cells	cell
+26887	26892	GO:0005623	cells	cell
+28048	28059	GO:0032502	development	developmental process
+28340	28346	GO:0040007	growth	growth
+28511	28515	GO:0005623	cell	cell
+28511	28515	GO:0005623	cell	cell
+28511	28515	GO:0005623	cell	cell
+28511	28515	GO:0005623	cell	cell
+28535	28544	GO:0009058	formation	biosynthetic process
+28582	28587	GO:0005623	cell,	cell
+28749	28759	GO:0043226	organelles	organelle
+28977	28985	GO:0003675	proteins	obsolete protein
+29332	29348	GO:0030855	differentiation,	epithelial cell differentiationcell
+29373	29386	GO:0036438	transparency,	maintenance of lens transparencyof lens
+29540	29559	GO:0051131	chaperone activity,	chaperone-mediated protein complex assembly
+29560	29567	GO:0005488	binding	binding
+29591	29600	GO:0003675	proteins,	obsolete protein
+29591	29599	GO:0003675	proteins	obsolete protein
+29591	29599	GO:0003675	proteins	obsolete protein
+29591	29599	GO:0003675	proteins	obsolete protein
+29935	29940	GO:0005623	cells	cell
+29935	29940	GO:0005623	cells	cell
+29935	29940	GO:0005623	cells	cell
+29935	29940	GO:0005623	cells	cell
+29948	29959	GO:0032502	development	developmental process
+30164	30170	GO:0040007	growth	growth
+30210	30236	GO:0030225	macrophage differentiation	macrophage differentiation
+30265	30273	GO:0007519	myogenic	skeletal muscle tissue development
+30401	30411	GO:0007519	myogenesis	skeletal muscle tissue development
+30559	30568	GO:0009058	formation	biosynthetic process
+30788	30800	GO:0005634	cell nucleus	nucleus
+30793	30800	GO:0005634	nucleus	nucleus
+30793	30800	GO:0005634	nucleus	nucleus
+30839	30850	GO:0007049	cell cycle.	cell cycle
+30839	30850	GO:0007049	cell cycle.	cell cycle
+30870	30877	GO:0003675	protein	obsolete protein
+30898	30909	GO:0005634	cell nuclei	nucleus
+30903	30909	GO:0005634	nuclei	nucleus
+31050	31056	GO:0005623	cells,	cell
+31099	31109	GO:0051325	interphase	interphase
+31110	31117	GO:0005634	nuclei,	nucleus
+31131	31141	GO:0065007	regulatory	biological regulation
+31673	31683	GO:0051726	regulation	regulation of cell cyclecycle
+31847	31859	GO:0005561	nucleic acid	obsolete nucleic acid
+31996	32004	GO:0005634	nucleus.	nucleus
+32166	32170	GO:0005488	bind	binding
+32231	32245	GO:0005884	Actin filament	actin filament
+32237	32245	GO:0045098	filament	type III intermediate filamentIII intermediate
+32246	32255	GO:0009058	formation	biosynthetic process
+32863	32872	GO:0009058	synthesis	biosynthetic process
+32985	32998	GO:0005856	cytoskeleton,	cytoskeleton

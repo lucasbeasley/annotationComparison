@@ -1,0 +1,97 @@
+StartIndex	EndIndex	GO:ID	Term	OntoTerm
+0	10	GO:0065007	Regulation	biological regulation
+14	26	GO:0030484	Muscle Fiber	obsolete muscle fiber
+126	138	GO:0030484	muscle fiber	obsolete muscle fiber
+232	248	GO:0010467	gene expression.	gene expression
+232	247	GO:0010467	gene expression	gene expression
+525	535	GO:0005777	peroxisome	peroxisome
+873	882	GO:0008152	metabolic	metabolic process
+1106	1118	GO:0030484	muscle fiber	obsolete muscle fiber
+1268	1279	GO:0008152	metabolism,	metabolic process
+1268	1278	GO:0008152	metabolism	metabolic process
+1362	1382	GO:0045333	oxidative metabolism	cellular respiration
+2007	2015	GO:0014823	exercise	response to activityto
+2145	2149	GO:1990343	Hood	heterochromatin domain
+2256	2273	GO:0019722	calcium signaling	calcium-mediated signaling
+2264	2281	GO:0007165	signaling pathway	signal transduction
+2296	2308	GO:0004723	calcineurin,	calcium-dependent protein serine/threonine phosphatase activity
+2346	2361	GO:0006351	transcriptional	transcription, DNA-templated
+2371	2381	GO:0005777	Peroxisome	peroxisome
+2642	2651	GO:0008152	metabolic	metabolic process
+2684	2696	GO:0030484	Muscle fiber	obsolete muscle fiber
+3273	3280	GO:0016088	insulin	obsolete insulin
+3393	3403	GO:0005777	peroxisome	peroxisome
+3456	3471	GO:0006351	transcriptional	transcription, DNA-templated
+3821	3830	GO:0009058	formation	biosynthetic process
+4029	4041	GO:0030484	Muscle Fiber	obsolete muscle fiber
+4077	4089	GO:0030484	muscle fiber	obsolete muscle fiber
+4266	4279	GO:0030484	muscle fibers	obsolete muscle fiber
+4615	4622	GO:0003675	protein	obsolete protein
+4708	4720	GO:0030484	muscle fiber	obsolete muscle fiber
+5219	5233	GO:0030484	muscle fibers,	obsolete muscle fiber
+5379	5386	GO:0003675	protein	obsolete protein
+5379	5386	GO:0003675	protein	obsolete protein
+5926	5933	GO:0003675	protein	obsolete protein
+5926	5933	GO:0003675	protein	obsolete protein
+5926	5933	GO:0003675	protein	obsolete protein
+5967	5979	GO:0030484	muscle fiber	obsolete muscle fiber
+5967	5979	GO:0030484	muscle fiber	obsolete muscle fiber
+5967	5979	GO:0030484	muscle fiber	obsolete muscle fiber
+5967	5979	GO:0030484	muscle fiber	obsolete muscle fiber
+6538	6555	GO:0006118	electron transfer	obsolete electron transport
+6556	6569	GO:0009461	(cytochrome c	obsolete cytochrome c
+6557	6569	GO:0009461	cytochrome c	obsolete cytochrome c
+7080	7097	GO:0000262	Mitochondrial DNA	mitochondrial chromosome
+7433	7442	GO:0003675	proteins,	obsolete protein
+7433	7442	GO:0003675	proteins,	obsolete protein
+7718	7724	GO:0033867	(fast)	Fas-activated serine/threonine kinase activity
+8351	8363	GO:0030484	Muscle Fiber	obsolete muscle fiber
+9815	9827	GO:0030484	muscle fiber	obsolete muscle fiber
+11483	11495	GO:0030484	muscle fiber	obsolete muscle fiber
+11483	11495	GO:0030484	muscle fiber	obsolete muscle fiber
+12030	12045	GO:0006351	transcriptional	transcription, DNA-templated
+12067	12079	GO:0030484	muscle fiber	obsolete muscle fiber
+12067	12079	GO:0030484	muscle fiber	obsolete muscle fiber
+12067	12079	GO:0030484	muscle fiber	obsolete muscle fiber
+12067	12079	GO:0030484	muscle fiber	obsolete muscle fiber
+13044	13056	GO:0060384	innervation,	innervation
+13095	13104	GO:0008152	metabolic	metabolic process
+13506	13518	GO:0004723	calcineurin,	calcium-dependent protein serine/threonine phosphatase activity
+13757	13763	GO:0005488	ligand	binding
+13856	13868	GO:0030484	muscle fiber	obsolete muscle fiber
+13856	13868	GO:0030484	muscle fiber	obsolete muscle fiber
+14168	14174	GO:0023052	signal	signaling
+14178	14185	GO:0005488	ligand,	binding
+14529	14536	GO:0005488	ligands	binding
+14529	14536	GO:0005488	ligands	binding
+15067	15076	GO:0023052	signaling	signaling
+15171	15181	GO:0065007	regulatory	biological regulation
+15384	15403	GO:0006006	glucose metabolism.	glucose metabolic process
+15384	15402	GO:0006006	glucose metabolism	glucose metabolic process
+15531	15537	GO:0005488	ligand	binding
+15761	15768	GO:0016088	insulin	obsolete insulin
+16094	16100	GO:0007568	aging.	aging
+16150	16157	GO:0005488	ligands	binding
+16202	16214	GO:0030484	muscle fiber	obsolete muscle fiber
+16495	16510	GO:2000144	transactivation	positive regulation of DNA-templated transcription, initiation
+17437	17443	GO:0005488	ligand	binding
+17559	17574	GO:0010467	Gene expression	gene expression
+17742	17752	GO:0003823	Antibodies	antigen binding
+17851	17858	GO:0003675	protein	obsolete protein
+18348	18360	GO:0030484	Muscle fiber	obsolete muscle fiber
+18372	18389	GO:0000262	mitochondrial DNA	mitochondrial chromosome
+18401	18413	GO:0030484	Muscle fiber	obsolete muscle fiber
+18534	18546	GO:0005739	mitochondria	mitochondrion
+18584	18601	GO:0000262	Mitochondrial DNA	mitochondrial chromosome
+20573	20583	GO:0005777	Peroxisome	peroxisome
+20645	20655	GO:0005777	peroxisome	peroxisome
+20706	20713	GO:0003675	protein	obsolete protein
+21105	21114	GO:0003823	antibody.	antigen binding
+21508	21519	GO:0003823	antibodies.	antigen binding
+21543	21547	GO:0031672	band	A band
+21587	21595	GO:0003823	antibody	antigen binding
+22520	22537	GO:0000262	mitochondrial DNA	mitochondrial chromosome
+22520	22537	GO:0000262	mitochondrial DNA	mitochondrial chromosome
+22705	22717	GO:0030484	muscle fiber	obsolete muscle fiber
+23705	23711	GO:0033867	fasted	Fas-activated serine/threonine kinase activity
+24566	24572	GO:0033867	fasted	Fas-activated serine/threonine kinase activity

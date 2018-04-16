@@ -1,0 +1,339 @@
+StartIndex	EndIndex	GO:ID	Term	OntoTerm
+0	8	GO:0016020	Membrane	membrane
+98	102	GO:0005623	cell	cell
+663	669	GO:0005623	cells,	cell
+894	900	GO:0005623	cells.	cell
+989	993	GO:0007568	aged	aging
+1094	1101	GO:0040007	growth;	growth
+1114	1123	GO:0006810	transport	transport
+1161	1176	GO:0003824	enzyme activity	catalytic activity
+1257	1268	GO:0006897	endocytosis	endocytosis
+1294	1306	GO:0005739	mitochondria	mitochondrion
+1486	1508	GO:0031090	intracellular membrane	organelle membrane
+1922	1927	GO:0016265	death	death
+1974	1986	GO:0005694	chromosomes)	chromosome
+2144	2151	GO:0003675	protein	obsolete protein
+2253	2266	GO:0044754	autolysosomes	autolysosome
+2319	2331	GO:0016467	ATP synthase	obsolete hydrogen-translocating F-type ATPase activity
+2446	2451	GO:0005623	cells	cell
+2665	2672	GO:0003675	protein	obsolete protein
+2813	2821	GO:0005764	lysosome	lysosome
+2832	2841	GO:0031982	vesicular	vesicle
+2998	3009	GO:0042592	homeostasis	homeostatic process
+3025	3034	GO:0006865	transport	amino acid transportacid
+3061	3073	GO:0009405	pathogenesis	pathogenesis
+3300	3310	GO:0003823	antibodies	antigen binding
+3474	3478	GO:0005623	cell	cell
+3756	3760	GO:0005623	cell	cell
+3825	3846	GO:0008150	biological processes.	biological_process
+3974	3979	GO:0005623	cells	cell
+4043	4051	GO:0016020	membrane	membrane
+4043	4051	GO:0016020	membrane	membrane
+4052	4062	GO:0043226	organelles	organelle
+4165	4171	GO:0005623	cells.	cell
+4234	4238	GO:0005623	cell	cell
+4297	4301	GO:0005623	cell	cell
+4297	4301	GO:0005623	cell	cell
+4297	4301	GO:0005623	cell	cell
+4652	4658	GO:0040007	Growth	growth
+5046	5059	GO:0051301	cell division	cell division
+5072	5077	GO:0005623	cells	cell
+5478	5483	GO:0005623	cells	cell
+5478	5483	GO:0005623	cells	cell
+5478	5483	GO:0005623	cells	cell
+5478	5483	GO:0005623	cells	cell
+5478	5482	GO:0005623	cell	cell
+5554	5564	GO:0003823	antibodies	antigen binding
+5634	5638	GO:0045101	GFAP	obsolete glial fibrillary acidic protein
+5828	5839	GO:0044297	cell bodies	cell body
+6268	6273	GO:0005623	cells	cell
+6268	6273	GO:0005623	cells	cell
+6268	6273	GO:0005623	cells	cell
+6268	6273	GO:0005623	cells	cell
+6268	6273	GO:0005623	cells	cell
+6424	6431	GO:0003675	protein	obsolete protein
+6460	6468	GO:0003823	antibody	antigen binding
+6558	6564	GO:0005623	cells,	cell
+6558	6564	GO:0005623	cells,	cell
+6558	6564	GO:0005623	cells,	cell
+6558	6564	GO:0005623	cells,	cell
+6965	6987	GO:0031410	cytoplasmic, vesicular	cytoplasmic vesicle
+7031	7037	GO:0005623	cells.	cell
+7044	7050	GO:0023052	signal	signaling
+7044	7050	GO:0023052	signal	signaling
+7263	7283	GO:0055037	recycling endosomes,	recycling endosome
+7886	7891	GO:0005623	cells	cell
+7886	7890	GO:0005623	cell	cell
+7886	7890	GO:0005623	cell	cell
+8103	8107	GO:0031672	band	A band
+8103	8107	GO:0031672	band	A band
+8448	8453	GO:0005623	cells	cell
+8602	8611	GO:0005764	lysosomes	lysosome
+8622	8637	GO:0005769	early endosomes	early endosome
+8650	8664	GO:0005770	late endosomes	late endosome
+8702	8708	GO:0023052	signal	signaling
+8702	8708	GO:0023052	signal	signaling
+9208	9220	GO:0051179	localization	localization
+9310	9316	GO:0005623	cells.	cell
+9461	9467	GO:0040007	growth	growth
+9526	9531	GO:0005623	cells	cell
+9526	9531	GO:0005623	cells	cell
+9526	9531	GO:0005623	cells	cell
+9582	9591	GO:0009058	formation	biosynthetic process
+9635	9639	GO:0007568	aged	aging
+9855	9861	GO:0023052	signal	signaling
+9898	9905	GO:0023052	signal,	signaling
+10199	10213	GO:0005776	autophagosomes	autophagosome
+10199	10213	GO:0005776	autophagosomes	autophagosome
+10235	10239	GO:0019013	core	viral nucleocapsid
+10265	10278	GO:0005739	mitochondria,	mitochondrion
+10296	10304	GO:0031982	vesicles	vesicle
+10316	10332	GO:0016234	Inclusion bodies	inclusion body
+10517	10522	GO:0005623	cells	cell
+10517	10522	GO:0005623	cells	cell
+10517	10522	GO:0005623	cells	cell
+10517	10522	GO:0005623	cells	cell
+11022	11029	GO:0003675	protein	obsolete protein
+11022	11029	GO:0003675	protein	obsolete protein
+11022	11029	GO:0003675	protein	obsolete protein
+11022	11029	GO:0003675	protein	obsolete protein
+11427	11434	GO:0003675	Protein	obsolete protein
+11606	11619	GO:0005776	autophagosome	autophagosome
+11640	11648	GO:0016020	membrane	membrane
+11686	11698	GO:0005739	mitochondria	mitochondrion
+11720	11725	GO:0019013	cores	viral nucleocapsid
+11766	11775	GO:0031982	vesicular	vesicle
+11877	11890	GO:0005739	mitochondria.	mitochondrion
+11940	11945	GO:0005623	cells	cell
+12166	12177	GO:0009056	degradation	catabolic process
+12185	12193	GO:0005764	lysosome	lysosome
+12185	12193	GO:0005764	lysosome	lysosome
+12228	12237	GO:0006810	transport	transport
+12228	12237	GO:0006810	transport	transport
+12280	12285	GO:0005623	cells	cell
+12280	12285	GO:0005623	cells	cell
+12280	12284	GO:0005623	cell	cell
+12280	12284	GO:0005623	cell	cell
+12280	12285	GO:0005623	cells	cell
+12329	12337	GO:0003823	antibody	antigen binding
+12500	12509	GO:0031982	vesicular	vesicle
+12500	12509	GO:0031982	vesicular	vesicle
+12593	12610	GO:0045045	secretory pathway	obsolete secretory pathway
+12687	12693	GO:0005623	cells,	cell
+12787	12793	GO:0005623	cells.	cell
+13362	13377	GO:0016049	cellular growth	cell growth
+13449	13458	GO:0046903	secretion	secretion
+13655	13667	GO:0051179	localization	localization
+13724	13729	GO:0005623	cells	cell
+13724	13729	GO:0005623	cells	cell
+13724	13729	GO:0005623	cells	cell
+13827	13836	GO:0003823	antibody,	antigen binding
+13896	13903	GO:0003675	protein	obsolete protein
+13992	13999	GO:0023052	signal.	signaling
+13992	13998	GO:0023052	signal	signaling
+14125	14132	GO:0023052	signal,	signaling
+14165	14171	GO:0005623	cells.	cell
+14361	14366	GO:0031672	band,	A band
+14361	14365	GO:0031672	band	A band
+14830	14838	GO:0004192	activity	obsolete cathepsin D activityD
+15081	15086	GO:0005623	cells	cell
+15081	15086	GO:0005623	cells	cell
+15081	15086	GO:0005623	cells	cell
+15081	15086	GO:0005623	cells	cell
+15110	15119	GO:0003675	protein),	obsolete protein
+15110	15119	GO:0003675	protein),	obsolete protein
+15289	15298	GO:0006810	transport	transport
+15464	15469	GO:0005623	cells	cell
+15484	15492	GO:0016020	membrane	membrane
+15493	15503	GO:0043226	organelles	organelle
+15518	15527	GO:0006810	transport	transport
+15568	15576	GO:0016020	membrane	membrane
+15568	15576	GO:0016020	membrane	membrane
+15628	15634	GO:0005623	cells;	cell
+15628	15633	GO:0005623	cells	cell
+15628	15632	GO:0005623	cell	cell
+15628	15633	GO:0005623	cells	cell
+15714	15725	GO:0043226	organelles.	organelle
+15744	15762	GO:0045045	secretory pathway,	obsolete secretory pathway
+15900	15907	GO:0003675	protein	obsolete protein
+16053	16059	GO:0023052	signal	signaling
+16053	16059	GO:0023052	signal	signaling
+16087	16093	GO:0005623	cells,	cell
+16111	16117	GO:0005623	cells.	cell
+16161	16170	GO:0005764	lysosomes	lysosome
+16161	16170	GO:0005764	lysosomes	lysosome
+16161	16170	GO:0005764	lysosomes	lysosome
+16299	16307	GO:0031982	vesicles	vesicle
+16350	16359	GO:0005737	cytoplasm	cytoplasm
+16659	16671	GO:0051179	localization	localization
+17045	17054	GO:0005764	lysosomes	lysosome
+17045	17054	GO:0005764	lysosomes	lysosome
+17045	17054	GO:0005764	lysosomes	lysosome
+17125	17130	GO:0005623	cells	cell
+17125	17130	GO:0005623	cells	cell
+17159	17167	GO:0003823	antibody	antigen binding
+17441	17449	GO:0031982	vesicles	vesicle
+17550	17556	GO:0023052	signal	signaling
+17627	17633	GO:0005623	cells,	cell
+17873	17887	GO:0005769	early endosome	early endosome
+17902	17908	GO:0023052	signal	signaling
+17902	17908	GO:0023052	signal	signaling
+17946	17969	GO:0006907	fluid-phase endocytosis	pinocytosis
+18014	18020	GO:0005623	cells,	cell
+18014	18019	GO:0005623	cells	cell
+18014	18019	GO:0005623	cells	cell
+18049	18055	GO:0098657	uptake	import into cell
+18200	18218	GO:0030139	endocytic vesicles	endocytic vesicle
+18210	18218	GO:0031982	vesicles	vesicle
+18418	18427	GO:0005737	cytoplasm	cytoplasm
+18435	18440	GO:0005623	cell.	cell
+18452	18463	GO:0006897	Endocytosis	endocytosis
+18519	18524	GO:0005623	cells	cell
+18519	18524	GO:0005623	cells	cell
+18538	18544	GO:0098657	uptake	import into cell
+18711	18717	GO:0005623	cells,	cell
+18777	18786	GO:0031982	vesicular	vesicle
+18818	18826	GO:0031982	vesicles	vesicle
+18818	18826	GO:0031982	vesicles	vesicle
+19162	19174	GO:0005739	mitochondria	mitochondrion
+19162	19174	GO:0005739	mitochondria	mitochondrion
+19162	19174	GO:0005739	mitochondria	mitochondrion
+19162	19174	GO:0005739	mitochondria	mitochondrion
+19298	19302	GO:0005623	cell	cell
+19342	19368	GO:0048311	Mitochondrial distribution	mitochondrion distribution
+19396	19401	GO:0005623	cells	cell
+19396	19401	GO:0005623	cells	cell
+19396	19401	GO:0005623	cells	cell
+19456	19462	GO:0005623	cells;	cell
+19921	19927	GO:0005623	cells,	cell
+20300	20306	GO:0005623	cells.	cell
+20411	20416	GO:0005623	cells	cell
+20411	20416	GO:0005623	cells	cell
+20411	20416	GO:0005623	cells	cell
+20411	20416	GO:0005623	cells	cell
+20411	20416	GO:0005623	cells	cell
+20411	20416	GO:0005623	cells	cell
+20411	20416	GO:0005623	cells	cell
+20490	20502	GO:0005739	mitochondria	mitochondrion
+20490	20502	GO:0005739	mitochondria	mitochondrion
+20490	20502	GO:0005739	mitochondria	mitochondrion
+20570	20578	GO:0005743	membrane	mitochondrial inner membranemitochondrial
+20762	20788	GO:0048311	Mitochondrial distribution	mitochondrion distribution
+22010	22015	GO:0005623	cells	cell
+22217	22222	GO:0007568	aging	aging
+22323	22331	GO:0016020	membrane	membrane
+22598	22610	GO:0051179	localization	localization
+22653	22658	GO:0005623	cells	cell
+22653	22658	GO:0005623	cells	cell
+22703	22724	GO:0016192	vesicular trafficking	vesicle-mediated transport
+22919	22930	GO:0042592	homeostasis	homeostatic process
+23102	23109	GO:0003675	protein	obsolete protein
+23167	23173	GO:0005623	cells,	cell
+23196	23204	GO:0004192	activity	obsolete cathepsin D activityD
+23333	23338	GO:0007568	Aging	aging
+23366	23371	GO:0005623	cells	cell
+23445	23453	GO:0003675	protein.	obsolete protein
+23463	23471	GO:0016020	membrane	membrane
+23463	23471	GO:0016020	membrane	membrane
+23472	23481	GO:0043226	organelle	organelle
+23552	23558	GO:0005623	cells,	cell
+23591	23596	GO:0007568	aging	aging
+23675	23687	GO:0005739	mitochondria	mitochondrion
+23921	23930	GO:0005764	lysosome,	lysosome
+24165	24175	GO:0006914	autophagy,	autophagy
+24371	24380	GO:0006810	transport	transport
+24413	24422	GO:0003675	proteins.	obsolete protein
+24463	24468	GO:0005623	cells	cell
+24516	24531	GO:0005770	late endosomes.	late endosome
+24516	24530	GO:0005770	late endosomes	late endosome
+24521	24530	GO:0005768	endosomes	endosome
+24653	24659	GO:0023052	signal	signaling
+24728	24735	GO:0003675	protein	obsolete protein
+24796	24804	GO:0003675	protein.	obsolete protein
+24837	24857	GO:0008104	protein localization	protein localization
+24921	24930	GO:0005764	lysosomes	lysosome
+24965	24975	GO:0005764	lysosomes,	lysosome
+24976	24988	GO:0019717	synaptosomes	obsolete synaptosome
+25091	25100	GO:0031982	vesicular	vesicle
+25131	25139	GO:0016020	membrane	membrane
+25185	25204	GO:0006905	vesicular transport	obsolete vesicle transport
+25287	25297	GO:0006914	autophagy,	autophagy
+25359	25367	GO:0016020	membrane	membrane
+25359	25367	GO:0016020	membrane	membrane
+25444	25449	GO:0005623	cells	cell
+25444	25449	GO:0005623	cells	cell
+25503	25520	GO:0007268	Neurotransmission	synaptic transmission
+25548	25566	GO:0006905	vesicle transport,	obsolete vesicle transport
+25585	25595	GO:0008152	metabolism	metabolic process
+25827	25840	GO:0009405	pathogenesis.	pathogenesis
+25851	25859	GO:0003823	Antibody	antigen binding
+25864	25868	GO:0005623	cell	cell
+25997	26007	GO:0003823	antibodies	antigen binding
+25997	26007	GO:0003823	antibodies	antigen binding
+25997	26007	GO:0003823	antibodies	antigen binding
+25997	26007	GO:0003823	antibodies	antigen binding
+26204	26212	GO:0003823	antibody	antigen binding
+26337	26342	GO:0045101	GFAP,	obsolete glial fibrillary acidic protein
+26684	26696	GO:0009293	Transduction	transduction
+26759	26773	GO:0005769	early endosome	early endosome
+27055	27059	GO:0005623	cell	cell
+27794	27801	GO:0004530	DNase I	deoxyribonuclease I activity
+28055	28061	GO:0040007	growth	growth
+28055	28061	GO:0040007	growth	growth
+28055	28061	GO:0040007	growth	growth
+28149	28154	GO:0004617	serum	phosphoglycerate dehydrogenase activity
+28847	28851	GO:0005623	cell	cell
+28847	28851	GO:0005623	cell	cell
+29316	29320	GO:0005623	cell	cell
+29526	29530	GO:0031672	band	A band
+29648	29653	GO:0031672	band.	A band
+29900	29905	GO:0005623	Cells	cell
+29900	29905	GO:0005623	Cells	cell
+29978	29983	GO:0005623	cells	cell
+29978	29983	GO:0005623	cells	cell
+29978	29983	GO:0005623	cells	cell
+29978	29982	GO:0005623	cell	cell
+30091	30098	GO:0003675	protein	obsolete protein
+30091	30098	GO:0003675	protein	obsolete protein
+30495	30500	GO:0005623	cells	cell
+30729	30735	GO:0023052	signal	signaling
+30729	30735	GO:0023052	signal	signaling
+30870	30878	GO:0003823	antibody	antigen binding
+30885	30892	GO:0023052	signal.	signaling
+30954	30959	GO:0005623	cells	cell
+30954	30959	GO:0005623	cells	cell
+31258	31266	GO:0003823	antibody	antigen binding
+31258	31266	GO:0003823	antibody	antigen binding
+31279	31284	GO:0005623	Cells	cell
+32145	32153	GO:0003675	proteins	obsolete protein
+32145	32152	GO:0003675	protein	obsolete protein
+32173	32177	GO:0005623	cell	cell
+32604	32611	GO:0003675	Protein	obsolete protein
+32794	32802	GO:0004192	activity	obsolete cathepsin D activityD
+32932	32939	GO:0003675	protein	obsolete protein
+32932	32939	GO:0003675	protein	obsolete protein
+32975	32980	GO:0005623	cells	cell
+33215	33222	GO:0003675	Protein	obsolete protein
+33297	33305	GO:0004192	activity	obsolete cathepsin D activityD
+33758	33764	GO:0098657	uptake	import into cell
+33766	33771	GO:0005623	Cells	cell
+33810	33815	GO:0005623	cells	cell
+33810	33815	GO:0005623	cells	cell
+33810	33815	GO:0005623	cells	cell
+33879	33885	GO:0040007	Growth	growth
+33928	33934	GO:0040007	growth	growth
+34409	34421	GO:0005739	mitochondria	mitochondrion
+34566	34578	GO:0005739	mitochondria	mitochondrion
+34636	34649	GO:0005739	mitochondria,	mitochondrion
+35087	35091	GO:0005623	Cell	cell
+35202	35207	GO:0005623	cells	cell
+35202	35206	GO:0005623	cell	cell
+35414	35419	GO:0019835	lysis	cytolysis
+35709	35716	GO:0023052	signal.	signaling
+35753	35758	GO:0005623	Cells	cell
+35753	35758	GO:0005623	Cells	cell
+36126	36144	GO:0008283	Cell Proliferation	cell proliferation
+36292	36296	GO:0005623	cell	cell
+36292	36296	GO:0005623	cell	cell
+36292	36296	GO:0005623	cell	cell
+36582	36588	GO:0005623	cells.	cell

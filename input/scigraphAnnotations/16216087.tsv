@@ -1,0 +1,243 @@
+StartIndex	EndIndex	GO:ID	Term	OntoTerm
+52	58	GO:0007613	Memory	memory
+93	107	GO:0032281	AMPA Receptors	AMPA glutamate receptor complex
+279	287	GO:0007612	learning	learning
+293	300	GO:0007611	memory.	learning or memoryand
+293	299	GO:0007613	memory	memory
+293	299	GO:0007613	memory	memory
+293	299	GO:0007613	memory	memory
+369	388	GO:0042048	olfactory behavior.	olfactory behavior
+379	387	GO:0007610	behavior	behavior
+694	714	GO:0035106	operant conditioning	operant conditioning
+731	738	GO:0007613	memory,	memory
+1286	1305	GO:0008355	olfactory learning,	olfactory learning
+1375	1380	GO:0007608	smell	sensory perception of smellof
+1488	1494	GO:0007613	memory	memory
+1488	1494	GO:0007613	memory	memory
+1488	1494	GO:0007613	memory	memory
+1488	1494	GO:0007613	memory	memory
+1698	1707	GO:0009058	formation	biosynthetic process
+1712	1719	GO:0051235	storage	maintenance of location
+2795	2799	GO:0043336	rest	site-specific telomere resolvase activity
+2862	2870	GO:0007129	synapses	synapsis
+3009	3018	GO:0007129	synapses,	synapsis
+3407	3414	GO:0007613	memory,	memory
+3437	3441	GO:0033867	fast	Fas-activated serine/threonine kinase activity
+3453	3470	GO:0007268	neurotransmission	synaptic transmission
+3952	3961	GO:0009058	formation	biosynthetic process
+4325	4336	GO:0009451	RNA editing	RNA modification
+4897	4918	GO:0007268	synaptic transmission	synaptic transmission
+5517	5526	GO:0007610	behavior,	behavior
+6504	6523	GO:0042048	olfactory behavior.	olfactory behavior
+6568	6587	GO:0008355	olfactory learning,	olfactory learning
+6608	6615	GO:0007613	memory,	memory
+7207	7214	GO:0007613	memory.	memory
+7554	7563	GO:0007612	learning,	learning
+7584	7591	GO:0007613	memory.	memory
+7650	7668	GO:0008355	Olfactory Learning	olfactory learning
+7712	7716	GO:0033867	fast	Fas-activated serine/threonine kinase activity
+7728	7745	GO:0007268	neurotransmission	synaptic transmission
+8196	8204	GO:0045292	splicing	mRNA cis splicing, via spliceosome
+9696	9704	GO:0007612	learning	learning
+9696	9704	GO:0007612	learning	learning
+11004	11012	GO:0007612	learning	learning
+11149	11167	GO:0008355	olfactory learning	olfactory learning
+13859	13869	GO:0007608	olfaction,	sensory perception of smell
+13859	13868	GO:0007608	olfaction	sensory perception of smell
+13974	13986	GO:0046959	habituation,	habituation
+15628	15646	GO:0008355	olfactory learning	olfactory learning
+15628	15646	GO:0008355	olfactory learning	olfactory learning
+15838	15854	GO:0008542	spatial learning	visual learning
+16146	16151	GO:0007608	smell	sensory perception of smellof
+16693	16699	GO:0007613	Memory	memory
+16833	16852	GO:0042048	olfactory behavior,	olfactory behavior
+16920	16927	GO:0007613	memory.	memory
+16920	16926	GO:0007613	memory	memory
+16920	16926	GO:0007613	memory	memory
+16920	16926	GO:0007613	memory	memory
+16920	16926	GO:0007613	memory	memory
+16920	16926	GO:0007613	memory	memory
+16920	16926	GO:0007613	memory	memory
+17363	17370	GO:0007613	(memory	memory
+17525	17533	GO:0007612	learning	learning
+18254	18263	GO:0007608	olfaction	sensory perception of smell
+18438	18444	GO:0007613	memory	memory
+18438	18444	GO:0007613	memory	memory
+19352	19358	GO:0007613	memory	memory
+19352	19358	GO:0007613	memory	memory
+19631	19637	GO:0007613	Memory	memory
+19670	19677	GO:0003675	Protein	obsolete protein
+19773	19779	GO:0007613	memory	memory
+19773	19779	GO:0007613	memory	memory
+19773	19779	GO:0007613	memory	memory
+19773	19779	GO:0007613	memory	memory
+19909	19916	GO:0003675	protein	obsolete protein
+19909	19916	GO:0003675	protein	obsolete protein
+20021	20028	GO:0007613	(memory	memory
+20394	20401	GO:0003675	protein	obsolete protein
+20394	20401	GO:0003675	protein	obsolete protein
+20394	20401	GO:0003675	protein	obsolete protein
+20394	20401	GO:0003675	protein	obsolete protein
+20394	20401	GO:0003675	protein	obsolete protein
+20416	20423	GO:0007613	memory,	memory
+20416	20422	GO:0007613	memory	memory
+20416	20422	GO:0007613	memory	memory
+20416	20422	GO:0007613	memory	memory
+21022	21030	GO:0007612	learning	learning
+21714	21721	GO:0007613	memory,	memory
+21714	21721	GO:0007613	memory,	memory
+21834	21842	GO:0007612	learning	learning
+21834	21842	GO:0007612	learning	learning
+22364	22370	GO:0007613	Memory	memory
+22651	22658	GO:0007613	memory.	memory
+22673	22689	GO:0007613PHENOTYPE	memory phenotype	memory phenotype
+23062	23069	GO:0003675	protein	obsolete protein
+23322	23328	GO:0007613	memory	memory
+23623	23638	GO:0006351	transcriptional	transcription, DNA-templated
+24194	24199	GO:0005623	cells	cell
+24361	24367	GO:0007613	memory	memory
+24361	24367	GO:0007613	memory	memory
+24361	24367	GO:0007613	memory	memory
+24361	24367	GO:0007613	memory	memory
+24361	24367	GO:0007613	memory	memory
+24361	24367	GO:0007613	memory	memory
+24361	24367	GO:0007613	memory	memory
+24361	24367	GO:0007613	memory	memory
+24361	24367	GO:0007613	memory	memory
+24361	24367	GO:0007613	memory	memory
+24361	24367	GO:0007613	memory	memory
+24361	24367	GO:0007613	memory	memory
+24532	24538	GO:0007613	Memory	memory
+25725	25732	GO:0003675	protein	obsolete protein
+25725	25732	GO:0003675	protein	obsolete protein
+25725	25732	GO:0003675	protein	obsolete protein
+25725	25732	GO:0003675	protein	obsolete protein
+25813	25820	GO:0007613	memory,	memory
+27159	27165	GO:0007613	memory	memory
+27351	27358	GO:0007613	memory.	memory
+27351	27357	GO:0007613	memory	memory
+27351	27357	GO:0007613	memory	memory
+27351	27357	GO:0007613	memory	memory
+27707	27726	GO:0042048	olfactory behaviors	olfactory behavior
+27755	27775	GO:0035106	operant conditioning	operant conditioning
+28340	28347	GO:0007613	memory,	memory
+29254	29272	GO:0008355	olfactory learning	olfactory learning
+30046	30054	GO:0007612	learning	learning
+30218	30234	GO:0008542	spatial learning	visual learning
+30285	30291	GO:0007613	memory	memory
+31130	31148	GO:0007612PHENOTYPE	learning phenotype	learning phenotype
+31957	31964	GO:0003675	protein	obsolete protein
+32056	32062	GO:0007613	memory	memory
+32364	32372	GO:0007612	learning	learning
+32816	32820	GO:0005623	cell	cell
+32913	32921	GO:0007129	synapses	synapsis
+32913	32921	GO:0007129	synapses	synapsis
+33429	33435	GO:0098657	uptake	import into cell
+33429	33435	GO:0098657	uptake	import into cell
+33739	33746	GO:0007129	synapse	synapsis
+35378	35391	GO:0005622	intracellular	intracellular
+35417	35423	GO:0007613	Memory	memory
+35549	35555	GO:0007613	memory	memory
+35549	35555	GO:0007613	memory	memory
+35549	35555	GO:0007613	memory	memory
+35549	35555	GO:0007613	memory	memory
+35549	35555	GO:0007613	memory	memory
+35549	35555	GO:0007613	memory	memory
+35549	35555	GO:0007613	memory	memory
+35549	35555	GO:0007613	memory	memory
+35835	35841	GO:0007613	Memory	memory
+36973	36982	GO:0007612	learning,	learning
+36987	36993	GO:0007613	memory	memory
+36987	36993	GO:0007613	memory	memory
+36987	36993	GO:0007613	memory	memory
+36994	37005	GO:0007611PHENOTYPE	phenotypes,	learning or memory phenotypeand memory
+37317	37324	GO:0007613	memory.	memory
+37317	37324	GO:0007613	memory.	memory
+37544	37552	GO:0051235	storage.	maintenance of location
+38005	38012	GO:0007613	memory,	memory
+38258	38265	GO:0003675	protein	obsolete protein
+38493	38499	GO:0007613	memory	memory
+38493	38499	GO:0007613	memory	memory
+38493	38499	GO:0007613	memory	memory
+38493	38499	GO:0007613	memory	memory
+39187	39203	GO:0007616	long-term memory	long-term memory
+39197	39203	GO:0007613	memory	memory
+39810	39817	GO:0051235	storage	maintenance of location
+40088	40096	GO:0007129	synapses	synapsis
+40088	40096	GO:0007129	synapses	synapsis
+40105	40125	GO:1990021	Schaffer collaterals	Schaffer axon collateral
+40513	40522	GO:0007129	synapses.	synapsis
+40588	40597	GO:0023052	signaling	signaling
+40675	40681	GO:0007613	memory	memory
+40682	40692	GO:0009058	formation.	biosynthetic process
+40801	40808	GO:0007613	memory.	memory
+40869	40884	GO:0016310	phosphorylation	phosphorylation
+41299	41307	GO:0007610	Behavior	behavior
+41319	41334	GO:0010467	Gene Expression	gene expression
+41444	41460	GO:0007613PHENOTYPE	memory phenotype	memory phenotype
+41444	41450	GO:0007613	memory	memory
+41444	41450	GO:0007613	memory	memory
+41597	41604	GO:0003675	protein	obsolete protein
+42146	42155	GO:0007610	behavior.	behavior
+43469	43476	GO:0007613	memory,	memory
+43469	43476	GO:0007613	memory,	memory
+44934	44944	GO:0045120	pronucleus	pronucleus
+44934	44944	GO:0045120	pronucleus	pronucleus
+45418	45425	GO:0003675	protein	obsolete protein
+47870	47881	GO:0003823	antibodies,	antigen binding
+48039	48050	GO:0003823	antibodies.	antigen binding
+48168	48176	GO:0003823	antibody	antigen binding
+48396	48403	GO:0003675	protein	obsolete protein
+48468	48478	GO:0003823	Antibodies	antigen binding
+48685	48695	GO:0003823	antibodies	antigen binding
+50647	50658	GO:0046959	habituation	habituation
+51112	51119	GO:0007612	learned	learning
+53306	53314	GO:0007610	behavior	behavior
+54357	54369	GO:0046959	habituation,	habituation
+54592	54599	GO:0007613	memory.	memory
+54663	54671	GO:0007612	learning	learning
+54663	54671	GO:0007612	learning	learning
+54663	54671	GO:0007612	learning	learning
+55166	55171	GO:0043336	rest,	site-specific telomere resolvase activity
+55675	55681	GO:0007613	Memory	memory
+55705	55712	GO:0007613	memory,	memory
+55705	55711	GO:0007613	memory	memory
+55969	55975	GO:0007613	Memory	memory
+56381	56389	GO:0007612	Learning	learning
+56539	56547	GO:0007612	learning	learning
+56864	56870	GO:0007613	memory	memory
+56864	56870	GO:0007613	memory	memory
+56864	56870	GO:0007613	memory	memory
+56864	56870	GO:0007613	memory	memory
+58605	58611	GO:0007613	Memory	memory
+58660	58666	GO:0007613	Memory	memory
+58660	58666	GO:0007613	Memory	memory
+58819	58825	GO:0007613	memory	memory
+59281	59287	GO:0007613	memory	memory
+59281	59287	GO:0007613	memory	memory
+59281	59287	GO:0007613	memory	memory
+59994	59999	GO:0005623	cells	cell
+59994	59999	GO:0005623	cells	cell
+61262	61269	GO:0003675	protein	obsolete protein
+61392	61400	GO:0007612	Learning	learning
+63459	63465	GO:0007613	Memory	memory
+64441	64447	GO:0007613	memory	memory
+64441	64447	GO:0007613	memory	memory
+65369	65375	GO:0007613	Memory	memory
+65521	65527	GO:0007613	memory	memory
+66239	66246	GO:0003675	protein	obsolete protein
+66324	66334	GO:0003823	antibodies	antigen binding
+66545	66551	GO:0007613	memory	memory
+66681	66688	GO:0003675	protein	obsolete protein
+66681	66688	GO:0003675	protein	obsolete protein
+66699	66705	GO:0007613	Memory	memory
+66699	66705	GO:0007613	Memory	memory
+68213	68221	GO:0003823	antibody	antigen binding
+68575	68581	GO:0007613	Memory	memory
+68623	68629	GO:0007613	memory	memory
+69029	69035	GO:0007613	memory	memory
+69029	69035	GO:0007613	memory	memory
+69029	69035	GO:0007613	memory	memory
+69029	69035	GO:0007613	memory	memory
+69049	69055	GO:0007613	Memory	memory
+69371	69379	GO:0003675	protein,	obsolete protein

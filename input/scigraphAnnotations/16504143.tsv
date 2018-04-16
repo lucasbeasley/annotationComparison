@@ -1,0 +1,121 @@
+StartIndex	EndIndex	GO:ID	Term	OntoTerm
+12	28	GO:0008542	spatial learning	visual learning
+704	712	GO:0007612	learning	learning
+1049	1063	GO:0016477	cell migration	cell migration
+1091	1103	GO:0032502	development,	developmental process
+1116	1124	GO:0007612	learning	learning
+1186	1196	GO:0023052	signalling	signaling
+1251	1259	GO:0007129	synapse,	synapsis
+1297	1307	GO:0065007	regulation	biological regulation
+1319	1330	GO:0007610	behavioural	behavior
+1446	1454	GO:0003675	proteins	obsolete protein
+1446	1453	GO:0003675	protein	obsolete protein
+1661	1667	GO:0040007	growth	growth
+1866	1877	GO:0032502	development	developmental process
+1898	1905	GO:0023052	signals	signaling
+2029	2043	GO:0009793	embryogenesis,	embryo development ending in seed dormancy
+2269	2282	GO:0007155	cell adhesion	cell adhesion
+2366	2380	GO:0016477	cell migration	cell migration
+2366	2380	GO:0016477	cell migration	cell migration
+3090	3117	GO:0008237	metalloproteinase activity,	metallopeptidase activity
+3205	3220	GO:0016477	cell migration,	cell migration
+3276	3283	GO:0051098	binding	regulation of bindingby
+3311	3319	GO:0003675	proteins	obsolete protein
+3323	3336	GO:0005622	intracellular	intracellular
+3413	3418	GO:0016265	death	death
+4048	4060	GO:0032502	development,	developmental process
+4085	4099	GO:0016477	cell migration	cell migration
+4874	4881	GO:0003675	protein	obsolete protein
+4874	4881	GO:0003675	protein	obsolete protein
+4874	4881	GO:0003675	protein	obsolete protein
+4874	4881	GO:0003675	protein	obsolete protein
+5329	5337	GO:0003823	antibody	antigen binding
+5504	5512	GO:0003675	protein.	obsolete protein
+5566	5572	GO:0007618	Mating	mating
+5890	5901	GO:0007610	behavioural	behavior
+5890	5901	GO:0007610	behavioural	behavior
+6066	6077	GO:0032502	development	developmental process
+6801	6817	GO:0008542	Spatial learning	visual learning
+6913	6929	GO:0008542	spatial learning	visual learning
+6913	6929	GO:0008542	spatial learning	visual learning
+6921	6926	GO:0007612	learn	learning
+6921	6926	GO:0007612	learn	learning
+7773	7777	GO:0036268	swim	swimming
+8129	8137	GO:0036268	swimming	swimming
+8910	8919	GO:0051235	retention	maintenance of location
+8910	8919	GO:0051235	retention	maintenance of location
+8910	8919	GO:0051235	retention	maintenance of location
+10959	10970	GO:0007610	behavioural	behavior
+11236	11244	GO:0007612	learning	learning
+11375	11391	GO:0008542	Spatial learning	visual learning
+11947	11963	GO:0008542	spatial learning	visual learning
+12043	12058	GO:0003774	motor activity,	motor activity
+12043	12057	GO:0003774	motor activity	motor activity
+12059	12069	GO:0065007	regulation	biological regulation
+12467	12476	GO:0051235	retention	maintenance of location
+12467	12476	GO:0051235	retention	maintenance of location
+12853	12861	GO:0036268	swimming	swimming
+12853	12861	GO:0036268	swimming	swimming
+13125	13133	GO:0007612	learning	learning
+13125	13130	GO:0007612	learn	learning
+13125	13133	GO:0007612	learning	learning
+13169	13185	GO:0061743	(motor learning)	motor learning
+13170	13184	GO:0061743	motor learning	motor learning
+13170	13184	GO:0061743	motor learning	motor learning
+13170	13184	GO:0061743	motor learning	motor learning
+13567	13582	GO:0061743	motor learning.	motor learning
+14569	14585	GO:0008542	spatial learning	visual learning
+14569	14585	GO:0008542	spatial learning	visual learning
+14700	14715	GO:0010467	gene expression	gene expression
+14733	14738	GO:0005623	cells	cell
+14733	14737	GO:0005623	cell	cell
+14733	14737	GO:0005623	cell	cell
+14910	14921	GO:0032502	development	developmental process
+15493	15505	GO:0007399	development,	nervous system developmentsystem
+15756	15778	GO:0060291	long-term potentiation	long-term synaptic potentiation
+15870	15876	GO:0007611	memory	learning or memoryand
+15927	15940	GO:0004972	NMDA receptor	NMDA glutamate receptor activity
+16182	16203	GO:0007268	synaptic transmission	synaptic transmission
+16356	16366	GO:0023052	signalling	signaling
+16448	16459	GO:0065007	regulation.	biological regulation
+16571	16587	GO:0008542	spatial learning	visual learning
+17161	17180	GO:0003674	molecular functions	molecular_function
+17460	17475	GO:0003774	motor activity,	motor activity
+17604	17620	GO:0008542	spatial learning	visual learning
+17883	17892	GO:0003675	proteins'	obsolete protein
+18650	18655	GO:0005623	cells	cell
+19140	19145	GO:0007618	mated	mating
+19625	19632	GO:0003675	protein	obsolete protein
+19684	19689	GO:0019835	lysis	cytolysis
+19795	19799	GO:0005623	cell	cell
+19795	19799	GO:0005623	cell	cell
+19976	19984	GO:0003675	proteins	obsolete protein
+20177	20186	GO:0016020	membrane.	membrane
+20231	20239	GO:0003823	antibody	antigen binding
+20231	20239	GO:0003823	antibody	antigen binding
+20296	20301	GO:0005488	Bound	binding
+20302	20312	GO:0003823	antibodies	antigen binding
+20464	20475	GO:0007610	Behavioural	behavior
+20534	20545	GO:0065007	regulations	biological regulation
+20881	20892	GO:0007610	behavioural	behavior
+20881	20892	GO:0007610	behavioural	behavior
+21068	21082	GO:0003774	motor activity	motor activity
+21345	21361	GO:0008542	Spatial learning	visual learning
+21808	21812	GO:0036268	swim	swimming
+21808	21812	GO:0036268	swim	swimming
+21808	21812	GO:0036268	swim	swimming
+22477	22481	GO:0036268	Swim	swimming
+23202	23207	GO:0031672	discs	A band
+24986	24997	GO:0007610	Behavioural	behavior
+25579	25599	GO:0002377	antibody production,	immunoglobulin production
+25724	25735	GO:0007610	behavioural	behavior
+26337	26345	GO:0003675	protein.	obsolete protein
+26337	26344	GO:0003675	protein	obsolete protein
+26337	26344	GO:0003675	protein	obsolete protein
+26337	26344	GO:0003675	protein	obsolete protein
+26459	26473	GO:0044214	transmembrane;	spanning component of plasma membrane
+27330	27339	GO:0003823	antibody.	antigen binding
+27425	27431	GO:0005623	cells.	cell
+28159	28167	GO:0036268	Swimming	swimming
+28349	28358	GO:0051235	Retention	maintenance of location
+28779	28788	GO:0051235	Retention	maintenance of location

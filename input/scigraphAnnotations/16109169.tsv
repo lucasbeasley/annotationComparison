@@ -1,0 +1,141 @@
+StartIndex	EndIndex	GO:ID	Term	OntoTerm
+76	85	GO:0009058	formation	biosynthetic process
+182	189	GO:0003675	protein	obsolete protein
+299	312	GO:0007369	gastrulation,	gastrulation
+505	518	GO:0009653	morphogenesis	anatomical structure morphogenesis
+1001	1018	GO:0060322	head development.	head development
+1590	1599	GO:0009058	formation	biosynthetic process
+1695	1701	GO:0040007	growth	growth
+1924	1936	GO:0032502	development.	developmental process
+2326	2333	GO:0003675	protein	obsolete protein
+2584	2592	GO:0003675	proteins	obsolete protein
+2623	2627	GO:0005623	cell	cell
+2623	2627	GO:0005623	cell	cell
+3093	3110	GO:0043234	protein complexes	protein complex
+3101	3110	GO:0036454	complexes	growth factor complexfactor
+3179	3194	GO:0005515	protein binding	protein binding
+3269	3287	GO:0042995	cellular processes	cell projection
+3351	3364	GO:0006351	transcription	transcription, DNA-templated
+3855	3859	GO:0005623	cell	cell
+4062	4073	GO:0032502	development	developmental process
+4153	4166	GO:0007369	gastrulation,	gastrulation
+4231	4243	GO:0022008	neurogenesis	neurogenesis
+4416	4427	GO:0032502	development	developmental process
+4704	4727	GO:0007369PHENOTYPE	gastrulation phenotype,	gastrulation phenotype
+4775	4780	GO:0005623	cells	cell
+4775	4779	GO:0005623	cell	cell
+4938	4945	GO:0023052	signals	signaling
+4982	4991	GO:0009058	formation	biosynthetic process
+5326	5340	GO:0006826	iron transport	iron ion transport
+5379	5385	GO:0098657	uptake	import into cell
+5410	5421	GO:0006897	endocytosis	endocytosis
+5555	5563	GO:0005634	nucleus,	nucleus
+5604	5616	GO:0051179	localization	localization
+5624	5637	GO:0006351	transcription	transcription, DNA-templated
+5910	5923	GO:0009653	morphogenesis	anatomical structure morphogenesis
+6161	6167	GO:0040007	growth	growth
+6799	6812	GO:0030097	hematopoiesis	hemopoiesis
+6816	6830	GO:0001570	vasculogenesis	vasculogenesis
+8153	8158	GO:0005623	cells	cell
+8725	8748	GO:0006355	transcriptional control	regulation of transcription, DNA-templated
+8996	9008	GO:0051179	localization	localization
+9227	9246	GO:0001706	endoderm formation,	endoderm formation
+9741	9751	GO:0065007	regulation	biological regulation
+9958	9967	GO:0009058	formation	biosynthetic process
+10062	10080	GO:0001707	mesoderm formation	mesoderm formation
+10555	10560	GO:0005623	cells	cell
+10555	10560	GO:0005623	cells	cell
+10555	10560	GO:0005623	cells	cell
+10823	10830	GO:0042600	chorion	chorion
+10823	10830	GO:0042600	chorion	chorion
+11486	11495	GO:0009058	formation	biosynthetic process
+11979	11991	GO:0051179	localization	localization
+12523	12531	GO:0042600	chorion,	chorion
+12687	12692	GO:0005623	cells	cell
+12839	12848	GO:0048341	formation	paraxial mesoderm formationmesoderm
+12839	12848	GO:0090009	formation	primitive streak formationstreak
+12839	12848	GO:0048341	formation	paraxial mesoderm formationmesoderm
+12990	12995	GO:0005623	cells	cell
+12990	12995	GO:0005623	cells	cell
+13156	13168	GO:0032502	development,	developmental process
+13156	13167	GO:0048339	development	paraxial mesoderm developmentmesoderm
+13870	13882	GO:0032502	development.	developmental process
+14173	14182	GO:0009058	formation	biosynthetic process
+15237	15249	GO:0038092	nodal signal	nodal signaling pathway
+15360	15375	GO:0010467	gene expression	gene expression
+15906	15911	GO:0005623	cells	cell
+16520	16529	GO:0023052	signaling	signaling
+16559	16571	GO:0007369	gastrulation	gastrulation
+16614	16628	GO:0016477	cell migration	cell migration
+16697	16706	GO:0009058	formation	biosynthetic process
+16871	16876	GO:0005623	cells	cell
+17633	17646	GO:0007369	gastrulation.	gastrulation
+17982	17987	GO:0005623	cells	cell
+18092	18103	GO:0065007	regulation,	biological regulation
+18477	18488	GO:0032502	development	developmental process
+18495	18502	GO:0023052	Signals	signaling
+18578	18585	GO:0023052	signals	signaling
+18578	18584	GO:0023052	signal	signaling
+18899	18915	GO:0005319	apolipoproteins,	lipid transporter activity
+18974	18986	GO:0007369	gastrulation	gastrulation
+20087	20093	GO:0023052	signal	signaling
+20381	20390	GO:0023052	signaling	signaling
+21116	21126	GO:0009058	formation,	biosynthetic process
+21275	21281	GO:0004617	serum,	phosphoglycerate dehydrogenase activity
+21655	21662	GO:0023052	Signals	signaling
+21789	21798	GO:0009058	formation	biosynthetic process
+21789	21798	GO:0009058	formation	biosynthetic process
+21846	21855	GO:0023052	signaling	signaling
+21846	21855	GO:0023052	signaling	signaling
+22883	22891	GO:0004035	activity	alkaline phosphatase activityphosphatase
+23106	23113	GO:0023052	signals	signaling
+23279	23295	GO:0022001	posteriorization	negative regulation of anterior neural cell fate commitment of the neural plate
+23348	23357	GO:0023052	signaling	signaling
+23960	23969	GO:0009058	formation	biosynthetic process
+24563	24577	GO:0048513	organogenesis,	organ development
+24945	24958	GO:0009405	pathogenesis.	pathogenesis
+25051	25064	GO:0007369	gastrulation,	gastrulation
+25121	25136	GO:0010467	gene expression	gene expression
+25250	25259	GO:0009058	formation	biosynthetic process
+25690	25700	GO:0009058	formation,	biosynthetic process
+25690	25699	GO:0009058	formation	biosynthetic process
+26542	26557	GO:0006351	transcriptional	transcription, DNA-templated
+26578	26587	GO:0043488	stability	regulation of mRNA stabilityor mRNA
+26827	26834	GO:0023052	signals	signaling
+26881	26896	GO:0010467	gene expression	gene expression
+26979	26990	GO:0032502	development	developmental process
+27140	27147	GO:0042600	chorion	chorion
+27182	27190	GO:0023052	signals,	signaling
+27416	27425	GO:0023052	signaling	signaling
+27416	27425	GO:0023052	signaling	signaling
+27596	27605	GO:0006810	transport	transport
+27610	27619	GO:0046903	secretion	secretion
+27654	27662	GO:0023052	signals.	signaling
+27897	27910	GO:0007369	gastrulation.	gastrulation
+28337	28351	GO:0048513	organogenesis,	organ development
+28421	28430	GO:0009058	formation	biosynthetic process
+28421	28430	GO:0009058	formation	biosynthetic process
+28969	28980	GO:0032502	development	developmental process
+28969	28980	GO:0032502	development	developmental process
+29154	29170	GO:0007417	CNS development.	central nervous system development
+29551	29562	GO:0032502	development	developmental process
+29626	29633	GO:0003675	protein	obsolete protein
+29626	29633	GO:0003675	protein	obsolete protein
+29659	29671	GO:0032502	development,	developmental process
+29689	29699	GO:0009058	formation,	biosynthetic process
+30230	30237	GO:0003675	protein	obsolete protein
+30238	30243	GO:0018995	hosts	host
+30316	30329	GO:0009405	pathogenesis.	pathogenesis
+30558	30569	GO:0032502	development	developmental process
+30915	30919	GO:0005623	cell	cell
+31046	31060	GO:0006351	transcription,	transcription, DNA-templated
+31199	31209	GO:0065007	regulation	biological regulation
+31373	31384	GO:0065007	regulation.	biological regulation
+31499	31513	GO:0009793	embryogenesis,	embryo development ending in seed dormancy
+31550	31560	GO:0009058	formation,	biosynthetic process
+31550	31560	GO:0009058	formation,	biosynthetic process
+31697	31703	GO:0040007	growth	growth
+32013	32020	GO:0023052	signals	signaling
+32613	32619	GO:0007618	mating	mating
+32895	32902	GO:0007618	matings	mating
+34426	34431	GO:0004617	serum	phosphoglycerate dehydrogenase activity

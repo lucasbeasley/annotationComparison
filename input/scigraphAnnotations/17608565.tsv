@@ -1,0 +1,420 @@
+StartIndex	EndIndex	GO:ID	Term	OntoTerm
+68	78	GO:0065007	Regulation	biological regulation
+271	281	GO:0007049	cell cycle	cell cycle
+300	305	GO:0016265	death	death
+547	556	GO:0097194	apoptosis	execution phase of apoptosis
+800	807	GO:0035003	(SACs),	subapical complex
+1319	1325	GO:0005623	cells.	cell
+1730	1747	GO:0008181	tumor suppressor,	obsolete tumor suppressor
+1768	1773	GO:0016265	death	death
+1768	1773	GO:0016265	death	death
+1978	1983	GO:0005623	cells	cell
+1978	1982	GO:0005623	cell	cell
+1978	1982	GO:0005623	cell	cell
+2044	2050	GO:0016265	death.	death
+2120	2126	GO:0016265	death,	death
+2286	2296	GO:0097194	apoptosis,	execution phase of apoptosis
+2654	2674	GO:0030154	cell differentiation	cell differentiation
+2956	2969	GO:0022008	neurogenesis.	neurogenesis
+2974	2985	GO:0032502	development	developmental process
+2974	2985	GO:0032502	development	developmental process
+3060	3064	GO:0005623	cell	cell
+3139	3144	GO:0005623	cells	cell
+3201	3225	GO:0048468	terminal differentiation	cell development
+3303	3313	GO:0007049	cell cycle	cell cycle
+3303	3313	GO:0007049	cell cycle	cell cycle
+3662	3674	GO:0044297	cell bodies,	cell body
+4020	4030	GO:0008219	Cell Death	cell death
+4056	4076	GO:0060041	Retinal development.	retina development in camera-type eye
+4142	4150	GO:0005634	nuclei).	nucleus
+4155	4166	GO:0044297	cell bodies	cell body
+4222	4233	GO:0007049	cell cycle.	cell cycle
+4600	4611	GO:0032502	Development	developmental process
+4664	4674	GO:0007049	cell cycle	cell cycle
+4679	4688	GO:0097194	apoptosis	execution phase of apoptosis
+4900	4906	GO:0016265	death,	death
+4929	4939	GO:0065007	regulation	biological regulation
+5044	5048	GO:0007568	ages	aging
+5066	5072	GO:0005634	nuclei	nucleus
+5095	5102	GO:0051320	S-phase	S phase
+5127	5136	GO:0097194	apoptosis	execution phase of apoptosis
+5212	5218	GO:0005623	cells,	cell
+5212	5217	GO:0005623	cells	cell
+5278	5284	GO:0005623	cells.	cell
+5671	5681	GO:0007049	cell cycle	cell cycle
+5671	5675	GO:0005623	cell	cell
+5671	5681	GO:0007049	cell cycle	cell cycle
+5824	5830	GO:0005623	cells)	cell
+5838	5847	GO:0097194	apoptosis	execution phase of apoptosis
+5885	5892	GO:0005488	binding	binding
+5885	5889	GO:0008134	bind	transcription factor bindingfactors that
+5885	5889	GO:0005488	bind	binding
+6017	6027	GO:0065007	regulatory	biological regulation
+6086	6096	GO:0051726	regulators	regulation of cell cyclecycle
+6142	6150	GO:0003675	proteins	obsolete protein
+6282	6297	GO:0006351	transcriptional	transcription, DNA-templated
+6374	6379	GO:0005488	bound	binding
+6741	6755	GO:0016458	gene silencing	gene silencing
+6787	6793	GO:0005623	cells.	cell
+6828	6837	GO:0097194	apoptosis	execution phase of apoptosis
+6828	6837	GO:0097194	apoptosis	execution phase of apoptosis
+6828	6837	GO:0097194	apoptosis	execution phase of apoptosis
+6828	6837	GO:0097194	apoptosis	execution phase of apoptosis
+6828	6837	GO:0097194	apoptosis	execution phase of apoptosis
+7417	7421	GO:0005623	cell	cell
+7470	7475	GO:0016265	death	death
+7885	7890	GO:0005623	cells	cell
+7885	7890	GO:0005623	cells	cell
+7993	7999	GO:0005623	cells,	cell
+8396	8409	GO:0051179	localization.	localization
+8821	8827	GO:0016265	death.	death
+8821	8827	GO:0016265	death.	death
+8993	8997	GO:0005623	cell	cell
+9310	9323	GO:0009653	morphogenesis	anatomical structure morphogenesis
+9476	9485	GO:0097194	apoptosis	execution phase of apoptosis
+9554	9559	GO:0005623	cells	cell
+9667	9672	GO:0016265	death	death
+10073	10080	GO:0035003	(SACs).	subapical complex
+10074	10078	GO:0035003	SACs	subapical complex
+10183	10194	GO:0032502	development	developmental process
+10547	10553	GO:0005623	cells,	cell
+10762	10775	GO:0022008	neurogenesis.	neurogenesis
+11196	11202	GO:0016265	death,	death
+11390	11395	GO:0016265	Death	death
+12158	12172	GO:0051301	cell division,	cell division
+12414	12427	GO:0071897	DNA synthesis	DNA biosynthetic process
+12895	12902	GO:0051320	S-phase	S phase
+12895	12902	GO:0051320	S-phase	S phase
+12903	12908	GO:0005623	cells	cell
+12903	12908	GO:0005623	cells	cell
+13129	13141	GO:0032502	development.	developmental process
+13154	13161	GO:0007067	mitotic	mitotic nuclear division
+13210	13220	GO:0003823	antibodies	antigen binding
+13379	13386	GO:0007067	mitosis	mitotic nuclear division
+13750	13760	GO:0097194	apoptosis,	execution phase of apoptosis
+13799	13804	GO:0005623	cells	cell
+13799	13804	GO:0005623	cells	cell
+13799	13804	GO:0005623	cells	cell
+13912	13917	GO:0016265	death	death
+14022	14031	GO:0097194	apoptotic	execution phase of apoptosis
+14500	14504	GO:0007568	ages	aging
+14536	14542	GO:0005634	nuclei	nucleus
+14589	14594	GO:0005623	cells	cell
+14770	14776	GO:0005623	cells.	cell
+14826	14832	GO:0005623	cells.	cell
+15851	15861	GO:0007049	cell cycle	cell cycle
+15851	15861	GO:0007049	cell cycle	cell cycle
+15866	15876	GO:0097194	apoptosis.	execution phase of apoptosis
+16412	16417	GO:0016265	death	death
+16555	16565	GO:0007049	cell cycle	cell cycle
+16555	16559	GO:0005623	cell	cell
+16678	16684	GO:0005623	cells,	cell
+16678	16683	GO:0005623	cells	cell
+17174	17185	GO:0044297	cell bodies	cell body
+18092	18101	GO:0097194	apoptosis	execution phase of apoptosis
+18092	18101	GO:0097194	apoptosis	execution phase of apoptosis
+18177	18182	GO:0005623	cells	cell
+18177	18182	GO:0005623	cells	cell
+18177	18182	GO:0005623	cells	cell
+18177	18181	GO:0005623	cell	cell
+18177	18182	GO:0005623	cells	cell
+18954	18959	GO:0016265	death	death
+19156	19165	GO:0003675	proteins,	obsolete protein
+19905	19915	GO:0023052	signalling	signaling
+19905	19911	GO:0023052	signal	signaling
+19972	19977	GO:0005623	cells	cell
+20003	20010	GO:0005623	cells),	cell
+20053	20059	GO:0005623	cells.	cell
+20511	20520	GO:0097194	apoptosis	execution phase of apoptosis
+21241	21247	GO:0005623	cells,	cell
+21241	21246	GO:0005623	cells	cell
+21241	21245	GO:0005623	cell	cell
+22455	22465	GO:0007049	Cell Cycle	cell cycle
+22536	22540	GO:0005623	cell	cell
+22597	22603	GO:0005623	cells.	cell
+22708	22716	GO:0003675	proteins	obsolete protein
+22893	22898	GO:0035003	SACs.	subapical complex
+22982	22993	GO:0044297	cell bodies	cell body
+22982	22993	GO:0044297	cell bodies	cell body
+23478	23482	GO:0035003	SACs	subapical complex
+23566	23572	GO:0005634	nuclei	nucleus
+23709	23715	GO:0005634	nuclei	nucleus
+23898	23909	GO:0044297	cell bodies	cell body
+23898	23909	GO:0044297	cell bodies	cell body
+23937	23949	GO:0044297	cell bodies,	cell body
+24313	24318	GO:0035003	SACs,	subapical complex
+24313	24317	GO:0035003	SACs	subapical complex
+24313	24317	GO:0035003	SACs	subapical complex
+24313	24317	GO:0035003	SACs	subapical complex
+24313	24317	GO:0035003	SACs	subapical complex
+24313	24317	GO:0035003	SACs	subapical complex
+24313	24318	GO:0035003	SACs,	subapical complex
+24564	24583	GO:0060041	retinal development	retina development in camera-type eye
+24606	24613	GO:0007129	synapse	synapsis
+24606	24613	GO:0007129	synapse	synapsis
+24877	24887	GO:0031982	(vesicular	vesicle
+25118	25129	GO:0044297	cell bodies	cell body
+25188	25193	GO:0005623	cells	cell
+25188	25193	GO:0005623	cells	cell
+25188	25193	GO:0005623	cells	cell
+25329	25345	GO:0008021	synaptic vesicle	synaptic vesicle
+25346	25353	GO:0003675	protein	obsolete protein
+25437	25446	GO:0030425	dendrites	dendrite
+26370	26379	GO:0006810	transport	transport
+26370	26379	GO:0006810	transport	transport
+26370	26379	GO:0006810	transport	transport
+26430	26434	GO:0035003	SACs	subapical complex
+26430	26434	GO:0035003	SACs	subapical complex
+26430	26434	GO:0035003	SACs	subapical complex
+26448	26453	GO:0005623	cells	cell
+26448	26453	GO:0005623	cells	cell
+26448	26453	GO:0005623	cells	cell
+26604	26613	GO:0030425	dendrites	dendrite
+27066	27071	GO:0035003	SACs,	subapical complex
+27066	27071	GO:0035003	SACs,	subapical complex
+27152	27163	GO:0044297	cell bodies	cell body
+27405	27415	GO:0044297	cell body,	cell body
+27571	27583	GO:0044297	cell bodies,	cell body
+27875	27879	GO:0035003	SACs	subapical complex
+27930	27934	GO:0007568	ages	aging
+27966	27972	GO:0005634	nuclei	nucleus
+27966	27972	GO:0005634	nuclei	nucleus
+27987	27994	GO:0007067	mitosis	mitotic nuclear division
+27987	27994	GO:0007067	mitosis	mitotic nuclear division
+27987	27994	GO:0007067	mitosis	mitotic nuclear division
+28115	28122	GO:0007067	mitotic	mitotic nuclear division
+28225	28235	GO:0008219	cell death	cell death
+28447	28455	GO:0007067	mitosis,	mitotic nuclear division
+28456	28467	GO:0008219	cell death,	cell death
+28514	28519	GO:0005623	cells	cell
+28621	28627	GO:0005634	nuclei	nucleus
+28718	28723	GO:0005623	cells	cell
+28822	28828	GO:0005634	nuclei	nucleus
+28843	28856	GO:0051301	cell division	cell division
+28932	28937	GO:0035003	SACs.	subapical complex
+28965	28970	GO:0005623	cells	cell
+29342	29347	GO:0005488	binds	binding
+29342	29346	GO:0005488	bind	binding
+29362	29370	GO:0003675	proteins	obsolete protein
+29401	29407	GO:0005623	cells,	cell
+29761	29771	GO:0007049	cell cycle	cell cycle
+29775	29780	GO:0016265	death	death
+30027	30034	GO:0007067	mitosis	mitotic nuclear division
+30041	30048	GO:0005623	cells),	cell
+30206	30214	GO:0007067	mitosis,	mitotic nuclear division
+30606	30616	GO:0008219	cell death	cell death
+30892	30896	GO:0035003	SACs	subapical complex
+30957	30962	GO:0005623	cells	cell
+31201	31207	GO:0005623	cells,	cell
+31258	31264	GO:0001906	killed	cell killingare
+31268	31278	GO:0097194	apoptosis.	execution phase of apoptosis
+31357	31362	GO:0035003	SACs,	subapical complex
+31357	31361	GO:0035003	SACs	subapical complex
+31357	31361	GO:0035003	SACs	subapical complex
+31357	31361	GO:0035003	SACs	subapical complex
+31357	31361	GO:0035003	SACs	subapical complex
+31357	31361	GO:0035003	SACs	subapical complex
+31357	31362	GO:0035003	SACs,	subapical complex
+31442	31448	GO:0005623	cells,	cell
+31442	31447	GO:0005623	cells	cell
+31442	31447	GO:0005623	cells	cell
+31442	31447	GO:0005623	cells	cell
+31442	31447	GO:0005623	cells	cell
+31442	31447	GO:0005623	cells	cell
+31744	31750	GO:0005623	cells.	cell
+31974	31984	GO:0007049	cell cycle	cell cycle
+32006	32030	GO:0048468	terminal differentiation	cell development
+32917	32921	GO:0035003	SACs	subapical complex
+33019	33023	GO:0035003	SACs	subapical complex
+33019	33023	GO:0035003	SACs	subapical complex
+33019	33023	GO:0035003	SACs	subapical complex
+33489	33495	GO:0023052	signal	signaling
+33650	33655	GO:0005623	cells	cell
+33650	33655	GO:0005623	cells	cell
+33650	33655	GO:0005623	cells	cell
+34214	34223	GO:0030425	dendrites	dendrite
+34240	34247	GO:0003675	protein	obsolete protein
+34774	34778	GO:0035003	SACs	subapical complex
+35030	35037	GO:0003675	protein	obsolete protein
+35030	35037	GO:0003675	protein	obsolete protein
+35355	35361	GO:0005634	nuclei	nucleus
+35849	35853	GO:0045101	Gfap	obsolete glial fibrillary acidic protein
+35890	35895	GO:0035003	SACs,	subapical complex
+36387	36399	GO:0051179	Localization	localization
+36458	36462	GO:0035003	SACs	subapical complex
+36484	36493	GO:0005737	cytoplasm	cytoplasm
+36520	36528	GO:0003823	antibody	antigen binding
+36520	36528	GO:0003823	antibody	antigen binding
+36660	36664	GO:0005623	cell	cell
+36918	36930	GO:0032502	development.	developmental process
+37387	37391	GO:0031672	band	A band
+37484	37489	GO:0005623	cells	cell
+37843	37848	GO:0031672	bands	A band
+38198	38204	GO:0005623	cells,	cell
+38560	38572	GO:0051179	localization	localization
+38608	38641	GO:0043687	post-translational modifications.	post-translational protein modification
+38705	38715	GO:0007049	Cell Cycle	cell cycle
+38716	38724	GO:0003675	Proteins	obsolete protein
+38868	38872	GO:0007568	ages	aging
+38931	38940	GO:0003675	proteins.	obsolete protein
+39149	39153	GO:0035003	SACs	subapical complex
+40191	40195	GO:0035003	SACs	subapical complex
+40274	40278	GO:0007568	ages	aging
+40296	40302	GO:0005634	nuclei	nucleus
+40317	40324	GO:0000279	M-phase	M phase
+40556	40566	GO:0051726	regulators	regulation of cell cyclecycle
+40556	40566	GO:0051726	regulators	regulation of cell cyclecycle
+40574	40594	GO:0060041	retinal development.	retina development in camera-type eye
+40637	40646	GO:0005737	cytoplasm	cytoplasm
+40651	40658	GO:0005634	nucleus	nucleus
+40780	40786	GO:0023052	signal	signaling
+40912	40916	GO:0035003	SACs	subapical complex
+41224	41238	GO:0004861	Cdk inhibitors	cyclin-dependent protein serine/threonine kinase inhibitor activity
+41938	41945	GO:0003675	protein	obsolete protein
+42192	42202	GO:0065007	regulation	biological regulation
+42398	42408	GO:0007049	cell cycle	cell cycle
+42398	42408	GO:0007049	cell cycle	cell cycle
+42583	42588	GO:0005623	cells	cell
+42659	42664	GO:0035003	SACs.	subapical complex
+42791	42799	GO:1901987	control,	regulation of cell cycle phase transitioncycle
+42911	42924	GO:0051301	Cell Division	cell division
+42929	42934	GO:0016265	Death	death
+43022	43032	GO:0007049	cell cycle	cell cycle
+43022	43032	GO:0007049	cell cycle	cell cycle
+43090	43095	GO:0016265	death	death
+43513	43519	GO:0016265	death.	death
+43679	43684	GO:0016265	death	death
+43679	43684	GO:0016265	death	death
+43857	43863	GO:0023052	signal	signaling
+43913	43928	GO:0051301	cells. Division	cell division
+43967	43973	GO:0005623	cells,	cell
+44147	44162	GO:0048469	cell maturation	cell maturation
+44256	44262	GO:0016265	death.	death
+44509	44515	GO:0016265	death,	death
+44772	44781	GO:0097194	apoptosis	execution phase of apoptosis
+44772	44781	GO:0097194	apoptosis	execution phase of apoptosis
+44772	44781	GO:0097194	apoptosis	execution phase of apoptosis
+44947	44952	GO:0005623	cells	cell
+45100	45113	GO:0051301	cell division	cell division
+45584	45595	GO:0032502	development	developmental process
+45614	45620	GO:0005623	cells,	cell
+45614	45619	GO:0005623	cells	cell
+45699	45704	GO:0035003	SACs,	subapical complex
+45963	45968	GO:0035003	SACs.	subapical complex
+46022	46031	GO:0009058	synthesis	biosynthetic process
+46036	46045	GO:0006810	transport	transport
+46071	46080	GO:0003675	proteins.	obsolete protein
+46116	46127	GO:0032502	development	developmental process
+46256	46268	GO:0022008	neurogenesis	neurogenesis
+46285	46293	GO:0007067	mitosis.	mitotic nuclear division
+46297	46302	GO:0005488	binds	binding
+46297	46302	GO:0005488	binds	binding
+47147	47155	GO:0007067	mitosis,	mitotic nuclear division
+47375	47399	GO:0048468	terminal differentiation	cell development
+47409	47413	GO:0005623	cell	cell
+47473	47483	GO:0065007	regulation	biological regulation
+47575	47581	GO:0016265	death:	death
+47575	47580	GO:0016265	death	death
+47669	47675	GO:0016265	death,	death
+47942	47952	GO:0007049	cell cycle	cell cycle
+47957	47966	GO:0097194	apoptotic	execution phase of apoptosis
+48318	48322	GO:0035003	SACs	subapical complex
+48589	48596	GO:0003675	protein	obsolete protein
+49020	49032	GO:0051179	Localization	localization
+49218	49234	GO:2000144	transactivation,	positive regulation of DNA-templated transcription, initiation
+49558	49563	GO:0005488	binds	binding
+49558	49563	GO:0005488	binds	binding
+49645	49652	GO:0051320	S-phase	S phase
+49844	49852	GO:0003675	proteins	obsolete protein
+49844	49852	GO:0003675	proteins	obsolete protein
+49876	49888	GO:0051179	localization	localization
+50081	50093	GO:0051179	localization	localization
+50204	50211	GO:0005634	nucleus	nucleus
+50215	50225	GO:0005737	cytoplasm,	cytoplasm
+50629	50634	GO:0005623	cells	cell
+50629	50634	GO:0005623	cells	cell
+50629	50634	GO:0005623	cells	cell
+50629	50633	GO:0005623	cell	cell
+50629	50634	GO:0005623	cells	cell
+50645	50655	GO:0007049	cell cycle	cell cycle
+50826	50832	GO:0005623	cells,	cell
+50936	50942	GO:0005623	cells.	cell
+51508	51513	GO:0035003	SACs,	subapical complex
+52124	52139	GO:0006351	transcriptional	transcription, DNA-templated
+52201	52210	GO:0005737	cytoplasm	cytoplasm
+52257	52268	GO:0065007	regulation.	biological regulation
+52363	52374	GO:0051726	regulators,	regulation of cell cyclecycle
+52502	52509	GO:0005634	nucleus	nucleus
+52531	52543	GO:0022008	neurogenesis	neurogenesis
+52668	52672	GO:0035003	SACs	subapical complex
+52890	52895	GO:0005623	cells	cell
+52890	52894	GO:0005623	cell	cell
+52890	52895	GO:0005623	cells	cell
+53128	53132	GO:0005488	bind	binding
+53128	53132	GO:0005488	bind	binding
+53185	53192	GO:0005488	binding	binding
+53307	53316	GO:0000785	chromatin	chromatin
+54950	54957	GO:0051320	S-phase	S phase
+55060	55065	GO:0005623	cells	cell
+55060	55065	GO:0005623	cells	cell
+55060	55065	GO:0005623	cells	cell
+55123	55131	GO:0003823	antibody	antigen binding
+55216	55226	GO:0003823	antibodies	antigen binding
+55216	55226	GO:0003823	antibodies	antigen binding
+56179	56185	GO:0005634	Nuclei	nucleus
+56733	56738	GO:0005623	cells	cell
+56733	56738	GO:0005623	cells	cell
+56733	56737	GO:0005623	cell	cell
+56733	56738	GO:0005623	cells	cell
+56733	56737	GO:0005623	cell	cell
+57090	57098	GO:0051320	S-phase,	S phase
+57099	57107	GO:0000279	M-phase,	M phase
+57112	57121	GO:0097194	apoptotic	execution phase of apoptosis
+57426	57448	GO:0001171	reverse transcription,	reverse transcription
+57588	57597	GO:0007586	digestion	digestion
+57792	57801	GO:0009058	synthesis	biosynthetic process
+59283	59291	GO:0003675	Proteins	obsolete protein
+59408	59417	GO:0016020	membranes	membrane
+59408	59417	GO:0016020	membranes	membrane
+59448	59456	GO:0003823	antibody	antigen binding
+59448	59456	GO:0003823	antibody	antigen binding
+59964	59974	GO:0003823	antibodies	antigen binding
+61478	61488	GO:0008219	Cell Death	cell death
+61568	61572	GO:0007568	ages	aging
+61590	61596	GO:0005634	nuclei	nucleus
+61619	61626	GO:0051320	S-phase	S phase
+61651	61660	GO:0097194	apoptosis	execution phase of apoptosis
+61699	61704	GO:0005623	cells	cell
+61769	61782	GO:0071897	DNA synthesis	DNA biosynthetic process
+62000	62009	GO:0097194	Apoptosis	execution phase of apoptosis
+62092	62096	GO:0007568	ages	aging
+62135	62139	GO:0035003	SACs	subapical complex
+62167	62173	GO:0005634	nuclei	nucleus
+62199	62206	GO:0051320	S-phase	S phase
+62245	62254	GO:0097194	apoptosis	execution phase of apoptosis
+62322	62327	GO:0005623	cells	cell
+62595	62602	GO:0007067	Mitosis	mitotic nuclear division
+62687	62691	GO:0007568	ages	aging
+62709	62715	GO:0005634	nuclei	nucleus
+62733	62740	GO:0000279	M-phase	M phase
+62810	62816	GO:0005623	cells.	cell
+62853	62859	GO:0005623	cells.	cell
+63270	63274	GO:0007568	ages	aging
+63306	63312	GO:0005634	nuclei	nucleus
+63359	63364	GO:0005623	cells	cell
+63530	63536	GO:0005623	cells.	cell
+63587	63593	GO:0005623	cells.	cell
+64231	64235	GO:0035003	SACs	subapical complex
+64292	64296	GO:0007568	ages	aging
+64314	64320	GO:0005634	nuclei	nucleus
+64376	64381	GO:0005623	cells	cell
+64597	64601	GO:0035003	SACs	subapical complex
+64686	64690	GO:0007568	ages	aging
+64718	64724	GO:0005634	nuclei	nucleus
+65573	65577	GO:0007568	ages	aging
+65573	65577	GO:0007568	ages	aging
+65632	65640	GO:0003675	protein.	obsolete protein
+65866	65876	GO:0003823	Antibodies	antigen binding
+65912	65916	GO:0035003	SACs	subapical complex
+66705	66716	GO:0003823	antibodies.	antigen binding
+67381	67385	GO:0005623	cell	cell

@@ -1,0 +1,176 @@
+StartIndex	EndIndex	GO:ID	Term	OntoTerm
+0	11	GO:0003677	DNA binding	DNA binding
+132	148	GO:0006260	DNA replication.	DNA replication
+190	207	GO:0016887	ATPase activities	ATPase activity
+225	241	GO:0097373	Mcm4/6/7 complex	MCM core complex
+839	844	GO:0005488	binds	binding
+1092	1111	GO:0000732	Strand displacement	strand displacement
+1696	1715	GO:0000166	nucleotide binding,	nucleotide binding
+1716	1727	GO:0003677	DNA binding	DNA binding
+1732	1746	GO:0006200	ATP hydrolysis	obsolete ATP catabolic process
+2182	2190	GO:0003675	proteins	obsolete protein
+2221	2229	GO:0003675	proteins	obsolete protein
+2221	2229	GO:0003675	proteins	obsolete protein
+2221	2229	GO:0003675	proteins	obsolete protein
+2397	2413	GO:0097373	Mcm4/6/7 complex	MCM core complex
+2397	2413	GO:0097373	Mcm4/6/7 complex	MCM core complex
+2457	2474	GO:0004386	helicase activity	helicase activity
+2457	2474	GO:0004386	helicase activity	helicase activity
+2466	2474	GO:0003678	activity	DNA helicase activityhelicase
+2759	2768	GO:0000785	Chromatin	chromatin
+3083	3101	GO:0097373	Mcm4/6/7 complexes	MCM core complex
+3216	3221	GO:0005488	binds	binding
+3405	3419	GO:0006200	ATP hydrolysis	obsolete ATP catabolic process
+3794	3811	GO:0005657	replication forks	replication fork
+3880	3891	GO:0003677	DNA binding	DNA binding
+4261	4266	GO:0005488	binds	binding
+4684	4693	GO:0003887	Sequenase	DNA-directed DNA polymerase activity
+4810	4817	GO:0004530	DNase I	deoxyribonuclease I activity
+4826	4841	GO:0003887	Klenow fragment	DNA-directed DNA polymerase activity
+4961	4975	GO:0016887	SV40 T-antigen	ATPase activity
+5022	5027	GO:0005623	cells	cell
+5060	5067	GO:0003675	protein	obsolete protein
+5345	5361	GO:0097373	Mcm4/6/7 complex	MCM core complex
+5432	5440	GO:0003675	proteins	obsolete protein
+5432	5440	GO:0003675	proteins	obsolete protein
+5498	5503	GO:0005623	cells	cell
+5498	5503	GO:0005623	cells	cell
+5656	5665	GO:0003675	proteins,	obsolete protein
+5863	5881	GO:0097373	Mcm4/6/7 complexes	MCM core complex
+7758	7767	GO:0003887	Sequenase	DNA-directed DNA polymerase activity
+8020	8036	GO:0097373	Mcm4/6/7 complex	MCM core complex
+8173	8183	GO:0004196	proteinase	obsolete saccharopepsin activity
+8709	8717	GO:0003675	proteins	obsolete protein
+9472	9482	GO:0004196	proteinase	obsolete saccharopepsin activity
+9892	9901	GO:0003675	proteins.	obsolete protein
+9963	9970	GO:0004530	DNase I	deoxyribonuclease I activity
+9963	9970	GO:0004530	DNase I	deoxyribonuclease I activity
+10244	10251	GO:0005488	binding	binding
+10616	10624	GO:0003675	Proteins	obsolete protein
+10915	10931	GO:0097373	Mcm4/6/7 complex	MCM core complex
+10999	11004	GO:0005488	binds	binding
+10999	11003	GO:0005488	bind	binding
+11170	11177	GO:0005488	binding	binding
+11170	11177	GO:0005488	binding	binding
+11170	11177	GO:0005488	binding	binding
+11428	11436	GO:0004530	DNase I,	deoxyribonuclease I activity
+11428	11435	GO:0004530	DNase I	deoxyribonuclease I activity
+12118	12129	GO:0042555	Mcm complex	MCM complex
+12737	12751	GO:0016887	SV40 T-antigen	ATPase activity
+12991	12998	GO:0005488	binding	binding
+13011	13021	GO:0007586	digestion.	digestion
+13059	13066	GO:0003675	protein	obsolete protein
+13203	13220	GO:0005657	replication fork.	replication fork
+13222	13231	GO:0009058	Formation	biosynthetic process
+13252	13270	GO:0097373	Mcm4/6/7 complexes	MCM core complex
+13622	13634	GO:0042555	Mcm complex.	MCM complex
+13924	13934	GO:0009058	formation,	biosynthetic process
+14112	14119	GO:0005488	binding	binding
+14124	14143	GO:0004386	helicase activities	helicase activity
+14312	14322	GO:0009058	formation.	biosynthetic process
+14375	14386	GO:0003677	DNA binding	DNA binding
+14513	14521	GO:0003678	activity	DNA helicase activityhelicase
+15198	15214	GO:0097373	Mcm4/6/7 complex	MCM core complex
+15228	15245	GO:0004386	helicase activity	helicase activity
+15699	15716	GO:0097373	Mcm4/6/7 complex,	MCM core complex
+15953	15960	GO:0005488	binding	binding
+15953	15957	GO:0005488	bind	binding
+17364	17371	GO:0005488	Binding	binding
+17763	17768	GO:0005488	bound	binding
+17763	17768	GO:0005488	bound	binding
+17763	17768	GO:0005488	bound	binding
+17763	17768	GO:0005488	bound	binding
+18253	18258	GO:0031672	band.	A band
+18292	18308	GO:0097373	Mcm4/6/7 complex	MCM core complex
+18769	18784	GO:0016887	ATPase activity	ATPase activity
+18875	18880	GO:0005488	binds	binding
+18875	18880	GO:0005488	binds	binding
+19086	19102	GO:0097373	Mcm4/6/7 complex	MCM core complex
+19404	19417	GO:0042555	Mcm complexes	MCM complex
+19639	19644	GO:0005488	binds	binding
+19639	19644	GO:0005488	binds	binding
+20235	20240	GO:0005488	bind,	binding
+20693	20710	GO:0004386	helicase activity	helicase activity
+20830	20848	GO:0004386	helicase activity.	helicase activity
+20830	20847	GO:0004386	helicase activity	helicase activity
+20830	20847	GO:0004386	helicase activity	helicase activity
+22089	22105	GO:0097373	Mcm4/6/7 complex	MCM core complex
+23264	23278	GO:0032508	(DNA unwinding	DNA duplex unwinding
+24206	24211	GO:0005488	bound	binding
+24388	24399	GO:0003677	DNA binding	DNA binding
+24392	24396	GO:0005488	bind	binding
+24597	24610	GO:0032508	DNA unwinding	DNA duplex unwinding
+25272	25277	GO:0005488	bound	binding
+25387	25392	GO:0005488	binds	binding
+25530	25544	GO:0016887	SV40 T-antigen	ATPase activity
+26810	26827	GO:0097373	Mcm4/6/7 complex.	MCM core complex
+27418	27427	GO:0000496	base pair	base pairing
+27418	27427	GO:0000496	base pair	base pairing
+27418	27427	GO:0000496	base pair	base pairing
+28008	28018	GO:0000496	base pair,	base pairing
+28147	28165	GO:0005657	replication forks.	replication fork
+28427	28443	GO:0006260	DNA replication.	DNA replication
+28588	28595	GO:0005488	binding	binding
+28708	28715	GO:0005488	binding	binding
+28789	28804	GO:0006260	DNA replication	DNA replication
+28908	28925	GO:0005657	replication forks	replication fork
+28986	28994	GO:0051635	bacteria	obsolete bacterial cell surface bindingin
+29343	29359	GO:0097373	Mcm4/6/7 complex	MCM core complex
+29746	29760	GO:0016887	SV40 T-antigen	ATPase activity
+29761	29768	GO:0003675	protein	obsolete protein
+30149	30165	GO:0097373	Mcm4/6/7 complex	MCM core complex
+30240	30244	GO:0005488	bind	binding
+30610	30617	GO:0005488	binding	binding
+31106	31117	GO:0003677	DNA binding	DNA binding
+31148	31153	GO:0005488	binds	binding
+31148	31153	GO:0005488	binds	binding
+32296	32306	GO:0006270	initiation	DNA replication initiationreplication
+32326	32342	GO:0006260	DNA replication,	DNA replication
+32777	32785	GO:0003678	activity	DNA helicase activityon the helicase
+32873	32891	GO:0004386	helicase activity.	helicase activity
+33311	33318	GO:0005488	binding	binding
+33851	33861	GO:0065007	regulation	biological regulation
+33898	33913	GO:0006260	DNA replication	DNA replication
+33921	33932	GO:0032502	development	developmental process
+33947	33951	GO:0005623	cell	cell
+33947	33951	GO:0005623	cell	cell
+34432	34450	GO:0004386	helicase activity.	helicase activity
+34595	34609	GO:0016887	SV40 T-antigen	ATPase activity
+35423	35433	GO:0000496	base pairs	base pairing
+35423	35432	GO:0000496	base pair	base pairing
+35423	35433	GO:0000496	base pairs	base pairing
+36215	36231	GO:0006260	DNA replication,	DNA replication
+36439	36455	GO:0006260	DNA replication.	DNA replication
+36942	36949	GO:0005488	binding	binding
+36995	37004	GO:0000785	chromatin	chromatin
+37059	37072	GO:0003918	topoisomerase	DNA topoisomerase type II (ATP-hydrolyzing) activity
+37168	37176	GO:0003675	proteins	obsolete protein
+37210	37225	GO:0016310	phosphorylation	phosphorylation
+37310	37327	GO:0004386	helicase activity	helicase activity
+37488	37505	GO:0005657	replication forks	replication fork
+37530	37547	GO:0097373	Mcm4/6/7 complex.	MCM core complex
+37594	37612	GO:0005657	replication forks,	replication fork
+37674	37683	GO:0003675	proteins,	obsolete protein
+38474	38481	GO:0005488	binding	binding
+38474	38481	GO:0005488	binding	binding
+38494	38501	GO:0003675	protein	obsolete protein
+38750	38758	GO:0003675	protein.	obsolete protein
+38810	38817	GO:0004530	DNase I	deoxyribonuclease I activity
+38810	38817	GO:0004530	DNase I	deoxyribonuclease I activity
+39002	39010	GO:0003675	protein,	obsolete protein
+39822	39829	GO:0005488	Binding	binding
+40166	40174	GO:0003675	protein,	obsolete protein
+40477	40494	GO:0004386	helicase activity	helicase activity
+40841	40849	GO:0003675	protein;	obsolete protein
+40893	40910	GO:0097373	Mcm4/6/7 complex,	MCM core complex
+41113	41124	GO:0003677	DNA binding	DNA binding
+42352	42369	GO:0097373	Mcm4/6/7 complex,	MCM core complex
+43157	43174	GO:0097373	Mcm4/6/7 complex,	MCM core complex
+43614	43625	GO:0003677	DNA binding	DNA binding
+43762	43779	GO:0097373	Mcm4/6/7 complex,	MCM core complex
+43915	43926	GO:0003677	DNA binding	DNA binding
+44218	44225	GO:0003675	protein	obsolete protein
+44218	44225	GO:0003675	protein	obsolete protein
+44285	44293	GO:0003675	protein,	obsolete protein
+44285	44293	GO:0003675	protein,	obsolete protein
+44334	44349	GO:0016887	SV40 T-antigen.	ATPase activity

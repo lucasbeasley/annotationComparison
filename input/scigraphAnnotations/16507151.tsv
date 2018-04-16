@@ -1,0 +1,64 @@
+StartIndex	EndIndex	GO:ID	Term	OntoTerm
+53	57	GO:0007568	aged	aging
+247	255	GO:0005202	collagen	obsolete collagen
+434	438	GO:0007568	aged	aging
+434	438	GO:0007568	aged	aging
+434	438	GO:0007568	aged	aging
+1001	1011	GO:0005694	chromosome	chromosome
+1001	1011	GO:0005694	chromosome	chromosome
+1001	1011	GO:0005694	chromosome	chromosome
+1344	1352	GO:0003823	antibody	antigen binding
+4202	4206	GO:0007568	aged	aging
+5125	5138	GO:0000003	(reproduction	reproduction
+5212	5216	GO:0007618	mate	mating
+5212	5216	GO:0007618	mate	mating
+5365	5371	GO:0007618	mating	mating
+5365	5371	GO:0007618	mating	mating
+5365	5371	GO:0007618	mating	mating
+5518	5526	GO:0046776	complex)	suppression by virus of host antigen processing and presentation of peptide antigen via MHC class Ihistocompatibility
+5802	5810	GO:0005202	collagen	obsolete collagen
+6483	6495	GO:0006954	inflammation	inflammatory response
+6483	6495	GO:0006954	inflammation	inflammatory response
+7340	7351	GO:0005694	chromosomes	chromosome
+7367	7380	GO:0000806	Y chromosome.	Y chromosome
+7744	7754	GO:0003887	Polymerase	DNA-directed DNA polymerase activityDNA
+8907	8914	GO:0004239	mapping	obsolete methionyl aminopeptidase activity
+9122	9126	GO:0004617	sera	phosphoglycerate dehydrogenase activity
+9122	9126	GO:0004617	sera	phosphoglycerate dehydrogenase activity
+9122	9126	GO:0004617	sera	phosphoglycerate dehydrogenase activity
+9152	9160	GO:0003823	antibody	antigen binding
+9460	9472	GO:0003823	antibodies),	antigen binding
+9478	9483	GO:0004617	sera,	phosphoglycerate dehydrogenase activity
+11320	11331	GO:0032502	development	developmental process
+11679	11689	GO:0005694	chromosome	chromosome
+11679	11689	GO:0005694	chromosome	chromosome
+11679	11689	GO:0005694	chromosome	chromosome
+12086	12094	GO:0003823	antibody	antigen binding
+12554	12567	GO:0000003	reproduction,	reproduction
+13051	13055	GO:0007568	aged	aging
+14586	14598	GO:0005694	(chromosomes	chromosome
+14586	14597	GO:0005694	(chromosome	chromosome
+14587	14597	GO:0005694	chromosome	chromosome
+14587	14597	GO:0005694	chromosome	chromosome
+14587	14597	GO:0005694	chromosome	chromosome
+14587	14597	GO:0005694	chromosome	chromosome
+15413	15432	GO:0002377	antibody production	immunoglobulin production
+15729	15739	GO:0005694	chromosome	chromosome
+15729	15739	GO:0005694	chromosome	chromosome
+15729	15739	GO:0005694	chromosome	chromosome
+15729	15739	GO:0005694	chromosome	chromosome
+15729	15739	GO:0005694	chromosome	chromosome
+16105	16117	GO:0006954	inflammation	inflammatory response
+16404	16414	GO:0005694	chromosome	chromosome
+16404	16414	GO:0005694	chromosome	chromosome
+16404	16414	GO:0005694	chromosome	chromosome
+16905	16915	GO:0005694	chromosome	chromosome
+17666	17676	GO:0005694	chromosome	chromosome
+17666	17676	GO:0005694	chromosome	chromosome
+17666	17676	GO:0005694	chromosome	chromosome
+17865	17873	GO:0005202	collagen	obsolete collagen
+17977	17985	GO:0046776	complex;	suppression by virus of host antigen processing and presentation of peptide antigen via MHC class Ihistocompatibility
+18838	18846	GO:0005202	collagen	obsolete collagen
+18878	18889	GO:0005694	chromosomes	chromosome
+18878	18888	GO:0005694	chromosome	chromosome
+18931	18939	GO:0003823	antibody	antigen binding

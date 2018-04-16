@@ -1,0 +1,547 @@
+StartIndex	EndIndex	GO:ID	Term	OntoTerm
+63	76	GO:0009793	embryogenesis	embryo development ending in seed dormancy
+103	110	GO:0043277	removal	apoptotic cell clearancecell
+134	146	GO:0006909	Phagocytosis	phagocytosis
+150	159	GO:0097194	apoptotic	execution phase of apoptosis
+160	165	GO:0005623	cells	cell
+160	165	GO:0043652	cells	engulfment of apoptotic cellof apoptotic
+191	203	GO:0032502	development,	developmental process
+224	245	GO:0019725	cellular homeostasis.	cellular homeostasis
+398	408	GO:0023052	signaling.	signaling
+641	665	GO:0048468	terminal differentiation	cell development
+715	729	GO:0009793	embryogenesis.	embryo development ending in seed dormancy
+740	755	GO:0001654	eye development	eye development
+1047	1056	GO:0043065	apoptotic	positive regulation of apoptotic processwith
+1062	1071	GO:0043277	clearance	apoptotic cell clearancecell
+1135	1140	GO:0043652	cells	engulfment of apoptotic cellof apoptotic
+1135	1140	GO:0005623	cells	cell
+1261	1270	GO:0023052	signaling	signaling
+1378	1389	GO:0032502	development	developmental process
+1436	1449	GO:0009793	embryogenesis	embryo development ending in seed dormancy
+1477	1485	GO:0043277	removal.	apoptotic cell clearancecell
+1648	1657	GO:0043277	clearance	apoptotic cell clearancecell
+1707	1717	GO:0065007	regulation	biological regulation
+1877	1887	GO:0043277	clearance.	apoptotic cell clearancecell
+1912	1916	GO:0005623	cell	cell
+1912	1922	GO:0008219	cell death	cell death
+1927	1937	GO:0006915	apoptosis,	apoptotic processcell death, or
+1965	1976	GO:0032502	development	developmental process
+1965	1976	GO:0032502	development	developmental process
+2171	2176	GO:0005623	cells	cell
+2171	2176	GO:0005623	cells	cell
+2171	2176	GO:0005623	cells	cell
+2171	2176	GO:0005623	cells	cell
+2171	2176	GO:0005623	cells	cell
+2171	2176	GO:0043652	cells	engulfment of apoptotic cellof apoptotic
+2342	2351	GO:0097194	Apoptotic	execution phase of apoptosis
+2413	2429	GO:0097189	apoptotic bodies	apoptotic body
+2413	2422	GO:0097194	apoptotic	execution phase of apoptosis
+2475	2481	GO:0005623	cells.	cell
+2571	2584	GO:0005622	intracellular	intracellular
+2628	2633	GO:0016265	dying	death
+2686	2698	GO:0006909	Phagocytosis	phagocytosis
+2880	2889	GO:0046903	secretion	secretion
+3019	3026	GO:0023052	signals	signaling
+3044	3048	GO:0005623	cell	cell
+3093	3102	GO:0097194	apoptotic	execution phase of apoptosis
+3093	3102	GO:0097194	apoptotic	execution phase of apoptosis
+3093	3102	GO:0097194	apoptotic	execution phase of apoptosis
+3093	3102	GO:0097194	apoptotic	execution phase of apoptosis
+3093	3102	GO:0097194	apoptotic	execution phase of apoptosis
+3103	3108	GO:0005623	cells	cell
+3103	3108	GO:0043652	cells	engulfment of apoptotic cellof apoptotic
+3161	3165	GO:0005102	bind	receptor bindingthat
+3178	3185	GO:0005488	ligands	binding
+3199	3205	GO:0005623	cells.	cell
+3199	3205	GO:0005623	cells.	cell
+3528	3540	GO:0006909	phagocytosis	phagocytosis
+3528	3540	GO:0006909	phagocytosis	phagocytosis
+3850	3858	GO:0005488	binding,	binding
+3875	3887	GO:0009293	transduction	transduction
+3909	3916	GO:0023052	signals	signaling
+3932	3948	GO:0008037	cell recognition	cell recognition
+3932	3948	GO:0008037	cell recognition	cell recognition
+4053	4062	GO:0043277	clearance	apoptotic cell clearancecell
+4207	4213	GO:0098657	uptake	import into cell
+4291	4298	GO:0003675	protein	obsolete protein
+4472	4478	GO:0005154	factor	epidermal growth factor receptor bindinggrowth
+4585	4600	GO:0005886	plasma membrane	plasma membrane
+4604	4613	GO:0097194	apoptotic	execution phase of apoptosis
+4604	4613	GO:0097194	apoptotic	execution phase of apoptosis
+4604	4613	GO:0097194	apoptotic	execution phase of apoptosis
+4614	4619	GO:0005623	cells	cell
+4683	4692	GO:0006915	apoptosis	apoptotic processof
+4743	4750	GO:0023052	signals	signaling
+4774	4790	GO:0008037	cell recognition	cell recognition
+4899	4905	GO:0005623	cells.	cell
+4924	4929	GO:0004617	serum	phosphoglycerate dehydrogenase activity
+4930	4938	GO:0003675	proteins	obsolete protein
+4930	4937	GO:0003675	protein	obsolete protein
+5032	5053	GO:0006956	complement activation	complement activation
+5280	5286	GO:0005488	ligand	binding
+5344	5348	GO:0005488	bind	binding
+5344	5348	GO:0005488	bind	binding
+5649	5654	GO:0005488	binds	binding
+5794	5800	GO:0098657	uptake	import into cell
+5804	5813	GO:0097194	apoptotic	execution phase of apoptosis
+5804	5813	GO:0097194	apoptotic	execution phase of apoptosis
+5804	5813	GO:0071888	apoptotic	macrophage apoptotic processwith
+5804	5813	GO:0097194	apoptotic	execution phase of apoptosis
+5814	5819	GO:0005623	cells	cell
+5814	5819	GO:0005623	cells	cell
+5814	5819	GO:0005623	cells	cell
+5814	5819	GO:0005623	cells	cell
+5849	5861	GO:0006909	phagocytosis	phagocytosis
+5920	5927	GO:0005488	binding	binding
+5964	5972	GO:0003823	antibody	antigen binding
+6140	6146	GO:0040007	growth	growth
+6306	6315	GO:0023052	signaling	signaling
+6428	6444	GO:0006955	immune responses	immune response
+6537	6550	GO:0005634	cell nucleus.	nucleus
+6537	6549	GO:0005634	cell nucleus	nucleus
+6563	6575	GO:0051179	localization	localization
+6563	6575	GO:0051179	localization	localization
+6563	6575	GO:0051179	localization	localization
+6829	6836	GO:0003675	protein	obsolete protein
+6943	6955	GO:0006909	phagocytosis	phagocytosis
+6959	6968	GO:0097194	apoptotic	execution phase of apoptosis
+6959	6968	GO:0097194	apoptotic	execution phase of apoptosis
+6969	6975	GO:0005623	cells.	cell
+7105	7121	GO:0008037	cell recognition	cell recognition
+7144	7154	GO:0023052	signaling.	signaling
+7732	7741	GO:0097194	apoptotic	execution phase of apoptosis
+7742	7748	GO:0005623	cells.	cell
+7857	7867	GO:0097194	apoptosis.	execution phase of apoptosis
+8170	8175	GO:0005623	cells	cell
+8242	8247	GO:0034023	pure,	5-(carboxyamino)imidazole ribonucleotide mutase activity
+8903	8914	GO:0032502	development	developmental process
+9173	9184	GO:0007565	gestational	female pregnancy
+9863	9878	GO:0001654	eye development	eye development
+10353	10360	GO:0007618	matings	mating
+10830	10843	GO:0009793	embryogenesis	embryo development ending in seed dormancy
+10951	10963	GO:0032502	development.	developmental process
+11040	11052	GO:0032502	development,	developmental process
+11108	11113	GO:0005623	cells	cell
+11108	11112	GO:0005623	cell	cell
+11704	11710	GO:0048513	organs	organ developmentof these
+12065	12079	GO:0009793	embryogenesis,	embryo development ending in seed dormancy
+13910	13923	GO:0009793	embryogenesis	embryo development ending in seed dormancy
+14078	14096	GO:0048513	organ development.	organ development
+14084	14096	GO:0032502	development.	developmental process
+14084	14096	GO:0032502	development.	developmental process
+14559	14564	GO:0005623	cells	cell
+14559	14564	GO:0005623	cells	cell
+14591	14603	GO:0009986	cell surface	cell surface
+17089	17103	GO:0030218	erythropoietic	erythrocyte differentiation
+17341	17352	GO:0032502	development	developmental process
+17369	17378	GO:0009058	formation	biosynthetic process
+18071	18076	GO:0005623	cells	cell
+18071	18076	GO:0005623	cells	cell
+19299	19308	GO:0009058	formation	biosynthetic process
+20420	20432	GO:0006909	Phagocytosis	phagocytosis
+20450	20459	GO:0097194	apoptotic	execution phase of apoptosis
+20460	20465	GO:0005623	cells	cell
+20576	20585	GO:0097194	apoptotic	execution phase of apoptosis
+20576	20585	GO:0097194	apoptotic	execution phase of apoptosis
+20586	20592	GO:0005623	cells.	cell
+20586	20591	GO:0005623	cells	cell
+20586	20590	GO:0005623	cell	cell
+20586	20591	GO:0005623	cells	cell
+20629	20639	GO:0008219	cell death	cell death
+20629	20639	GO:0008219	cell death	cell death
+20629	20639	GO:0008219	cell death	cell death
+20699	20708	GO:0097194	Apoptosis	execution phase of apoptosis
+21466	21483	GO:0060173	limb development.	limb development
+21516	21523	GO:0043277	removal	apoptotic cell clearancecell
+21527	21536	GO:0097194	apoptotic	execution phase of apoptosis
+21527	21536	GO:0097194	apoptotic	execution phase of apoptosis
+21527	21536	GO:0097194	apoptotic	execution phase of apoptosis
+21527	21536	GO:0097194	apoptotic	execution phase of apoptosis
+21527	21536	GO:0097194	apoptotic	execution phase of apoptosis
+21527	21536	GO:0097194	apoptotic	execution phase of apoptosis
+21527	21536	GO:0097194	apoptotic	execution phase of apoptosis
+21537	21542	GO:0005623	cells	cell
+21537	21542	GO:0005623	cells	cell
+21537	21542	GO:0005623	cells	cell
+21537	21542	GO:0005623	cells	cell
+21537	21542	GO:0005623	cells	cell
+21537	21542	GO:0005623	cells	cell
+21537	21542	GO:0005623	cells	cell
+21537	21542	GO:0005623	cells	cell
+21537	21541	GO:0005623	cell	cell
+21537	21542	GO:0005623	cells	cell
+21689	21698	GO:0097194	apoptosis	execution phase of apoptosis
+21689	21698	GO:0097194	apoptosis	execution phase of apoptosis
+21689	21698	GO:0097194	apoptosis	execution phase of apoptosis
+21689	21698	GO:0097194	apoptosis	execution phase of apoptosis
+21723	21740	GO:0048771	tissue remodeling	tissue remodeling
+21748	21760	GO:0032502	development.	developmental process
+21748	21759	GO:0032502	development	developmental process
+21748	21759	GO:0032502	development	developmental process
+22133	22138	GO:0012501	death	programmed cell deathcell
+22797	22806	GO:0043277	clearance	apoptotic cell clearancecell
+23298	23314	GO:0030324	lung development	lung development
+23594	23612	GO:0060425	lung morphogenesis	lung morphogenesis
+23810	23818	GO:0001906	necrosis	cell killing
+24106	24115	GO:0097194	apoptosis	execution phase of apoptosis
+24136	24150	GO:0009793	embryogenesis,	embryo development ending in seed dormancy
+24317	24326	GO:0071888	apoptotic	macrophage apoptotic processwith
+24317	24326	GO:0097194	apoptotic	execution phase of apoptosis
+24317	24326	GO:0097194	apoptotic	execution phase of apoptosis
+24317	24326	GO:0097194	apoptotic	execution phase of apoptosis
+24327	24333	GO:0005623	cells.	cell
+24327	24332	GO:0005623	cells	cell
+24327	24332	GO:0005623	cells	cell
+24327	24332	GO:0005623	cells	cell
+24327	24333	GO:0005623	cells.	cell
+24543	24554	GO:0032502	development	developmental process
+24543	24554	GO:0032502	development	developmental process
+24628	24634	GO:0005623	cells,	cell
+24754	24763	GO:0043277	clearance	apoptotic cell clearancecell
+24836	24848	GO:0006909	phagocytosis	phagocytosis
+25018	25027	GO:0097194	apoptotic	execution phase of apoptosis
+25018	25027	GO:0097194	apoptotic	execution phase of apoptosis
+25018	25027	GO:0097194	apoptotic	execution phase of apoptosis
+25018	25027	GO:0097194	apoptotic	execution phase of apoptosis
+25018	25027	GO:0097194	apoptotic	execution phase of apoptosis
+25018	25027	GO:0097194	apoptotic	execution phase of apoptosis
+25018	25027	GO:0097194	apoptotic	execution phase of apoptosis
+25018	25027	GO:0097194	apoptotic	execution phase of apoptosis
+25018	25027	GO:0097194	apoptotic	execution phase of apoptosis
+25018	25027	GO:0097194	apoptotic	execution phase of apoptosis
+25018	25027	GO:0097194	apoptotic	execution phase of apoptosis
+25028	25032	GO:0005623	cell	cell
+25028	25032	GO:0005623	cell	cell
+25028	25032	GO:0005623	cell	cell
+25028	25032	GO:0005623	cell	cell
+25033	25039	GO:0098657	uptake	import into cell
+25033	25039	GO:0098657	uptake	import into cell
+25033	25039	GO:0098657	uptake	import into cell
+25063	25075	GO:0006909	phagocytosis	phagocytosis
+25063	25075	GO:0006909	phagocytosis	phagocytosis
+25063	25075	GO:0006909	phagocytosis	phagocytosis
+25063	25075	GO:0006909	phagocytosis	phagocytosis
+25063	25075	GO:0006909	phagocytosis	phagocytosis
+25169	25181	GO:0006909	Phagocytosis	phagocytosis
+25274	25279	GO:0005623	cells	cell
+25274	25279	GO:0005623	cells	cell
+25274	25279	GO:0005623	cells	cell
+25274	25279	GO:0005623	cells	cell
+25274	25279	GO:0005623	cells	cell
+25274	25279	GO:0005623	cells	cell
+25274	25279	GO:0005623	cells	cell
+25298	25304	GO:0004617	serum.	phosphoglycerate dehydrogenase activity
+25822	25828	GO:0005623	cells,	cell
+26737	26743	GO:0012501	death.	programmed cell deathcell
+26906	26918	GO:0006909	phagocytosis	phagocytosis
+26922	26931	GO:0097194	apoptotic	execution phase of apoptosis
+26922	26931	GO:0097194	apoptotic	execution phase of apoptosis
+26922	26931	GO:0097194	apoptotic	execution phase of apoptosis
+26922	26931	GO:0097194	apoptotic	execution phase of apoptosis
+26932	26938	GO:0005623	cells,	cell
+26932	26937	GO:0043654	cells	recognition of apoptotic cellof apoptotic
+26932	26938	GO:0005623	cells,	cell
+27251	27257	GO:0005623	cells.	cell
+27251	27257	GO:0005623	cells.	cell
+27251	27257	GO:0043652	cells.	engulfment of apoptotic cellof apoptotic
+27306	27313	GO:0005141	(IL-10)	interleukin-10 receptor binding
+27307	27312	GO:0005141	IL-10	interleukin-10 receptor binding
+27918	27927	GO:0023052	signaling	signaling
+27918	27927	GO:0023052	signaling	signaling
+28057	28065	GO:0001906	necrosis	cell killing
+28251	28260	GO:0046903	secretion	secretion
+28526	28535	GO:0097194	apoptotic	execution phase of apoptosis
+28526	28535	GO:0097194	apoptotic	execution phase of apoptosis
+28526	28535	GO:0097194	apoptotic	execution phase of apoptosis
+28526	28535	GO:0097194	apoptotic	execution phase of apoptosis
+28536	28542	GO:0043652	cells,	engulfment of apoptotic cellof apoptotic
+28536	28541	GO:0005623	cells	cell
+28536	28541	GO:0005623	cells	cell
+28536	28541	GO:0005623	cells	cell
+28536	28542	GO:0005623	cells,	cell
+29384	29390	GO:0043652	cells.	engulfment of apoptotic cellof apoptotic
+29790	29801	GO:0032502	development	developmental process
+30031	30045	GO:0009793	embryogenesis,	embryo development ending in seed dormancy
+31293	31306	GO:0009793	embryogenesis	embryo development ending in seed dormancy
+31349	31372	GO:0001763	branching morphogenesis	morphogenesis of a branching structure
+31519	31543	GO:0048468	terminal differentiation	cell development
+32521	32526	GO:0012501	death	programmed cell deathcell
+32521	32526	GO:0016265	death	death
+32534	32550	GO:0030324	lung development	lung development
+32534	32550	GO:0030324	lung development	lung development
+32599	32612	GO:0009793	embryogenesis	embryo development ending in seed dormancy
+32686	32695	GO:0097194	apoptosis	execution phase of apoptosis
+32686	32695	GO:0097194	apoptosis	execution phase of apoptosis
+32719	32738	GO:0060425	lung morphogenesis.	lung morphogenesis
+32719	32737	GO:0060425	lung morphogenesis	lung morphogenesis
+32805	32814	GO:0097194	apoptotic	execution phase of apoptosis
+32805	32814	GO:0097194	apoptotic	execution phase of apoptosis
+32805	32814	GO:0097194	apoptotic	execution phase of apoptosis
+32815	32820	GO:0005623	cells	cell
+32815	32820	GO:0005623	cells	cell
+33244	33258	GO:0009793	embryogenesis.	embryo development ending in seed dormancy
+33309	33332	GO:0001763	branching morphogenesis	morphogenesis of a branching structure
+33629	33653	GO:0048468	terminal differentiation	cell development
+33763	33777	GO:0009793	embryogenesis,	embryo development ending in seed dormancy
+33800	33810	GO:0060592	formation,	mammary gland formationgland
+34783	34800	GO:0007507	heart development	heart development
+35035	35050	GO:0001654	eye development	eye development
+35039	35050	GO:0032502	development	developmental process
+35231	35240	GO:0009058	formation	biosynthetic process
+35231	35240	GO:0009058	formation	biosynthetic process
+35566	35585	GO:0060041	retinal development	retina development in camera-type eye
+35656	35669	GO:0009653	morphogenesis	anatomical structure morphogenesis
+35725	35739	GO:0009793	embryogenesis.	embryo development ending in seed dormancy
+36137	36151	GO:0009653	morphogenesis,	anatomical structure morphogenesis
+36406	36415	GO:0009058	formation	biosynthetic process
+36406	36415	GO:0009058	formation	biosynthetic process
+36757	36767	GO:0009058	formation.	biosynthetic process
+37096	37105	GO:0097194	apoptotic	execution phase of apoptosis
+37096	37105	GO:0097194	apoptotic	execution phase of apoptosis
+37106	37111	GO:0005623	cells	cell
+37119	37135	GO:0001654	eye development,	eye development
+37119	37135	GO:0001654	eye development,	eye development
+37220	37230	GO:0043277	clearance.	apoptotic cell clearancecell
+37274	37283	GO:0097194	apoptosis	execution phase of apoptosis
+37274	37283	GO:0097194	apoptosis	execution phase of apoptosis
+37274	37283	GO:0097194	apoptosis	execution phase of apoptosis
+37307	37326	GO:0060041	retinal development	retina development in camera-type eye
+37307	37326	GO:0060041	retinal development	retina development in camera-type eye
+37367	37377	GO:0008219	cell death	cell death
+37367	37377	GO:0008219	cell death	cell death
+37372	37377	GO:0006915	death	apoptotic processcell
+38386	38394	GO:0003823	antibody	antigen binding
+38890	38899	GO:0097194	apoptotic	execution phase of apoptosis
+38890	38899	GO:0097194	apoptotic	execution phase of apoptosis
+38900	38905	GO:0005623	cells	cell
+38900	38905	GO:0005623	cells	cell
+39459	39469	GO:0043277	clearance,	apoptotic cell clearancecell
+39641	39666	GO:0048468	terminal differentiation.	cell development
+39902	39911	GO:0097194	apoptotic	execution phase of apoptosis
+39912	39917	GO:0005623	cells	cell
+39988	39994	GO:0098657	uptake	import into cell
+39988	39994	GO:0098657	uptake	import into cell
+39988	39994	GO:0098657	uptake	import into cell
+39998	40007	GO:0097194	apoptotic	execution phase of apoptosis
+39998	40007	GO:0097194	apoptotic	execution phase of apoptosis
+39998	40007	GO:0097194	apoptotic	execution phase of apoptosis
+39998	40007	GO:0097194	apoptotic	execution phase of apoptosis
+39998	40007	GO:0097194	apoptotic	execution phase of apoptosis
+39998	40007	GO:0097194	apoptotic	execution phase of apoptosis
+39998	40007	GO:0097194	apoptotic	execution phase of apoptosis
+40008	40014	GO:0005623	cells.	cell
+40008	40013	GO:0005623	cells	cell
+40008	40013	GO:0005623	cells	cell
+40008	40013	GO:0005623	cells	cell
+40008	40014	GO:0005623	cells.	cell
+40008	40013	GO:0005623	cells	cell
+40008	40013	GO:0005623	cells	cell
+40008	40013	GO:0005623	cells	cell
+40008	40013	GO:0005623	cells	cell
+40008	40013	GO:0005623	cells	cell
+40008	40013	GO:0005623	cells	cell
+40008	40014	GO:0005623	cells.	cell
+40008	40013	GO:0005623	cells	cell
+40047	40056	GO:0043277	clearance	apoptotic cell clearancecell
+40047	40056	GO:0043277	clearance	apoptotic cell clearancecell
+40310	40321	GO:0032502	development	developmental process
+40310	40321	GO:0032502	development	developmental process
+40411	40423	GO:0032502	development.	developmental process
+40437	40449	GO:0006909	phagocytosis	phagocytosis
+41174	41183	GO:0007565	gestation	female pregnancy
+41327	41336	GO:0097194	apoptosis	execution phase of apoptosis
+41327	41336	GO:0097194	apoptosis	execution phase of apoptosis
+41327	41336	GO:0097194	apoptosis	execution phase of apoptosis
+41481	41492	GO:0042592	homeostasis	homeostatic process
+41602	41618	GO:0030324	lung development	lung development
+41765	41778	GO:0009793	embryogenesis	embryo development ending in seed dormancy
+42578	42592	GO:0009793	embryogenesis,	embryo development ending in seed dormancy
+42578	42592	GO:0009793	embryogenesis,	embryo development ending in seed dormancy
+42578	42591	GO:0009793	embryogenesis	embryo development ending in seed dormancy
+42613	42622	GO:0043277	clearance	apoptotic cell clearancecell
+42626	42635	GO:0097194	apoptotic	execution phase of apoptosis
+42626	42635	GO:0097194	apoptotic	execution phase of apoptosis
+42626	42635	GO:0097194	apoptotic	execution phase of apoptosis
+42626	42635	GO:0097194	apoptotic	execution phase of apoptosis
+42626	42635	GO:0097194	apoptotic	execution phase of apoptosis
+42626	42635	GO:0097194	apoptotic	execution phase of apoptosis
+42636	42641	GO:0005623	cells	cell
+42636	42641	GO:0005623	cells	cell
+42636	42641	GO:0005623	cells	cell
+42636	42641	GO:0005623	cells	cell
+42636	42641	GO:0005623	cells	cell
+42636	42641	GO:0005623	cells	cell
+42636	42641	GO:0005623	cells	cell
+42721	42727	GO:0005623	cells.	cell
+42766	42771	GO:0012501	death	programmed cell deathcell
+42869	42888	GO:0035262	gonad morphogenesis	gonad morphogenesis
+43187	43196	GO:0097194	apoptosis	execution phase of apoptosis
+43487	43499	GO:0006909	phagocytosis	phagocytosis
+43736	43742	GO:0005623	cells,	cell
+43956	43962	GO:0098657	uptake	import into cell
+43956	43962	GO:0098657	uptake	import into cell
+43966	43975	GO:0097194	apoptotic	execution phase of apoptosis
+43966	43975	GO:0097194	apoptotic	execution phase of apoptosis
+43966	43975	GO:0097194	apoptotic	execution phase of apoptosis
+43976	43981	GO:0005623	cells	cell
+43976	43980	GO:0005623	cell	cell
+43976	43980	GO:0005623	cell	cell
+43976	43980	GO:0005623	cell	cell
+44030	44042	GO:0006909	phagocytosis	phagocytosis
+44492	44506	GO:0030097	hematopoiesis.	hemopoiesis
+44803	44807	GO:0034023	pure	5-(carboxyamino)imidazole ribonucleotide mutase activity
+45352	45361	GO:0046903	secretion	secretion
+45433	45442	GO:0097194	apoptotic	execution phase of apoptosis
+45443	45449	GO:0005623	cells.	cell
+45621	45642	GO:0042116	macrophage activation	macrophage activation
+45754	45766	GO:0051179	localization	localization
+45780	45787	GO:0003675	protein	obsolete protein
+46091	46095	GO:0016246	RNAi	RNA interference
+46292	46298	GO:0023052	signal	signaling
+46754	46766	GO:0006909	phagocytosis	phagocytosis
+46770	46779	GO:0097194	apoptotic	execution phase of apoptosis
+46780	46785	GO:0005623	cells	cell
+46780	46785	GO:0005623	cells	cell
+46817	46825	GO:0003823	antibody	antigen binding
+46817	46825	GO:0003823	antibody	antigen binding
+46817	46825	GO:0003823	antibody	antigen binding
+46817	46825	GO:0003823	antibody	antigen binding
+46876	46883	GO:0005488	binding	binding
+46876	46883	GO:0005488	binding	binding
+46876	46880	GO:0005488	bind	binding
+46936	46948	GO:0051179	localization	localization
+47038	47057	GO:0007165	signal transduction	signal transduction
+48116	48130	GO:0009793	embryogenesis.	embryo development ending in seed dormancy
+48214	48227	GO:0009653	morphogenesis	anatomical structure morphogenesis
+48324	48333	GO:0097194	apoptotic	execution phase of apoptosis
+48324	48333	GO:0097194	apoptotic	execution phase of apoptosis
+48324	48333	GO:0097194	apoptotic	execution phase of apoptosis
+48334	48338	GO:0005623	cell	cell
+48334	48340	GO:0005623	cells,	cell
+48343	48350	GO:0042995	process	cell projectiona
+48661	48670	GO:0023052	signaling	signaling
+48727	48735	GO:0003675	proteins	obsolete protein
+49038	49050	GO:0032502	development.	developmental process
+49724	49729	GO:0005623	cells	cell
+49778	49783	GO:0005623	cells	cell
+49778	49783	GO:0005623	cells	cell
+50199	50210	GO:0032502	development	developmental process
+50240	50245	GO:0007618	mated	mating
+50988	50993	GO:0007618	mated	mating
+51327	51335	GO:0016020	membrane	membrane
+52185	52191	GO:0023052	signal	signaling
+52673	52677	GO:0031672	band	A band
+52673	52677	GO:0031672	band	A band
+52673	52677	GO:0031672	band	A band
+52673	52677	GO:0031672	band	A band
+52745	52750	GO:0031672	bands	A band
+52745	52750	GO:0031672	bands	A band
+53215	53223	GO:0016020	membrane	membrane
+53215	53223	GO:0016020	membrane	membrane
+53854	53861	GO:0003675	protein	obsolete protein
+53854	53861	GO:0003675	protein	obsolete protein
+53892	53897	GO:0019835	lysis	cytolysis
+54157	54165	GO:0016020	membrane	membrane
+54268	54276	GO:0003823	antibody	antigen binding
+54439	54449	GO:0003823	antibodies	antigen binding
+55581	55590	GO:0016020	membranes	membrane
+56202	56207	GO:0043654	cells	recognition of apoptotic cellof apoptotic
+56241	56249	GO:0003823	antibody	antigen binding
+56377	56387	GO:0003823	antibodies	antigen binding
+56377	56387	GO:0003823	antibodies	antigen binding
+57072	57081	GO:0007586	digestion	digestion
+57290	57294	GO:0005623	cell	cell
+57349	57354	GO:0005623	cells	cell
+57349	57354	GO:0005623	cells	cell
+57777	57789	GO:0006909	phagocytosis	phagocytosis
+57917	57922	GO:0005623	cells	cell
+57917	57922	GO:0005623	cells	cell
+57917	57922	GO:0005623	cells	cell
+57917	57922	GO:0005623	cells	cell
+57917	57922	GO:0005623	cells	cell
+57917	57922	GO:0005623	cells	cell
+57973	57982	GO:0097194	apoptotic	execution phase of apoptosis
+57973	57982	GO:0097194	apoptotic	execution phase of apoptosis
+57973	57982	GO:0097194	apoptotic	execution phase of apoptosis
+57973	57982	GO:0097194	apoptotic	execution phase of apoptosis
+57973	57982	GO:0097194	apoptotic	execution phase of apoptosis
+57990	57996	GO:0005623	cells,	cell
+58117	58126	GO:0097194	apoptosis	execution phase of apoptosis
+58117	58126	GO:0097194	apoptosis	execution phase of apoptosis
+58422	58432	GO:0097194	apoptotic,	execution phase of apoptosis
+58683	58695	GO:0006909	Phagocytosis	phagocytosis
+58782	58788	GO:0098657	uptake	import into cell
+58904	58910	GO:0005623	cells.	cell
+58922	58934	GO:0006909	phagocytosis	phagocytosis
+58922	58934	GO:0006909	phagocytosis	phagocytosis
+59028	59033	GO:0005623	Cells	cell
+59124	59132	GO:0003823	antibody	antigen binding
+59124	59132	GO:0003823	antibody	antigen binding
+59935	59945	GO:0010934	production	macrophage cytokine productioncytokine
+59979	59988	GO:0097194	apoptotic	execution phase of apoptosis
+59979	59988	GO:0097194	apoptotic	execution phase of apoptosis
+60094	60099	GO:0005623	cells	cell
+60146	60152	GO:0005141	IL-10,	interleukin-10 receptor binding
+60146	60151	GO:0005141	IL-10	interleukin-10 receptor binding
+60615	60627	GO:0006954	inflammation	inflammatory response
+60975	60987	GO:0051179	localization	localization
+60991	61000	GO:0097194	apoptotic	execution phase of apoptosis
+61001	61006	GO:0005623	cells	cell
+61126	61133	GO:0003675	protein	obsolete protein
+61268	61280	GO:0051179	localization	localization
+61284	61293	GO:0097194	apoptotic	execution phase of apoptosis
+61294	61299	GO:0005623	cells	cell
+61419	61426	GO:0003675	protein	obsolete protein
+61841	61845	GO:0005623	cell	cell
+61841	61845	GO:0005623	cell	cell
+62542	62547	GO:0005623	cells	cell
+62743	62751	GO:0003675	protein.	obsolete protein
+62743	62750	GO:0003675	protein	obsolete protein
+63815	63824	GO:0003823	antibody.	antigen binding
+64393	64405	GO:0032502	development.	developmental process
+64586	64596	GO:0065007	regulatory	biological regulation
+65624	65638	GO:0009793	embryogenesis.	embryo development ending in seed dormancy
+66609	66618	GO:0009058	formation	biosynthetic process
+66966	66980	GO:0030218	erythropoietic	erythrocyte differentiation
+67017	67031	GO:0005623	Hepatocellular	cell
+67032	67040	GO:0005773	vacuoles	vacuole
+67121	67126	GO:0016265	dying	death
+68007	68022	GO:0001654	eye development	eye development
+68754	68759	GO:0012501	death	programmed cell deathcell
+68809	68818	GO:0097194	apoptotic	execution phase of apoptosis
+68809	68818	GO:0097194	apoptotic	execution phase of apoptosis
+68809	68818	GO:0097194	apoptotic	execution phase of apoptosis
+68809	68818	GO:0097194	apoptotic	execution phase of apoptosis
+68809	68818	GO:0097194	apoptotic	execution phase of apoptosis
+68819	68824	GO:0005623	cells	cell
+68819	68824	GO:0005623	cells	cell
+68819	68824	GO:0005623	cells	cell
+68819	68824	GO:0005623	cells	cell
+68819	68824	GO:0005623	cells	cell
+68994	69006	GO:0051179	localization	localization
+69817	69829	GO:0032502	development.	developmental process
+69963	69975	GO:0006909	Phagocytosis	phagocytosis
+69979	69988	GO:0097194	apoptotic	execution phase of apoptosis
+69979	69988	GO:0097194	apoptotic	execution phase of apoptosis
+69979	69988	GO:0097194	apoptotic	execution phase of apoptosis
+69979	69988	GO:0097194	apoptotic	execution phase of apoptosis
+69979	69988	GO:0097194	apoptotic	execution phase of apoptosis
+69979	69988	GO:0097194	apoptotic	execution phase of apoptosis
+69979	69988	GO:0097194	apoptotic	execution phase of apoptosis
+69989	69994	GO:0005623	cells	cell
+69989	69994	GO:0005623	cells	cell
+69989	69994	GO:0005623	cells	cell
+69989	69994	GO:0005623	cells	cell
+69989	69994	GO:0005623	cells	cell
+69989	69994	GO:0005623	cells	cell
+70350	70362	GO:0006909	phagocytosis	phagocytosis
+70504	70510	GO:0005623	cells,	cell
+70526	70535	GO:0097194	apoptosis	execution phase of apoptosis
+70890	70909	GO:0001816	Cytokine production	cytokine production
+70970	70979	GO:0097194	apoptotic	execution phase of apoptosis
+70970	70979	GO:0097194	apoptotic	execution phase of apoptosis
+70970	70979	GO:0097194	apoptotic	execution phase of apoptosis
+70980	70986	GO:0005623	cells.	cell
+70980	70985	GO:0005623	cells	cell
+70980	70985	GO:0005623	cells	cell
+71335	71340	GO:0005141	IL-10	interleukin-10 receptor binding

@@ -1,0 +1,160 @@
+StartIndex	EndIndex	GO:ID	Term	OntoTerm
+288	299	GO:0032502	development	developmental process
+288	299	GO:0032502	development	developmental process
+1230	1239	GO:0009058	synthesis	biosynthetic process
+1230	1239	GO:0009058	synthesis	biosynthetic process
+1316	1325	GO:0009058	formation	biosynthetic process
+1316	1325	GO:0009058	formation	biosynthetic process
+2821	2829	GO:0003823	antibody	antigen binding
+3341	3351	GO:0003823	antibodies	antigen binding
+3629	3636	GO:0003675	protein	obsolete protein
+4173	4184	GO:0032502	development	developmental process
+4626	4638	GO:0032502	development.	developmental process
+6488	6497	GO:0007586	digestion	digestion
+7777	7787	GO:0045120	Pronuclear	pronucleus
+7946	7955	GO:0007586	digestion	digestion
+8009	8019	GO:0045120	pronucleus	pronucleus
+8064	8072	GO:0007618	matings.	mating
+9283	9292	GO:0009056	breakdown	catabolic process
+10857	10861	GO:0031672	band	A band
+11119	11123	GO:0005623	cell	cell
+11844	11852	GO:0003675	Proteins	obsolete protein
+12157	12168	GO:0003823	antibodies:	antigen binding
+12693	12701	GO:0003823	antibody	antigen binding
+13149	13155	GO:0023052	signal	signaling
+13149	13155	GO:0023052	signal	signaling
+13175	13179	GO:0031672	band	A band
+16007	16017	GO:0031386	Ubiquitin,	protein tag
+16042	16050	GO:0045098	protein,	type III intermediate filamentfibrillary acidic
+16250	16269	GO:0004601	peroxidase activity	peroxidase activity
+16480	16485	GO:0004617	serum	phosphoglycerate dehydrogenase activity
+16480	16485	GO:0004617	serum	phosphoglycerate dehydrogenase activity
+16553	16561	GO:0003823	antibody	antigen binding
+16553	16561	GO:0003823	antibody	antigen binding
+16597	16606	GO:0003823	antibody,	antigen binding
+16719	16729	GO:0043205	fibrillary	fibril
+16737	16744	GO:0003675	protein	obsolete protein
+16745	16751	GO:0045101	(GFAP)	obsolete glial fibrillary acidic protein
+16763	16774	GO:0003823	antibodies,	antigen binding
+17320	17328	GO:0003823	Antibody	antigen binding
+17329	17336	GO:0005488	binding	binding
+17746	17754	GO:0016020	membrane	membrane
+17746	17754	GO:0016020	membrane	membrane
+17898	17906	GO:0003823	antibody	antigen binding
+17898	17906	GO:0003823	antibody	antigen binding
+18134	18141	GO:0003675	protein	obsolete protein
+18194	18203	GO:0016020	membranes	membrane
+18277	18284	GO:0005488	binding	binding
+20501	20508	GO:0003675	protein	obsolete protein
+21602	21609	GO:0003675	protein	obsolete protein
+21602	21609	GO:0003675	protein	obsolete protein
+21774	21782	GO:0003823	antibody	antigen binding
+21774	21782	GO:0003823	antibody	antigen binding
+22844	22851	GO:0003675	protein	obsolete protein
+22951	22964	GO:0006351	transcription	transcription, DNA-templated
+23798	23816	GO:0043043	peptide synthesis,	peptide biosynthetic process
+23806	23815	GO:0009058	synthesis	biosynthetic process
+23806	23815	GO:0009058	synthesis	biosynthetic process
+25846	25855	GO:0009058	formation	biosynthetic process
+25846	25855	GO:0009058	formation	biosynthetic process
+25846	25855	GO:0009058	formation	biosynthetic process
+26458	26463	GO:0007568	ages,	aging
+26458	26462	GO:0007568	ages	aging
+26639	26644	GO:0019013	cored	viral nucleocapsid
+27119	27135	GO:0008088	axonal transport	axon cargo transport
+28019	28028	GO:0009058	formation	biosynthetic process
+30019	30024	GO:0019013	cored	viral nucleocapsid
+31279	31286	GO:0003675	protein	obsolete protein
+31371	31375	GO:0046930	pore	pore complex
+31417	31425	GO:0016020	membrane	membrane
+33544	33553	GO:0031386	ubiquitin	protein tag
+33681	33685	GO:0045101	GFAP	obsolete glial fibrillary acidic protein
+33861	33867	GO:0040007	growth	growth
+34155	34164	GO:0050890	cognition	cognition
+34441	34449	GO:0036268	swimming	swimming
+34441	34445	GO:0036268	swim	swimming
+35065	35073	GO:0003675	protein.	obsolete protein
+36157	36165	GO:0007610	behavior	behavior
+36566	36583	GO:0007623	circadian rhythms	circadian rhythm
+37119	37127	GO:0003675	proteins	obsolete protein
+37119	37126	GO:0003675	protein	obsolete protein
+38155	38168	GO:0005576	extracellular	extracellular region
+38280	38290	GO:0065007	regulation	biological regulation
+39591	39598	GO:0005625	soluble	obsolete soluble fraction
+40943	40948	GO:0019013	cored	viral nucleocapsid
+41373	41383	GO:0009058	formation,	biosynthetic process
+42362	42375	GO:0006909	phagocytosis.	phagocytosis
+42714	42724	GO:0008152	metabolism	metabolic process
+43022	43031	GO:0009058	formation	biosynthetic process
+43629	43634	GO:0005623	cells	cell
+44674	44684	GO:0003823	antibodies	antigen binding
+44821	44829	GO:0003823	antibody	antigen binding
+44821	44829	GO:0003823	antibody	antigen binding
+44821	44829	GO:0003823	antibody	antigen binding
+46043	46056	GO:0006909	phagocytosis,	phagocytosis
+46136	46147	GO:0003823	antibodies,	antigen binding
+46513	46525	GO:0006954	inflammation	inflammatory response
+47042	47066	GO:0097418	neurofibrillary tangles,	neurofibrillary tangle
+47253	47260	GO:0003675	protein	obsolete protein
+47253	47260	GO:0003675	protein	obsolete protein
+47253	47260	GO:0003675	protein	obsolete protein
+47253	47260	GO:0003675	protein	obsolete protein
+47802	47815	GO:0005576	extracellular	extracellular region
+47916	47925	GO:0009058	synthesis	biosynthetic process
+47916	47925	GO:0009058	synthesis	biosynthetic process
+48027	48034	GO:0003675	protein	obsolete protein
+48556	48564	GO:0036268	swimming	swimming
+48695	48701	GO:0007611	memory	learning or memoryand
+49441	49453	GO:0032502	development.	developmental process
+49733	49743	GO:0009058	synthesis,	biosynthetic process
+49908	49920	GO:0009056	degradation,	catabolic process
+49933	49945	GO:0006909	phagocytosis	phagocytosis
+49933	49945	GO:0006909	phagocytosis	phagocytosis
+50340	50349	GO:0009058	formation	biosynthetic process
+50451	50462	GO:0032502	development	developmental process
+50834	50842	GO:0003823	antibody	antigen binding
+51227	51234	GO:0003675	protein	obsolete protein
+51653	51659	GO:0023052	signal	signaling
+52728	52733	GO:0019013	cored	viral nucleocapsid
+52728	52733	GO:0019013	cored	viral nucleocapsid
+53155	53159	GO:1990038	halo	Lewy body corona
+53707	53716	GO:0009058	Formation	biosynthetic process
+54109	54117	GO:0003823	antibody	antigen binding
+54294	54300	GO:0023052	signal	signaling
+54864	54873	GO:0009058	formation	biosynthetic process
+54864	54873	GO:0009058	formation	biosynthetic process
+56026	56033	GO:0003675	protein	obsolete protein
+56026	56033	GO:0003675	protein	obsolete protein
+56812	56824	GO:0032502	development,	developmental process
+58612	58617	GO:0007568	Aging	aging
+59422	59432	GO:0003823	antibodies	antigen binding
+59516	59525	GO:0003823	antibody,	antigen binding
+59554	59563	GO:0003823	antibody.	antigen binding
+59874	59879	GO:0007568	Aging	aging
+60542	60546	GO:0045101	GFAP	obsolete glial fibrillary acidic protein
+60573	60580	GO:0045098	protein	type III intermediate filamentfibrillary acidic
+60904	60912	GO:0003823	antibody	antigen binding
+60945	60952	GO:0003675	protein	obsolete protein
+60945	60952	GO:0003675	protein	obsolete protein
+60945	60952	GO:0003675	protein	obsolete protein
+61240	61244	GO:0031672	band	A band
+61398	61406	GO:0003823	antibody	antigen binding
+61454	61461	GO:0003675	protein	obsolete protein
+61563	61569	GO:0023052	signal	signaling
+63180	63189	GO:0009058	formation	biosynthetic process
+64798	64807	GO:0009058	synthesis	biosynthetic process
+65462	65470	GO:0003823	antibody	antigen binding
+65669	65675	GO:0023052	signal	signaling
+66718	66726	GO:0003823	antibody	antigen binding
+66817	66824	GO:0003675	protein	obsolete protein
+67210	67217	GO:0003675	protein	obsolete protein
+67210	67217	GO:0003675	protein	obsolete protein
+67312	67316	GO:0046930	pore	pore complex
+67382	67388	GO:0023052	signal	signaling
+67382	67388	GO:0023052	signal	signaling
+70902	70910	GO:0043005	neurites	neuron projection
+70902	70910	GO:0043005	neurites	neuron projection
+71012	71021	GO:0031386	ubiquitin	protein tag
+71069	71073	GO:1990038	halo	Lewy body corona
+71081	71087	GO:0019013	cored,	viral nucleocapsid
+71293	71297	GO:0045101	GFAP	obsolete glial fibrillary acidic protein

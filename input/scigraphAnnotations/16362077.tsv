@@ -1,0 +1,180 @@
+StartIndex	EndIndex	GO:ID	Term	OntoTerm
+126	133	GO:0007067	mitosis	mitotic nuclear division
+236	251	GO:0016070	RNA metabolism;	RNA metabolic process
+384	388	GO:0007568	Aged	aging
+719	724	GO:0005623	cells	cell
+1305	1331	GO:0045444	adipocyte differentiation.	fat cell differentiation
+1305	1330	GO:0045444	adipocyte differentiation	fat cell differentiation
+1664	1691	GO:0001649	osteoblast differentiation,	osteoblast differentiation
+1675	1691	GO:0048762	differentiation,	mesenchymal cell differentiationcell
+1805	1816	GO:0008152	metabolism,	metabolic process
+1820	1824	GO:0007568	aged	aging
+2250	2257	GO:0003675	protein	obsolete protein
+2371	2377	GO:0007568	aging.	aging
+2371	2376	GO:0007568	aging	aging
+2872	2883	GO:0008152	metabolism.	metabolic process
+3023	3044	GO:0001501	skeletal development,	skeletal system development
+3032	3043	GO:0032502	development	developmental process
+3339	3345	GO:0007568	aging,	aging
+3339	3344	GO:0007568	aging	aging
+3856	3872	GO:0060348	bone development	bone development
+4385	4394	GO:0097194	apoptosis	execution phase of apoptosis
+4634	4639	GO:0007568	Aging	aging
+5000	5015	GO:0006351	transcriptional	transcription, DNA-templated
+5016	5026	GO:0065007	regulatory	biological regulation
+5027	5035	GO:0003675	proteins	obsolete protein
+5027	5035	GO:0003675	proteins	obsolete protein
+5027	5034	GO:0003675	protein	obsolete protein
+5027	5034	GO:0003675	protein	obsolete protein
+5072	5085	GO:0001709	determination	cell fate determinationfate
+5072	5085	GO:0001709	determination	cell fate determinationfate
+5130	5140	GO:0005777	peroxisome	peroxisome
+5242	5249	GO:0016485	process	protein processingin this
+5660	5671	GO:0042552	myelination	myelination
+5752	5761	GO:0009058	formation	biosynthetic process
+6146	6153	GO:0007067	mitosis	mitotic nuclear division
+6955	6960	GO:0005623	cells	cell
+7322	7338	GO:0048762	differentiation.	mesenchymal cell differentiationcell
+7404	7415	GO:0008152	metabolism,	metabolic process
+7416	7429	GO:0031099	regeneration,	regeneration
+7448	7454	GO:0007568	aging.	aging
+7606	7613	GO:0003675	protein	obsolete protein
+7606	7613	GO:0003675	protein	obsolete protein
+7606	7613	GO:0003675	protein	obsolete protein
+7789	7798	GO:0003823	antibody,	antigen binding
+8085	8092	GO:0005634	nucleus	nucleus
+8096	8101	GO:0005623	cells	cell
+8647	8652	GO:0004617	serum	phosphoglycerate dehydrogenase activity
+8962	8973	GO:0032502	Development	developmental process
+9159	9170	GO:0003723	RNA binding	RNA binding
+9455	9463	GO:0003675	protein,	obsolete protein
+9527	9537	GO:0003823	antibodies	antigen binding
+9563	9568	GO:0004617	serum	phosphoglycerate dehydrogenase activity
+9655	9663	GO:0003823	antibody	antigen binding
+10208	10215	GO:0007067	mitosis	mitotic nuclear division
+10557	10567	GO:0008152	metabolism	metabolic process
+12684	12688	GO:0007568	Aged	aging
+12791	12795	GO:0007568	aged	aging
+13107	13115	GO:0035188	(hatched	hatching
+13108	13115	GO:0035188	hatched	hatching
+13947	13962	GO:0046849	Bone Remodeling	bone remodeling
+13979	13983	GO:0007568	Aged	aging
+14077	14081	GO:0007568	aged	aging
+14611	14616	GO:0005623	cells	cell
+15692	15697	GO:0005623	cells	cell
+15917	15922	GO:0004617	serum	phosphoglycerate dehydrogenase activity
+15917	15922	GO:0004617	serum	phosphoglycerate dehydrogenase activity
+16109	16114	GO:0004617	Serum	phosphoglycerate dehydrogenase activity
+17310	17336	GO:0001649	osteoblast differentiation	osteoblast differentiation
+17310	17336	GO:0001649	osteoblast differentiation	osteoblast differentiation
+17798	17806	GO:0005202	collagen	obsolete collagen
+18314	18339	GO:0045444	Adipocyte Differentiation	fat cell differentiation
+18353	18379	GO:0001649	Osteoblast Differentiation	osteoblast differentiation
+19019	19044	GO:0045444	adipocyte differentiation	fat cell differentiation
+19029	19045	GO:0045598	differentiation,	regulation of fat cell differentiationof adipocyte
+19248	19261	GO:0045444	adipogenesis.	fat cell differentiation
+19248	19261	GO:0045444	adipogenesis.	fat cell differentiation
+19248	19260	GO:0045444	adipogenesis	fat cell differentiation
+19262	19267	GO:0005623	Cells	cell
+19345	19357	GO:0045444	Adipogenesis	fat cell differentiation
+20000	20004	GO:0005623	cell	cell
+20085	20090	GO:0005623	cells	cell
+20085	20090	GO:0005623	cells	cell
+20085	20090	GO:0005623	cells	cell
+20132	20159	GO:0001649	osteoblast differentiation,	osteoblast differentiation
+20584	20610	GO:0001649	Osteoblast differentiation	osteoblast differentiation
+20913	20919	GO:0005623	cells,	cell
+21017	21033	GO:0009877	nodule formation	nodulation
+21543	21557	GO:0031214	mineralization	biomineral tissue development
+22062	22087	GO:0045444	adipocyte differentiation	fat cell differentiation
+22100	22126	GO:0001649	osteoblast differentiation	osteoblast differentiation
+22130	22135	GO:0007568	aging	aging
+22268	22273	GO:0005623	cells	cell
+22383	22387	GO:0007568	Aged	aging
+22637	22643	GO:0007568	aging.	aging
+22841	22868	GO:0001649	osteoblast differentiation.	osteoblast differentiation
+23065	23090	GO:0045444	adipocyte differentiation	fat cell differentiation
+23293	23300	GO:0003675	protein	obsolete protein
+23293	23300	GO:0003675	protein	obsolete protein
+23818	23823	GO:0007568	aging	aging
+23844	23849	GO:0005623	cells	cell
+24045	24066	GO:0001501	skeletal development.	skeletal system development
+24397	24408	GO:0032502	development	developmental process
+24493	24505	GO:0032502	development.	developmental process
+24963	24968	GO:0004617	Serum	phosphoglycerate dehydrogenase activity
+25001	25006	GO:0007568	aging	aging
+25077	25081	GO:0007568	aged	aging
+25557	25561	GO:0007568	aged	aging
+25743	25753	GO:0065007	regulatory	biological regulation
+25754	25762	GO:0003675	protein,	obsolete protein
+25920	25935	GO:0046849	bone remodeling	bone remodeling
+26407	26417	GO:0008152	metabolism	metabolic process
+26552	26567	GO:0045453	bone resorption	bone resorption
+27040	27055	GO:0048762	differentiation	mesenchymal cell differentiationcell
+27087	27092	GO:0005623	cells	cell
+27370	27374	GO:0007568	aged	aging
+27370	27374	GO:0007568	aged	aging
+27690	27716	GO:0045444	adipocyte differentiation,	fat cell differentiation
+27766	27793	GO:0001649	osteoblast differentiation.	osteoblast differentiation
+28229	28244	GO:0045453	bone resorption	bone resorption
+28498	28502	GO:0007568	aged	aging
+28498	28502	GO:0007568	aged	aging
+28775	28780	GO:0004617	serum	phosphoglycerate dehydrogenase activity
+28856	28866	GO:0008152	metabolism	metabolic process
+29075	29102	GO:0045444	adipocyte, differentiation.	fat cell differentiation
+29172	29182	GO:0008152	metabolism	metabolic process
+29221	29237	GO:0072497	differentiation.	mesenchymal stem cell differentiationstem cell
+29592	29597	GO:0007568	aging	aging
+30148	30156	GO:0003823	antibody	antigen binding
+32436	32442	GO:0005623	cells.	cell
+32436	32441	GO:0005623	cells	cell
+32765	32770	GO:0007618	mated	mating
+33923	33928	GO:0004617	serum	phosphoglycerate dehydrogenase activity
+35032	35037	GO:0004617	Serum	phosphoglycerate dehydrogenase activity
+35238	35243	GO:0004617	serum	phosphoglycerate dehydrogenase activity
+35908	35923	GO:0010467	gene expression	gene expression
+36120	36125	GO:0005623	cells	cell
+36120	36124	GO:0005623	cell	cell
+36120	36125	GO:0005623	cells	cell
+36942	36968	GO:0045444	adipocyte differentiation.	fat cell differentiation
+37097	37122	GO:0045444	adipocyte differentiation	fat cell differentiation
+37291	37303	GO:0045444	adipogenesis	fat cell differentiation
+37576	37591	GO:0006351	transcriptional	transcription, DNA-templated
+38617	38626	GO:0003823	antibody.	antigen binding
+38677	38683	GO:0005623	cells.	cell
+38734	38739	GO:0005623	cells	cell
+39043	39058	GO:0010467	gene expression	gene expression
+39163	39175	GO:0051179	Localization	localization
+39295	39310	GO:0010467	Gene Expression	gene expression
+39479	39484	GO:0004617	Serum	phosphoglycerate dehydrogenase activity
+40335	40345	GO:0005777	peroxisome	peroxisome
+40502	40514	GO:0051179	Localization	localization
+40730	40738	GO:0003823	antibody	antigen binding
+40956	40964	GO:0003823	antibody	antigen binding
+41336	41344	GO:0003823	antibody	antigen binding
+41444	41451	GO:0005634	nucleus	nucleus
+41455	41460	GO:0005623	cells	cell
+41524	41534	GO:0005737	cytoplasm.	cytoplasm
+42384	42391	GO:0003675	Protein	obsolete protein
+42446	42451	GO:0005623	cells	cell
+42505	42511	GO:0004617	serum,	phosphoglycerate dehydrogenase activity
+42527	42536	GO:0003823	antibody,	antigen binding
+42527	42535	GO:0003823	antibody	antigen binding
+42527	42535	GO:0003823	antibody	antigen binding
+42753	42763	GO:0003823	antibodies	antigen binding
+44528	44536	GO:0035188	(hatched	hatching
+44814	44821	GO:0035188	hatched	hatching
+45788	45815	GO:0001649	osteoblast differentiation.	osteoblast differentiation
+46377	46382	GO:0005623	cells	cell
+46377	46382	GO:0005623	cells	cell
+46402	46408	GO:0005634	nuclei	nucleus
+46676	46688	GO:0045444	Adipogenesis	fat cell differentiation
+46899	46924	GO:0045444	Adipocyte differentiation	fat cell differentiation
+47174	47178	GO:0005623	cell	cell
+47714	47719	GO:0005623	cells	cell
+47928	47935	GO:0003675	protein	obsolete protein
+47989	47997	GO:0003823	antibody	antigen binding
+48015	48025	GO:0003823	antibodies	antigen binding
+48220	48226	GO:0005623	cells,	cell
+48485	48496	GO:0032502	Development	developmental process
+48750	48764	GO:0031214	mineralization	biomineral tissue development

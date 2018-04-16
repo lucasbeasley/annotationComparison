@@ -1,0 +1,108 @@
+StartIndex	EndIndex	GO:ID	Term	OntoTerm
+203	212	GO:0019395	oxidation	fatty acid oxidationacid
+249	261	GO:0009405	pathogenesis	pathogenesis
+249	261	GO:0009405	pathogenesis	pathogenesis
+377	383	GO:0005623	cells.	cell
+504	512	GO:0033867	fasting.	Fas-activated serine/threonine kinase activity
+986	996	GO:0019395	oxidation.	fatty acid oxidationacid
+1113	1124	GO:0008152	metabolism.	metabolic process
+1151	1160	GO:0019395	oxidation	fatty acid oxidationacid
+1276	1283	GO:0033867	fasting	Fas-activated serine/threonine kinase activity
+1293	1302	GO:0008152	Metabolic	metabolic process
+2130	2139	GO:0019395	oxidation	fatty acid oxidationacid
+2190	2197	GO:0033867	fasting	Fas-activated serine/threonine kinase activity
+2241	2253	GO:0005739	mitochondria	mitochondrion
+2481	2488	GO:0003675	protein	obsolete protein
+2650	2658	GO:0005634	nucleus,	nucleus
+2677	2685	GO:0005829	cytosol,	cytosol
+2712	2732	GO:0005759	mitochondrial matrix	mitochondrial matrix
+2756	2777	GO:0005759	mitochondrial matrix,	mitochondrial matrix
+2862	2875	GO:0070991	MCAD activity	medium-chain-acyl-CoA dehydrogenase activity
+2913	2923	GO:0019395	oxidation.	fatty acid oxidationacid
+3361	3369	GO:0033867	fasting.	Fas-activated serine/threonine kinase activity
+3660	3672	GO:0009405	pathogenesis	pathogenesis
+3660	3672	GO:0009405	pathogenesis	pathogenesis
+3694	3703	GO:0008152	metabolic	metabolic process
+4134	4139	GO:0005623	cells	cell
+4531	4536	GO:0005623	cells	cell
+4779	4790	GO:0006412	Translation	translation
+4976	4987	GO:0006412	translation	translation
+5620	5625	GO:0005623	cells	cell
+5620	5624	GO:0005623	cell	cell
+5620	5624	GO:0005623	cell	cell
+5949	5953	GO:0005623	cell	cell
+5949	5953	GO:0005623	cell	cell
+6157	6161	GO:0031672	band	A band
+6157	6161	GO:0031672	band	A band
+7947	7954	GO:0045292	spliced	mRNA cis splicing, via spliceosome
+8291	8298	GO:0045292	spliced	mRNA cis splicing, via spliceosome
+9249	9256	GO:0003675	protein	obsolete protein
+9410	9418	GO:0003823	antibody	antigen binding
+9410	9418	GO:0003823	antibody	antigen binding
+9432	9441	GO:0003823	antibody.	antigen binding
+9489	9497	GO:0003675	protein.	obsolete protein
+9489	9496	GO:0003675	protein	obsolete protein
+9489	9496	GO:0003675	protein	obsolete protein
+9489	9496	GO:0003675	protein	obsolete protein
+9788	9798	GO:0003823	antibodies	antigen binding
+9845	9860	GO:0003824	Enzyme activity	catalytic activity
+9911	9929	GO:0006118	electron transport	obsolete electron transport
+11298	11305	GO:0007618	matings	mating
+11329	11337	GO:0007618	matings.	mating
+11329	11337	GO:0007618	matings.	mating
+11413	11420	GO:0033867	Fasting	Fas-activated serine/threonine kinase activity
+11485	11492	GO:0033867	fasting	Fas-activated serine/threonine kinase activity
+11527	11533	GO:0033867	fasted	Fas-activated serine/threonine kinase activity
+11591	11596	GO:0004617	serum	phosphoglycerate dehydrogenase activity
+11779	11785	GO:0033867	fasted	Fas-activated serine/threonine kinase activity
+12626	12632	GO:0033867	fasted	Fas-activated serine/threonine kinase activity
+13153	13158	GO:0004617	serum	phosphoglycerate dehydrogenase activity
+13153	13158	GO:0004617	serum	phosphoglycerate dehydrogenase activity
+13153	13158	GO:0004617	serum	phosphoglycerate dehydrogenase activity
+13817	13822	GO:0004617	Serum	phosphoglycerate dehydrogenase activity
+14526	14530	GO:0033867	fast	Fas-activated serine/threonine kinase activity
+14752	14758	GO:0033867	fasted	Fas-activated serine/threonine kinase activity
+15104	15109	GO:0033867	fast.	Fas-activated serine/threonine kinase activity
+15201	15206	GO:0033867	fast.	Fas-activated serine/threonine kinase activity
+15427	15435	GO:0001906	necrosis	cell killing
+15570	15578	GO:0001906	necrosis	cell killing
+15690	15701	GO:0016528	sarcoplasm,	sarcoplasm
+15717	15727	GO:0030016	myofibrils	myofibril
+15772	15778	GO:0005634	Nuclei	nucleus
+15822	15831	GO:0031982	vesicular	vesicle
+15850	15859	GO:0005730	nucleoli.	nucleolus
+17271	17284	GO:0070991	MCAD activity	medium-chain-acyl-CoA dehydrogenase activity
+17875	17880	GO:0016265	dying	death
+18019	18027	GO:0033867	fasting,	Fas-activated serine/threonine kinase activity
+18019	18026	GO:0033867	fasting	Fas-activated serine/threonine kinase activity
+18336	18344	GO:0033867	fasting.	Fas-activated serine/threonine kinase activity
+18614	18620	GO:0033867	fasted	Fas-activated serine/threonine kinase activity
+18719	18726	GO:0033867	fasting	Fas-activated serine/threonine kinase activity
+18898	18906	GO:0001906	necrosis	cell killing
+19190	19200	GO:0008152	metabolism	metabolic process
+19980	19986	GO:0016265	deaths	death
+19991	20002	GO:0007565	gestational	female pregnancy
+20186	20193	GO:0033867	fasting	Fas-activated serine/threonine kinase activity
+20380	20392	GO:0009405	pathogenesis	pathogenesis
+21794	21804	GO:0007586	digestion,	digestion
+21888	21893	GO:0005623	cells	cell
+21888	21892	GO:0005623	cell	cell
+23212	23233	GO:0001171	Reverse transcription	reverse transcription
+24919	24927	GO:0003675	protein.	obsolete protein
+24962	24969	GO:0003675	protein	obsolete protein
+24962	24969	GO:0003675	protein	obsolete protein
+25545	25552	GO:0003675	Protein	obsolete protein
+25659	25667	GO:0016020	membrane	membrane
+25659	25667	GO:0016020	membrane	membrane
+25900	25909	GO:0003823	antibody.	antigen binding
+25900	25908	GO:0003823	antibody	antigen binding
+26161	26177	GO:0003824	enzyme activity.	catalytic activity
+26200	26213	GO:0070991	MCAD activity	medium-chain-acyl-CoA dehydrogenase activity
+26485	26492	GO:0033867	Fasting	Fas-activated serine/threonine kinase activity
+26557	26563	GO:0033867	fasted	Fas-activated serine/threonine kinase activity
+26610	26616	GO:0004617	(serum	phosphoglycerate dehydrogenase activity
+26611	26616	GO:0004617	serum	phosphoglycerate dehydrogenase activity
+26747	26751	GO:0004617	sera	phosphoglycerate dehydrogenase activity
+29040	29044	GO:0019013	Core	viral nucleocapsid
+29292	29301	GO:0000496	base pair	base pairing
+29330	29348	GO:0006118	electron transport	obsolete electron transport

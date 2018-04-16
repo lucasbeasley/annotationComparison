@@ -1,0 +1,137 @@
+StartIndex	EndIndex	GO:ID	Term	OntoTerm
+15	24	GO:0023052	signaling	signaling
+96	105	GO:0097194	apoptosis	execution phase of apoptosis
+453	462	GO:0023052	signaling	signaling
+453	462	GO:0023052	signaling	signaling
+513	525	GO:0014032	development,	neural crest cell developmentcrest cell
+723	732	GO:0023052	signaling	signaling
+881	893	GO:0032502	development,	developmental process
+1016	1026	GO:0001755	migration,	neural crest cell migrationcrest cell
+1201	1210	GO:0023052	signaling	signaling
+1317	1329	GO:0032502	development.	developmental process
+1748	1757	GO:0009058	formation	biosynthetic process
+2251	2262	GO:0032502	development	developmental process
+2251	2262	GO:0032502	development	developmental process
+2719	2726	GO:0023052	signals	signaling
+2926	2934	GO:0023052	signals.	signaling
+3182	3191	GO:0009058	formation	biosynthetic process
+3457	3467	GO:0000917	septation,	barrier septum assembly
+3522	3529	GO:0005488	ligands	binding
+3530	3536	GO:0023052	signal	signaling
+3543	3559	GO:0043235	receptor complex	receptor complex
+3628	3634	GO:0005488	Ligand	binding
+3635	3642	GO:0005488	binding	binding
+3635	3639	GO:0005488	bind	binding
+3635	3639	GO:0005488	bind	binding
+3635	3639	GO:0005488	bind	binding
+3635	3639	GO:0005488	bind	binding
+3635	3642	GO:0005488	binding	binding
+3652	3667	GO:0016310	phosphorylation	phosphorylation
+3776	3785	GO:0023052	signaling	signaling
+3776	3785	GO:0023052	signaling	signaling
+3776	3785	GO:0023052	signaling	signaling
+4163	4172	GO:0009058	formation	biosynthetic process
+4324	4332	GO:0005488	ligands,	binding
+4409	4415	GO:0040007	growth	growth
+4471	4478	GO:0016915	Activin	obsolete activin
+4601	4605	GO:0005623	cell	cell
+5429	5438	GO:0000917	septation	barrier septum assembly
+5870	5893	GO:0060465	pharyngeal development.	pharynx development
+6610	6620	GO:0007565	gestation,	female pregnancy
+6846	6857	GO:0032502	development	developmental process
+7055	7060	GO:0043198	trunk	dendritic shaft
+7055	7061	GO:0043198	trunk,	dendritic shaft
+7055	7060	GO:0043198	trunk	dendritic shaft
+7943	7949	GO:0007114	budded	cell budding
+8566	8579	GO:0009653	morphogenesis	anatomical structure morphogenesis
+9014	9021	GO:0030428	septum.	cell septum
+9014	9020	GO:0030428	septum	cell septum
+9594	9606	GO:0032502	development,	developmental process
+9757	9766	GO:0023052	signaling	signaling
+13322	13327	GO:0005623	cells	cell
+14206	14215	GO:0000917	Septation	barrier septum assembly
+14557	14563	GO:0030428	septum	cell septum
+14623	14632	GO:0000917	septation	barrier septum assembly
+14623	14632	GO:0000917	septation	barrier septum assembly
+14623	14632	GO:0000917	septation	barrier septum assembly
+15374	15380	GO:0030428	septal	cell septum
+15374	15380	GO:0030428	septal	cell septum
+15593	15608	GO:0051145	differentiation	smooth muscle cell differentiationmuscle cell
+15941	15946	GO:0005623	cells	cell
+16654	16661	GO:0030428	septum.	cell septum
+17004	17013	GO:0023052	signaling	signaling
+17233	17242	GO:0009058	formation	biosynthetic process
+17253	17260	GO:0030428	septum,	cell septum
+17787	17796	GO:0023052	Signaling	signaling
+17863	17873	GO:0000917	septation.	barrier septum assembly
+18315	18321	GO:0030428	septal	cell septum
+18688	18698	GO:0097194	apoptosis,	execution phase of apoptosis
+18688	18697	GO:0097194	apoptosis	execution phase of apoptosis
+18688	18697	GO:0097194	apoptosis	execution phase of apoptosis
+18890	18895	GO:0005623	cells	cell
+18890	18895	GO:0005623	cells	cell
+18890	18895	GO:0005623	cells	cell
+18890	18895	GO:0005623	cells	cell
+18890	18895	GO:0005623	cells	cell
+18966	18972	GO:0030428	septum	cell septum
+19284	19293	GO:0097194	apoptotic	execution phase of apoptosis
+19747	19756	GO:0000917	septation	barrier septum assembly
+19820	19829	GO:0097194	apoptosis	execution phase of apoptosis
+20292	20301	GO:0097194	apoptotic	execution phase of apoptosis
+20292	20301	GO:0097194	apoptotic	execution phase of apoptosis
+20302	20307	GO:0005623	cells	cell
+20302	20307	GO:0005623	cells	cell
+20536	20545	GO:0097194	apoptosis	execution phase of apoptosis
+20695	20705	GO:0023052	signaling,	signaling
+20795	20800	GO:0005623	cells	cell
+20940	20951	GO:0032502	development	developmental process
+21393	21397	GO:0044326	neck	dendritic spine neck
+21393	21397	GO:0044326	neck	dendritic spine neck
+21726	21738	GO:0032502	development,	developmental process
+22660	22665	GO:0005623	cells	cell
+23888	23895	GO:0005488	binding	binding
+24340	24349	GO:0000917	septation	barrier septum assembly
+24764	24773	GO:0097194	apoptosis	execution phase of apoptosis
+24889	24899	GO:0008219	cell death	cell death
+24999	25008	GO:0023052	signaling	signaling
+24999	25008	GO:0023052	signaling	signaling
+25073	25090	GO:0043235	receptor complex,	receptor complex
+25137	25145	GO:0005488	ligands,	binding
+25421	25427	GO:0040007	growth	growth
+25848	25862	GO:0009653	morphogenesis.	anatomical structure morphogenesis
+25888	25897	GO:0097194	apoptosis	execution phase of apoptosis
+25888	25897	GO:0097194	apoptosis	execution phase of apoptosis
+25943	25949	GO:0030428	septum	cell septum
+25943	25949	GO:0030428	septum	cell septum
+25943	25949	GO:0030428	septum	cell septum
+26182	26192	GO:0008219	cell death	cell death
+26265	26270	GO:0005623	cells	cell
+26265	26270	GO:0005623	cells	cell
+26265	26270	GO:0005623	cells	cell
+26536	26547	GO:0008219	cell death.	cell death
+26757	26766	GO:0023052	signaling	signaling
+26757	26763	GO:0023052	signal	signaling
+26813	26818	GO:0005623	cells	cell
+26970	26976	GO:0030428	septum	cell septum
+27460	27470	GO:0005694	chromosome	chromosome
+27875	27880	GO:0016265	death	death
+28605	28610	GO:0005623	cells	cell
+28605	28610	GO:0005623	cells	cell
+29499	29505	GO:0030428	septal	cell septum
+29499	29505	GO:0030428	septal	cell septum
+29499	29505	GO:0030428	septal	cell septum
+29499	29505	GO:0030428	septal	cell septum
+29916	29932	GO:0051145	differentiation,	smooth muscle cell differentiationmuscle cell
+30095	30099	GO:0005623	cell	cell
+30095	30099	GO:0005623	cell	cell
+30201	30210	GO:0023052	signaling	signaling
+30201	30210	GO:0023052	signaling	signaling
+30561	30568	GO:0005488	ligands	binding
+30595	30607	GO:0032502	development.	developmental process
+30698	30704	GO:0007618	mating	mating
+31227	31232	GO:0007618	mated	mating
+32147	32152	GO:0005623	(Cell	cell
+32147	32152	GO:0005623	(Cell	cell
+32153	32163	GO:0023052	Signaling)	signaling
+32153	32163	GO:0023052	Signaling)	signaling
+32201	32212	GO:0003823	antibodies.	antigen binding

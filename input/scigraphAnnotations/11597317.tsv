@@ -1,0 +1,79 @@
+StartIndex	EndIndex	GO:ID	Term	OntoTerm
+156	167	GO:0006281	DNA repair.	DNA repair
+261	285	GO:0000725	(recombinational) repair	recombinational repair
+428	451	GO:0000725	recombinational repair.	recombinational repair
+1000	1005	GO:0005623	Cells	cell
+1024	1031	GO:0003675	protein	obsolete protein
+1024	1031	GO:0003675	protein	obsolete protein
+1024	1031	GO:0003675	protein	obsolete protein
+1424	1434	GO:0006281	DNA repair	DNA repair
+1667	1689	GO:0000725	recombinational repair	recombinational repair
+1667	1689	GO:0000725	recombinational repair	recombinational repair
+1759	1766	GO:0051320	S phase	S phase
+1910	1914	GO:0005623	Cell	cell
+2041	2045	GO:0005623	cell	cell
+2408	2413	GO:0005623	Cells	cell
+2526	2534	GO:0003675	proteins	obsolete protein
+2556	2565	GO:0009058	formation	biosynthetic process
+2729	2734	GO:0005623	cells	cell
+2980	2986	GO:0005623	cells,	cell
+3059	3082	GO:0000725	recombinational repair.	recombinational repair
+3230	3235	GO:0005623	cells	cell
+3479	3488	GO:0003675	protein),	obsolete protein
+3589	3598	GO:0000496	base pair	base pairing
+3901	3916	GO:0035822	gene conversion	gene conversion
+4115	4119	GO:0005623	cell	cell
+4261	4266	GO:0005623	cells	cell
+4261	4266	GO:0005623	cells	cell
+4261	4265	GO:0005623	cell	cell
+4261	4266	GO:0005623	cells	cell
+4261	4265	GO:0005623	cell	cell
+4261	4266	GO:0005623	cells	cell
+4288	4295	GO:0003675	protein	obsolete protein
+4288	4295	GO:0003675	protein	obsolete protein
+5064	5086	GO:0000725	recombinational repair	recombinational repair
+5276	5298	GO:0000725	recombinational repair	recombinational repair
+5276	5298	GO:0000725	recombinational repair	recombinational repair
+5276	5298	GO:0000725	recombinational repair	recombinational repair
+5321	5326	GO:0005623	cells	cell
+5321	5325	GO:0005623	cell	cell
+5321	5326	GO:0005623	cells	cell
+5321	5325	GO:0005623	cell	cell
+5321	5326	GO:0005623	cells	cell
+5482	5489	GO:0003675	protein	obsolete protein
+7419	7429	GO:0006281	DNA repair	DNA repair
+7543	7548	GO:0005623	cells	cell
+7543	7548	GO:0005623	cells	cell
+7543	7548	GO:0005623	cells	cell
+7879	7890	GO:0003677	DNA binding	DNA binding
+8189	8196	GO:0003675	protein	obsolete protein
+8460	8472	GO:0051179	localization	localization
+8460	8472	GO:0051179	localization	localization
+8506	8512	GO:0005623	cells,	cell
+8506	8511	GO:0005623	cells	cell
+8506	8511	GO:0005623	cells	cell
+8642	8649	GO:0003675	protein	obsolete protein
+8642	8649	GO:0003675	protein	obsolete protein
+8701	8711	GO:0005737	cytoplasm,	cytoplasm
+8701	8710	GO:0005737	cytoplasm	cytoplasm
+8953	8960	GO:0005634	nucleus	nucleus
+8964	8971	GO:0005488	binding	binding
+9055	9065	GO:0006810	transport,	transport
+9116	9125	GO:0051235	sequester	maintenance of location
+9161	9171	GO:0006810	transport.	transport
+9957	9964	GO:0005488	binding	binding
+9957	9964	GO:0005488	binding	binding
+10073	10083	GO:0065007	regulatory	biological regulation
+10388	10404	GO:0006260	DNA replication.	DNA replication
+10448	10470	GO:0000725	recombinational repair	recombinational repair
+10802	10809	GO:0003675	protein	obsolete protein
+10943	10949	GO:0000724	repair	double-strand break repair via homologous recombinationrecombinational
+11026	11034	GO:0003675	proteins	obsolete protein
+12031	12054	GO:0000725	recombinational repair.	recombinational repair
+12031	12054	GO:0000725	recombinational repair.	recombinational repair
+12148	12160	GO:0006810	transporting	transport
+12174	12182	GO:0005634	nucleus.	nucleus
+12815	12823	GO:0003675	protein;	obsolete protein
+12925	12950	GO:0000724	homology-directed repair.	double-strand break repair via homologous recombination
+13082	13097	GO:0035822	gene conversion	gene conversion
+13082	13097	GO:0035822	gene conversion	gene conversion

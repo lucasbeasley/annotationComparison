@@ -1,0 +1,457 @@
+StartIndex	EndIndex	GO:ID	Term	OntoTerm
+23	51	GO:0070828	Heterochromatin Organization	heterochromatin organization
+111	123	GO:0032502	development,	developmental process
+111	123	GO:0032502	development,	developmental process
+124	133	GO:0000785	chromatin	chromatin
+252	270	GO:0031497	chromatin assembly	chromatin assembly
+252	270	GO:0031497	chromatin assembly	chromatin assembly
+667	687	GO:0006997	nuclear organization	nucleus organization
+704	720	GO:0000792	heterochromatin.	heterochromatin
+704	719	GO:0000792	heterochromatin	heterochromatin
+704	719	GO:0000792	heterochromatin	heterochromatin
+704	719	GO:0000792	heterochromatin	heterochromatin
+704	719	GO:0000792	heterochromatin	heterochromatin
+768	791	GO:1990343	heterochromatin domains	heterochromatin domain
+1181	1186	GO:0005623	cells	cell
+1181	1186	GO:0005623	cells	cell
+1217	1233	GO:0016246	RNA interference	RNA interference
+1308	1335	GO:0005721	pericentric heterochromatin	pericentric heterochromatin
+1427	1446	GO:0016571	histone methylation	histone methylation
+1469	1497	GO:0005721	pericentric heterochromatin.	pericentric heterochromatin
+1703	1731	GO:0070828	heterochromatin organization	heterochromatin organization
+1963	1972	GO:0000785	Chromatin	chromatin
+2065	2077	GO:0000786	nucleosomes,	nucleosome
+2065	2076	GO:0000786	nucleosomes	nucleosome
+2065	2077	GO:0000786	nucleosomes,	nucleosome
+2065	2076	GO:0000786	nucleosomes	nucleosome
+2106	2110	GO:0019013	core	viral nucleocapsid
+2122	2145	GO:0036211	proteins. Modifications	protein modification process
+2231	2241	GO:0065007	regulation	biological regulation
+2336	2350	GO:0051301	cell divisions	cell division
+2381	2391	GO:0000785	chromatin,	chromatin
+2513	2531	GO:0031497	chromatin assembly	chromatin assembly
+2513	2531	GO:0031497	chromatin assembly	chromatin assembly
+3014	3025	GO:0005694	chromosomes	chromosome
+3033	3041	GO:0005634	nucleus.	nucleus
+3129	3140	GO:0070827	maintenance	chromatin maintenancein the
+3234	3246	GO:0032502	development,	developmental process
+3234	3246	GO:0032502	development,	developmental process
+3234	3245	GO:0032502	development	developmental process
+3234	3245	GO:0032502	development	developmental process
+3234	3245	GO:0032502	development	developmental process
+3328	3344	GO:0010467	gene expression,	gene expression
+3475	3490	GO:0006306	DNA methylation	DNA methylation
+3559	3568	GO:0000785	chromatin	chromatin
+3695	3713	GO:0043486	histone chaperones	histone exchange
+3695	3713	GO:0043486	histone chaperones	histone exchange
+3695	3712	GO:0043486	histone chaperone	histone exchange
+3762	3767	GO:0005623	cells	cell
+3762	3767	GO:0005623	cells	cell
+3867	3876	GO:0016585	complexes	obsolete chromatin remodeling complexremodeling
+3904	3923	GO:0006334	nucleosome assembly	nucleosome assembly
+3986	4004	GO:0031497	chromatin assembly	chromatin assembly
+3986	4004	GO:0031497	chromatin assembly	chromatin assembly
+4052	4071	GO:0043486	histone chaperones,	histone exchange
+4249	4259	GO:0006281	DNA repair	DNA repair
+4330	4340	GO:0000785	chromatin,	chromatin
+4365	4379	GO:0071897	DNA synthesis,	DNA biosynthetic process
+4365	4378	GO:0071897	DNA synthesis	DNA biosynthetic process
+4397	4415	GO:0043486	histone chaperone,	histone exchange
+4607	4615	GO:0003675	proteins	obsolete protein
+4607	4614	GO:0003675	protein	obsolete protein
+4627	4643	GO:0000792	heterochromatin,	heterochromatin
+4627	4642	GO:0000792	heterochromatin	heterochromatin
+4698	4716	GO:0008327	methyl-CpG binding	methyl-CpG binding
+4807	4817	GO:0008469	activities	histone-arginine N-methyltransferase activitymethyltransferase
+4941	4968	GO:0005721	pericentric heterochromatin	pericentric heterochromatin
+4985	4992	GO:0051320	S phase	S phase
+5057	5066	GO:0009058	formation	biosynthetic process
+5385	5391	GO:0005623	cells.	cell
+5385	5391	GO:0005623	cells.	cell
+5525	5541	GO:0016246	RNA interference	RNA interference
+5542	5549	GO:0016246	(RNAi).	RNA interference
+5731	5754	GO:1990343	heterochromatin domains	heterochromatin domain
+5826	5831	GO:0005623	cells	cell
+5826	5831	GO:0005623	cells	cell
+5826	5831	GO:0005623	cells	cell
+6934	6941	GO:0003675	protein	obsolete protein
+6934	6941	GO:0003675	protein	obsolete protein
+7082	7096	GO:0051301	cell divisions	cell division
+7157	7177	GO:0006997	nuclear organization	nucleus organization
+7157	7177	GO:0006997	nuclear organization	nucleus organization
+7181	7196	GO:0000792	heterochromatin	heterochromatin
+7181	7196	GO:0000792	heterochromatin	heterochromatin
+7181	7196	GO:0000792	heterochromatin	heterochromatin
+7181	7196	GO:0000792	heterochromatin	heterochromatin
+7181	7196	GO:0000792	heterochromatin	heterochromatin
+7187	7196	GO:0000785	chromatin	chromatin
+7187	7196	GO:0000785	chromatin	chromatin
+7222	7228	GO:0005634	nuclei	nucleus
+7222	7228	GO:0005634	nuclei	nucleus
+7222	7228	GO:0005634	nuclei	nucleus
+7251	7279	GO:0005721	Pericentric heterochromatin,	pericentric heterochromatin
+7263	7279	GO:0000792	heterochromatin,	heterochromatin
+7361	7371	GO:0051325	interphase	interphase
+7501	7528	GO:0005721	pericentric heterochromatin	pericentric heterochromatin
+7604	7617	GO:0010369	chromocenters	chromocenter
+7945	7973	GO:0070828	heterochromatin organization	heterochromatin organization
+7945	7973	GO:0070828	heterochromatin organization	heterochromatin organization
+8137	8146	GO:0005730	nucleolar	nucleolus
+8177	8200	GO:1990343	Heterochromatin domains	heterochromatin domain
+8315	8327	GO:0051179	Localization	localization
+8315	8327	GO:0051179	Localization	localization
+8549	8561	GO:0032502	development,	developmental process
+8549	8561	GO:0032502	development,	developmental process
+8786	8794	GO:0005634	nucleus,	nucleus
+8837	8845	GO:0005730	nucleoli	nucleolus
+8837	8845	GO:0005730	nucleoli	nucleolus
+8989	9007	GO:0034399	nuclear periphery,	nuclear periphery
+9345	9352	GO:0003675	protein	obsolete protein
+9534	9540	GO:0005623	cells,	cell
+9534	9539	GO:0005623	cells	cell
+9534	9539	GO:0005623	cells	cell
+9534	9539	GO:0005623	cells	cell
+9534	9539	GO:0005623	cells	cell
+9534	9539	GO:0005623	cells	cell
+9534	9539	GO:0005623	cells	cell
+9744	9748	GO:0016246	RNAi	RNA interference
+10052	10060	GO:0005730	nucleoli	nucleolus
+10089	10096	GO:0005634	nucleus	nucleus
+10164	10184	GO:0006997	nuclear organization	nucleus organization
+10188	10203	GO:0000792	heterochromatin	heterochromatin
+10327	10355	GO:0070828	heterochromatin organization	heterochromatin organization
+10327	10355	GO:0070828	heterochromatin organization	heterochromatin organization
+10435	10440	GO:0016246	RNAi.	RNA interference
+10509	10522	GO:0008285	proliferation	negative regulation of cell proliferationof cell
+10579	10602	GO:1990343	heterochromatin domains	heterochromatin domain
+10801	10807	GO:0005623	cells.	cell
+10858	10863	GO:0005623	cells	cell
+10858	10863	GO:0005623	cells	cell
+10858	10863	GO:0005623	cells	cell
+10889	10904	GO:0000792	heterochromatin	heterochromatin
+10889	10904	GO:0000792	heterochromatin	heterochromatin
+10895	10904	GO:0000785	chromatin	chromatin
+10981	11001	GO:0006997	nuclear organization	nucleus organization
+11039	11047	GO:0003823	antibody	antigen binding
+11089	11096	GO:0003675	protein	obsolete protein
+11134	11141	GO:0016605	bodies,	PML bodynuclear
+11134	11140	GO:0016605	bodies	PML bodynuclear
+11585	11593	GO:0003675	proteins	obsolete protein
+11821	11825	GO:0005623	cell	cell
+11875	11882	GO:0051320	S phase	S phase
+11955	11959	GO:0016246	RNAi	RNA interference
+11987	11992	GO:0005623	cells	cell
+11987	11992	GO:0005623	cells	cell
+11987	11992	GO:0005623	cells	cell
+12039	12046	GO:0023052	signal)	signaling
+12179	12183	GO:0003892	PCNA	obsolete proliferating cell nuclear antigen
+12212	12220	GO:0003892	antigen)	obsolete proliferating cell nuclear antigencell nuclear
+12299	12305	GO:0005623	cells,	cell
+12306	12321	GO:0006260	DNA replication	DNA replication
+12362	12391	GO:0070828	heterochromatin organization.	heterochromatin organization
+12362	12377	GO:0000792	heterochromatin	heterochromatin
+12506	12523	GO:0042995	cellular process,	cell projection
+12690	12697	GO:0005634	nucleus	nucleus
+12725	12735	GO:0007049	cell cycle	cell cycle
+12799	12828	GO:0070828	heterochromatin organization,	heterochromatin organization
+12972	12992	GO:0098687	chromosomal regions,	chromosomal region
+13136	13147	GO:0005694	chromosomes	chromosome
+13136	13147	GO:0005694	chromosomes	chromosome
+13247	13257	GO:0051325	interphase	interphase
+13258	13265	GO:0005634	nucleus	nucleus
+13258	13265	GO:0005634	nucleus	nucleus
+13405	13411	GO:0005623	cells,	cell
+13405	13410	GO:0005623	cells	cell
+13405	13410	GO:0005623	cells	cell
+13405	13411	GO:0005623	cells,	cell
+13440	13467	GO:0005721	pericentric heterochromatin	pericentric heterochromatin
+13440	13467	GO:0005721	pericentric heterochromatin	pericentric heterochromatin
+13440	13467	GO:0005721	pericentric heterochromatin	pericentric heterochromatin
+13781	13799	GO:0034399	nuclear periphery,	nuclear periphery
+14074	14081	GO:0023052	signals	signaling
+14595	14608	GO:0071897	DNA synthesis	DNA biosynthetic process
+14666	14688	GO:0006325	chromatin organization	chromatin organization
+14666	14675	GO:0000785	chromatin	chromatin
+14666	14675	GO:0000785	chromatin	chromatin
+14666	14675	GO:0000785	chromatin	chromatin
+14747	14754	GO:0004530	DNase I	deoxyribonuclease I activity
+14886	14891	GO:0005623	cells	cell
+14886	14891	GO:0005623	cells	cell
+14886	14891	GO:0005623	cells	cell
+15063	15069	GO:0005634	nuclei	nucleus
+15129	15133	GO:0016246	RNAi	RNA interference
+15151	15157	GO:0005634	Nuclei	nucleus
+15478	15505	GO:0005721	pericentric heterochromatin	pericentric heterochromatin
+15626	15638	GO:0051179	localization	localization
+15714	15720	GO:0005623	cells.	cell
+15714	15719	GO:0005623	cells	cell
+15714	15718	GO:0005623	cell	cell
+15714	15718	GO:0005623	cell	cell
+15714	15719	GO:0005623	cells	cell
+15714	15718	GO:0005623	cell	cell
+15813	15841	GO:0005721	pericentric heterochromatin.	pericentric heterochromatin
+15813	15841	GO:0005721	pericentric heterochromatin.	pericentric heterochromatin
+15831	15840	GO:0000785	chromatin	chromatin
+15831	15840	GO:0000785	chromatin	chromatin
+15866	15877	GO:0032259	methylation	methylation
+16048	16052	GO:0016246	RNAi	RNA interference
+16048	16052	GO:0016246	RNAi	RNA interference
+16093	16108	GO:0006306	DNA methylation	DNA methylation
+16093	16108	GO:0006306	DNA methylation	DNA methylation
+16265	16288	GO:1990343	heterochromatin domains	heterochromatin domain
+16314	16320	GO:0005623	cells,	cell
+16314	16320	GO:0005623	cells,	cell
+16437	16465	GO:0070828	heterochromatin organization	heterochromatin organization
+16582	16603	GO:0016570	histone modifications	histone modification
+16796	16806	GO:0003823	antibodies	antigen binding
+17350	17378	GO:0005721	pericentric heterochromatin,	pericentric heterochromatin
+17570	17576	GO:0005623	cells,	cell
+17570	17576	GO:0005623	cells,	cell
+17570	17575	GO:0005623	cells	cell
+17570	17575	GO:0005623	cells	cell
+17606	17613	GO:0023052	signals	signaling
+17606	17612	GO:0023052	signal	signaling
+18224	18239	GO:0000792	heterochromatin	heterochromatin
+18394	18407	GO:0009793	embryogenesis	embryo development ending in seed dormancy
+18418	18424	GO:0005623	cells.	cell
+18418	18422	GO:0005623	cell	cell
+18418	18424	GO:0005623	cells.	cell
+18418	18424	GO:0005623	cells.	cell
+18418	18422	GO:0005623	cell	cell
+18418	18423	GO:0005623	cells	cell
+18418	18423	GO:0005623	cells	cell
+18418	18424	GO:0005623	cells.	cell
+18496	18511	GO:0006260	DNA replication	DNA replication
+18496	18511	GO:0006260	DNA replication	DNA replication
+18496	18511	GO:0006260	DNA replication	DNA replication
+18592	18606	GO:0051301	cell divisions	cell division
+18592	18605	GO:0051301	cell division	cell division
+18631	18642	GO:0032502	development	developmental process
+18631	18642	GO:0032502	development	developmental process
+18801	18821	GO:0006997	nuclear organization	nucleus organization
+18801	18821	GO:0006997	nuclear organization	nucleus organization
+18801	18821	GO:0006997	nuclear organization	nucleus organization
+18825	18848	GO:1990343	heterochromatin domains	heterochromatin domain
+18825	18840	GO:0000792	heterochromatin	heterochromatin
+18825	18840	GO:0000792	heterochromatin	heterochromatin
+18825	18840	GO:0000792	heterochromatin	heterochromatin
+18831	18840	GO:0000785	chromatin	chromatin
+18831	18840	GO:0000785	chromatin	chromatin
+18929	18935	GO:0005623	cells,	cell
+18929	18935	GO:0005623	cells,	cell
+18929	18935	GO:0005623	cells,	cell
+18929	18935	GO:0005623	cells,	cell
+18929	18935	GO:0005623	cells,	cell
+19046	19074	GO:0070828	heterochromatin organization	heterochromatin organization
+19046	19074	GO:0070828	heterochromatin organization	heterochromatin organization
+19046	19074	GO:0070828	heterochromatin organization	heterochromatin organization
+19133	19143	GO:0016605	PML bodies	PML body
+19150	19162	GO:0005634	cell nuclei,	nucleus
+19301	19312	GO:0008219	cell death.	cell death
+19306	19311	GO:0016265	death	death
+19349	19378	GO:0070828	heterochromatin organization,	heterochromatin organization
+19577	19590	GO:0051179	localization,	localization
+20071	20079	GO:0003675	proteins	obsolete protein
+20101	20105	GO:0005488	bind	binding
+20709	20721	GO:0010369	chromocenter	chromocenter
+21137	21164	GO:0005721	pericentric heterochromatin	pericentric heterochromatin
+21630	21645	GO:0000792	heterochromatin	heterochromatin
+21630	21645	GO:0000792	heterochromatin	heterochromatin
+21630	21645	GO:0000792	heterochromatin	heterochromatin
+21630	21645	GO:0000792	heterochromatin	heterochromatin
+21630	21645	GO:0000792	heterochromatin	heterochromatin
+21636	21645	GO:0000785	chromatin	chromatin
+21636	21645	GO:0000785	chromatin	chromatin
+21636	21645	GO:0000785	chromatin	chromatin
+21636	21645	GO:0000785	chromatin	chromatin
+22412	22432	GO:0006997	nuclear organization	nucleus organization
+22412	22432	GO:0006997	nuclear organization	nucleus organization
+22436	22463	GO:0005721	pericentric heterochromatin	pericentric heterochromatin
+22482	22488	GO:0005623	cells.	cell
+22482	22488	GO:0005623	cells.	cell
+22820	22843	GO:1990343	heterochromatin domains	heterochromatin domain
+22930	22946	GO:0000792	heterochromatin,	heterochromatin
+23056	23071	GO:0006260	DNA replication	DNA replication
+23248	23256	GO:0003675	protein,	obsolete protein
+23350	23365	GO:0000792	heterochromatin	heterochromatin
+23350	23365	GO:0000792	heterochromatin	heterochromatin
+23350	23365	GO:0000792	heterochromatin	heterochromatin
+23350	23365	GO:0000792	heterochromatin	heterochromatin
+23356	23365	GO:0000785	chromatin	chromatin
+23426	23446	GO:0006997	nuclear organization	nucleus organization
+23426	23446	GO:0006997	nuclear organization	nucleus organization
+23426	23446	GO:0006997	nuclear organization	nucleus organization
+23584	23595	GO:0005634	cell nuclei	nucleus
+23853	23881	GO:0070828	heterochromatin organization	heterochromatin organization
+23935	23941	GO:0005623	cells,	cell
+23949	23960	GO:0032502	development	developmental process
+24113	24127	GO:0051301	cell divisions	cell division
+24210	24225	GO:0010467	gene expression	gene expression
+24210	24225	GO:0010467	gene expression	gene expression
+24340	24354	GO:0009793	embryogenesis.	embryo development ending in seed dormancy
+24487	24493	GO:0005623	cells.	cell
+24536	24551	GO:0006306	DNA methylation	DNA methylation
+24627	24645	GO:0031497	chromatin assembly	chromatin assembly
+24696	24708	GO:0000786	nucleosomes,	nucleosome
+24762	24785	GO:1990343	heterochromatin domains	heterochromatin domain
+25153	25158	GO:0005623	cells	cell
+25153	25158	GO:0005623	cells	cell
+25153	25158	GO:0005623	cells	cell
+26004	26009	GO:0016246	RNAi.	RNA interference
+26016	26020	GO:0016246	RNAi	RNA interference
+26016	26020	GO:0016246	RNAi	RNA interference
+26284	26289	GO:0005623	cells	cell
+26284	26289	GO:0005623	cells	cell
+26284	26289	GO:0005623	cells	cell
+26284	26289	GO:0005623	cells	cell
+26284	26289	GO:0005623	cells	cell
+26284	26289	GO:0005623	cells	cell
+26324	26330	GO:0005623	cells,	cell
+26574	26590	GO:0006401	RNA degradation.	RNA catabolic process
+27199	27203	GO:0016246	RNAi	RNA interference
+27335	27340	GO:0005623	Cells	cell
+27436	27440	GO:0005623	Cell	cell
+27457	27462	GO:0005623	cells	cell
+27457	27462	GO:0005623	cells	cell
+27457	27461	GO:0005623	cell	cell
+27551	27555	GO:0016246	RNAi	RNA interference
+27667	27673	GO:0005623	cells,	cell
+27799	27804	GO:0005623	Cells	cell
+27993	28008	GO:0035805	zona pellucida,	egg coat
+28096	28102	GO:0005623	cells.	cell
+28103	28113	GO:0003823	Antibodies	antigen binding
+28103	28113	GO:0003823	Antibodies	antigen binding
+28522	28532	GO:0003823	antibodies	antigen binding
+28635	28640	GO:0005623	Cells	cell
+28722	28732	GO:0003823	antibodies	antigen binding
+29045	29056	GO:0006412	translation	translation
+29298	29304	GO:0005634	Nuclei	nucleus
+29327	29337	GO:0007586	digestion,	digestion
+29366	29376	GO:0000785	chromatin.	chromatin
+29381	29386	GO:0005623	cells	cell
+29584	29590	GO:0005634	Nuclei	nucleus
+29832	29838	GO:0005634	nuclei	nucleus
+29832	29838	GO:0005634	nuclei	nucleus
+29910	29917	GO:0004530	DNase I	deoxyribonuclease I activity
+29935	29944	GO:0007586	Digestion	digestion
+29994	30002	GO:0004530	DNase I.	deoxyribonuclease I activity
+30003	30013	GO:0007586	Digestions	digestion
+30088	30098	GO:0004196	proteinase	obsolete saccharopepsin activity
+30101	30110	GO:0007586	digestion	digestion
+30226	30235	GO:0000785	chromatin	chromatin
+30265	30271	GO:0005623	cells,	cell
+30592	30600	GO:0003823	antibody	antigen binding
+30637	30646	GO:0000785	chromatin	chromatin
+30637	30646	GO:0000785	chromatin	chromatin
+30671	30682	GO:0000786	nucleosomes	nucleosome
+30780	30791	GO:0003823	antibodies.	antigen binding
+30961	30968	GO:0023052	signals	signaling
+31062	31072	GO:0003823	Antibodies	antigen binding
+31062	31072	GO:0003823	Antibodies	antigen binding
+31637	31641	GO:0016246	RNAi	RNA interference
+31700	31705	GO:0005623	cells	cell
+31700	31705	GO:0005623	cells	cell
+31758	31762	GO:0016246	RNAi	RNA interference
+31975	31980	GO:0005623	cells	cell
+32080	32088	GO:0003823	antibody	antigen binding
+32190	32197	GO:0005634	nucleus	nucleus
+32264	32269	GO:0016246	RNAi.	RNA interference
+32405	32409	GO:0016246	RNAi	RNA interference
+32486	32490	GO:0005623	cell	cell
+32518	32523	GO:0005623	cells	cell
+32706	32721	GO:0006260	DNA Replication	DNA replication
+32748	32763	GO:0000792	Heterochromatin	heterochromatin
+32891	32895	GO:0016246	RNAi	RNA interference
+33338	33342	GO:0005623	cell	cell
+33431	33437	GO:0005623	cells;	cell
+33464	33473	GO:0003823	antibody;	antigen binding
+33747	33756	GO:0000785	chromatin	chromatin
+33956	33960	GO:0003892	PCNA	obsolete proliferating cell nuclear antigen
+33990	33997	GO:0003892	antigen	obsolete proliferating cell nuclear antigencell nuclear
+34029	34033	GO:0016246	RNAi	RNA interference
+34036	34052	GO:0016246	RNA interference	RNA interference
+34196	34224	GO:0070828	Heterochromatin Organization	heterochromatin organization
+34293	34299	GO:0005623	cells.	cell
+34293	34298	GO:0005623	cells	cell
+34329	34336	GO:0003675	protein	obsolete protein
+35377	35385	GO:0051320	S phase,	S phase
+35410	35415	GO:0005623	cells	cell
+35827	35834	GO:0005634	nucleus	nucleus
+35827	35834	GO:0005634	nucleus	nucleus
+35918	35933	GO:0000792	heterochromatin	heterochromatin
+36153	36171	GO:0034399	nuclear periphery,	nuclear periphery
+36191	36220	GO:0070828	heterochromatin organization.	heterochromatin organization
+36309	36316	GO:0005623	cells),	cell
+36309	36316	GO:0005623	cells),	cell
+36309	36316	GO:0005623	cells),	cell
+36309	36316	GO:0005623	cells),	cell
+36309	36315	GO:0005623	cells)	cell
+36400	36415	GO:0000792	Heterochromatin	heterochromatin
+36531	36538	GO:0005634	nucleus	nucleus
+36531	36538	GO:0005634	nucleus	nucleus
+36632	36637	GO:0005623	cell.	cell
+36706	36711	GO:0005623	Cells	cell
+36746	36774	GO:0070828	Heterochromatin Organization	heterochromatin organization
+36818	36822	GO:0016246	RNAi	RNA interference
+36829	36835	GO:0005623	cells.	cell
+36829	36834	GO:0005623	cells	cell
+37063	37091	GO:0070828	heterochromatin organization	heterochromatin organization
+37117	37123	GO:0005623	cells.	cell
+37117	37122	GO:0005623	cells	cell
+37417	37445	GO:0070828	Heterochromatin organization	heterochromatin organization
+37699	37709	GO:0016605	PML bodies	PML body
+37751	37757	GO:0005623	cells.	cell
+37751	37756	GO:0005623	cells	cell
+37986	38014	GO:0070828	Heterochromatin Organization	heterochromatin organization
+38042	38057	GO:0006260	DNA Replication	DNA replication
+38064	38069	GO:0005623	Cells	cell
+38078	38083	GO:0005623	cells	cell
+38078	38083	GO:0005623	cells	cell
+38362	38368	GO:0005623	cells.	cell
+38494	38498	GO:0003892	PCNA	obsolete proliferating cell nuclear antigen
+38494	38498	GO:0003892	PCNA	obsolete proliferating cell nuclear antigen
+38547	38556	GO:0009058	formation	biosynthetic process
+38619	38625	GO:0005623	cells.	cell
+38833	38839	GO:0005623	cells.	cell
+38833	38838	GO:0005623	cells	cell
+38910	38920	GO:0007049	cell cycle	cell cycle
+39239	39252	GO:0051179	Localization,	localization
+39275	39302	GO:0005721	Pericentric Heterochromatin	pericentric heterochromatin
+39394	39404	GO:0051325	interphase	interphase
+39405	39411	GO:0005634	nuclei	nucleus
+39424	39429	GO:0005623	cells	cell
+39619	39630	GO:0005694	chromosomes	chromosome
+39666	39679	GO:0010369	chromocenters	chromocenter
+39909	39917	GO:0023052	signals.	signaling
+40044	40058	GO:0010369	chromocenters,	chromocenter
+40179	40197	GO:0034399	nuclear periphery.	nuclear periphery
+40233	40239	GO:0005623	cells.	cell
+40307	40314	GO:0005634	nucleus	nucleus
+40407	40420	GO:0010369	chromocenters	chromocenter
+40479	40484	GO:0005623	cells	cell
+40479	40484	GO:0005623	cells	cell
+40601	40608	GO:0023052	signals	signaling
+40799	40811	GO:0010369	chromocenter	chromocenter
+40799	40811	GO:0010369	chromocenter	chromocenter
+40971	40976	GO:0005623	Cells	cell
+40978	40984	GO:0005634	Nuclei	nucleus
+40978	40984	GO:0005634	Nuclei	nucleus
+41007	41012	GO:0005623	cells	cell
+41113	41120	GO:0004530	DNase I	deoxyribonuclease I activity
+41141	41150	GO:0007586	digestion	digestion
+41338	41347	GO:0016020	membrane,	membrane
+41456	41467	GO:0032259	Methylation	methylation
+41471	41498	GO:0005721	Pericentric Heterochromatin	pericentric heterochromatin
+41539	41544	GO:0005623	Cells	cell
+41574	41579	GO:0005623	cells	cell
+41893	41920	GO:0005721	Pericentric Heterochromatin	pericentric heterochromatin
+41943	41948	GO:0005623	Cells	cell
+42015	42043	GO:0005721	pericentric heterochromatin.	pericentric heterochromatin
+42183	42189	GO:0005623	cells.	cell
+42377	42384	GO:0023052	signals	signaling
+42453	42461	GO:0016020	membrane	membrane
+42453	42461	GO:0016020	membrane	membrane
+42709	42714	GO:0005623	cells	cell
+42756	42762	GO:0005623	cells.	cell
+42957	42963	GO:0005623	cells.	cell
+42957	42963	GO:0005623	cells.	cell

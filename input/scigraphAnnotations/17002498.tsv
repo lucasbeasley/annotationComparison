@@ -1,0 +1,190 @@
+StartIndex	EndIndex	GO:ID	Term	OntoTerm
+56	67	GO:0032502	Development	developmental process
+102	118	GO:0008181	tumor suppressor	obsolete tumor suppressor
+190	197	GO:0016055	pathway	Wnt signaling pathwaysignaling
+218	229	GO:0032502	development	developmental process
+218	229	GO:0032502	development	developmental process
+460	465	GO:0007618	mated	mating
+743	749	GO:0040007	growth	growth
+743	749	GO:0040007	growth	growth
+1024	1034	GO:0036074	metaplasia	metaplastic ossification
+1385	1397	GO:0032502	development.	developmental process
+1611	1627	GO:0008181	tumor suppressor	obsolete tumor suppressor
+1954	1960	GO:0048513	organs	organ developmentand in
+1995	2006	GO:0032502	development	developmental process
+2160	2165	GO:0007618	mated	mating
+2801	2808	GO:0016055	pathway	Wnt signaling pathwaysignaling
+2905	2915	GO:0065007	regulation	biological regulation
+2905	2915	GO:0065007	regulation	biological regulation
+3005	3014	GO:0005829	cytosolic	cytosol
+3073	3080	GO:0005634	nucleus	nucleus
+3196	3205	GO:0003675	proteins,	obsolete protein
+3267	3274	GO:0003777	kinesin	microtubule motor activity
+3332	3345	GO:0005874	microtubules,	microtubule
+3606	3611	GO:0051726	cycle	regulation of cell cycleof the cell
+3616	3626	GO:0097194	apoptosis,	execution phase of apoptosis
+3663	3672	GO:0098722	division,	asymmetric stem cell divisionstem cell
+3688	3705	GO:0030010	cell polarization	establishment of cell polarity
+3723	3739	GO:0008181	tumor suppressor	obsolete tumor suppressor
+4632	4655	GO:0032502	developmental processes	developmental process
+4632	4643	GO:0032502	development	developmental process
+4632	4643	GO:0032502	development	developmental process
+4632	4643	GO:0032502	development	developmental process
+4705	4715	GO:0065007	regulation	biological regulation
+4723	4732	GO:0023052	signaling	signaling
+4754	4763	GO:0009880	formation	embryonic pattern specificationpattern
+4768	4781	GO:0009653	morphogenesis	anatomical structure morphogenesis
+5331	5345	GO:0009793	embryogenesis,	embryo development ending in seed dormancy
+5391	5403	GO:0007369	gastrulation	gastrulation
+5585	5589	GO:0007618	mate	mating
+5685	5689	GO:0005623	cell	cell
+5876	5881	GO:0007618	mated	mating
+6004	6008	GO:0005623	cell	cell
+6128	6139	GO:0032502	development	developmental process
+6394	6406	GO:0032502	development,	developmental process
+6449	6459	GO:0065007	regulation	biological regulation
+6615	6626	GO:0032502	development	developmental process
+6783	6788	GO:0005623	cells	cell
+7097	7112	GO:0006351	transcriptional	transcription, DNA-templated
+8159	8167	GO:0003675	protein.	obsolete protein
+8881	8886	GO:0016265	death	death
+8969	8981	GO:0032502	development.	developmental process
+9047	9060	GO:0006351	transcription	transcription, DNA-templated
+9065	9076	GO:0006412	translation	translation
+12584	12589	GO:0007568	ages,	aging
+12721	12733	GO:0043473	pigmentation	pigmentation
+13064	13070	GO:0040007	Growth	growth
+13563	13574	GO:0032502	Development	developmental process
+14372	14383	GO:0042640	hair growth	anagen
+14600	14605	GO:0016265	death	death
+17517	17528	GO:0032502	development	developmental process
+18020	18026	GO:0005623	cells.	cell
+18020	18025	GO:0005623	cells	cell
+18067	18078	GO:0009844	germinative	obsolete germination
+18268	18274	GO:0042640	anagen	anagen
+18288	18298	GO:0042633	hair cycle	hair cycle
+19336	19345	GO:0051438	regulator	regulation of ubiquitin-protein transferase activityis a
+19385	19395	GO:0023052	signaling.	signaling
+19520	19537	GO:0005912	adherens junction	adherens junction
+20012	20036	GO:0048468	terminal differentiation	cell development
+20336	20348	GO:0051179	localization	localization
+20603	20608	GO:0005623	cells	cell
+20603	20608	GO:0005623	cells	cell
+20603	20608	GO:0005623	cells	cell
+20603	20608	GO:0005623	cells	cell
+20668	20679	GO:0009844	germinative	obsolete germination
+20906	20913	GO:0007114	budding	cell budding
+20906	20913	GO:0007114	budding	cell budding
+21064	21070	GO:0005623	cells.	cell
+21064	21070	GO:0005623	cells.	cell
+21438	21450	GO:0051179	localization	localization
+21438	21450	GO:0051179	localization	localization
+21492	21501	GO:0005829	cytosolic	cytosol
+21492	21501	GO:0005829	cytosolic	cytosol
+21659	21665	GO:0005623	cells,	cell
+21659	21665	GO:0005623	cells,	cell
+22011	22024	GO:0031069	morphogenesis	hair follicle morphogenesisfollicle
+22011	22024	GO:0031069	morphogenesis	hair follicle morphogenesisfollicle
+22011	22024	GO:0031069	morphogenesis	hair follicle morphogenesisfollicle
+22431	22443	GO:0032502	development,	developmental process
+23110	23119	GO:0009058	formation	biosynthetic process
+23854	23878	GO:0048468	terminal differentiation	cell development
+23966	23979	GO:0031069	morphogenesis	hair follicle morphogenesisfollicle
+23966	23979	GO:0031069	morphogenesis	hair follicle morphogenesisfollicle
+24250	24261	GO:0032502	development	developmental process
+24353	24363	GO:0009058	formation.	biosynthetic process
+24353	24362	GO:0009058	formation	biosynthetic process
+24428	24445	GO:0042475	Tooth development	odontogenesis of dentin-containing tooth
+25142	25147	GO:0005623	cells	cell
+25553	25563	GO:0036074	metaplasia	metaplastic ossification
+25620	25633	GO:0031069	morphogenesis	hair follicle morphogenesisfollicle
+25856	25867	GO:0032502	development	developmental process
+26336	26340	GO:0007568	ages	aging
+27856	27860	GO:0043336	rest	site-specific telomere resolvase activity
+28568	28573	GO:0005623	cells	cell
+28568	28573	GO:0005623	cells	cell
+28568	28573	GO:0005623	cells	cell
+28568	28573	GO:0005623	cells	cell
+28844	28856	GO:0051179	Localization	localization
+28934	28946	GO:0051179	localization	localization
+29275	29280	GO:0005623	cells	cell
+29275	29280	GO:0005623	cells	cell
+30042	30047	GO:0005623	cells	cell
+30042	30047	GO:0005623	cells	cell
+30042	30047	GO:0005623	cells	cell
+30146	30149	GO:0007569	age	cell agingand at this
+30884	30896	GO:0051179	localization	localization
+31544	31555	GO:0036074	metaplasia,	metaplastic ossification
+31784	31791	GO:0016055	pathway	Wnt signaling pathwaysignaling
+31817	31828	GO:0032502	development	developmental process
+32585	32598	GO:0007369	gastrulation.	gastrulation
+33427	33440	GO:0031069	Morphogenesis	hair follicle morphogenesisFollicle
+33474	33485	GO:0001942	development	hair follicle developmentfollicle
+33474	33485	GO:0032502	development	developmental process
+33773	33782	GO:0023052	signaling	signaling
+33773	33782	GO:0023052	signaling	signaling
+33773	33782	GO:0023052	signaling	signaling
+33783	33790	GO:0016055	pathway	Wnt signaling pathwaysignaling
+33854	33861	GO:0023052	signal.	signaling
+34504	34517	GO:0009653	morphogenesis	anatomical structure morphogenesis
+34504	34517	GO:0031069	morphogenesis	hair follicle morphogenesisfollicle
+34716	34726	GO:0009058	formation,	biosynthetic process
+34716	34726	GO:0009058	formation,	biosynthetic process
+34800	34805	GO:0005623	cells	cell
+34800	34805	GO:0005623	cells	cell
+35048	35054	GO:0040007	growth	growth
+36452	36467	GO:0006351	transcriptional	transcription, DNA-templated
+36591	36604	GO:0009793	embryogenesis	embryo development ending in seed dormancy
+37423	37429	GO:0005623	cells,	cell
+38058	38071	GO:0001709	determination	cell fate determinationfate
+38488	38502	GO:0031069	morphogenesis,	hair follicle morphogenesisfollicle
+38533	38542	GO:0009058	formation	biosynthetic process
+38533	38542	GO:0009058	formation	biosynthetic process
+38898	38916	GO:0042475	tooth development,	odontogenesis of dentin-containing tooth
+38904	38915	GO:0032502	development	developmental process
+38904	38915	GO:0032502	development	developmental process
+39949	39955	GO:0016265	death,	death
+40476	40489	GO:0048513	Organogenesis	organ development
+40594	40604	GO:0036074	metaplasia	metaplastic ossification
+40620	40629	GO:0009058	formation	biosynthetic process
+41859	41864	GO:0005623	cells	cell
+41859	41864	GO:0005623	cells	cell
+41859	41864	GO:0005623	cells	cell
+42528	42540	GO:0051179	localization	localization
+42528	42540	GO:0051179	localization	localization
+43744	43756	GO:0032502	development.	developmental process
+43744	43755	GO:0032502	development	developmental process
+44232	44250	GO:0048538	thymus development	thymus development
+45018	45022	GO:0005623	cell	cell
+45040	45053	GO:0009653	morphogenesis	anatomical structure morphogenesis
+45229	45239	GO:0065007	regulation	biological regulation
+45924	45929	GO:0005623	cells	cell
+46016	46022	GO:0005623	cells,	cell
+46016	46021	GO:0005623	cells	cell
+46016	46020	GO:0005623	cell	cell
+49577	49583	GO:0010445	bodies	nuclear dicing bodyThe
+50964	50970	GO:0016265	death.	death
+51159	51163	GO:0007568	ages	aging
+51709	51713	GO:0019013	Core	viral nucleocapsid
+52170	52180	GO:0003823	antibodies	antigen binding
+52170	52180	GO:0003823	antibodies	antigen binding
+52212	52222	GO:0003823	Antibodies	antigen binding
+52247	52259	GO:0009293	Transduction	transduction
+53755	53764	GO:0033561	function.	regulation of water loss via skinbarrier
+53777	53790	GO:0043473	pigmentations	pigmentation
+54336	54341	GO:0005623	cells	cell
+54664	54671	GO:0003777	kinesin	microtubule motor activity
+55967	55975	GO:0003675	protein,	obsolete protein
+56275	56279	GO:0031672	band	A band
+56275	56279	GO:0031672	band	A band
+56437	56443	GO:0031672	band).	A band
+57687	57693	GO:0040007	Growth	growth
+57803	57808	GO:0007568	aged,	aging
+58151	58162	GO:0032502	development	developmental process
+59100	59114	GO:0009653	morphogenesis,	anatomical structure morphogenesis
+59132	59141	GO:0009058	formation	biosynthetic process
+59514	59523	GO:0005829	cytosolic	cytosol
+59524	59536	GO:0051179	localization	localization
+59570	59576	GO:0005623	cells.	cell
+60218	60235	GO:0007389	pattern formation	pattern specification process
+60919	60926	GO:0007618	Matings	mating

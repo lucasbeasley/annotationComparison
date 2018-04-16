@@ -1,0 +1,234 @@
+StartIndex	EndIndex	GO:ID	Term	OntoTerm
+13	22	GO:0023052	Signaling	signaling
+431	446	GO:0010467	gene expression	gene expression
+512	522	GO:0065007	regulatory	biological regulation
+1040	1049	GO:0023052	signaling	signaling
+1040	1049	GO:0023052	signaling	signaling
+1040	1049	GO:0023052	signaling	signaling
+1040	1049	GO:0023052	signaling	signaling
+1059	1071	GO:0032502	development.	developmental process
+1059	1070	GO:0032502	development	developmental process
+1059	1070	GO:0032502	development	developmental process
+1133	1146	GO:0009793	embryogenesis	embryo development ending in seed dormancy
+2882	2891	GO:0009058	formation	biosynthetic process
+2906	2920	GO:0009793	embryogenesis,	embryo development ending in seed dormancy
+2942	2946	GO:0005623	cell	cell
+2942	2946	GO:0005623	cell	cell
+2942	2946	GO:0005623	cell	cell
+3047	3052	GO:0012501	death	programmed cell deathcell
+3327	3332	GO:0005623	cells	cell
+3580	3598	GO:0007165	signaling pathways	signal transduction
+3644	3654	GO:0009058	formation.	biosynthetic process
+3644	3654	GO:0009058	formation.	biosynthetic process
+3644	3653	GO:0009058	formation	biosynthetic process
+3644	3653	GO:0009058	formation	biosynthetic process
+3644	3653	GO:0009058	formation	biosynthetic process
+4782	4800	GO:0007165	signaling pathways	signal transduction
+4782	4791	GO:0023052	signaling	signaling
+5016	5027	GO:0032502	development	developmental process
+5185	5189	GO:0005488	bind	binding
+5185	5189	GO:0005488	bind	binding
+5241	5254	GO:0044214	transmembrane	spanning component of plasma membrane
+5295	5307	GO:0036122	BMP binding,	BMP binding
+5336	5342	GO:0023052	signal	signaling
+5813	5825	GO:0032502	development.	developmental process
+6337	6346	GO:0009058	formation	biosynthetic process
+6337	6346	GO:0009058	formation	biosynthetic process
+6536	6548	GO:0007369	gastrulation	gastrulation
+6981	6990	GO:0009058	formation	biosynthetic process
+6981	6990	GO:0009058	formation	biosynthetic process
+7654	7659	GO:0012501	death	programmed cell deathcell
+8099	8108	GO:0023052	signaling	signaling
+8219	8226	GO:0030509	pathway	BMP signaling pathwaysignaling
+8340	8351	GO:0032502	Development	developmental process
+8452	8464	GO:0032502	development,	developmental process
+8452	8463	GO:0032502	development	developmental process
+8659	8669	GO:0009058	formation.	biosynthetic process
+9107	9127	GO:0000150	recombinase activity	recombinase activity
+9234	9249	GO:0006351	transcriptional	transcription, DNA-templated
+9942	9959	GO:0006310	DNA recombination	DNA recombination
+10133	10145	GO:0032502	development.	developmental process
+10133	10144	GO:0032502	development	developmental process
+10133	10144	GO:0032502	development	developmental process
+10133	10145	GO:0032502	development.	developmental process
+10133	10144	GO:0032502	development	developmental process
+10384	10394	GO:0009058	formation,	biosynthetic process
+10384	10394	GO:0009058	formation,	biosynthetic process
+11134	11139	GO:0005623	cells	cell
+11134	11139	GO:0005623	cells	cell
+12763	12769	GO:0016049	growth	cell growthin the
+13368	13379	GO:0032502	development	developmental process
+13893	13902	GO:0023052	signaling	signaling
+13923	13935	GO:0032502	development.	developmental process
+15061	15070	GO:0023052	signaling	signaling
+15099	15105	GO:0040007	growth	growth
+15338	15347	GO:0051235	retention	maintenance of location
+16322	16331	GO:0009058	formation	biosynthetic process
+16563	16572	GO:0097194	apoptosis	execution phase of apoptosis
+16590	16602	GO:0032502	development,	developmental process
+16890	16899	GO:0051235	retention	maintenance of location
+17843	17848	GO:0016265	dying	death
+17849	17854	GO:0005623	cells	cell
+17849	17854	GO:0005623	cells	cell
+17849	17854	GO:0005623	cells	cell
+17849	17854	GO:0005623	cells	cell
+18253	18262	GO:0023052	signaling	signaling
+18286	18291	GO:0012501	death	programmed cell deathcell
+18399	18409	GO:0023052	signaling.	signaling
+18434	18443	GO:0009058	Formation	biosynthetic process
+19155	19164	GO:0009058	formation	biosynthetic process
+19205	19213	GO:0005202	collagen	obsolete collagen
+19214	19221	GO:0003675	protein	obsolete protein
+19718	19730	GO:0035282	segmentation	segmentation
+19771	19783	GO:0032502	development,	developmental process
+19954	19966	GO:0035282	segmentation	segmentation
+20135	20145	GO:0008219	cell death	cell death
+20149	20167	GO:0008283	cell proliferation	cell proliferation
+20807	20820	GO:0005203	proteoglycans	obsolete proteoglycan
+20874	20879	GO:0005623	cells	cell
+20998	21006	GO:0003675	proteins	obsolete protein
+21093	21102	GO:0097194	apoptosis	execution phase of apoptosis
+21186	21191	GO:0005623	cells	cell
+21432	21445	GO:0006351	transcription	transcription, DNA-templated
+21802	21817	GO:0010467	gene expression	gene expression
+21879	21888	GO:0009058	formation	biosynthetic process
+22238	22243	GO:0005623	cells	cell
+22238	22243	GO:0005623	cells	cell
+22238	22243	GO:0005623	cells	cell
+22238	22243	GO:0005623	cells	cell
+22238	22242	GO:0005623	cell	cell
+22590	22598	GO:0005202	Collagen	obsolete collagen
+22590	22598	GO:0005202	Collagen	obsolete collagen
+22590	22598	GO:0005202	Collagen	obsolete collagen
+22705	22714	GO:0023052	signaling	signaling
+22705	22714	GO:0023052	signaling	signaling
+23903	23923	GO:0031012	extracellular matrix	extracellular matrix
+23967	23982	GO:0006351	transcriptional	transcription, DNA-templated
+24217	24224	GO:0003675	protein	obsolete protein
+25250	25255	GO:0005623	cells	cell
+25302	25314	GO:0001503	ossification	ossification
+25584	25590	GO:0023052	signal	signaling
+25980	25984	GO:0005623	cell	cell
+26195	26208	GO:0006954	inflammation.	inflammatory response
+26316	26327	GO:0032502	development	developmental process
+26348	26358	GO:0023052	signaling,	signaling
+27622	27631	GO:0009058	formation	biosynthetic process
+28163	28168	GO:0005623	cells	cell
+28822	28827	GO:0005623	cells	cell
+28822	28827	GO:0005623	cells	cell
+28822	28827	GO:0005623	cells	cell
+29132	29138	GO:0005623	cells,	cell
+29702	29716	GO:0001503	bone formation	ossification
+29812	29821	GO:0023052	signaling	signaling
+30615	30631	GO:0010467	gene expression,	gene expression
+30810	30819	GO:0023052	signaling	signaling
+30911	30925	GO:0009793	embryogenesis,	embryo development ending in seed dormancy
+30976	30981	GO:0016265	death	death
+31190	31211	GO:0001501	skeletal development.	skeletal system development
+31343	31352	GO:0009058	formation	biosynthetic process
+31530	31539	GO:0023052	signaling	signaling
+31530	31539	GO:0023052	signaling	signaling
+31560	31569	GO:0097194	apoptosis	execution phase of apoptosis
+31560	31569	GO:0097194	apoptosis	execution phase of apoptosis
+31577	31588	GO:0032502	development	developmental process
+31674	31681	GO:0030509	pathway	BMP signaling pathwaysignaling
+31963	31970	GO:0023052	signal.	signaling
+32058	32068	GO:0009058	formation,	biosynthetic process
+32058	32067	GO:0009058	formation	biosynthetic process
+32058	32067	GO:0009058	formation	biosynthetic process
+32178	32185	GO:0005488	ligands	binding
+32551	32560	GO:0023052	signaling	signaling
+32829	32838	GO:0023052	signaling	signaling
+33259	33274	GO:0010467	gene expression	gene expression
+33380	33387	GO:0003675	protein	obsolete protein
+33529	33538	GO:0009058	formation	biosynthetic process
+33598	33606	GO:0003675	protein,	obsolete protein
+33702	33708	GO:0005623	cells.	cell
+33817	33829	GO:0032502	development.	developmental process
+33885	33900	GO:0010467	gene expression	gene expression
+34106	34115	GO:0023052	signaling	signaling
+34985	34994	GO:0009058	synthesis	biosynthetic process
+35015	35029	GO:0005203	proteoglycans.	obsolete proteoglycan
+35456	35480	GO:0006468	protein phosphorylation,	protein phosphorylation
+35464	35479	GO:0016310	phosphorylation	phosphorylation
+35515	35524	GO:0003675	proteins,	obsolete protein
+35666	35675	GO:0009058	formation	biosynthetic process
+35899	35914	GO:0010467	gene expression	gene expression
+35970	35979	GO:0023052	signaling	signaling
+35970	35976	GO:0023052	signal	signaling
+35970	35979	GO:0023052	signaling	signaling
+36045	36058	GO:0043687	modification,	post-translational protein modificationprotein
+37228	37238	GO:0023052	signaling,	signaling
+37228	37237	GO:0023052	signaling	signaling
+37744	37763	GO:0051216	cartilage formation	cartilage development
+38065	38072	GO:0005488	ligands	binding
+38416	38427	GO:0032502	development	developmental process
+38525	38534	GO:0023052	signaling	signaling
+38525	38534	GO:0023052	signaling	signaling
+39179	39197	GO:0098687	chromosome regions	chromosomal region
+39179	39197	GO:0098687	chromosome regions	chromosomal region
+39179	39189	GO:0005694	chromosome	chromosome
+39179	39189	GO:0005694	chromosome	chromosome
+39179	39189	GO:0005694	chromosome	chromosome
+39469	39477	GO:0030509	pathway,	BMP signaling pathwaysignaling
+40042	40053	GO:0032502	Development	developmental process
+40228	40240	GO:0032502	development.	developmental process
+40299	40314	GO:0010467	gene expression	gene expression
+40761	40773	GO:0032502	development,	developmental process
+41435	41442	GO:0003675	protein	obsolete protein
+41639	41650	GO:0006412	translation	translation
+43718	43728	GO:0045120	pronucleus	pronucleus
+44234	44241	GO:0007618	Matings	mating
+44886	44891	GO:0007618	mated	mating
+45074	45082	GO:0007618	matings.	mating
+46325	46335	GO:0008219	Cell death	cell death
+46561	46571	GO:0008219	Cell Death	cell death
+46716	46722	GO:0004617	serum,	phosphoglycerate dehydrogenase activity
+46809	46817	GO:0003823	antibody	antigen binding
+46809	46817	GO:0003823	antibody	antigen binding
+46825	46832	GO:0007067	Mitosis	mitotic nuclear division
+46914	46919	GO:0005623	cells	cell
+46914	46919	GO:0005623	cells	cell
+46923	46931	GO:0007067	mitosis.	mitotic nuclear division
+46998	47007	GO:0003823	antibody.	antigen binding
+47008	47019	GO:0005634	Cell nuclei	nucleus
+47013	47019	GO:0005634	nuclei	nucleus
+48188	48192	GO:0007568	aged	aging
+48586	48590	GO:0033867	Fast	Fas-activated serine/threonine kinase activity
+48586	48590	GO:0033867	Fast	Fas-activated serine/threonine kinase activity
+49189	49199	GO:0004196	proteinase	obsolete saccharopepsin activity
+49258	49269	GO:0032502	development	developmental process
+50482	50488	GO:0004617	serum,	phosphoglycerate dehydrogenase activity
+50482	50487	GO:0004617	serum	phosphoglycerate dehydrogenase activity
+50530	50540	GO:0003823	antibodies	antigen binding
+50530	50540	GO:0003823	antibodies	antigen binding
+50530	50540	GO:0003823	antibodies	antigen binding
+51423	51434	GO:0003823	antibodies;	antigen binding
+52319	52339	GO:0031012	extracellular matrix	extracellular matrix
+54375	54380	GO:0005623	cells	cell
+54480	54489	GO:0097194	Apoptosis	execution phase of apoptosis
+55071	55086	GO:0016310	phosphorylation	phosphorylation
+55236	55243	GO:0007067	mitotic	mitotic nuclear division
+55244	55249	GO:0005623	cells	cell
+55334	55341	GO:0007067	mitotic	mitotic nuclear division
+55342	55347	GO:0005623	cells	cell
+55681	55686	GO:0005623	cells	cell
+56737	56746	GO:0009058	Formation	biosynthetic process
+57332	57347	GO:0010467	gene expression	gene expression
+57598	57603	GO:0005623	cells	cell
+57687	57696	GO:0009058	formation	biosynthetic process
+59050	59055	GO:0005623	cells	cell
+59050	59055	GO:0005623	cells	cell
+59783	59787	GO:0005623	cell	cell
+59783	59788	GO:0005623	cells	cell
+59783	59788	GO:0005623	cells	cell
+60298	60307	GO:0009058	formation	biosynthetic process
+60298	60307	GO:0009058	formation	biosynthetic process
+60528	60537	GO:0023052	Signaling	signaling
+60620	60625	GO:0007568	Aging	aging
+60838	60843	GO:0005623	cells	cell
+60838	60843	GO:0005623	cells	cell
+61513	61518	GO:0005623	cells	cell
+61513	61518	GO:0005623	cells	cell
+61513	61517	GO:0005623	cell	cell
+61513	61518	GO:0005623	cells	cell

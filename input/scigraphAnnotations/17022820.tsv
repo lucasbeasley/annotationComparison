@@ -1,0 +1,124 @@
+StartIndex	EndIndex	GO:ID	Term	OntoTerm
+42	52	GO:0007599	hemostasis	hemostasis
+487	498	GO:0007599	hemostasis.	hemostasis
+487	497	GO:0007599	hemostasis	hemostasis
+642	653	GO:0005694	chromosomes	chromosome
+763	774	GO:0007599	hemostasis.	hemostasis
+999	1010	GO:0007599	hemostasis,	hemostasis
+1090	1100	GO:0005694	chromosome	chromosome
+1127	1138	GO:0005694	chromosomes	chromosome
+1457	1468	GO:0050817	Coagulation	coagulation
+1518	1526	GO:0005202	collagen	obsolete collagen
+1579	1589	GO:0005694	chromosome	chromosome
+1579	1589	GO:0005694	chromosome	chromosome
+1756	1767	GO:0005694	chromosomes	chromosome
+2068	2079	GO:0007599	haemostasis	hemostasis
+2137	2147	GO:0005694	chromosome	chromosome
+2813	2822	GO:0009058	formation	biosynthetic process
+2813	2822	GO:0009058	formation	biosynthetic process
+3205	3216	GO:0050817	coagulation	coagulation
+3873	3878	GO:0019835	lysis	cytolysis
+4558	4562	GO:0050817	Clot	coagulation
+4563	4572	GO:0009058	formation	biosynthetic process
+4577	4583	GO:0019835	lysis,	cytolysis
+4632	4653	GO:0070527	platelet aggregation,	platelet aggregation
+4654	4666	GO:0050817	coagulation,	coagulation
+4937	4948	GO:0005694	chromosome,	chromosome
+5237	5247	GO:0005694	chromosome	chromosome
+5237	5247	GO:0005694	chromosome	chromosome
+5515	5526	GO:0005694	chromosome.	chromosome
+5515	5526	GO:0005694	chromosome.	chromosome
+6046	6054	GO:0007610	behavior	behavior
+6410	6421	GO:0050817	coagulation	coagulation
+6410	6421	GO:0050817	coagulation	coagulation
+6426	6439	GO:0042730	fibrinolysis.	fibrinolysis
+6588	6609	GO:0070527	platelet aggregation.	platelet aggregation
+6911	6922	GO:0007599	haemostasis	hemostasis
+8040	8048	GO:0003675	protein,	obsolete protein
+8322	8331	GO:0009058	formation	biosynthetic process
+8495	8502	GO:0031430	midline	M band
+9882	9894	GO:0050817	Coagulation,	coagulation
+9916	9927	GO:0008001	fibrinogen,	obsolete fibrinogen
+10185	10199	GO:0003804	thromboplastin	obsolete coagulation factor Xa activity
+10263	10274	GO:0050817	Coagulation	coagulation
+10509	10517	GO:0003823	antibody	antigen binding
+10509	10517	GO:0003823	antibody	antigen binding
+10688	10699	GO:0009056	degradation	catabolic process
+10965	10975	GO:0008001	fibrinogen	obsolete fibrinogen
+10965	10975	GO:0008001	fibrinogen	obsolete fibrinogen
+11001	11011	GO:0003823	antibodies	antigen binding
+11289	11297	GO:0005202	collagen	obsolete collagen
+12257	12266	GO:0009058	formation	biosynthetic process
+14232	14242	GO:0007599	hemostatic	hemostasis
+14705	14716	GO:0007599	hemostasis,	hemostasis
+14815	14835	GO:0070527	platelet aggregation	platelet aggregation
+16879	16889	GO:0065007	regulation	biological regulation
+16928	16945	GO:0007596	blood coagulation	blood coagulation
+17002	17013	GO:0050817	coagulation	coagulation
+17002	17013	GO:0050817	coagulation	coagulation
+17002	17013	GO:0050817	coagulation	coagulation
+17124	17138	GO:0003804	thromboplastin	obsolete coagulation factor Xa activity
+17412	17414	GO:0003804	X,	obsolete coagulation factor Xa activityFactor
+17497	17507	GO:0009058	formation.	biosynthetic process
+17733	17744	GO:0050817	Coagulation	coagulation
+18200	18210	GO:0008001	fibrinogen	obsolete fibrinogen
+18275	18282	GO:0003675	protein	obsolete protein
+18717	18722	GO:0031672	bands	A band
+19704	19713	GO:0005202	collagen,	obsolete collagen
+19704	19712	GO:0005202	collagen	obsolete collagen
+19780	19790	GO:0009058	formation.	biosynthetic process
+19791	19799	GO:0005202	Collagen	obsolete collagen
+19791	19799	GO:0005202	Collagen	obsolete collagen
+20109	20118	GO:0005202	collagen.	obsolete collagen
+20109	20118	GO:0005202	collagen.	obsolete collagen
+20109	20117	GO:0005202	collagen	obsolete collagen
+20829	20840	GO:0005694	chromosomes	chromosome
+20940	20950	GO:0007599	hemostasis	hemostasis
+22934	22945	GO:0005694	chromosomes	chromosome
+22934	22945	GO:0005694	chromosomes	chromosome
+23372	23383	GO:0005694	chromosomes	chromosome
+23769	23780	GO:0005694	chromosomes	chromosome
+23961	23971	GO:0008001	fibrinogen	obsolete fibrinogen
+25635	25646	GO:0005694	chromosomes	chromosome
+25979	25988	GO:0009058	formation	biosynthetic process
+26692	26702	GO:0005694	chromosome	chromosome
+26940	26951	GO:0005694	chromosomes	chromosome
+28011	28022	GO:0050817	coagulation	coagulation
+28080	28091	GO:0005694	chromosomes	chromosome
+28080	28091	GO:0005694	chromosomes	chromosome
+28255	28267	GO:0005694	chromosomes,	chromosome
+28255	28267	GO:0005694	chromosomes,	chromosome
+28255	28267	GO:0005694	chromosomes,	chromosome
+29022	29031	GO:0009058	formation	biosynthetic process
+29022	29031	GO:0009058	formation	biosynthetic process
+29782	29793	GO:0050817	coagulation	coagulation
+30007	30023	GO:0004283	plasmin activity	obsolete plasmin activity
+30048	30052	GO:0050817	clot	coagulation
+30053	30059	GO:0019835	lysis,	cytolysis
+30114	30124	GO:0009058	formation.	biosynthetic process
+30257	30268	GO:0050817	coagulation	coagulation
+30257	30268	GO:0050817	coagulation	coagulation
+30257	30268	GO:0050817	coagulation	coagulation
+30269	30277	GO:0003675	proteins	obsolete protein
+30780	30789	GO:0009058	formation	biosynthetic process
+31245	31255	GO:0009058	formation.	biosynthetic process
+33209	33217	GO:0005202	collagen	obsolete collagen
+33209	33217	GO:0005202	collagen	obsolete collagen
+33291	33301	GO:0008152	metabolism	metabolic process
+33317	33337	GO:0031012	extracellular matrix	extracellular matrix
+33338	33346	GO:0003675	proteins	obsolete protein
+33534	33545	GO:0005694	chromosomes	chromosome
+33534	33544	GO:0005694	chromosome	chromosome
+33534	33544	GO:0005694	chromosome	chromosome
+34615	34623	GO:0003675	proteins	obsolete protein
+34687	34696	GO:0000496	base pair	base pairing
+34815	34825	GO:0065007	regulatory	biological regulation
+35115	35124	GO:0009058	formation	biosynthetic process
+35245	35253	GO:0005202	collagen	obsolete collagen
+35272	35283	GO:0005694	chromosomes	chromosome
+35596	35608	GO:0007599	haemostasis.	hemostasis
+35807	35828	GO:0031012	extracellular matrix.	extracellular matrix
+36064	36074	GO:0005694	chromosome	chromosome
+36303	36312	GO:0008243	activator	obsolete plasminogen activator activityplasminogen
+36785	36793	GO:0005202	collagen	obsolete collagen
+36785	36793	GO:0005202	collagen	obsolete collagen

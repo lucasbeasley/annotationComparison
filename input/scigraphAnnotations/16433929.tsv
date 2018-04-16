@@ -1,0 +1,178 @@
+StartIndex	EndIndex	GO:ID	Term	OntoTerm
+52	63	GO:0032502	development	developmental process
+190	200	GO:0007049	cell cycle	cell cycle
+241	252	GO:0008219	cell death.	cell death
+246	251	GO:0016265	death	death
+390	400	GO:0065007	regulatory	biological regulation
+633	647	GO:0009793	embryogenesis.	embryo development ending in seed dormancy
+1598	1609	GO:0032502	development	developmental process
+2039	2049	GO:0065007	regulatory	biological regulation
+2200	2207	GO:0003675	protein	obsolete protein
+2902	2912	GO:0065007	regulation	biological regulation
+2969	2975	GO:0005154	factor	epidermal growth factor receptor bindinggrowth
+2988	3004	GO:0004198	calpain activity	calcium-dependent cysteine-type endopeptidase activity
+3193	3200	GO:0040007	growth,	growth
+3193	3199	GO:0040007	growth	growth
+3201	3213	GO:0032502	development,	developmental process
+3275	3285	GO:0007049	cell cycle	cell cycle
+3275	3279	GO:0005623	cell	cell
+3275	3279	GO:0005623	cell	cell
+3305	3320	GO:0007165	signal cascades	signal transduction
+3368	3376	GO:0016020	membrane	membrane
+3411	3423	GO:0005856	cytoskeleton	cytoskeleton
+3428	3442	GO:0016477	cell migration	cell migration
+3469	3479	GO:0008219	cell death	cell death
+3474	3479	GO:0010941	death	regulation of cell deathof cell
+3489	3497	GO:0001906	necrosis	cell killing
+3502	3511	GO:0097194	apoptosis	execution phase of apoptosis
+3892	3899	GO:0003675	protein	obsolete protein
+3892	3899	GO:0003675	protein	obsolete protein
+4161	4174	GO:0048870	cell motility	cell motility
+4396	4401	GO:0005623	cells	cell
+4523	4529	GO:0005623	cells,	cell
+4980	4990	GO:0007565	gestation,	female pregnancy
+5027	5043	GO:0004198	calpain activity	calcium-dependent cysteine-type endopeptidase activity
+5247	5256	GO:0009058	formation	biosynthetic process
+5275	5283	GO:0008091	spectrin	spectrin
+5284	5293	GO:0009056	breakdown	catabolic process
+5390	5405	GO:0005925	focal adhesions	focal adhesion
+5764	5781	GO:0004198	calpain activity,	calcium-dependent cysteine-type endopeptidase activity
+6119	6123	GO:0050817	clot	coagulation
+6182	6195	GO:0009793	embryogenesis	embryo development ending in seed dormancy
+6268	6279	GO:0032502	development	developmental process
+6437	6451	GO:0009793	embryogenesis,	embryo development ending in seed dormancy
+6784	6798	GO:0009793	embryogenesis.	embryo development ending in seed dormancy
+6784	6798	GO:0009793	embryogenesis.	embryo development ending in seed dormancy
+6885	6890	GO:0005623	cells	cell
+6942	6952	GO:0007565	gestation.	female pregnancy
+7138	7142	GO:0005623	cell	cell
+7179	7183	GO:0005623	cell	cell
+7179	7183	GO:0005623	cell	cell
+7578	7582	GO:0004239	maps	obsolete methionyl aminopeptidase activity
+7920	7926	GO:0005623	cells,	cell
+8281	8285	GO:0005623	cell	cell
+8281	8285	GO:0005623	cell	cell
+8381	8390	GO:0016020	Membranes	membrane
+8454	8459	GO:0005623	cells	cell
+8687	8693	GO:0005623	cells,	cell
+8687	8693	GO:0005623	cells,	cell
+9439	9445	GO:0023052	signal	signaling
+9713	9717	GO:0005623	cell	cell
+9916	9929	GO:0000003	reproduction,	reproduction
+10212	10224	GO:0032502	development.	developmental process
+10535	10540	GO:0016265	dying	death
+11261	11268	GO:0003675	protein	obsolete protein
+12783	12788	GO:0007618	mated	mating
+12805	12818	GO:0009566	fertilization	fertilization
+12964	12974	GO:0004196	proteinase	obsolete saccharopepsin activity
+13541	13548	GO:0023052	signal.	signaling
+13541	13548	GO:0023052	signal.	signaling
+15391	15396	GO:0005623	cells	cell
+15410	15415	GO:0005623	cells	cell
+15410	15415	GO:0005623	cells	cell
+15410	15415	GO:0005623	cells	cell
+15410	15415	GO:0005623	cells	cell
+15410	15415	GO:0005623	cells	cell
+15410	15414	GO:0005623	cell	cell
+15410	15414	GO:0005623	cell	cell
+15534	15550	GO:0035822	gene conversion.	gene conversion
+15816	15822	GO:0005623	cells,	cell
+16037	16053	GO:0004198	calpain activity	calcium-dependent cysteine-type endopeptidase activity
+16714	16724	GO:0065007	regulatory	biological regulation
+16878	16889	GO:0032502	development	developmental process
+17092	17104	GO:0032502	development:	developmental process
+17434	17454	GO:0070527	platelet aggregation	platelet aggregation
+17459	17463	GO:0050817	clot	coagulation
+17618	17632	GO:0009793	embryogenesis,	embryo development ending in seed dormancy
+17829	17841	GO:0032502	development.	developmental process
+17932	17946	GO:0009793	embryogenesis.	embryo development ending in seed dormancy
+18024	18040	GO:0004198	calpain activity	calcium-dependent cysteine-type endopeptidase activity
+18024	18040	GO:0004198	calpain activity	calcium-dependent cysteine-type endopeptidase activity
+18024	18040	GO:0004198	calpain activity	calcium-dependent cysteine-type endopeptidase activity
+18697	18704	GO:0003675	protein	obsolete protein
+19666	19680	GO:0009793	embryogenesis,	embryo development ending in seed dormancy
+19832	19840	GO:0003675	proteins	obsolete protein
+19987	20005	GO:0004198	calpain activities	calcium-dependent cysteine-type endopeptidase activity
+20407	20424	GO:0004198	calpain activity.	calcium-dependent cysteine-type endopeptidase activity
+20614	20619	GO:0005623	cells	cell
+20614	20619	GO:0005623	cells	cell
+21820	21826	GO:0005623	cells.	cell
+21820	21824	GO:0005623	cell	cell
+21965	21979	GO:0009793	embryogenesis.	embryo development ending in seed dormancy
+22308	22323	GO:0016310	phosphorylation	phosphorylation
+22335	22343	GO:0003675	proteins	obsolete protein
+22356	22376	GO:0030168	platelet activation.	platelet activation
+22440	22446	GO:0005623	cells,	cell
+23175	23186	GO:0032502	development	developmental process
+23448	23452	GO:0005623	cell	cell
+24110	24115	GO:0005623	cells	cell
+24110	24115	GO:0005623	cells	cell
+24526	24533	GO:0003675	protein	obsolete protein
+24546	24561	GO:0051301	cell divisions.	cell division
+24708	24726	GO:0008283	cell proliferation	cell proliferation
+24708	24712	GO:0005623	cell	cell
+24708	24712	GO:0005623	cell	cell
+24708	24712	GO:0005623	cell	cell
+24793	24815	GO:0007059	chromosome segregation	chromosome segregation
+24823	24830	GO:0007067	mitosis	mitotic nuclear division
+24854	24861	GO:0051321	meiosis	meiotic cell cycle
+24911	24916	GO:0005623	cells	cell
+24911	24916	GO:0005623	cells	cell
+24959	24971	GO:0032502	development.	developmental process
+25289	25308	GO:0008283	cell proliferation,	cell proliferation
+25428	25438	GO:0007049	cell cycle	cell cycle
+25428	25438	GO:0007049	cell cycle	cell cycle
+25469	25477	GO:0003675	proteins	obsolete protein
+25617	25624	GO:0005488	binding	binding
+25697	25714	GO:0007340	acrosome reaction	acrosome reaction
+25697	25714	GO:0007340	acrosome reaction	acrosome reaction
+25932	25940	GO:0016020	membrane	membrane
+25997	26013	GO:0060473	cortical granule	cortical granule
+26101	26116	GO:0072687	meiotic spindle	meiotic spindle
+26123	26137	GO:0009566	fertilization,	fertilization
+26167	26189	GO:0007059	chromosome segregation	chromosome segregation
+26167	26189	GO:0007059	chromosome segregation	chromosome segregation
+26293	26305	GO:0032502	development.	developmental process
+26359	26364	GO:0005623	cells	cell
+26359	26363	GO:0005623	cell	cell
+26359	26363	GO:0005623	cell	cell
+26462	26479	GO:0004198	calpain activity,	calcium-dependent cysteine-type endopeptidase activity
+26462	26479	GO:0004198	calpain activity,	calcium-dependent cysteine-type endopeptidase activity
+26552	26560	GO:0008091	spectrin	spectrin
+26561	26570	GO:0009056	breakdown	catabolic process
+26808	26814	GO:0005623	cells.	cell
+26996	27011	GO:0035822	gene conversion	gene conversion
+26996	27011	GO:0035822	gene conversion	gene conversion
+27039	27044	GO:0005623	cells	cell
+27039	27043	GO:0005623	cell	cell
+27202	27208	GO:0005623	cells.	cell
+28674	28688	GO:0009793	embryogenesis,	embryo development ending in seed dormancy
+28674	28687	GO:0009793	embryogenesis	embryo development ending in seed dormancy
+28726	28738	GO:0032502	development.	developmental process
+29323	29333	GO:0005694	chromosome	chromosome
+29624	29631	GO:0023052	signal.	signaling
+30519	30524	GO:0030315	triad	T-tubule
+31379	31384	GO:0005623	cells	cell
+32340	32344	GO:0005623	cell	cell
+32413	32418	GO:0005623	cells	cell
+32413	32417	GO:0005623	cell	cell
+32610	32616	GO:0004617	serum,	phosphoglycerate dehydrogenase activity
+32610	32615	GO:0004617	serum	phosphoglycerate dehydrogenase activity
+32924	32936	GO:0016049	cell growth.	cell growth
+33127	33136	GO:0007586	digestion	digestion
+33167	33173	GO:0005623	cells.	cell
+33174	33179	GO:0005623	Cells	cell
+33552	33557	GO:0005623	cells	cell
+33623	33631	GO:0007618	matings,	mating
+33792	33808	GO:0048069	eye pigmentation	eye pigmentation
+34447	34456	GO:0016020	membranes	membrane
+35005	35010	GO:0005623	cells	cell
+35929	35939	GO:0004196	proteinase	obsolete saccharopepsin activity
+37809	37822	GO:0009566	fertilization	fertilization
+38053	38057	GO:0005623	cell	cell
+38137	38142	GO:0019835	lysis	cytolysis
+38196	38206	GO:0004196	proteinase	obsolete saccharopepsin activity
+38196	38206	GO:0004196	proteinase	obsolete saccharopepsin activity
+38372	38378	GO:0005154	factor	epidermal growth factor receptor bindinggrowth
+38468	38477	GO:0000496	base pair	base pairing
+39700	39704	GO:0005623	cell	cell

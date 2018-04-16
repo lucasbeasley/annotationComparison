@@ -1,0 +1,330 @@
+StartIndex	EndIndex	GO:ID	Term	OntoTerm
+33	44	GO:0032502	Development	developmental process
+182	190	GO:0003675	proteins	obsolete protein
+211	226	GO:0010467	gene expression	gene expression
+240	249	GO:0000785	chromatin	chromatin
+370	379	GO:0003675	proteins.	obsolete protein
+421	432	GO:0032502	development	developmental process
+421	432	GO:0032502	development	developmental process
+624	636	GO:0032502	development.	developmental process
+641	649	GO:0003675	protein,	obsolete protein
+816	825	GO:0009058	formation	biosynthetic process
+1034	1046	GO:0000805	X chromosome	X chromosome
+1454	1467	GO:0009048	inactivation.	dosage compensation by inactivation of X chromosomechromosome
+1506	1514	GO:0003675	proteins	obsolete protein
+1506	1514	GO:0003675	proteins	obsolete protein
+1506	1514	GO:0003675	proteins	obsolete protein
+1542	1550	GO:0006323	packaged	DNA packagingis
+1556	1566	GO:0000785	chromatin,	chromatin
+1619	1626	GO:0005634	nucleus	nucleus
+1677	1693	GO:0010467	gene expression.	gene expression
+1753	1767	GO:0000803	sex chromosome	sex chromosome
+1868	1877	GO:0003675	proteins.	obsolete protein
+1915	1926	GO:0032502	development	developmental process
+2038	2042	GO:0005623	cell	cell
+2333	2345	GO:0000805	X chromosome	X chromosome
+2333	2345	GO:0000805	X chromosome	X chromosome
+3184	3201	GO:0016234	inclusion bodies)	inclusion body
+3366	3376	GO:0005694	chromosome	chromosome
+3798	3805	GO:0003675	protein	obsolete protein
+3798	3805	GO:0003675	protein	obsolete protein
+4084	4091	GO:0045292	spliced	mRNA cis splicing, via spliceosome
+4242	4255	GO:0000805	X chromosome,	X chromosome
+4588	4597	GO:0000785	chromatin	chromatin
+4588	4597	GO:0000785	chromatin	chromatin
+4656	4665	GO:0003675	proteins,	obsolete protein
+4842	4857	GO:0000792	heterochromatin	heterochromatin
+4905	4919	GO:0033620	nuclear bodies	Mei2 nuclear dot complex
+5019	5030	GO:0044728	methylation	DNA methylation or demethylationin DNA
+5074	5089	GO:0010467	gene expression	gene expression
+5123	5127	GO:0019013	core	viral nucleocapsid
+5251	5259	GO:0003675	protein,	obsolete protein
+5251	5258	GO:0003675	protein	obsolete protein
+5251	5258	GO:0003675	protein	obsolete protein
+5251	5258	GO:0003675	protein	obsolete protein
+5284	5297	GO:0006351	transcription	transcription, DNA-templated
+5457	5472	GO:0006351	transcriptional	transcription, DNA-templated
+5473	5483	GO:0065007	regulation	biological regulation
+5579	5591	GO:0032502	development.	developmental process
+5645	5657	GO:0032502	development,	developmental process
+5748	5754	GO:0005623	cells,	cell
+5748	5753	GO:0005623	cells	cell
+5748	5753	GO:0005623	cells	cell
+5914	5919	GO:0005623	Cells	cell
+6072	6077	GO:0005623	cells	cell
+6072	6077	GO:0005623	cells	cell
+6453	6460	GO:0003675	protein	obsolete protein
+6453	6460	GO:0003675	protein	obsolete protein
+6513	6528	GO:0010467	gene expression	gene expression
+6644	6655	GO:0016049	cell growth	cell growth
+7262	7268	GO:0005623	cells,	cell
+7262	7267	GO:0005623	cells	cell
+7772	7779	GO:0003675	protein	obsolete protein
+8299	8307	GO:0003675	protein.	obsolete protein
+8427	8433	GO:0040007	Growth	growth
+8438	8449	GO:0032259	Methylation	methylation
+8473	8478	GO:0005623	Cells	cell
+8492	8497	GO:0005623	cells	cell
+8492	8496	GO:0005623	cell	cell
+8492	8497	GO:0005623	cells	cell
+8492	8497	GO:0005623	cells	cell
+8492	8497	GO:0005623	cells	cell
+8492	8497	GO:0005623	cells	cell
+8704	8715	GO:0016049	cell growth	cell growth
+9684	9696	GO:0016049	cell growth.	cell growth
+9724	9728	GO:0005623	cell	cell
+9724	9728	GO:0005623	cell	cell
+9782	9792	GO:0007049	cell cycle	cell cycle
+9782	9792	GO:0007049	cell cycle	cell cycle
+9782	9792	GO:0007049	cell cycle	cell cycle
+9844	9849	GO:0005623	cells	cell
+9844	9849	GO:0005623	cells	cell
+9844	9849	GO:0005623	cells	cell
+9844	9849	GO:0005623	cells	cell
+9844	9849	GO:0005623	cells	cell
+9844	9849	GO:0005623	cells	cell
+9844	9849	GO:0005623	cells	cell
+9844	9849	GO:0005623	cells	cell
+9844	9849	GO:0005623	cells	cell
+10089	10096	GO:0007067	mitotic	mitotic nuclear division
+10089	10096	GO:0007067	mitotic	mitotic nuclear division
+10228	10235	GO:0007067	mitosis	mitotic nuclear division
+10424	10430	GO:0040007	growth	growth
+10424	10430	GO:0040007	growth	growth
+10424	10430	GO:0040007	growth	growth
+10539	10548	GO:0043065	apoptosis	positive regulation of apoptotic processof
+10627	10636	GO:0097194	apoptotic	execution phase of apoptosis
+10838	10849	GO:0008219	cell death.	cell death
+11336	11351	GO:0006306	DNA methylation	DNA methylation
+11336	11351	GO:0006306	DNA methylation	DNA methylation
+11340	11351	GO:0032259	methylation	methylation
+11739	11744	GO:0005623	cells	cell
+11739	11744	GO:0005623	cells	cell
+11739	11743	GO:0005623	cell	cell
+11964	11970	GO:0005623	cells,	cell
+11964	11970	GO:0005623	cells,	cell
+12778	12785	GO:0003675	protein	obsolete protein
+12858	12864	GO:0005623	cells.	cell
+12951	12958	GO:0003675	protein	obsolete protein
+12972	12984	GO:0032502	development,	developmental process
+12972	12983	GO:0032502	development	developmental process
+13092	13096	GO:0005623	cell	cell
+13825	13835	GO:0065007	regulatory	biological regulation
+13972	13985	GO:0009793	embryogenesis	embryo development ending in seed dormancy
+14200	14213	GO:0006351	transcription	transcription, DNA-templated
+14218	14241	GO:0006415	translation termination	translational termination
+14242	14249	GO:0023052	signals	signaling
+14472	14477	GO:0007618	mated	mating
+15370	15376	GO:0016265	death,	death
+15549	15557	GO:0003823	antibody	antigen binding
+15549	15557	GO:0003823	antibody	antigen binding
+15752	15759	GO:0042600	chorion	chorion
+15752	15759	GO:0042600	chorion	chorion
+16053	16059	GO:0005634	nuclei	nucleus
+16146	16161	GO:0000792	heterochromatin	heterochromatin
+17783	17792	GO:0097194	apoptotic	execution phase of apoptosis
+17783	17792	GO:0097194	apoptotic	execution phase of apoptosis
+17783	17792	GO:0097194	apoptotic	execution phase of apoptosis
+17783	17792	GO:0097194	apoptotic	execution phase of apoptosis
+17793	17798	GO:0005623	cells	cell
+17793	17798	GO:0005623	cells	cell
+17793	17798	GO:0005623	cells	cell
+17793	17798	GO:0005623	cells	cell
+17793	17797	GO:0005623	cell	cell
+18171	18177	GO:0005623	cells.	cell
+18424	18431	GO:0007067	mitosis	mitotic nuclear division
+18505	18512	GO:0007067	mitotic	mitotic nuclear division
+18505	18512	GO:0007067	mitotic	mitotic nuclear division
+18505	18512	GO:0007067	mitotic	mitotic nuclear division
+18505	18512	GO:0007067	mitotic	mitotic nuclear division
+18885	18891	GO:0040007	growth	growth
+19059	19068	GO:0003823	antibody)	antigen binding
+20108	20113	GO:0005623	cells	cell
+20108	20113	GO:0005623	cells	cell
+20108	20113	GO:0005623	cells	cell
+20603	20611	GO:0003823	antibody	antigen binding
+21024	21028	GO:0005623	cell	cell
+21569	21588	GO:0001835	blastocysts hatched	blastocyst hatching
+21598	21612	GO:0035805	zona pellucida	egg coat
+22197	22210	GO:0007369	gastrulation.	gastrulation
+22287	22296	GO:0009058	formation	biosynthetic process
+23157	23168	GO:0007610	behavioural	behavior
+23388	23398	GO:0060817	chromosome	inactivation of paternal X chromosomeof the paternal X
+23399	23411	GO:0009048	inactivation	dosage compensation by inactivation of X chromosomechromosome
+24061	24069	GO:0003675	protein.	obsolete protein
+24788	24797	GO:0003823	antibody,	antigen binding
+24935	24939	GO:0005623	cell	cell
+25140	25145	GO:0005623	cells	cell
+25140	25145	GO:0005623	cells	cell
+25140	25145	GO:0005623	cells	cell
+26003	26014	GO:0005694	chromosome)	chromosome
+26168	26175	GO:0003675	protein	obsolete protein
+26168	26175	GO:0003675	protein	obsolete protein
+26185	26197	GO:0032502	development.	developmental process
+26292	26297	GO:0005623	cells	cell
+26369	26374	GO:0005623	Cells	cell
+26388	26393	GO:0005623	cells	cell
+26388	26393	GO:0005623	cells	cell
+26388	26393	GO:0005623	cells	cell
+26388	26393	GO:0005623	cells	cell
+26388	26393	GO:0005623	cells	cell
+26388	26393	GO:0005623	cells	cell
+26388	26392	GO:0005623	cell	cell
+26589	26595	GO:0005623	cells,	cell
+26647	26653	GO:0040007	growth	growth
+26839	26848	GO:0097194	apoptosis	execution phase of apoptosis
+26839	26848	GO:0042981	apoptosis	regulation of apoptotic processof
+26839	26848	GO:0006915	apoptosis	apoptotic processof
+26839	26848	GO:0097194	apoptosis	execution phase of apoptosis
+27281	27288	GO:0003675	protein	obsolete protein
+27281	27288	GO:0003675	protein	obsolete protein
+27526	27534	GO:0003675	protein)	obsolete protein
+27879	27904	GO:0048468	terminal differentiation.	cell development
+27937	27948	GO:0032502	Development	developmental process
+28064	28070	GO:0016265	death,	death
+28296	28307	GO:0032502	development	developmental process
+28490	28494	GO:0005623	cell	cell
+28556	28561	GO:0005623	cells	cell
+28556	28561	GO:0005623	cells	cell
+28556	28561	GO:0005623	cells	cell
+28931	28937	GO:0040007	growth	growth
+29070	29082	GO:0032502	development.	developmental process
+29640	29647	GO:0003675	protein	obsolete protein
+29640	29647	GO:0003675	protein	obsolete protein
+29640	29647	GO:0003675	protein	obsolete protein
+29915	29930	GO:0016887	ATPase activity	ATPase activity
+30510	30521	GO:0032502	development	developmental process
+30947	30959	GO:0032502	development,	developmental process
+31401	31406	GO:0005623	cells	cell
+31401	31406	GO:0005623	cells	cell
+31896	31908	GO:0032502	development.	developmental process
+32041	32045	GO:0005623	cell	cell
+33016	33026	GO:0009058	formation,	biosynthetic process
+33118	33142	GO:0048468	terminal differentiation	cell development
+33118	33142	GO:0048468	terminal differentiation	cell development
+33363	33378	GO:0006351	transcriptional	transcription, DNA-templated
+33363	33378	GO:0006351	transcriptional	transcription, DNA-templated
+33363	33378	GO:0006351	transcriptional	transcription, DNA-templated
+33402	33411	GO:0000785	chromatin	chromatin
+34156	34166	GO:0065007	regulation	biological regulation
+34578	34588	GO:0005694	chromosome	chromosome
+34578	34588	GO:0005694	chromosome	chromosome
+35136	35143	GO:0003675	protein	obsolete protein
+35175	35186	GO:0032502	development	developmental process
+35758	35770	GO:0000805	X chromosome	X chromosome
+35760	35770	GO:0005694	chromosome	chromosome
+35917	35928	GO:0016049	cell growth	cell growth
+35994	35999	GO:0005623	cells	cell
+36069	36082	GO:0000805	X chromosome.	X chromosome
+36258	36274	GO:0016458	genes, silencing	gene silencing
+36404	36414	GO:0005694	chromosome	chromosome
+37064	37069	GO:0005623	cells	cell
+37064	37069	GO:0005623	cells	cell
+37064	37069	GO:0005623	cells	cell
+37064	37069	GO:0005623	cells	cell
+37130	37142	GO:0000805	X chromosome	X chromosome
+37132	37142	GO:0005694	chromosome	chromosome
+37280	37291	GO:0005694	chromosome.	chromosome
+37958	37969	GO:0016049	cell growth	cell growth
+38617	38622	GO:0016265	dying	death
+38776	38782	GO:0005623	cells,	cell
+38776	38781	GO:0005623	cells	cell
+39019	39031	GO:0000805	X chromosome	X chromosome
+39021	39031	GO:0005694	chromosome	chromosome
+39394	39409	GO:0010467	gene expression	gene expression
+39435	39439	GO:0005623	cell	cell
+39440	39450	GO:0007610	behaviour.	behavior
+39614	39626	GO:0032502	development.	developmental process
+40043	40052	GO:0009058	formation	biosynthetic process
+40252	40257	GO:0005623	cells	cell
+40595	40601	GO:0005623	cells,	cell
+41316	41321	GO:0005623	cells	cell
+41347	41351	GO:0005623	cell	cell
+41347	41351	GO:0005623	cell	cell
+41396	41402	GO:0005623	cells)	cell
+41396	41401	GO:0005623	cells	cell
+42225	42233	GO:0016020	membrane	membrane
+42325	42332	GO:0003675	Protein	obsolete protein
+42466	42474	GO:0003823	antibody	antigen binding
+42497	42507	GO:0007049	cell cycle	cell cycle
+42512	42521	GO:0097194	apoptosis	execution phase of apoptosis
+42552	42563	GO:0032259	Methylation	methylation
+43565	43569	GO:0005623	cell	cell
+43719	43724	GO:0007618	mated	mating
+44721	44731	GO:0003823	antibodies	antigen binding
+45105	45114	GO:0097194	apoptotic	execution phase of apoptosis
+45115	45120	GO:0005623	cells	cell
+45148	45158	GO:0008219	cell death	cell death
+45802	45807	GO:0007618	mated	mating
+46305	46315	GO:0007049	Cell Cycle	cell cycle
+46358	46363	GO:0005623	Cells	cell
+46416	46421	GO:0005623	cells	cell
+46416	46421	GO:0005623	cells	cell
+46416	46421	GO:0005623	cells	cell
+46741	46752	GO:0007049	cell cycle.	cell cycle
+46921	46926	GO:0005623	cells	cell
+46921	46925	GO:0005623	cell	cell
+47025	47032	GO:0007067	mitosis	mitotic nuclear division
+47173	47180	GO:0007067	mitotic	mitotic nuclear division
+47393	47402	GO:0097194	Apoptosis	execution phase of apoptosis
+47436	47441	GO:0005623	Cells	cell
+47463	47468	GO:0005623	cells	cell
+47647	47656	GO:0097194	apoptotic	execution phase of apoptosis
+47647	47656	GO:0097194	apoptotic	execution phase of apoptosis
+47854	47869	GO:0006306	DNA Methylation	DNA methylation
+47914	47919	GO:0005623	Cells	cell
+48038	48043	GO:0005623	cells	cell
+48038	48043	GO:0005623	cells	cell
+48038	48042	GO:0005623	cell	cell
+48233	48242	GO:0016020	Membranes	membrane
+48472	48478	GO:0005623	cells.	cell
+48513	48525	GO:0032259	methylation,	methylation
+49165	49175	GO:0005694	chromosome	chromosome
+49209	49220	GO:0005694	chromosome.	chromosome
+49282	49290	GO:0003823	antibody	antigen binding
+49506	49511	GO:0005623	cells	cell
+51021	51027	GO:0005623	cells,	cell
+51309	51314	GO:0005623	cells	cell
+51710	51718	GO:0045292	splicing	mRNA cis splicing, via spliceosome
+51784	51791	GO:0003675	protein	obsolete protein
+52122	52128	GO:0045292	splice	mRNA cis splicing, via spliceosome
+52277	52285	GO:0003675	proteins	obsolete protein
+52326	52336	GO:0003823	antibodies	antigen binding
+52443	52450	GO:0003675	Protein	obsolete protein
+52457	52462	GO:0005623	Cells	cell
+53205	53217	GO:0000805	X chromosome	X chromosome
+53380	53385	GO:0005623	cells	cell
+53380	53384	GO:0005623	cell	cell
+53761	53766	GO:0005623	cells	cell
+53761	53765	GO:0005623	cell	cell
+53921	53929	GO:0016020	membrane	membrane
+54001	54006	GO:0031672	bands	A band
+54123	54128	GO:0005623	cells	cell
+54147	54155	GO:0016020	membrane	membrane
+54527	54535	GO:0003823	antibody	antigen binding
+54586	54593	GO:0003675	protein	obsolete protein
+54684	54690	GO:0040007	Growth	growth
+54695	54706	GO:0032259	Methylation	methylation
+54730	54735	GO:0005623	Cells	cell
+54796	54801	GO:0005623	cells	cell
+54796	54801	GO:0005623	cells	cell
+55045	55053	GO:0016020	membrane	membrane
+55498	55509	GO:0032259	methylation	methylation
+55759	55764	GO:0005623	cells	cell
+56159	56165	GO:0023052	signal	signaling
+56720	56725	GO:0005623	cells	cell
+57160	57168	GO:0003675	protein.	obsolete protein
+57586	57594	GO:0003823	antibody	antigen binding
+57839	57847	GO:0042600	chorion;	chorion
+58288	58297	GO:0097194	Apoptosis	execution phase of apoptosis
+58302	58309	GO:0007067	Mitosis	mitotic nuclear division
+58457	58466	GO:0097194	apoptotic	execution phase of apoptosis
+58467	58472	GO:0005623	cells	cell
+58630	58638	GO:0003823	antibody	antigen binding
+58630	58638	GO:0003823	antibody	antigen binding
+58651	58658	GO:0007067	mitosis	mitotic nuclear division
+60086	60095	GO:0003823	antibody.	antigen binding
+60086	60094	GO:0003823	antibody	antigen binding
+60745	60753	GO:0003823	antibody	antigen binding
+60922	60930	GO:0042600	chorion;	chorion
+61298	61305	GO:0007618	Matings	mating

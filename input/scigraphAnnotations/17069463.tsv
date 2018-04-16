@@ -1,0 +1,204 @@
+StartIndex	EndIndex	GO:ID	Term	OntoTerm
+103	121	GO:0006006	Glucose Metabolism	glucose metabolic process
+208	216	GO:0003675	protein.	obsolete protein
+746	757	GO:0006096	glycolysis,	glycolytic process
+866	884	GO:0051131	chaperone activity	chaperone-mediated protein complex assembly
+986	993	GO:0005829	cytosol	cytosol
+1106	1110	GO:0005623	cell	cell
+1617	1635	GO:0006007	glucose catabolism	glucose catabolic process
+1658	1672	GO:0046323	glucose uptake	glucose import
+1700	1710	GO:0006094PHENOTYPE	phenotypes	gluconeogenesis phenotypeThese
+1901	1920	GO:0006007	glucose catabolism,	glucose catabolic process
+1921	1940	GO:0097009	energy homeostasis,	energy homeostasis
+1957	1967	GO:0008152	metabolic,	metabolic process
+1968	1973	GO:0007568	aging	aging
+2036	2043	GO:0003675	protein	obsolete protein
+2036	2043	GO:0003675	protein	obsolete protein
+2036	2043	GO:0003675	protein	obsolete protein
+2317	2321	GO:0005623	cell	cell
+2369	2378	GO:0003675	proteins,	obsolete protein
+2434	2441	GO:0005829	cytosol	cytosol
+2498	2512	GO:0051301	cell division.	cell division
+2974	2992	GO:0051131	chaperone activity	chaperone-mediated protein complex assembly
+3165	3174	GO:0009056	breakdown	catabolic process
+3379	3398	GO:0008152	metabolic processes	metabolic process
+3501	3508	GO:0003675	protein	obsolete protein
+3701	3710	GO:0009058	formation	biosynthetic process
+3718	3725	GO:0007067	mitotic	mitotic nuclear division
+3735	3743	GO:0030472	assembly	mitotic spindle organization in nucleusspindle,
+3751	3767	GO:0005635	nuclear envelope	nuclear envelope
+3817	3826	GO:0051081	breakdown	nuclear envelope disassemblyenvelope
+3832	3853	GO:0051382	kinetochore formation	kinetochore assembly
+4021	4025	GO:0005623	cell	cell
+4021	4025	GO:0005623	cell	cell
+4310	4324	GO:0051170	nuclear import	nuclear import
+4310	4324	GO:0051170	nuclear import	nuclear import
+4362	4372	GO:0003823	antibodies	antigen binding
+4431	4436	GO:0005623	cells	cell
+4653	4659	GO:0007602	opsin,	phototransduction
+4653	4658	GO:0007602	opsin	phototransduction
+4857	4866	GO:0003777	kinesins,	microtubule motor activity
+5307	5317	GO:0004299	proteasome	obsolete proteasome endopeptidase activity
+5378	5392	GO:0051168	nuclear export	nuclear export
+5488	5503	GO:0016874	ligase activity	ligase activity
+5623	5632	GO:0005829	cytosolic	cytosol
+5623	5632	GO:0005829	cytosolic	cytosol
+5651	5658	GO:0005096	RanGAP)	GTPase activator activity
+5701	5708	GO:0005643	complex	nuclear porepore
+5947	5959	GO:0051179	localization	localization
+5975	5982	GO:0043205	fibrils	fibril
+5998	6011	GO:0005643	nuclear pores	nuclear pore
+6119	6131	GO:0009405	pathogenesis	pathogenesis
+6290	6301	GO:0009056	degradation	catabolic process
+6290	6301	GO:0009056	degradation	catabolic process
+6408	6418	GO:0004299	proteasome	obsolete proteasome endopeptidase activity
+6596	6615	GO:0030163	protein degradation	protein catabolic process
+6943	6949	GO:0040007	growth	growth
+7026	7039	GO:0005739	mitochondria,	mitochondrion
+7382	7397	GO:0009987	cell physiology	cellular process
+7724	7735	GO:0008152	metabolism.	metabolic process
+8374	8382	GO:0003675	proteins	obsolete protein
+8583	8587	GO:0005488	bind	binding
+8718	8726	GO:0003675	protein,	obsolete protein
+9078	9088	GO:0003823	antibodies	antigen binding
+9286	9305	GO:0051131	chaperone activity,	chaperone-mediated protein complex assembly
+9286	9304	GO:0051131	chaperone activity	chaperone-mediated protein complex assembly
+9469	9476	GO:0005488	binding	binding
+9469	9476	GO:0005488	binding	binding
+9469	9476	GO:0005488	binding	binding
+9911	9916	GO:0005488	bound	binding
+10802	10811	GO:0005829	cytosolic	cytosol
+11159	11165	GO:0040007	growth	growth
+11528	11538	GO:0003823	antibodies	antigen binding
+11528	11538	GO:0003823	antibodies	antigen binding
+11877	11887	GO:0003823	antibodies	antigen binding
+12271	12278	GO:0005488	binding	binding
+12675	12682	GO:0003777	kinesin	microtubule motor activity
+12718	12729	GO:0004600	cyclophilin	obsolete cyclophilin
+14663	14671	GO:0007610	behavior	behavior
+15604	15616	GO:0005739	mitochondria	mitochondrion
+16176	16186	GO:0003823	antibodies	antigen binding
+16201	16209	GO:0003675	proteins	obsolete protein
+16285	16297	GO:0051179	Localization	localization
+16657	16669	GO:0051179	localization	localization
+16657	16669	GO:0051179	localization	localization
+17912	17916	GO:0005623	cell	cell
+18599	18604	GO:0005623	cells	cell
+18687	18698	GO:0006280	Mutagenesis	obsolete mutagenesis
+18798	18809	GO:0006280	mutagenesis	obsolete mutagenesis
+18907	18915	GO:0003675	proteins	obsolete protein
+18922	18932	GO:0065007	regulation	biological regulation
+18949	18957	GO:0045292	splicing	mRNA cis splicing, via spliceosome
+19255	19267	GO:0044297	cell bodies,	cell body
+19344	19359	GO:0006351	Transcriptional	transcription, DNA-templated
+20353	20359	GO:0005623	cells.	cell
+20480	20485	GO:0005623	cell;	cell
+20971	20982	GO:0006096	glycolysis,	glycolytic process
+21058	21077	GO:0097009	energy homeostasis.	energy homeostasis
+22777	22784	GO:0003675	Protein	obsolete protein
+23008	23024	GO:0005635	nuclear envelope	nuclear envelope
+23156	23166	GO:0003823	antibodies	antigen binding
+23362	23371	GO:0003675	proteins.	obsolete protein
+23411	23418	GO:0003675	protein	obsolete protein
+23846	23855	GO:0008152	Metabolic	metabolic process
+24475	24481	GO:0040007	Growth	growth
+24547	24553	GO:0040007	growth	growth
+25387	25394	GO:0051235	storage	maintenance of location
+25460	25464	GO:0043336	rest	site-specific telomere resolvase activity
+25643	25653	GO:0009058	formation,	biosynthetic process
+25658	25664	GO:0098657	uptake	import into cell
+26201	26215	GO:0046323	glucose uptake	glucose import
+26282	26298	GO:0006094	gluconeogenesis,	gluconeogenesis
+26282	26297	GO:0006094	gluconeogenesis	gluconeogenesis
+26424	26437	GO:0006094	gluconeogenic	gluconeogenesis
+26855	26873	GO:0006007	glucose breakdown.	glucose catabolic process
+26885	26894	GO:0008152	Metabolic	metabolic process
+27065	27073	GO:0033867	fasting.	Fas-activated serine/threonine kinase activity
+27221	27229	GO:0033867	fasting.	Fas-activated serine/threonine kinase activity
+27235	27241	GO:0033867	Fasted	Fas-activated serine/threonine kinase activity
+27308	27315	GO:0016088	insulin	obsolete insulin
+27325	27339	GO:0046323	glucose uptake	glucose import
+27891	27900	GO:0008152	metabolic	metabolic process
+29081	29104	GO:0009881	photoreceptor activity.	photoreceptor activity
+31502	31521	GO:0097009	energy homeostasis.	energy homeostasis
+31656	31674	GO:0051131	chaperone activity	chaperone-mediated protein complex assembly
+31656	31674	GO:0051131	chaperone activity	chaperone-mediated protein complex assembly
+31846	31855	GO:0009058	formation	biosynthetic process
+31963	31973	GO:0051235	sequesters	maintenance of location
+31981	31988	GO:0005488	binding	binding
+33110	33129	GO:0051131	chaperone activity,	chaperone-mediated protein complex assembly
+33147	33158	GO:0009056	degradation	catabolic process
+33578	33590	GO:0009056	degradation.	catabolic process
+34011	34016	GO:0005623	cell.	cell
+34078	34083	GO:0007602	opsin	phototransduction
+34725	34735	GO:0004299	proteasome	obsolete proteasome endopeptidase activity
+34725	34735	GO:0004299	proteasome	obsolete proteasome endopeptidase activity
+34863	34871	GO:0003675	protein,	obsolete protein
+34909	34919	GO:0065007	regulation	biological regulation
+34954	34965	GO:0006508	proteolysis	proteolysis
+35273	35279	GO:0040007	growth	growth
+35427	35437	GO:0006096	glycolysis	glycolytic process
+35800	35811	GO:0042592	homeostasis	homeostatic process
+36201	36205	GO:0004235	pump	obsolete matrilysin activity
+36553	36566	GO:0005622	intracellular	intracellular
+36553	36566	GO:0005622	intracellular	intracellular
+36685	36698	GO:0022804	pump activity	active transmembrane transporter activity
+37230	37249	GO:0097009	energy homeostasis.	energy homeostasis
+37281	37299	GO:0051131	chaperone activity	chaperone-mediated protein complex assembly
+37336	37346	GO:0004299	proteasome	obsolete proteasome endopeptidase activity
+37449	37460	GO:0009056	degradation	catabolic process
+37488	37502	GO:0051170	nuclear import	nuclear import
+38189	38194	GO:0007568	aging	aging
+38387	38406	GO:0008152	metabolic processes	metabolic process
+38517	38526	GO:0008152	Metabolic	metabolic process
+38594	38599	GO:0030315	triad	T-tubule
+38712	38724	GO:0009056	degradation.	catabolic process
+38712	38723	GO:0009056	degradation	catabolic process
+38913	38917	GO:0004235	pump	obsolete matrilysin activity
+38913	38917	GO:0004235	pump	obsolete matrilysin activity
+39475	39488	GO:0005622	intracellular	intracellular
+39584	39600	GO:0016310	phosphorylation.	phosphorylation
+39924	39928	GO:0005623	cell	cell
+39976	39984	GO:0003675	proteins	obsolete protein
+39976	39984	GO:0003675	proteins	obsolete protein
+40335	40342	GO:0007067	mitotic	mitotic nuclear division
+40381	40389	GO:0051292	assembly	nuclear pore complex assemblypore
+41567	41573	GO:0007618	mating	mating
+42215	42221	GO:0040007	growth	growth
+42215	42221	GO:0040007	growth	growth
+42623	42634	GO:0006280	mutagenesis	obsolete mutagenesis
+42671	42682	GO:0006280	mutagenesis	obsolete mutagenesis
+43200	43208	GO:0003675	proteins	obsolete protein
+43291	43301	GO:0003823	antibodies	antigen binding
+43639	43647	GO:0003823	antibody	antigen binding
+43686	43695	GO:0003823	antibody)	antigen binding
+44319	44338	GO:0004396	hexokinase activity	hexokinase activity
+44433	44441	GO:0003675	proteins	obsolete protein
+44595	44606	GO:0003823	Antibodies.	antigen binding
+44794	44804	GO:0003823	antibodies	antigen binding
+44794	44804	GO:0003823	antibodies	antigen binding
+44794	44804	GO:0003823	antibodies	antigen binding
+44865	44873	GO:0003823	antibody	antigen binding
+45547	45552	GO:0005623	cells	cell
+45910	45920	GO:0003823	antibodies	antigen binding
+45910	45920	GO:0003823	antibodies	antigen binding
+46083	46092	GO:0003675	proteins.	obsolete protein
+46083	46091	GO:0003675	proteins	obsolete protein
+46219	46231	GO:0051179	localization	localization
+46745	46752	GO:0003675	Protein	obsolete protein
+47777	47781	GO:0005623	cell	cell
+47876	47887	GO:0006280	mutagenesis	obsolete mutagenesis
+49192	49199	GO:0003675	protein	obsolete protein
+49372	49377	GO:0031672	bands	A band
+49413	49419	GO:0031672	bands,	A band
+49827	49842	GO:0008218	Bioluminescence	bioluminescence
+50149	50158	GO:0008152	Metabolic	metabolic process
+50228	50237	GO:0007565	gestation	female pregnancy
+50793	50800	GO:0016088	Insulin	obsolete insulin
+50922	50929	GO:0016088	insulin	obsolete insulin
+51839	51846	GO:0003809	topical	obsolete thrombin activity
+52520	52530	GO:0003823	antibodies	antigen binding
+52822	52832	GO:0003823	Antibodies	antigen binding
+53772	53781	GO:0008152	Metabolic	metabolic process
+54099	54109	GO:0003823	antibodies	antigen binding
+54487	54494	GO:0005643	complex	nuclear porepore

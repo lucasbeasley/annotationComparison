@@ -1,0 +1,153 @@
+StartIndex	EndIndex	GO:ID	Term	OntoTerm
+193	201	GO:0003675	protein,	obsolete protein
+282	288	GO:0005623	cells.	cell
+412	425	GO:0051179	localizations	localization
+716	726	GO:0005694	chromosome	chromosome
+986	991	GO:0005623	cells	cell
+986	991	GO:0005623	cells	cell
+986	991	GO:0005623	cells	cell
+986	991	GO:0005623	cells	cell
+1515	1521	GO:0005623	cells.	cell
+1692	1702	GO:0005694	chromosome	chromosome
+1753	1758	GO:0005623	cells	cell
+1753	1758	GO:0005623	cells	cell
+1889	1894	GO:0005623	cells	cell
+1889	1894	GO:0005623	cells	cell
+1889	1894	GO:0005623	cells	cell
+1889	1894	GO:0005623	cells	cell
+1889	1893	GO:0005623	cell	cell
+1889	1894	GO:0005623	cells	cell
+2119	2125	GO:0005623	cells,	cell
+2616	2621	GO:0005623	cells	cell
+2616	2621	GO:0005623	cells	cell
+3078	3083	GO:0005623	cells	cell
+3213	3219	GO:0005623	cells,	cell
+3213	3219	GO:0005623	cells,	cell
+3894	3912	GO:0032197	retrotransposition	transposition, RNA-mediated
+3950	3963	GO:0051179	localizations	localization
+4113	4120	GO:0003675	protein	obsolete protein
+4265	4277	GO:0051179	localization	localization
+4357	4370	GO:0051179	localizations	localization
+4357	4369	GO:0051179	localization	localization
+4573	4584	GO:0005694	chromosomes	chromosome
+4860	4869	GO:0003675	proteins,	obsolete protein
+5308	5321	GO:0051179	localizations	localization
+5350	5360	GO:0005694	chromosome	chromosome
+5350	5360	GO:0005694	chromosome	chromosome
+5350	5360	GO:0005694	chromosome	chromosome
+6590	6596	GO:0005623	cells,	cell
+6868	6880	GO:0051179	Localization	localization
+6903	6913	GO:0005694	chromosome	chromosome
+7005	7015	GO:0000496	base pairs	base pairing
+7446	7451	GO:0005623	cells	cell
+7446	7451	GO:0005623	cells	cell
+7446	7451	GO:0005623	cells	cell
+8080	8090	GO:0000496	base pairs	base pairing
+8080	8090	GO:0000496	base pairs	base pairing
+8446	8454	GO:0003675	protein.	obsolete protein
+8908	8914	GO:0005623	cells.	cell
+8908	8913	GO:0005623	cells	cell
+8908	8912	GO:0005623	cell	cell
+9845	9851	GO:0005623	cells;	cell
+9845	9851	GO:0005623	cells;	cell
+9845	9851	GO:0005623	cells;	cell
+9845	9850	GO:0005623	cells	cell
+9845	9850	GO:0005623	cells	cell
+9845	9850	GO:0005623	cells	cell
+9915	9921	GO:0005623	cells.	cell
+10248	10261	GO:0005840	ribosomal RNA	ribosome
+10318	10324	GO:0005623	cells,	cell
+10318	10323	GO:0005623	cells	cell
+10318	10323	GO:0005623	cells	cell
+10382	10388	GO:0005623	cells.	cell
+10765	10770	GO:0005623	cells	cell
+10765	10770	GO:0005623	cells	cell
+10765	10770	GO:0005623	cells	cell
+10765	10770	GO:0005623	cells	cell
+10765	10770	GO:0005623	cells	cell
+11014	11020	GO:0005146	factor	leukemia inhibitory factor receptor bindinginhibitory
+11324	11330	GO:0005623	cells.	cell
+11367	11373	GO:0005623	cells.	cell
+11367	11371	GO:0005623	cell	cell
+11367	11373	GO:0005623	cells.	cell
+11367	11373	GO:0005623	cells.	cell
+11367	11372	GO:0005623	cells	cell
+11367	11372	GO:0005623	cells	cell
+11452	11458	GO:0040007	Growth	growth
+11595	11599	GO:0005623	Cell	cell
+11875	11890	GO:0010467	gene expression	gene expression
+11875	11890	GO:0010467	gene expression	gene expression
+11914	11919	GO:0005623	cells	cell
+11914	11919	GO:0005623	cells	cell
+11914	11918	GO:0005623	cell	cell
+11914	11919	GO:0005623	cells	cell
+12020	12026	GO:0005623	cells,	cell
+12020	12026	GO:0005623	cells,	cell
+12214	12220	GO:0005623	cells.	cell
+12214	12220	GO:0005623	cells.	cell
+12262	12269	GO:0003675	protein	obsolete protein
+12751	12766	GO:0010467	Gene expression	gene expression
+12792	12798	GO:0005623	cells.	cell
+12792	12797	GO:0005623	cells	cell
+12792	12797	GO:0005623	cells	cell
+12792	12797	GO:0005623	cells	cell
+13073	13077	GO:0005623	Cell	cell
+13254	13258	GO:0005623	cell	cell
+13514	13526	GO:0032502	development,	developmental process
+13514	13525	GO:0032502	development	developmental process
+13757	13767	GO:0009058	formation.	biosynthetic process
+13790	13795	GO:0005623	cells	cell
+13790	13794	GO:0005623	cell	cell
+13790	13795	GO:0005623	cells	cell
+14088	14094	GO:0005623	cells.	cell
+14184	14194	GO:0005694	chromosome	chromosome
+14246	14252	GO:0005623	cells.	cell
+14246	14250	GO:0005623	cell	cell
+14304	14310	GO:0005623	cells,	cell
+14391	14403	GO:0032502	development,	developmental process
+14414	14424	GO:0009058	formation,	biosynthetic process
+14834	14844	GO:0007586	digestion,	digestion
+15202	15207	GO:0031672	bands	A band
+16038	16042	GO:0031672	band	A band
+16038	16042	GO:0031672	band	A band
+17232	17237	GO:0005623	cells	cell
+17232	17237	GO:0005623	cells	cell
+17546	17551	GO:0005623	cells	cell
+17593	17597	GO:0005623	Cell	cell
+17598	17603	GO:0019835	Lysis	cytolysis
+17769	17777	GO:0016020	membrane	membrane
+17975	17979	GO:0031672	band	A band
+17975	17979	GO:0031672	band	A band
+17975	17979	GO:0031672	band	A band
+17975	17979	GO:0031672	band	A band
+17975	17979	GO:0031672	band	A band
+17975	17979	GO:0031672	band	A band
+18480	18490	GO:0003823	antibodies	antigen binding
+18949	18956	GO:0003675	protein	obsolete protein
+19210	19218	GO:0003675	proteins	obsolete protein
+19297	19308	GO:0003823	antibodies.	antigen binding
+19348	19352	GO:0005623	cell	cell
+19392	19400	GO:0003675	proteins	obsolete protein
+19506	19515	GO:0016020	membranes	membrane
+19529	19538	GO:0016020	Membranes	membrane
+19714	19725	GO:0003823	antibodies.	antigen binding
+19787	19802	GO:0003823	immunoglobulins	antigen binding
+19812	19816	GO:0005623	Cell	cell
+19817	19827	GO:0023052	Signaling)	signaling
+19848	19856	GO:0003823	antibody	antigen binding
+19848	19856	GO:0003823	antibody	antigen binding
+19857	19865	GO:0005488	binding.	binding
+19880	19885	GO:0005488	bound	binding
+19986	19991	GO:0005623	cells	cell
+20182	20190	GO:0030431	diapause	sleep
+20249	20254	GO:0005623	cells	cell
+20249	20253	GO:0005623	cell	cell
+20249	20254	GO:0005623	cells	cell
+20249	20253	GO:0005623	cell	cell
+20249	20254	GO:0005623	cells	cell
+20353	20358	GO:0004617	Serum	phosphoglycerate dehydrogenase activity
+21132	21137	GO:0005623	cells	cell
+21132	21137	GO:0005623	cells	cell
+21242	21253	GO:0032502	Development	developmental process
+21626	21639	GO:0051179	localizations	localization
+21778	21782	GO:0005623	cell	cell

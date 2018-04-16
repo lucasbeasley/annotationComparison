@@ -1,0 +1,261 @@
+StartIndex	EndIndex	GO:ID	Term	OntoTerm
+35	49	GO:0019230	Proprioceptive	proprioception
+50	63	GO:0007411	Axon Guidance	axon guidance
+113	127	GO:0019230	proprioceptive	proprioception
+263	274	GO:0007409	axon growth	axonogenesis
+298	308	GO:0023052	signaling.	signaling
+346	351	GO:0030424	axons	axon
+346	351	GO:0030424	axons	axon
+605	617	GO:0048668	axons branch	collateral sprouting
+675	683	GO:0031430	midline.	M band
+763	769	GO:0030424	axons.	axon
+995	1006	GO:0032502	development	developmental process
+995	1006	GO:0032502	development	developmental process
+995	1006	GO:0032502	development	developmental process
+1010	1024	GO:0019230	proprioceptive	proprioception
+1357	1362	GO:0030424	axons	axon
+1357	1362	GO:0030424	axons	axon
+1357	1362	GO:0030424	axons	axon
+1836	1849	GO:0043679	nerve endings	axon terminus
+1914	1922	GO:0003823	antibody	antigen binding
+2008	2019	GO:0060384	innervation	innervation
+2255	2261	GO:0060004	reflex	reflex
+2515	2522	GO:0003675	protein	obsolete protein
+2572	2585	GO:0005163	neurotrophins	nerve growth factor receptor binding
+2572	2585	GO:0005163	neurotrophins	nerve growth factor receptor binding
+2894	2908	GO:0019230	proprioceptive	proprioception
+2894	2908	GO:0019230	proprioceptive	proprioception
+3107	3115	GO:0003675	proteins	obsolete protein
+3150	3155	GO:0005623	cells	cell
+3150	3155	GO:0005623	cells	cell
+3150	3155	GO:0005623	cells	cell
+3150	3155	GO:0005623	cells	cell
+3737	3741	GO:0007568	ages	aging
+4114	4125	GO:0060384	Innervation	innervation
+4558	4572	GO:0019230	proprioceptive	proprioception
+4558	4572	GO:0019230	proprioceptive	proprioception
+4558	4572	GO:0019230	proprioceptive	proprioception
+4558	4572	GO:0019230	proprioceptive	proprioception
+4558	4572	GO:0019230	proprioceptive	proprioception
+4558	4572	GO:0019230	proprioceptive	proprioception
+4908	4913	GO:0030424	axons	axon
+4908	4913	GO:0030424	axons	axon
+4908	4913	GO:0030424	axons	axon
+4908	4912	GO:0030424	axon	axon
+4908	4912	GO:0030424	axon	axon
+5359	5370	GO:0060384	innervation	innervation
+5359	5370	GO:0060384	innervation	innervation
+5359	5370	GO:0060384	innervation	innervation
+5359	5370	GO:0060384	innervation	innervation
+5669	5676	GO:0031430	midline	M band
+5669	5676	GO:0031430	midline	M band
+5927	5938	GO:0060384	Innervation	innervation
+6108	6114	GO:0040007	growth	growth
+6144	6150	GO:0030424	axons.	axon
+6767	6776	GO:0030425	dendrites	dendrite
+6822	6828	GO:0060004	reflex	reflex
+7105	7116	GO:0060384	Innervation	innervation
+7147	7158	GO:0060384	innervation	innervation
+7197	7204	GO:0005819	spindle	spindle
+7205	7216	GO:0032502	development	developmental process
+7205	7216	GO:0032502	development	developmental process
+7253	7261	GO:0005819	spindles	spindle
+7253	7261	GO:0005819	spindles	spindle
+7253	7261	GO:0005819	spindles	spindle
+7253	7261	GO:0005819	spindles	spindle
+7372	7386	GO:0019230	Proprioceptive	proprioception
+7430	7438	GO:0003823	antibody	antigen binding
+7430	7438	GO:0003823	antibody	antigen binding
+7525	7534	GO:0003823	antibody,	antigen binding
+7586	7593	GO:0003675	protein	obsolete protein
+7900	7905	GO:0005623	cells	cell
+8272	8285	GO:0043005	nerve fibers.	neuron projection
+8405	8411	GO:0030424	axons.	axon
+8405	8410	GO:0030424	axons	axon
+8405	8410	GO:0030424	axons	axon
+8405	8410	GO:0030424	axons	axon
+8501	8515	GO:0019230	proprioceptive	proprioception
+8501	8515	GO:0019230	proprioceptive	proprioception
+8516	8522	GO:0030424	axons,	axon
+9773	9779	GO:0030424	axons;	axon
+10105	10110	GO:0030424	Axons	axon
+10192	10198	GO:0030424	axons,	axon
+10192	10197	GO:0030424	axons	axon
+10192	10197	GO:0030424	axons	axon
+10192	10197	GO:0030424	axons	axon
+10192	10197	GO:0030424	axons	axon
+10241	10255	GO:0019230	Proprioceptive	proprioception
+10349	10356	GO:0031430	midline	M band
+10349	10356	GO:0031430	midline	M band
+10349	10356	GO:0031430	midline	M band
+10439	10447	GO:0005202	collagen	obsolete collagen
+10763	10778	GO:0050918	chemoattraction	positive chemotaxis
+10763	10778	GO:0050918	chemoattraction	positive chemotaxis
+10763	10778	GO:0050918	chemoattraction	positive chemotaxis
+10763	10778	GO:0050918	chemoattraction	positive chemotaxis
+11168	11173	GO:0030424	Axons	axon
+11168	11173	GO:0030424	Axons	axon
+11389	11396	GO:0005625	soluble	obsolete soluble fraction
+11784	11790	GO:0040007	growth	growth
+11784	11790	GO:0040007	growth	growth
+12747	12758	GO:0007409	axon growth	axonogenesis
+12951	12957	GO:0030424	axons.	axon
+13064	13070	GO:0030424	axons.	axon
+13064	13069	GO:0030424	axons	axon
+13064	13069	GO:0030424	axons	axon
+13064	13069	GO:0030424	axons	axon
+13064	13069	GO:0030424	axons	axon
+13064	13070	GO:0030424	axons.	axon
+13064	13069	GO:0030424	axons	axon
+13064	13069	GO:0030424	axons	axon
+13433	13445	GO:0005163	neurotrophin	nerve growth factor receptor binding
+13433	13445	GO:0005163	neurotrophin	nerve growth factor receptor binding
+13568	13578	GO:0003823	antibodies	antigen binding
+13617	13628	GO:0007409	axon growth	axonogenesis
+13617	13628	GO:0007409	axon growth	axonogenesis
+13766	13780	GO:0019230	proprioceptive	proprioception
+13766	13780	GO:0019230	proprioceptive	proprioception
+13766	13780	GO:0019230	proprioceptive	proprioception
+14021	14032	GO:0060384	innervation	innervation
+14215	14223	GO:0003823	antibody	antigen binding
+14215	14223	GO:0003823	antibody	antigen binding
+14399	14403	GO:0005623	cell	cell
+15115	15120	GO:0004235	pumps	obsolete matrilysin activity
+15190	15202	GO:0031099	regeneration	regeneration
+15443	15450	GO:0031430	midline	M band
+15697	15708	GO:0060384	innervation	innervation
+16134	16143	GO:0006810	transport	transport
+16468	16482	GO:0019230	proprioceptive	proprioception
+16468	16482	GO:0019230	proprioceptive	proprioception
+16468	16482	GO:0019230	proprioceptive	proprioception
+16468	16482	GO:0019230	proprioceptive	proprioception
+16851	16864	GO:0005163	neurotrophins	nerve growth factor receptor binding
+16925	16930	GO:0030424	axons	axon
+16925	16930	GO:0030424	axons	axon
+16925	16930	GO:0030424	axons	axon
+16987	16993	GO:0040007	growth	growth
+17390	17401	GO:0060384	innervation	innervation
+17390	17401	GO:0060384	innervation	innervation
+17465	17472	GO:0003675	protein	obsolete protein
+17536	17547	GO:0032502	development	developmental process
+17588	17594	GO:0030424	axons.	axon
+17588	17593	GO:0030424	axons	axon
+17588	17594	GO:0030424	axons.	axon
+17644	17658	GO:0019230	proprioceptive	proprioception
+17644	17658	GO:0019230	proprioceptive	proprioception
+17929	17936	GO:0005819	spindle	spindle
+18036	18041	GO:0030424	axons	axon
+18036	18041	GO:0030424	axons	axon
+18036	18041	GO:0030424	axons	axon
+18036	18041	GO:0030424	axons	axon
+18036	18041	GO:0030424	axons	axon
+18036	18041	GO:0030424	axons	axon
+18036	18041	GO:0030424	axons	axon
+18036	18041	GO:0030424	axons	axon
+18036	18041	GO:0030424	axons	axon
+18036	18041	GO:0030424	axons	axon
+18116	18130	GO:0019230	proprioceptive	proprioception
+18116	18130	GO:0019230	proprioceptive	proprioception
+18116	18130	GO:0019230	proprioceptive	proprioception
+18469	18485	GO:0043195	terminal boutons	terminal bouton
+18469	18485	GO:0043195	terminal boutons	terminal bouton
+18903	18917	GO:0030484	muscle fibers.	obsolete muscle fiber
+19478	19485	GO:0003675	protein	obsolete protein
+20193	20198	GO:0030424	axons	axon
+20193	20198	GO:0030424	axons	axon
+20193	20198	GO:0030424	axons	axon
+20328	20334	GO:0023052	signal	signaling
+20339	20353	GO:0019230	proprioceptive	proprioception
+20339	20353	GO:0019230	proprioceptive	proprioception
+20452	20459	GO:0003675	protein	obsolete protein
+20452	20459	GO:0003675	protein	obsolete protein
+20950	20956	GO:0005623	cells,	cell
+21242	21255	GO:0007411	axon guidance	axon guidance
+21345	21360	GO:0050918	chemoattraction	positive chemotaxis
+21506	21519	GO:0005163	neurotrophins	nerve growth factor receptor binding
+21506	21518	GO:0005163	neurotrophin	nerve growth factor receptor binding
+21538	21542	GO:0030424	axon	axon
+21728	21733	GO:0030424	axons	axon
+21728	21733	GO:0030424	axons	axon
+21728	21733	GO:0030424	axons	axon
+21767	21775	GO:0005202	collagen	obsolete collagen
+21854	21866	GO:0032502	development.	developmental process
+22150	22156	GO:0060004	reflex	reflex
+22203	22207	GO:0030424	axon	axon
+22312	22319	GO:0031430	midline	M band
+22312	22319	GO:0031430	midline	M band
+22504	22508	GO:0005488	bind	binding
+22523	22537	GO:0019230	proprioceptive	proprioception
+22538	22543	GO:0030424	axons	axon
+22538	22543	GO:0030424	axons	axon
+22538	22543	GO:0030424	axons	axon
+22538	22543	GO:0030424	axons	axon
+22588	22595	GO:0023052	signals	signaling
+23092	23096	GO:0030424	axon	axon
+23224	23240	GO:0007411	axon pathfinding	axon guidance
+23264	23270	GO:0060004	reflex	reflex
+23404	23412	GO:0007610	behavior	behavior
+23592	23606	GO:0019230	proprioceptive	proprioception
+23607	23613	GO:0005623	cells.	cell
+23675	23688	GO:0007411	axon guidance	axon guidance
+23675	23688	GO:0007411	axon guidance	axon guidance
+23675	23688	GO:0007411	axon guidance	axon guidance
+23697	23711	GO:0019230	proprioceptive	proprioception
+23697	23711	GO:0019230	proprioceptive	proprioception
+23712	23717	GO:0030424	axons	axon
+23712	23717	GO:0030424	axons	axon
+23712	23717	GO:0030424	axons	axon
+25840	25850	GO:0003823	antibodies	antigen binding
+25840	25850	GO:0003823	antibodies	antigen binding
+26109	26115	GO:0004617	serum.	phosphoglycerate dehydrogenase activity
+26197	26205	GO:0003823	antibody	antigen binding
+26420	26425	GO:0005623	cells	cell
+26790	26798	GO:0003823	antibody	antigen binding
+26790	26798	GO:0003823	antibody	antigen binding
+26790	26798	GO:0003823	antibody	antigen binding
+28073	28081	GO:0005202	collagen	obsolete collagen
+28073	28081	GO:0005202	collagen	obsolete collagen
+28170	28178	GO:0005202	Collagen	obsolete collagen
+28449	28458	GO:0005202	collagen.	obsolete collagen
+29095	29100	GO:0004617	serum	phosphoglycerate dehydrogenase activity
+29646	29653	GO:0031430	midline	M band
+30139	30150	GO:0060384	Innervation	innervation
+30340	30345	GO:0030424	axons	axon
+30395	30409	GO:0019230	proprioceptive	proprioception
+30410	30415	GO:0030424	axons	axon
+30440	30449	GO:0030425	dendrites	dendrite
+30479	30488	GO:0007129	synapses.	synapsis
+30607	30614	GO:0031430	midline	M band
+30678	30688	GO:0030425	dendrites.	dendrite
+30752	30766	GO:0019230	proprioceptive	proprioception
+30887	30892	GO:0030424	axons	axon
+31137	31149	GO:0043005	nerve fibers	neuron projection
+31525	31536	GO:0003823	antibodies,	antigen binding
+31562	31571	GO:0003823	antibody,	antigen binding
+32687	32692	GO:0005623	cells	cell
+32747	32752	GO:0005623	cells	cell
+32747	32752	GO:0005623	cells	cell
+32747	32752	GO:0005623	cells	cell
+32969	32975	GO:0005623	cells,	cell
+33307	33312	GO:0030424	axons	axon
+33346	33353	GO:0031430	midline	M band
+33433	33439	GO:0060004	reflex	reflex
+33653	33661	GO:0031430	midline,	M band
+33772	33777	GO:0030424	Axons	axon
+33868	33882	GO:0019230	proprioceptive	proprioception
+33883	33888	GO:0030424	axons	axon
+34094	34099	GO:0030424	axons	axon
+34361	34368	GO:0031430	midline	M band
+35134	35148	GO:0030484	muscle fibers.	obsolete muscle fiber
+35673	35688	GO:0050918	Chemoattraction	positive chemotaxis
+35700	35705	GO:0030424	Axons	axon
+36131	36146	GO:0050918	Chemoattraction	positive chemotaxis
+36245	36252	GO:0031430	midline	M band
+36283	36288	GO:0030424	axons	axon
+36529	36534	GO:0030424	axons	axon
+36651	36656	GO:0030424	axons	axon
+36732	36737	GO:0030424	axons	axon
+36820	36825	GO:0030424	axons	axon
+37226	37234	GO:0031430	midline,	M band
+37241	37246	GO:0030424	axons	axon
+37295	37306	GO:0007409	axon growth	axonogenesis

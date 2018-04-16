@@ -1,0 +1,219 @@
+StartIndex	EndIndex	GO:ID	Term	OntoTerm
+0	14	GO:0007416	Synaptogenesis	synapse assembly
+33	42	GO:0009058	formation	biosynthetic process
+252	263	GO:0032502	development	developmental process
+252	263	GO:0032502	development	developmental process
+748	761	GO:0009653	morphogenesis	anatomical structure morphogenesis
+853	870	GO:0007602	phototransduction	phototransduction
+1035	1049	GO:0007416	synaptogenesis	synapse assembly
+1162	1187	GO:0008594	photoreceptor development	photoreceptor cell morphogenesis
+1304	1310	GO:0007601	vision	visual perception
+1706	1724	GO:0007602	phototransduction.	phototransduction
+1742	1753	GO:0032502	development	developmental process
+1742	1753	GO:0032502	development	developmental process
+1903	1928	GO:0008594	photoreceptor development	photoreceptor cell morphogenesis
+2121	2125	GO:0007568	ages	aging
+2137	2152	GO:0010467	gene expression	gene expression
+3068	3074	GO:0007601	vision	visual perception
+3589	3596	GO:0003675	protein	obsolete protein
+4357	4382	GO:0008594	photoreceptor development	photoreceptor cell morphogenesis
+4466	4471	GO:0005623	cells	cell
+4466	4471	GO:0005623	cells	cell
+4592	4597	GO:0097683	apex,	dinoflagellate apex
+4660	4668	GO:0003675	proteins	obsolete protein
+4685	4702	GO:0007602	phototransduction	phototransduction
+4776	4784	GO:0003675	protein,	obsolete protein
+4776	4784	GO:0003675	protein,	obsolete protein
+4785	4795	GO:0045102	peripherin	obsolete peripherin
+4998	5011	GO:0044317	Rod spherules	rod spherule
+5038	5045	GO:0007129	synapse	synapsis
+5038	5045	GO:0007129	synapse	synapsis
+5063	5072	GO:0030425	dendrites	dendrite
+5063	5072	GO:0030425	dendrites	dendrite
+5063	5072	GO:0030425	dendrites	dendrite
+5106	5112	GO:0005623	cells.	cell
+5164	5170	GO:0048788	ribbon	cytoskeleton of presynaptic active zone
+5190	5200	GO:0005737	cytoplasm.	cytoplasm
+5201	5214	GO:0044316	Cone pedicles	cone cell pedicle
+5233	5241	GO:0007129	synapses	synapsis
+5233	5241	GO:0007129	synapses	synapsis
+5400	5409	GO:0009058	formation	biosynthetic process
+5563	5578	GO:0006351	transcriptional	transcription, DNA-templated
+5579	5589	GO:0065007	regulatory	biological regulation
+5776	5783	GO:0007129	synapse	synapsis
+5776	5783	GO:0007129	synapse	synapsis
+5784	5794	GO:0009058	formation,	biosynthetic process
+5784	5793	GO:0009058	formation	biosynthetic process
+5784	5793	GO:0009058	formation	biosynthetic process
+6196	6201	GO:0005623	cells	cell
+6296	6311	GO:0007416	synaptogenesis.	synapse assembly
+6731	6759	GO:0042461	photoreceptor morphogenesis,	photoreceptor cell development
+7319	7331	GO:0005739	mitochondria	mitochondrion
+7407	7412	GO:0019835	lysis	cytolysis
+7450	7458	GO:0005773	vacuoles	vacuole
+7721	7728	GO:0005634	nuclei.	nucleus
+7912	7924	GO:0005739	mitochondria	mitochondrion
+8085	8093	GO:0001917	segments	photoreceptor inner segmentinner
+8151	8157	GO:0005929	cilium	cilium
+8151	8157	GO:0005929	cilium	cilium
+8210	8221	GO:0005874	microtubule	microtubule
+8210	8221	GO:0005874	microtubule	microtubule
+8726	8736	GO:0009058	formation,	biosynthetic process
+8737	8749	GO:0042384	ciliogenesis	cilium assembly
+9116	9128	GO:0042384	ciliogenesis	cilium assembly
+9282	9288	GO:0005929	cilium	cilium
+9282	9288	GO:0005929	cilium	cilium
+9282	9288	GO:0005929	cilium	cilium
+9282	9288	GO:0005929	cilium	cilium
+9407	9419	GO:0005634	cell nucleus	nucleus
+9561	9569	GO:0031982	vesicles	vesicle
+9561	9569	GO:0031982	vesicles	vesicle
+9812	9823	GO:0005874	microtubule	microtubule
+10372	10378	GO:0005634	nuclei	nucleus
+10372	10378	GO:0005634	nuclei	nucleus
+10525	10540	GO:0000792	heterochromatin	heterochromatin
+10742	10750	GO:0031982	vesicles	vesicle
+10918	10925	GO:0007114	budding	cell budding
+11008	11021	GO:0009653	morphogenesis	anatomical structure morphogenesis
+11196	11205	GO:0001917	segments,	photoreceptor inner segmentinner
+11346	11352	GO:0005929	cilium	cilium
+11346	11352	GO:0005929	cilium	cilium
+11748	11752	GO:0097683	apex	dinoflagellate apex
+12521	12526	GO:0031672	discs	A band
+12538	12544	GO:0031672	discs.	A band
+12611	12620	GO:0009058	formation	biosynthetic process
+12664	12675	GO:0032502	development	developmental process
+12748	12758	GO:0009058	formation.	biosynthetic process
+12784	12797	GO:0009653	morphogenesis	anatomical structure morphogenesis
+13480	13486	GO:0005929	cilium	cilium
+14161	14171	GO:0045102	peripherin	obsolete peripherin
+14833	14840	GO:0005929	cilium.	cilium
+14905	14914	GO:0009058	formation	biosynthetic process
+15067	15076	GO:0009058	formation	biosynthetic process
+15085	15098	GO:0044317	rod spherules	rod spherule
+15085	15098	GO:0044317	rod spherules	rod spherule
+15222	15230	GO:0007129	synapses	synapsis
+15222	15229	GO:0007129	synapse	synapsis
+15222	15230	GO:0007129	synapses	synapsis
+15222	15229	GO:0007129	synapse	synapsis
+15407	15413	GO:0048788	ribbon	cytoskeleton of presynaptic active zone
+15647	15656	GO:0030425	dendrites	dendrite
+15770	15778	GO:0044326	pedicles	dendritic spine neck
+15770	15777	GO:0044326	pedicle	dendritic spine neck
+15770	15778	GO:0044326	pedicles	dendritic spine neck
+15870	15885	GO:0042995	cell processes.	cell projection
+15917	15925	GO:0048788	ribbons.	cytoskeleton of presynaptic active zone
+15917	15924	GO:0048788	ribbons	cytoskeleton of presynaptic active zone
+16149	16166	GO:0008021	synaptic vesicles	synaptic vesicle
+16441	16456	GO:0005886	plasma membrane	plasma membrane
+16647	16660	GO:0044317	rod spherules	rod spherule
+16776	16783	GO:0007129	synapse	synapsis
+16776	16783	GO:0007129	synapse	synapsis
+16793	16799	GO:0048788	ribbon	cytoskeleton of presynaptic active zone
+16793	16799	GO:0048788	ribbon	cytoskeleton of presynaptic active zone
+16841	16849	GO:0044326	pedicles	dendritic spine neck
+16841	16849	GO:0044326	pedicles	dendritic spine neck
+16881	16889	GO:0007129	synapses	synapsis
+17417	17424	GO:0048788	ribbon.	cytoskeleton of presynaptic active zone
+17469	17476	GO:0048788	ribbons	cytoskeleton of presynaptic active zone
+17689	17702	GO:0044317	rod spherules	rod spherule
+17735	17742	GO:0007129	synapse	synapsis
+17735	17742	GO:0007129	synapse	synapsis
+17752	17758	GO:0048788	ribbon	cytoskeleton of presynaptic active zone
+17752	17758	GO:0048788	ribbon	cytoskeleton of presynaptic active zone
+18004	18012	GO:0030425	dendrite	dendrite
+18074	18092	GO:0008021	synaptic vesicles.	synaptic vesicle
+18074	18091	GO:0008021	synaptic vesicles	synaptic vesicle
+18097	18111	GO:0030135	coated vesicle	coated vesicle
+18133	18146	GO:0005886	cell membrane	plasma membrane
+18453	18461	GO:0044326	pedicles	dendritic spine neck
+18584	18591	GO:0048788	ribbons	cytoskeleton of presynaptic active zone
+18621	18639	GO:0097060	synaptic membrane,	synaptic membrane
+18744	18749	GO:0005623	cell;	cell
+18770	18778	GO:0005634	nucleus;	nucleus
+18782	18789	GO:0048788	ribbon.	cytoskeleton of presynaptic active zone
+19232	19245	GO:0009653	morphogenesis	anatomical structure morphogenesis
+19322	19332	GO:0009058	formation;	biosynthetic process
+19394	19401	GO:0007129	synapse	synapsis
+19402	19412	GO:0009058	formation.	biosynthetic process
+19451	19465	GO:0007416	synaptogenesis	synapse assembly
+19553	19566	GO:0009653	morphogenesis	anatomical structure morphogenesis
+19663	19672	GO:0009058	formation	biosynthetic process
+19795	19805	GO:0009058	formation.	biosynthetic process
+19847	19874	GO:0042461	photoreceptor morphogenesis	photoreceptor cell development
+19906	19915	GO:0031982	Vesicular	vesicle
+20079	20087	GO:0031982	vesicles	vesicle
+20079	20087	GO:0031982	vesicles	vesicle
+20079	20087	GO:0031982	vesicles	vesicle
+20104	20113	GO:0009056	breakdown	catabolic process
+20131	20140	GO:0016020	membranes	membrane
+20214	20225	GO:0045102	peripherin,	obsolete peripherin
+20274	20284	GO:0005902	microvilli	microvillus
+20435	20442	GO:0003675	protein	obsolete protein
+20662	20668	GO:0040007	growth	growth
+20751	20757	GO:0005929	cilium	cilium
+20818	20826	GO:0003675	proteins	obsolete protein
+20818	20826	GO:0003675	proteins	obsolete protein
+20841	20845	GO:0031672	disc	A band
+20860	20865	GO:0007602	opsin	phototransduction
+20901	20907	GO:0031672	discs)	A band
+21262	21273	GO:0045102	peripherin.	obsolete peripherin
+21262	21272	GO:0045102	peripherin	obsolete peripherin
+21342	21357	GO:0010467	gene expression	gene expression
+21980	21991	GO:0016028	rhabdomere,	rhabdomere
+22261	22284	GO:0042052	rhabdomere development.	rhabdomere development
+22272	22284	GO:0032502	development.	developmental process
+22272	22283	GO:0032502	development	developmental process
+22801	22826	GO:0061541	rhabdomere morphogenesis.	rhabdomere morphogenesis
+22812	22826	GO:0009653	morphogenesis.	anatomical structure morphogenesis
+23006	23016	GO:0065007	regulation	biological regulation
+23440	23467	GO:0042461	photoreceptor morphogenesis	photoreceptor cell development
+23649	23660	GO:0045102	peripherin,	obsolete peripherin
+23799	23816	GO:0006629	lipid metabolism,	lipid metabolic process
+23817	23832	GO:0006457	protein folding	protein folding
+23837	23847	GO:0006810	transport,	transport
+24137	24145	GO:0003675	proteins	obsolete protein
+24357	24370	GO:0042384	ciliogenesis.	cilium assembly
+24357	24369	GO:0042384	ciliogenesis	cilium assembly
+24547	24574	GO:0042461	photoreceptor morphogenesis	photoreceptor cell development
+24771	24785	GO:0007416	synaptogenesis	synapse assembly
+24932	24952	GO:0060041	retinal development.	retina development in camera-type eye
+24954	24968	GO:0007416	Synaptogenesis	synapse assembly
+25083	25091	GO:0007129	synapses	synapsis
+25083	25091	GO:0007129	synapses	synapsis
+25083	25090	GO:0007129	synapse	synapsis
+25083	25090	GO:0007129	synapse	synapsis
+25083	25090	GO:0007129	synapse	synapsis
+25473	25487	GO:0007416	synaptogenesis	synapse assembly
+25530	25540	GO:0009058	formation.	biosynthetic process
+25530	25540	GO:0009058	formation.	biosynthetic process
+25681	25698	GO:0007602	phototransduction	phototransduction
+25681	25698	GO:0007602	phototransduction	phototransduction
+25771	25779	GO:0007129	synapse.	synapsis
+25872	25883	GO:0032502	development	developmental process
+25936	25959	GO:0009881	photoreceptor activity,	photoreceptor activity
+26025	26035	GO:0009058	formation,	biosynthetic process
+26025	26035	GO:0009058	formation,	biosynthetic process
+26485	26494	GO:0003675	proteins,	obsolete protein
+26485	26493	GO:0003675	proteins	obsolete protein
+27037	27065	GO:0042461	photoreceptor morphogenesis.	photoreceptor cell development
+27268	27276	GO:0003675	protein,	obsolete protein
+27524	27538	GO:0097470	ribbon synapse	ribbon synapse
+27684	27705	GO:0044430	cytoskeletal elements	cytoskeletal part
+28085	28100	GO:0097470	ribbon synapse.	ribbon synapse
+28134	28143	GO:0009058	formation	biosynthetic process
+28179	28198	GO:0060041	retinal development	retina development in camera-type eye
+28721	28730	GO:0007129	synapses,	synapsis
+28795	28812	GO:0048788	synaptic ribbons,	cytoskeleton of presynaptic active zone
+28891	28918	GO:0042461	photoreceptor morphogenesis	photoreceptor cell development
+29434	29440	GO:0007601	vision	visual perception
+29434	29440	GO:0007601	vision	visual perception
+29434	29440	GO:0007601	vision	visual perception
+29727	29735	GO:0003675	proteins	obsolete protein
+29727	29735	GO:0003675	proteins	obsolete protein
+29881	29898	GO:0007602	phototransduction	phototransduction
+30788	30797	GO:0009058	formation	biosynthetic process
+31205	31213	GO:0007129	synapses	synapsis
+31491	31505	GO:0009653	morphogenesis,	anatomical structure morphogenesis
+31506	31520	GO:0007416	synaptogenesis	synapse assembly
+32375	32384	GO:0001750	segments.	photoreceptor outer segmentouter

@@ -1,0 +1,232 @@
+StartIndex	EndIndex	GO:ID	Term	OntoTerm
+25	37	GO:0051179	localization	localization
+205	212	GO:0003675	protein	obsolete protein
+286	301	GO:0061025	membrane fusion	membrane fusion
+458	465	GO:0031982	vesicle	vesicle
+639	644	GO:0005623	cells	cell
+777	798	GO:0061024	membrane organization	membrane organization
+777	785	GO:0016020	membrane	membrane
+1236	1251	GO:0061025	membrane fusion	membrane fusion
+1304	1311	GO:0003675	protein	obsolete protein
+1366	1379	GO:0005856	cytoskeleton.	cytoskeleton
+1466	1485	GO:0042995	cellular processes.	cell projection
+1574	1578	GO:0005623	cell	cell
+1574	1578	GO:0005623	cell	cell
+1788	1803	GO:0061025	membrane fusion	membrane fusion
+1887	1894	GO:0005488	binding	binding
+1895	1903	GO:0003675	protein,	obsolete protein
+1895	1902	GO:0003675	protein	obsolete protein
+1965	1984	GO:0042583	chromaffin granules	chromaffin granule
+2012	2021	GO:0016020	membranes	membrane
+2116	2126	GO:0006887	exocytotic	exocytosis
+2127	2136	GO:0046903	secretion	secretion
+2220	2228	GO:0003675	proteins	obsolete protein
+2689	2697	GO:0045292	splicing	mRNA cis splicing, via spliceosome
+3067	3075	GO:0005829	cytosol,	cytosol
+3083	3099	GO:0005886	plasma membrane,	plasma membrane
+3111	3119	GO:0005634	nucleus,	nucleus
+3123	3132	GO:0031982	vesicular	vesicle
+3162	3182	GO:0042583	chromaffin granules,	chromaffin granule
+3194	3202	GO:0030315	t-tubule	T-tubule
+3244	3253	GO:0016020	membranes	membrane
+3292	3305	GO:0005622	intracellular	intracellular
+3292	3305	GO:0005622	intracellular	intracellular
+3373	3389	GO:0031965	nuclear membrane	nuclear membrane
+3418	3427	GO:0031982	vesicles.	vesicle
+3468	3479	GO:0045121	lipid rafts	membrane raft
+3485	3496	GO:0045121	Lipid rafts	membrane raft
+3516	3532	GO:0006900	membrane budding	membrane budding
+3581	3591	GO:0006887	exocytosis	exocytosis
+3605	3612	GO:0005488	binding	binding
+3605	3612	GO:0005488	binding	binding
+3714	3721	GO:0003675	protein	obsolete protein
+3795	3800	GO:0005488	binds	binding
+3804	3813	GO:0016020	membranes	membrane
+3903	3922	GO:0005219	ryanodine receptor,	ryanodine-sensitive calcium-release channel activity
+3903	3921	GO:0005219	ryanodine receptor	ryanodine-sensitive calcium-release channel activity
+4385	4398	GO:0005515	proteins bind	protein binding
+4531	4538	GO:0003675	protein	obsolete protein
+4584	4604	GO:0005615	extracellular space,	extracellular space
+4612	4619	GO:0005634	nucleus	nucleus
+4624	4633	GO:0005737	cytoplasm	cytoplasm
+4641	4654	GO:0005739	mitochondria.	mitochondrion
+4755	4765	GO:0065007	regulation	biological regulation
+4821	4841	GO:0005640	perinuclear membrane	nuclear outer membrane
+4867	4877	GO:0046903	secretion.	secretion
+4928	4937	GO:0097194	apoptosis	execution phase of apoptosis
+4938	4949	GO:0065007	regulation,	biological regulation
+5094	5102	GO:0016020	membrane	membrane
+5138	5149	GO:0042592	homeostasis	homeostatic process
+5169	5188	GO:0007165	signaling pathways.	signal transduction
+5459	5476	GO:0030073	insulin secretion	insulin secretion
+5459	5476	GO:0030073	insulin secretion	insulin secretion
+6503	6512	GO:0031982	vesicles,	vesicle
+6639	6649	GO:0045121	lipid raft	membrane raft
+6639	6649	GO:0045121	lipid raft	membrane raft
+6683	6691	GO:0003675	proteins	obsolete protein
+6683	6691	GO:0003675	proteins	obsolete protein
+6683	6691	GO:0003675	proteins	obsolete protein
+6934	6946	GO:0045121	lipid rafts.	membrane raft
+7000	7017	GO:0006900	vesicle formation	membrane budding
+7162	7180	GO:0005886	cellular membrane.	plasma membrane
+7507	7521	GO:0045121	membrane rafts	membrane raft
+8024	8031	GO:0003675	Protein	obsolete protein
+8198	8206	GO:0003823	antibody	antigen binding
+8336	8344	GO:0031982	vesicles	vesicle
+8336	8343	GO:0031982	vesicle	vesicle
+8336	8343	GO:0031982	vesicle	vesicle
+8336	8344	GO:0031982	vesicles	vesicle
+8336	8344	GO:0031982	vesicles	vesicle
+8426	8447	GO:0061024	membrane organization	membrane organization
+9288	9302	GO:1990742	microvesicles:	microvesicle
+9398	9408	GO:0016020	membranes,	membrane
+9454	9463	GO:0009058	formation	biosynthetic process
+9705	9713	GO:0031982	vesicles	vesicle
+9744	9752	GO:0031982	Vesicles	vesicle
+9956	9965	GO:0003823	antibody.	antigen binding
+10433	10449	GO:0005625	soluble fraction	obsolete soluble fraction
+10532	10542	GO:0016020	membranes.	membrane
+10532	10541	GO:0016020	membranes	membrane
+10532	10540	GO:0016020	membrane	membrane
+10575	10591	GO:0005886	plasma membranes	plasma membrane
+10627	10638	GO:0043226	organelles.	organelle
+10732	10739	GO:0005488	binding	binding
+10974	10982	GO:0031982	vesicles	vesicle
+11211	11230	GO:0005624	membrane fractions.	obsolete membrane fraction
+11484	11493	GO:0003823	antibody.	antigen binding
+11618	11622	GO:0005623	cell	cell
+11623	11631	GO:0031982	vesicles	vesicle
+11679	11686	GO:0003675	protein	obsolete protein
+11827	11833	GO:0005623	cells,	cell
+12657	12665	GO:0016020	membrane	membrane
+12657	12665	GO:0016020	membrane	membrane
+12657	12665	GO:0016020	membrane	membrane
+12706	12718	GO:0005856	cytoskeleton	cytoskeleton
+12831	12844	GO:0005576	extracellular	extracellular region
+12890	12895	GO:0019835	lysis	cytolysis
+12890	12895	GO:0019835	lysis	cytolysis
+12890	12895	GO:0019835	lysis	cytolysis
+13084	13089	GO:0005623	cells	cell
+13084	13089	GO:0005623	cells	cell
+13084	13089	GO:0005623	cells	cell
+13084	13089	GO:0005623	cells	cell
+13185	13204	GO:0044237	cellular metabolism	cellular metabolic process
+13221	13234	GO:0005622	intracellular	intracellular
+13247	13251	GO:0007568	Aged	aging
+13524	13530	GO:0005623	cells.	cell
+13524	13530	GO:0005623	cells.	cell
+14706	14719	GO:0005576	extracellular	extracellular region
+14764	14769	GO:0019835	lysis	cytolysis
+14764	14769	GO:0019835	lysis	cytolysis
+15249	15256	GO:0005488	binding	binding
+15274	15281	GO:0031941	F-actin	filamentous actin
+15342	15350	GO:0016020	membrane	membrane
+15384	15400	GO:0050801	ion homeostasis.	ion homeostasis
+15441	15452	GO:0007599	haemostasis	hemostasis
+15496	15500	GO:0005623	cell	cell
+15660	15665	GO:0005623	cells	cell
+15660	15665	GO:0005623	cells	cell
+15660	15665	GO:0005623	cells	cell
+16652	16671	GO:0030168	Platelet activation	platelet activation
+16719	16726	GO:0043336	resting	site-specific telomere resolvase activity
+16775	16786	GO:0031143	pseudopods.	pseudopodium
+17039	17058	GO:0030168	platelet activation	platelet activation
+17814	17834	GO:0070527	Platelet aggregation	platelet aggregation
+18939	18953	GO:0006906	vesicle fusion	vesicle fusion
+18988	18996	GO:0016020	membrane	membrane
+19014	19021	GO:0003675	protein	obsolete protein
+19048	19063	GO:0005886	plasma membrane	plasma membrane
+19124	19131	GO:0005829	cytosol	cytosol
+19156	19160	GO:0005623	cell	cell
+19315	19321	GO:0005623	cells,	cell
+19436	19441	GO:0005623	cells	cell
+19557	19564	GO:0005488	binding	binding
+19857	19870	GO:0045121	membrane raft	membrane raft
+19857	19865	GO:0016020	membrane	membrane
+19987	20008	GO:0061024	membrane organization	membrane organization
+20246	20255	GO:0003675	proteins.	obsolete protein
+20291	20300	GO:0016020	membranes	membrane
+20493	20501	GO:0016020	membrane	membrane
+20765	20774	GO:0046903	secretion	secretion
+20885	20895	GO:0046903	secretion,	secretion
+20937	20952	GO:0061025	membrane fusion	membrane fusion
+21091	21098	GO:0007114	budding	cell budding
+21117	21126	GO:0031982	vesicles.	vesicle
+21117	21125	GO:0031982	vesicles	vesicle
+21190	21199	GO:0009058	formation	biosynthetic process
+21190	21199	GO:0009058	formation	biosynthetic process
+21307	21313	GO:0005623	cells,	cell
+21405	21420	GO:0061025	membrane fusion	membrane fusion
+21405	21413	GO:0016020	membrane	membrane
+21405	21420	GO:0061025	membrane fusion	membrane fusion
+21749	21763	GO:0005886	cell membrane,	plasma membrane
+22033	22042	GO:0016020	membranes	membrane
+22111	22120	GO:0005768	endosomes	endosome
+22234	22238	GO:0044853	raft	plasma membrane raftmembrane
+22399	22411	GO:0051179	localisation	localization
+22490	22501	GO:0048821	development	erythrocyte developmentblood cell
+22549	22566	GO:0006900	vesicle formation	membrane budding
+22571	22587	GO:0061025	membrane fusion,	membrane fusion
+22571	22579	GO:0016020	membrane	membrane
+22641	22648	GO:0003675	protein	obsolete protein
+22641	22648	GO:0003675	protein	obsolete protein
+22841	22852	GO:0042592	homeostasis	homeostatic process
+22870	22892	GO:0061024	membrane organization.	membrane organization
+23252	23271	GO:0003674	molecular functions	molecular_function
+23279	23294	GO:0005886	plasma membrane	plasma membrane
+23286	23294	GO:0016020	membrane	membrane
+23335	23347	GO:0005856	cytoskeleton	cytoskeleton
+23405	23413	GO:0008091	spectrin	spectrin
+23449	23464	GO:0005884	actin filaments	actin filament
+23483	23491	GO:0003675	proteins	obsolete protein
+23483	23491	GO:0003675	proteins	obsolete protein
+23549	23562	GO:0005886	cell membrane	plasma membrane
+23569	23577	GO:0016020	Membrane	membrane
+23778	23782	GO:0043336	rest	site-specific telomere resolvase activity
+23977	23985	GO:0016020	membrane	membrane
+23977	23985	GO:0016020	membrane	membrane
+23977	23985	GO:0016020	membrane	membrane
+23977	23985	GO:0016020	membrane	membrane
+24155	24170	GO:0005886	plasma membrane	plasma membrane
+24271	24279	GO:0003675	proteins	obsolete protein
+24271	24278	GO:0003675	protein	obsolete protein
+24396	24400	GO:0005488	bind	binding
+24413	24421	GO:0031941	F-actin,	filamentous actin
+24576	24589	GO:0005856	cytoskeleton,	cytoskeleton
+24721	24740	GO:0007165	signaling pathways.	signal transduction
+24814	24826	GO:0042592	homeostasis.	homeostatic process
+24883	24896	GO:0005622	intracellular	intracellular
+24883	24896	GO:0005622	intracellular	intracellular
+24947	24955	GO:0016020	membrane	membrane
+24947	24955	GO:0016020	membrane	membrane
+24947	24955	GO:0016020	membrane	membrane
+25363	25375	GO:0005856	cytoskeleton	cytoskeleton
+25468	25488	GO:0070527	platelet aggregation	platelet aggregation
+26559	26567	GO:0003675	proteins	obsolete protein
+26659	26668	GO:0009058	formation	biosynthetic process
+26681	26689	GO:0016020	membrane	membrane
+26706	26718	GO:0045121	lipid rafts,	membrane raft
+26831	26840	GO:0016020	membranes	membrane
+27000	27013	GO:0005856	cytoskeleton.	cytoskeleton
+27043	27050	GO:0031941	F-actin	filamentous actin
+27477	27488	GO:0050817	Coagulation	coagulation
+28290	28294	GO:0005623	cell	cell
+28641	28661	GO:0070527	platelet aggregation	platelet aggregation
+28979	28984	GO:0019835	lysis	cytolysis
+29048	29069	GO:0004866	proteinase inhibitors	endopeptidase inhibitor activity
+30063	30071	GO:0031982	vesicles	vesicle
+30088	30105	GO:0006900	vesicle formation	membrane budding
+30494	30503	GO:0022809	ionophore	mobile ion carrier activity
+30907	30921	GO:1990742	microvesicles.	microvesicle
+31351	31359	GO:0031982	vesicles	vesicle
+32477	32497	GO:0070527	Platelet aggregation	platelet aggregation
+32687	32707	GO:0070527	platelet aggregation	platelet aggregation
+34057	34061	GO:0005623	cell	cell
+34057	34061	GO:0005623	cell	cell
+34758	34764	GO:0060004	Reflex	reflex
+35051	35061	GO:0003823	Antibodies	antigen binding
+35122	35126	GO:0019013	core	viral nucleocapsid
+35174	35182	GO:0003823	antibody	antigen binding
+35717	35721	GO:0005623	cell	cell
+35959	35979	GO:0070527	platelet aggregation	platelet aggregation
+36109	36117	GO:0003675	protein,	obsolete protein

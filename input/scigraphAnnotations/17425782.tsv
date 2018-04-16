@@ -1,0 +1,197 @@
+StartIndex	EndIndex	GO:ID	Term	OntoTerm
+29	38	GO:0023052	signaling	signaling
+52	70	GO:0001822	kidney development	kidney development
+206	213	GO:0005667	complex	transcription factor complexfactor
+231	241	GO:0023052	signaling.	signaling
+231	240	GO:0023052	signaling	signaling
+324	343	GO:0001822	kidney development,	kidney development
+709	728	GO:0001822	kidney development,	kidney development
+1015	1024	GO:0023052	signaling	signaling
+1425	1448	GO:0001763	Branching morphogenesis	morphogenesis of a branching structure
+1696	1706	GO:0009058	formation,	biosynthetic process
+1892	1911	GO:0001822	kidney development.	kidney development
+1977	2000	GO:0001763	branching morphogenesis	morphogenesis of a branching structure
+2028	2047	GO:0001822	kidney development.	kidney development
+2325	2334	GO:0023052	signaling	signaling
+2325	2331	GO:0023052	signal	signaling
+2469	2478	GO:0023052	signaling	signaling
+2469	2478	GO:0023052	signaling	signaling
+2526	2545	GO:0001822	kidney development.	kidney development
+2634	2647	GO:0072006	nephrogenesis	nephron development
+2634	2647	GO:0072006	nephrogenesis	nephron development
+3125	3135	GO:0009058	formation,	biosynthetic process
+3269	3276	GO:0023052	signal,	signaling
+3549	3558	GO:0023052	signaling	signaling
+3549	3558	GO:0023052	signaling	signaling
+3615	3624	GO:0009058	formation	biosynthetic process
+3642	3657	GO:0006351	transcriptional	transcription, DNA-templated
+3642	3657	GO:0006351	transcriptional	transcription, DNA-templated
+3720	3727	GO:0005634	nucleus	nucleus
+3738	3743	GO:0005488	binds	binding
+4363	4374	GO:0032502	development	developmental process
+4662	4671	GO:0023052	signaling	signaling
+4662	4671	GO:0023052	signaling	signaling
+4662	4671	GO:0023052	signaling	signaling
+4679	4698	GO:0001822	kidney development.	kidney development
+4860	4871	GO:0032502	Development	developmental process
+5051	5074	GO:0001763	branching morphogenesis	morphogenesis of a branching structure
+5100	5109	GO:0060503	expansion	bud dilation involved in lung branchingand
+5206	5216	GO:0009058	formation,	biosynthetic process
+5684	5689	GO:0007618	mated	mating
+6122	6131	GO:0023052	signaling	signaling
+6232	6243	GO:0032502	development	developmental process
+6334	6343	GO:0023052	signaling	signaling
+6780	6790	GO:0023052	signaling.	signaling
+7125	7136	GO:0032502	development	developmental process
+7334	7346	GO:0032502	development.	developmental process
+8375	8387	GO:0051179	localization	localization
+8399	8407	GO:0003675	proteins	obsolete protein
+8461	8466	GO:0005623	cells	cell
+8672	8681	GO:0003675	proteins.	obsolete protein
+8836	8844	GO:0003675	proteins	obsolete protein
+8929	8937	GO:0005634	nucleus,	nucleus
+8997	9003	GO:0023052	signal	signaling
+9219	9228	GO:0003823	antibody.	antigen binding
+9427	9440	GO:0072006	nephrogenesis	nephron development
+9517	9534	GO:0001822	renal development	kidney development
+9623	9633	GO:0003823	antibodies	antigen binding
+9719	9727	GO:0003823	antibody	antigen binding
+9778	9788	GO:0003823	Antibodies	antigen binding
+9989	9995	GO:0005530	lectin	obsolete lectin
+10241	10251	GO:0003823	antibodies	antigen binding
+10413	10419	GO:0005530	lectin	obsolete lectin
+11134	11148	GO:0072006	nephrogenesis.	nephron development
+11320	11334	GO:0072006	nephrogenesis,	nephron development
+13225	13234	GO:0023052	signaling	signaling
+13311	13320	GO:0023052	signaling	signaling
+13311	13320	GO:0023052	signaling	signaling
+13311	13320	GO:0023052	signaling	signaling
+13311	13320	GO:0023052	signaling	signaling
+13692	13702	GO:0023052	signaling.	signaling
+13886	13895	GO:0023052	signaling	signaling
+14009	14019	GO:0023052	signaling.	signaling
+14009	14019	GO:0023052	signaling.	signaling
+15160	15169	GO:0023052	signaling	signaling
+16445	16473	GO:0004565	beta-galactosidase activity.	beta-galactosidase activity
+17400	17406	GO:0005623	cells.	cell
+18198	18207	GO:0023052	signaling	signaling
+18657	18667	GO:0023052	signaling.	signaling
+19490	19499	GO:0023052	signaling	signaling
+19490	19499	GO:0023052	signaling	signaling
+19844	19849	GO:0005623	cells	cell
+20813	20823	GO:0023052	signaling.	signaling
+20813	20822	GO:0023052	signaling	signaling
+21236	21247	GO:0032502	development	developmental process
+22074	22082	GO:0097649	tubules,	A axonemal microtubule
+22194	22203	GO:0023052	signaling	signaling
+22194	22203	GO:0023052	signaling	signaling
+22194	22203	GO:0023052	signaling	signaling
+22194	22203	GO:0023052	signaling	signaling
+22194	22203	GO:0023052	signaling	signaling
+22441	22451	GO:0023052	signaling,	signaling
+22488	22501	GO:0072006	nephrogenesis	nephron development
+22488	22501	GO:0072006	nephrogenesis	nephron development
+22970	22984	GO:0072006	nephrogenesis,	nephron development
+23289	23304	GO:0010467	gene expression	gene expression
+23289	23304	GO:0010467	gene expression	gene expression
+23501	23511	GO:0023052	signaling,	signaling
+24173	24180	GO:0097649	tubules	A axonemal microtubule
+24292	24306	GO:0046323	glucose uptake	glucose import
+24879	24889	GO:0003807	kallikrein	obsolete plasma kallikrein activity
+24931	24942	GO:0003807	Kallikreins	obsolete plasma kallikrein activity
+24977	24995	GO:0048771	tissue remodeling,	tissue remodeling
+25020	25028	GO:0008217	pressure	regulation of blood pressureof blood
+25203	25214	GO:0032502	development	developmental process
+25371	25379	GO:0042752	rhythms,	regulation of circadian rhythmof circadian
+25467	25490	GO:0001763	branching morphogenesis	morphogenesis of a branching structure
+25764	25775	GO:0065007	regulation.	biological regulation
+26167	26176	GO:0023052	signaling	signaling
+26236	26251	GO:0010467	Gene expression	gene expression
+26274	26283	GO:0023052	signaling	signaling
+27227	27242	GO:0010467	gene expression	gene expression
+27408	27418	GO:0023052	signaling.	signaling
+27408	27417	GO:0023052	signaling	signaling
+27408	27417	GO:0023052	signaling	signaling
+27758	27771	GO:0005702	constriction,	polytene chromosome weak point
+27800	27820	GO:0007507	cardiac development,	heart development
+27882	27901	GO:0007165	signal transduction	signal transduction
+28737	28747	GO:0023052	signaling.	signaling
+28737	28746	GO:0023052	signaling	signaling
+28888	28897	GO:0003675	proteins,	obsolete protein
+28959	28979	GO:0006338	chromatin remodeling	chromatin remodeling
+29193	29206	GO:0009793	embryogenesis	embryo development ending in seed dormancy
+29225	29236	GO:0007444	development	imaginal disc developmentdisc
+29733	29742	GO:0023052	signaling	signaling
+29808	29822	GO:0072006	nephrogenesis.	nephron development
+29808	29821	GO:0072006	nephrogenesis	nephron development
+29808	29821	GO:0072006	nephrogenesis	nephron development
+30219	30238	GO:0001822	kidney development.	kidney development
+30310	30319	GO:0023052	signaling	signaling
+30310	30316	GO:0023052	signal	signaling
+30310	30319	GO:0023052	signaling	signaling
+30310	30319	GO:0023052	signaling	signaling
+30310	30319	GO:0023052	signaling	signaling
+30478	30488	GO:0023052	signaling.	signaling
+30478	30488	GO:0023052	signaling.	signaling
+30685	30708	GO:0001763	branching morphogenesis	morphogenesis of a branching structure
+31052	31075	GO:0001763	branching morphogenesis	morphogenesis of a branching structure
+31392	31402	GO:0023052	signaling.	signaling
+31392	31401	GO:0023052	signaling	signaling
+31392	31401	GO:0023052	signaling	signaling
+31392	31401	GO:0023052	signaling	signaling
+31896	31905	GO:0023052	signaling	signaling
+31896	31905	GO:0023052	signaling	signaling
+31983	31996	GO:0072006	nephrogenesis	nephron development
+32237	32247	GO:0023052	signaling,	signaling
+32237	32246	GO:0023052	signaling	signaling
+32237	32243	GO:0023052	signal	signaling
+32237	32246	GO:0023052	signaling	signaling
+32334	32344	GO:0023052	signaling.	signaling
+32608	32619	GO:0032502	development	developmental process
+32652	32665	GO:0048513	organogenesis	organ development
+32770	32778	GO:0003675	proteins	obsolete protein
+33017	33027	GO:0010467	expression	gene expressionwith
+33501	33511	GO:0023052	signaling,	signaling
+33650	33669	GO:0001822	kidney development.	kidney development
+33812	33822	GO:0023052	signaling.	signaling
+33899	33922	GO:0001763	branching morphogenesis	morphogenesis of a branching structure
+34149	34158	GO:0009058	formation	biosynthetic process
+34321	34330	GO:0023052	signaling	signaling
+34321	34330	GO:0023052	signaling	signaling
+34321	34330	GO:0023052	signaling	signaling
+34395	34409	GO:0072006	nephrogenesis.	nephron development
+34531	34541	GO:0023052	signaling.	signaling
+34531	34541	GO:0023052	signaling.	signaling
+34551	34555	GO:0005623	cell	cell
+34980	34993	GO:0048513	organogenesis	organ development
+35172	35185	GO:0006351	transcription	transcription, DNA-templated
+35240	35250	GO:0003675	proteins ,	obsolete protein
+35287	35299	GO:0051179	localization	localization
+36047	36051	GO:0005623	cell	cell
+36660	36666	GO:0005623	cells,	cell
+36660	36665	GO:0005623	cells	cell
+36795	36800	GO:0007618	mated	mating
+36963	36969	GO:0007618	mating	mating
+37658	37665	GO:0005530	lectins	obsolete lectin
+37670	37681	GO:0003823	antibodies.	antigen binding
+37670	37681	GO:0003823	antibodies.	antigen binding
+37670	37680	GO:0003823	antibodies	antigen binding
+37670	37680	GO:0003823	antibodies	antigen binding
+37670	37680	GO:0003823	antibodies	antigen binding
+37839	37844	GO:0004617	serum	phosphoglycerate dehydrogenase activity
+38085	38091	GO:0007601	Vision	visual perception
+39044	39063	GO:0002377	antibody production	immunoglobulin production
+39154	39165	GO:0003823	antibodies,	antigen binding
+39154	39164	GO:0003823	antibodies	antigen binding
+39154	39164	GO:0003823	antibodies	antigen binding
+39478	39486	GO:0003675	proteins	obsolete protein
+39555	39574	GO:0002377	antibody production	immunoglobulin production
+39555	39563	GO:0003823	antibody	antigen binding
+39699	39703	GO:0005488	bind	binding
+39699	39703	GO:0005488	bind	binding
+39947	39952	GO:0005488	bound	binding
+40202	40211	GO:0023052	signaling	signaling
+40622	40630	GO:0003675	protein.	obsolete protein
+41062	41071	GO:0006396	processed	RNA processingwas
+41491	41497	GO:0023052	signal	signaling
+43595	43606	GO:0003823	antibodies.	antigen binding

@@ -1,0 +1,84 @@
+StartIndex	EndIndex	GO:ID	Term	OntoTerm
+94	105	GO:0005694	chromosomes	chromosome
+239	248	GO:0005260	regulator	channel-conductance-controlling ATPase activityfibrosis transmembrane conductance
+447	452	GO:0070701	mucus	mucus layer
+720	732	GO:0006954	inflammation	inflammatory response
+1324	1329	GO:0070701	mucus	mucus layer
+2285	2294	GO:0005260	regulator	channel-conductance-controlling ATPase activityfibrosis transmembrane conductance
+2378	2385	GO:0003675	protein	obsolete protein
+2427	2436	GO:0006810	transport	transport
+3062	3072	GO:0007586	digestion,	digestion
+3062	3071	GO:0007586	digestion	digestion
+3578	3583	GO:0070701	mucus	mucus layer
+3636	3648	GO:0006954	inflammation	inflammatory response
+3636	3648	GO:0006954	inflammation	inflammatory response
+3665	3670	GO:0070701	Mucus	mucus layer
+4332	4342	GO:0005694	chromosome	chromosome
+4332	4342	GO:0005694	chromosome	chromosome
+7068	7080	GO:0006954	inflammation	inflammatory response
+7068	7080	GO:0006954	inflammation	inflammatory response
+7261	7277	GO:0010467	gene expression.	gene expression
+7947	7965	GO:0008283	cell proliferation	cell proliferation
+9833	9848	GO:0010467	gene expression	gene expression
+10558	10573	GO:0010467	gene expression	gene expression
+10803	10808	GO:0070701	mucus	mucus layer
+10920	10925	GO:0070701	mucus	mucus layer
+10920	10925	GO:0070701	mucus	mucus layer
+10920	10925	GO:0070701	mucus	mucus layer
+10920	10925	GO:0070701	mucus	mucus layer
+10920	10925	GO:0070701	mucus	mucus layer
+10920	10925	GO:0070701	mucus	mucus layer
+10920	10925	GO:0070701	mucus	mucus layer
+10920	10925	GO:0070701	mucus	mucus layer
+11011	11016	GO:0016265	death	death
+12191	12197	GO:0070701	mucus,	mucus layer
+12191	12197	GO:0070701	mucus,	mucus layer
+12250	12256	GO:0070701	mucus.	mucus layer
+13026	13031	GO:0070701	mucus	mucus layer
+13026	13031	GO:0070701	mucus	mucus layer
+13557	13566	GO:0046903	secretion	secretion
+13587	13592	GO:0070701	mucus	mucus layer
+13587	13592	GO:0070701	mucus	mucus layer
+13587	13592	GO:0070701	mucus	mucus layer
+13691	13707	GO:0010467	gene expression,	gene expression
+14407	14423	GO:0010467	gene expression.	gene expression
+15784	15789	GO:0016265	death	death
+16021	16026	GO:0070701	mucus	mucus layer
+16747	16753	GO:0016265	Deaths	death
+16834	16841	GO:0016265	'death'	death
+16835	16840	GO:0016265	death	death
+16835	16840	GO:0016265	death	death
+17761	17771	GO:0005694	chromosome	chromosome
+18051	18070	GO:0098687	chromosomal regions	chromosomal region
+19192	19203	GO:0005694	chromosomes	chromosome
+19356	19372	GO:0042044	fluid transport:	fluid transport
+19535	19547	GO:0006954	Inflammation	inflammatory response
+19645	19657	GO:0006954	inflammation	inflammatory response
+19645	19657	GO:0006954	inflammation	inflammatory response
+19881	19891	GO:0042110	activation	T cell activationcell
+19907	19915	GO:0030246	selectin	carbohydrate binding
+20726	20733	GO:0005173	factor,	stem cell factor receptor bindingcell
+20763	20778	GO:0060374	differentiation	mast cell differentiationcell
+20921	20931	GO:0005618	cell walls	cell wall
+21006	21012	GO:0023052	signal	signaling
+21109	21114	GO:0005141	IL-10	interleukin-10 receptor binding
+21240	21248	GO:0035556	pathways	intracellular signal transductionsignaling
+21540	21551	GO:0035264	body growth	multicellular organism growth
+21797	21813	GO:0006955	immune response,	immune response
+21837	21842	GO:0005623	cells	cell
+22147	22156	GO:0030246	selectins	carbohydrate binding
+22193	22201	GO:0003675	proteins	obsolete protein
+22304	22320	GO:0006955	immune responses	immune response
+22350	22355	GO:0070701	mucus	mucus layer
+22350	22355	GO:0070701	mucus	mucus layer
+22350	22355	GO:0070701	mucus	mucus layer
+22495	22504	GO:0046903	secretion	secretion
+22798	22814	GO:0070254	mucus secretion.	mucus secretion
+23099	23111	GO:0006954	inflammation	inflammatory response
+23183	23199	GO:0070254	mucus secretion,	mucus secretion
+23272	23298	GO:0030223	neutrophil differentiation	neutrophil differentiation
+23303	23311	GO:0007610	behavior	behavior
+25581	25587	GO:0004239	mapped	obsolete methionyl aminopeptidase activity
+25708	25718	GO:0030849	autosomes.	autosome
+25735	25750	GO:0010467	gene expression	gene expression
+26610	26625	GO:0010467	Gene expression	gene expression

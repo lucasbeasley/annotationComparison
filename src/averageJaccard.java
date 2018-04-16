@@ -120,14 +120,16 @@ public class averageJaccard {
     public static void main(String[] args) {
         averageJaccard avgj = new averageJaccard();
         //Directories for CRAFT annotations
-        File craft_cc = new File("craftAnnotations/go_cc");
-        File craft_bpmf = new File("craftAnnotations/go_bpmf");
+        File craft_cc = new File("input/craftAnnotations/go_cc");
+        File craft_bpmf = new File("input/craftAnnotations/go_bpmf");
         //Directory for NCBO Annotations
-        File ncbo = new File("ncboAnnotations");
+        File ncbo = new File("input/ncboAnnotations");
         //Directory for Textpresso Annotations
-        File textpresso = new File("textpressoAnnotations");
+        File textpresso = new File("input/textpressoAnnotations");
         //Directory for MetaMap Annotations
-        File metamap = new File("metamapAnnotations");
+        File metamap = new File("input/metamapAnnotations");
+        //Directory for Scigraph Annotations
+        File scigraph = new File("input/scigraphAnnotations");
         //GO Ontology file
         File ontology = new File("go.owl");
 
@@ -137,11 +139,13 @@ public class averageJaccard {
         Map<String, List<Annotation>> ncbo_annos = avgj.pullAnnos(ncbo);
         Map<String, List<Annotation>> textpresso_annos = avgj.pullAnnos(textpresso);
         Map<String, List<Annotation>> metamap_annos = avgj.pullAnnos(metamap);
+        Map<String, List<Annotation>> scigraph_annos = avgj.pullAnnos(scigraph);
 
         //Compare CRAFT annotations to tools, get the match counts (total, partial, new), and list of partial matches
         Map<String, CountsAndPartials> ncbo_counts = avgj.compareAnnotations(craft_annos, ncbo_annos);
         Map<String, CountsAndPartials> textpresso_counts = avgj.compareAnnotations(craft_annos, textpresso_annos);
         Map<String, CountsAndPartials> metamap_counts = avgj.compareAnnotations(craft_annos, metamap_annos);
+        Map<String, CountsAndPartials> scigraph_counts = avgj.compareAnnotations(craft_annos, scigraph_annos);
 
         //Retrieve the total counts (exact, partial, new annotations, unique GO:IDs) for each tool and CRAFT
         int[] craft_totals = {0, 0};
@@ -158,13 +162,15 @@ public class averageJaccard {
         CountsAndPartials ncbo_total = avgj.totalCounts(ncbo_counts);
         CountsAndPartials textpresso_total = avgj.totalCounts(textpresso_counts);
         CountsAndPartials metamap_total = avgj.totalCounts(metamap_counts);
+        CountsAndPartials scigraph_total = avgj.totalCounts(scigraph_counts);
         avgj.countUniqueGOs(ncbo_total, ncbo_annos);
         avgj.countUniqueGOs(textpresso_total, textpresso_annos);
         avgj.countUniqueGOs(metamap_total, metamap_annos);
+        avgj.countUniqueGOs(scigraph_total, scigraph_annos);
 
         //Write total counts to files
         File totals_output = new File("output/totals");
-        avgj.writeOut(craft_totals, ncbo_total, textpresso_total, metamap_total, totals_output);
+        avgj.writeOut(craft_totals, ncbo_total, textpresso_total, metamap_total, scigraph_total, totals_output);
 
         //Setup the ontology
         avgj.setupOntology(ontology);
@@ -173,28 +179,34 @@ public class averageJaccard {
         Map<String, double[]> ncbo_jaccards = avgj.calculateJaccards(ncbo_counts);
         Map<String, double[]> textpresso_jaccards = avgj.calculateJaccards(textpresso_counts);
         Map<String, double[]> metamap_jaccards = avgj.calculateJaccards(metamap_counts);
+        Map<String, double[]> scigraph_jaccards = avgj.calculateJaccards(scigraph_counts);
 
         //Calculate mean of Jaccard values and their standard deviation for each paper
         Map<String, Double> ncbo_avg_jaccard = avgj.calculateMean(ncbo_jaccards);
         Map<String, Double> textpresso_avg_jaccard = avgj.calculateMean(textpresso_jaccards);
         Map<String, Double> metamap_avg_jaccard = avgj.calculateMean(metamap_jaccards);
+        Map<String, Double> scigraph_avg_jaccard = avgj.calculateMean(scigraph_jaccards);
 
         //Write average Jaccards to files
         File ncbo_output = new File("output/ncbo_avg");
         File textpresso_output = new File("output/textpresso_avg");
         File metamap_output = new File("output/metamap_avg");
+        File scigraph_output = new File("output/scigraph_avg");
         avgj.writeOut(ncbo_avg_jaccard, ncbo_output);
         avgj.writeOut(textpresso_avg_jaccard,textpresso_output);
         avgj.writeOut(metamap_avg_jaccard, metamap_output);
+        avgj.writeOut(scigraph_avg_jaccard, scigraph_output);
 
         //Calculate average mean Jaccard value and average 2nd standard error of the mean for each tool
         double[] ncbo_avg_mean_and_dev = avgj.calculateAvgAndDevForTool(ncbo_avg_jaccard);
         double[] textpresso_avg_mean_and_dev = avgj.calculateAvgAndDevForTool(textpresso_avg_jaccard);
         double[] metamap_avg_mean_and_dev = avgj.calculateAvgAndDevForTool(metamap_avg_jaccard);
+        double[] scigraph_avg_mean_and_dev = avgj.calculateAvgAndDevForTool(scigraph_avg_jaccard);
 
         //Write overall average Jaccard and 2nd standard error of the mean for each tool to a file
         File tools_output = new File("output/tool_avgs");
-        avgj.writeOut(ncbo_avg_mean_and_dev, textpresso_avg_mean_and_dev, metamap_avg_mean_and_dev, tools_output);
+        avgj.writeOut(ncbo_avg_mean_and_dev, textpresso_avg_mean_and_dev, metamap_avg_mean_and_dev,
+                scigraph_avg_mean_and_dev, tools_output);
 
 
         boolean bool = true;
@@ -709,9 +721,11 @@ public class averageJaccard {
      * @param ncbo - CountsAndPartials for NCBO
      * @param textpresso - CountsAndPartials for Textpresso
      * @param mm - CountsAndPartials for MetaMap
+     * @param scigraph - CountsAndPartials for Scigraph
      * @param filename - output file name
      */
-    private void writeOut(int[] craft, CountsAndPartials ncbo, CountsAndPartials textpresso, CountsAndPartials mm, File filename){
+    private void writeOut(int[] craft, CountsAndPartials ncbo, CountsAndPartials textpresso, CountsAndPartials mm,
+                          CountsAndPartials scigraph, File filename){
         try(PrintWriter writer = new PrintWriter(filename)){
             writer.println("CRAFT\tTotal: " + craft[0] + "\tUnique GO:IDs: " + craft[1] + "\n");
             writer.println("Tool\tExacts\tPartials\tNew\tUniqueGOs\n");
@@ -721,6 +735,8 @@ public class averageJaccard {
                     + "\t" + textpresso.getNewAnnotations() + "\t" + textpresso.getUnique());
             writer.println("MetaMap\t" + mm.getExacts() + "\t" + mm.getPartials() + "\t" + mm.getNewAnnotations()
                     + "\t" + mm.getUnique());
+            writer.println("Scigraph\t" + scigraph.getExacts() + "\t" + scigraph.getPartials() + "\t"
+                    + scigraph.getNewAnnotations() + "\t" + scigraph.getUnique());
         }catch(FileNotFoundException ex){
             System.out.println("Error: Could not write to file " + filename);
         }
@@ -730,14 +746,18 @@ public class averageJaccard {
      * writeOut writes out the average mean and deviation for each tool to a file.
      * @param ncbovalues - average mean and deviation for NCBO
      * @param textpressovalues - average mean and deviation for Textpresso
+     * @param metamapvalues - average mean and deviation for MetaMap
+     * @param scigraphvalues - average mean and deviation for Scigraph
      * @param filename - output file name
      */
-    private void writeOut(double[] ncbovalues, double[] textpressovalues, double[] metamapvalues, File filename){
+    private void writeOut(double[] ncbovalues, double[] textpressovalues, double[] metamapvalues,
+                          double[] scigraphvalues, File filename){
         try(PrintWriter writer = new PrintWriter(filename)){
             writer.println("Tool\tAverageJaccard\tAverageDeviation");
             writer.println("NCBO\t" + ncbovalues[0] + "\t" + ncbovalues[1]);
             writer.println("Textpresso\t" + textpressovalues[0] + "\t" + textpressovalues[1]);
             writer.println("MetaMap\t" + metamapvalues[0] + "\t" + metamapvalues[1]);
+            writer.println("Scigraph\t" + scigraphvalues[0] + "\t" + scigraphvalues[1]);
         }catch(FileNotFoundException ex){
             System.out.println("Error: Could not write to file " + filename);
         }

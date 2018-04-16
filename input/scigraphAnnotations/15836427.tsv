@@ -1,0 +1,231 @@
+StartIndex	EndIndex	GO:ID	Term	OntoTerm
+82	91	GO:0023052	Signaling	signaling
+422	437	GO:0010467	gene expression	gene expression
+485	508	GO:0030182	neuron differentiation.	neuron differentiation
+652	676	GO:0048468	terminal differentiation	cell development
+900	909	GO:0023052	signaling	signaling
+1072	1076	GO:0005623	cell	cell
+1160	1164	GO:0030424	axon	axon
+1219	1234	GO:0007416	synaptogenesis.	synapse assembly
+1430	1440	GO:0007049	cell cycle	cell cycle
+1430	1440	GO:0007049	cell cycle	cell cycle
+1502	1517	GO:0006351	transcriptional	transcription, DNA-templated
+2239	2250	GO:0032502	development	developmental process
+2299	2311	GO:0005163	neurotrophin	nerve growth factor receptor binding
+2299	2311	GO:0005163	neurotrophin	nerve growth factor receptor binding
+2312	2321	GO:0023052	signaling	signaling
+2312	2321	GO:0023052	signaling	signaling
+2548	2559	GO:0060384	innervation	innervation
+2586	2601	GO:0006351	transcriptional	transcription, DNA-templated
+2586	2601	GO:0006351	transcriptional	transcription, DNA-templated
+2689	2700	GO:0007049	cell cycle.	cell cycle
+2901	2908	GO:0023052	signals	signaling
+2901	2908	GO:0023052	signals	signaling
+2944	2968	GO:0048468	terminal differentiation	cell development
+3364	3378	GO:0019230	proprioceptive	proprioception
+3364	3378	GO:0019230	proprioceptive	proprioception
+3364	3378	GO:0019230	proprioceptive	proprioception
+3427	3439	GO:0005163	neurotrophin	nerve growth factor receptor binding
+3468	3476	GO:0003675	proteins	obsolete protein
+3582	3604	GO:0030182	neuron differentiation	neuron differentiation
+3798	3808	GO:0023052	signaling,	signaling
+3987	3994	GO:0023052	signals	signaling
+3987	3994	GO:0023052	signals	signaling
+4127	4136	GO:0023052	signaling	signaling
+4127	4136	GO:0023052	signaling	signaling
+4127	4136	GO:0023052	signaling	signaling
+4127	4136	GO:0023052	signaling	signaling
+4127	4136	GO:0023052	signaling	signaling
+4197	4205	GO:0003675	proteins	obsolete protein
+4490	4509	GO:0048666	neuron development.	neuron development
+4598	4617	GO:0040034	developmental time,	regulation of development, heterochronic
+4655	4669	GO:0019230	proprioceptive	proprioception
+4902	4924	GO:0030182	neuron differentiation	neuron differentiation
+4967	4984	GO:0031175	neurite outgrowth	neuron projection development
+5015	5031	GO:0010467	gene expression.	gene expression
+5215	5230	GO:0006351	transcriptional	transcription, DNA-templated
+5373	5388	GO:0006351	transcriptional	transcription, DNA-templated
+5373	5388	GO:0006351	transcriptional	transcription, DNA-templated
+5373	5388	GO:0006351	transcriptional	transcription, DNA-templated
+5476	5487	GO:0032502	development	developmental process
+5491	5505	GO:0019230	proprioceptive	proprioception
+5491	5505	GO:0019230	proprioceptive	proprioception
+5579	5587	GO:0023052	signals,	signaling
+6126	6149	GO:0030182	neuron differentiation.	neuron differentiation
+6250	6263	GO:0006351	transcription	transcription, DNA-templated
+6326	6340	GO:0019230	proprioceptive	proprioception
+6326	6340	GO:0019230	proprioceptive	proprioception
+6530	6534	GO:0005488	bind	binding
+7042	7053	GO:0003677	DNA binding	DNA binding
+7145	7149	GO:0005623	cell	cell
+7203	7218	GO:2000144	transactivation	positive regulation of DNA-templated transcription, initiation
+7203	7218	GO:2000144	transactivation	positive regulation of DNA-templated transcription, initiation
+7711	7725	GO:0019230	proprioceptive	proprioception
+7711	7725	GO:0019230	proprioceptive	proprioception
+7711	7725	GO:0019230	proprioceptive	proprioception
+7711	7725	GO:0019230	proprioceptive	proprioception
+7711	7725	GO:0019230	proprioceptive	proprioception
+7711	7725	GO:0019230	proprioceptive	proprioception
+7905	7927	GO:0030182	neuron differentiation	neuron differentiation
+8238	8249	GO:0044297	cell bodies	cell body
+8641	8656	GO:0010467	gene expression	gene expression
+8731	8745	GO:0019230	proprioceptive	proprioception
+8898	8902	GO:0030424	axon	axon
+9482	9490	GO:0007129	synapses	synapsis
+9482	9490	GO:0007129	synapses	synapsis
+9582	9595	GO:0005622	intracellular	intracellular
+10028	10046	GO:0008150	biological process	biological_process
+10117	10126	GO:0009058	formation	biosynthetic process
+10417	10426	GO:0023052	signaling	signaling
+10431	10445	GO:0019230	proprioceptive	proprioception
+10431	10445	GO:0019230	proprioceptive	proprioception
+10637	10652	GO:0006351	transcriptional	transcription, DNA-templated
+10859	10866	GO:0003675	protein	obsolete protein
+11429	11436	GO:0003675	protein	obsolete protein
+11587	11601	GO:0019230	proprioceptive	proprioception
+12318	12325	GO:0031430	midline	M band
+12318	12325	GO:0031430	midline	M band
+12318	12325	GO:0031430	midline	M band
+12924	12929	GO:0030424	axons	axon
+13052	13066	GO:0048668	axon branching	collateral sprouting
+13300	13311	GO:0060384	innervation	innervation
+13360	13373	GO:0030484	muscle fibers	obsolete muscle fiber
+13506	13520	GO:0019230	proprioceptive	proprioception
+13610	13619	GO:0023052	signaling	signaling
+13821	13838	GO:0031175	Neurite Outgrowth	neuron projection development
+14121	14130	GO:0023052	signaling	signaling
+14173	14190	GO:0031175	neurite outgrowth	neuron projection development
+14446	14459	GO:0005163	neurotrophins	nerve growth factor receptor binding
+14495	14512	GO:0031175	neurite outgrowth	neuron projection development
+14495	14512	GO:0031175	neurite outgrowth	neuron projection development
+14495	14512	GO:0031175	neurite outgrowth	neuron projection development
+14495	14512	GO:0031175	neurite outgrowth	neuron projection development
+14731	14749	GO:0031175	neurite outgrowth.	neuron projection development
+14955	14969	GO:0019230	proprioceptive	proprioception
+15258	15266	GO:0043005	neurites	neuron projection
+15446	15458	GO:0005163	neurotrophin	nerve growth factor receptor binding
+15446	15458	GO:0005163	neurotrophin	nerve growth factor receptor binding
+15737	15751	GO:0019230	proprioceptive	proprioception
+16086	16094	GO:0043005	neurites	neuron projection
+16255	16264	GO:0023052	signaling	signaling
+16255	16264	GO:0023052	signaling	signaling
+16318	16335	GO:0031175	neurite outgrowth	neuron projection development
+16794	16811	GO:0031175	neurite outgrowth	neuron projection development
+16794	16811	GO:0031175	neurite outgrowth	neuron projection development
+17354	17366	GO:0005163	neurotrophin	nerve growth factor receptor binding
+17354	17366	GO:0005163	neurotrophin	nerve growth factor receptor binding
+17354	17366	GO:0005163	neurotrophin	nerve growth factor receptor binding
+17367	17384	GO:0007165	signaling cascade	signal transduction
+17473	17487	GO:0005163	neurotrophins,	nerve growth factor receptor binding
+18238	18248	GO:0008219	cell death	cell death
+18314	18323	GO:0097194	apoptosis	execution phase of apoptosis
+18818	18828	GO:0007049	cell cycle	cell cycle
+18845	18851	GO:0005623	cells,	cell
+19114	19125	GO:0008219	cell death,	cell death
+19251	19259	GO:0003675	proteins	obsolete protein
+19323	19333	GO:0008219	cell death	cell death
+20157	20166	GO:0023052	Signaling	signaling
+20275	20292	GO:0031175	neurite outgrowth	neuron projection development
+20406	20421	GO:0010467	gene expression	gene expression
+20749	20763	GO:0019230	proprioceptive	proprioception
+21277	21291	GO:0019230	proprioceptive	proprioception
+23018	23034	GO:0010467	gene expression,	gene expression
+23058	23075	GO:0031175	neurite outgrowth	neuron projection development
+23116	23123	GO:0023052	signals	signaling
+23433	23443	GO:0009058	formation.	biosynthetic process
+23564	23574	GO:0023052	signaling,	signaling
+23601	23616	GO:0010467	gene expression	gene expression
+23790	23800	GO:0023052	signaling.	signaling
+23870	23885	GO:0006351	transcriptional	transcription, DNA-templated
+24107	24116	GO:0023052	signaling	signaling
+24107	24116	GO:0023052	signaling	signaling
+24107	24116	GO:0023052	signaling	signaling
+24107	24116	GO:0023052	signaling	signaling
+24381	24394	GO:0005163	neurotrophins	nerve growth factor receptor binding
+24458	24472	GO:0019230	proprioceptive	proprioception
+24458	24472	GO:0019230	proprioceptive	proprioception
+24543	24558	GO:0006351	transcriptional	transcription, DNA-templated
+24582	24593	GO:0032502	development	developmental process
+25042	25052	GO:0023052	signaling,	signaling
+25042	25052	GO:0023052	signaling,	signaling
+25363	25377	GO:0019230	proprioceptive	proprioception
+25424	25429	GO:0030424	axons	axon
+26329	26344	GO:0006351	transcriptional	transcription, DNA-templated
+26874	26889	GO:0006351	transcriptional	transcription, DNA-templated
+26874	26889	GO:0006351	transcriptional	transcription, DNA-templated
+26874	26889	GO:0006351	transcriptional	transcription, DNA-templated
+26874	26889	GO:0006351	transcriptional	transcription, DNA-templated
+27500	27532	GO:0043687	post-translational modifications	post-translational protein modification
+27808	27816	GO:0003675	protein,	obsolete protein
+27884	27893	GO:0023052	signaling	signaling
+27884	27893	GO:0023052	signaling	signaling
+27926	27936	GO:0065007	regulation	biological regulation
+27926	27936	GO:0065007	regulation	biological regulation
+28311	28316	GO:0005623	cells	cell
+28311	28316	GO:0005623	cells	cell
+28311	28316	GO:0005623	cells	cell
+29925	29931	GO:0005623	cells.	cell
+29925	29929	GO:0005623	cell	cell
+29925	29930	GO:0005623	cells	cell
+29925	29929	GO:0005623	cell	cell
+29925	29930	GO:0005623	cells	cell
+31954	31985	GO:2000144	Transcriptional transactivation	positive regulation of DNA-templated transcription, initiation
+32031	32062	GO:2000144	transcriptional transactivation	positive regulation of DNA-templated transcription, initiation
+32731	32736	GO:0005623	cells	cell
+32940	32945	GO:0005623	Cells	cell
+33384	33394	GO:0003823	Antibodies	antigen binding
+34314	34323	GO:0097194	apoptotic	execution phase of apoptosis
+34324	34329	GO:0005623	cells	cell
+34324	34329	GO:0005623	cells	cell
+35095	35105	GO:0003823	antibodies	antigen binding
+35817	35831	GO:0005163	neurotrophins,	nerve growth factor receptor binding
+36204	36209	GO:0019835	lysis	cytolysis
+36248	36259	GO:0016791	phosphatase	phosphatase activity
+36290	36297	GO:0003675	Protein	obsolete protein
+36373	36383	GO:0003823	antibodies	antigen binding
+36448	36453	GO:0005623	(Cell	cell
+36454	36463	GO:0023052	Signaling	signaling
+36886	36899	GO:0005622	intracellular	intracellular
+37211	37216	GO:0005623	cells	cell
+37229	37236	GO:0043336	resting	site-specific telomere resolvase activity
+37520	37535	GO:0010467	Gene Expression	gene expression
+38097	38111	GO:0019230	Proprioceptive	proprioception
+38231	38244	GO:0005622	intracellular	intracellular
+38528	38533	GO:0005623	cells	cell
+39430	39445	GO:0006351	transcriptional	transcription, DNA-templated
+39715	39730	GO:0006351	transcriptional	transcription, DNA-templated
+40794	40800	GO:0005623	cells.	cell
+41190	41205	GO:0010467	Gene Expression	gene expression
+42044	42055	GO:0003823	antibodies,	antigen binding
+42744	42751	GO:0003675	protein	obsolete protein
+42853	42860	GO:0003675	protein	obsolete protein
+44136	44167	GO:2000144	Transcriptional transactivation	positive regulation of DNA-templated transcription, initiation
+44421	44440	GO:0047712	luciferase activity	Cypridina-luciferin 2-monooxygenase activity
+44513	44527	GO:0019230	Proprioceptive	proprioception
+45239	45253	GO:0019230	proprioceptive	proprioception
+46535	46548	GO:0030484	muscle fibers	obsolete muscle fiber
+47229	47246	GO:0031175	Neurite Outgrowth	neuron projection development
+47577	47590	GO:0005883	neurofilament	neurofilament
+47711	47724	GO:0005163	Neurotrophins	nerve growth factor receptor binding
+47958	47971	GO:0005883	neurofilament	neurofilament
+48056	48070	GO:0019230	proprioceptive	proprioception
+48203	48212	GO:0023052	Signaling	signaling
+48559	48563	GO:0005623	cell	cell
+48564	48569	GO:0070997	death	neuron deathcell
+48878	48887	GO:0097194	apoptotic	execution phase of apoptosis
+49090	49097	GO:0003675	protein	obsolete protein
+49218	49229	GO:0003823	antibodies:	antigen binding
+49327	49334	GO:0003675	protein	obsolete protein
+49530	49545	GO:0010467	Gene Expression	gene expression
+49602	49611	GO:0023052	Signaling	signaling
+50160	50170	GO:0007049	cell cycle	cell cycle
+50543	50552	GO:0023052	Signaling	signaling
+50561	50576	GO:0010467	Gene Expression	gene expression
+51173	51182	GO:0023052	Signaling	signaling
+51616	51630	GO:0019230	proprioceptive	proprioception
+51684	51693	GO:0023052	signaling	signaling
+51796	51811	GO:0010467	gene expression	gene expression
+51905	51914	GO:0023052	signaling	signaling
+51905	51914	GO:0023052	signaling	signaling
+51957	51971	GO:0019230	proprioceptive	proprioception
+52113	52120	GO:0023052	signal)	signaling

@@ -1,0 +1,313 @@
+StartIndex	EndIndex	GO:ID	Term	OntoTerm
+67	75	GO:0007612	learning	learning
+147	156	GO:0023052	signaling	signaling
+147	153	GO:0023052	signal	signaling
+147	156	GO:0023052	signaling	signaling
+147	156	GO:0023052	signaling	signaling
+400	410	GO:0007610	behaviors.	behavior
+400	409	GO:0007610	behaviors	behavior
+777	786	GO:0007612	learning,	learning
+1102	1112	GO:0007612	learning).	learning
+1209	1216	GO:0007612	learned	learning
+1209	1216	GO:0007612	learned	learning
+1988	1997	GO:0007608	olfaction	sensory perception of smell
+2305	2314	GO:0023052	signaling	signaling
+2405	2413	GO:0007612	learning	learning
+2524	2545	GO:0008306	associative learning,	associative learning
+2524	2544	GO:0008306	associative learning	associative learning
+2524	2544	GO:0008306	associative learning	associative learning
+2635	2641	GO:0023052	signal	signaling
+2635	2641	GO:0023052	signal	signaling
+2768	2775	GO:0007612	learned	learning
+3137	3145	GO:0007610	behavior	behavior
+3788	3797	GO:0023052	signaling	signaling
+4057	4066	GO:0009058	formation	biosynthetic process
+4100	4109	GO:0023052	signaling	signaling
+4100	4109	GO:0023052	signaling	signaling
+4100	4109	GO:0023052	signaling	signaling
+4100	4109	GO:0023052	signaling	signaling
+4575	4595	GO:0008306	associative learning	associative learning
+4575	4595	GO:0008306	associative learning	associative learning
+4575	4595	GO:0008306	associative learning	associative learning
+4575	4595	GO:0008306	associative learning	associative learning
+4719	4728	GO:0007610	behaviors	behavior
+5371	5391	GO:0008306	associative learning	associative learning
+5371	5391	GO:0008306	associative learning	associative learning
+5383	5391	GO:0007612	learning	learning
+5383	5391	GO:0007612	learning	learning
+5383	5391	GO:0007612	learning	learning
+5646	5655	GO:0007610	behavior.	behavior
+6143	6152	GO:0023052	signaling	signaling
+6375	6384	GO:0023052	signaling	signaling
+6375	6384	GO:0023052	signaling	signaling
+6397	6405	GO:0007612	learning	learning
+6397	6405	GO:0007612	learning	learning
+6397	6405	GO:0007612	learning	learning
+6397	6405	GO:0007612	learning	learning
+6397	6405	GO:0007612	learning	learning
+6397	6405	GO:0007612	learning	learning
+6555	6575	GO:0008306	associative learning	associative learning
+7253	7261	GO:0007610	behavior	behavior
+7529	7538	GO:0023052	signaling	signaling
+7529	7538	GO:0023052	signaling	signaling
+7579	7587	GO:0007612	learning	learning
+7579	7587	GO:0007612	learning	learning
+7579	7587	GO:0007612	learning	learning
+7579	7584	GO:0007612	learn	learning
+7829	7848	GO:0050893	sensory processing,	sensory processing
+8203	8208	GO:0007612	learn	learning
+8217	8226	GO:0007610	behaviors	behavior
+8293	8300	GO:0007612	learned	learning
+9266	9271	GO:0007612	learn	learning
+9266	9271	GO:0007612	learn	learning
+9561	9569	GO:0007610	behavior	behavior
+9711	9719	GO:0007612	learning	learning
+10586	10591	GO:0005488	bound	binding
+11771	11780	GO:0023052	signaling	signaling
+11771	11780	GO:0023052	signaling	signaling
+11831	11840	GO:0007612	learning.	learning
+11831	11839	GO:0007612	learning	learning
+11831	11839	GO:0007612	learning	learning
+11959	11977	GO:0007634	locomotor behavior	optokinetic behavior
+12492	12502	GO:0023052	signaling,	signaling
+12635	12644	GO:0023052	signaling	signaling
+12733	12740	GO:0007612	learned	learning
+13000	13008	GO:0007612	learning	learning
+13368	13389	GO:0008306	associative learning.	associative learning
+13368	13388	GO:0008306	associative learning	associative learning
+13368	13388	GO:0008306	associative learning	associative learning
+13380	13388	GO:0007612	learning	learning
+13380	13388	GO:0007612	learning	learning
+13380	13389	GO:0007612	learning.	learning
+13380	13388	GO:0007612	learning	learning
+13637	13646	GO:0007610	behaviors	behavior
+14175	14184	GO:0023052	signaling	signaling
+14175	14184	GO:0023052	signaling	signaling
+14406	14416	GO:0040011	locomotion	locomotion
+14512	14521	GO:0023052	signaling	signaling
+14512	14521	GO:0023052	signaling	signaling
+14560	14568	GO:0007612	learning	learning
+14560	14568	GO:0007612	learning	learning
+14832	14852	GO:0008306	associative learning	associative learning
+14832	14852	GO:0008306	associative learning	associative learning
+14832	14852	GO:0008306	associative learning	associative learning
+14832	14852	GO:0008306	associative learning	associative learning
+14991	15005	GO:0061744	motor behavior	motor behavior
+15194	15209	GO:0061744	motor behavior?	motor behavior
+16438	16456	GO:0007634	locomotor behavior	optokinetic behavior
+16945	16950	GO:0007612	learn	learning
+17011	17018	GO:0007612	learned	learning
+17156	17161	GO:0030424	axons	axon
+17416	17428	GO:0009293	transduction	transduction
+17657	17665	GO:0007612	learning	learning
+17722	17731	GO:0023052	signaling	signaling
+17789	17797	GO:0007610	behavior	behavior
+17879	17887	GO:0007612	learning	learning
+17879	17887	GO:0007612	learning	learning
+19006	19016	GO:0023052	signaling,	signaling
+19191	19196	GO:0005623	cells	cell
+19260	19280	GO:0008306	associative learning	associative learning
+19569	19575	GO:0023052	signal	signaling
+19569	19575	GO:0023052	signal	signaling
+19907	19916	GO:0023052	signaling	signaling
+19907	19916	GO:0023052	signaling	signaling
+19907	19916	GO:0023052	signaling	signaling
+20270	20274	GO:0060080	IPSP	inhibitory postsynaptic potential
+20563	20571	GO:0007610	behavior	behavior
+20744	20751	GO:0005488	binding	binding
+20919	20927	GO:0007612	learning	learning
+20919	20927	GO:0007612	learning	learning
+20919	20927	GO:0007612	learning	learning
+21157	21166	GO:0007610	behavior.	behavior
+21210	21219	GO:0023052	signaling	signaling
+21210	21219	GO:0023052	signaling	signaling
+21210	21219	GO:0023052	signaling	signaling
+21562	21582	GO:0008306	associative learning	associative learning
+21648	21657	GO:0007612	learning)	learning
+21759	21780	GO:0008306	associative learning,	associative learning
+21790	21798	GO:0007129	synapses	synapsis
+21897	21904	GO:0023052	signals	signaling
+22353	22362	GO:0007610	behaviors	behavior
+22604	22613	GO:0007612	learning.	learning
+23163	23178	GO:0044849	estrous cycles.	estrous cycle
+23592	23601	GO:0007610	behavior.	behavior
+23592	23600	GO:0007610	behavior	behavior
+24763	24768	GO:0007612	learn	learning
+24919	24927	GO:0023052	signaled	signaling
+24919	24927	GO:0023052	signaled	signaling
+26025	26033	GO:0007610	behavior	behavior
+26489	26497	GO:0007612	learning	learning
+26661	26669	GO:0023052	signaled	signaling
+26993	27002	GO:0007612	learning.	learning
+27443	27451	GO:0007612	learning	learning
+27443	27451	GO:0007612	learning	learning
+27560	27569	GO:0007612	learning)	learning
+28518	28526	GO:0007610	behavior	behavior
+28577	28584	GO:0007612	learned	learning
+29015	29024	GO:0007610	behavior,	behavior
+29074	29082	GO:0007612	learning	learning
+29111	29121	GO:0007610	behaviors.	behavior
+29163	29172	GO:0023052	signaling	signaling
+29239	29248	GO:0007612	learning.	learning
+29540	29548	GO:0007610	behavior	behavior
+29565	29573	GO:0007612	learning	learning
+29565	29573	GO:0007612	learning	learning
+29780	29788	GO:0007612	learning	learning
+29996	30001	GO:0005488	bound	binding
+30499	30507	GO:0007612	learning	learning
+30747	30755	GO:0007612	learning	learning
+30827	30836	GO:0023052	signaling	signaling
+30827	30833	GO:0023052	signal	signaling
+30827	30836	GO:0023052	signaling	signaling
+30827	30836	GO:0023052	signaling	signaling
+31080	31090	GO:0007610	behaviors.	behavior
+31080	31089	GO:0007610	behaviors	behavior
+31457	31466	GO:0007612	learning,	learning
+31782	31792	GO:0007612	learning).	learning
+31889	31896	GO:0007612	learned	learning
+31889	31896	GO:0007612	learned	learning
+32668	32677	GO:0007608	olfaction	sensory perception of smell
+32985	32994	GO:0023052	signaling	signaling
+33085	33093	GO:0007612	learning	learning
+33204	33225	GO:0008306	associative learning,	associative learning
+33204	33224	GO:0008306	associative learning	associative learning
+33204	33224	GO:0008306	associative learning	associative learning
+33315	33321	GO:0023052	signal	signaling
+33315	33321	GO:0023052	signal	signaling
+33448	33455	GO:0007612	learned	learning
+33817	33825	GO:0007610	behavior	behavior
+34468	34477	GO:0023052	signaling	signaling
+34737	34746	GO:0009058	formation	biosynthetic process
+34780	34789	GO:0023052	signaling	signaling
+34780	34789	GO:0023052	signaling	signaling
+34780	34789	GO:0023052	signaling	signaling
+34780	34789	GO:0023052	signaling	signaling
+35255	35275	GO:0008306	associative learning	associative learning
+35255	35275	GO:0008306	associative learning	associative learning
+35255	35275	GO:0008306	associative learning	associative learning
+35255	35275	GO:0008306	associative learning	associative learning
+35399	35408	GO:0007610	behaviors	behavior
+36051	36071	GO:0008306	associative learning	associative learning
+36051	36071	GO:0008306	associative learning	associative learning
+36063	36071	GO:0007612	learning	learning
+36063	36071	GO:0007612	learning	learning
+36063	36071	GO:0007612	learning	learning
+36326	36335	GO:0007610	behavior.	behavior
+36823	36832	GO:0023052	signaling	signaling
+37055	37064	GO:0023052	signaling	signaling
+37055	37064	GO:0023052	signaling	signaling
+37077	37085	GO:0007612	learning	learning
+37077	37085	GO:0007612	learning	learning
+37077	37085	GO:0007612	learning	learning
+37077	37085	GO:0007612	learning	learning
+37077	37085	GO:0007612	learning	learning
+37077	37085	GO:0007612	learning	learning
+37235	37255	GO:0008306	associative learning	associative learning
+37933	37941	GO:0007610	behavior	behavior
+38209	38218	GO:0023052	signaling	signaling
+38209	38218	GO:0023052	signaling	signaling
+38259	38267	GO:0007612	learning	learning
+38259	38267	GO:0007612	learning	learning
+38259	38267	GO:0007612	learning	learning
+38259	38264	GO:0007612	learn	learning
+38509	38528	GO:0050893	sensory processing,	sensory processing
+38883	38888	GO:0007612	learn	learning
+38897	38906	GO:0007610	behaviors	behavior
+38973	38980	GO:0007612	learned	learning
+39946	39951	GO:0007612	learn	learning
+39946	39951	GO:0007612	learn	learning
+40241	40249	GO:0007610	behavior	behavior
+40391	40399	GO:0007612	learning	learning
+41266	41271	GO:0005488	bound	binding
+42451	42460	GO:0023052	signaling	signaling
+42451	42460	GO:0023052	signaling	signaling
+42511	42520	GO:0007612	learning.	learning
+42511	42519	GO:0007612	learning	learning
+42511	42519	GO:0007612	learning	learning
+42639	42657	GO:0007634	locomotor behavior	optokinetic behavior
+43172	43182	GO:0023052	signaling,	signaling
+43315	43324	GO:0023052	signaling	signaling
+43413	43420	GO:0007612	learned	learning
+43680	43688	GO:0007612	learning	learning
+44048	44069	GO:0008306	associative learning.	associative learning
+44048	44068	GO:0008306	associative learning	associative learning
+44048	44068	GO:0008306	associative learning	associative learning
+44060	44068	GO:0007612	learning	learning
+44060	44068	GO:0007612	learning	learning
+44060	44069	GO:0007612	learning.	learning
+44060	44068	GO:0007612	learning	learning
+44317	44326	GO:0007610	behaviors	behavior
+44855	44864	GO:0023052	signaling	signaling
+44855	44864	GO:0023052	signaling	signaling
+45086	45096	GO:0040011	locomotion	locomotion
+45192	45201	GO:0023052	signaling	signaling
+45192	45201	GO:0023052	signaling	signaling
+45240	45248	GO:0007612	learning	learning
+45240	45248	GO:0007612	learning	learning
+45512	45532	GO:0008306	associative learning	associative learning
+45512	45532	GO:0008306	associative learning	associative learning
+45512	45532	GO:0008306	associative learning	associative learning
+45512	45532	GO:0008306	associative learning	associative learning
+45671	45685	GO:0061744	motor behavior	motor behavior
+45874	45889	GO:0061744	motor behavior?	motor behavior
+47118	47136	GO:0007634	locomotor behavior	optokinetic behavior
+47625	47630	GO:0007612	learn	learning
+47691	47698	GO:0007612	learned	learning
+47836	47841	GO:0030424	axons	axon
+48096	48108	GO:0009293	transduction	transduction
+48337	48345	GO:0007612	learning	learning
+48402	48411	GO:0023052	signaling	signaling
+48469	48477	GO:0007610	behavior	behavior
+48559	48567	GO:0007612	learning	learning
+48559	48567	GO:0007612	learning	learning
+49686	49696	GO:0023052	signaling,	signaling
+49871	49876	GO:0005623	cells	cell
+49940	49960	GO:0008306	associative learning	associative learning
+50249	50255	GO:0023052	signal	signaling
+50249	50255	GO:0023052	signal	signaling
+50587	50596	GO:0023052	signaling	signaling
+50587	50596	GO:0023052	signaling	signaling
+50587	50596	GO:0023052	signaling	signaling
+50950	50954	GO:0060080	IPSP	inhibitory postsynaptic potential
+51243	51251	GO:0007610	behavior	behavior
+51424	51431	GO:0005488	binding	binding
+51599	51607	GO:0007612	learning	learning
+51599	51607	GO:0007612	learning	learning
+51599	51607	GO:0007612	learning	learning
+51837	51846	GO:0007610	behavior.	behavior
+51890	51899	GO:0023052	signaling	signaling
+51890	51899	GO:0023052	signaling	signaling
+51890	51899	GO:0023052	signaling	signaling
+52242	52262	GO:0008306	associative learning	associative learning
+52328	52337	GO:0007612	learning)	learning
+52439	52460	GO:0008306	associative learning,	associative learning
+52470	52478	GO:0007129	synapses	synapsis
+52577	52584	GO:0023052	signals	signaling
+53033	53042	GO:0007610	behaviors	behavior
+53284	53293	GO:0007612	learning.	learning
+53843	53858	GO:0044849	estrous cycles.	estrous cycle
+54272	54281	GO:0007610	behavior.	behavior
+54272	54280	GO:0007610	behavior	behavior
+55443	55448	GO:0007612	learn	learning
+55599	55607	GO:0023052	signaled	signaling
+55599	55607	GO:0023052	signaled	signaling
+56705	56713	GO:0007610	behavior	behavior
+57169	57177	GO:0007612	learning	learning
+57341	57349	GO:0023052	signaled	signaling
+57673	57682	GO:0007612	learning.	learning
+58123	58131	GO:0007612	learning	learning
+58123	58131	GO:0007612	learning	learning
+58240	58249	GO:0007612	learning)	learning
+59198	59206	GO:0007610	behavior	behavior
+59257	59264	GO:0007612	learned	learning
+59695	59704	GO:0007610	behavior,	behavior
+59754	59762	GO:0007612	learning	learning
+59791	59801	GO:0007610	behaviors.	behavior
+59843	59852	GO:0023052	signaling	signaling
+59919	59928	GO:0007612	learning.	learning
+60220	60228	GO:0007610	behavior	behavior
+60245	60253	GO:0007612	learning	learning
+60245	60253	GO:0007612	learning	learning
+60460	60468	GO:0007612	learning	learning
+60676	60681	GO:0005488	bound	binding
+61179	61187	GO:0007612	learning	learning

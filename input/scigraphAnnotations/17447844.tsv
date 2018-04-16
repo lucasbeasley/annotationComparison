@@ -1,0 +1,664 @@
+StartIndex	EndIndex	GO:ID	Term	OntoTerm
+57	70	GO:0001739	Sex Chromatin	sex chromatin
+91	103	GO:0007140	Male Meiosis	male meiosis
+115	128	GO:0048229	Gametogenesis	gametophyte development
+200	220	GO:0030154	cell differentiation	cell differentiation
+282	297	GO:0000803	sex chromosomes	sex chromosome
+395	402	GO:0051321	meiotic	meiotic cell cycle
+395	402	GO:0051321	meiotic	meiotic cell cycle
+395	402	GO:0051321	meiotic	meiotic cell cycle
+395	402	GO:0051321	meiotic	meiotic cell cycle
+403	412	GO:0051324	prophase.	prophase
+403	411	GO:0051324	prophase	prophase
+427	436	GO:0009058	formation	biosynthetic process
+442	465	GO:1990343	heterochromatin domain,	heterochromatin domain
+442	457	GO:0000792	heterochromatin	heterochromatin
+448	457	GO:0000785	chromatin	chromatin
+470	478	GO:0001741	XY body.	XY body
+470	477	GO:0001741	XY body	XY body
+470	477	GO:0001741	XY body	XY body
+470	477	GO:0001741	XY body	XY body
+470	477	GO:0001741	XY body	XY body
+510	519	GO:0051324	prophase,	prophase
+536	549	GO:0001739	sex chromatin	sex chromatin
+536	549	GO:0001739	sex chromatin	sex chromatin
+536	549	GO:0001739	sex chromatin	sex chromatin
+536	549	GO:0001739	sex chromatin	sex chromatin
+536	549	GO:0001739	sex chromatin	sex chromatin
+595	603	GO:0051321	meiosis.	meiotic cell cycle
+595	602	GO:0051321	meiosis	meiotic cell cycle
+666	673	GO:0003675	protein	obsolete protein
+666	673	GO:0003675	protein	obsolete protein
+807	816	GO:0000239	pachytene	pachytene
+863	876	GO:0007140	male meiosis.	male meiosis
+1043	1048	GO:0005623	cells	cell
+1043	1048	GO:0005623	cells	cell
+1057	1066	GO:0097194	apoptosis	execution phase of apoptosis
+1369	1381	GO:0051179	localization	localization
+1651	1674	GO:0009048	chromosome inactivation	dosage compensation by inactivation of X chromosome
+1857	1871	GO:0001739	sex chromatin.	sex chromatin
+1987	1998	GO:0032502	development	developmental process
+2278	2285	GO:0051321	meiotic	meiotic cell cycle
+2310	2322	GO:0007281	development.	germ cell developmentcell
+2391	2404	GO:0000806	Y chromosomes	Y chromosome
+2445	2453	GO:0001741	XY body.	XY body
+2445	2452	GO:0001741	XY body	XY body
+2445	2452	GO:0001741	XY body	XY body
+2473	2480	GO:0003675	protein	obsolete protein
+2500	2505	GO:0005623	cells	cell
+2544	2552	GO:0051321	meiosis,	meiotic cell cycle
+2544	2552	GO:0051321	meiosis,	meiotic cell cycle
+2666	2674	GO:0003675	proteins	obsolete protein
+2737	2746	GO:0000239	pachytene	pachytene
+2751	2760	GO:0000240	diplotene	diplotene
+2805	2818	GO:0001739	sex chromatin	sex chromatin
+3002	3012	GO:0065007	regulation	biological regulation
+3174	3194	GO:0019953	sexual reproduction.	sexual reproduction
+3174	3193	GO:0019953	sexual reproduction	sexual reproduction
+3479	3496	GO:0007338	zygote formation.	single fertilization
+3656	3663	GO:0051321	meiosis	meiotic cell cycle
+3656	3663	GO:0051321	meiosis	meiotic cell cycle
+3656	3663	GO:0051321	meiosis	meiotic cell cycle
+3656	3663	GO:0051321	meiosis	meiotic cell cycle
+3656	3663	GO:0051321	meiosis	meiotic cell cycle
+3706	3719	GO:0009793	embryogenesis	embryo development ending in seed dormancy
+3970	3972	GO:0007128	I.	meiotic prophase Iprophase
+3979	3987	GO:0003006	puberty,	developmental process involved in reproduction
+4026	4036	GO:0030728	ovulation,	ovulation
+4058	4067	GO:0051323	metaphase	metaphase
+4103	4116	GO:0009566	fertilization	fertilization
+4142	4154	GO:0007140	male meiosis	male meiosis
+4142	4154	GO:0007140	male meiosis	male meiosis
+4396	4403	GO:0051321	meiotic	meiotic cell cycle
+4396	4403	GO:0051321	meiotic	meiotic cell cycle
+4396	4403	GO:0051321	meiotic	meiotic cell cycle
+4441	4451	GO:0005694	chromosome	chromosome
+4460	4471	GO:0007129	(synapsis),	synapsis
+4574	4581	GO:0051321	meiosis	meiotic cell cycle
+4875	4885	GO:0065007	regulatory	biological regulation
+5014	5030	GO:0000803	sex chromosomes,	sex chromosome
+5018	5029	GO:0005694	chromosomes	chromosome
+5018	5028	GO:0005694	chromosome	chromosome
+5242	5254	GO:0009048	inactivation	dosage compensation by inactivation of X chromosomechromosome
+5364	5366	GO:0007128	I,	meiotic prophase IIn prophase
+5399	5406	GO:0007129	synapse	synapsis
+5450	5462	GO:0000806	Y chromosome	Y chromosome
+5632	5650	GO:0098687	chromosome regions	chromosomal region
+5685	5694	GO:0000785	chromatin	chromatin
+5713	5720	GO:0001741	XY body	XY body
+5713	5720	GO:0001741	XY body	XY body
+5830	5842	GO:0007140	male meiotic	male meiosis
+5870	5878	GO:0003675	proteins	obsolete protein
+5911	5919	GO:0001741	XY body,	XY body
+5911	5919	GO:0001741	XY body,	XY body
+5911	5918	GO:0001741	XY body	XY body
+6086	6101	GO:0000803	sex chromosomes	sex chromosome
+6153	6160	GO:0051321	meiotic	meiotic cell cycle
+6165	6188	GO:0009048	chromosome inactivation	dosage compensation by inactivation of X chromosome
+6305	6319	GO:0007286	spermiogenesis	spermatid development
+6393	6402	GO:0000785	chromatin	chromatin
+6423	6436	GO:0001739	sex chromatin	sex chromatin
+6423	6436	GO:0001739	sex chromatin	sex chromatin
+6608	6632	GO:0032502	developmental processes,	developmental process
+6608	6619	GO:0032502	development	developmental process
+7934	7938	GO:0004239	maps	obsolete methionyl aminopeptidase activity
+7945	7954	GO:0030849	autosomal	autosome
+8015	8037	GO:0008584	testicular development	male gonad development
+8329	8348	GO:0008406	gonadal development	gonad development
+8594	8606	GO:0035282	segmentation	segmentation
+8902	8909	GO:0003675	protein	obsolete protein
+8936	8941	GO:0005623	cells	cell
+8978	8985	GO:0001741	XY body	XY body
+8994	9003	GO:0000239	pachytene	pachytene
+8994	9003	GO:0000239	pachytene	pachytene
+9188	9195	GO:0051321	meiotic	meiotic cell cycle
+9188	9195	GO:0051321	meiotic	meiotic cell cycle
+9196	9204	GO:0051324	prophase	prophase
+9297	9310	GO:0001739	sex chromatin	sex chromatin
+9301	9310	GO:0000785	chromatin	chromatin
+9486	9495	GO:0051324	prophase.	prophase
+9526	9534	GO:0003675	Proteins	obsolete protein
+9605	9612	GO:0051321	meiotic	meiotic cell cycle
+9811	9818	GO:0051321	meiosis	meiotic cell cycle
+9866	9875	GO:0000239	pachytene	pachytene
+9866	9875	GO:0000239	pachytene	pachytene
+10309	10327	GO:0008584	testis development	male gonad development
+10477	10492	GO:0007283	spermatogenesis	spermatogenesis
+10551	10558	GO:0003675	Protein	obsolete protein
+10782	10798	GO:0007283	spermatogenesis.	spermatogenesis
+10897	10904	GO:0003675	protein	obsolete protein
+10987	10995	GO:0003823	antibody	antigen binding
+11053	11065	GO:0051179	localization	localization
+11069	11077	GO:0001741	XY body.	XY body
+11069	11077	GO:0001741	XY body.	XY body
+11126	11136	GO:0003823	antibodies	antigen binding
+11295	11304	GO:0000239	pachytene	pachytene
+11324	11334	GO:0001741	XY bodies.	XY body
+11357	11364	GO:0003675	protein	obsolete protein
+11357	11364	GO:0003675	protein	obsolete protein
+11357	11364	GO:0003675	protein	obsolete protein
+11393	11401	GO:0003823	antibody	antigen binding
+11393	11401	GO:0003823	antibody	antigen binding
+11393	11401	GO:0003823	antibody	antigen binding
+11440	11448	GO:0003675	protein.	obsolete protein
+11573	11582	GO:0003675	proteins.	obsolete protein
+11708	11717	GO:0000239	pachytene	pachytene
+12332	12341	GO:0000239	pachytene	pachytene
+12386	12394	GO:0001741	XY body,	XY body
+12386	12394	GO:0001741	XY body,	XY body
+12386	12393	GO:0001741	XY body	XY body
+12386	12393	GO:0001741	XY body	XY body
+12386	12393	GO:0001741	XY body	XY body
+12386	12393	GO:0001741	XY body	XY body
+12386	12393	GO:0001741	XY body	XY body
+12386	12393	GO:0001741	XY body	XY body
+12427	12436	GO:0000785	chromatin	chromatin
+12461	12477	GO:0000803	sex chromosomes.	sex chromosome
+12492	12507	GO:0006351	transcriptional	transcription, DNA-templated
+12595	12603	GO:0051324	prophase	prophase
+12617	12629	GO:0007140	male meiosis	male meiosis
+12652	12659	GO:0003675	protein	obsolete protein
+12652	12659	GO:0003675	protein	obsolete protein
+12996	13008	GO:0051179	localization	localization
+12996	13008	GO:0051179	localization	localization
+13442	13449	GO:0051321	meiotic	meiotic cell cycle
+13523	13531	GO:0003823	antibody	antigen binding
+13590	13600	GO:0002177	manchette.	manchette
+13882	13887	GO:0005623	cells	cell
+13882	13886	GO:0005623	cell	cell
+13882	13887	GO:0005623	cells	cell
+13882	13886	GO:0005623	cell	cell
+15116	15123	GO:0003675	protein	obsolete protein
+15116	15123	GO:0003675	protein	obsolete protein
+15154	15161	GO:0051321	meiotic	meiotic cell cycle
+15412	15425	GO:0048229	Gametogenesis	gametophyte development
+15653	15662	GO:0007610	behavior.	behavior
+16032	16050	GO:0008584	testis development	male gonad development
+16160	16176	GO:0007283	spermatogenesis.	spermatogenesis
+16383	16390	GO:0051321	meiotic	meiotic cell cycle
+16383	16390	GO:0051321	meiotic	meiotic cell cycle
+16396	16401	GO:0005623	cells	cell
+16396	16401	GO:0005623	cells	cell
+16396	16401	GO:0005623	cells	cell
+16396	16401	GO:0005623	cells	cell
+17009	17016	GO:0097649	tubules	A axonemal microtubule
+17009	17016	GO:0097649	tubules	A axonemal microtubule
+17223	17229	GO:0005634	nuclei	nucleus
+17250	17259	GO:0097194	apoptotic	execution phase of apoptosis
+17324	17333	GO:0097194	Apoptosis	execution phase of apoptosis
+17706	17713	GO:0097649	tubules	A axonemal microtubule
+17706	17713	GO:0097649	tubules	A axonemal microtubule
+17766	17771	GO:0005623	cells	cell
+17785	17794	GO:0097194	apoptotic	execution phase of apoptosis
+18068	18077	GO:0097194	apoptotic	execution phase of apoptosis
+18078	18084	GO:0005623	cells.	cell
+18078	18083	GO:0005623	cells	cell
+18142	18151	GO:0097194	Apoptotic	execution phase of apoptosis
+18352	18358	GO:0005623	cells,	cell
+18352	18357	GO:0005623	cells	cell
+18352	18357	GO:0005623	cells	cell
+18352	18357	GO:0005623	cells	cell
+18352	18357	GO:0005623	cells	cell
+18434	18444	GO:0097194	apoptosis.	execution phase of apoptosis
+18434	18443	GO:0097194	apoptosis	execution phase of apoptosis
+18434	18443	GO:0097194	apoptosis	execution phase of apoptosis
+18501	18510	GO:0097194	apoptotic	execution phase of apoptosis
+18501	18510	GO:0097194	apoptotic	execution phase of apoptosis
+18501	18510	GO:0097194	apoptotic	execution phase of apoptosis
+18501	18510	GO:0097194	apoptotic	execution phase of apoptosis
+18569	18575	GO:0097649	tubule	A axonemal microtubule
+18613	18619	GO:0005634	nuclei	nucleus
+18861	18869	GO:0097649	tubules,	A axonemal microtubule
+19219	19226	GO:0051321	meiotic	meiotic cell cycle
+19319	19325	GO:0005623	cells.	cell
+19327	19336	GO:0000239	Pachytene	pachytene
+19441	19446	GO:0005623	cells	cell
+19441	19445	GO:0005623	cell	cell
+19441	19446	GO:0005623	cells	cell
+19441	19446	GO:0005623	cells	cell
+19441	19446	GO:0005623	cells	cell
+19441	19446	GO:0005623	cells	cell
+19441	19446	GO:0005623	cells	cell
+19441	19446	GO:0005623	cells	cell
+19441	19446	GO:0005623	cells	cell
+19441	19446	GO:0005623	cells	cell
+19471	19481	GO:0003823	antibodies	antigen binding
+19771	19778	GO:0097649	tubules	A axonemal microtubule
+19771	19778	GO:0097649	tubules	A axonemal microtubule
+19831	19839	GO:0003823	antibody	antigen binding
+19831	19839	GO:0003823	antibody	antigen binding
+19872	19881	GO:0000237	leptotene	leptotene
+19891	19900	GO:0000239	pachytene	pachytene
+19891	19900	GO:0000239	pachytene	pachytene
+20157	20164	GO:0003675	protein	obsolete protein
+20417	20424	GO:0051321	meiotic	meiotic cell cycle
+20417	20424	GO:0051321	meiotic	meiotic cell cycle
+20536	20556	GO:0000795	synaptonemal complex	synaptonemal complex
+20852	20858	GO:0005623	cells.	cell
+20870	20878	GO:0051324	Prophase	prophase
+21025	21035	GO:0003823	antibodies	antigen binding
+21062	21068	GO:0005623	cells.	cell
+21080	21088	GO:0003823	antibody	antigen binding
+21172	21180	GO:0003823	antibody	antigen binding
+21258	21266	GO:0003823	antibody	antigen binding
+21274	21283	GO:0000239	pachytene	pachytene
+21379	21386	GO:0051321	Meiotic	meiotic cell cycle
+21443	21450	GO:0051321	meiotic	meiotic cell cycle
+21575	21595	GO:0000795	synaptonemal complex	synaptonemal complex
+21596	21603	GO:0003675	protein	obsolete protein
+21687	21694	GO:0051321	Meiotic	meiotic cell cycle
+21695	21703	GO:0051324	Prophase	prophase
+21743	21753	GO:0005694	chromosome	chromosome
+21763	21772	GO:0007129	synapsis,	synapsis
+21763	21772	GO:0007129	synapsis,	synapsis
+21763	21772	GO:0007129	synapsis,	synapsis
+21802	21811	GO:0000239	pachytene	pachytene
+21823	21832	GO:0097194	apoptosis	execution phase of apoptosis
+21934	21944	GO:0003823	antibodies	antigen binding
+21957	21977	GO:0000795	synaptonemal complex	synaptonemal complex
+22038	22052	GO:0000800	axial element,	lateral element
+22116	22125	GO:0009058	Formation	biosynthetic process
+22129	22151	GO:0000795	synaptonemal complexes	synaptonemal complex
+22129	22151	GO:0000795	synaptonemal complexes	synaptonemal complex
+22330	22338	GO:0000238	zygotene	zygotene
+22450	22457	GO:0051321	meiotic	meiotic cell cycle
+22623	22632	GO:0030849	autosomal	autosome
+22710	22715	GO:0005623	cells	cell
+22860	22880	GO:0007129	chromosomal pairing,	synapsis
+22928	22936	GO:0051324	prophase	prophase
+22999	23007	GO:0007129	Synapsis	synapsis
+23069	23074	GO:0005623	cells	cell
+23166	23174	GO:0003823	antibody	antigen binding
+23219	23226	GO:0051321	meiotic	meiotic cell cycle
+23227	23235	GO:0051324	prophase	prophase
+23311	23320	GO:0030849	autosomes	autosome
+23331	23340	GO:0007129	synapsed,	synapsis
+23331	23339	GO:0007129	synapsed	synapsis
+23437	23443	GO:0005623	cells.	cell
+23460	23465	GO:0005623	cells	cell
+23516	23526	GO:0003823	antibodies	antigen binding
+23762	23777	GO:0007283	spermatogenesis	spermatogenesis
+23819	23834	GO:0048469	cell maturation	cell maturation
+23905	23913	GO:0003823	antibody	antigen binding
+24096	24112	GO:0060008	differentiation,	Sertoli cell differentiationcell
+24279	24287	GO:0003675	proteins	obsolete protein
+24505	24512	GO:0097649	tubules	A axonemal microtubule
+24541	24547	GO:0005634	nuclei	nucleus
+24606	24623	GO:0005604	basement membrane	basement membrane
+24615	24623	GO:0016020	membrane	membrane
+24645	24653	GO:0097649	tubules,	A axonemal microtubule
+24954	24962	GO:0003823	antibody	antigen binding
+25011	25019	GO:0003823	antibody	antigen binding
+25173	25181	GO:0003823	antibody	antigen binding
+25266	25274	GO:0016020	membrane	membrane
+25337	25344	GO:0097649	tubules	A axonemal microtubule
+25404	25414	GO:0016020	membranes.	membrane
+25554	25569	GO:0007283	Spermatogenesis	spermatogenesis
+25574	25588	GO:0007286	spermiogenesis	spermatid development
+25701	25711	GO:0003823	antibodies	antigen binding
+25817	25827	GO:0040023	positioned	establishment of nucleus localizationare
+25852	25860	GO:0016020	membrane	membrane
+26304	26309	GO:0005623	cells	cell
+26647	26662	GO:0007283	Spermatogenesis	spermatogenesis
+26830	26847	GO:0005604	basement membrane	basement membrane
+27095	27104	GO:0001741	XY Bodies	XY body
+27135	27140	GO:0005623	Cells	cell
+27238	27245	GO:0051321	meiosis	meiotic cell cycle
+27373	27380	GO:0051321	meiotic	meiotic cell cycle
+27373	27380	GO:0051321	meiotic	meiotic cell cycle
+27373	27380	GO:0051321	meiotic	meiotic cell cycle
+27466	27474	GO:0001741	XY body,	XY body
+27570	27583	GO:0051179	localization.	localization
+27610	27623	GO:0000806	Y chromosomes	Y chromosome
+27612	27622	GO:0005694	chromosome	chromosome
+27648	27654	GO:0005623	cells,	cell
+27734	27747	GO:0001739	sex chromatin	sex chromatin
+27809	27826	GO:0034399	nuclear periphery	nuclear periphery
+27879	27886	GO:0001741	XY body	XY body
+27879	27886	GO:0001741	XY body	XY body
+27879	27886	GO:0001741	XY body	XY body
+27879	27886	GO:0001741	XY body	XY body
+27879	27886	GO:0001741	XY body	XY body
+27879	27886	GO:0001741	XY body	XY body
+27879	27886	GO:0001741	XY body	XY body
+27879	27886	GO:0001741	XY body	XY body
+27879	27886	GO:0001741	XY body	XY body
+27879	27886	GO:0001741	XY body	XY body
+27887	27896	GO:0009058	formation	biosynthetic process
+27887	27896	GO:0009058	formation	biosynthetic process
+27887	27896	GO:0009058	formation	biosynthetic process
+27942	27951	GO:0000785	chromatin	chromatin
+27942	27951	GO:0000785	chromatin	chromatin
+28161	28166	GO:0005623	cells	cell
+28161	28166	GO:0005623	cells	cell
+28161	28166	GO:0005623	cells	cell
+28170	28177	GO:0051321	meiotic	meiotic cell cycle
+28170	28177	GO:0051321	meiotic	meiotic cell cycle
+28318	28330	GO:0051179	localization	localization
+28318	28330	GO:0051179	localization	localization
+28318	28330	GO:0051179	localization	localization
+28465	28489	GO:0030261	chromosome condensation.	chromosome condensation
+28593	28606	GO:0000806	Y chromosomes	Y chromosome
+28781	28788	GO:0097649	tubules	A axonemal microtubule
+29200	29208	GO:0001741	XY body;	XY body
+29267	29275	GO:0005634	nucleus,	nucleus
+29623	29630	GO:0001741	XY Body	XY body
+29700	29705	GO:0005623	cells	cell
+29730	29740	GO:0003823	antibodies	antigen binding
+29778	29787	GO:0000239	pachytene	pachytene
+29788	29794	GO:0005623	cells,	cell
+29824	29831	GO:0001741	XY body	XY body
+29926	29934	GO:0003823	antibody	antigen binding
+30046	30055	GO:0000239	pachytene	pachytene
+30056	30061	GO:0005623	cells	cell
+30067	30076	GO:0001741	XY bodies	XY body
+30131	30144	GO:0001739	Sex Chromatin	sex chromatin
+30186	30193	GO:0001741	XY body	XY body
+30273	30288	GO:0006351	transcriptional	transcription, DNA-templated
+30385	30394	GO:0000239	pachytene	pachytene
+30385	30394	GO:0000239	pachytene	pachytene
+30395	30400	GO:0005623	cells	cell
+30524	30534	GO:0007135	meiosis II	meiosis II
+30539	30554	GO:0007286	spermiogenesis,	spermatid development
+30589	30598	GO:0000785	chromatin	chromatin
+30630	30643	GO:0001739	sex chromatin	sex chromatin
+30745	30755	GO:0008219	cell death	cell death
+30840	30864	GO:0009048	chromosome inactivation.	dosage compensation by inactivation of X chromosome
+30893	30902	GO:0000239	pachytene	pachytene
+30893	30902	GO:0000239	pachytene	pachytene
+30893	30902	GO:0000239	pachytene	pachytene
+30903	30911	GO:0001741	XY body.	XY body
+30903	30910	GO:0001741	XY body	XY body
+30903	30910	GO:0001741	XY body	XY body
+30903	30910	GO:0001741	XY body	XY body
+30903	30910	GO:0001741	XY body	XY body
+30926	30941	GO:0006351	transcriptional	transcription, DNA-templated
+30926	30941	GO:0006351	transcriptional	transcription, DNA-templated
+31053	31067	GO:0006351	transcription,	transcription, DNA-templated
+31346	31352	GO:0005623	cells.	cell
+31346	31351	GO:0005623	cells	cell
+31346	31351	GO:0005623	cells	cell
+31487	31494	GO:0051321	meiosis	meiotic cell cycle
+31632	31640	GO:0003823	antibody	antigen binding
+31744	31754	GO:0005698	centromere	obsolete centromere
+31870	31882	GO:0051179	localization	localization
+31987	31996	GO:0009058	formation	biosynthetic process
+32079	32088	GO:0000785	Chromatin	chromatin
+32119	32128	GO:0000240	Diplotene	diplotene
+32235	32242	GO:0001741	XY body	XY body
+32307	32321	GO:0000803	sex chromosome	sex chromosome
+32322	32335	GO:0006351	transcription	transcription, DNA-templated
+32339	32347	GO:0001741	XY body.	XY body
+32442	32454	GO:0051179	localization	localization
+32505	32517	GO:0000805	X chromosome	X chromosome
+32518	32528	GO:0005698	centromere	obsolete centromere
+32608	32618	GO:0000240	diplotene.	diplotene
+32631	32639	GO:0001741	XY body,	XY body
+32664	32677	GO:0051179	localization,	localization
+32727	32737	GO:0000240	diplotene.	diplotene
+32748	32752	GO:0005623	cell	cell
+32748	32752	GO:0005623	cell	cell
+32777	32785	GO:0001741	XY body,	XY body
+32819	32831	GO:0051179	localization	localization
+32835	32847	GO:0000805	X chromosome	X chromosome
+32848	32858	GO:0005698	centromere	obsolete centromere
+32892	32904	GO:0051179	localization	localization
+32908	32917	GO:0000240	diplotene	diplotene
+32918	32924	GO:0005623	cells.	cell
+32918	32922	GO:0005623	cell	cell
+32988	32995	GO:0001741	XY body	XY body
+33039	33051	GO:0051179	localization	localization
+33039	33051	GO:0051179	localization	localization
+33055	33064	GO:0000240	diplotene	diplotene
+33065	33071	GO:0005623	cells.	cell
+33065	33069	GO:0005623	cell	cell
+33128	33136	GO:0001741	XY body.	XY body
+33156	33165	GO:0030849	autosomes	autosome
+33176	33181	GO:0005623	cell,	cell
+33211	33221	GO:0097194	apoptosis.	execution phase of apoptosis
+33245	33254	GO:0000240	diplotene	diplotene
+33255	33259	GO:0005623	cell	cell
+33297	33305	GO:0001741	XY body.	XY body
+33402	33415	GO:0001739	sex chromatin	sex chromatin
+33402	33415	GO:0001739	sex chromatin	sex chromatin
+33402	33415	GO:0001739	sex chromatin	sex chromatin
+33402	33415	GO:0001739	sex chromatin	sex chromatin
+33472	33477	GO:0005623	cells	cell
+33472	33477	GO:0005623	cells	cell
+33472	33477	GO:0005623	cells	cell
+33472	33477	GO:0005623	cells	cell
+33472	33477	GO:0005623	cells	cell
+33568	33577	GO:0097194	apoptosis	execution phase of apoptosis
+33697	33706	GO:0000239	pachytene	pachytene
+33772	33785	GO:0006351	transcription	transcription, DNA-templated
+33872	33878	GO:0023052	signal	signaling
+33884	33895	GO:0000791	euchromatic	euchromatin
+34197	34204	GO:0001741	XY body	XY body
+34197	34204	GO:0001741	XY body	XY body
+34289	34301	GO:0051179	localization	localization
+34289	34301	GO:0051179	localization	localization
+34332	34341	GO:0000240	diplotene	diplotene
+34332	34341	GO:0000240	diplotene	diplotene
+34332	34341	GO:0000240	diplotene	diplotene
+34342	34348	GO:0005623	cells.	cell
+34383	34395	GO:0000805	X chromosome	X chromosome
+34396	34406	GO:0005698	centromere	obsolete centromere
+34734	34743	GO:0000240	diplotene	diplotene
+34734	34743	GO:0000240	diplotene	diplotene
+34734	34743	GO:0000240	diplotene	diplotene
+34744	34749	GO:0005623	cells	cell
+34744	34749	GO:0005623	cells	cell
+34744	34749	GO:0005623	cells	cell
+34744	34749	GO:0005623	cells	cell
+34744	34749	GO:0005623	cells	cell
+34744	34749	GO:0005623	cells	cell
+34766	34778	GO:0051179	localization	localization
+34794	34807	GO:0001739	sex chromatin	sex chromatin
+34794	34807	GO:0001739	sex chromatin	sex chromatin
+34794	34807	GO:0001739	sex chromatin	sex chromatin
+34891	34899	GO:0001741	XY body,	XY body
+34932	34938	GO:0005623	cells.	cell
+35024	35031	GO:0051321	meiosis	meiotic cell cycle
+35135	35144	GO:0030849	autosomal	autosome
+35309	35318	GO:0097194	apoptosis	execution phase of apoptosis
+35539	35544	GO:0005623	cells	cell
+35539	35544	GO:0005623	cells	cell
+35539	35544	GO:0005623	cells	cell
+35539	35544	GO:0005623	cells	cell
+35554	35561	GO:0001741	XY body	XY body
+35554	35561	GO:0001741	XY body	XY body
+35632	35638	GO:0005623	cells,	cell
+35670	35680	GO:0005694	chromosome	chromosome
+35701	35709	GO:0003823	antibody	antigen binding
+35774	35783	GO:0000240	diplotene	diplotene
+35823	35831	GO:0001741	XY body,	XY body
+36016	36029	GO:0001739	sex chromatin	sex chromatin
+36090	36103	GO:0001739	Sex Chromatin	sex chromatin
+36107	36112	GO:0005623	Cells	cell
+36123	36133	GO:0005694	Chromosome	chromosome
+36237	36247	GO:0005694	chromosome	chromosome
+36297	36304	GO:0001741	XY body	XY body
+36382	36391	GO:0000240	diplotene	diplotene
+36392	36402	GO:0005694	chromosome	chromosome
+36431	36439	GO:0001741	XY body,	XY body
+36472	36480	GO:0001741	XY body.	XY body
+36485	36495	GO:0005694	chromosome	chromosome
+36581	36588	GO:0003675	protein	obsolete protein
+36581	36588	GO:0003675	protein	obsolete protein
+36621	36626	GO:0005623	cells	cell
+36639	36646	GO:0051321	meiotic	meiotic cell cycle
+36647	36655	GO:0051324	prophase	prophase
+36741	36750	GO:0000239	pachytene	pachytene
+36814	36822	GO:0001741	XY body.	XY body
+36930	36940	GO:0097194	apoptosis,	execution phase of apoptosis
+37032	37041	GO:0000785	chromatin	chromatin
+37054	37067	GO:0006351	transcription	transcription, DNA-templated
+37122	37135	GO:0001739	sex chromatin	sex chromatin
+37176	37185	GO:0000239	pachytene	pachytene
+37176	37185	GO:0000239	pachytene	pachytene
+37195	37203	GO:0051324	prophase	prophase
+37267	37275	GO:0007129	synapse,	synapsis
+37386	37393	GO:0051321	meiotic	meiotic cell cycle
+37407	37412	GO:0005623	Cells	cell
+37485	37494	GO:0097194	apoptosis	execution phase of apoptosis
+37572	37587	GO:0000803	sex chromosomes	sex chromosome
+37572	37586	GO:0000803	sex chromosome	sex chromosome
+37597	37604	GO:0001741	XY body	XY body
+37651	37663	GO:0007140	male meiosis	male meiosis
+37749	37754	GO:0005623	cells	cell
+37940	37949	GO:0097194	apoptosis	execution phase of apoptosis
+38034	38043	GO:0000239	pachytene	pachytene
+38122	38128	GO:0005623	cells.	cell
+38122	38128	GO:0005623	cells.	cell
+38122	38128	GO:0005623	cells.	cell
+38122	38127	GO:0005623	cells	cell
+38122	38128	GO:0005623	cells.	cell
+38143	38163	GO:0007129	chromosomal synapsis	synapsis
+38247	38255	GO:0001741	XY body,	XY body
+38247	38254	GO:0001741	XY body	XY body
+38247	38254	GO:0001741	XY body	XY body
+38247	38254	GO:0001741	XY body	XY body
+38507	38516	GO:0000785	chromatin	chromatin
+38748	38761	GO:0001739	sex chromatin	sex chromatin
+38748	38761	GO:0001739	sex chromatin	sex chromatin
+38748	38761	GO:0001739	sex chromatin	sex chromatin
+38748	38761	GO:0001739	sex chromatin	sex chromatin
+38783	38788	GO:0005623	cells	cell
+38783	38788	GO:0005623	cells	cell
+38783	38788	GO:0005623	cells	cell
+38783	38788	GO:0005623	cells	cell
+38919	38926	GO:0003675	protein	obsolete protein
+39002	39011	GO:0000240	diplotene	diplotene
+39002	39011	GO:0000240	diplotene	diplotene
+39162	39184	GO:0016568	chromatin modification	chromatin modification
+39295	39303	GO:0051321	meiosis,	meiotic cell cycle
+39558	39563	GO:0005623	cells	cell
+39582	39591	GO:0097194	apoptosis	execution phase of apoptosis
+39582	39591	GO:0097194	apoptosis	execution phase of apoptosis
+39629	39642	GO:0001739	sex chromatin	sex chromatin
+39629	39642	GO:0001739	sex chromatin	sex chromatin
+39629	39642	GO:0001739	sex chromatin	sex chromatin
+39629	39642	GO:0001739	sex chromatin	sex chromatin
+39761	39775	GO:0001739	(sex chromatin	sex chromatin
+39794	39804	GO:0097194	apoptosis)	execution phase of apoptosis
+39920	39930	GO:0097194	apoptosis.	execution phase of apoptosis
+40156	40164	GO:0003675	proteins	obsolete protein
+40156	40164	GO:0003675	proteins	obsolete protein
+40156	40164	GO:0003675	proteins	obsolete protein
+40156	40164	GO:0003675	proteins	obsolete protein
+40209	40217	GO:0001741	XY body,	XY body
+40324	40333	GO:0003675	proteins,	obsolete protein
+40324	40333	GO:0003675	proteins,	obsolete protein
+40324	40333	GO:0003675	proteins,	obsolete protein
+40475	40490	GO:0000792	heterochromatin	heterochromatin
+40481	40490	GO:0000785	chromatin	chromatin
+40481	40490	GO:0000785	chromatin	chromatin
+40498	40513	GO:0006351	transcriptional	transcription, DNA-templated
+40498	40513	GO:0006351	transcriptional	transcription, DNA-templated
+40817	40826	GO:0000785	Chromatin	chromatin
+40827	40837	GO:0065007	regulation	biological regulation
+41092	41099	GO:0051321	meiosis	meiotic cell cycle
+41229	41234	GO:0005623	cells	cell
+41300	41311	GO:0007281	development	germ cell developmentcell
+41300	41311	GO:0032502	development	developmental process
+41351	41358	GO:0051321	meiotic	meiotic cell cycle
+41351	41358	GO:0051321	meiotic	meiotic cell cycle
+41379	41394	GO:0030154	differentiation	cell differentiationfor
+41659	41667	GO:0003675	proteins	obsolete protein
+41659	41667	GO:0003675	proteins	obsolete protein
+41718	41730	GO:0007281	development.	germ cell developmentcell
+41976	41995	GO:0008406	gonadal development	gonad development
+42600	42614	GO:0000806	Y chromosomes,	Y chromosome
+42602	42612	GO:0005694	chromosome	chromosome
+42659	42666	GO:0051321	meiosis	meiotic cell cycle
+42695	42710	GO:0000803	sex chromosomes	sex chromosome
+42695	42710	GO:0000803	sex chromosomes	sex chromosome
+42695	42709	GO:0000803	sex chromosome	sex chromosome
+42695	42710	GO:0000803	sex chromosomes	sex chromosome
+42695	42710	GO:0000803	sex chromosomes	sex chromosome
+42843	42856	GO:0001739	sex chromatin	sex chromatin
+42847	42856	GO:0000785	chromatin	chromatin
+42968	42985	GO:0007530	sex determination	sex determination
+43086	43093	GO:0051321	meiotic	meiotic cell cycle
+43278	43288	GO:0065007	regulatory	biological regulation
+43318	43337	GO:0007549	dosage compensation	dosage compensation
+43521	43529	GO:0051321	meiosis.	meiotic cell cycle
+43592	43599	GO:0003675	protein	obsolete protein
+43592	43599	GO:0003675	protein	obsolete protein
+43623	43630	GO:0051321	meiotic	meiotic cell cycle
+43631	43639	GO:0051324	prophase	prophase
+43685	43700	GO:0000803	sex chromosomes	sex chromosome
+43743	43759	GO:0000792	heterochromatin,	heterochromatin
+43782	43787	GO:0005623	cells	cell
+43839	43852	GO:0001739	sex chromatin	sex chromatin
+43839	43852	GO:0001739	sex chromatin	sex chromatin
+43861	43870	GO:0000239	pachytene	pachytene
+43875	43885	GO:0000240	diplotene.	diplotene
+44077	44085	GO:0051321	meiosis.	meiotic cell cycle
+44179	44189	GO:0065007	regulation	biological regulation
+44197	44210	GO:0007140	male meiosis.	male meiosis
+45289	45294	GO:0005623	cells	cell
+45289	45293	GO:0005623	cell	cell
+46361	46373	GO:0000806	Y chromosome	Y chromosome
+47808	47818	GO:0004196	proteinase	obsolete saccharopepsin activity
+47943	47952	GO:0097194	apoptotic	execution phase of apoptosis
+47953	47958	GO:0005623	cells	cell
+48278	48283	GO:0004617	serum	phosphoglycerate dehydrogenase activity
+48325	48334	GO:0003823	antibody)	antigen binding
+48397	48407	GO:0003823	antibodies	antigen binding
+48460	48471	GO:0003823	antibodies.	antigen binding
+48473	48484	GO:0003823	Antibodies.	antigen binding
+48504	48514	GO:0003823	antibodies	antigen binding
+48504	48514	GO:0003823	antibodies	antigen binding
+48504	48514	GO:0003823	antibodies	antigen binding
+48562	48569	GO:0003675	protein	obsolete protein
+48663	48673	GO:0003823	Antibodies	antigen binding
+48809	48817	GO:0003823	antibody	antigen binding
+48809	48817	GO:0003823	antibody	antigen binding
+50329	50347	GO:0005711	Meiotic chromosome	obsolete meiotic chromosome
+50387	50397	GO:0005694	chromosome	chromosome
+50387	50397	GO:0005694	chromosome	chromosome
+50537	50544	GO:0051321	meiotic	meiotic cell cycle
+50537	50544	GO:0051321	meiotic	meiotic cell cycle
+51149	51156	GO:0051321	Meiotic	meiotic cell cycle
+51198	51206	GO:0001741	XY body.	XY body
+51198	51205	GO:0001741	XY body	XY body
+51213	51221	GO:0003823	antibody	antigen binding
+51252	51260	GO:0007129	synapsis	synapsis
+51275	51285	GO:0005694	chromosome	chromosome
+51286	51293	GO:0007129	synapse	synapsis
+51310	51315	GO:0005623	cell.	cell
+51322	51329	GO:0003675	protein	obsolete protein
+51975	51980	GO:0007618	mated	mating
+52172	52178	GO:0007618	Mating	mating
+52357	52361	GO:0005623	cell	cell
+52357	52361	GO:0005623	cell	cell
+52682	52689	GO:0001741	XY body	XY body
+52844	52850	GO:0005623	cells.	cell
+53076	53084	GO:0003823	antibody	antigen binding
+53228	53235	GO:0003675	protein	obsolete protein
+53330	53342	GO:0051179	localization	localization
+53354	53366	GO:0005634	cell nuclei,	nucleus
+53392	53410	GO:0005604	basement membrane.	basement membrane
+53506	53518	GO:0051179	Localization	localization
+53522	53529	GO:0001741	XY Body	XY body
+53567	53576	GO:0000239	pachytene	pachytene
+53567	53576	GO:0000239	pachytene	pachytene
+53657	53665	GO:0003823	antibody	antigen binding
+53717	53725	GO:0001741	XY body.	XY body
+53717	53725	GO:0001741	XY body.	XY body
+53762	53767	GO:0005623	cells	cell
+54017	54023	GO:0005623	cells.	cell
+54048	54054	GO:0005623	cells,	cell
+54090	54099	GO:0000237	leptotene	leptotene
+54110	54119	GO:0000239	pachytene	pachytene
+54322	54327	GO:0005623	cells	cell
+54322	54327	GO:0005623	cells	cell
+54343	54351	GO:0016020	membrane	membrane
+54403	54412	GO:0000239	pachytene	pachytene
+54733	54740	GO:0051321	meiotic	meiotic cell cycle
+54832	54843	GO:0003823	antibodies;	antigen binding
+54956	54960	GO:0005623	cell	cell
+55450	55457	GO:0051321	meiotic	meiotic cell cycle
+55462	55485	GO:0009048	chromosome inactivation	dosage compensation by inactivation of X chromosome
+55530	55543	GO:0001739	sex chromatin	sex chromatin

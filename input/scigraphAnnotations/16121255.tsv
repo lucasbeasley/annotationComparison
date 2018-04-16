@@ -1,0 +1,257 @@
+StartIndex	EndIndex	GO:ID	Term	OntoTerm
+206	218	GO:1904116	vasopressin.	response to vasopressinto
+417	428	GO:0032502	Development	developmental process
+963	968	GO:0046930	pore.	pore complex
+1206	1214	GO:0003675	protein,	obsolete protein
+1246	1267	GO:0005783	endoplasmic reticulum	endoplasmic reticulum
+1291	1303	GO:0051179	localization	localization
+1332	1340	GO:0003675	protein.	obsolete protein
+1552	1561	GO:0060073	urination	micturition
+1646	1653	GO:0023052	signals	signaling
+1800	1805	GO:0005488	binds	binding
+1820	1827	GO:0003675	protein	obsolete protein
+1886	1893	GO:0005488	binding	binding
+2010	2018	GO:0003675	protein,	obsolete protein
+2175	2180	GO:0005623	cell,	cell
+3149	3158	GO:0060073	urination	micturition
+3352	3361	GO:0030849	autosomal	autosome
+3437	3444	GO:0003675	protein	obsolete protein
+3437	3444	GO:0003675	protein	obsolete protein
+3539	3544	GO:0005623	cells	cell
+3539	3544	GO:0005623	cells	cell
+3580	3588	GO:0003675	proteins	obsolete protein
+3580	3588	GO:0003675	proteins	obsolete protein
+3629	3644	GO:0005886	plasma membrane	plasma membrane
+3629	3644	GO:0005886	plasma membrane	plasma membrane
+3636	3644	GO:0016020	membrane	membrane
+3653	3659	GO:0005623	cells,	cell
+3653	3659	GO:0005623	cells,	cell
+3802	3813	GO:0015250	aquaporins,	water channel activity
+3802	3812	GO:0015250	aquaporins	water channel activity
+4257	4273	GO:0005886	plasma membrane.	plasma membrane
+4257	4273	GO:0005886	plasma membrane.	plasma membrane
+4331	4344	GO:0005622	intracellular	intracellular
+4331	4344	GO:0005622	intracellular	intracellular
+4345	4354	GO:0031982	vesicles;	vesicle
+4397	4406	GO:0051235	retention	maintenance of location
+4439	4448	GO:0016020	membrane,	membrane
+4517	4522	GO:0005488	binds	binding
+4663	4678	GO:0016310	phosphorylation	phosphorylation
+5058	5062	GO:0046930	pore	pore complex
+5227	5234	GO:0003675	protein	obsolete protein
+5254	5262	GO:0016020	membrane	membrane
+5783	5801	GO:0030104	water homeostasis,	water homeostasis
+6242	6246	GO:0005623	cell	cell
+6251	6263	GO:0051179	localization	localization
+6289	6295	GO:0005623	cells,	cell
+6461	6482	GO:0005783	endoplasmic reticulum	endoplasmic reticulum
+6506	6514	GO:0003675	protein,	obsolete protein
+6850	6860	GO:0008152	metabolism	metabolic process
+6914	6919	GO:0007631	drank	feeding behavior
+6933	6938	GO:0004617	Serum	phosphoglycerate dehydrogenase activity
+7437	7444	GO:0003675	protein	obsolete protein
+7474	7482	GO:0016020	membrane	membrane
+7521	7534	GO:0005576	extracellular	extracellular region
+7815	7824	GO:0003675	proteins,	obsolete protein
+9698	9705	GO:0007618	matings	mating
+11247	11254	GO:0097649	tubules	A axonemal microtubule
+11409	11422	GO:0070085	glycosylation	glycosylation
+11409	11422	GO:0070085	glycosylation	glycosylation
+11492	11499	GO:0003675	protein	obsolete protein
+11492	11499	GO:0003675	protein	obsolete protein
+11492	11499	GO:0003675	protein	obsolete protein
+11520	11525	GO:0031672	band,	A band
+11655	11660	GO:0019013	core,	viral nucleocapsid
+12123	12132	GO:0007586	digestion	digestion
+12441	12449	GO:0003675	proteins	obsolete protein
+12730	12742	GO:0009986	cell surface	cell surface
+12730	12742	GO:0009986	cell surface	cell surface
+12730	12734	GO:0005623	cell	cell
+12730	12742	GO:0009986	cell surface	cell surface
+13030	13039	GO:0031982	vesicles.	vesicle
+13072	13093	GO:0005783	endoplasmic reticulum	endoplasmic reticulum
+13331	13336	GO:0005623	cells	cell
+14090	14096	GO:0005623	cells.	cell
+14090	14094	GO:0005623	cell	cell
+14090	14094	GO:0005623	cell	cell
+14090	14095	GO:0005623	cells	cell
+14195	14202	GO:0003675	protein	obsolete protein
+14195	14202	GO:0003675	protein	obsolete protein
+14275	14288	GO:0070085	glycosylation	glycosylation
+14547	14553	GO:0005623	cells,	cell
+14547	14552	GO:0005623	cells	cell
+14547	14552	GO:0005623	cells	cell
+14719	14728	GO:0031982	vesicular	vesicle
+14906	14913	GO:0003675	protein	obsolete protein
+16094	16101	GO:0003675	protein	obsolete protein
+16094	16101	GO:0003675	protein	obsolete protein
+16094	16101	GO:0003675	protein	obsolete protein
+16094	16101	GO:0003675	protein	obsolete protein
+16156	16161	GO:0005623	cells	cell
+16156	16161	GO:0005623	cells	cell
+16267	16275	GO:0003675	protein.	obsolete protein
+16267	16275	GO:0003675	protein.	obsolete protein
+16475	16487	GO:0009986	cell surface	cell surface
+16475	16487	GO:0009986	cell surface	cell surface
+16734	16746	GO:0051179	localization	localization
+16843	16852	GO:0006810	transport	transport
+17035	17043	GO:0003675	protein,	obsolete protein
+17189	17196	GO:0003675	protein	obsolete protein
+17250	17258	GO:0003675	protein.	obsolete protein
+17342	17350	GO:0003675	proteins	obsolete protein
+17371	17376	GO:0005623	cells	cell
+17371	17376	GO:0005623	cells	cell
+17371	17376	GO:0005623	cells	cell
+17556	17566	GO:0003823	Antibodies	antigen binding
+17828	17837	GO:0016020	membranes	membrane
+17961	17969	GO:0003675	proteins	obsolete protein
+18000	18005	GO:0005623	cell,	cell
+18000	18004	GO:0005623	cell	cell
+18000	18004	GO:0005623	cell	cell
+18000	18004	GO:0005623	cell	cell
+18051	18063	GO:0051179	localization	localization
+18051	18063	GO:0051179	localization	localization
+18051	18063	GO:0051179	localization	localization
+18051	18063	GO:0051179	localization	localization
+18074	18082	GO:0003675	protein?	obsolete protein
+18121	18126	GO:0005623	cells	cell
+18121	18126	GO:0005623	cells	cell
+18121	18126	GO:0005623	cells	cell
+18121	18126	GO:0005623	cells	cell
+18590	18596	GO:0005623	cells,	cell
+18590	18596	GO:0005623	cells,	cell
+19568	19572	GO:0005623	cell	cell
+19568	19572	GO:0005623	cell	cell
+19643	19651	GO:0003675	proteins	obsolete protein
+19643	19651	GO:0003675	proteins	obsolete protein
+19824	19831	GO:0005623	cells),	cell
+20998	21003	GO:0016265	death	death
+21095	21101	GO:0005623	cells.	cell
+21382	21400	GO:0006833	water transporting	water transport
+21382	21400	GO:0006833	water transporting	water transport
+21388	21397	GO:0006810	transport	transport
+21388	21397	GO:0006810	transport	transport
+21762	21774	GO:0009986	cell surface	cell surface
+21893	21900	GO:0003675	protein	obsolete protein
+21893	21900	GO:0003675	protein	obsolete protein
+21893	21900	GO:0003675	protein	obsolete protein
+21893	21900	GO:0003675	protein	obsolete protein
+21893	21900	GO:0003675	protein	obsolete protein
+21893	21900	GO:0003675	protein	obsolete protein
+21893	21900	GO:0003675	protein	obsolete protein
+21893	21900	GO:0003675	protein	obsolete protein
+21893	21900	GO:0003675	protein	obsolete protein
+21893	21900	GO:0003675	protein	obsolete protein
+21919	21932	GO:0009986	cell surface.	cell surface
+22592	22603	GO:0015031	transported	protein transportis
+22734	22739	GO:0005623	cells	cell
+22734	22739	GO:0005623	cells	cell
+23228	23234	GO:0040007	growth	growth
+23394	23398	GO:0019013	core	viral nucleocapsid
+23478	23493	GO:0005794	Golgi apparatus	Golgi apparatus
+23677	23689	GO:0051179	localization	localization
+24043	24050	GO:0003675	protein	obsolete protein
+24043	24050	GO:0003675	protein	obsolete protein
+24142	24150	GO:0003675	protein.	obsolete protein
+24142	24150	GO:0003675	protein.	obsolete protein
+24429	24435	GO:0005623	cells,	cell
+24474	24482	GO:0003675	protein,	obsolete protein
+24474	24482	GO:0003675	protein,	obsolete protein
+24474	24482	GO:0003675	protein,	obsolete protein
+24718	24730	GO:0009986	cell surface	cell surface
+25184	25189	GO:0005623	cells	cell
+25184	25189	GO:0005623	cells	cell
+25276	25284	GO:0016324	membrane	apical plasma membraneplasma
+25564	25576	GO:0051179	localization	localization
+25636	25652	GO:0005886	plasma membrane.	plasma membrane
+25671	25680	GO:0051235	retention	maintenance of location
+26060	26073	GO:0051179	localization.	localization
+26817	26828	GO:0006280	mutagenesis	obsolete mutagenesis
+27414	27418	GO:0005623	Cell	cell
+27452	27456	GO:0005623	cell	cell
+27470	27475	GO:0005623	cells	cell
+27470	27474	GO:0005623	cell	cell
+27470	27475	GO:0005623	cells	cell
+28532	28541	GO:0008152	Metabolic	metabolic process
+29038	29046	GO:0016020	membrane	membrane
+29391	29400	GO:0016020	membranes	membrane
+29523	29541	GO:0005624	membrane fractions	obsolete membrane fraction
+29632	29641	GO:0016020	membrane.	membrane
+29642	29651	GO:0016020	Membranes	membrane
+29642	29651	GO:0016020	Membranes	membrane
+29642	29651	GO:0016020	Membranes	membrane
+29802	29810	GO:0003823	antibody	antigen binding
+29970	29979	GO:0003823	antibody.	antigen binding
+30022	30027	GO:0031672	bands	A band
+30136	30146	GO:0007586	digestion.	digestion
+30155	30164	GO:0016020	membranes	membrane
+30563	30569	GO:0005623	cells.	cell
+30576	30581	GO:0005623	cells	cell
+30576	30581	GO:0005623	cells	cell
+30887	30896	GO:0016020	membranes	membrane
+30887	30896	GO:0016020	membranes	membrane
+30887	30895	GO:0016020	membrane	membrane
+31022	31032	GO:0016020	membranes,	membrane
+31082	31100	GO:0005624	membrane fraction.	obsolete membrane fraction
+31247	31254	GO:0003675	protein	obsolete protein
+31319	31327	GO:0003675	proteins	obsolete protein
+31486	31498	GO:0009986	Cell surface	cell surface
+31601	31606	GO:0005623	cells	cell
+31601	31606	GO:0005623	cells	cell
+31601	31606	GO:0005623	cells	cell
+31601	31606	GO:0005623	cells	cell
+31918	31923	GO:0005623	Cells	cell
+31998	32007	GO:0016020	membranes	membrane
+31998	32007	GO:0016020	membranes	membrane
+32199	32207	GO:0003675	proteins	obsolete protein
+32349	32357	GO:0003823	antibody	antigen binding
+32731	32736	GO:0004617	serum	phosphoglycerate dehydrogenase activity
+32764	32772	GO:0003823	antibody	antigen binding
+32764	32772	GO:0003823	antibody	antigen binding
+32764	32772	GO:0003823	antibody	antigen binding
+32764	32772	GO:0003823	antibody	antigen binding
+33019	33025	GO:0004617	serum,	phosphoglycerate dehydrogenase activity
+33380	33386	GO:0005623	cells.	cell
+33400	33404	GO:0005623	cell	cell
+33599	33604	GO:0005623	Cells	cell
+33599	33604	GO:0005623	Cells	cell
+33710	33715	GO:0005623	cells	cell
+33815	33824	GO:0043226	organelle	organelle
+34022	34031	GO:0003823	antibody.	antigen binding
+34022	34030	GO:0003823	antibody	antigen binding
+34224	34234	GO:0003823	antibodies	antigen binding
+34253	34264	GO:0003823	antibodies,	antigen binding
+34728	34737	GO:0003675	proteins.	obsolete protein
+35850	35871	GO:0005783	endoplasmic reticulum	endoplasmic reticulum
+35950	35965	GO:0005886	plasma membrane	plasma membrane
+36513	36517	GO:0007568	aged	aging
+37955	37964	GO:0016020	membranes	membrane
+37955	37964	GO:0016020	membranes	membrane
+38150	38159	GO:0016020	membranes	membrane
+38275	38283	GO:0003675	proteins	obsolete protein
+38347	38357	GO:0007586	digestion.	digestion
+38386	38398	GO:0051179	Localization	localization
+38459	38463	GO:0005623	Cell	cell
+38865	38874	GO:0005737	cytoplasm	cytoplasm
+39015	39019	GO:0005623	cell	cell
+39166	39171	GO:0005623	cells	cell
+39479	39491	GO:0009986	cell surface	cell surface
+39575	39590	GO:0051643	ER localization	endoplasmic reticulum localization
+39621	39625	GO:0005623	cell	cell
+39745	39750	GO:0005623	cells	cell
+39798	39803	GO:0005623	Cells	cell
+39973	39994	GO:0005783	endoplasmic reticulum	endoplasmic reticulum
+40124	40129	GO:0005623	Cells	cell
+40479	40484	GO:0005623	cells	cell
+40617	40626	GO:0016020	membranes	membrane
+40617	40626	GO:0016020	membranes	membrane
+40662	40671	GO:0003823	antibody.	antigen binding
+40662	40670	GO:0003823	antibody	antigen binding
+40845	40857	GO:0051179	localization	localization
+41040	41044	GO:0005623	cell	cell
+41144	41149	GO:0005623	Cells	cell
+41293	41305	GO:0009986	cell surface	cell surface
+41293	41305	GO:0009986	cell surface	cell surface
+41309	41314	GO:0005623	cells	cell
+41449	41454	GO:0005623	Cells	cell
+41517	41525	GO:0003675	proteins	obsolete protein

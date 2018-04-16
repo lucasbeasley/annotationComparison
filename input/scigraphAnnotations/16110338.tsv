@@ -1,0 +1,250 @@
+StartIndex	EndIndex	GO:ID	Term	OntoTerm
+151	157	GO:0007601	vision	visual perception
+286	301	GO:0010467	gene expression	gene expression
+405	410	GO:0005623	cells	cell
+405	409	GO:0005623	cell	cell
+1301	1312	GO:0008152	metabolism.	metabolic process
+1765	1771	GO:0007601	Vision	visual perception
+1944	1948	GO:0005623	cell	cell
+2125	2132	GO:0007601	vision,	visual perception
+2165	2172	GO:0007601	vision.	visual perception
+2165	2172	GO:0007601	vision.	visual perception
+3267	3283	GO:1990603	dark adaptation,	dark adaptation
+4200	4205	GO:0005623	cells	cell
+4263	4269	GO:0005623	cells.	cell
+4595	4604	GO:0009058	formation	biosynthetic process
+4989	4998	GO:0009058	formation	biosynthetic process
+5061	5076	GO:1990603	dark adaptation	dark adaptation
+5275	5280	GO:0005623	cells	cell
+5704	5709	GO:0005623	cells	cell
+5704	5709	GO:0005623	cells	cell
+5704	5708	GO:0005623	cell	cell
+7006	7023	GO:0007602	phototransduction	phototransduction
+7039	7046	GO:0007602	opsins,	phototransduction
+7064	7081	GO:0008081	phosphodiesterase	phosphoric diester hydrolase activity
+7733	7748	GO:0010467	gene expression	gene expression
+8664	8679	GO:0010467	gene expression	gene expression
+8664	8679	GO:0010467	gene expression	gene expression
+8984	9000	GO:0010467	gene expression,	gene expression
+9029	9034	GO:0005623	cells	cell
+9243	9248	GO:0005623	cells	cell
+9243	9248	GO:0005623	cells	cell
+9243	9248	GO:0005623	cells	cell
+9243	9248	GO:0005623	cells	cell
+9243	9248	GO:0005623	cells	cell
+9243	9247	GO:0005623	cell	cell
+9677	9688	GO:0044297	cell bodies	cell body
+9840	9844	GO:0005623	cell	cell
+9910	9915	GO:0007602	opsin	phototransduction
+10028	10033	GO:0005623	cells	cell
+10028	10033	GO:0005623	cells	cell
+10028	10033	GO:0005623	cells	cell
+10028	10033	GO:0005623	cells	cell
+10135	10142	GO:0005623	cells).	cell
+10333	10340	GO:0005623	cells),	cell
+10480	10488	GO:0003823	antibody	antigen binding
+10628	10633	GO:0005623	cells	cell
+10628	10633	GO:0005623	cells	cell
+10628	10633	GO:0005623	cells	cell
+10628	10633	GO:0005623	cells	cell
+11177	11185	GO:0003823	antibody	antigen binding
+11347	11355	GO:0001750	segments	photoreceptor outer segmentouter
+12151	12156	GO:0005623	cells	cell
+12369	12381	GO:0051179	localization	localization
+12369	12381	GO:0051179	localization	localization
+12369	12381	GO:0051179	localization	localization
+12369	12381	GO:0051179	localization	localization
+12430	12437	GO:0001917	segment	photoreceptor inner segmentinner
+12535	12539	GO:0031672	band	A band
+13970	13976	GO:0023052	signal	signaling
+14006	14018	GO:0051179	localization	localization
+14282	14300	GO:0006006	glucose metabolism	glucose metabolic process
+14290	14300	GO:0006631	metabolism	fatty acid metabolic processacid
+14350	14360	GO:0006281	DNA repair	DNA repair
+14370	14374	GO:0005623	cell	cell
+14507	14524	GO:0032475	otolith formation	otolith formation
+14701	14716	GO:0010467	gene expression	gene expression
+15298	15304	GO:0023052	signal	signaling
+16775	16786	GO:0044297	cell bodies	cell body
+16775	16786	GO:0044297	cell bodies	cell body
+16775	16786	GO:0044297	cell bodies	cell body
+16775	16786	GO:0044297	cell bodies	cell body
+16811	16816	GO:0005623	cells	cell
+17609	17625	GO:0010467	gene expression,	gene expression
+18243	18258	GO:0010467	gene expression	gene expression
+19161	19176	GO:0010467	Gene Expression	gene expression
+20433	20447	GO:0006351	transcription.	transcription, DNA-templated
+21341	21345	GO:0005623	Cell	cell
+21408	21423	GO:0010467	gene expression	gene expression
+21473	21484	GO:0044297	cell bodies	cell body
+21473	21484	GO:0044297	cell bodies	cell body
+21921	21944	GO:0005720	nuclear heterochromatin	nuclear heterochromatin
+22071	22082	GO:0000791	euchromatin	euchromatin
+22149	22158	GO:0005737	cytoplasm	cytoplasm
+22173	22180	GO:0005634	nuclei,	nucleus
+22206	22218	GO:0005739	mitochondria	mitochondrion
+22309	22314	GO:0005623	cells	cell
+22309	22314	GO:0005623	cells	cell
+22309	22313	GO:0005623	cell	cell
+22309	22313	GO:0005623	cell	cell
+22309	22314	GO:0005623	cells	cell
+22309	22314	GO:0005623	cells	cell
+22309	22313	GO:0051674	cell	localization of cellof their
+22535	22540	GO:0007602	opsin	phototransduction
+22535	22540	GO:0007602	opsin	phototransduction
+22648	22666	GO:0006997	nuclear morphology	nucleus organization
+23091	23101	GO:0044297	cell body,	cell body
+23091	23095	GO:0005623	cell	cell
+23190	23206	GO:0000792	heterochromatin,	heterochromatin
+23190	23205	GO:0000792	heterochromatin	heterochromatin
+23247	23259	GO:0000791	euchromatin,	euchromatin
+23247	23258	GO:0000791	euchromatin	euchromatin
+23247	23258	GO:0000791	euchromatin	euchromatin
+23288	23297	GO:0005737	cytoplasm	cytoplasm
+23306	23316	GO:0043226	organelles	organelle
+23544	23549	GO:0005623	cells	cell
+23544	23549	GO:0005623	cells	cell
+23544	23549	GO:0005623	cells	cell
+24008	24019	GO:0044297	cell bodies	cell body
+24735	24747	GO:0005739	mitochondria	mitochondrion
+24810	24820	GO:0043226	organelles	organelle
+24884	24889	GO:0005623	cells	cell
+24884	24888	GO:0005623	cell	cell
+25167	25173	GO:0005623	cells.	cell
+25619	25624	GO:0005623	cells	cell
+25619	25624	GO:0005623	cells	cell
+25738	25753	GO:0010467	gene expression	gene expression
+25763	25769	GO:0005623	cells,	cell
+25965	25970	GO:0005623	cells	cell
+25965	25970	GO:0005623	cells	cell
+25965	25970	GO:0005623	cells	cell
+25965	25970	GO:0005623	cells	cell
+25965	25970	GO:0005623	cells	cell
+26531	26537	GO:0005623	cells.	cell
+27355	27370	GO:0010467	gene expression	gene expression
+27655	27660	GO:0005623	cells	cell
+27655	27660	GO:0005623	cells	cell
+27753	27759	GO:0007602	opsin.	phototransduction
+27850	27862	GO:0044297	cell bodies.	cell body
+28034	28042	GO:0003823	antibody	antigen binding
+28223	28228	GO:0007602	opsin	phototransduction
+28844	28859	GO:0010467	gene expression	gene expression
+29386	29392	GO:0023052	signal	signaling
+30450	30461	GO:0032502	development	developmental process
+31038	31053	GO:0010467	gene expression	gene expression
+31146	31156	GO:0065007	regulation	biological regulation
+31146	31156	GO:0065007	regulation	biological regulation
+31852	31866	GO:0006351	transcription,	transcription, DNA-templated
+32231	32236	GO:0005623	cells	cell
+33537	33542	GO:0005623	cells	cell
+33537	33542	GO:0005623	cells	cell
+33860	33879	GO:0006006	glucose metabolism,	glucose metabolic process
+33860	33879	GO:0006006	glucose metabolism,	glucose metabolic process
+33860	33878	GO:0006006	glucose metabolism	glucose metabolic process
+33868	33879	GO:0008152	metabolism,	metabolic process
+33916	33930	GO:0098754	detoxification	detoxification
+33964	33974	GO:0006096	glycolysis	glycolytic process
+34667	34682	GO:0010467	gene expression	gene expression
+35583	35588	GO:0005623	cells	cell
+35583	35587	GO:0005623	cell	cell
+35583	35588	GO:0005623	cells	cell
+35583	35588	GO:0005623	cells	cell
+35583	35587	GO:0005623	cell	cell
+36322	36326	GO:0005623	cell	cell
+36675	36680	GO:0005623	cells	cell
+37186	37191	GO:0005623	cells	cell
+37186	37191	GO:0005623	cells	cell
+38019	38037	GO:0010842	retinal lamination	retina layer formation
+38051	38060	GO:0009058	formation	biosynthetic process
+38490	38496	GO:0023052	signal	signaling
+38490	38496	GO:0023052	signal	signaling
+38490	38496	GO:0023052	signal	signaling
+38634	38640	GO:0007602	opsin.	phototransduction
+39267	39277	GO:0065007	regulatory	biological regulation
+39925	39936	GO:0010468	expression.	regulation of gene expressiongene
+40175	40179	GO:0005623	cell	cell
+40175	40179	GO:0005623	cell	cell
+40311	40321	GO:0097194	apoptosis.	execution phase of apoptosis
+40466	40475	GO:0009058	formation	biosynthetic process
+40466	40475	GO:0009058	formation	biosynthetic process
+40466	40475	GO:0009058	formation	biosynthetic process
+40595	40608	GO:0007163	cell polarity	establishment or maintenance of cell polarity
+41226	41238	GO:0043473	pigmentation	pigmentation
+41542	41549	GO:0023052	signal,	signaling
+41826	41832	GO:0005634	nuclei	nucleus
+42793	42799	GO:0007601	vision	visual perception
+44500	44504	GO:0030424	Axon	axon
+45135	45141	GO:0023052	signal	signaling
+45135	45141	GO:0023052	signal	signaling
+45135	45141	GO:0023052	signal	signaling
+45135	45141	GO:0023052	signal	signaling
+48132	48136	GO:0005623	cell	cell
+48132	48136	GO:0005623	cell	cell
+48433	48438	GO:0005623	cells	cell
+48660	48668	GO:0003823	antibody	antigen binding
+48660	48668	GO:0003823	antibody	antigen binding
+48756	48766	GO:0003823	antibodies	antigen binding
+48756	48766	GO:0003823	antibodies	antigen binding
+48800	48805	GO:0007602	opsin	phototransduction
+49173	49179	GO:0005634	nuclei	nucleus
+49982	49989	GO:0031430	midline	M band
+51229	51234	GO:0005623	cells	cell
+51754	51765	GO:0044297	cell bodies	cell body
+51754	51765	GO:0044297	cell bodies	cell body
+51754	51758	GO:0005623	cell	cell
+51754	51765	GO:0044297	cell bodies	cell body
+51793	51798	GO:0005623	cells	cell
+51793	51798	GO:0005623	cells	cell
+51793	51798	GO:0005623	cells	cell
+51793	51798	GO:0005623	cells	cell
+52083	52095	GO:0044297	cell bodies.	cell body
+52183	52190	GO:0031430	midline	M band
+52382	52396	GO:0005886	cell membranes	plasma membrane
+52825	52838	GO:0005739	mitochondria,	mitochondrion
+52825	52837	GO:0005739	mitochondria	mitochondrion
+52932	52943	GO:0043226	organelles.	organelle
+53017	53027	GO:0043226	organelle.	organelle
+54789	54794	GO:0005623	cells	cell
+54789	54794	GO:0005623	cells	cell
+56600	56606	GO:0023052	signal	signaling
+57186	57192	GO:0023052	signal	signaling
+57601	57607	GO:0023052	signal	signaling
+60832	60838	GO:0023052	signal	signaling
+60832	60838	GO:0023052	signal	signaling
+61713	61717	GO:0005623	cell	cell
+61894	61899	GO:0005623	cells	cell
+63129	63135	GO:0005623	cells;	cell
+63190	63194	GO:0019013	core	viral nucleocapsid
+63203	63216	GO:0051179	localization;	localization
+63279	63285	GO:0023052	signal	signaling
+63378	63393	GO:0010467	Gene Expression	gene expression
+63958	63962	GO:0005623	Cell	cell
+64007	64015	GO:0003823	Antibody	antigen binding
+64067	64071	GO:0005623	cell	cell
+64283	64291	GO:0003823	antibody	antigen binding
+64707	64712	GO:0005623	cells	cell
+64877	64889	GO:0051179	localization	localization
+65568	65574	GO:0023052	signal	signaling
+66468	66473	GO:0005623	cells	cell
+66468	66473	GO:0005623	cells	cell
+66504	66509	GO:0005623	Cells	cell
+66641	66652	GO:0044297	cell bodies	cell body
+66916	66922	GO:0005623	cells,	cell
+67260	67265	GO:0005623	cells	cell
+67260	67265	GO:0005623	cells	cell
+67260	67265	GO:0005623	cells	cell
+67655	67666	GO:0044297	cell bodies	cell body
+67655	67659	GO:0005623	cell	cell
+67655	67659	GO:0005623	cell	cell
+67758	67765	GO:0005634	nucleus	nucleus
+67795	67811	GO:0000792	heterochromatin.	heterochromatin
+67795	67810	GO:0000792	heterochromatin	heterochromatin
+67904	67920	GO:0000792	heterochromatin,	heterochromatin
+67927	67939	GO:0000791	euchromatin,	euchromatin
+67961	67973	GO:0005739	mitochondria	mitochondrion
+68015	68025	GO:0044297	cell body.	cell body
+68117	68130	GO:0005739	mitochondrion	mitochondrion
+68277	68292	GO:0006351	Transcriptional	transcription, DNA-templated
+68293	68303	GO:0065007	Regulatory	biological regulation
+68708	68722	GO:0006351	transcription.	transcription, DNA-templated
+68727	68737	GO:0065007	regulatory	biological regulation

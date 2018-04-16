@@ -1,0 +1,450 @@
+StartIndex	EndIndex	GO:ID	Term	OntoTerm
+2	19	GO:0007165	Signaling Pathway	signal transduction
+64	77	GO:0031069	Morphogenesis	hair follicle morphogenesisFollicle
+110	124	GO:0048513	organogenesis,	organ development
+133	138	GO:0005623	cells	cell
+133	138	GO:0005623	cells	cell
+186	193	GO:0023052	signals	signaling
+264	277	GO:0009653	morphogenesis	anatomical structure morphogenesis
+393	406	GO:0005576	extracellular	extracellular region
+549	558	GO:0023052	signaling	signaling
+679	685	GO:0004707	(MAPK)	MAP kinase activity
+834	849	GO:0006351	transcriptional	transcription, DNA-templated
+834	849	GO:0006351	transcriptional	transcription, DNA-templated
+888	896	GO:0003675	proteins	obsolete protein
+934	942	GO:0023061	released	signal releaseare
+1213	1223	GO:0009058	formation.	biosynthetic process
+1213	1222	GO:0009058	formation	biosynthetic process
+1235	1252	GO:0007165	signaling pathway	signal transduction
+1430	1441	GO:0032502	development	developmental process
+1455	1468	GO:0009653	morphogenesis	anatomical structure morphogenesis
+1455	1468	GO:0009653	morphogenesis	anatomical structure morphogenesis
+1552	1558	GO:0005623	cells.	cell
+1601	1610	GO:0009058	formation	biosynthetic process
+1780	1792	GO:0005605	basal lamina	basal lamina
+1875	1882	GO:0007114	Budding	cell budding
+1935	1942	GO:0023052	signals	signaling
+2047	2054	GO:0040007	growth.	growth
+2216	2223	GO:0005104	factors	fibroblast growth factor receptor bindinggrowth
+2254	2266	GO:0009986	cell surface	cell surface
+2254	2258	GO:0005623	cell	cell
+2356	2369	GO:0005622	intracellular	intracellular
+2406	2422	GO:0010467	gene expression,	gene expression
+2423	2430	GO:0040007	growth,	growth
+2482	2489	GO:0023052	signals	signaling
+2521	2528	GO:0007114	budding	cell budding
+2703	2713	GO:0009058	formation,	biosynthetic process
+2803	2807	GO:0007114	buds	cell budding
+2860	2871	GO:0032502	development	developmental process
+2929	2937	GO:0007610	behavior	behavior
+2954	2959	GO:0005623	cells	cell
+2954	2958	GO:0005623	cell	cell
+3103	3109	GO:0005623	cells,	cell
+3158	3171	GO:0005605	basal lamina.	basal lamina
+3178	3191	GO:0005576	extracellular	extracellular region
+3394	3399	GO:0005623	cell.	cell
+3506	3516	GO:0009058	formation.	biosynthetic process
+3608	3620	GO:0032502	development,	developmental process
+4095	4101	GO:0040007	growth	growth
+4319	4327	GO:0023052	signals,	signaling
+4470	4483	GO:0006351	transcription	transcription, DNA-templated
+4588	4606	GO:0007165	signaling pathways	signal transduction
+4716	4729	GO:0044214	transmembrane	spanning component of plasma membrane
+4730	4734	GO:0019013	core	viral nucleocapsid
+4752	4770	GO:0005912	adherens junctions	adherens junction
+4882	4895	GO:0031069	morphogenesis	hair follicle morphogenesisfollicle
+4882	4895	GO:0009653	morphogenesis	anatomical structure morphogenesis
+5020	5027	GO:0007114	budding	cell budding
+5075	5080	GO:0005488	binds	binding
+5075	5080	GO:0005488	binds	binding
+5226	5246	GO:0030041	actin polymerization	actin filament polymerization
+5309	5321	GO:0005856	cytoskeleton	cytoskeleton
+5469	5479	GO:0003675	proteins),	obsolete protein
+5592	5598	GO:0004707	(MAPK)	MAP kinase activity
+5738	5748	GO:0023052	signaling.	signaling
+5853	5876	GO:0032502	developmental processes	developmental process
+5966	5974	GO:0008014	cadherin	obsolete calcium-dependent cell adhesion molecule activity
+6058	6062	GO:0005488	bind	binding
+6132	6147	GO:0006351	transcriptional	transcription, DNA-templated
+6132	6147	GO:0006351	transcriptional	transcription, DNA-templated
+6158	6166	GO:0003675	proteins	obsolete protein
+6287	6298	GO:0001837	transitions	epithelial to mesenchymal transitionto mesenchymal
+6328	6337	GO:0009058	formation	biosynthetic process
+6920	6930	GO:0009058	formation,	biosynthetic process
+6920	6930	GO:0009058	formation,	biosynthetic process
+7344	7369	GO:0048468	terminal differentiation.	cell development
+7478	7487	GO:0023052	signaling	signaling
+7478	7487	GO:0023052	signaling	signaling
+7478	7487	GO:0023052	signaling	signaling
+7567	7582	GO:0010467	gene expression	gene expression
+7567	7582	GO:0010467	gene expression	gene expression
+7920	7936	GO:0010467	gene expression,	gene expression
+8088	8102	GO:0001708	specification,	cell fate specificationfate
+8209	8216	GO:0003675	Protein	obsolete protein
+8277	8290	GO:0009653	Morphogenesis	anatomical structure morphogenesis
+8479	8502	GO:0005911	intercellular junctions	cell-cell junction
+8522	8545	GO:0032502	developmental processes	developmental process
+8683	8693	GO:0009058	formation.	biosynthetic process
+8929	8942	GO:0031069	morphogenesis	hair follicle morphogenesisfollicle
+9129	9142	GO:0009793	embryogenesis	embryo development ending in seed dormancy
+9462	9475	GO:0009653	morphogenesis	anatomical structure morphogenesis
+9462	9475	GO:0009653	morphogenesis	anatomical structure morphogenesis
+9672	9677	GO:0007114	buds.	cell budding
+9672	9676	GO:0007114	buds	cell budding
+9737	9748	GO:0032502	development	developmental process
+9737	9748	GO:0032502	development	developmental process
+10240	10247	GO:0003675	protein	obsolete protein
+10240	10247	GO:0003675	protein	obsolete protein
+10271	10279	GO:0003823	antibody	antigen binding
+10271	10279	GO:0003823	antibody	antigen binding
+10271	10279	GO:0003823	antibody	antigen binding
+10271	10279	GO:0003823	antibody	antigen binding
+10271	10279	GO:0003823	antibody	antigen binding
+10452	10460	GO:0003675	proteins	obsolete protein
+10509	10513	GO:0031672	band	A band
+10509	10513	GO:0031672	band	A band
+10851	10864	GO:0031069	morphogenesis	hair follicle morphogenesisfollicle
+11332	11336	GO:0007114	buds	cell budding
+11380	11391	GO:0032502	development	developmental process
+11484	11492	GO:0003675	protein.	obsolete protein
+11813	11820	GO:0003675	protein	obsolete protein
+11842	11848	GO:0005634	nuclei	nucleus
+11865	11870	GO:0005623	cells	cell
+11945	11960	GO:0006351	transcriptional	transcription, DNA-templated
+12077	12091	GO:0009653	morphogenesis.	anatomical structure morphogenesis
+12119	12123	GO:0007114	buds	cell budding
+12304	12314	GO:0003823	antibodies	antigen binding
+12304	12314	GO:0003823	antibodies	antigen binding
+12589	12593	GO:0004707	MAPK	MAP kinase activity
+12655	12661	GO:0005623	cells,	cell
+12655	12660	GO:0005623	cells	cell
+12955	12959	GO:0007114	buds	cell budding
+13219	13228	GO:0009058	formation	biosynthetic process
+13466	13481	GO:0006351	transcriptional	transcription, DNA-templated
+13820	13835	GO:0010467	gene expression	gene expression
+14256	14264	GO:0003675	protein,	obsolete protein
+14432	14442	GO:0003823	antibodies	antigen binding
+14536	14541	GO:0005623	cells	cell
+14772	14796	GO:0048468	terminal differentiation	cell development
+15215	15227	GO:0007369	gastrulation	gastrulation
+15294	15311	GO:0043588	skin development,	skin development
+15371	15378	GO:0003675	protein	obsolete protein
+15866	15883	GO:0005604	basement membrane	basement membrane
+15866	15883	GO:0005604	basement membrane	basement membrane
+15866	15883	GO:0005604	basement membrane	basement membrane
+15945	15955	GO:0003823	antibodies	antigen binding
+15982	15997	GO:0030056	hemidesmosomes,	hemidesmosome
+16071	16083	GO:0005605	basal lamina	basal lamina
+16575	16583	GO:0003675	Proteins	obsolete protein
+16770	16775	GO:0007114	buds,	cell budding
+16826	16834	GO:0003675	proteins	obsolete protein
+17052	17060	GO:0003823	antibody	antigen binding
+17087	17096	GO:0003675	proteins,	obsolete protein
+17200	17212	GO:0051179	localization	localization
+17496	17503	GO:0003675	protein	obsolete protein
+17921	17936	GO:0006351	transcriptional	transcription, DNA-templated
+17980	17989	GO:0009058	formation	biosynthetic process
+18027	18043	GO:0010467	gene expression.	gene expression
+18450	18462	GO:0051179	localization	localization
+18450	18462	GO:0051179	localization	localization
+18477	18485	GO:0003675	protein,	obsolete protein
+18814	18825	GO:0006412	translation	translation
+18920	18929	GO:0016020	membranes	membrane
+18934	18957	GO:0005911	intercellular junctions	cell-cell junction
+19149	19157	GO:0003675	proteins	obsolete protein
+19294	19298	GO:0007114	buds	cell budding
+19396	19404	GO:0003675	proteins	obsolete protein
+19396	19403	GO:0003675	protein	obsolete protein
+19805	19810	GO:0005623	cells	cell
+19991	20002	GO:0051235	sequestered	maintenance of location
+20010	20025	GO:0005886	plasma membrane	plasma membrane
+20061	20078	GO:0007165	signaling pathway	signal transduction
+20214	20221	GO:0005634	nucleus	nucleus
+20228	20243	GO:2000144	transactivation	positive regulation of DNA-templated transcription, initiation
+20287	20291	GO:0005623	cell	cell
+20534	20547	GO:0006351	transcription	transcription, DNA-templated
+20626	20632	GO:0007618	mating	mating
+20947	20951	GO:0005488	bind	binding
+21027	21034	GO:0003675	protein	obsolete protein
+21027	21034	GO:0003675	protein	obsolete protein
+21146	21150	GO:0004707	MAPK	MAP kinase activity
+21267	21274	GO:0005488	binding	binding
+22483	22488	GO:0005623	cells	cell
+22993	23002	GO:0005829	cytosolic	cytosol
+23507	23517	GO:0065007	Regulation	biological regulation
+23527	23542	GO:0010467	Gene Expression	gene expression
+23579	23588	GO:0023052	Signaling	signaling
+23763	23776	GO:0005576	extracellular	extracellular region
+23768	23772	GO:0005623	cell	cell
+23768	23772	GO:0005623	cell	cell
+23777	23784	GO:0023052	signals	signaling
+23951	23962	GO:0032502	development	developmental process
+24127	24136	GO:0023052	signaling	signaling
+24265	24271	GO:0023052	signal	signaling
+24764	24771	GO:0023052	signals	signaling
+24965	24971	GO:0040007	growth	growth
+25184	25195	GO:0032502	development	developmental process
+25407	25411	GO:0005623	cell	cell
+25468	25474	GO:0005623	cells,	cell
+25574	25582	GO:0007610	behavior	behavior
+25800	25807	GO:0003675	protein	obsolete protein
+26207	26222	GO:0016310	phosphorylation	phosphorylation
+26619	26628	GO:0023052	signaling	signaling
+26814	26827	GO:0006351	transcription	transcription, DNA-templated
+27050	27057	GO:0003675	protein	obsolete protein
+27482	27489	GO:0003675	protein	obsolete protein
+27482	27489	GO:0003675	protein	obsolete protein
+27482	27489	GO:0003675	protein	obsolete protein
+27675	27687	GO:0046332	SMAD binding	SMAD binding
+27843	27852	GO:0023052	signaling	signaling
+28043	28050	GO:0003675	protein	obsolete protein
+28043	28050	GO:0003675	protein	obsolete protein
+28197	28210	GO:0031069	morphogenesis	hair follicle morphogenesisfollicle
+28309	28318	GO:0009058	formation	biosynthetic process
+28461	28469	GO:0003823	antibody	antigen binding
+28494	28498	GO:0007114	buds	cell budding
+28494	28498	GO:0007114	buds	cell budding
+28494	28498	GO:0007114	buds	cell budding
+28494	28498	GO:0007114	buds	cell budding
+28712	28722	GO:0023052	signaling,	signaling
+29085	29090	GO:0007114	buds.	cell budding
+29085	29089	GO:0007114	buds	cell budding
+29085	29089	GO:0007114	buds	cell budding
+29132	29139	GO:0003675	protein	obsolete protein
+29286	29301	GO:0006351	transcriptional	transcription, DNA-templated
+29402	29408	GO:0023052	signal	signaling
+29552	29561	GO:0023052	signaling	signaling
+29582	29589	GO:0003675	protein	obsolete protein
+29806	29821	GO:0010467	gene expression	gene expression
+29869	29874	GO:0007114	buds.	cell budding
+29999	30003	GO:0007114	buds	cell budding
+30136	30145	GO:0023052	signaling	signaling
+30136	30145	GO:0023052	signaling	signaling
+30243	30257	GO:0009653	morphogenesis.	anatomical structure morphogenesis
+30287	30304	GO:0005604	basement membrane	basement membrane
+30287	30304	GO:0005604	basement membrane	basement membrane
+30352	30357	GO:0007114	buds,	cell budding
+30352	30357	GO:0007114	buds,	cell budding
+30395	30405	GO:0003823	antibodies	antigen binding
+30796	30801	GO:0007114	buds,	cell budding
+30796	30800	GO:0007114	buds	cell budding
+31055	31060	GO:0007114	buds.	cell budding
+31257	31270	GO:0005576	extracellular	extracellular region
+31271	31278	GO:0023052	signals	signaling
+31347	31360	GO:0006351	transcription	transcription, DNA-templated
+31347	31360	GO:0006351	transcription	transcription, DNA-templated
+31500	31504	GO:0007114	buds	cell budding
+31543	31556	GO:0051179	localization,	localization
+31583	31600	GO:0007165	signaling pathway	signal transduction
+31658	31672	GO:0031069	morphogenesis,	hair follicle morphogenesisfollicle
+31792	31808	GO:0010467	gene expression,	gene expression
+31992	31999	GO:0007114	budding	cell budding
+31992	31999	GO:0007114	budding	cell budding
+32000	32014	GO:0009653	morphogenesis,	anatomical structure morphogenesis
+32028	32037	GO:0023052	signaling	signaling
+32089	32105	GO:0006351	transcriptional,	transcription, DNA-templated
+32174	32179	GO:0005623	cells	cell
+32205	32214	GO:0005829	cytosolic	cytosol
+32281	32301	GO:0009887	organ morphogenesis.	organ morphogenesis
+32528	32535	GO:0023052	signals	signaling
+32717	32726	GO:0009058	formation	biosynthetic process
+32748	32757	GO:0023052	Signaling	signaling
+32785	32798	GO:0031069	Morphogenesis	hair follicle morphogenesisFollicle
+32827	32840	GO:0009653	morphogenesis	anatomical structure morphogenesis
+32858	32865	GO:0023052	signals	signaling
+32858	32865	GO:0023052	signals	signaling
+33002	33009	GO:0005667	complex	transcription factor complexfactor
+33158	33167	GO:0023052	signaling	signaling
+33206	33220	GO:0009653	morphogenesis,	anatomical structure morphogenesis
+33206	33220	GO:0009653	morphogenesis,	anatomical structure morphogenesis
+33320	33324	GO:0007114	buds	cell budding
+33548	33558	GO:0065007	regulatory	biological regulation
+33683	33690	GO:0007114	budding	cell budding
+33700	33711	GO:0032502	development	developmental process
+34099	34116	GO:0007165	signaling pathway	signal transduction
+34244	34254	GO:0007049	cell cycle	cell cycle
+34280	34287	GO:0003675	protein	obsolete protein
+34375	34386	GO:0042633	hair cycle,	hair cycle
+34477	34483	GO:0040007	growth	growth
+34502	34511	GO:0097194	apoptosis	execution phase of apoptosis
+34847	34851	GO:0007114	buds	cell budding
+35067	35082	GO:0000187	MAPK activation	activation of MAPK activity
+35175	35186	GO:0032502	development	developmental process
+35203	35212	GO:0023052	signaling	signaling
+35203	35212	GO:0023052	signaling	signaling
+35875	35884	GO:0023052	signaling	signaling
+35939	35954	GO:0010467	gene expression	gene expression
+36271	36276	GO:0007114	buds,	cell budding
+36560	36574	GO:0031069	morphogenesis.	hair follicle morphogenesisfollicle
+36560	36573	GO:0031069	morphogenesis	hair follicle morphogenesisfollicle
+36748	36759	GO:0001837	transitions	epithelial to mesenchymal transitionto mesenchymal
+36999	37008	GO:0009058	formation	biosynthetic process
+37190	37201	GO:0032502	development	developmental process
+37425	37429	GO:0007114	buds	cell budding
+37474	37480	GO:0005623	cells.	cell
+37794	37804	GO:0065007	regulatory	biological regulation
+37831	37841	GO:0009058	formation,	biosynthetic process
+38042	38052	GO:0023052	Signaling,	signaling
+38053	38068	GO:0006351	Transcriptional	transcription, DNA-templated
+38195	38209	GO:0031069	morphogenesis,	hair follicle morphogenesisfollicle
+38221	38236	GO:0010467	gene expression	gene expression
+38221	38236	GO:0010467	gene expression	gene expression
+38309	38314	GO:0005623	cells	cell
+38440	38447	GO:0005667	complex	transcription factor complexfactor
+39232	39241	GO:0023052	signaling	signaling
+39279	39292	GO:0009653	morphogenesis	anatomical structure morphogenesis
+39279	39292	GO:0031069	morphogenesis	hair follicle morphogenesisfollicle
+39279	39292	GO:0009653	morphogenesis	anatomical structure morphogenesis
+39446	39461	GO:0010467	gene expression	gene expression
+39490	39500	GO:0009058	formation.	biosynthetic process
+39979	39983	GO:0007114	buds	cell budding
+40146	40152	GO:0005623	cells.	cell
+40214	40224	GO:0065007	regulation	biological regulation
+40283	40295	GO:0051179	localization	localization
+40326	40335	GO:0003675	proteins.	obsolete protein
+40326	40334	GO:0003675	proteins	obsolete protein
+40426	40430	GO:0005488	bind	binding
+41063	41067	GO:0005623	cell	cell
+41063	41067	GO:0005623	cell	cell
+41063	41067	GO:0005623	cell	cell
+41105	41115	GO:0007049	cell cycle	cell cycle
+41846	41854	GO:0003675	proteins	obsolete protein
+41846	41854	GO:0003675	proteins	obsolete protein
+42218	42222	GO:0005623	cell	cell
+42255	42267	GO:0032502	development,	developmental process
+42360	42384	GO:0002009	epithelial morphogenesis	morphogenesis of an epithelium
+42634	42644	GO:0003823	antibodies	antigen binding
+42634	42644	GO:0003823	antibodies	antigen binding
+42634	42644	GO:0003823	antibodies	antigen binding
+42738	42743	GO:0004707	MAPK,	MAP kinase activity
+43149	43154	GO:0005623	(Cell	cell
+43155	43165	GO:0023052	Signaling,	signaling
+43379	43387	GO:0045098	vimentin	type III intermediate filament
+44021	44029	GO:0003823	antibody	antigen binding
+44340	44347	GO:0003675	protein	obsolete protein
+44627	44634	GO:0005634	nucleus	nucleus
+44887	44894	GO:0003675	Protein	obsolete protein
+44963	44968	GO:0005623	cells	cell
+44963	44967	GO:0005623	cell	cell
+44972	44977	GO:0019835	lysis	cytolysis
+44972	44977	GO:0019835	lysis	cytolysis
+45818	45826	GO:0003823	antibody	antigen binding
+46182	46190	GO:0016020	membrane	membrane
+46278	46285	GO:0023052	signals	signaling
+46357	46361	GO:0005623	Cell	cell
+46911	46916	GO:0005623	cells	cell
+46911	46916	GO:0005623	cells	cell
+46911	46916	GO:0005623	cells	cell
+47149	47164	GO:0016310	phosphorylation	phosphorylation
+47168	47173	GO:0004707	MAPK,	MAP kinase activity
+47193	47198	GO:0004617	serum	phosphoglycerate dehydrogenase activity
+47276	47282	GO:0004617	serum.	phosphoglycerate dehydrogenase activity
+48063	48075	GO:0046332	SMAD binding	SMAD binding
+49032	49043	GO:0007586	digestions.	digestion
+49356	49364	GO:0003823	antibody	antigen binding
+49474	49480	GO:0023052	signal	signaling
+49740	49751	GO:0003823	antibodies.	antigen binding
+49955	49964	GO:0003823	antibody.	antigen binding
+50252	50259	GO:0023052	signal.	signaling
+50773	50784	GO:0003823	antibodies,	antigen binding
+51515	51532	GO:0005912	adherens junction	adherens junction
+51598	51608	GO:0001837	transition	epithelial to mesenchymal transitionto mesenchymal
+51670	51676	GO:0005104	factor	fibroblast growth factor receptor bindinggrowth
+51841	51845	GO:0004707	MAPK	MAP kinase activity
+51908	51912	GO:0004707	MAPK	MAP kinase activity
+52092	52100	GO:0003675	proteins	obsolete protein
+52381	52394	GO:0009653	Morphogenesis	anatomical structure morphogenesis
+52636	52653	GO:0005604	basement membrane	basement membrane
+52791	52805	GO:0009653	morphogenesis.	anatomical structure morphogenesis
+52881	52888	GO:0003675	protein	obsolete protein
+52909	52921	GO:0032502	development.	developmental process
+52922	52929	GO:0003675	Protein	obsolete protein
+53190	53198	GO:0003675	proteins	obsolete protein
+53452	53459	GO:0003675	protein	obsolete protein
+53467	53473	GO:0005634	nuclei	nucleus
+53477	53482	GO:0005623	cells	cell
+53477	53482	GO:0005623	cells	cell
+53477	53482	GO:0005623	cells	cell
+53761	53773	GO:0032502	development.	developmental process
+53761	53772	GO:0032502	development	developmental process
+53967	53972	GO:0005623	cells	cell
+53967	53972	GO:0005623	cells	cell
+54200	54218	GO:0005604	basement membrane.	basement membrane
+54351	54356	GO:0005623	cells	cell
+54530	54548	GO:0005604	basement membrane,	basement membrane
+55707	55717	GO:0003823	antibodies	antigen binding
+56100	56110	GO:0003823	antibodies	antigen binding
+56100	56110	GO:0003823	antibodies	antigen binding
+56561	56567	GO:0005623	cells.	cell
+56561	56566	GO:0005623	cells	cell
+56786	56798	GO:0071711	Organization	basement membrane organizationMembrane
+56957	56964	GO:0003675	protein	obsolete protein
+56957	56964	GO:0003675	protein	obsolete protein
+57034	57044	GO:0003823	antibodies	antigen binding
+57089	57099	GO:0003823	Antibodies	antigen binding
+57306	57324	GO:0001533	cornified envelope	cornified envelope
+57306	57324	GO:0001533	cornified envelope	cornified envelope
+57504	57521	GO:0045095	keratin filaments	keratin filament
+57663	57669	GO:0005623	cells.	cell
+57826	57836	GO:0003823	antibodies	antigen binding
+58211	58229	GO:0005604	basement membrane,	basement membrane
+58211	58228	GO:0005604	basement membrane	basement membrane
+58243	58251	GO:0003823	antibody	antigen binding
+58768	58775	GO:0003675	protein	obsolete protein
+58768	58775	GO:0003675	protein	obsolete protein
+58768	58775	GO:0003675	protein	obsolete protein
+58818	58828	GO:0003823	Antibodies	antigen binding
+58849	58857	GO:0003675	proteins	obsolete protein
+58849	58857	GO:0003675	proteins	obsolete protein
+58894	58907	GO:0044214	transmembrane	spanning component of plasma membrane
+58899	58907	GO:0016020	membrane	membrane
+58908	58912	GO:0019013	core	viral nucleocapsid
+58913	58921	GO:0003675	protein;	obsolete protein
+58947	58952	GO:0005488	binds	binding
+58947	58952	GO:0005488	binds	binding
+58947	58951	GO:0005515	bind	protein bindingthat
+59007	59020	GO:0006351	transcription	transcription, DNA-templated
+59077	59085	GO:0005634	nucleus;	nucleus
+59234	59253	GO:0015629	actin cytoskeleton,	actin cytoskeleton
+59371	59389	GO:0007165	signaling cascade.	signal transduction
+59642	59654	GO:0051179	localization	localization
+59689	59694	GO:0005623	cells	cell
+59781	59788	GO:0003675	protein	obsolete protein
+59781	59788	GO:0003675	protein	obsolete protein
+59837	59847	GO:0003823	Antibodies	antigen binding
+60495	60500	GO:0005623	cells	cell
+60532	60538	GO:0040007	growth	growth
+60590	60600	GO:0009058	formation.	biosynthetic process
+60601	60606	GO:0005623	Cells	cell
+60625	60635	GO:0003823	antibodies	antigen binding
+60790	60795	GO:0005623	cell.	cell
+61004	61008	GO:0005623	cell	cell
+61015	61020	GO:0004617	serum	phosphoglycerate dehydrogenase activity
+61095	61105	GO:0003823	antibodies	antigen binding
+61167	61175	GO:0003675	protein,	obsolete protein
+61296	61303	GO:0003675	Protein	obsolete protein
+61508	61515	GO:0003675	protein	obsolete protein
+61554	61562	GO:0003823	antibody	antigen binding
+61554	61562	GO:0003823	antibody	antigen binding
+61733	61744	GO:0003823	antibodies.	antigen binding
+61833	61841	GO:0003675	proteins	obsolete protein
+62360	62367	GO:0003675	protein	obsolete protein
+62448	62458	GO:0003823	antibodies	antigen binding
+62468	62473	GO:0004707	MAPK,	MAP kinase activity
+62667	62676	GO:0023052	signaling	signaling
+63027	63035	GO:0003675	proteins	obsolete protein
+63097	63105	GO:0003675	Proteins	obsolete protein
+63235	63243	GO:0003675	protein.	obsolete protein
+63377	63385	GO:0003675	proteins	obsolete protein
+63482	63493	GO:0023052	signaling),	signaling
+64019	64027	GO:0003675	protein.	obsolete protein
+64342	64347	GO:0005623	cells	cell
+64870	64877	GO:0003675	protein	obsolete protein
+65046	65051	GO:0007114	buds.	cell budding
+65185	65193	GO:0003823	Antibody	antigen binding
+65237	65244	GO:0003675	protein	obsolete protein
+65326	65335	GO:0023052	signaling	signaling
+65539	65557	GO:0007165	signaling pathways	signal transduction
+66068	66080	GO:0051179	localization	localization
+66145	66154	GO:0023052	signaling	signaling
+66387	66399	GO:0032502	development.	developmental process

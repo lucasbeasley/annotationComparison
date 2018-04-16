@@ -1,0 +1,174 @@
+StartIndex	EndIndex	GO:ID	Term	OntoTerm
+50	59	GO:0051235	retention	maintenance of location
+87	98	GO:0060384	innervation	innervation
+238	247	GO:0097194	apoptosis	execution phase of apoptosis
+274	285	GO:0032502	development	developmental process
+321	333	GO:0005163	neurotrophin	nerve growth factor receptor binding
+390	402	GO:0032502	development.	developmental process
+467	478	GO:0060384	innervation	innervation
+506	520	GO:0005163	neurotrophins.	nerve growth factor receptor binding
+704	716	GO:0005163	neurotrophin	nerve growth factor receptor binding
+762	773	GO:0060384	innervation	innervation
+1542	1555	GO:0005163	neurotrophins	nerve growth factor receptor binding
+1774	1790	GO:0043583	ear development,	ear development
+1832	1844	GO:0060384	innervation,	innervation
+1832	1843	GO:0060384	innervation	innervation
+1952	1964	GO:0060119	development.	inner ear receptor cell developmentear hair cell
+2013	2018	GO:0005623	cells	cell
+2274	2283	GO:0097194	apoptosis	execution phase of apoptosis
+2789	2800	GO:0060384	innervation	innervation
+2837	2848	GO:0032502	development	developmental process
+2837	2848	GO:0032502	development	developmental process
+2885	2890	GO:0005623	cells	cell
+2936	2948	GO:0005163	neurotrophin	nerve growth factor receptor binding
+2936	2948	GO:0005163	neurotrophin	nerve growth factor receptor binding
+2936	2948	GO:0005163	neurotrophin	nerve growth factor receptor binding
+2936	2948	GO:0005163	neurotrophin	nerve growth factor receptor binding
+3832	3845	GO:0005163	neurotrophins	nerve growth factor receptor binding
+3991	4002	GO:0060384	innervation	innervation
+4182	4194	GO:0005163	neurotrophin	nerve growth factor receptor binding
+4412	4421	GO:0051235	retention	maintenance of location
+4412	4421	GO:0051235	retention	maintenance of location
+4412	4421	GO:0051235	retention	maintenance of location
+4604	4619	GO:0035315	differentiation	hair cell differentiationcell
+4824	4837	GO:0005163	neurotrophins	nerve growth factor receptor binding
+5008	5020	GO:0060384	innervation,	innervation
+5008	5019	GO:0060384	innervation	innervation
+5008	5019	GO:0060384	innervation	innervation
+5407	5416	GO:0009058	formation	biosynthetic process
+5593	5606	GO:0005163	neurotrophins	nerve growth factor receptor binding
+5657	5668	GO:0043005	nerve fiber	neuron projection
+6608	6615	GO:0030061	crista;	mitochondrial crista
+7228	7239	GO:0060384	innervation	innervation
+7228	7239	GO:0060384	innervation	innervation
+7228	7239	GO:0060384	innervation	innervation
+7228	7239	GO:0060384	innervation	innervation
+7253	7259	GO:0030061	crista	mitochondrial crista
+7253	7259	GO:0030061	crista	mitochondrial crista
+7781	7792	GO:0060384	Innervation	innervation
+8554	8565	GO:0060384	innervation	innervation
+8554	8565	GO:0060384	innervation	innervation
+8554	8565	GO:0060384	innervation	innervation
+8554	8565	GO:0060384	innervation	innervation
+8790	8794	GO:0097683	apex	dinoflagellate apex
+8790	8794	GO:0097683	apex	dinoflagellate apex
+9140	9152	GO:0005163	neurotrophin	nerve growth factor receptor binding
+9395	9400	GO:0097683	apex,	dinoflagellate apex
+9524	9536	GO:0005163	neurotrophin	nerve growth factor receptor binding
+10085	10096	GO:0060384	innervation	innervation
+10085	10096	GO:0060384	innervation	innervation
+10085	10096	GO:0060384	innervation	innervation
+10302	10310	GO:0030061	cristae,	mitochondrial crista
+10494	10505	GO:0060384	innervation	innervation
+10626	10638	GO:0060384	innervation,	innervation
+10976	10980	GO:0097683	apex	dinoflagellate apex
+11075	11084	GO:0009058	formation	biosynthetic process
+11397	11409	GO:0060384	innervation.	innervation
+11397	11408	GO:0060384	innervation	innervation
+11397	11408	GO:0060384	innervation	innervation
+11397	11408	GO:0060384	innervation	innervation
+11834	11838	GO:0097683	apex	dinoflagellate apex
+12004	12013	GO:0009058	formation	biosynthetic process
+12650	12654	GO:0097683	apex	dinoflagellate apex
+12932	12944	GO:0043005	Nerve fibers	neuron projection
+13393	13402	GO:0009058	formation	biosynthetic process
+13691	13695	GO:0005623	cell	cell
+13691	13696	GO:0005623	cells	cell
+14019	14027	GO:0003823	antibody	antigen binding
+14374	14379	GO:0097683	apex.	dinoflagellate apex
+15596	15600	GO:0097683	apex	dinoflagellate apex
+15783	15788	GO:0097683	apex.	dinoflagellate apex
+17436	17445	GO:0023052	signaling	signaling
+17763	17774	GO:0060384	innervation	innervation
+18214	18219	GO:0005623	cells	cell
+18214	18219	GO:0005623	cells	cell
+18426	18437	GO:0060384	innervation	innervation
+18840	18844	GO:0097683	apex	dinoflagellate apex
+19084	19089	GO:0097683	apex,	dinoflagellate apex
+19084	19088	GO:0097683	apex	dinoflagellate apex
+19690	19701	GO:0060384	innervation	innervation
+19749	19761	GO:0005163	neurotrophin	nerve growth factor receptor binding
+19749	19761	GO:0005163	neurotrophin	nerve growth factor receptor binding
+19891	19903	GO:0005163	neurotrophin	nerve growth factor receptor binding
+20085	20097	GO:0005163	neurotrophin	nerve growth factor receptor binding
+20135	20148	GO:0005163	neurotrophins	nerve growth factor receptor binding
+20256	20263	GO:0030061	cristae	mitochondrial crista
+20300	20307	GO:0023052	signal.	signaling
+20300	20306	GO:0023052	signal	signaling
+20300	20306	GO:0023052	signal	signaling
+20300	20306	GO:0023052	signal	signaling
+20960	20967	GO:0030061	cristae	mitochondrial crista
+21453	21459	GO:0023052	signal	signaling
+21453	21459	GO:0023052	signal	signaling
+21453	21459	GO:0023052	signal	signaling
+21453	21459	GO:0023052	signal	signaling
+21453	21459	GO:0023052	signal	signaling
+21937	21943	GO:0023052	signal	signaling
+21937	21943	GO:0023052	signal	signaling
+21937	21943	GO:0023052	signal	signaling
+21937	21943	GO:0023052	signal	signaling
+22126	22130	GO:0097683	apex	dinoflagellate apex
+22126	22130	GO:0097683	apex	dinoflagellate apex
+22663	22667	GO:0097683	apex	dinoflagellate apex
+22663	22667	GO:0097683	apex	dinoflagellate apex
+23040	23053	GO:0005163	neurotrophins	nerve growth factor receptor binding
+23040	23053	GO:0005163	neurotrophins	nerve growth factor receptor binding
+23506	23519	GO:0005163	neurotrophins	nerve growth factor receptor binding
+23561	23574	GO:0005163	neurotrophins	nerve growth factor receptor binding
+23561	23574	GO:0005163	neurotrophins	nerve growth factor receptor binding
+23561	23574	GO:0005163	neurotrophins	nerve growth factor receptor binding
+23561	23574	GO:0005163	neurotrophins	nerve growth factor receptor binding
+23638	23649	GO:0008219	cell death.	cell death
+23677	23687	GO:0065007	regulation	biological regulation
+24242	24254	GO:0060384	innervation.	innervation
+24509	24522	GO:0009793	embryogenesis	embryo development ending in seed dormancy
+24668	24681	GO:0005163	neurotrophins	nerve growth factor receptor binding
+24668	24681	GO:0005163	neurotrophins	nerve growth factor receptor binding
+24668	24681	GO:0005163	neurotrophins	nerve growth factor receptor binding
+24668	24680	GO:0005163	neurotrophin	nerve growth factor receptor binding
+24714	24723	GO:0051235	retention	maintenance of location
+25483	25494	GO:0032502	development	developmental process
+25507	25518	GO:0060384	innervation	innervation
+25633	25657	GO:0048468	terminal differentiation	cell development
+25762	25769	GO:0030061	cristae	mitochondrial crista
+25762	25769	GO:0030061	cristae	mitochondrial crista
+25844	25855	GO:0060384	innervation	innervation
+25844	25855	GO:0060384	innervation	innervation
+26369	26373	GO:0097683	apex	dinoflagellate apex
+26853	26866	GO:0005163	neurotrophins	nerve growth factor receptor binding
+27086	27099	GO:0005163	neurotrophins	nerve growth factor receptor binding
+27086	27099	GO:0005163	neurotrophins	nerve growth factor receptor binding
+27086	27099	GO:0005163	neurotrophins	nerve growth factor receptor binding
+27086	27098	GO:0005163	neurotrophin	nerve growth factor receptor binding
+27149	27153	GO:0097683	apex	dinoflagellate apex
+27248	27257	GO:0009058	formation	biosynthetic process
+28049	28053	GO:0097683	apex	dinoflagellate apex
+28222	28231	GO:0051235	retention	maintenance of location
+28369	28375	GO:0040007	Growth	growth
+28437	28446	GO:0009058	Formation	biosynthetic process
+28575	28579	GO:0097683	apex	dinoflagellate apex
+28832	28838	GO:0040007	growth	growth
+29281	29290	GO:0009058	formation	biosynthetic process
+29455	29462	GO:0007219	pathway	Notch signaling pathwaysignaling
+30677	30685	GO:0007605	hearing.	sensory perception of sound
+30873	30882	GO:0009058	formation	biosynthetic process
+31006	31017	GO:0060384	innervation	innervation
+32050	32065	GO:0043524	neuron survival	negative regulation of neuron apoptotic process
+32496	32500	GO:0097683	apex	dinoflagellate apex
+32608	32619	GO:0060384	innervation	innervation
+32700	32711	GO:0060384	innervation	innervation
+32700	32711	GO:0060384	innervation	innervation
+32888	32901	GO:0005163	neurotrophins	nerve growth factor receptor binding
+32888	32900	GO:0005163	neurotrophin	nerve growth factor receptor binding
+33149	33158	GO:0023052	signaling	signaling
+33407	33416	GO:0051235	retention	maintenance of location
+33407	33416	GO:0051235	retention	maintenance of location
+34205	34217	GO:0043005	nerve fibers	neuron projection
+34833	34844	GO:0060384	innervation	innervation
+35007	35017	GO:0003823	antibodies	antigen binding
+35007	35017	GO:0003823	antibodies	antigen binding
+36588	36596	GO:0003823	antibody	antigen binding
+36774	36779	GO:0005623	cells	cell
+37149	37156	GO:0005634	nucleus	nucleus
+37161	37169	GO:0005730	nucleoli	nucleolus
+37695	37708	GO:0005163	neurotrophins	nerve growth factor receptor binding

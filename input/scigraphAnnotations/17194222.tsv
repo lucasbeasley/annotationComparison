@@ -1,0 +1,208 @@
+StartIndex	EndIndex	GO:ID	Term	OntoTerm
+209	226	GO:0060173	limb development.	limb development
+209	226	GO:0060173	limb development.	limb development
+912	919	GO:0023052	signals	signaling
+912	919	GO:0023052	signals	signaling
+1112	1121	GO:0023052	signaling	signaling
+1151	1166	GO:0051216	chondrogenesis,	cartilage development
+1512	1525	GO:0001503	osteogenesis.	ossification
+1556	1562	GO:0023052	signal	signaling
+1659	1668	GO:0009058	formation	biosynthetic process
+1792	1797	GO:0005623	cells	cell
+2005	2017	GO:0032502	development.	developmental process
+2005	2016	GO:0032502	development	developmental process
+2218	2225	GO:0023052	signals	signaling
+2218	2225	GO:0023052	signals	signaling
+3177	3200	GO:0032502	developmental processes	developmental process
+3233	3246	GO:0009653	morphogenesis	anatomical structure morphogenesis
+3350	3367	GO:0060173	limb development,	limb development
+3458	3462	GO:0005623	cell	cell
+3575	3591	GO:0060173	limb development	limb development
+3605	3614	GO:0023052	signaling	signaling
+3605	3614	GO:0023052	signaling	signaling
+3605	3614	GO:0023052	signaling	signaling
+3605	3611	GO:0023052	signal	signaling
+3605	3614	GO:0023052	signaling	signaling
+3605	3611	GO:0023052	signal	signaling
+4043	4051	GO:0023052	signals,	signaling
+4043	4050	GO:0023052	signals	signaling
+5552	5562	GO:0023052	signaling,	signaling
+5552	5562	GO:0023052	signaling,	signaling
+7351	7360	GO:0097194	apoptotic	execution phase of apoptosis
+7361	7366	GO:0016265	death	death
+7469	7478	GO:0023052	signaling	signaling
+7666	7676	GO:0090269	production	fibroblast growth factor productiongrowth factor
+7725	7731	GO:0005104	factor	fibroblast growth factor receptor bindinggrowth
+8053	8062	GO:0023052	signaling	signaling
+8265	8275	GO:0023052	signaling,	signaling
+8352	8369	GO:0060173	limb development,	limb development
+8516	8525	GO:0023052	signaling	signaling
+8516	8525	GO:0023052	signaling	signaling
+8587	8609	GO:0001502	cartilage condensation	cartilage condensation
+9045	9060	GO:0051216	chondrogenesis.	cartilage development
+9045	9059	GO:0051216	chondrogenesis	cartilage development
+9169	9184	GO:0051216	chondrogenesis,	cartilage development
+9409	9424	GO:0001503	bone formation,	ossification
+9434	9444	GO:0008152	metabolism	metabolic process
+9485	9492	GO:0005488	ligands	binding
+9681	9690	GO:0023052	signaling	signaling
+9864	9881	GO:0060173	limb development.	limb development
+9864	9880	GO:0060173	limb development	limb development
+9935	9948	GO:0009793	embryogenesis	embryo development ending in seed dormancy
+10319	10329	GO:0009058	formation,	biosynthetic process
+10380	10387	GO:0023052	signals	signaling
+10811	10826	GO:0051216	chondrogenesis.	cartilage development
+10811	10825	GO:0051216	chondrogenesis	cartilage development
+10827	10839	GO:0001503	Osteogenesis	ossification
+11002	11014	GO:0001503	osteogenesis	ossification
+11085	11105	GO:0001501	skeletal development	skeletal system development
+11345	11354	GO:0023052	signaling	signaling
+11681	11692	GO:0032502	development	developmental process
+12288	12305	GO:0060173	limb development,	limb development
+12844	12857	GO:0006351	transcription	transcription, DNA-templated
+13671	13685	GO:0051216	chondrogenesis	cartilage development
+13690	13702	GO:0001503	osteogenesis	ossification
+14442	14451	GO:0009058	formation	biosynthetic process
+18217	18229	GO:0032502	development,	developmental process
+18315	18325	GO:0097194	apoptosis,	execution phase of apoptosis
+18315	18324	GO:0097194	apoptosis	execution phase of apoptosis
+18646	18651	GO:0005623	cells	cell
+18714	18723	GO:0097194	apoptosis	execution phase of apoptosis
+18714	18723	GO:0097194	apoptosis	execution phase of apoptosis
+18714	18723	GO:0097194	apoptosis	execution phase of apoptosis
+19462	19467	GO:0005623	cells	cell
+19462	19467	GO:0005623	cells	cell
+19977	19986	GO:0023052	Signaling	signaling
+19992	20001	GO:0023052	signaling	signaling
+19992	20001	GO:0023052	signaling	signaling
+19992	19998	GO:0023052	signal	signaling
+20328	20335	GO:0003675	protein	obsolete protein
+20530	20537	GO:0023052	signals	signaling
+20530	20537	GO:0023052	signals	signaling
+21604	21613	GO:0023052	signaling	signaling
+21604	21610	GO:0023052	signal	signaling
+22307	22316	GO:0023052	signaling	signaling
+22365	22370	GO:0012501	death	programmed cell deathcell
+23552	23561	GO:0023052	signaling	signaling
+23552	23561	GO:0023052	signaling	signaling
+23552	23561	GO:0023052	signaling	signaling
+24486	24508	GO:0001502	cartilage condensation	cartilage condensation
+24909	24918	GO:0009058	formation	biosynthetic process
+25471	25485	GO:0051216	chondrogenesis	cartilage development
+25471	25485	GO:0051216	chondrogenesis	cartilage development
+25713	25722	GO:0023052	signaling	signaling
+26147	26156	GO:0023052	Signaling	signaling
+26630	26644	GO:0051216	chondrogenesis	cartilage development
+26649	26661	GO:0001503	osteogenesis	ossification
+26900	26909	GO:0009058	formation	biosynthetic process
+27115	27124	GO:0005202	collagen,	obsolete collagen
+28201	28215	GO:0051216	chondrogenesis	cartilage development
+28837	28842	GO:0005623	cells	cell
+29005	29019	GO:0051216	chondrogenesis	cartilage development
+29376	29388	GO:0001503	Osteogenesis	ossification
+29446	29460	GO:0001503	Bone formation	ossification
+29451	29460	GO:0009058	formation	biosynthetic process
+29451	29460	GO:0009058	formation	biosynthetic process
+29451	29460	GO:0009058	formation	biosynthetic process
+29451	29460	GO:0009058	formation	biosynthetic process
+29451	29460	GO:0009058	formation	biosynthetic process
+29633	29645	GO:0001503	osteogenesis	ossification
+29812	29818	GO:0005623	cells,	cell
+29812	29817	GO:0005623	cells	cell
+29812	29818	GO:0005623	cells,	cell
+31034	31048	GO:0001503	bone formation	ossification
+31034	31048	GO:0001503	bone formation	ossification
+31034	31048	GO:0001503	bone formation	ossification
+33130	33156	GO:0001649	osteoblast differentiation	osteoblast differentiation
+33311	33337	GO:0001649	osteoblast differentiation	osteoblast differentiation
+33418	33433	GO:0010467	gene expression	gene expression
+33545	33554	GO:0005202	collagen,	obsolete collagen
+33545	33553	GO:0005202	collagen	obsolete collagen
+33674	33679	GO:0005623	cells	cell
+33674	33679	GO:0005623	cells	cell
+34303	34320	GO:0060173	limb development,	limb development
+34589	34603	GO:0051216	chondrogenesis	cartilage development
+34803	34816	GO:0001503	osteogenesis.	ossification
+34822	34831	GO:0023052	Signaling	signaling
+34836	34853	GO:0007389	Pattern Formation	pattern specification process
+34885	34894	GO:0023052	signaling	signaling
+34885	34891	GO:0023052	signal	signaling
+34885	34894	GO:0023052	signaling	signaling
+34885	34894	GO:0023052	signaling	signaling
+35309	35320	GO:0060173	development	limb developmentbud
+35470	35477	GO:0023052	signals	signaling
+36104	36112	GO:0023052	process.	signalingin this
+36135	36144	GO:0023052	signaling	signaling
+36135	36144	GO:0023052	signaling	signaling
+36135	36144	GO:0023052	signaling	signaling
+36135	36144	GO:0023052	signaling	signaling
+36135	36144	GO:0023052	signaling	signaling
+36135	36144	GO:0023052	signaling	signaling
+36623	36630	GO:0003675	protein	obsolete protein
+36907	36917	GO:0023052	signaling,	signaling
+37070	37085	GO:0051216	chondrogenesis,	cartilage development
+37284	37290	GO:0005488	ligand	binding
+38292	38306	GO:0051216	chondrogenesis	cartilage development
+40329	40338	GO:0023052	signaling	signaling
+40329	40338	GO:0023052	signaling	signaling
+40355	40365	GO:0097194	apoptosis.	execution phase of apoptosis
+40355	40364	GO:0006915	apoptosis	apoptotic processof
+40684	40694	GO:0008219	cell death	cell death
+40912	40922	GO:0097194	apoptosis,	execution phase of apoptosis
+41006	41015	GO:0023052	Signaling	signaling
+41020	41040	GO:0001501	Skeletal Development	skeletal system development
+41109	41118	GO:0023052	signaling	signaling
+41227	41241	GO:0051216	chondrogenesis	cartilage development
+41613	41640	GO:0002062	chondrocyte differentiation	chondrocyte differentiation
+41713	41722	GO:0023052	signaling	signaling
+41726	41741	GO:0051216	chondrogenesis,	cartilage development
+41867	41887	GO:0007165	signal transduction,	signal transduction
+42626	42638	GO:0001503	osteogenesis	ossification
+42676	42690	GO:0001503	bone formation	ossification
+42878	42887	GO:0001649PHENOTYPE	phenotype	osteoblast differentiation phenotypedifferentiation
+43107	43112	GO:0005623	cells	cell
+43107	43112	GO:0005623	cells	cell
+43307	43332	GO:0001958	endochondral ossification	endochondral ossification
+43358	43373	GO:0010467	gene expression	gene expression
+43694	43705	GO:0032502	development	developmental process
+43752	43762	GO:0023052	signaling,	signaling
+43752	43758	GO:0023052	signal	signaling
+43752	43761	GO:0023052	signaling	signaling
+43835	43848	GO:0001503	osteogenesis.	ossification
+44091	44106	GO:0001503	bone formation.	ossification
+44091	44105	GO:0001503	bone formation	ossification
+44091	44105	GO:0001503	bone formation	ossification
+44380	44386	GO:0005488	ligand	binding
+44456	44471	GO:0016310	phosphorylation	phosphorylation
+44679	44683	GO:0004707	MAPK	MAP kinase activity
+44826	44844	GO:0007165	signaling pathways	signal transduction
+45482	45497	GO:0051216	chondrogenesis.	cartilage development
+45482	45496	GO:0051216	chondrogenesis	cartilage development
+45882	45892	GO:0004196	proteinase	obsolete saccharopepsin activity
+45905	45910	GO:0030533	tRNA,	triplet codon-amino acid adaptor activity
+48546	48556	GO:0005694	chromosome	chromosome
+48546	48556	GO:0005694	chromosome	chromosome
+48557	48568	GO:0005694	(Chromosome	chromosome
+49333	49344	GO:0005694	chromosome.	chromosome
+49565	49571	GO:0016265	death,	death
+50256	50265	GO:0097194	apoptotic	execution phase of apoptosis
+50266	50272	GO:0005623	cells.	cell
+51714	51724	GO:0004196	proteinase	obsolete saccharopepsin activity
+52307	52312	GO:0030533	tRNA,	triplet codon-amino acid adaptor activity
+53031	53038	GO:0023052	signal,	signaling
+53262	53270	GO:0005202	collagen	obsolete collagen
+56171	56183	GO:0001503	Osteogenesis	ossification
+56946	56952	GO:0007613	memory	memory
+57248	57254	GO:0005104	factor	fibroblast growth factor receptor bindinggrowth
+58843	58852	GO:0023052	Signaling	signaling
+59437	59446	GO:0097194	apoptotic	execution phase of apoptosis
+59447	59452	GO:0005623	cells	cell
+60531	60545	GO:0051216	Chondrogenesis	cartilage development
+61477	61489	GO:0001503	Osteogenesis	ossification
+61520	61531	GO:0032502	Development	developmental process
+63147	63161	GO:0001503	Bone Formation	ossification
+63439	63444	GO:0005623	cells	cell
+63439	63444	GO:0005623	cells	cell
+63979	63993	GO:0001503	bone formation	ossification
+64031	64047	GO:0045453	bone resorption.	bone resorption
+64142	64147	GO:0005623	cells	cell

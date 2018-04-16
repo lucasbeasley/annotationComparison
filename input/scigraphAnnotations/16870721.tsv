@@ -1,0 +1,103 @@
+StartIndex	EndIndex	GO:ID	Term	OntoTerm
+163	173	GO:0065007	regulation	biological regulation
+251	256	GO:0005623	cells	cell
+251	256	GO:0005623	cells	cell
+1018	1024	GO:0005623	cells,	cell
+1184	1192	GO:0003675	proteins	obsolete protein
+1236	1241	GO:0005623	cells	cell
+2025	2036	GO:0065007	regulation.	biological regulation
+2084	2089	GO:0005623	cells	cell
+2236	2242	GO:0005623	cells,	cell
+2845	2850	GO:0005623	cells	cell
+3399	3408	GO:0030849	autosomal	autosome
+3516	3521	GO:0005623	cells	cell
+5147	5152	GO:0005623	cells	cell
+5147	5152	GO:0005623	cells	cell
+5729	5735	GO:0005623	cells,	cell
+5729	5734	GO:0005623	cells	cell
+6730	6734	GO:0005623	cell	cell
+6839	6844	GO:0005623	cells	cell
+6839	6844	GO:0005623	cells	cell
+7743	7753	GO:0007586	digestion,	digestion
+8977	8985	GO:0003675	protein,	obsolete protein
+9249	9261	GO:0006280	mutagenesis,	obsolete mutagenesis
+9898	9908	GO:0007586	digestion,	digestion
+11052	11056	GO:0005623	Cell	cell
+11218	11223	GO:0005623	cells	cell
+11523	11528	GO:0005623	cells	cell
+11768	11773	GO:0005623	cells	cell
+11807	11812	GO:0005623	cells	cell
+11807	11812	GO:0005623	cells	cell
+12286	12291	GO:0005623	cells	cell
+12286	12291	GO:0005623	cells	cell
+12720	12726	GO:0005623	Cells,	cell
+13156	13163	GO:0003675	protein	obsolete protein
+13483	13493	GO:0003823	antibodies	antigen binding
+13483	13493	GO:0003823	antibodies	antigen binding
+13795	13800	GO:0005623	cells	cell
+13896	13901	GO:0005623	Cells	cell
+14281	14286	GO:0005623	cells	cell
+14360	14365	GO:0005623	cell,	cell
+14597	14603	GO:0005623	cells,	cell
+14597	14602	GO:0005623	cells	cell
+14597	14601	GO:0005623	cell	cell
+14597	14603	GO:0005623	cells,	cell
+14711	14717	GO:0005623	cells.	cell
+15247	15252	GO:0031672	bands	A band
+15247	15251	GO:0031672	band	A band
+15363	15371	GO:0003823	antibody	antigen binding
+16047	16052	GO:0005623	cells	cell
+16047	16052	GO:0005623	cells	cell
+16047	16052	GO:0005623	cells	cell
+16135	16144	GO:0030330	responses	DNA damage response, signal transduction by p53 class mediatorDNA damage
+16248	16261	GO:0009793	embryogenesis	embryo development ending in seed dormancy
+16455	16466	GO:0032502	development	developmental process
+16923	16935	GO:0032502	development.	developmental process
+17043	17047	GO:0031672	band	A band
+17104	17109	GO:0005623	cells	cell
+17104	17109	GO:0005623	cells	cell
+17104	17108	GO:0005623	cell	cell
+17104	17109	GO:0005623	cells	cell
+17556	17562	GO:0007618	mating	mating
+17866	17871	GO:0005623	cells	cell
+17866	17871	GO:0005623	cells	cell
+17866	17871	GO:0005623	cells	cell
+17866	17871	GO:0005623	cells	cell
+17866	17871	GO:0005623	cells	cell
+17866	17871	GO:0005623	cells	cell
+17866	17871	GO:0005623	cells	cell
+17866	17871	GO:0005623	cells	cell
+17866	17871	GO:0005623	cells	cell
+17995	18001	GO:0007618	mating	mating
+19853	19857	GO:0005623	cell	cell
+19892	19899	GO:0003675	protein	obsolete protein
+20436	20444	GO:1901987	control,	regulation of cell cycle phase transitioncycle
+20519	20530	GO:0065007	regulation.	biological regulation
+20604	20615	GO:0032502	development	developmental process
+20713	20718	GO:0005623	cells	cell
+20713	20717	GO:0005623	cell	cell
+20967	20973	GO:0005623	cells,	cell
+21491	21497	GO:0005623	cells,	cell
+22323	22329	GO:0005623	cells.	cell
+22323	22328	GO:0005623	cells	cell
+22896	22902	GO:0005623	cells,	cell
+22896	22902	GO:0005623	cells,	cell
+23402	23407	GO:0005623	cells	cell
+24129	24133	GO:0031672	band	A band
+24129	24133	GO:0031672	band	A band
+24333	24339	GO:0005623	cells.	cell
+24333	24338	GO:0005623	cells	cell
+24905	24909	GO:0031672	band	A band
+24905	24909	GO:0031672	band	A band
+25023	25028	GO:0031672	bands	A band
+25023	25028	GO:0031672	bands	A band
+25323	25331	GO:0003823	antibody	antigen binding
+25505	25512	GO:0003675	protein	obsolete protein
+26348	26354	GO:0007618	mating	mating
+26645	26650	GO:0005623	cells	cell
+26735	26740	GO:0007618	mated	mating
+27415	27421	GO:0005623	cells.	cell
+27529	27534	GO:0005623	cells	cell
+27529	27533	GO:0005623	cell	cell
+27529	27533	GO:0005623	cell	cell
+28594	28602	GO:1901987	control.	regulation of cell cycle phase transitioncycle

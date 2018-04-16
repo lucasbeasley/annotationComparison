@@ -1,0 +1,413 @@
+StartIndex	EndIndex	GO:ID	Term	OntoTerm
+6	26	GO:0051598	Pachytene Checkpoint	meiotic recombination checkpoint
+65	72	GO:0051321	Meiotic	meiotic cell cycle
+95	103	GO:0007129	Synapsis	synapsis
+128	136	GO:0051321	meiosis,	meiotic cell cycle
+128	135	GO:0051321	meiosis	meiotic cell cycle
+128	136	GO:0051321	meiosis,	meiotic cell cycle
+148	158	GO:0005694	chromosome	chromosome
+159	167	GO:0007129	synapsis	synapsis
+159	167	GO:0007129	synapsis	synapsis
+159	167	GO:0007129	synapsis	synapsis
+351	371	GO:0051598	pachytene checkpoint	meiotic recombination checkpoint
+351	371	GO:0051598	pachytene checkpoint	meiotic recombination checkpoint
+584	589	GO:0016265	death	death
+641	652	GO:0005694	chromosomes	chromosome
+641	652	GO:0005694	chromosomes	chromosome
+677	684	GO:0007129	synapse	synapsis
+819	828	GO:0005712	chiasmata	chiasma
+925	934	GO:0051323	metaphase	metaphase
+951	963	GO:0005694	chromosomes.	chromosome
+1136	1143	GO:0051321	meiotic	meiotic cell cycle
+1221	1236	GO:0042148	strand invasion	strand invasion
+1612	1623	GO:0005694	chromosomes	chromosome
+1612	1622	GO:0005694	chromosome	chromosome
+1612	1622	GO:0005694	chromosome	chromosome
+1612	1622	GO:0005694	chromosome	chromosome
+1612	1623	GO:0005694	chromosomes	chromosome
+1757	1765	GO:0051321	meiosis,	meiotic cell cycle
+1757	1764	GO:0051321	meiosis	meiotic cell cycle
+1961	1966	GO:0005623	cells	cell
+1961	1966	GO:0005623	cells	cell
+1987	1994	GO:0051321	meiotic	meiotic cell cycle
+1987	1994	GO:0051321	meiotic	meiotic cell cycle
+1987	1994	GO:0051321	meiotic	meiotic cell cycle
+1995	2010	GO:0051301	cell divisions.	cell division
+2036	2044	GO:0007610	behavior	behavior
+2107	2118	GO:0000077	checkpoints	DNA damage checkpointdamage. These
+2156	2164	GO:0007129	synapsis	synapsis
+2648	2656	GO:0007129	synapsed	synapsis
+2707	2712	GO:0016265	death	death
+2824	2833	GO:0007129	synapsis,	synapsis
+3096	3106	GO:0005694	chromosome	chromosome
+3133	3140	GO:0051321	meiotic	meiotic cell cycle
+3162	3173	GO:0005694	chromosomes	chromosome
+3185	3193	GO:0007129	synapse,	synapsis
+3382	3390	GO:0007129	synapsis	synapsis
+3594	3609	GO:0006260	DNA replication	DNA replication
+3627	3650	GO:0000725	recombinational repair,	recombinational repair
+3763	3773	GO:0005694	chromosome	chromosome
+3763	3773	GO:0005694	chromosome	chromosome
+3763	3773	GO:0005694	chromosome	chromosome
+3957	3964	GO:0051321	meiotic	meiotic cell cycle
+3957	3964	GO:0051321	meiotic	meiotic cell cycle
+3957	3964	GO:0051321	meiotic	meiotic cell cycle
+3986	3991	GO:0005623	cells	cell
+3986	3991	GO:0005623	cells	cell
+4178	4186	GO:0007129	synapsis	synapsis
+4217	4226	GO:0000239	pachytene	pachytene
+4253	4255	GO:0007128	I.	meiotic prophase Iprophase
+4312	4332	GO:0051598	pachytene checkpoint	meiotic recombination checkpoint
+4312	4332	GO:0051598	pachytene checkpoint	meiotic recombination checkpoint
+4504	4513	GO:0003675	proteins,	obsolete protein
+4566	4575	GO:0023052	signaling	signaling
+4579	4586	GO:0007067	mitotic	mitotic nuclear division
+4726	4746	GO:0051598	pachytene checkpoint	meiotic recombination checkpoint
+4726	4746	GO:0051598	pachytene checkpoint	meiotic recombination checkpoint
+4726	4746	GO:0051598	pachytene checkpoint	meiotic recombination checkpoint
+4782	4800	GO:0005711	meiotic chromosome	obsolete meiotic chromosome
+4782	4789	GO:0051321	meiotic	meiotic cell cycle
+4790	4800	GO:0005694	chromosome	chromosome
+4801	4811	GO:0008152	metabolism	metabolic process
+4879	4887	GO:0007129	synapsis	synapsis
+4879	4887	GO:0007129	synapsis	synapsis
+4879	4887	GO:0007129	synapsis	synapsis
+5789	5798	GO:0000239	pachytene	pachytene
+5789	5798	GO:0000239	pachytene	pachytene
+5907	5915	GO:0007129	synapsis	synapsis
+6037	6045	GO:0051321	meiosis,	meiotic cell cycle
+6037	6045	GO:0051321	meiosis,	meiotic cell cycle
+6150	6170	GO:0000795	synaptonemal complex	synaptonemal complex
+6333	6354	GO:0051598	pachytene checkpoint.	meiotic recombination checkpoint
+6462	6469	GO:0003675	protein	obsolete protein
+6502	6509	GO:0051321	meiotic	meiotic cell cycle
+6700	6707	GO:0003675	protein	obsolete protein
+6700	6707	GO:0003675	protein	obsolete protein
+7578	7585	GO:0003675	protein	obsolete protein
+8575	8582	GO:0003675	protein	obsolete protein
+8575	8582	GO:0003675	protein	obsolete protein
+8600	8609	GO:0003823	antibody.	antigen binding
+8733	8745	GO:0051179	Localization	localization
+8972	8978	GO:0005634	nuclei	nucleus
+9009	9018	GO:0000237	leptotene	leptotene
+9049	9058	GO:0000239	pachytene	pachytene
+9049	9058	GO:0000239	pachytene	pachytene
+9248	9252	GO:0005623	cell	cell
+9320	9327	GO:0097649	tubules	A axonemal microtubule
+9359	9371	GO:0051179	localization	localization
+9521	9530	GO:0000237	leptotene	leptotene
+9538	9546	GO:0000238	zygotene	zygotene
+9558	9567	GO:0000239	pachytene	pachytene
+10842	10849	GO:0097649	tubules	A axonemal microtubule
+10842	10849	GO:0097649	tubules	A axonemal microtubule
+10842	10849	GO:0097649	tubules	A axonemal microtubule
+10873	10888	GO:0007283	spermatogenesis	spermatogenesis
+10894	10903	GO:0000239	pachytene	pachytene
+10894	10903	GO:0000239	pachytene	pachytene
+10966	10977	GO:0032502	development	developmental process
+11034	11042	GO:0097649	tubules.	A axonemal microtubule
+11244	11251	GO:0045292	spliced	mRNA cis splicing, via spliceosome
+11244	11250	GO:0045292	splice	mRNA cis splicing, via spliceosome
+11420	11428	GO:0003823	antibody	antigen binding
+11733	11737	GO:0031672	band	A band
+11861	11868	GO:0003675	protein	obsolete protein
+12178	12186	GO:0003823	antibody	antigen binding
+12243	12248	GO:0005623	cells	cell
+12297	12306	GO:0000237	leptotene	leptotene
+12343	12352	GO:0000239	pachytene	pachytene
+12531	12537	GO:0005634	nuclei	nucleus
+12612	12625	GO:0051179	localization,	localization
+12651	12670	GO:0005711	meiotic chromosomes	obsolete meiotic chromosome
+12651	12658	GO:0051321	meiotic	meiotic cell cycle
+12651	12658	GO:0051321	meiotic	meiotic cell cycle
+12717	12724	GO:0005634	nuclei.	nucleus
+12717	12724	GO:0005634	nuclei.	nucleus
+12814	12819	GO:0019013	cores	viral nucleocapsid
+12835	12848	GO:0000800	axial element	lateral element
+12849	12856	GO:0003675	protein	obsolete protein
+12908	12914	GO:0023052	signal	signaling
+12983	12990	GO:0051321	Meiotic	meiotic cell cycle
+13283	13296	GO:0009793	embryogenesis	embryo development ending in seed dormancy
+13319	13331	GO:0032502	development,	developmental process
+13539	13555	GO:0051325	(resting) phase.	interphase
+13587	13596	GO:0000239	pachytene	pachytene
+13603	13614	GO:0005694	chromosomes	chromosome
+14291	14300	GO:0000239	pachytene	pachytene
+14409	14415	GO:0097649	tubule	A axonemal microtubule
+14487	14494	GO:0097649	tubules	A axonemal microtubule
+14500	14509	GO:0097194	apoptotic	execution phase of apoptosis
+14697	14703	GO:0097649	tubule	A axonemal microtubule
+15579	15586	GO:0051321	meiotic	meiotic cell cycle
+15587	15591	GO:0005623	cell	cell
+15678	15689	GO:0032502	development	developmental process
+15773	15782	GO:0000785	chromatin	chromatin
+15914	15923	GO:0000239	pachytene	pachytene
+15966	15976	GO:0005694	chromosome	chromosome
+16338	16348	GO:0005694	Chromosome	chromosome
+16349	16357	GO:0007129	Synapsis	synapsis
+16449	16456	GO:0051321	meiotic	meiotic cell cycle
+16449	16456	GO:0051321	meiotic	meiotic cell cycle
+16516	16526	GO:0005694	chromosome	chromosome
+16601	16622	GO:0000802	transverse filaments,	transverse filament
+16644	16664	GO:0000795	synaptonemal complex	synaptonemal complex
+16671	16680	GO:0000239	Pachytene	pachytene
+16694	16700	GO:0005634	nuclei	nucleus
+16758	16763	GO:0019013	cores	viral nucleocapsid
+16783	16791	GO:0007129	synapsis	synapsis
+16795	16806	GO:0005694	chromosomes	chromosome
+16795	16806	GO:0005694	chromosomes	chromosome
+16880	16889	GO:0030849	autosomes	autosome
+16927	16940	GO:0000806	Y chromosomes	Y chromosome
+16955	16963	GO:0007129	synapsed	synapsis
+17242	17257	GO:0007283	spermatogenesis	spermatogenesis
+17517	17527	GO:0006281	DNA repair	DNA repair
+17683	17692	GO:0000239	Pachytene	pachytene
+17706	17717	GO:0005694	Chromosomes	chromosome
+17734	17745	GO:0005694	chromosomes	chromosome
+17784	17794	GO:0003823	antibodies	antigen binding
+17860	17865	GO:0005623	cells	cell
+18029	18038	GO:0000239	pachytene	pachytene
+18039	18046	GO:0005634	nucleus	nucleus
+18057	18066	GO:0007129	synapsis.	synapsis
+18132	18139	GO:0005634	nucleus	nucleus
+18172	18180	GO:0007129	synapsed	synapsis
+18181	18192	GO:0005694	chromosomes	chromosome
+18181	18192	GO:0005694	chromosomes	chromosome
+18196	18203	GO:0098687	regions	chromosomal regionor
+18319	18328	GO:0000239	pachytene	pachytene
+18319	18328	GO:0000239	pachytene	pachytene
+18319	18328	GO:0000239	pachytene	pachytene
+18464	18473	GO:0051324	prophase,	prophase
+18489	18498	GO:0030849	autosomes	autosome
+18522	18528	GO:0005634	nuclei	nucleus
+18570	18577	GO:0001741	XY body	XY body
+18614	18622	GO:0007129	synapsed	synapsis
+18630	18641	GO:0005694	chromosomes	chromosome
+18662	18677	GO:0016310	phosphorylation	phosphorylation
+18699	18706	GO:0001741	XY body	XY body
+18782	18790	GO:0001741	XY body,	XY body
+18810	18819	GO:0030849	autosomal	autosome
+18825	18840	GO:0016310	phosphorylation	phosphorylation
+18882	18891	GO:0000239	pachytene	pachytene
+18939	18946	GO:0001741	XY body	XY body
+19051	19067	GO:0000803	sex chromosomes,	sex chromosome
+19055	19065	GO:0005694	chromosome	chromosome
+19094	19099	GO:0019013	cores	viral nucleocapsid
+19151	19159	GO:0007129	synapsed	synapsis
+19160	19165	GO:0019013	cores	viral nucleocapsid
+19259	19268	GO:0000239	pachytene	pachytene
+19394	19403	GO:0000239	pachytene	pachytene
+19404	19410	GO:0005634	nuclei	nucleus
+19431	19437	GO:0002948	arcs).	archaeosine synthase activity
+19514	19524	GO:0005694	chromosome	chromosome
+19563	19570	GO:0051321	meiotic	meiotic cell cycle
+19591	19610	GO:0005711	meiotic chromosomes	obsolete meiotic chromosome
+19599	19610	GO:0005694	chromosomes	chromosome
+19678	19687	GO:0007129	synapsis.	synapsis
+19946	19953	GO:0005714	nodules	early recombination nodulerecombination
+20011	20019	GO:0000238	zygotene	zygotene
+20068	20076	GO:0003823	antibody	antigen binding
+20118	20140	GO:0000725	recombinational repair	recombinational repair
+20167	20183	GO:0008278	cohesin complex,	cohesin complex
+20443	20452	GO:0000781	telomeres	chromosome, telomeric region
+20443	20451	GO:0000781	telomere	chromosome, telomeric region
+20443	20451	GO:0000781	telomere	chromosome, telomeric region
+20443	20452	GO:0000781	telomeres	chromosome, telomeric region
+20567	20582	GO:0043234	protein complex	protein complex
+20685	20693	GO:0007129	synapsed	synapsis
+20851	20857	GO:0005634	nuclei	nucleus
+20863	20873	GO:0003823	antibodies	antigen binding
+20960	20970	GO:0005694	chromosome	chromosome
+21128	21136	GO:0007129	synapsed	synapsis
+21137	21149	GO:0005694	chromosomes.	chromosome
+21137	21148	GO:0005694	chromosomes	chromosome
+21173	21182	GO:0000239	pachytene	pachytene
+21173	21182	GO:0000239	pachytene	pachytene
+21285	21294	GO:0001741	XY body),	XY body
+21391	21401	GO:0000077	checkpoint	DNA damage checkpointdamage
+21402	21409	GO:0003675	protein	obsolete protein
+21402	21409	GO:0003675	protein	obsolete protein
+21482	21486	GO:0005488	bind	binding
+21528	21547	GO:0005711	meiotic chromosomes	obsolete meiotic chromosome
+21528	21547	GO:0005711	meiotic chromosomes	obsolete meiotic chromosome
+21831	21840	GO:0007129	synapsing	synapsis
+22217	22228	GO:0005694	chromosomes	chromosome
+22217	22228	GO:0005694	chromosomes	chromosome
+22217	22228	GO:0005694	chromosomes	chromosome
+22241	22248	GO:0051321	meiotic	meiotic cell cycle
+22241	22248	GO:0051321	meiotic	meiotic cell cycle
+22253	22276	GO:0009048	chromosome inactivation	dosage compensation by inactivation of X chromosome
+22318	22327	GO:0000785	chromatin	chromatin
+22358	22368	GO:0003823	antibodies	antigen binding
+22436	22451	GO:0016310	phosphorylation	phosphorylation
+22546	22555	GO:0007129	synapsed,	synapsis
+22661	22671	GO:0006281	DNA repair	DNA repair
+22661	22671	GO:0006281	DNA repair	DNA repair
+22742	22757	GO:0006351	transcriptional	transcription, DNA-templated
+22825	22834	GO:0000239	pachytene	pachytene
+22870	22880	GO:0006281	DNA repair	DNA repair
+22988	22997	GO:0000240	diplotene	diplotene
+22988	22997	GO:0000240	diplotene	diplotene
+22998	23004	GO:0005634	nuclei	nucleus
+23017	23026	GO:0030849	autosomal	autosome
+23075	23084	GO:0051323	metaphase	metaphase
+23075	23084	GO:0051323	metaphase	metaphase
+23397	23408	GO:0005694	chromosomes	chromosome
+23397	23408	GO:0005694	chromosomes	chromosome
+23397	23408	GO:0005694	chromosomes	chromosome
+23397	23408	GO:0005694	chromosomes	chromosome
+23501	23524	GO:0000725	recombinational repair.	recombinational repair
+23744	23753	GO:0005712	chiasmata	chiasma
+23923	23932	GO:0000239	pachytene	pachytene
+23923	23932	GO:0000239	pachytene	pachytene
+23923	23932	GO:0000239	pachytene	pachytene
+24016	24022	GO:0005634	nuclei	nucleus
+24016	24022	GO:0005634	nuclei	nucleus
+24481	24490	GO:0000239	pachytene	pachytene
+24481	24490	GO:0000239	pachytene	pachytene
+24615	24623	GO:0051324	prophase	prophase
+24649	24654	GO:0005623	cells	cell
+24730	24737	GO:0003675	protein	obsolete protein
+24738	24749	GO:0016791	phosphatase	phosphatase activity
+24803	24814	GO:0009056	degradation	catabolic process
+24826	24850	GO:0030261	chromosome condensation,	chromosome condensation
+24880	24889	GO:0051323	metaphase	metaphase
+24880	24889	GO:0051323	metaphase	metaphase
+25010	25032	GO:0000793	condensed chromosomes,	condensed chromosome
+25307	25317	GO:0051323	metaphases	metaphase
+25418	25425	GO:0051321	Meiotic	meiotic cell cycle
+25468	25476	GO:0007129	Synapsis	synapsis
+25521	25530	GO:0097194	apoptosis	execution phase of apoptosis
+25521	25530	GO:0097194	apoptosis	execution phase of apoptosis
+25545	25553	GO:0007129	synapsis	synapsis
+25545	25553	GO:0007129	synapsis	synapsis
+25545	25553	GO:0007129	synapsis	synapsis
+25545	25553	GO:0007129	synapsis	synapsis
+25973	25983	GO:0005694	chromosome	chromosome
+25973	25983	GO:0005694	chromosome	chromosome
+25973	25983	GO:0005694	chromosome	chromosome
+26018	26029	GO:0005694	chromosomes	chromosome
+26072	26081	GO:0000239	pachytene	pachytene
+26204	26209	GO:0016265	death	death
+26237	26255	GO:0031577	spindle checkpoint	spindle checkpoint
+26328	26337	GO:0051323	metaphase	metaphase
+26905	26914	GO:0009058	formation	biosynthetic process
+27093	27104	GO:0005694	chromosomes	chromosome
+27143	27153	GO:0003823	antibodies	antigen binding
+27327	27334	GO:0005634	nuclei.	nucleus
+27378	27387	GO:0000239	pachytene	pachytene
+27793	27803	GO:0005694	chromosome	chromosome
+27793	27803	GO:0005694	chromosome	chromosome
+27804	27812	GO:0007129	synapsis	synapsis
+27804	27812	GO:0007129	synapsis	synapsis
+27804	27812	GO:0007129	synapsis	synapsis
+27804	27812	GO:0007129	synapsis	synapsis
+28040	28059	GO:0005711	Meiotic chromosomes	obsolete meiotic chromosome
+28048	28059	GO:0005694	chromosomes	chromosome
+28259	28269	GO:0005695	chromatids	obsolete chromatid
+28280	28287	GO:0007129	synapse	synapsis
+28296	28301	GO:0005488	bound	binding
+28374	28383	GO:0051323	metaphase	metaphase
+28374	28383	GO:0051323	metaphase	metaphase
+29020	29027	GO:0051321	meiotic	meiotic cell cycle
+29020	29027	GO:0051321	meiotic	meiotic cell cycle
+29307	29317	GO:0005694	chromosome	chromosome
+29318	29326	GO:0007129	synapsis	synapsis
+29333	29348	GO:0007283	spermatogenesis	spermatogenesis
+29445	29454	GO:0000785	chromatin	chromatin
+29584	29595	GO:0005694	chromosomes	chromosome
+29920	29927	GO:0051321	Meiotic	meiotic cell cycle
+30280	30290	GO:0048477	oogenesis,	oogenesis
+30403	30413	GO:0009058	formation.	biosynthetic process
+30504	30511	GO:0051321	meiotic	meiotic cell cycle
+30790	30810	GO:0051598	pachytene checkpoint	meiotic recombination checkpoint
+30867	30875	GO:0007129	synapsis	synapsis
+30867	30875	GO:0007129	synapsis	synapsis
+30867	30875	GO:0007129	synapsis	synapsis
+31456	31463	GO:0051321	meiotic	meiotic cell cycle
+31535	31542	GO:0051321	meiotic	meiotic cell cycle
+31535	31542	GO:0051321	meiotic	meiotic cell cycle
+31535	31542	GO:0051321	meiotic	meiotic cell cycle
+31535	31542	GO:0051321	meiotic	meiotic cell cycle
+31634	31654	GO:0051598	pachytene checkpoint	meiotic recombination checkpoint
+31634	31643	GO:0000239	pachytene	pachytene
+32104	32112	GO:0003675	proteins	obsolete protein
+32523	32529	GO:0005623	cells.	cell
+32631	32638	GO:0051321	meiosis	meiotic cell cycle
+32773	32785	GO:0005694	chromosomes,	chromosome
+33000	33007	GO:0051321	meiotic	meiotic cell cycle
+33073	33078	GO:0005627	ascus	obsolete ascus
+33079	33088	GO:0009058	formation	biosynthetic process
+33079	33088	GO:0009058	formation	biosynthetic process
+33234	33239	GO:0005623	cells	cell
+33299	33308	GO:0007127	meiosis I	meiosis I
+33483	33491	GO:0007129	synapsis	synapsis
+33814	33827	GO:0005694	chromosomes).	chromosome
+34050	34072	GO:0000725	recombinational repair	recombinational repair
+34105	34113	GO:0003675	proteins	obsolete protein
+34105	34112	GO:0003675	protein	obsolete protein
+34153	34162	GO:0000239	pachytene	pachytene
+34163	34175	GO:0005694	chromosomes.	chromosome
+34391	34399	GO:0051321	meiosis,	meiotic cell cycle
+34568	34574	GO:0023052	signal	signaling
+34633	34641	GO:0051321	meiosis.	meiotic cell cycle
+34666	34676	GO:0008219	cell death	cell death
+34774	34782	GO:0007129	synapsis	synapsis
+34774	34782	GO:0007129	synapsis	synapsis
+34874	34883	GO:0009058	formation	biosynthetic process
+35180	35200	GO:0051598	pachytene checkpoint	meiotic recombination checkpoint
+35180	35200	GO:0051598	pachytene checkpoint	meiotic recombination checkpoint
+35560	35569	GO:0000239	pachytene	pachytene
+36014	36021	GO:0051321	meiosis	meiotic cell cycle
+36014	36021	GO:0051321	meiosis	meiotic cell cycle
+36130	36136	GO:0005634	nuclei	nucleus
+36276	36291	GO:0000803	sex chromosomes	sex chromosome
+36392	36399	GO:0001741	XY body	XY body
+36807	36814	GO:0003675	protein	obsolete protein
+36807	36814	GO:0003675	protein	obsolete protein
+37052	37059	GO:0051321	meiotic	meiotic cell cycle
+37286	37294	GO:0003675	proteins	obsolete protein
+37984	37999	GO:0044215	other organisms	other organism
+38034	38042	GO:0007129	synapsis	synapsis
+38203	38212	GO:0000239	pachytene	pachytene
+38336	38347	GO:0005695	chromatids.	obsolete chromatid
+38488	38508	GO:0051598	pachytene checkpoint	meiotic recombination checkpoint
+38488	38508	GO:0051598	pachytene checkpoint	meiotic recombination checkpoint
+38633	38638	GO:0016265	death	death
+38806	38827	GO:0051598	pachytene checkpoint.	meiotic recombination checkpoint
+38897	38904	GO:0051321	meiotic	meiotic cell cycle
+38973	38980	GO:0007067	mitotic	mitotic nuclear division
+40940	40944	GO:0031672	band	A band
+41963	41974	GO:0032502	Development	developmental process
+42003	42014	GO:0003823	antibodies.	antigen binding
+42322	42332	GO:0003823	antibodies	antigen binding
+42519	42523	GO:0034023	Pure	5-(carboxyamino)imidazole ribonucleotide mutase activity
+42539	42547	GO:0016020	membrane	membrane
+42539	42547	GO:0016020	membrane	membrane
+42652	42660	GO:0003823	antibody	antigen binding
+42837	42844	GO:0005488	Binding	binding
+43320	43327	GO:0005634	nucleus	nucleus
+43519	43528	GO:0003675	proteins,	obsolete protein
+43519	43527	GO:0003675	proteins	obsolete protein
+43573	43579	GO:0005634	nuclei	nucleus
+43594	43601	GO:0051321	meiotic	meiotic cell cycle
+44088	44098	GO:0005694	chromosome	chromosome
+44099	44106	GO:0019013	cores).	viral nucleocapsid
+44107	44113	GO:0005634	Nuclei	nucleus
+44236	44246	GO:0003823	antibodies	antigen binding
+44236	44246	GO:0003823	antibodies	antigen binding
+44487	44495	GO:0003823	antibody	antigen binding
+45296	45305	GO:0051323	Metaphase	metaphase
+45536	45541	GO:0005623	cells	cell
+45743	45752	GO:0051323	metaphase	metaphase
+45753	45759	GO:0005634	nuclei	nucleus
+45764	45776	GO:0005694	chromosomes.	chromosome
+46618	46629	GO:0005694	Chromosomes	chromosome
+46663	46673	GO:0003823	Antibodies	antigen binding
+46855	46864	GO:0051323	Metaphase	metaphase
+47325	47336	GO:0003823	antibodies,	antigen binding
+47620	47627	GO:0051321	meiotic	meiotic cell cycle
+47632	47655	GO:0009048	chromosome inactivation	dosage compensation by inactivation of X chromosome
+47664	47671	GO:0051321	meiotic	meiotic cell cycle
+47694	47703	GO:0000785	chromatin	chromatin
+47785	47805	GO:0000795	synaptonemal complex	synaptonemal complex

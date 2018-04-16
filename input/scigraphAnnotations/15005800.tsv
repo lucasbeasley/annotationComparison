@@ -1,0 +1,267 @@
+StartIndex	EndIndex	GO:ID	Term	OntoTerm
+5	16	GO:0007565	gestational	female pregnancy
+128	152	GO:0006695	cholesterol biosynthesis	cholesterol biosynthetic process
+190	202	GO:0032502	development.	developmental process
+454	459	GO:0016265	death	death
+631	647	GO:0030324	lung development	lung development
+636	647	GO:0032502	development	developmental process
+636	647	GO:0032502	development	developmental process
+636	647	GO:0032502	development	developmental process
+914	927	GO:0060441	morphogenesis	epithelial tube branching involved in lung morphogenesisbranching
+1144	1163	GO:0008283	cell proliferation,	cell proliferation
+1594	1606	GO:0051179	localization	localization
+2095	2106	GO:0007565	gestational	female pregnancy
+2151	2167	GO:0030324	lung development	lung development
+2387	2395	GO:0016020	membrane	membrane
+2444	2450	GO:0005623	cells,	cell
+2468	2484	GO:0044215	other organisms,	other organism
+2702	2711	GO:0016020	membranes	membrane
+3070	3082	GO:0032502	development.	developmental process
+3293	3318	GO:0006695	cholesterol biosynthesis.	cholesterol biosynthetic process
+3293	3317	GO:0006695	cholesterol biosynthesis	cholesterol biosynthetic process
+3901	3912	GO:0032502	development	developmental process
+4184	4200	GO:0030324	lung development	lung development
+4266	4275	GO:0007585	breathing	respiratory gaseous exchange
+4415	4420	GO:0016265	death	death
+5012	5023	GO:0032502	development	developmental process
+5012	5023	GO:0032502	development	developmental process
+5061	5077	GO:0030324	Lung development	lung development
+5140	5151	GO:0002009	epithelium,	morphogenesis of an epitheliumof
+5187	5202	GO:0001570	vasculogenesis,	vasculogenesis
+5265	5272	GO:0040007	growth.	growth
+5294	5310	GO:0030324	lung development	lung development
+5612	5624	GO:0032502	development,	developmental process
+5723	5740	GO:0007165	signaling cascade	signal transduction
+5723	5732	GO:0023052	signaling	signaling
+5782	5798	GO:0030324	lung development	lung development
+5885	5909	GO:0001763	branching morphogenesis,	morphogenesis of a branching structure
+6192	6197	GO:0005623	cells	cell
+6345	6369	GO:0006695	cholesterol biosynthesis	cholesterol biosynthetic process
+6645	6661	GO:0030324	lung development	lung development
+6650	6661	GO:0060430	development	lung saccule developmentsaccular
+6814	6827	GO:0060441	morphogenesis	epithelial tube branching involved in lung morphogenesisbranching
+6835	6846	GO:0007565	gestational	female pregnancy
+6835	6846	GO:0007565	gestational	female pregnancy
+6968	6975	GO:0097649	tubules	A axonemal microtubule
+6997	7009	GO:0032502	development.	developmental process
+6997	7009	GO:0032502	development.	developmental process
+7467	7479	GO:0009405	pathogenesis	pathogenesis
+7564	7581	GO:0007165	signaling cascade	signal transduction
+7689	7698	GO:0007565	gestation	female pregnancy
+8109	8118	GO:0007585	breathing	respiratory gaseous exchange
+8109	8118	GO:0007585	breathing	respiratory gaseous exchange
+8401	8412	GO:0007565	gestational	female pregnancy
+8401	8410	GO:0007565	gestation	female pregnancy
+8428	8434	GO:0040007	growth	growth
+8428	8434	GO:0040007	growth	growth
+9114	9120	GO:0040007	growth	growth
+9114	9120	GO:0040007	growth	growth
+9114	9120	GO:0040007	growth	growth
+9152	9163	GO:0007565	gestational	female pregnancy
+9980	9991	GO:0032502	development	developmental process
+10533	10545	GO:0032502	development.	developmental process
+10966	10976	GO:0000917	septation,	barrier septum assembly
+11408	11421	GO:0048513	organogenesis	organ development
+11884	11895	GO:0032502	development	developmental process
+12686	12695	GO:0009058	formation	biosynthetic process
+12840	12847	GO:0097649	tubules	A axonemal microtubule
+13243	13252	GO:0000917	septation	barrier septum assembly
+13526	13537	GO:0007565	gestational	female pregnancy
+13526	13537	GO:0007565	gestational	female pregnancy
+14028	14037	GO:0000917	septation	barrier septum assembly
+14028	14037	GO:0000917	septation	barrier septum assembly
+14389	14400	GO:0032502	development	developmental process
+14873	14891	GO:0008283	cell proliferation	cell proliferation
+14900	14911	GO:0007565	gestational	female pregnancy
+14952	14976	GO:0006695	cholesterol biosynthesis	cholesterol biosynthetic process
+15002	15006	GO:0005623	cell	cell
+15002	15006	GO:0005623	cell	cell
+15002	15006	GO:0005623	cell	cell
+15033	15044	GO:0008219	cell death?	cell death
+15045	15063	GO:0008283	Cell proliferation	cell proliferation
+15099	15103	GO:0003892	PCNA	obsolete proliferating cell nuclear antigen
+15099	15103	GO:0003892	PCNA	obsolete proliferating cell nuclear antigen
+15099	15103	GO:0003892	PCNA	obsolete proliferating cell nuclear antigen
+15099	15103	GO:0003892	PCNA	obsolete proliferating cell nuclear antigen
+15205	15216	GO:0007565	gestational	female pregnancy
+15205	15216	GO:0007565	gestational	female pregnancy
+15205	15216	GO:0007565	gestational	female pregnancy
+15611	15625	GO:0051301	cell division,	cell division
+15837	15846	GO:0097194	apoptosis	execution phase of apoptosis
+16103	16122	GO:0008283	cell proliferation,	cell proliferation
+16123	16136	GO:0051301	cell division	cell division
+16123	16136	GO:0051301	cell division	cell division
+16141	16152	GO:0008219	cell death.	cell death
+16153	16171	GO:0008283	Cell proliferation	cell proliferation
+16172	16178	GO:0003892	(PCNA:	obsolete proliferating cell nuclear antigen
+16173	16177	GO:0003892	PCNA	obsolete proliferating cell nuclear antigen
+16173	16177	GO:0003892	PCNA	obsolete proliferating cell nuclear antigen
+16173	16177	GO:0003892	PCNA	obsolete proliferating cell nuclear antigen
+16173	16177	GO:0003892	PCNA	obsolete proliferating cell nuclear antigen
+16379	16390	GO:0007565	gestational	female pregnancy
+16426	16431	GO:0005623	cells	cell
+16426	16431	GO:0005623	cells	cell
+16426	16431	GO:0005623	cells	cell
+17131	17137	GO:0005623	cells,	cell
+17928	17939	GO:0007565	gestational	female pregnancy
+18746	18756	GO:0007565	gestation.	female pregnancy
+18805	18822	GO:0042446	hormone synthesis	hormone biosynthetic process
+18813	18822	GO:0009058	synthesis	biosynthetic process
+19112	19121	GO:0046903	secretion	secretion
+19495	19501	GO:0016265	dying,	death
+19923	19934	GO:0007565	gestational	female pregnancy
+19935	19939	GO:0007568	ages	aging
+20525	20532	GO:0097649	tubules	A axonemal microtubule
+21314	21323	GO:0009058	formation	biosynthetic process
+21498	21503	GO:0005623	cells	cell
+21498	21503	GO:0005623	cells	cell
+21565	21572	GO:0097649	tubules	A axonemal microtubule
+22697	22701	GO:0005623	cell	cell
+22697	22702	GO:0005623	cells	cell
+22881	22888	GO:0097649	tubules	A axonemal microtubule
+23638	23648	GO:0003823	antibodies	antigen binding
+23839	23850	GO:0032502	development	developmental process
+23921	23932	GO:0001568	development	blood vessel developmentvessel
+23921	23932	GO:0032502	development	developmental process
+23921	23932	GO:0032502	development	developmental process
+23921	23932	GO:0032502	development	developmental process
+23953	23965	GO:0032502	development.	developmental process
+24055	24064	GO:0009058	formation	biosynthetic process
+24199	24210	GO:0007565	gestational	female pregnancy
+24199	24210	GO:0007565	gestational	female pregnancy
+24399	24411	GO:0001568	development,	blood vessel developmentvessel
+25316	25325	GO:0000917	septation	barrier septum assembly
+25612	25617	GO:0005623	cells	cell
+25718	25726	GO:0097649	tubules,	A axonemal microtubule
+26128	26140	GO:0032502	development.	developmental process
+26128	26139	GO:0032502	development	developmental process
+27356	27363	GO:0097649	tubules	A axonemal microtubule
+27529	27538	GO:0023052	signaling	signaling
+27606	27617	GO:0032502	development	developmental process
+27755	27764	GO:0023052	signaling	signaling
+27803	27827	GO:0006695	cholesterol biosynthesis	cholesterol biosynthetic process
+27905	27917	GO:0032502	development.	developmental process
+28123	28132	GO:0003823	antibody.	antigen binding
+28511	28522	GO:0007565	gestational	female pregnancy
+28523	28527	GO:0007568	ages	aging
+28791	28802	GO:0007565	gestational	female pregnancy
+28791	28802	GO:0007565	gestational	female pregnancy
+28791	28802	GO:0007565	gestational	female pregnancy
+28900	28908	GO:0003823	antibody	antigen binding
+30113	30122	GO:0023052	signaling	signaling
+30276	30286	GO:0023052	signaling.	signaling
+30276	30286	GO:0023052	signaling.	signaling
+30338	30349	GO:0007565	gestational	female pregnancy
+30338	30349	GO:0007565	gestational	female pregnancy
+30607	30624	GO:0007165	signaling cascade	signal transduction
+30629	30637	GO:0003675	proteins	obsolete protein
+30672	30681	GO:0003675	proteins,	obsolete protein
+31337	31355	GO:0016485	protein processing	protein processing
+31426	31435	GO:0023052	signaling	signaling
+31615	31621	GO:0005623	cells,	cell
+31615	31620	GO:0005623	cells	cell
+31904	31911	GO:0003675	protein	obsolete protein
+32108	32113	GO:0031672	bands	A band
+32108	32112	GO:0031672	band	A band
+32108	32112	GO:0031672	band	A band
+32204	32224	GO:0030258	lipid modifications,	lipid modification
+32843	32865	GO:0016540	protein autoprocessing	protein autoprocessing
+33010	33015	GO:0005623	cells	cell
+33010	33015	GO:0005623	cells	cell
+33010	33015	GO:0005623	cells	cell
+33096	33107	GO:0003823	antibodies.	antigen binding
+33125	33133	GO:0003675	proteins	obsolete protein
+33125	33133	GO:0003675	proteins	obsolete protein
+33125	33133	GO:0003675	proteins	obsolete protein
+33209	33218	GO:0023052	processed	signalingand
+33304	33311	GO:0023052	signal,	signaling
+33374	33380	GO:0005623	cells.	cell
+33406	33411	GO:0031672	bands	A band
+33406	33410	GO:0031672	band	A band
+33496	33515	GO:0030258	lipid modifications	lipid modification
+33891	33915	GO:0006695	cholesterol biosynthesis	cholesterol biosynthetic process
+33960	33972	GO:0032502	development.	developmental process
+33960	33971	GO:0032502	development	developmental process
+33960	33971	GO:0032502	development	developmental process
+34144	34169	GO:0006695	cholesterol biosynthesis.	cholesterol biosynthetic process
+34235	34257	GO:0006695	cholesterol synthesis,	cholesterol biosynthetic process
+34411	34427	GO:0030324	lung development	lung development
+34416	34427	GO:0032502	development	developmental process
+34416	34427	GO:0032502	development	developmental process
+34609	34625	GO:0030324	Lung development	lung development
+34681	34690	GO:0009058	formation	biosynthetic process
+34880	34888	GO:0097649	tubules,	A axonemal microtubule
+34974	34986	GO:0032502	development,	developmental process
+34974	34986	GO:0032502	development,	developmental process
+35021	35032	GO:0007565	gestational	female pregnancy
+35021	35032	GO:0007565	gestational	female pregnancy
+35480	35498	GO:0060425	lung morphogenesis	lung morphogenesis
+35687	35692	GO:0005623	cells	cell
+36020	36035	GO:0010467	gene expression	gene expression
+36372	36378	GO:0040007	growth	growth
+36372	36378	GO:0030308	growth	negative regulation of cell growthof cell
+36784	36793	GO:0007565	gestation	female pregnancy
+36940	36951	GO:0007565	gestational	female pregnancy
+37132	37143	GO:0060437	lung growth	lung growth
+37163	37181	GO:0008283	Cell proliferation	cell proliferation
+37265	37269	GO:0005623	cell	cell
+37270	37280	GO:0097194	apoptosis.	execution phase of apoptosis
+38018	38024	GO:0004617	serum,	phosphoglycerate dehydrogenase activity
+38860	38884	GO:0006695	cholesterol biosynthesis	cholesterol biosynthetic process
+38913	38924	GO:0032502	development	developmental process
+38913	38924	GO:0032502	development	developmental process
+38989	38999	GO:0023052	signaling,	signaling
+38989	38998	GO:0023052	signaling	signaling
+38989	38998	GO:0023052	signaling	signaling
+38989	38998	GO:0023052	signaling	signaling
+39143	39167	GO:0001763	branching morphogenesis,	morphogenesis of a branching structure
+39153	39166	GO:0060441	morphogenesis	epithelial tube branching involved in lung morphogenesisbranching
+39278	39302	GO:0001763	branching morphogenesis.	morphogenesis of a branching structure
+39595	39602	GO:0003675	protein	obsolete protein
+39595	39602	GO:0003675	protein	obsolete protein
+39595	39602	GO:0003675	protein	obsolete protein
+40171	40178	GO:0007224	pathway	smoothened signaling pathwaysignaling
+40280	40289	GO:0003675	proteins.	obsolete protein
+40331	40344	GO:0006351	transcription	transcription, DNA-templated
+40706	40722	GO:0030324	lung development	lung development
+41027	41043	GO:0010467	gene expression,	gene expression
+41084	41090	GO:0005623	cells,	cell
+41341	41360	GO:0007165	signal transduction	signal transduction
+41341	41360	GO:0007165	signal transduction	signal transduction
+41456	41480	GO:0006695	cholesterol biosynthesis	cholesterol biosynthetic process
+41560	41575	GO:0005886	plasma membrane	plasma membrane
+41560	41575	GO:0005886	plasma membrane	plasma membrane
+41662	41671	GO:0016020	membrane)	membrane
+41756	41777	GO:0006695	cholesterol synthesis	cholesterol biosynthetic process
+41823	41827	GO:0018995	host	host
+42236	42248	GO:0032502	development.	developmental process
+42236	42248	GO:0032502	development.	developmental process
+42299	42308	GO:0016020	membranes	membrane
+42380	42400	GO:0007165	signal transduction.	signal transduction
+42380	42399	GO:0007165	signal transduction	signal transduction
+42432	42447	GO:0006351	transcriptional	transcription, DNA-templated
+43451	43460	GO:0007585	breathing	respiratory gaseous exchange
+43908	43913	GO:0004617	Serum	phosphoglycerate dehydrogenase activity
+44067	44071	GO:0019013	Core	viral nucleocapsid
+45015	45020	GO:0004617	serum	phosphoglycerate dehydrogenase activity
+45063	45073	GO:0003823	antibodies	antigen binding
+45063	45073	GO:0003823	antibodies	antigen binding
+46322	46326	GO:0005623	cell	cell
+46368	46386	GO:0008283	cell proliferation	cell proliferation
+46444	46451	GO:0003892	antigen	obsolete proliferating cell nuclear antigencell nuclear
+46452	46458	GO:0003892	(PCNA)	obsolete proliferating cell nuclear antigen
+46453	46457	GO:0003892	PCNA	obsolete proliferating cell nuclear antigen
+46586	46596	GO:0003823	antibodies	antigen binding
+46922	46930	GO:0003823	antibody	antigen binding
+46922	46930	GO:0003823	antibody	antigen binding
+47100	47110	GO:0008219	Cell death	cell death
+47238	47248	GO:0008219	Cell Death	cell death
+47543	47548	GO:0019835	lysis	cytolysis
+47942	47949	GO:0003675	protein	obsolete protein
+47942	47949	GO:0003675	protein	obsolete protein
+48011	48016	GO:0005623	cells	cell
+48199	48231	GO:0043687	post-translational modifications	post-translational protein modification
+48559	48565	GO:0005623	cells)	cell
+48657	48666	GO:0016020	membrane,	membrane
+48690	48698	GO:0003823	antibody	antigen binding
+48690	48698	GO:0003823	antibody	antigen binding
