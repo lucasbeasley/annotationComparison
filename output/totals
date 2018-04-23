@@ -1,8 +1,23 @@
-CRAFT	Total: 32416	Unique GO:IDs: 1236	Average Non-Unique Annotations per paper: 416
+CRAFT
+--------------------------
+Total: 32416
+Unique GO:IDs: 1236
+Average Non-Unique Annotations per paper: 416
 
-Tool	Exacts	Partials	New	UniqueGOs
+GO Distribution in CRAFT
+--------------------------
+BP: Total: 15747	Unique: 713
+CC: Total: 8310	Unique: 204
+MF: Total: 3508	Unique: 247
 
-NCBO	5921	2776	6914	894
-Textpresso	4006	9811	26692	37
-MetaMap	866	126	25823	1174
-Scigraph	5016	1639	6494	780
+Total independent_continuants: 2969
+Total annotations with missing IDs (not counting independent_continuants): 1882
+Total IDs not found: 71
+
+
+Tool	Exacts	Partials	New	UniqueGOs	FalseNegatives
+
+NCBO	5921	2776	6914	894	24892
+Textpresso	4006	9811	26692	37	22937
+MetaMap	866	126	25823	1174	31446
+Scigraph	5016	1639	6494	780	27607

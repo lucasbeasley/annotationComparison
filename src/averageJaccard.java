@@ -38,6 +38,7 @@ public class averageJaccard {
         private String ref = "";            //ontology term
         private int startIndex = -1;        //term's starting index in paper
         private int endIndex = -1;          //term's ending index in paper
+        private int level = 0;              //ID's level in ontology
 
         //getters/setters
         public String getTerm(){ return this.term; }
@@ -45,12 +46,13 @@ public class averageJaccard {
         private String getRef(){ return this.ref; }
         private int getStartIndex(){ return this.startIndex; }
         private int getEndIndex(){ return this.endIndex; }
+        private int getLevel(){ return this.level; }
         public void setTerm(String term){ this.term = term; }
         public void setID(String id){ this.id = id; }
         private void setRef(String ref){ this.ref = ref; }
         private void setStartIndex(int start){ this.startIndex = start; }
         private void setEndIndex(int end){ this.endIndex = end; }
-
+        private void setLevel(int level){ this.level = level; }
     }
 
 //    /***
@@ -103,6 +105,7 @@ public class averageJaccard {
         private int partials = 0;                                   //total number of partial matches
         private int unique = 0;                                     //total number of unique GO:IDs
         private int newannotations = 0;                             //total number of new annotations
+        private int falsenegatives = 0;                             //total number of false negatives
         private List<PartialMatch> matches = new ArrayList<>();     //list of partial matches
 
         //getters/setters
@@ -111,12 +114,13 @@ public class averageJaccard {
         private int getUnique(){ return unique; }
         private int getNewAnnotations(){ return newannotations; }
         private List<PartialMatch> getMatches(){ return matches; }
+        private int getFalseNegatives(){ return falsenegatives; }
         private void setExacts(int exacts){ this.exacts = exacts; }
         private void setMatches(List<PartialMatch> matches){ this.matches = matches; }
         private void setNewAnnotations(int newannotations){ this.newannotations = newannotations; }
         private void setUnique(int unique){ this.unique = unique; }
         private void setPartials(int partials){ this.partials = partials;}
-
+        private void setFalseNegatives(int falseNegatives){ this.falsenegatives = falseNegatives; }
     }
 
     public static void main(String[] args) {
@@ -134,6 +138,17 @@ public class averageJaccard {
         File scigraph = new File("input/scigraphAnnotations");
         //GO Ontology file
         File ontology = new File("go-plus.owl");
+        //GO BP ID file
+        File bp_file = new File("input/idFiles/bp_classes.tsv");
+        //GO CC ID file
+        File cc_file = new File("input/idFiles/cc_classes.tsv");
+        //GO MF ID file
+        File mf_file = new File("input/idFiles/mf_classes.tsv");
+
+        //Pull all of the GO:IDs into their separate branched lists
+        List<String> bp_ids = avgj.pullIDs(bp_file);
+        List<String> cc_ids = avgj.pullIDs(cc_file);
+        List<String> mf_ids = avgj.pullIDs(mf_file);
 
         //Pull all annotations into maps
         Map<String, List<Annotation>> craft_annos = avgj.mergeMaps(avgj.pullCRAFTAnnos(craft_cc),
@@ -143,6 +158,28 @@ public class averageJaccard {
         Map<String, List<Annotation>> metamap_annos = avgj.pullAnnos(metamap);
         Map<String, List<Annotation>> scigraph_annos = avgj.pullAnnos(scigraph);
 
+        //Setup the ontology
+        avgj.setupOntology(ontology);
+
+        //Get the ontology level for all annotations
+        craft_annos = avgj.calculateLongestPaths(craft_annos);
+        ncbo_annos = avgj.calculateLongestPaths(ncbo_annos);
+        textpresso_annos = avgj.calculateLongestPaths(textpresso_annos);
+        metamap_annos = avgj.calculateLongestPaths(metamap_annos);
+        scigraph_annos = avgj.calculateLongestPaths(scigraph_annos);
+
+        //Get the level distribution for CRAFT/each tool.
+        Map<Integer, Integer> craft_level_dist = avgj.calculateLevelDistribution(craft_annos);
+        Map<Integer, Integer> ncbo_level_dist = avgj.calculateLevelDistribution(ncbo_annos);
+        Map<Integer, Integer> textpresso_level_dist = avgj.calculateLevelDistribution(textpresso_annos);
+        Map<Integer, Integer> metamap_level_dist = avgj.calculateLevelDistribution(metamap_annos);
+        Map<Integer, Integer> scigraph_level_dist = avgj.calculateLevelDistribution(scigraph_annos);
+
+        //Write level distributions to file
+        File level_output = new File("output/level_distribution");
+        avgj.writeOut(craft_level_dist, ncbo_level_dist, textpresso_level_dist, metamap_level_dist, scigraph_level_dist,
+                level_output);
+
         //Compare CRAFT annotations to tools, get the match counts (total, partial, new), and list of partial matches
         Map<String, CountsAndPartials> ncbo_counts = avgj.compareAnnotations(craft_annos, ncbo_annos);
         Map<String, CountsAndPartials> textpresso_counts = avgj.compareAnnotations(craft_annos, textpresso_annos);
@@ -150,7 +187,7 @@ public class averageJaccard {
         Map<String, CountsAndPartials> scigraph_counts = avgj.compareAnnotations(craft_annos, scigraph_annos);
 
         //Retrieve the total counts (exact, partial, new annotations, unique GO:IDs) for each tool and CRAFT
-        int[] craft_total = avgj.craftTotalCounts(craft_annos);
+        int[] craft_total = avgj.getCRAFTTotalCounts(craft_annos, bp_ids, cc_ids, mf_ids);
         CountsAndPartials ncbo_total = avgj.totalCounts(ncbo_counts);
         CountsAndPartials textpresso_total = avgj.totalCounts(textpresso_counts);
         CountsAndPartials metamap_total = avgj.totalCounts(metamap_counts);
@@ -163,9 +200,6 @@ public class averageJaccard {
         //Write total counts to files
         File totals_output = new File("output/totals");
         avgj.writeOut(craft_total, ncbo_total, textpresso_total, metamap_total, scigraph_total, totals_output);
-
-        //Setup the ontology
-        avgj.setupOntology(ontology);
 
         //Calculate Jaccard values for each paper
         Map<String, double[]> ncbo_jaccards = avgj.calculateJaccards(ncbo_counts);
@@ -396,6 +430,32 @@ public class averageJaccard {
     }
 
     /***
+     * pullIDs pulls the GO:IDs from a file (BP, CC, MF)
+     * @param idFile - file containing the IDs within a branch of the GO
+     * @return list containing the IDs within a branch of the GO
+     */
+    private List<String> pullIDs(File idFile){
+        List<String> ids = new ArrayList<>();
+        String line, id;
+        String[] goidMappings;
+        try {
+            Scanner scan = new Scanner(idFile);
+            while(scan.hasNextLine()){
+                line = scan.nextLine();
+                goidMappings = line.split("\t");
+                id = goidMappings[0].replace("_", ":");
+                if(!ids.contains(id)){
+                    ids.add(id);
+                }
+            }
+        }catch (FileNotFoundException ex){
+            System.out.println("Error: File not found.");
+        }
+
+        return ids;
+    }
+
+    /***
      * annotationComparison counts the number of total and partial annotation matches, as well as newly created
      * annotations, for a tool vs. the CRAFT corpus. It also creates a list of the partial matches (GO:IDs that were
      * matched by CRAFT and tool, and indices of the tagged term).
@@ -414,8 +474,7 @@ public class averageJaccard {
         Counts for total number of exact matches for a tool, total number of partial matches for a tool,
         total number of newly created annotations for a tool, total number of annotations for the CRAFT Corpus.
          */
-        int total_exacts = 0, total_partials = 0, total_news = 0, craft_annotations = 0;
-
+        boolean flag;
         //pull craft keys and lists
         for(String key: craft.keySet()){
             craftannos = craft.get(key);
@@ -426,9 +485,11 @@ public class averageJaccard {
                 //pull list of annos and check against craft
                 toolannos = tool.get(key);
                 for(Annotation a: craftannos){
+                    flag = false;
                     for(Annotation b: toolannos){
                         //if both contain same indices
                         if(a.getStartIndex() == b.getStartIndex() && a.getEndIndex() == b.getEndIndex()){
+                            flag = true;
                             //same GO:ID?
                             if(a.getID().equals(b.getID())){
                                 counts.setExacts(counts.getExacts()+1); //both same, add to total match count
@@ -441,15 +502,14 @@ public class averageJaccard {
                             }
                         }
                     }
+                    //if CRAFT has annotation at indices but tool does not, increase false negatives
+                    if(!flag){
+                        counts.setFalseNegatives(counts.getFalseNegatives()+1);
+                    }
                 }
                 //total new annotations that the tool created
                 counts.setNewAnnotations(toolannos.size() - (counts.getExacts() + counts.getPartials()));
                 counts.setMatches(partialMatchList);
-                //get counts for tool and CRAFT
-                total_exacts += counts.getExacts();
-                total_partials += counts.getPartials();
-                total_news += counts.getNewAnnotations();
-                craft_annotations += craftannos.size();
                 //add counts/partial matches to map
                 countsperpaper.put(key, counts);
             }
@@ -487,6 +547,7 @@ public class averageJaccard {
             total.setExacts(total.getExacts() + temp.getExacts());
             total.setPartials(total.getPartials() + temp.getPartials());
             total.setNewAnnotations(total.getNewAnnotations() + temp.getNewAnnotations());
+            total.setFalseNegatives(total.getFalseNegatives() + temp.getFalseNegatives());
         }
         return total;
     }
@@ -495,14 +556,23 @@ public class averageJaccard {
      * craftTotalCounts gets the total number of annotations and unique annotations in the corpus, and average
      * non-unique annotations per file.
      * @param craft_annos - map of annotations for each file in the corpus
-     * @return integer array containing the total number of annotations in the corpus, total number of unique
-     * annotations in the corpus, and the average number of non-unique annotations per file.
+     * @return integer array containing the counts for the CRAFT
      */
-    private int[] craftTotalCounts(Map<String, List<Annotation>> craft_annos){
-        int[] craft_total = {0, 0, 0};
+    private int[] getCRAFTTotalCounts(Map<String, List<Annotation>> craft_annos, List<String> bp_ids,
+                                         List<String> cc_ids, List<String> mf_ids){
+        /* craft_total: [0] total annotations in corpus, [1] total unique annotations in corpus,
+        [2] avg nonunique annotations per paper, [3] total bp annotations, [4] total unique bp IDs, 
+        [5] total cc annotations, [6] total unique cc IDs, [7] total mf annotations, [8] total unique mf IDs,
+        [9] total independent_continuants, [10] total annotations with ids not found, [11] total ids not found
+         */
+        String id;
+        int[] craft_total = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0};
         Map<String, Integer> craft_nonunique = new HashMap<>();
         List<String> craft_goids = new ArrayList<>();
-
+        List<String> seen_bps = new ArrayList<>();
+        List<String> seen_ccs = new ArrayList<>();
+        List<String> seen_mfs = new ArrayList<>();
+        List<String> not_found = new ArrayList<>();
         for(String key: craft_annos.keySet()){
             int paper_nonunique, paper_total = 0;
             List<String> paper_goids = new ArrayList<>();
@@ -519,7 +589,51 @@ public class averageJaccard {
                 if(!paper_goids.contains(a.getID())){
                     paper_goids.add(a.getID());
                 }
+
+                id = a.getID();
+                if(id.equals("independent_continuant")){
+                    craft_total[9]++;
+                }
+                //check if a BP annotation
+                else if(bp_ids.contains(id)){
+                    //increase total bp annotation count
+                    craft_total[3]++;
+                    if(!seen_bps.contains(id)){
+                        //increase unique bp annotation count and add to "seen" list
+                        craft_total[4]++;
+                        seen_bps.add(id);
+                    }
+                }
+                //check if a CC annotation
+                else if(cc_ids.contains(id)){
+                    //increase total cc annotation count
+                    craft_total[5]++;
+                    if(!seen_ccs.contains(id)){
+                        //increase unique cc annotation count and add to "seen" list
+                        craft_total[6]++;
+                        seen_ccs.add(id);
+                    }
+                }
+                //check if a MF annotation
+                else if(mf_ids.contains(id)){
+                    //increase total mf annotation count
+                    craft_total[7]++;
+                    if(!seen_mfs.contains(id)){
+                        //increase unique mf annotation count and add to "seen" list
+                        craft_total[8]++;
+                        seen_mfs.add(id);
+                    }
+                }
+                else{
+                    System.out.println("Error: ID " + id + " not found.");
+                    if(!not_found.contains(id)){
+                        not_found.add(id);
+                        craft_total[11]++;
+                    }
+                    craft_total[10]++;
+                }
             }
+            
             //calculate the total number of nonunique annotations within a paper
             paper_nonunique = paper_total - paper_goids.size();
             craft_nonunique.put(key, paper_nonunique);
@@ -625,6 +739,58 @@ public class averageJaccard {
         OWLClass owlClass = this.factory.getOWLClass(IRI.create(this.go_prefix + goID));
         NodeSet<OWLClass> superClasses = this.reasoner.getSuperClasses(owlClass, false);
         return superClasses.getFlattened();
+    }
+
+    private Map<String, List<Annotation>> calculateLongestPaths(Map<String, List<Annotation>> annos){
+        String id;
+        //get annotations per file
+        for(String key : annos.keySet()){
+            for(Annotation a : annos.get(key)){
+                //get the level of the annotation
+                id = a.getID().replace(":", "_");
+                a.setLevel(getLongestPathToID(id));
+            }
+        }
+        return annos;
+    }
+
+    public int getLongestPathToID(String goID){
+        int maxLevel = 0, level;
+        OWLClass owlClass = this.factory.getOWLClass(IRI.create(this.go_prefix + goID));
+        //get only the direct super classes for the GO:ID
+        NodeSet<OWLClass> supers = this.reasoner.getSuperClasses(owlClass, true);
+        for(Node<OWLClass> parent : supers){
+            if (parent.isTopNode()){
+                break;
+            }
+            level = getLongestPathToID(parent.getRepresentativeElement().getIRI().getShortForm());
+            if (level > maxLevel){
+                maxLevel = level;
+            }
+        }
+        return maxLevel + 1;
+    }
+
+    private Map<Integer, Integer> calculateLevelDistribution(Map<String, List<Annotation>> annos){
+        Map<Integer, Integer> level_dist = new HashMap<>();
+        int level, curr_count;
+        //pull annotations from file
+        for(String key : annos.keySet()){
+            for(Annotation a : annos.get(key)){
+                //get anno level
+                level = a.getLevel();
+                //add level to map if doesn't exist
+                if(!level_dist.containsKey(level)){
+                    level_dist.put(level, 1);
+                }
+                //increase counter if map contains level
+                else{
+                    curr_count = level_dist.get(level);
+                    level_dist.replace(level, curr_count+1);
+                }
+            }
+        }
+        return level_dist;
     }
 
     /***
@@ -764,17 +930,29 @@ public class averageJaccard {
     private void writeOut(int[] craft, CountsAndPartials ncbo, CountsAndPartials textpresso, CountsAndPartials mm,
                           CountsAndPartials scigraph, File filename){
         try(PrintWriter writer = new PrintWriter(filename)){
-            writer.println("CRAFT\tTotal: " + craft[0] + "\tUnique GO:IDs: " + craft[1] +
-                    "\tAverage Non-Unique Annotations per paper: " + craft[2] + "\n");
-            writer.println("Tool\tExacts\tPartials\tNew\tUniqueGOs\n");
+            writer.println("CRAFT");
+            writer.println("--------------------------");
+            writer.println("Total: " + craft[0]);
+            writer.println("Unique GO:IDs: " + craft[1]);
+            writer.println("Average Non-Unique Annotations per paper: " + craft[2] + "\n");
+            writer.println("GO Distribution in CRAFT");
+            writer.println("--------------------------");
+            writer.println("BP: Total: " + craft[3] + "\tUnique: " + craft[4]);
+            writer.println("CC: Total: " + craft[5] + "\tUnique: " + craft[6]);
+            writer.println("MF: Total: " + craft[7] + "\tUnique: " + craft[8] + "\n");
+            writer.println("Total independent_continuants: " + craft[9]);
+            writer.println("Total annotations with missing IDs (not counting independent_continuants): " + craft[10]);
+            writer.println("Total IDs not found: " + craft[11] + "\n\n");
+            writer.println("Tool\tExacts\tPartials\tNew\tUniqueGOs\tFalseNegatives\n");
             writer.println("NCBO\t" + ncbo.getExacts() + "\t" + ncbo.getPartials() + "\t" + ncbo.getNewAnnotations()
-                    + "\t" + ncbo.getUnique());
+                    + "\t" + ncbo.getUnique() + "\t" + ncbo.getFalseNegatives());
             writer.println("Textpresso\t" + textpresso.getExacts() + "\t" + textpresso.getPartials()
-                    + "\t" + textpresso.getNewAnnotations() + "\t" + textpresso.getUnique());
+                    + "\t" + textpresso.getNewAnnotations() + "\t" + textpresso.getUnique() + "\t"
+                    + textpresso.getFalseNegatives());
             writer.println("MetaMap\t" + mm.getExacts() + "\t" + mm.getPartials() + "\t" + mm.getNewAnnotations()
-                    + "\t" + mm.getUnique());
+                    + "\t" + mm.getUnique() + "\t" + mm.getFalseNegatives());
             writer.println("Scigraph\t" + scigraph.getExacts() + "\t" + scigraph.getPartials() + "\t"
-                    + scigraph.getNewAnnotations() + "\t" + scigraph.getUnique());
+                    + scigraph.getNewAnnotations() + "\t" + scigraph.getUnique() + "\t" + scigraph.getFalseNegatives());
         }catch(FileNotFoundException ex){
             System.out.println("Error: Could not write to file " + filename);
         }
@@ -796,6 +974,44 @@ public class averageJaccard {
             writer.println("Textpresso\t" + textpressovalues[0] + "\t" + textpressovalues[1]);
             writer.println("MetaMap\t" + metamapvalues[0] + "\t" + metamapvalues[1]);
             writer.println("Scigraph\t" + scigraphvalues[0] + "\t" + scigraphvalues[1]);
+        }catch(FileNotFoundException ex){
+            System.out.println("Error: Could not write to file " + filename);
+        }
+    }
+
+    private void writeOut(Map<Integer, Integer> craftvalues, Map<Integer, Integer> ncbovalues,
+                          Map<Integer, Integer> textpressovalues, Map<Integer, Integer> metamapvalues,
+                          Map<Integer, Integer> scigraphvalues, File filename){
+        try(PrintWriter writer = new PrintWriter(filename)){
+            writer.println("CRAFT Distribution");
+            writer.println("--------------------------");
+            for(Integer key : craftvalues.keySet()){
+                writer.println("Level " + key.toString() + ": " + craftvalues.get(key).toString());
+            }
+            writer.println("\n");
+            writer.println("Textpresso Distribution");
+            writer.println("--------------------------");
+            for(Integer key : textpressovalues.keySet()){
+                writer.println("Level " + key.toString() + ": " + textpressovalues.get(key).toString());
+            }
+            writer.println("\n");
+            writer.println("MetaMap Distribution");
+            writer.println("--------------------------");
+            for(Integer key : metamapvalues.keySet()){
+                writer.println("Level " + key.toString() + ": " + metamapvalues.get(key).toString());
+            }
+            writer.println("\n");
+            writer.println("NCBO Distribution");
+            writer.println("--------------------------");
+            for(Integer key : ncbovalues.keySet()){
+                writer.println("Level " + key.toString() + ": " + ncbovalues.get(key).toString());
+            }
+            writer.println("\n");
+            writer.println("Scigraph Distribution");
+            writer.println("--------------------------");
+            for(Integer key : scigraphvalues.keySet()){
+                writer.println("Level " + key.toString() + ": " + scigraphvalues.get(key).toString());
+            }
         }catch(FileNotFoundException ex){
             System.out.println("Error: Could not write to file " + filename);
         }
