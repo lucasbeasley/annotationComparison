@@ -19,7 +19,9 @@ import org.semanticweb.owlapi.reasoner.*;
  * Created by:      Lucas Beasley
  * Date:            10/30/17
  * Purpose:         Compares annotations from various tools against manually annotated papers in the CRAFT corpus,
- *                  then computes the average Jaccard values for each paper.
+ *                  then computes the average Jaccard values for each paper. Also calculates the counts of the total
+ *                  annotations (splitting into exact matches, partial matches, and new annotations for a tool) and
+ *                  the number of unique Gene Ontology annotations for the CRAFT and all tools.
  */
 public class averageJaccard {
     private OWLOntology go_ontology;
@@ -51,30 +53,30 @@ public class averageJaccard {
 
     }
 
-    /***
-     * Annotation class for MetaMap annotations
-     */
-    public class mmAnnotation extends Annotation{
-        private String prefName = "";       //preferred name
-        private String cuid = "";           //CUID
-
-        //getters/setters
-        public String getPrefName(){ return this.prefName; }
-        public String getCuid(){ return this.cuid; }
-        private void setPrefName(String prefName){ this.prefName = prefName; }
-        private void setCuid(String cuid){ this.cuid = cuid; }
-    }
-
-    /***
-     * Annotation class for NCBO annotations
-     */
-    public class ncboAnnotation extends Annotation{
-        private String matchType = "";      //match type of annotation (pref or syn)
-
-        //getter/setter
-        public String getMatchType(){ return this.matchType; }
-        private void setMatchType(String matchType){ this.matchType = matchType; }
-    }
+//    /***
+//     * Annotation class for MetaMap annotations
+//     */
+//    public class mmAnnotation extends Annotation{
+//        private String prefName = "";       //preferred name
+//        private String cuid = "";           //CUID
+//
+//        //getters/setters
+//        public String getPrefName(){ return this.prefName; }
+//        public String getCuid(){ return this.cuid; }
+//        private void setPrefName(String prefName){ this.prefName = prefName; }
+//        private void setCuid(String cuid){ this.cuid = cuid; }
+//    }
+//
+//    /***
+//     * Annotation class for NCBO annotations
+//     */
+//    public class ncboAnnotation extends Annotation{
+//        private String matchType = "";      //match type of annotation (pref or syn)
+//
+//        //getter/setter
+//        public String getMatchType(){ return this.matchType; }
+//        private void setMatchType(String matchType){ this.matchType = matchType; }
+//    }
 
     /***
      * A PartialMatch contains the GO:IDs for a partial match (annotation with same indices, but different GO:ID), as
@@ -131,7 +133,7 @@ public class averageJaccard {
         //Directory for Scigraph Annotations
         File scigraph = new File("input/scigraphAnnotations");
         //GO Ontology file
-        File ontology = new File("go.owl");
+        File ontology = new File("go-plus.owl");
 
         //Pull all annotations into maps
         Map<String, List<Annotation>> craft_annos = avgj.mergeMaps(avgj.pullCRAFTAnnos(craft_cc),
@@ -148,17 +150,7 @@ public class averageJaccard {
         Map<String, CountsAndPartials> scigraph_counts = avgj.compareAnnotations(craft_annos, scigraph_annos);
 
         //Retrieve the total counts (exact, partial, new annotations, unique GO:IDs) for each tool and CRAFT
-        int[] craft_totals = {0, 0};
-        List<String> goids = new ArrayList<>();
-        for(String key: craft_annos.keySet()){
-            for(Annotation a: craft_annos.get(key)){
-                craft_totals[0]++;
-                if(!goids.contains(a.getID())){
-                    goids.add(a.getID());
-                }
-            }
-        }
-        craft_totals[1] = goids.size();
+        int[] craft_total = avgj.craftTotalCounts(craft_annos);
         CountsAndPartials ncbo_total = avgj.totalCounts(ncbo_counts);
         CountsAndPartials textpresso_total = avgj.totalCounts(textpresso_counts);
         CountsAndPartials metamap_total = avgj.totalCounts(metamap_counts);
@@ -170,7 +162,7 @@ public class averageJaccard {
 
         //Write total counts to files
         File totals_output = new File("output/totals");
-        avgj.writeOut(craft_totals, ncbo_total, textpresso_total, metamap_total, scigraph_total, totals_output);
+        avgj.writeOut(craft_total, ncbo_total, textpresso_total, metamap_total, scigraph_total, totals_output);
 
         //Setup the ontology
         avgj.setupOntology(ontology);
@@ -322,7 +314,7 @@ public class averageJaccard {
 
         //check 2nd map
         for(String key: map2.keySet()){
-            //if map1 has the same key then merge lists, sort, and replace list in map1
+            //if map1 has the same file then merge lists, sort, and replace list in map1
             if(map1.containsKey(key)){
                 list1 = map1.get(key);
                 list2 = map2.get(key);
@@ -500,6 +492,53 @@ public class averageJaccard {
     }
 
     /***
+     * craftTotalCounts gets the total number of annotations and unique annotations in the corpus, and average
+     * non-unique annotations per file.
+     * @param craft_annos - map of annotations for each file in the corpus
+     * @return integer array containing the total number of annotations in the corpus, total number of unique
+     * annotations in the corpus, and the average number of non-unique annotations per file.
+     */
+    private int[] craftTotalCounts(Map<String, List<Annotation>> craft_annos){
+        int[] craft_total = {0, 0, 0};
+        Map<String, Integer> craft_nonunique = new HashMap<>();
+        List<String> craft_goids = new ArrayList<>();
+
+        for(String key: craft_annos.keySet()){
+            int paper_nonunique, paper_total = 0;
+            List<String> paper_goids = new ArrayList<>();
+            for(Annotation a: craft_annos.get(key)){
+                //increment total count of annotations for entire corpus
+                craft_total[0]++;
+                //increment total count of annotations for the current paper
+                paper_total++;
+                //keep track of the unique GO:IDs for the entire corpus
+                if(!craft_goids.contains(a.getID())){
+                    craft_goids.add(a.getID());
+                }
+                //keep track of the unique GO:IDs in the current paper
+                if(!paper_goids.contains(a.getID())){
+                    paper_goids.add(a.getID());
+                }
+            }
+            //calculate the total number of nonunique annotations within a paper
+            paper_nonunique = paper_total - paper_goids.size();
+            craft_nonunique.put(key, paper_nonunique);
+        }
+        //calculate the average number of nonunique annotations in a paper
+        int total_nonunique = 0, avg_nonunique;
+        for(String key : craft_nonunique.keySet()){
+            total_nonunique += craft_nonunique.get(key);
+        }
+        avg_nonunique = total_nonunique / craft_nonunique.size();
+        //total number of unique annotations in corpus
+        craft_total[1] = craft_goids.size();
+        //average number of nonunique annotations in a paper
+        craft_total[2] = avg_nonunique;
+
+        return craft_total;
+    }
+
+    /***
      * calculateAverageJaccards calculates the intersection and union of the superclasses for CRAFT and the tool GO:IDs.
      * It then gets the Jaccard values and averages them.
      * @param toolcounts - map containing the filename and the list of partial matches (GO:IDs)
@@ -549,9 +588,7 @@ public class averageJaccard {
                         //retrieve the intersection and union of the sets of superclasses
                         Set<String> intersection = Sets.intersection(craftsupers, toolsupers);
                         Set<String> union = Sets.union(craftsupers, toolsupers);
-//                        if (key.equals("15492776")) {
-//                            boolean bool = true;
-//                        }
+
                         //remove root from sets and add originating IDs into union set
                         all.addAll(union);
                         all.remove("Thing");
@@ -559,8 +596,8 @@ public class averageJaccard {
                         all.add(toolID);
                         inbetween.addAll(intersection);
                         inbetween.remove("Thing");
-                        //                    System.out.println("Union: " + all);
-                        //                    System.out.println("Intersection: " + inbetween);
+//                        System.out.println("Union: " + all);
+//                        System.out.println("Intersection: " + inbetween);
                         //calculate jaccard values
                         jaccards[arrIndex] = (double) (inbetween.size()) / (double) (all.size());
 
@@ -727,7 +764,8 @@ public class averageJaccard {
     private void writeOut(int[] craft, CountsAndPartials ncbo, CountsAndPartials textpresso, CountsAndPartials mm,
                           CountsAndPartials scigraph, File filename){
         try(PrintWriter writer = new PrintWriter(filename)){
-            writer.println("CRAFT\tTotal: " + craft[0] + "\tUnique GO:IDs: " + craft[1] + "\n");
+            writer.println("CRAFT\tTotal: " + craft[0] + "\tUnique GO:IDs: " + craft[1] +
+                    "\tAverage Non-Unique Annotations per paper: " + craft[2] + "\n");
             writer.println("Tool\tExacts\tPartials\tNew\tUniqueGOs\n");
             writer.println("NCBO\t" + ncbo.getExacts() + "\t" + ncbo.getPartials() + "\t" + ncbo.getNewAnnotations()
                     + "\t" + ncbo.getUnique());
