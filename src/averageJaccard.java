@@ -161,6 +161,16 @@ public class averageJaccard {
         //Setup the ontology
         avgj.setupOntology(ontology);
 
+        //Bucket annotations based upon ref word count
+        Map<Integer, double[]> ncbo_bucketed = avgj.bucketsAndJaccards(ncbo_annos, craft_annos);
+        Map<Integer, double[]> textpresso_bucketed = avgj.bucketsAndJaccards(textpresso_annos, craft_annos);
+        Map<Integer, double[]> metamap_bucketed = avgj.bucketsAndJaccards(metamap_annos, craft_annos);
+        Map<Integer, double[]> scigraph_bucketed = avgj.bucketsAndJaccards(scigraph_annos, craft_annos);
+        Map<Integer, double[]> craft_bucketed = avgj.buckets(craft_annos);
+        //Write out Word count distribution, mean, and 2 standard error
+        File bucket_file = new File("output/bucket");
+        avgj.writeOutBuckets(craft_bucketed, ncbo_bucketed, textpresso_bucketed, metamap_bucketed, scigraph_bucketed, bucket_file);
+
         //Get the ontology level for all annotations
         craft_annos = avgj.calculateLongestPaths(craft_annos);
         ncbo_annos = avgj.calculateLongestPaths(ncbo_annos);
@@ -234,7 +244,6 @@ public class averageJaccard {
         avgj.writeOut(ncbo_avg_mean_and_dev, textpresso_avg_mean_and_dev, metamap_avg_mean_and_dev,
                 scigraph_avg_mean_and_dev, tools_output);
 
-
         boolean bool = true;
     }
 
@@ -249,7 +258,7 @@ public class averageJaccard {
         Annotation tempAnno;
         Scanner scan;
         String line, filename, class_id, start, end, text, go_id, ref, prevline;
-        int symbolIndex, nextSymbolIndex, starter, ender;
+        int symbolIndex, nextSymbolIndex, starter, ender, parenindex;
 
         for (File file: annoDirectory.listFiles()){
             try{
@@ -317,7 +326,20 @@ public class averageJaccard {
                         class_id = line.substring(line.indexOf("\"")+1, line.lastIndexOf("\""));
                         line = scan.nextLine();
                         go_id = line.substring(line.indexOf("\"")+1, line.lastIndexOf("\""));
-                        ref = line.substring(line.indexOf(">")+1, line.lastIndexOf("<"));
+                        //check if ref has synonyms
+                        if(line.contains("({")){
+                            parenindex = line.indexOf("({")-1;
+                        }
+                        else{
+                            parenindex = line.lastIndexOf("<");
+                        }
+                        //remove any synonyms or parenthesis statements
+                        ref = line.substring(line.indexOf(">")+1, parenindex);
+                        if(ref.contains("(") && ref.indexOf(")")-1 > ref.indexOf("(")+1)
+                        {
+                            ref = ref.substring(0, ref.indexOf("("));
+//                            boolean bool = true;
+                        }
                         //if annotation uses mention ID, replace with GO:ID and assign reference term
                         for (Annotation a: annotations){
                             if(a.getID().equals(class_id)){
@@ -377,7 +399,7 @@ public class averageJaccard {
         Annotation a;
         String filename, startIndex, endIndex, line;
         String[] values, fix;
-        int start, end;
+        int start, end, longestRef = 0;
 
         for(File f: annoDirectory.listFiles()){
             filename = f.getName();
@@ -552,6 +574,117 @@ public class averageJaccard {
         return total;
     }
 
+    private Map<Integer, double[]> buckets(Map<String, List<Annotation>> craft){
+        Map<Integer, double[]> craftbucket = new HashMap<>();
+        double[] craftcount;
+        int craftreflength;
+
+        for(String craftfile : craft.keySet()){
+            for(Annotation a : craft.get(craftfile)){
+                craftreflength = a.getRef().split(" ").length;
+                if(!craftbucket.containsKey(craftreflength)){
+                    craftcount = new double[1];
+                    craftcount[0] = 1;
+                    craftbucket.put(craftreflength, craftcount);
+                }
+                else{
+                    craftcount = craftbucket.get(craftreflength);
+                    craftcount[0]++;
+                    craftbucket.replace(craftreflength, craftcount);
+                }
+            }
+        }
+
+        return craftbucket;
+    }
+
+    private Map<Integer, double[]> bucketsAndJaccards(Map<String, List<Annotation>> tool, 
+                                                      Map<String, List<Annotation>> craft){
+        int craftreflength;
+        Map<Integer, double[]> bucketsandmeanstddev = new HashMap<>();
+        Map<Integer, List<Double>> bucketandjaccard = new HashMap<>();
+        List<Double> jaccards;
+        double jaccard;
+        
+        //bucket out CRAFT refs and check if tool has annotation at position
+        for(String craftfile : craft.keySet()){
+            for(String toolfile : tool.keySet()){
+                //check if same file
+                if(craftfile.equals(toolfile)){
+                    //pull all craft annotations
+                    for(Annotation a : craft.get(craftfile)){
+                        //bucket out depending on length of ref term
+                        craftreflength = a.getRef().split(" ").length;
+                        //TEST
+//                        if(craftreflength > 10){
+//                            System.out.println(a.getRef());
+//                            System.out.println(a.getID());
+//                        }
+                        //check if tool has anno in same spot
+                        for(Annotation b: tool.get(toolfile)){
+                            if(a.getStartIndex() == b.getStartIndex() && a.getEndIndex() == b.getEndIndex()){
+                                //calculate jaccard
+                                if(a.getID().equals(b.getID())){
+                                    jaccard = 1.0;
+                                }
+                                else{
+                                    jaccard = calculateJaccard(a.getID(), b.getID());
+                                }
+                                //add jaccard to bucket map
+                                if(!(bucketandjaccard.containsKey(craftreflength))){
+                                    jaccards = new ArrayList<>();
+                                    jaccards.add(jaccard);
+                                    bucketandjaccard.put(craftreflength, jaccards);
+                                }
+                                else{
+                                    jaccards = bucketandjaccard.get(craftreflength);
+                                    jaccards.add(jaccard);
+                                    bucketandjaccard.replace(craftreflength, jaccards);
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        
+        //calculate mean and std dev for each bucket
+        for(Integer i : bucketandjaccard.keySet()) {
+            double[] tool_jsd = new double[3];
+            double mean = 0.0, temp = 0.0, stddev, twostandard;
+            //get all jaccards for current bucket and calculate mean
+            jaccards = bucketandjaccard.get(i);
+            for (double j : jaccards) {
+                mean += j;
+            }
+            mean = mean / jaccards.size();
+
+            //calculate std dev
+            for (double j : jaccards) {
+                temp += (j - mean) * (j - mean);
+            }
+            temp = temp / (jaccards.size() - 1);
+            stddev = Math.sqrt(temp);
+
+            //calculate 2 standard errors of mean
+            twostandard = (2 * (stddev / (Math.sqrt(jaccards.size()))));
+
+            //round each value to two decimal places
+            mean = Math.round(mean * 100.0);
+            mean = mean / 100.0;
+            twostandard = Math.round(twostandard * 100.0);
+            twostandard = twostandard / 100.0;
+
+            //store matching annotation count, mean, and 2std
+            tool_jsd[0] = jaccards.size();
+            tool_jsd[1] = mean;
+            tool_jsd[2] = twostandard;
+            bucketsandmeanstddev.put(i, tool_jsd);
+        }
+        boolean bool = true;
+        return bucketsandmeanstddev;
+    }
+
     /***
      * craftTotalCounts gets the total number of annotations and unique annotations in the corpus, and average
      * non-unique annotations per file.
@@ -625,7 +758,7 @@ public class averageJaccard {
                     }
                 }
                 else{
-                    System.out.println("Error: ID " + id + " not found.");
+                    //System.out.println("Error: ID " + id + " not found.");
                     if(!not_found.contains(id)){
                         not_found.add(id);
                         craft_total[11]++;
@@ -729,6 +862,42 @@ public class averageJaccard {
         }
         return alljaccards;
     }
+    
+    private double calculateJaccard(String craftID, String toolID){
+        Set<String> all = new HashSet<>(), inbetween = new HashSet<>();
+        craftID = craftID.replace(":", "_");
+        toolID = toolID.replace(":", "_");
+
+        //get superclasses for craftID
+        Set<OWLClass> craftsupersOWL = getSupers(craftID);
+        Set<String> craftsupers = new HashSet<>();
+        for (OWLClass owlClass : craftsupersOWL) {
+            craftsupers.add(owlClass.getIRI().getShortForm());
+        }
+
+        //get superclasses for toolID
+        Set<OWLClass> toolsupersOWL = getSupers(toolID);
+        Set<String> toolsupers = new HashSet<>();
+        for (OWLClass owlClass : toolsupersOWL) {
+            toolsupers.add(owlClass.getIRI().getShortForm());
+        }
+
+        //retrieve the intersection and union of the sets of superclasses
+        Set<String> intersection = Sets.intersection(craftsupers, toolsupers);
+        Set<String> union = Sets.union(craftsupers, toolsupers);
+
+        //remove root from sets and add originating IDs into union set
+        all.addAll(union);
+        all.remove("Thing");
+        all.add(craftID);
+        all.add(toolID);
+        inbetween.addAll(intersection);
+        inbetween.remove("Thing");
+//                        System.out.println("Union: " + all);
+//                        System.out.println("Intersection: " + inbetween);
+        //calculate jaccard values
+        return((double) (inbetween.size()) / (double) (all.size()));
+    }
 
     /***
      * getSupers retrieves the superclasses of a GO:ID from the Gene Ontology
@@ -748,7 +917,12 @@ public class averageJaccard {
             for(Annotation a : annos.get(key)){
                 //get the level of the annotation
                 id = a.getID().replace(":", "_");
-                a.setLevel(getLongestPathToID(id));
+                if(id.equals("independent_continuant")){
+                    a.setLevel(-2);
+                }
+                else {
+                    a.setLevel(getLongestPathToID(id));
+                }
             }
         }
         return annos;
@@ -756,14 +930,29 @@ public class averageJaccard {
 
     public int getLongestPathToID(String goID){
         int maxLevel = 0, level;
+        String p_id;
         OWLClass owlClass = this.factory.getOWLClass(IRI.create(this.go_prefix + goID));
         //get only the direct super classes for the GO:ID
         NodeSet<OWLClass> supers = this.reasoner.getSuperClasses(owlClass, true);
         for(Node<OWLClass> parent : supers){
-            if (parent.isTopNode()){
+            p_id = parent.getRepresentativeElement().getIRI().getShortForm();
+            if (p_id.equals("GO_0008150")){
+                //biological process root
                 break;
             }
-            level = getLongestPathToID(parent.getRepresentativeElement().getIRI().getShortForm());
+            if (p_id.equals("GO_0005575")){
+                //cellular component root
+                break;
+            }
+            if (p_id.equals("GO_0003674")){
+                //molecular function root
+                break;
+            }
+            if (p_id.equals("Thing")){
+                //hits GO root
+                return 0;
+            }
+            level = getLongestPathToID(p_id);
             if (level > maxLevel){
                 maxLevel = level;
             }
@@ -773,20 +962,34 @@ public class averageJaccard {
 
     private Map<Integer, Integer> calculateLevelDistribution(Map<String, List<Annotation>> annos){
         Map<Integer, Integer> level_dist = new HashMap<>();
+        List<String> seen_ids = new ArrayList<>();
+        String id;
         int level, curr_count;
+        //System.out.println("break");
         //pull annotations from file
         for(String key : annos.keySet()){
             for(Annotation a : annos.get(key)){
-                //get anno level
-                level = a.getLevel();
-                //add level to map if doesn't exist
-                if(!level_dist.containsKey(level)){
-                    level_dist.put(level, 1);
-                }
-                //increase counter if map contains level
-                else{
-                    curr_count = level_dist.get(level);
-                    level_dist.replace(level, curr_count+1);
+                //check if id seen, if not add to level dist.
+                id = a.getID();
+                if(!seen_ids.contains(id)) {
+                    seen_ids.add(id);
+                    //get anno level
+                    level = a.getLevel();
+                    //obsolete ID
+                    if (level == 0 && !(id.equals("GO:0008150") || id.equals("GO:0005575") || id.equals("GO:0003674"))){
+                        //System.out.println(id);
+                        level = -1;
+                        a.setLevel(-1);
+                    }
+                    //add level to map if doesn't exist
+                    if (!level_dist.containsKey(level)) {
+                        level_dist.put(level, 1);
+                    }
+                    //increase counter if map contains level
+                    else {
+                        curr_count = level_dist.get(level);
+                        level_dist.replace(level, curr_count + 1);
+                    }
                 }
             }
         }
@@ -1014,6 +1217,49 @@ public class averageJaccard {
             }
         }catch(FileNotFoundException ex){
             System.out.println("Error: Could not write to file " + filename);
+        }
+    }
+    
+    private void writeOutBuckets(Map<Integer, double[]> craft, Map<Integer, double[]> ncbo, Map<Integer, double[]> textpresso,
+                          Map<Integer, double[]> metamap, Map<Integer, double[]> scigraph, File filename){
+        double[] tool;
+        try(PrintWriter writer = new PrintWriter(filename)){
+            writer.println("CRAFT");
+            writer.println("--------------------------");
+            for(Integer i : craft.keySet()){
+                tool = craft.get(i);
+                writer.println(i.toString() + "\t" + tool[0]);
+            }
+            writer.println("\nNCBO");
+            writer.println("--------------------------");
+            writer.println("Bucket\tCount\tMean\tTwoStandard");
+            for (Integer i : ncbo.keySet()){
+                tool = ncbo.get(i);
+                writer.println(i.toString() + "\t" + tool[0] + "\t" + tool[1] + "\t" + tool[2]);
+            }
+            writer.println("\nTextpresso");
+            writer.println("--------------------------");
+            writer.println("Bucket\tCount\tMean\tTwoStandard");
+            for (Integer i : textpresso.keySet()){
+                tool = textpresso.get(i);
+                writer.println(i.toString() + "\t" + tool[0] + "\t" + tool[1] + "\t" + tool[2]);
+            }
+            writer.println("\nMetaMap");
+            writer.println("--------------------------");
+            writer.println("Bucket\tCount\tMean\tTwoStandard");
+            for (Integer i : metamap.keySet()){
+                tool = metamap.get(i);
+                writer.println(i.toString() + "\t" + tool[0] + "\t" + tool[1] + "\t" + tool[2]);
+            }
+            writer.println("\nScigraph");
+            writer.println("--------------------------");
+            writer.println("Bucket\tCount\tMean\tTwoStandard");
+            for (Integer i : scigraph.keySet()){
+                tool = scigraph.get(i);
+                writer.println(i.toString() + "\t" + tool[0] + "\t" + tool[1] + "\t" + tool[2]);
+            }
+        }catch(FileNotFoundException ex){
+        System.out.println("Error: Could not write to file " + filename);
         }
     }
 }
